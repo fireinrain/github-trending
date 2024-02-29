@@ -3,6 +3,9 @@
 name: Daily Github Trending
 
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron: "0 2 * * *"
 
