@@ -1,5 +1,6 @@
 from telegram import Bot
 import os
+import asyncio
 
 # Replace 'YOUR_BOT_TOKEN' with the token you received from BotFather
 BOT_TOKEN = None
@@ -16,10 +17,14 @@ else:
     print(f"you must provide a chat_id!")
 
 
-def send_message2bot(message: str):
+async def send_message2bot(message: str):
     bot = Bot(BOT_TOKEN)
-    bot.send_message(chat_id=CHAT_ID, text=message, parse_mode="MarkdownV2")
+    async with bot:
+        # print(await bot.get_me())
+        print(message)
+        await bot.send_message(chat_id=CHAT_ID, text=message, parse_mode="MarkdownV2")
 
 
 if __name__ == '__main__':
-    send_message2bot("你好")
+    asyncio.run(send_message2bot("你好"))
+

@@ -1,11 +1,11 @@
 # coding:utf-8
-
+import asyncio
 import os
 import datetime
 import requests
 import urllib.parse
 from pyquery import PyQuery as pq
-
+from datetime import datetime
 import telegrambot
 
 
@@ -95,7 +95,7 @@ def convert_result_content(results):
     """
     Format all results to a string
     """
-    strdate = datetime.datetime.now().strftime('%Y-%m-%d')
+    strdate = datetime.now().strftime('%Y-%m-%d')
     content = ''
     for result in results:
         content = content + u"* 【{strdate}】[{title}]({url}) - {description}\n".format(
@@ -133,13 +133,18 @@ def get_archived_contents():
     return archived_contents
 
 
-def format_date2_tg_message(message: dict) -> str:
+def format_date2_tg_message(message: dict, lang: str) -> str:
+    current_date = datetime.now()
+
+    # 格式化日期为"20201112"形式
+    formatted_date = current_date.strftime("%Y%m%d")
     return (f"`{message['title']}`\n"
-            f"`{message['description']}\n"
-            f"[Repo URL]({message['url']})")
+            f"`{message['description']}`\n"
+            f"[Repo URL]({message['url']})\n"
+            f"\#日期{formatted_date} \#{lang}")
 
 
-def job():
+async def job():
     """
     Get archived contents
     """
@@ -147,15 +152,18 @@ def job():
 
     ''' Start the scrape job
     '''
-    languages = ['', 'java', 'python', 'go', 'javascript', 'c', 'c++', 'c#', 'rust', 'html', 'css', 'unknown']
+    languages = ['', 'java', 'python', 'go', 'javascript', 'c', 'c++', 'c#', 'rust', 'html', 'unknown']
     for lang in languages:
         results = scrape_lang(lang)
+        if lang == '':
+            lang = 'all'
         # push to telegram bot
         for key, value in results.items():
-            format_data = format_date2_tg_message(value)
-            telegrambot.send_message2bot(format_data)
+            format_data = format_date2_tg_message(value, lang)
+            await telegrambot.send_message2bot(format_data)
+            await asyncio.sleep(2)
         write_markdown(lang, results, archived_contents)
 
 
 if __name__ == '__main__':
-    job()
+    asyncio.run(job())
