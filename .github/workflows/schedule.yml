@@ -1,5 +1,4 @@
 # This workflow will scrap GitHub trending projects daily.
-
 name: Daily Github Trending
 
 on:
