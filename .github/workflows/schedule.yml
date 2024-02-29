@@ -14,8 +14,8 @@ jobs:
 
     runs-on: ubuntu-latest
     env:
-      TG_CHAT_ID: ${{ env.TG_CHAT_ID }}
-      TG_BOT_TOKEN: ${{ env.TG_BOT_TOKEN}}
+      TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+      TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN}}
     steps:
     - name: Checkout
       uses: actions/checkout@v2
