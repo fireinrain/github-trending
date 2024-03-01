@@ -157,6 +157,10 @@ async def job():
         results = scrape_lang(lang)
         if lang == '':
             lang = 'all'
+        if lang == 'c++':
+            lang = 'c\+\+'
+        if lang == 'c#':
+            lang = 'c\#'
         # push to telegram bot
         for key, value in results.items():
             format_data = format_date2_tg_message(value, lang)
