@@ -167,6 +167,12 @@
 
 ## Python
 
+* 【2024-03-02】[kyegomez / BitNet](https://github.com/kyegomez/BitNet) - Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch
+* 【2024-03-02】[mbzuai-oryx / MobiLlama](https://github.com/mbzuai-oryx/MobiLlama) - MobiLlama : Small Language Model tailored for edge devices
+* 【2024-03-02】[fluencelabs / dev-rewards](https://github.com/fluencelabs/dev-rewards) - 
+* 【2024-03-02】[bigcode-project / starcoder2](https://github.com/bigcode-project/starcoder2) - Home of StarCoder2!
+* 【2024-03-02】[Avaiga / Taipy-Chatbot-Demo](https://github.com/Avaiga/Taipy-Chatbot-Demo) - A template to create any LLM Inference Web Apps using Python only
+* 【2024-03-02】[Beomi / BitNet-Transformers](https://github.com/Beomi/BitNet-Transformers) - 0️⃣1️⃣🤗 BitNet-Transformers: Huggingface Transformers Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch with Llama(2) Architecture
 * 【2024-02-29】[qnguyen3 / chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - Chat with your data natively on Apple Silicon using MLX Framework.
 * 【2024-02-29】[NUS-HPC-AI-Lab / OpenDiT](https://github.com/NUS-HPC-AI-Lab/OpenDiT) - OpenDiT: An Easy, Fast and Memory-Efficient System for DiT Training and Inference
 * 【2024-02-29】[evo-design / evo](https://github.com/evo-design/evo) - DNA foundation modeling from molecular to genome scale
@@ -270,6 +276,9 @@
 
 ## Javascript
 
+* 【2024-03-02】[HumanAIGC / emote-portrait-alive](https://github.com/HumanAIGC/emote-portrait-alive) - 
+* 【2024-03-02】[polyfillpolyfill / fetch](https://github.com/polyfillpolyfill/fetch) - A window.fetch JavaScript polyfill.
+* 【2024-03-02】[cyu / rack-cors](https://github.com/cyu/rack-cors) - Rack Middleware for handling Cross-Origin Resource Sharing (CORS), which makes cross-origin AJAX possible.
 * 【2024-02-29】[piercefreeman / mountaineer](https://github.com/piercefreeman/mountaineer) - Mountaineer is a batteries-included web framework for Python and React.
 * 【2024-02-29】[aws-samples / public-file-browser-for-amazon-s3](https://github.com/aws-samples/public-file-browser-for-amazon-s3) - Sample code to deploy a website and a "public files" S3 bucket which can be loaded with any files an administrator wishes to publish publicly online.
 * 【2024-02-29】[jason5ng32 / OhEarningsCal](https://github.com/jason5ng32/OhEarningsCal) - 使用日历软件订阅美股的财报日期
@@ -330,6 +339,7 @@
 
 ## Go
 
+* 【2024-03-02】[runreveal / pql](https://github.com/runreveal/pql) - Pipelined Query Language
 * 【2024-02-29】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 * 【2024-02-29】[ethstorage / es-node](https://github.com/ethstorage/es-node) - Golang implementation of the EthStorage node.
 * 【2024-02-27】[shraddhaag / 1brc](https://github.com/shraddhaag/1brc) - Solution to One Billion Rows Challenge in Golang.
@@ -366,6 +376,7 @@
 
 ## C
 
+* 【2024-03-02】[arcsysu / SYsU-lang2](https://github.com/arcsysu/SYsU-lang2) - 中山大学编译原理课程实验（完全重构版本）
 * 【2024-02-29】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 * 【2024-02-28】[skyfloogle / red-viper](https://github.com/skyfloogle/red-viper) - A Virtual Boy emulator for the 3DS
 * 【2024-02-25】[nihui / ruapu](https://github.com/nihui/ruapu) - Detect CPU features with single-file
@@ -492,6 +503,7 @@
 
 ## Html
 
+* 【2024-03-02】[acgeospatial / awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - A curated list of awesome tools, tutorials, code, projects, links, stuff about Earth Observation, Geospatial Satellite Imagery
 * 【2024-02-29】[JayZeeDesign / realtime-conversation-copilot](https://github.com/JayZeeDesign/realtime-conversation-copilot) - 
 * 【2024-02-29】[nrxschool / bootcamp-optimism](https://github.com/nrxschool/bootcamp-optimism) - 
 * 【2024-02-29】[tensorchord / ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape) - This is a landscape of the infrastructure that powers the generative AI ecosystem
@@ -609,6 +621,10 @@
 
 ## Unknown
 
+* 【2024-03-02】[layerdiffusion / LayerDiffusion](https://github.com/layerdiffusion/LayerDiffusion) - Transparent Image Layer Diffusion using Latent Transparency
+* 【2024-03-02】[amusi / CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code) - CVPR 2024 论文和开源项目合集
+* 【2024-03-02】[blast-io / deployment](https://github.com/blast-io/deployment) - 
+* 【2024-03-02】[ValantisJewelry / TestTaskValantis](https://github.com/ValantisJewelry/TestTaskValantis) - 
 * 【2024-02-29】[microsoft / Security-101](https://github.com/microsoft/Security-101) - 7 Lessons, Kick-start Your Cybersecurity Learning.
 * 【2024-02-29】[AnsonZnl / interview-nav](https://github.com/AnsonZnl/interview-nav) - 面试网站导航，收集 IT 行业各个岗位的优质面试题网站、简历编写指南。
 * 【2024-02-29】[sina-moradbakhti / hiddify-wow-config](https://github.com/sina-moradbakhti/hiddify-wow-config) - 
@@ -698,6 +714,11 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-03-02】[cloudflare / pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+* 【2024-03-02】[AleoHQ / snarkVM](https://github.com/AleoHQ/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
+* 【2024-03-02】[cloudflare / quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+* 【2024-03-02】[a2x / cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper
+* 【2024-03-02】[cloud-hypervisor / cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
 * 【2024-02-29】[bottlerocket-os / bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 * 【2024-02-29】[rcore-os / arceos](https://github.com/rcore-os/arceos) - An experimental modular OS written in Rust.
 * 【2024-02-29】[apache / arrow-datafusion](https://github.com/apache/arrow-datafusion) - Apache Arrow DataFusion SQL Query Engine
@@ -710,3 +731,6 @@
 * 【2024-02-29】[sunface / rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 * 【2024-02-29】[quickwit-oss / tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 * 【2024-02-29】[rust-lang / cargo](https://github.com/rust-lang/cargo) - The Rust package manager
+## C\#
+
+* 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
