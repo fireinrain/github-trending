@@ -6,6 +6,12 @@
 
 项目灵感来自 [bonfy/github-trending](https://github.com/bonfy/github-trending)。
 
+更新:
+1. 加入telegram 消息推送
+2. 加入sqlite数据库支持
+3. 加入上榜次数统计
+4. 加入推送判断，防止telegram消息重复推送
+
 ## All language
 
 * 【2024-02-29】[Netflix / bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
