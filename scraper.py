@@ -167,6 +167,7 @@ def check_and_store_db(value: dict, lang: str) -> (dict, bool):
         url=value['url'],
         desc=value['description'],
         trend_date=f"{formatted_date}",
+        trend_count=1,
         category=f"{lang}"
     )
     try:
