@@ -149,6 +149,11 @@ def format_date2_tg_message(message: dict, lang: str) -> str:
 def check_and_store_db(value: dict, lang: str) -> (dict, bool):
     result = database.session.query(GithubTrending).filter_by(title=value['title']).first()
     if result:
+        # update trend_count data
+        trend_count = result.trend_count
+        result.trend_count = trend_count + 1
+        database.session.commit()
+
         print(f"Title: {result.title}, URL: {result.url}, Description: {result.desc},当前仓库已经推送过,做跳过处理")
         return value, True
     # insert to db

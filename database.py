@@ -17,6 +17,7 @@ class GithubTrending(Base):
     # Assuming trend_date is a string for simplicity
     trend_date = Column(String)
     category = Column(String)
+    trend_count = Column(Integer)
     del_flag = Column(Boolean, default=False)
     create_time = Column(DateTime, server_default=text('CURRENT_TIMESTAMP'))
     update_time = Column(DateTime, server_default=text('CURRENT_TIMESTAMP'), onupdate=datetime.now)
