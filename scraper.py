@@ -6,6 +6,8 @@ import requests
 import urllib.parse
 from pyquery import PyQuery as pq
 from datetime import datetime
+from database import GithubTrending
+import database
 import telegrambot
 
 
@@ -144,6 +146,34 @@ def format_date2_tg_message(message: dict, lang: str) -> str:
             f"\#日期{formatted_date} \#{lang}")
 
 
+def check_and_store_db(value: dict, lang: str) -> (dict, bool):
+    result = database.session.query(GithubTrending).filter_by(title=value['title']).first()
+    if result:
+        print(f"Title: {result.title}, URL: {result.url}, Description: {result.desc},当前仓库已经推送过,做跳过处理")
+        return value, True
+    # insert to db
+    # 获取当前日期
+    current_date = datetime.now()
+
+    # 格式化日期为"20201112"形式
+    formatted_date = current_date.strftime("%Y-%m-%d")
+    data = GithubTrending(
+        title=value['title'],
+        url=value['url'],
+        desc=value['description'],
+        trend_date=f"{formatted_date}",
+        category=f"{lang}"
+    )
+    try:
+        database.session.add(data)
+        database.session.commit()
+        print(f"Insert new github trending data successfully!")
+    except Exception as e:
+        print(f"Error creating new record for github trending data: {data}")
+        database.session.rollback()
+    return value, False
+
+
 async def job():
     """
     Get archived contents
@@ -152,7 +182,7 @@ async def job():
 
     ''' Start the scrape job
     '''
-    languages = ['', 'java', 'python', 'go', 'javascript', 'c', 'c++', 'c#', 'rust', 'html', 'unknown']
+    languages = ['', 'java', 'python', 'go', 'javascript', 'typescript', 'c', 'c++', 'c#', 'rust', 'html', 'unknown']
     for lang in languages:
         results = scrape_lang(lang)
         if lang == '':
@@ -163,9 +193,14 @@ async def job():
             lang = 'c\#'
         # push to telegram bot
         for key, value in results.items():
-            format_data = format_date2_tg_message(value, lang)
-            await telegrambot.send_message2bot(format_data)
-            await asyncio.sleep(2)
+            value, have_push = check_and_store_db(value, lang)
+            if not have_push:
+                print(f"发现新的github trending记录,正在推送到telegram 频道...")
+                format_data = format_date2_tg_message(value, lang)
+                await telegrambot.send_message2bot(format_data)
+                await asyncio.sleep(2)
+        # release db connection
+        database.session.close()
         write_markdown(lang, results, archived_contents)
 
 
