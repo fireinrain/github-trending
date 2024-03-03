@@ -143,7 +143,7 @@ def format_date2_tg_message(message: dict, lang: str) -> str:
     return (f"`{message['title']}`\n"
             f"`{message['description']}`\n"
             f"[Repo URL]({message['url']})\n"
-            f"\#日期{formatted_date} \#{lang}")
+            f"\#D{formatted_date}_{lang} \#{lang}")
 
 
 def check_and_store_db(value: dict, lang: str) -> (dict, bool):
@@ -194,9 +194,9 @@ async def job():
         if lang == '':
             lang = 'all'
         if lang == 'c++':
-            lang = 'c\+\+'
+            lang = 'C\+\+'
         if lang == 'c#':
-            lang = 'c\#'
+            lang = 'Csharp'
         # push to telegram bot
         for key, value in results.items():
             value, have_push = check_and_store_db(value, lang)
