@@ -14,6 +14,16 @@
 
 ## All language
 
+* 【2024-03-03】[layerdiffusion / sd-forge-layerdiffusion](https://github.com/layerdiffusion/sd-forge-layerdiffusion) - [WIP] Layer Diffusion for WebUI (via Forge)
+* 【2024-03-03】[naver / dust3r](https://github.com/naver/dust3r) - 
+* 【2024-03-03】[cooderl / wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。
+* 【2024-03-03】[pydantic / FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
+* 【2024-03-03】[ente-io / ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+* 【2024-03-03】[vercel / ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+* 【2024-03-03】[adrianhajdin / brainwave](https://github.com/adrianhajdin/brainwave) - Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and Tailwind CSS skills.
+* 【2024-03-03】[jafioti / luminal](https://github.com/jafioti/luminal) - Deep learning at the speed of light.
+* 【2024-03-03】[memorysafety / river](https://github.com/memorysafety/river) - This repository is the future home of the River reverse proxy application, based on the pingora library from Cloudflare.
+* 【2024-03-03】[JX3Toy / JX3Toy](https://github.com/JX3Toy/JX3Toy) - 自动化测试DPS的小工具
 * 【2024-02-29】[Netflix / bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 * 【2024-02-29】[HumanAIGC / EMO](https://github.com/HumanAIGC/EMO) - 
 * 【2024-02-29】[SuperTux / supertux](https://github.com/SuperTux/supertux) - SuperTux source code
@@ -143,6 +153,8 @@
 
 ## Java
 
+* 【2024-03-03】[wendy512 / stream](https://github.com/wendy512/stream) - Streaming processing framework, source, channel, sink, support mqtt, Kafka and other components
+* 【2024-03-03】[mahyoussef / ultimate-design-patterns](https://github.com/mahyoussef/ultimate-design-patterns) - Mastering classical design patterns with practical examples in the ultimate design patterns bundle.
 * 【2024-02-29】[axelor / axelor-open-suite](https://github.com/axelor/axelor-open-suite) - The Axelor Open Suite based on Axelor Open Platform
 * 【2024-02-29】[Faceplugin-ltd / FacePlugin-FaceSDK-Android](https://github.com/Faceplugin-ltd/FacePlugin-FaceSDK-Android) - Face Recognition Android SDK (Face Detection, Face Landmarks, Face Liveness Detection, Face Pose, Face Expression, Eye Closeness, Age, Gender and Face Recognition)
 * 【2024-02-29】[junixapp / XPopup](https://github.com/junixapp/XPopup) - 🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for Android，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup vi…
@@ -173,6 +185,11 @@
 
 ## Python
 
+* 【2024-03-03】[mini-sora / minisora](https://github.com/mini-sora/minisora) - The Mini Sora project aims to explore the implementation path and future development direction of Sora.
+* 【2024-03-03】[liguodongiot / llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验。
+* 【2024-03-03】[BatsResearch / bonito](https://github.com/BatsResearch/bonito) - A lightweight library for generating synthetic instruction tuning datasets for your data without GPT.
+* 【2024-03-03】[alexta69 / metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+* 【2024-03-03】[smicallef / spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 * 【2024-03-02】[kyegomez / BitNet](https://github.com/kyegomez/BitNet) - Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch
 * 【2024-03-02】[mbzuai-oryx / MobiLlama](https://github.com/mbzuai-oryx/MobiLlama) - MobiLlama : Small Language Model tailored for edge devices
 * 【2024-03-02】[fluencelabs / dev-rewards](https://github.com/fluencelabs/dev-rewards) - 
@@ -282,6 +299,9 @@
 
 ## Javascript
 
+* 【2024-03-03】[adrianhajdin / project_next_14_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 14 application.
+* 【2024-03-03】[ltlittlekk / OTTO](https://github.com/ltlittlekk/OTTO) - 电棍游戏
+* 【2024-03-03】[piyush-eon / mern-chat-app](https://github.com/piyush-eon/mern-chat-app) - 
 * 【2024-03-02】[HumanAIGC / emote-portrait-alive](https://github.com/HumanAIGC/emote-portrait-alive) - 
 * 【2024-03-02】[polyfillpolyfill / fetch](https://github.com/polyfillpolyfill/fetch) - A window.fetch JavaScript polyfill.
 * 【2024-03-02】[cyu / rack-cors](https://github.com/cyu/rack-cors) - Rack Middleware for handling Cross-Origin Resource Sharing (CORS), which makes cross-origin AJAX possible.
@@ -345,6 +365,10 @@
 
 ## Go
 
+* 【2024-03-03】[Calcium-Ion / new-api](https://github.com/Calcium-Ion/new-api) - 基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！
+* 【2024-03-03】[autobrr / autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
+* 【2024-03-03】[NicolasLopes7 / shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
+* 【2024-03-03】[MultSec / MultCheck](https://github.com/MultSec/MultCheck) - Identifies bad bytes from static analysis with any Anti-Virus scanner.
 * 【2024-03-02】[runreveal / pql](https://github.com/runreveal/pql) - Pipelined Query Language
 * 【2024-02-29】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 * 【2024-02-29】[ethstorage / es-node](https://github.com/ethstorage/es-node) - Golang implementation of the EthStorage node.
@@ -421,6 +445,7 @@
 
 ## C++
 
+* 【2024-03-03】[nRF24 / RF24](https://github.com/nRF24/RF24) - OSI Layer 2 driver for nRF24L01 on Arduino & Raspberry Pi/Linux Devices
 * 【2024-02-29】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 * 【2024-02-28】[k2-fsa / sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift
 * 【2024-02-26】[pierotofy / OpenSplat](https://github.com/pierotofy/OpenSplat) - Free and open source 3D gaussian splatting in C++ 💦
@@ -509,6 +534,7 @@
 
 ## Html
 
+* 【2024-03-03】[nanographs / Open-Beam-Interface](https://github.com/nanographs/Open-Beam-Interface) - 
 * 【2024-03-02】[acgeospatial / awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - A curated list of awesome tools, tutorials, code, projects, links, stuff about Earth Observation, Geospatial Satellite Imagery
 * 【2024-02-29】[JayZeeDesign / realtime-conversation-copilot](https://github.com/JayZeeDesign/realtime-conversation-copilot) - 
 * 【2024-02-29】[nrxschool / bootcamp-optimism](https://github.com/nrxschool/bootcamp-optimism) - 
@@ -627,6 +653,8 @@
 
 ## Unknown
 
+* 【2024-03-03】[lmmlzn / Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) - Summarize existing representative LLMs text datasets.
+* 【2024-03-03】[gg-daddy / ebooks](https://github.com/gg-daddy/ebooks) - 
 * 【2024-03-02】[layerdiffusion / LayerDiffusion](https://github.com/layerdiffusion/LayerDiffusion) - Transparent Image Layer Diffusion using Latent Transparency
 * 【2024-03-02】[amusi / CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code) - CVPR 2024 论文和开源项目合集
 * 【2024-03-02】[blast-io / deployment](https://github.com/blast-io/deployment) - 
@@ -720,6 +748,11 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-03-03】[jsr-io / jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
+* 【2024-03-03】[matter-labs / zksync](https://github.com/matter-labs/zksync) - zkSync: trustless scaling and privacy engine for Ethereum
+* 【2024-03-03】[crabml / crabml](https://github.com/crabml/crabml) - 
+* 【2024-03-03】[rust-windowing / winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
+* 【2024-03-03】[robbert-vdh / nih-plug](https://github.com/robbert-vdh/nih-plug) - Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself
 * 【2024-03-02】[cloudflare / pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 * 【2024-03-02】[AleoHQ / snarkVM](https://github.com/AleoHQ/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
 * 【2024-03-02】[cloudflare / quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
@@ -742,6 +775,17 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-03-03】[material-components / material-web](https://github.com/material-components/material-web) - Material Design Web Components
+* 【2024-03-03】[statelyai / xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
+* 【2024-03-03】[lmsqueezy / wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
+* 【2024-03-03】[marcusGoncalvess / zap-gpt](https://github.com/marcusGoncalvess/zap-gpt) - Este projeto explora a integração do ChatGPT com o WhatsApp, transformando o chatbot em um assistente virtual capaz de realizar tarefas como falar com amigos, responder a perguntas de clientes, e muito mais, com um toque de humanização nas conversas.
+* 【2024-03-03】[semperai / amica](https://github.com/semperai/amica) - Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition.
+* 【2024-03-03】[Slowlydev / f1-dash](https://github.com/Slowlydev/f1-dash) - A real-time F1 dashboard
+* 【2024-03-03】[LLOneBot / LLOneBot](https://github.com/LLOneBot/LLOneBot) - LiteloaderQQNT的OneBot API插件
+* 【2024-03-03】[buqiyuan / nest-admin](https://github.com/buqiyuan/nest-admin) - NestJs CRUD for RESTful API 使用 Nestjs + Mysql + Typeorm + Redis + Jwt + Swagger 企业中后台管理系统项目RBAC权限管理(细粒度到按钮)、实现单点登录等...
+* 【2024-03-03】[ykg3211 / KGSheet](https://github.com/ykg3211/KGSheet) - web版excel
+* 【2024-03-03】[theme-shoka-x / hexo-theme-shokaX](https://github.com/theme-shoka-x/hexo-theme-shokaX) - a hexo theme based on shoka
+* 【2024-03-03】[WhiteMinds / LiveAutoRecord](https://github.com/WhiteMinds/LiveAutoRecord) - 基于 Electron 的多平台直播自动录制软件
 * 【2024-03-02】[redis / ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
 * 【2024-03-02】[botpress / botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 * 【2024-03-02】[unjs / nitro](https://github.com/unjs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.

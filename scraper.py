@@ -149,10 +149,12 @@ def format_date2_tg_message(message: dict, lang: str) -> str:
     return (f"`{message['title']}`\n"
             f"`{message['description']}`\n"
             f"[Repo URL]({message['url']})\n"
-            f"\#D{formatted_date}_{lang} \#{lang}")
+            f"\#D{formatted_date}\_{lang} \#{lang}")
 
 
 def check_and_store_db(value: dict, lang: str) -> (dict, bool):
+    if lang == '':
+        lang = 'all'
     result = database.session.query(GithubTrending).filter_by(title=value['title']).first()
     if result:
         # update trend_count data
