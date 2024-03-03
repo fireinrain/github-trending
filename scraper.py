@@ -140,6 +140,12 @@ def format_date2_tg_message(message: dict, lang: str) -> str:
 
     # 格式化日期为"20201112"形式
     formatted_date = current_date.strftime("%Y%m%d")
+    if lang == '':
+        lang = 'all'
+    if lang == 'c++':
+        lang = 'C\+\+'
+    if lang == 'c#':
+        lang = 'Csharp'
     return (f"`{message['title']}`\n"
             f"`{message['description']}`\n"
             f"[Repo URL]({message['url']})\n"
@@ -191,12 +197,6 @@ async def job():
     languages = ['', 'java', 'python', 'go', 'javascript', 'typescript', 'c', 'c++', 'c#', 'rust', 'html', 'unknown']
     for lang in languages:
         results = scrape_lang(lang)
-        if lang == '':
-            lang = 'all'
-        if lang == 'c++':
-            lang = 'C\+\+'
-        if lang == 'c#':
-            lang = 'Csharp'
         # push to telegram bot
         for key, value in results.items():
             value, have_push = check_and_store_db(value, lang)
