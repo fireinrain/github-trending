@@ -14,6 +14,10 @@
 
 ## All language
 
+* 【2024-03-05】[layerdiffusion / sd-forge-layerdiffuse](https://github.com/layerdiffusion/sd-forge-layerdiffuse) - [WIP] Layer Diffusion for WebUI (via Forge)
+* 【2024-03-05】[PKU-YuanGroup / Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.
+* 【2024-03-05】[lining808 / CS-Ebook](https://github.com/lining808/CS-Ebook) - 一个高质量、经典计算机书籍推荐清单，特点为：只收集高质量，各方向经典书籍，不求书多，只求书精。
+* 【2024-03-05】[merill / awesome-entra](https://github.com/merill/awesome-entra) - 😎 Awesome list of all things related to Microsoft Entra
 * 【2024-03-03】[layerdiffusion / sd-forge-layerdiffusion](https://github.com/layerdiffusion/sd-forge-layerdiffusion) - [WIP] Layer Diffusion for WebUI (via Forge)
 * 【2024-03-03】[naver / dust3r](https://github.com/naver/dust3r) - 
 * 【2024-03-03】[cooderl / wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。
@@ -153,6 +157,8 @@
 
 ## Java
 
+* 【2024-03-05】[kspalaiologos / kamilalisp](https://github.com/kspalaiologos/kamilalisp) - A functional, flexible and concise Lisp.
+* 【2024-03-05】[ReVanced / revanced-integrations](https://github.com/ReVanced/revanced-integrations) - 🔩 ReVanced Integrations containing classes to be merged by ReVanced Patcher
 * 【2024-03-03】[wendy512 / stream](https://github.com/wendy512/stream) - Streaming processing framework, source, channel, sink, support mqtt, Kafka and other components
 * 【2024-03-03】[mahyoussef / ultimate-design-patterns](https://github.com/mahyoussef/ultimate-design-patterns) - Mastering classical design patterns with practical examples in the ultimate design patterns bundle.
 * 【2024-02-29】[axelor / axelor-open-suite](https://github.com/axelor/axelor-open-suite) - The Axelor Open Suite based on Axelor Open Platform
@@ -185,6 +191,8 @@
 
 ## Python
 
+* 【2024-03-05】[kcheng1021 / GaussianPro](https://github.com/kcheng1021/GaussianPro) - 
+* 【2024-03-05】[intel / intel-npu-acceleration-library](https://github.com/intel/intel-npu-acceleration-library) - Intel® NPU Acceleration Library
 * 【2024-03-03】[mini-sora / minisora](https://github.com/mini-sora/minisora) - The Mini Sora project aims to explore the implementation path and future development direction of Sora.
 * 【2024-03-03】[liguodongiot / llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验。
 * 【2024-03-03】[BatsResearch / bonito](https://github.com/BatsResearch/bonito) - A lightweight library for generating synthetic instruction tuning datasets for your data without GPT.
@@ -299,6 +307,9 @@
 
 ## Javascript
 
+* 【2024-03-05】[weather-gov / weather.gov](https://github.com/weather-gov/weather.gov) - weather.gov 2.0
+* 【2024-03-05】[Nomi-CEu / Nomi-CEu-Modern](https://github.com/Nomi-CEu/Nomi-CEu-Modern) - Port of Nomi-CEu to newer versions!
+* 【2024-03-05】[0xsongsu / dailytask](https://github.com/0xsongsu/dailytask) - 每日签到任务
 * 【2024-03-03】[adrianhajdin / project_next_14_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 14 application.
 * 【2024-03-03】[ltlittlekk / OTTO](https://github.com/ltlittlekk/OTTO) - 电棍游戏
 * 【2024-03-03】[piyush-eon / mern-chat-app](https://github.com/piyush-eon/mern-chat-app) - 
@@ -365,6 +376,10 @@
 
 ## Go
 
+* 【2024-03-05】[Geniucker / CoGPT](https://github.com/Geniucker/CoGPT) - Hmm Copilot or GPT? Who knows. Get access to gpt-4 via copilot.
+* 【2024-03-05】[siderolabs / omni](https://github.com/siderolabs/omni) - SaaS-simple deployment of Kubernetes - on your own hardware.
+* 【2024-03-05】[version-fox / vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+* 【2024-03-05】[jovandeginste / payme](https://github.com/jovandeginste/payme) - QR code generator (ASCII & PNG) for SEPA payments
 * 【2024-03-03】[Calcium-Ion / new-api](https://github.com/Calcium-Ion/new-api) - 基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！
 * 【2024-03-03】[autobrr / autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
 * 【2024-03-03】[NicolasLopes7 / shipthing](https://github.com/NicolasLopes7/shipthing) - rebuilding vercel
@@ -406,6 +421,7 @@
 
 ## C
 
+* 【2024-03-05】[zigzap / zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 * 【2024-03-02】[arcsysu / SYsU-lang2](https://github.com/arcsysu/SYsU-lang2) - 中山大学编译原理课程实验（完全重构版本）
 * 【2024-02-29】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 * 【2024-02-28】[skyfloogle / red-viper](https://github.com/skyfloogle/red-viper) - A Virtual Boy emulator for the 3DS
@@ -445,6 +461,7 @@
 
 ## C++
 
+* 【2024-03-05】[love2d / love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 * 【2024-03-03】[nRF24 / RF24](https://github.com/nRF24/RF24) - OSI Layer 2 driver for nRF24L01 on Arduino & Raspberry Pi/Linux Devices
 * 【2024-02-29】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 * 【2024-02-28】[k2-fsa / sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift
@@ -484,6 +501,7 @@
 
 ## C#
 
+* 【2024-03-05】[emoisback / Helldivers-2-Hack-PoC](https://github.com/emoisback/Helldivers-2-Hack-PoC) - This is PoC that i create to learn about asm injection using C# on 64bit application / game. ( i took helldivers 2 as sample )
 * 【2024-02-29】[gregsdennis / json-everything](https://github.com/gregsdennis/json-everything) - System.Text.Json-based support for all of your JSON needs.
 * 【2024-02-29】[moom825 / xeno-rat](https://github.com/moom825/xeno-rat) - Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, and much much more!
 * 【2024-02-29】[VeritasSoftware / AspNetCore.ApiGateway](https://github.com/VeritasSoftware/AspNetCore.ApiGateway) - Asp Net Core Api Gateway Framework
@@ -653,6 +671,11 @@
 
 ## Unknown
 
+* 【2024-03-05】[ItIsMeCall911 / Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources
+* 【2024-03-05】[daveshap / David_Shapiro_Reading_List](https://github.com/daveshap/David_Shapiro_Reading_List) - Public repo of the most influential books I've read
+* 【2024-03-05】[qubic-li / client](https://github.com/qubic-li/client) - 
+* 【2024-03-05】[layerdiffusion / LayerDiffuse](https://github.com/layerdiffusion/LayerDiffuse) - Transparent Image Layer Diffusion using Latent Transparency
+* 【2024-03-05】[wyzxxz / aksk_tool](https://github.com/wyzxxz/aksk_tool) - AK资源管理工具，阿里云/腾讯云/华为云/AWS/UCLOUD/京东云/百度云/七牛云存储 AccessKey AccessKeySecret，利用AK获取资源信息和操作资源，ECS/CVM/E2/UHOST/ECI/BCC执行命令，OSS/COS/S3/BOS管理，RDS/DB管理，域名管理，添加RAM/CAM/IAM账号等
 * 【2024-03-03】[lmmlzn / Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) - Summarize existing representative LLMs text datasets.
 * 【2024-03-03】[gg-daddy / ebooks](https://github.com/gg-daddy/ebooks) - 
 * 【2024-03-02】[layerdiffusion / LayerDiffusion](https://github.com/layerdiffusion/LayerDiffusion) - Transparent Image Layer Diffusion using Latent Transparency
@@ -748,6 +771,14 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-03-05】[FuelLabs / fuelup](https://github.com/FuelLabs/fuelup) - ⛽ The Fuel toolchain installer
+* 【2024-03-05】[rust-lang / rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
+* 【2024-03-05】[maplibre / martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
+* 【2024-03-05】[coral-xyz / anchor](https://github.com/coral-xyz/anchor) - ⚓ Solana Sealevel Framework
+* 【2024-03-05】[tokio-rs / mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only
+* 【2024-03-05】[altsem / gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
+* 【2024-03-05】[Martichou / rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux.
+* 【2024-03-05】[elkowar / eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 * 【2024-03-03】[jsr-io / jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 * 【2024-03-03】[matter-labs / zksync](https://github.com/matter-labs/zksync) - zkSync: trustless scaling and privacy engine for Ethereum
 * 【2024-03-03】[crabml / crabml](https://github.com/crabml/crabml) - 
@@ -775,6 +806,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-03-05】[vuejs / language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
+* 【2024-03-05】[vercel / nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
+* 【2024-03-05】[rolling-scopes-school / movie-app-code-review](https://github.com/rolling-scopes-school/movie-app-code-review) - 
+* 【2024-03-05】[joaokristani / Discord-Server-Cloner-2x](https://github.com/joaokristani/Discord-Server-Cloner-2x) - A discord server cloner made for the infinite community
+* 【2024-03-05】[heyxyz / hey](https://github.com/heyxyz/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 * 【2024-03-03】[material-components / material-web](https://github.com/material-components/material-web) - Material Design Web Components
 * 【2024-03-03】[statelyai / xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 * 【2024-03-03】[lmsqueezy / wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
