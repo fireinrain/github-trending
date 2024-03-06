@@ -14,6 +14,8 @@
 
 ## All language
 
+* 【2024-03-06】[nikic / PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
+* 【2024-03-06】[huchenlei / ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse) - Layer Diffusion custom nodes
 * 【2024-03-05】[layerdiffusion / sd-forge-layerdiffuse](https://github.com/layerdiffusion/sd-forge-layerdiffuse) - [WIP] Layer Diffusion for WebUI (via Forge)
 * 【2024-03-05】[PKU-YuanGroup / Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.
 * 【2024-03-05】[lining808 / CS-Ebook](https://github.com/lining808/CS-Ebook) - 一个高质量、经典计算机书籍推荐清单，特点为：只收集高质量，各方向经典书籍，不求书多，只求书精。
@@ -157,6 +159,11 @@
 
 ## Java
 
+* 【2024-03-06】[OpenEMS / openems](https://github.com/OpenEMS/openems) - OpenEMS - Open Source Energy Management System
+* 【2024-03-06】[stanfordnlp / CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
+* 【2024-03-06】[apache / flink-cdc](https://github.com/apache/flink-cdc) - CDC Connectors for Apache Flink®
+* 【2024-03-06】[apache / tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).
+* 【2024-03-06】[airbytehq / airbyte-platform](https://github.com/airbytehq/airbyte-platform) - The platform fundament of Airbyte powering all your ELT pipelines. Please file issues in https://github.com/airbytehq/airbyte
 * 【2024-03-05】[kspalaiologos / kamilalisp](https://github.com/kspalaiologos/kamilalisp) - A functional, flexible and concise Lisp.
 * 【2024-03-05】[ReVanced / revanced-integrations](https://github.com/ReVanced/revanced-integrations) - 🔩 ReVanced Integrations containing classes to be merged by ReVanced Patcher
 * 【2024-03-03】[wendy512 / stream](https://github.com/wendy512/stream) - Streaming processing framework, source, channel, sink, support mqtt, Kafka and other components
@@ -191,6 +198,10 @@
 
 ## Python
 
+* 【2024-03-06】[StavC / ComPromptMized](https://github.com/StavC/ComPromptMized) - ComPromptMized: Unleashing Zero-click Worms that Target GenAI-Powered Applications
+* 【2024-03-06】[NanmiCoder / MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
+* 【2024-03-06】[apple / pfl-research](https://github.com/apple/pfl-research) - Simulation framework for accelerating research in Private Federated Learning
+* 【2024-03-06】[aappleby / hancho](https://github.com/aappleby/hancho) - A simple pleasant build system in Python.
 * 【2024-03-05】[kcheng1021 / GaussianPro](https://github.com/kcheng1021/GaussianPro) - 
 * 【2024-03-05】[intel / intel-npu-acceleration-library](https://github.com/intel/intel-npu-acceleration-library) - Intel® NPU Acceleration Library
 * 【2024-03-03】[mini-sora / minisora](https://github.com/mini-sora/minisora) - The Mini Sora project aims to explore the implementation path and future development direction of Sora.
@@ -307,6 +318,9 @@
 
 ## Javascript
 
+* 【2024-03-06】[cmliu / WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器
+* 【2024-03-06】[panagiop / node.js-clean-architecture](https://github.com/panagiop/node.js-clean-architecture) - A use case of Clean Architecture in Node.js comprising of Express.js, MongoDB and Redis as the main (but replaceable) infrastructure.
+* 【2024-03-06】[nuejs / nue](https://github.com/nuejs/nue) - The Content First Web Framework
 * 【2024-03-05】[weather-gov / weather.gov](https://github.com/weather-gov/weather.gov) - weather.gov 2.0
 * 【2024-03-05】[Nomi-CEu / Nomi-CEu-Modern](https://github.com/Nomi-CEu/Nomi-CEu-Modern) - Port of Nomi-CEu to newer versions!
 * 【2024-03-05】[0xsongsu / dailytask](https://github.com/0xsongsu/dailytask) - 每日签到任务
@@ -376,6 +390,7 @@
 
 ## Go
 
+* 【2024-03-06】[benhoyt / go-1brc](https://github.com/benhoyt/go-1brc) - My Go solutions to the One Billion Row Challenge
 * 【2024-03-05】[Geniucker / CoGPT](https://github.com/Geniucker/CoGPT) - Hmm Copilot or GPT? Who knows. Get access to gpt-4 via copilot.
 * 【2024-03-05】[siderolabs / omni](https://github.com/siderolabs/omni) - SaaS-simple deployment of Kubernetes - on your own hardware.
 * 【2024-03-05】[version-fox / vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
@@ -421,6 +436,8 @@
 
 ## C
 
+* 【2024-03-06】[rfaile313 / draw_game](https://github.com/rfaile313/draw_game) - Draw! is a small game that was developed in C
+* 【2024-03-06】[tomojitakasu / RTKLIB](https://github.com/tomojitakasu/RTKLIB) - 
 * 【2024-03-05】[zigzap / zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 * 【2024-03-02】[arcsysu / SYsU-lang2](https://github.com/arcsysu/SYsU-lang2) - 中山大学编译原理课程实验（完全重构版本）
 * 【2024-02-29】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
@@ -461,6 +478,7 @@
 
 ## C++
 
+* 【2024-03-06】[b4rtaz / distributed-llama](https://github.com/b4rtaz/distributed-llama) - Run LLMs on weak devices or make powerful devices even more powerful by distributing the workload and dividing the RAM usage.
 * 【2024-03-05】[love2d / love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 * 【2024-03-03】[nRF24 / RF24](https://github.com/nRF24/RF24) - OSI Layer 2 driver for nRF24L01 on Arduino & Raspberry Pi/Linux Devices
 * 【2024-02-29】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
@@ -501,6 +519,8 @@
 
 ## C#
 
+* 【2024-03-06】[chenxuuu / llcom](https://github.com/chenxuuu/llcom) - 🛠功能强大的串口工具。支持Lua自动化处理、串口调试、串口监听、串口曲线、TCP测试、MQTT测试、编码转换、乱码恢复等功能
+* 【2024-03-06】[Stormrider31 / Storm-Breakers](https://github.com/Stormrider31/Storm-Breakers) - An epic ocean simulation (Unity 2021+ URP)
 * 【2024-03-05】[emoisback / Helldivers-2-Hack-PoC](https://github.com/emoisback/Helldivers-2-Hack-PoC) - This is PoC that i create to learn about asm injection using C# on 64bit application / game. ( i took helldivers 2 as sample )
 * 【2024-02-29】[gregsdennis / json-everything](https://github.com/gregsdennis/json-everything) - System.Text.Json-based support for all of your JSON needs.
 * 【2024-02-29】[moom825 / xeno-rat](https://github.com/moom825/xeno-rat) - Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, and much much more!
@@ -552,6 +572,7 @@
 
 ## Html
 
+* 【2024-03-06】[yuzu-emu / yuzu-emu.github.io](https://github.com/yuzu-emu/yuzu-emu.github.io) - Website source code
 * 【2024-03-03】[nanographs / Open-Beam-Interface](https://github.com/nanographs/Open-Beam-Interface) - 
 * 【2024-03-02】[acgeospatial / awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - A curated list of awesome tools, tutorials, code, projects, links, stuff about Earth Observation, Geospatial Satellite Imagery
 * 【2024-02-29】[JayZeeDesign / realtime-conversation-copilot](https://github.com/JayZeeDesign/realtime-conversation-copilot) - 
@@ -671,6 +692,9 @@
 
 ## Unknown
 
+* 【2024-03-06】[Honei / bookshelf](https://github.com/Honei/bookshelf) - 📚 books
+* 【2024-03-06】[FuelLabs / fuel-specs](https://github.com/FuelLabs/fuel-specs) - 📝 Specifications for the Fuel protocol and the FuelVM, a blazingly fast blockchain VM.
+* 【2024-03-06】[CS-BAOYAN / CSSummerCamp2024](https://github.com/CS-BAOYAN/CSSummerCamp2024) - 
 * 【2024-03-05】[ItIsMeCall911 / Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources
 * 【2024-03-05】[daveshap / David_Shapiro_Reading_List](https://github.com/daveshap/David_Shapiro_Reading_List) - Public repo of the most influential books I've read
 * 【2024-03-05】[qubic-li / client](https://github.com/qubic-li/client) - 
@@ -771,6 +795,15 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-03-06】[orhun / git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
+* 【2024-03-06】[gngpp / ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
+* 【2024-03-06】[risingwavelabs / risingwave](https://github.com/risingwavelabs/risingwave) - Scalable Postgres for stream processing, analytics, and management. KsqlDB and Apache Flink alternative. 🚀 10x more productive. 🚀 10x more cost-efficient.
+* 【2024-03-06】[neondatabase / neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+* 【2024-03-06】[FuelLabs / sway-applications](https://github.com/FuelLabs/sway-applications) - Swaypplications
+* 【2024-03-06】[tracel-ai / burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
+* 【2024-03-06】[tikv / tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
+* 【2024-03-06】[erebe / wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
+* 【2024-03-06】[mokeyish / smartdns-rs](https://github.com/mokeyish/smartdns-rs) - A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoQ, DoH, DoH3.
 * 【2024-03-05】[FuelLabs / fuelup](https://github.com/FuelLabs/fuelup) - ⛽ The Fuel toolchain installer
 * 【2024-03-05】[rust-lang / rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 * 【2024-03-05】[maplibre / martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
@@ -806,6 +839,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-03-06】[solana-labs / solana-web3.js](https://github.com/solana-labs/solana-web3.js) - Solana JavaScript SDK
+* 【2024-03-06】[BennyKok / comfyui-deploy-next-example](https://github.com/BennyKok/comfyui-deploy-next-example) - A demo for running comfy deploy api via nextjs
+* 【2024-03-06】[GrapesJS / grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+* 【2024-03-06】[shuimo-design / shuimo-ui](https://github.com/shuimo-design/shuimo-ui) - 一款水墨风UI
 * 【2024-03-05】[vuejs / language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 * 【2024-03-05】[vercel / nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
 * 【2024-03-05】[rolling-scopes-school / movie-app-code-review](https://github.com/rolling-scopes-school/movie-app-code-review) - 
