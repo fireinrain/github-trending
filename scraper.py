@@ -10,6 +10,13 @@ from database import GithubTrending
 import database
 import telegrambot
 
+GITHUB_TOKEN = None
+github_token = os.getenv('GH_TOKEN')
+if github_token:
+    GITHUB_TOKEN = github_token
+else:
+    print(f"you must provide a github token!")
+
 
 def scrape_url(url):
     ''' Scrape github trending url
@@ -135,7 +142,7 @@ def get_archived_contents():
     return archived_contents
 
 
-def format_date2_tg_message(message: dict, lang: str,repo_statics:tuple) -> str:
+def format_date2_tg_message(message: dict, lang: str, repo_statics: tuple) -> str:
     current_date = datetime.now()
 
     # 格式化日期为"20201112"形式
@@ -204,8 +211,11 @@ def fetch_repo_statics(repo_title: str) -> ():
     repo_name = title_split[1].strip()
     api_url = f'https://api.github.com/repos/{username}/{repo_name}'
 
+    headers = {
+        'Authorization': f'Token {GITHUB_TOKEN}',
+    }
     try:
-        response = requests.get(api_url)
+        response = requests.get(api_url, headers=headers)
         # response.raise_for_status()  # Check for errors
         if response.status_code == 404:
             return 0, 0, 0, False
@@ -240,7 +250,7 @@ async def job():
             value, have_push, repo_statics = check_and_store_db(value, lang)
             if not have_push:
                 print(f"发现新的github trending记录,正在推送到telegram 频道...")
-                format_data = format_date2_tg_message(value, lang,repo_statics)
+                format_data = format_date2_tg_message(value, lang, repo_statics)
                 await telegrambot.send_message2bot(format_data)
                 await asyncio.sleep(2)
         # release db connection
