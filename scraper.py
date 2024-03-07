@@ -217,7 +217,7 @@ def fetch_repo_statics(repo_title: str) -> ():
         'Authorization': f'Token {GITHUB_TOKEN}',
         'Accept': 'application/vnd.github.v3+json'
     }
-    print(f"current token: {GITHUB_TOKEN}")
+    # print(f"current token: {GITHUB_TOKEN}")
     try:
         response = requests.get(api_url, headers=headers)
         # response.raise_for_status()  # Check for errors
