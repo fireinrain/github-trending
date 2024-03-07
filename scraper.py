@@ -135,7 +135,7 @@ def get_archived_contents():
     return archived_contents
 
 
-def format_date2_tg_message(message: dict, lang: str) -> str:
+def format_date2_tg_message(message: dict, lang: str,repo_statics:tuple) -> str:
     current_date = datetime.now()
 
     # 格式化日期为"20201112"形式
@@ -148,11 +148,13 @@ def format_date2_tg_message(message: dict, lang: str) -> str:
         lang = 'Csharp'
     return (f"`{message['title']}`\n"
             f"`{message['description']}`\n"
-            f"[Repo URL]({message['url']})\n"
+            f"[Repo URL]({message['url']}) | `👀{repo_statics[0]}` `🍴{repo_statics[1]}` `⭐{repo_statics[2]}`\n"
             f"\#D{formatted_date}\_{lang} \#{lang}")
 
 
-def check_and_store_db(value: dict, lang: str) -> (dict, bool):
+def check_and_store_db(value: dict, lang: str) -> (dict, bool, tuple):
+    repo_statics = fetch_repo_statics(value['title'])
+
     if lang == '':
         lang = 'all'
     result = database.session.query(GithubTrending).filter_by(title=value['title']).first()
@@ -160,10 +162,13 @@ def check_and_store_db(value: dict, lang: str) -> (dict, bool):
         # update trend_count data
         trend_count = result.trend_count
         result.trend_count = trend_count + 1
+        result.repo_see = repo_statics[0]
+        result.repo_folk = repo_statics[1]
+        result.repo_star = repo_statics[2]
         database.session.commit()
 
         print(f"Title: {result.title}, URL: {result.url}, Description: {result.desc},当前仓库已经推送过,做跳过处理")
-        return value, True
+        return value, True, repo_statics
     # insert to db
     # 获取当前日期
     current_date = datetime.now()
@@ -185,7 +190,38 @@ def check_and_store_db(value: dict, lang: str) -> (dict, bool):
     except Exception as e:
         print(f"Error creating new record for github trending data: {data}")
         database.session.rollback()
-    return value, False
+    return value, False, repo_statics
+
+
+def fetch_repo_statics(repo_title: str) -> ():
+    """
+    获取仓库的watch folk and star数据
+    :param repo_title:
+    :return:
+    """
+    title_split = repo_title.split('/')
+    username = title_split[0].strip()
+    repo_name = title_split[1].strip()
+    api_url = f'https://api.github.com/repos/{username}/{repo_name}'
+
+    try:
+        response = requests.get(api_url)
+        # response.raise_for_status()  # Check for errors
+        if response.status_code == 404:
+            return 0, 0, 0, False
+        repo_data = response.json()
+
+        watch_count = repo_data['subscribers_count']
+        fork_count = repo_data['forks_count']
+        star_count = repo_data['stargazers_count']
+
+        # watch,folk,star,is_exist
+        return watch_count, fork_count, star_count, True
+
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching data: {e}")
+
+    return None
 
 
 async def job():
@@ -201,10 +237,10 @@ async def job():
         results = scrape_lang(lang)
         # push to telegram bot
         for key, value in results.items():
-            value, have_push = check_and_store_db(value, lang)
+            value, have_push, repo_statics = check_and_store_db(value, lang)
             if not have_push:
                 print(f"发现新的github trending记录,正在推送到telegram 频道...")
-                format_data = format_date2_tg_message(value, lang)
+                format_data = format_date2_tg_message(value, lang,repo_statics)
                 await telegrambot.send_message2bot(format_data)
                 await asyncio.sleep(2)
         # release db connection

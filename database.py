@@ -18,6 +18,10 @@ class GithubTrending(Base):
     trend_date = Column(String)
     category = Column(String)
     trend_count = Column(Integer)
+    repo_see = Column(Integer, default=0)
+    repo_folk = Column(Integer, default=0)
+    repo_star = Column(Integer, default=0)
+    repo_status = Column(Boolean, default=True)
     del_flag = Column(Boolean, default=False)
     create_time = Column(DateTime, server_default=text('CURRENT_TIMESTAMP'))
     update_time = Column(DateTime, server_default=text('CURRENT_TIMESTAMP'), onupdate=datetime.now)
@@ -29,4 +33,3 @@ Base.metadata.create_all(engine)
 
 Session = sessionmaker(bind=engine)
 session = Session()
-
