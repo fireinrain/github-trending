@@ -215,7 +215,9 @@ def fetch_repo_statics(repo_title: str) -> ():
 
     headers = {
         'Authorization': f'Token {GITHUB_TOKEN}',
+        'Accept': 'application/vnd.github.v3+json'
     }
+    print(f"current token: {GITHUB_TOKEN}")
     try:
         response = requests.get(api_url, headers=headers)
         # response.raise_for_status()  # Check for errors
@@ -223,12 +225,12 @@ def fetch_repo_statics(repo_title: str) -> ():
             return 0, 0, 0, False
         repo_data = response.json()
 
-        watch_count = repo_data['subscribers_count']
-        fork_count = repo_data['forks_count']
-        star_count = repo_data['stargazers_count']
+        watch_count = repo_data.get('subscribers_count', 0)
+        forks_count = repo_data.get('forks_count', 0)
+        stars_count = repo_data.get('stargazers_count', 0)
 
         # watch,folk,star,is_exist
-        return watch_count, fork_count, star_count, True
+        return watch_count, forks_count, stars_count, True
 
     except requests.exceptions.RequestException as e:
         print(f"Error fetching data: {e}")
