@@ -2,6 +2,8 @@
 import asyncio
 import os
 import datetime
+import time
+
 import requests
 import urllib.parse
 from pyquery import PyQuery as pq
@@ -234,6 +236,29 @@ def fetch_repo_statics(repo_title: str) -> ():
     return None
 
 
+async def patch_db_with_repo_info():
+    need_to_patch = database.session.query(GithubTrending).filter_by(repo_star=0).filter_by(repo_status=1).all()
+    for repo in need_to_patch:
+        # fetch repo data
+        statics = fetch_repo_statics(repo.title)
+        if statics is not None and statics[3] is True:
+            repo.repo_see = statics[0]
+            repo.repo_folk = statics[1]
+            repo.repo_star = statics[2]
+            repo.repo_status = 0
+            try:
+                database.session.commit()
+            except Exception as e:
+                print("Failed to patch repo data: " + str(e))
+                database.session.rollback()
+                continue
+            print(f"Patching repo data success: {repo.title}")
+        else:
+            print(f"Failed to get repo data: {repo.title}")
+            print(f"May be the repo does not exist: {repo.url}")
+        await asyncio.sleep(10)
+
+
 async def job():
     """
     Get archived contents
@@ -258,5 +283,10 @@ async def job():
         write_markdown(lang, results, archived_contents)
 
 
+async def main():
+    await patch_db_with_repo_info()
+    await job()
+
+
 if __name__ == '__main__':
-    asyncio.run(job())
+    asyncio.run(main())
