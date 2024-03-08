@@ -16,6 +16,9 @@
 
 ## All language
 
+* 【2024-03-08】[VAST-AI-Research / TripoSR](https://github.com/VAST-AI-Research/TripoSR) - 
+* 【2024-03-08】[Crimson-Hawk / suyu](https://github.com/Crimson-Hawk/suyu) - 
+* 【2024-03-08】[yuzu-mirror / yuzu-downloads](https://github.com/yuzu-mirror/yuzu-downloads) - Archived releases of yuzu (not part of the original organization)
 * 【2024-03-07】[yuzu-mirror / yuzu](https://github.com/yuzu-mirror/yuzu) - Nintendo Switch emulator (unofficial mirror fork)
 * 【2024-03-07】[PabloMK7 / citra](https://github.com/PabloMK7/citra) - A Nintendo 3DS Emulator
 * 【2024-03-07】[Ryujinx / release-channel-master](https://github.com/Ryujinx/release-channel-master) - Ryujinx's Release channel: master
@@ -207,6 +210,11 @@
 
 ## Python
 
+* 【2024-03-08】[KimMeen / Time-LLM](https://github.com/KimMeen/Time-LLM) - [ICLR 2024] Official implementation of " 🦙 Time-LLM: Time Series Forecasting by Reprogramming Large Language Models"
+* 【2024-03-08】[traceloop / openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
+* 【2024-03-08】[flowtyone / ComfyUI-Flowty-TripoSR](https://github.com/flowtyone/ComfyUI-Flowty-TripoSR) - TripoSR custom node for comfyui
+* 【2024-03-08】[mianayang / chromego_merge](https://github.com/mianayang/chromego_merge) - 绵羊的金属精炼器
+* 【2024-03-08】[apple / ml-mobileclip](https://github.com/apple/ml-mobileclip) - This repository contains the official implementation of the research paper, "MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training" CVPR 2024
 * 【2024-03-07】[PrometheusStealer / Prometheus](https://github.com/PrometheusStealer/Prometheus) - Very powerful stealer + miner + rat + keylogger + clipper
 * 【2024-03-07】[hpcaitech / Open-Sora](https://github.com/hpcaitech/Open-Sora) - Building your own video generation model like OpenAI's Sora
 * 【2024-03-07】[anthropics / anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) - 
@@ -334,6 +342,7 @@
 
 ## Javascript
 
+* 【2024-03-08】[nksaraf / vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK
 * 【2024-03-07】[HeyPuter / puter](https://github.com/HeyPuter/puter) - The Internet OS!
 * 【2024-03-07】[whitespider-dev / whitespider](https://github.com/whitespider-dev/whitespider) - 500+ free unblocked games + emulators + unblocked YouTube + unblocked ChatGPT
 * 【2024-03-07】[hickeng / financial](https://github.com/hickeng/financial) - Repository containing financial spreadsheets
@@ -457,6 +466,7 @@
 
 ## C
 
+* 【2024-03-08】[neobrain / citra](https://github.com/neobrain/citra) - Nintendo 3DS emulator/debugger
 * 【2024-03-07】[Lovepreet-Singh-LPSK / MultiThreadedProxyServerClient](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient) - 
 * 【2024-03-07】[s1204IT / Lockpick_RCM](https://github.com/s1204IT/Lockpick_RCM) - DO NOT FORK !! : Import and redistribute this repository.
 * 【2024-03-06】[rfaile313 / draw_game](https://github.com/rfaile313/draw_game) - Draw! is a small game that was developed in C
@@ -501,6 +511,9 @@
 
 ## C++
 
+* 【2024-03-08】[yuzu-mirror / yuzu-mainline](https://github.com/yuzu-mirror/yuzu-mainline) - (unofficial mirror fork)
+* 【2024-03-08】[aidanmcb1 / Citra](https://github.com/aidanmcb1/Citra) - Reupload of 3DS emulator citra because it might die with Yuzu
+* 【2024-03-08】[squid-cache / squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
 * 【2024-03-07】[amwatson / CitraVR](https://github.com/amwatson/CitraVR) - Port of the leading 3DS emulator, Citra — designed for playing 3DS homebrew and personal game backups in 3D on the go with your Quest.
 * 【2024-03-07】[ourfavoritefruits / citra-nightly](https://github.com/ourfavoritefruits/citra-nightly) - 
 * 【2024-03-07】[ashvardanian / StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging SWAR and SIMD on Arm Neon and x86 AVX2 & AVX-512-capable chips to accelerate search, sort, edit distances, alignment scores, etc 🦖
@@ -545,6 +558,7 @@
 
 ## C#
 
+* 【2024-03-08】[ravendb / ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
 * 【2024-03-07】[amakvana / SwitchEmuModDownloader](https://github.com/amakvana/SwitchEmuModDownloader) - SwitchEmuModDownloader - A Cross-Platform One-Click Games Mod Downloader for Switch emulators. Formerly YuzuModDownloader.
 * 【2024-03-06】[chenxuuu / llcom](https://github.com/chenxuuu/llcom) - 🛠功能强大的串口工具。支持Lua自动化处理、串口调试、串口监听、串口曲线、TCP测试、MQTT测试、编码转换、乱码恢复等功能
 * 【2024-03-06】[Stormrider31 / Storm-Breakers](https://github.com/Stormrider31/Storm-Breakers) - An epic ocean simulation (Unity 2021+ URP)
@@ -599,6 +613,8 @@
 
 ## Html
 
+* 【2024-03-08】[citra-emu / citra-web](https://github.com/citra-emu/citra-web) - Citra website source code
+* 【2024-03-08】[Guyungy / damaihelper](https://github.com/Guyungy/damaihelper) - 支持大麦网，淘票票、缤玩岛等多个平台，演唱会演出抢票脚本
 * 【2024-03-07】[osumatu / terorist-quiz](https://github.com/osumatu/terorist-quiz) - teroristini dogru tani turkiye
 * 【2024-03-07】[hundredblocks / transcription_demo](https://github.com/hundredblocks/transcription_demo) - 
 * 【2024-03-07】[GoulartNogueira / BadUI](https://github.com/GoulartNogueira/BadUI) - Inspired by r/badUIbattles (a joke subreddit for intentionally bad UI designs). This repository aggregates all best (or worst?) bad-UI designs.
@@ -722,6 +738,10 @@
 
 ## Unknown
 
+* 【2024-03-08】[josejesusguzman / acordeon-sc900](https://github.com/josejesusguzman/acordeon-sc900) - Acordeón para pasar la certificación SC-900 e iniciar tu camino en la ciberseguridad
+* 【2024-03-08】[RemoteWLB / remote-jobs](https://github.com/RemoteWLB/remote-jobs) - A project for collecting remote jobs, updated daily 👩‍💻
+* 【2024-03-08】[spring-office-hours / resources-learning-spring](https://github.com/spring-office-hours/resources-learning-spring) - Resources for Learning Spring
+* 【2024-03-08】[datawhalechina / so-large-lm](https://github.com/datawhalechina/so-large-lm) - 大模型理论基础
 * 【2024-03-07】[wdndev / llm_interview_note](https://github.com/wdndev/llm_interview_note) - 大模型面试题及答案，大模型八股文
 * 【2024-03-07】[Meituan-AutoML / VisionLLaMA](https://github.com/Meituan-AutoML/VisionLLaMA) - 
 * 【2024-03-07】[PrincessAkira / road-to-yuzu-without-switch](https://github.com/PrincessAkira/road-to-yuzu-without-switch) - This Repo explains how to install the Yuzu Switch Emulator without a Switch
@@ -830,6 +850,14 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-03-08】[clap-rs / clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+* 【2024-03-08】[open-telemetry / opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - The Rust OpenTelemetry implementation
+* 【2024-03-08】[jadijadi / riverraidrust](https://github.com/jadijadi/riverraidrust) - A text based river ride clone in Rust; streamed
+* 【2024-03-08】[rapiz1 / rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+* 【2024-03-08】[moritztng / fltr](https://github.com/moritztng/fltr) - Like grep but for natural language questions. Based on Mistral 7B or Mixtral 8x7B.
+* 【2024-03-08】[johnthagen / min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
+* 【2024-03-08】[apollographql / router](https://github.com/apollographql/router) - A configurable, high-performance routing runtime for Apollo Federation 🚀
+* 【2024-03-08】[wasmerio / wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 * 【2024-03-07】[gleam-lang / gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 * 【2024-03-07】[ilya-zlobintsev / LACT](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Controller
 * 【2024-03-07】[rerun-io / revy](https://github.com/rerun-io/revy) - Proof-of-concept time-travel debugger for the Bevy game engine, built using Rerun.
@@ -878,6 +906,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-03-08】[observablehq / framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis.
+* 【2024-03-08】[6174 / comflowyspace](https://github.com/6174/comflowyspace) - Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.
+* 【2024-03-08】[kriasoft / react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
+* 【2024-03-08】[wormhole-foundation / wormhole](https://github.com/wormhole-foundation/wormhole) - A reference implementation for the Wormhole blockchain interoperability protocol.
+* 【2024-03-08】[ixartz / Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Library + Cypress + Storybook + Commitlint + VSCode + Netlify + PostCSS + Tailwind CSS
 * 【2024-03-07】[dubinc / dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 * 【2024-03-07】[slidevjs / slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 * 【2024-03-07】[orodrigogo / react-native-na-pratica-1](https://github.com/orodrigogo/react-native-na-pratica-1) - 😋🥗🍎 App que sugere receitas baseadas nos ingredientes selecionados.
