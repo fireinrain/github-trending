@@ -190,7 +190,10 @@ def check_and_store_db(value: dict, lang: str) -> (dict, bool, tuple):
         desc=value['description'],
         trend_date=f"{formatted_date}",
         trend_count=1,
-        category=f"{lang}"
+        category=f"{lang}",
+        repo_see=repo_statics[0],
+        repo_folk=repo_statics[1],
+        repo_star=repo_statics[2]
     )
     try:
         database.session.add(data)
