@@ -170,7 +170,8 @@ def format_date2_tg_message(message: dict, lang: str, repo_statics: tuple) -> st
 
 def check_and_store_db(value: dict, lang: str) -> (dict, bool, tuple):
     repo_statics = fetch_repo_statics(value['title'])
-
+    if repo_statics is None:
+        repo_statics = (0, 0, 0)
     if lang == '':
         lang = 'all'
     result = database.session.query(GithubTrending).filter_by(title=value['title']).first()
@@ -213,6 +214,7 @@ def check_and_store_db(value: dict, lang: str) -> (dict, bool, tuple):
 
 
 def fetch_repo_statics(repo_title: str) -> ():
+    return None
     """
     获取仓库的watch folk and star数据
     :param repo_title:
