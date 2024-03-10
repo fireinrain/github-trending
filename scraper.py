@@ -155,12 +155,17 @@ def format_date2_tg_message(message: dict, lang: str, repo_statics: tuple) -> st
         lang = 'C\+\+'
     if lang == 'c#':
         lang = 'Csharp'
-    if '|' in message['title']:
+    if '|' in message['title'] or '|' in message['description']:
         message['title'] = message['title'].replace('|', '\|')
-    if '#' in message['title']:
+        message['description'] = message['description'].replace('|', '\|')
+
+    if '#' in message['title'] or '#' in message['description']:
         message['title'] = message['title'].replace('#', '\#')
-    if '-' in message['title']:
+        message['description'] = message['description'].replace('#', '\#')
+
+    if '-' in message['title'] or '-' in message['description']:
         message['title'] = message['title'].replace('-', '\-')
+        message['description'] = message['description'].replace('-', '\-')
 
     return (f"`{message['title']}`\n"
             f"`{message['description']}`\n"
@@ -298,7 +303,7 @@ async def job():
 
 
 async def main():
-    await patch_db_with_repo_info()
+    # await patch_db_with_repo_info()
     await job()
 
 
