@@ -155,6 +155,13 @@ def format_date2_tg_message(message: dict, lang: str, repo_statics: tuple) -> st
         lang = 'C\+\+'
     if lang == 'c#':
         lang = 'Csharp'
+    if '|' in message['title']:
+        message['title'] = message['title'].replace('|', '\|')
+    if '#' in message['title']:
+        message['title'] = message['title'].replace('#', '\#')
+    if '-' in message['title']:
+        message['title'] = message['title'].replace('-', '\-')
+
     return (f"`{message['title']}`\n"
             f"`{message['description']}`\n"
             f"[Repo URL]({message['url']}) \| `👀{repo_statics[0]}` `🍴{repo_statics[1]}` `⭐{repo_statics[2]}`\n"
