@@ -16,6 +16,8 @@
 
 ## All language
 
+* 【2024-03-13】[elixir\-lang / elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+* 【2024-03-13】[ScoopInstaller / Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop.
 * 【2024-03-12】[rolldown / rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup\-compatible API.
 * 【2024-03-11】[rolldown\-rs / rolldown](https://github.com/rolldown-rs/rolldown) - Fast Rust bundler for JavaScript with Rollup\-compatible API.
 * 【2024-03-11】[hatchet\-dev / hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault\-tolerant task queue
@@ -187,6 +189,7 @@
 
 ## Java
 
+* 【2024-03-13】[smartboot / smart\-mqtt](https://github.com/smartboot/smart-mqtt) - 一款开源的云原生分布式 MQTT Broker 服务器，支持海量物联网设备互联互通。
 * 【2024-03-12】[RikkaApps / Shizuku\-API](https://github.com/RikkaApps/Shizuku-API) - The API and the developer guide for Shizuku and Sui.
 * 【2024-03-12】[mcMMO\-Dev / mcMMO](https://github.com/mcMMO-Dev/mcMMO) - The RPG Lover's Mod!
 * 【2024-03-11】[mywalkb / LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
@@ -232,6 +235,9 @@
 
 ## Python
 
+* 【2024-03-13】[Misaka\-blog / chromego_merge](https://github.com/Misaka-blog/chromego_merge) - test
+* 【2024-03-13】[KhoomeiK / LlamaGym](https://github.com/KhoomeiK/LlamaGym) - Fine\-tune LLM agents with online reinforcement learning
+* 【2024-03-13】[jackhawks / rectg](https://github.com/jackhawks/rectg) - 经过精心筛选，从 5000+ 个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在 issues 中留言或提交 pull requests。感谢您的关注！
 * 【2024-03-12】[SethBling / cbscript](https://github.com/SethBling/cbscript) - CBScript for Minecraft
 * 【2024-03-12】[mathialo / bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
 * 【2024-03-11】[hatchet-dev / hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
@@ -376,6 +382,10 @@
 
 ## Javascript
 
+* 【2024-03-13】[salmanytofficial / XLICON-V3-MD](https://github.com/salmanytofficial/XLICON-V3-MD) - XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by Salman Ahamed. It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+* 【2024-03-13】[colin\-scott / interactive_latencies](https://github.com/colin-scott/interactive_latencies) - Jeff Dean's latency numbers plotted over time
+* 【2024-03-13】[kby\-ai / facecapture\-web](https://github.com/kby-ai/facecapture-web) - This repository is the KBY\-AI Face SDK JavaScript implementation to run on web front\-end
+* 【2024-03-13】[thuservices / thuservices](https://github.com/thuservices/thuservices) - https://thu.services
 * 【2024-03-12】[open-ibc / ibc-app-solidity-template](https://github.com/open-ibc/ibc-app-solidity-template) - Template starter for IBC enabled contracts in Solidity for use with vibc-core-smart-contracts
 * 【2024-03-12】[salmanytofficial / XLICON\-V3\-MD](https://github.com/salmanytofficial/XLICON-V3-MD) - XLICON\-V3 is a Cool Multi\-Device WhatsApp bot developed by Salman Ahamed. It offers a wide range of extraordinary features, making it an advanced and user\-friendly bot for various purposes.
 * 【2024-03-12】[safak / react-estate-ui](https://github.com/safak/react-estate-ui) - 
@@ -461,6 +471,10 @@
 
 ## Go
 
+* 【2024-03-13】[pwh-pwh / aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
+* 【2024-03-13】[awslabs / diagram\-as\-code](https://github.com/awslabs/diagram-as-code) - Diagram\-as\-code for AWS architecture.
+* 【2024-03-13】[devploit / nomore403](https://github.com/devploit/nomore403) - Tool to bypass 403/40X response codes.
+* 【2024-03-13】[dream\-mo / prom\-elastic\-alert](https://github.com/dream-mo/prom-elastic-alert) - Prometheus & Alerting With ElasticSearch
 * 【2024-03-12】[pwh\-pwh / aiwechat\-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
 * 【2024-03-09】[alacleaker / apple-music-alac-downloader](https://github.com/alacleaker/apple-music-alac-downloader) - Apple Music ALAC Downloader
 * 【2024-03-07】[trap-bytes / 403jump](https://github.com/trap-bytes/403jump) - HTTP 403 bypass tool
@@ -511,6 +525,8 @@
 
 ## C
 
+* 【2024-03-13】[Next\-Flip / Momentum\-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature\-rich, stable and customizable Flipper firmware
+* 【2024-03-13】[SysRay / psOff_public](https://github.com/SysRay/psOff_public) - Playstation 4 Windows Emulator
 * 【2024-03-10】[lifehackerhansol / FBI](https://github.com/lifehackerhansol/FBI) - Open source title manager for the 3DS. (Archive)
 * 【2024-03-10】[MatthewKuKanich / FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an effective tracking device, compatible with both Apple AirTag and Samsung SmartTag. It uses the BLE beacon to broadcast, allowing users to clone existing tags, generate OpenHaystack key pairs for Apple's FindMy network, and customize beacon intervals and transmit power.
 * 【2024-03-08】[neobrain / citra](https://github.com/neobrain/citra) - Nintendo 3DS emulator/debugger
@@ -558,6 +574,9 @@
 
 ## C++
 
+* 【2024-03-13】[suyu\-emu / suyu](https://github.com/suyu-emu/suyu) - suyu, pronounced "sue\-you" (wink wink) is the continuation of the world's most popular, open\-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
+* 【2024-03-13】[TrenchBroom / TrenchBroom](https://github.com/TrenchBroom/TrenchBroom) - Cross\-Platform Level Editor
+* 【2024-03-13】[zama\-ai / concrete](https://github.com/zama-ai/concrete) - Concrete: TFHE Compiler that converts python programs into FHE equivalent
 * 【2024-03-12】[fxsound2 / fxsound\-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
 * 【2024-03-11】[sudachi-emu / sudachi](https://github.com/sudachi-emu/sudachi) - 
 * 【2024-03-10】[sudachi\-emu / sudachi](https://github.com/sudachi-emu/sudachi) - 
@@ -608,6 +627,8 @@
 
 ## C#
 
+* 【2024-03-13】[leftp / BackupCreds](https://github.com/leftp/BackupCreds) - A C\# implementation of dumping credentials from Windows Credential Manager
+* 【2024-03-13】[lasgauti / AncientMonkey](https://github.com/lasgauti/AncientMonkey) - 
 * 【2024-03-12】[yaobus / SIPAM](https://github.com/yaobus/SIPAM) - IP地址分配管理系统
 * 【2024-03-11】[MzHmO / Parasite\-Invoke](https://github.com/MzHmO/Parasite-Invoke) - Hide your P/Invoke signatures through other people's signed assemblies
 * 【2024-03-11】[Exitium\-DEV / HD2\-Cheat\-Launcher](https://github.com/Exitium-DEV/HD2-Cheat-Launcher) - 
@@ -667,6 +688,9 @@
 
 ## Html
 
+* 【2024-03-13】[xz / new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
+* 【2024-03-13】[Tailus\-UI / ada\-html](https://github.com/Tailus-UI/ada-html) - Modern html landing page built with tailus themer
+* 【2024-03-13】[BugBearer / GPT-INT](https://github.com/BugBearer/GPT-INT) - An extension for Visual Studio Code that integrates the power of OpenAI's GPT models into VSCode.
 * 【2024-03-12】[mrchoke / workshop\-portal](https://github.com/mrchoke/workshop-portal) - ส่งงาน
 * 【2024-03-11】[BugBearer / GPT\-INT](https://github.com/BugBearer/GPT-INT) - An extension for Visual Studio Code that integrates the power of OpenAI's GPT models into VSCode.
 * 【2024-03-10】[AndrewVeee / nucleo\-ai](https://github.com/AndrewVeee/nucleo-ai) - An AI assistant beyond the chat box.
@@ -796,6 +820,11 @@
 
 ## Unknown
 
+* 【2024-03-13】[shashankrustagi / DSA\-IITD\-NaveenGarg](https://github.com/shashankrustagi/DSA-IITD-NaveenGarg) - DSA notes of Dr Naveen Garg, IIT Delhi, NPTEL
+* 【2024-03-13】[pilcrowOnPaper / copenhagen](https://github.com/pilcrowOnPaper/copenhagen) - A basic guideline on implementing auth for the web
+* 【2024-03-13】[PixArt\-alpha / PixArt\-sigma](https://github.com/PixArt-alpha/PixArt-sigma) - New PixArt Model, Faster, Stronger, Better
+* 【2024-03-13】[yizhen20133868 / Awesome-SLU-Survey](https://github.com/yizhen20133868/Awesome-SLU-Survey) - Tracking the progress in SLU (resources, code, and new frontiers etc.)
+* 【2024-03-13】[kby\-ai / IDCardRecognition\-Android](https://github.com/kby-ai/IDCardRecognition-Android) - ID card recognition Android
 * 【2024-03-12】[nenalukic / free\-datasets\-APIs](https://github.com/nenalukic/free-datasets-APIs) - 
 * 【2024-03-12】[ruesandora / Polymer](https://github.com/ruesandora/Polymer) - 
 * 【2024-03-12】[ruesandora / AO](https://github.com/ruesandora/AO) - 
@@ -922,6 +951,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-03-13】[microsoft / aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
+* 【2024-03-13】[rust\-lang / rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
+* 【2024-03-13】[jito-foundation / jito-solana](https://github.com/jito-foundation/jito-solana) - Jito Foundation MEV Solana Client
 * 【2024-03-12】[YaLTeR / niri](https://github.com/YaLTeR/niri) - A scrollable\-tiling Wayland compositor.
 * 【2024-03-12】[apache / opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely.
 * 【2024-03-12】[diesel\-rs / diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
@@ -1005,6 +1037,13 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-03-13】[fdundjer / solana-sniper-bot](https://github.com/fdundjer/solana-sniper-bot) - Solana Sniper Bot - Proof of Concept
+* 【2024-03-13】[jacoblee93 / fully-local-pdf-chatbot](https://github.com/jacoblee93/fully-local-pdf-chatbot) - Yes, it's another chat over documents implementation... but this one is entirely local!
+* 【2024-03-13】[SAP / btp\-solution\-diagrams](https://github.com/SAP/btp-solution-diagrams) - SAP Business Technology Platform solution diagram repository, based on the official SAP BTP Solution diagram guideline. This has been designed in accordance with the SAP Fiori Horizon principles and color palette which provides a holistic and pleasing aesthetic and user experience.
+* 【2024-03-13】[polkadot-js / apps](https://github.com/polkadot-js/apps) - Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains.
+* 【2024-03-13】[AmbroseX / Awesome-AISourceHub](https://github.com/AmbroseX/Awesome-AISourceHub) - 本仓库收集AI科技领域高质量信息源。 可以起到一个同步信息源的作用，避免信息差和信息茧房。
+* 【2024-03-13】[DefinitelyTyped / DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+* 【2024-03-13】[tiangolo / full\-stack\-fastapi\-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 * 【2024-03-12】[AmbroseX / Awesome\-AISourceHub](https://github.com/AmbroseX/Awesome-AISourceHub) - 本仓库收集AI科技领域高质量信息源。 可以起到一个同步信息源的作用，避免信息差和信息茧房。
 * 【2024-03-12】[fdundjer / solana\-sniper\-bot](https://github.com/fdundjer/solana-sniper-bot) - Solana Sniper Bot \- Proof of Concept
 * 【2024-03-12】[pingdotgg / uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
