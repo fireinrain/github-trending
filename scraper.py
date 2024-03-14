@@ -171,8 +171,7 @@ def format_date2_tg_message(message: dict, lang: str, repo_statics: tuple) -> st
 
 def check_and_store_db(value: dict, lang: str) -> (dict, bool, tuple):
     repo_statics = fetch_repo_statics(value['title'])
-    if repo_statics is None:
-        repo_statics = (0, 0, 0)
+    print(f">>> 当前仓库信息: {repo_statics}")
     if lang == '':
         lang = 'all'
     result = database.session.query(GithubTrending).filter_by(title=value['title']).first()
@@ -180,16 +179,20 @@ def check_and_store_db(value: dict, lang: str) -> (dict, bool, tuple):
         # update trend_count data
         trend_count = result.trend_count
         result.trend_count = trend_count + 1
-        result.repo_see = repo_statics[0]
-        result.repo_folk = repo_statics[1]
-        result.repo_star = repo_statics[2]
+        if repo_statics is not None and repo_statics[3] is True:
+            result.repo_see = repo_statics[0]
+            result.repo_folk = repo_statics[1]
+            result.repo_star = repo_statics[2]
         # 仓库被删除了 404
         if not repo_statics[3]:
             result.repo_status = 0
         else:
             result.repo_status = 1
-
-        database.session.commit()
+        try:
+            database.session.commit()
+        except Exception as e:
+            print(f">>> 更新Github trending记录失败: {e}")
+            database.session.rollback()
 
         print(f">>> Title: {result.title}, URL: {result.url}, Description: {result.desc},当前仓库已经推送过,做跳过处理")
         return value, True, repo_statics
@@ -241,6 +244,11 @@ def fetch_repo_statics(repo_title: str) -> ():
         response = requests.get(api_url, headers=headers)
         # response.raise_for_status()  # Check for errors
         if response.status_code == 404:
+            print(f">>> 当前仓库404状态，已被删除: {username}/{repo_name}")
+            return 0, 0, 0, False
+        if response.status_code != 200:
+            print(f">>> 当前请求可能触发Github api limit限制.")
+            print(f">>> {response.text}")
             return 0, 0, 0, False
         repo_data = response.json()
 
@@ -266,7 +274,7 @@ async def patch_db_with_repo_info():
             repo.repo_see = statics[0]
             repo.repo_folk = statics[1]
             repo.repo_star = statics[2]
-            repo.repo_status = 0
+            repo.repo_status = 1
             try:
                 database.session.commit()
             except Exception as e:
@@ -277,10 +285,10 @@ async def patch_db_with_repo_info():
         else:
             print(f">>> Failed to get repo data: {repo.title}")
             print(f">>> May be the repo does not exist: {repo.url}")
-        await asyncio.sleep(10)
+        await asyncio.sleep(5)
 
 
-async def job():
+async def fetch_push_ghtendings_job():
     """
     Get archived contents
     """
@@ -299,7 +307,7 @@ async def job():
                 format_data = format_date2_tg_message(value, lang, repo_statics)
                 await telegrambot.send_message2bot(format_data)
                 await asyncio.sleep(2)
-            await asyncio.sleep(1)
+            await asyncio.sleep(5)
         # release db connection
         database.session.close()
         write_markdown(lang, results, archived_contents)
@@ -307,7 +315,7 @@ async def job():
 
 async def main():
     # await patch_db_with_repo_info()
-    await job()
+    await fetch_push_ghtendings_job()
 
 
 if __name__ == '__main__':

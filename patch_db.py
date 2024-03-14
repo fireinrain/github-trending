@@ -46,8 +46,9 @@ def fetch_repo_statics(repo_title: str) -> ():
 
 
 def patch_db_with_repo_info():
+    # repo_star=0 and repo_status =1
     need_to_patch = database.session.query(
-        database.GithubTrending).filter_by(repo_star=0).filter_by(repo_status=1).all()
+        database.GithubTrending).filter_by(repo_star=0, repo_status=0).all()
     for repo in need_to_patch:
         # fetch repo data
         statics = fetch_repo_statics(repo.title)
@@ -55,7 +56,7 @@ def patch_db_with_repo_info():
             repo.repo_see = statics[0]
             repo.repo_folk = statics[1]
             repo.repo_star = statics[2]
-            repo.repo_status = 0
+            repo.repo_status = 1
             try:
                 database.session.commit()
             except Exception as e:
