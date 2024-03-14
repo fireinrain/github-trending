@@ -3,6 +3,7 @@ import asyncio
 import os
 import datetime
 import time
+from fake_useragent import UserAgent
 
 import requests
 import urllib.parse
@@ -12,12 +13,7 @@ from database import GithubTrending
 import database
 import telegrambot
 
-GITHUB_TOKEN = None
-github_token = os.getenv('GH_TOKEN')
-if github_token:
-    GITHUB_TOKEN = github_token
-else:
-    print(f"you must provide a github token!")
+ua = UserAgent()
 
 
 def scrape_url(url):
@@ -30,7 +26,7 @@ def scrape_url(url):
         'Accept-Language': 'zh-CN,zh;q=0.8'
     }
 
-    print(f"Fetch link: {url}")
+    print(f">>> Fetch link: {url}")
     r = requests.get(url, headers=HEADERS)
     assert r.status_code == 200
 
@@ -92,7 +88,7 @@ def convert_file_contenet(content, lang, results, archived_contents):
             distinct_results.append(result)
 
     if not distinct_results:
-        print('There is no distinct results')
+        print('>>> There is no distinct results')
         return content
 
     lang_title = convert_lang_title(lang)
@@ -187,9 +183,15 @@ def check_and_store_db(value: dict, lang: str) -> (dict, bool, tuple):
         result.repo_see = repo_statics[0]
         result.repo_folk = repo_statics[1]
         result.repo_star = repo_statics[2]
+        # 仓库被删除了 404
+        if not repo_statics[3]:
+            result.repo_status = 0
+        else:
+            result.repo_status = 1
+
         database.session.commit()
 
-        print(f"Title: {result.title}, URL: {result.url}, Description: {result.desc},当前仓库已经推送过,做跳过处理")
+        print(f">>> Title: {result.title}, URL: {result.url}, Description: {result.desc},当前仓库已经推送过,做跳过处理")
         return value, True, repo_statics
     # insert to db
     # 获取当前日期
@@ -206,20 +208,20 @@ def check_and_store_db(value: dict, lang: str) -> (dict, bool, tuple):
         category=f"{lang}",
         repo_see=repo_statics[0],
         repo_folk=repo_statics[1],
-        repo_star=repo_statics[2]
+        repo_star=repo_statics[2],
+        repo_status=1,
     )
     try:
         database.session.add(data)
         database.session.commit()
-        print(f"Insert new github trending data successfully!")
+        print(f">>> Insert new github trending data successfully!")
     except Exception as e:
-        print(f"Error creating new record for github trending data: {data}")
+        print(f">>> Error creating new record for github trending data: {data}")
         database.session.rollback()
     return value, False, repo_statics
 
 
 def fetch_repo_statics(repo_title: str) -> ():
-    return None
     """
     获取仓库的watch folk and star数据
     :param repo_title:
@@ -231,8 +233,8 @@ def fetch_repo_statics(repo_title: str) -> ():
     api_url = f'https://api.github.com/repos/{username}/{repo_name}'
 
     headers = {
-        'Authorization': f'Token {GITHUB_TOKEN}',
-        'Accept': 'application/vnd.github.v3+json'
+        'User-Agent': ua.random,
+        'Accept': 'application/vnd.github.v3+json',
     }
     # print(f"current token: {GITHUB_TOKEN}")
     try:
@@ -250,7 +252,7 @@ def fetch_repo_statics(repo_title: str) -> ():
         return watch_count, forks_count, stars_count, True
 
     except requests.exceptions.RequestException as e:
-        print(f"Error fetching data: {e}")
+        print(f">>> Error fetching data: {e}")
 
     return None
 
@@ -268,13 +270,13 @@ async def patch_db_with_repo_info():
             try:
                 database.session.commit()
             except Exception as e:
-                print("Failed to patch repo data: " + str(e))
+                print(">>> Failed to patch repo data: " + str(e))
                 database.session.rollback()
                 continue
-            print(f"Patching repo data success: {repo.title}")
+            print(f">>> Patching repo data success: {repo.title}")
         else:
-            print(f"Failed to get repo data: {repo.title}")
-            print(f"May be the repo does not exist: {repo.url}")
+            print(f">>> Failed to get repo data: {repo.title}")
+            print(f">>> May be the repo does not exist: {repo.url}")
         await asyncio.sleep(10)
 
 
@@ -293,10 +295,11 @@ async def job():
         for key, value in results.items():
             value, have_push, repo_statics = check_and_store_db(value, lang)
             if not have_push:
-                print(f"发现新的github trending记录,正在推送到telegram 频道...")
+                print(f">>> 发现新的github trending记录,正在推送到telegram 频道...")
                 format_data = format_date2_tg_message(value, lang, repo_statics)
                 await telegrambot.send_message2bot(format_data)
                 await asyncio.sleep(2)
+            await asyncio.sleep(1)
         # release db connection
         database.session.close()
         write_markdown(lang, results, archived_contents)
