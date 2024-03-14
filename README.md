@@ -199,6 +199,8 @@
 
 ## Java
 
+* 【2024-03-14】[liyupi / yu-rpc](https://github.com/liyupi/yu-rpc) - 从 0 到 1，带你开发自己的 RPC 框架
+* 【2024-03-14】[spring-projects / spring-data-redis](https://github.com/spring-projects/spring-data-redis) - Provides support to increase developer productivity in Java when using Redis, a key-value store. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
 * 【2024-03-14】[liyupi / yu\-rpc](https://github.com/liyupi/yu-rpc) - 从 0 到 1，带你开发自己的 RPC 框架
 * 【2024-03-14】[spring\-projects / spring\-data\-redis](https://github.com/spring-projects/spring-data-redis) - Provides support to increase developer productivity in Java when using Redis, a key\-value store. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
 * 【2024-03-13】[smartboot / smart\-mqtt](https://github.com/smartboot/smart-mqtt) - 一款开源的云原生分布式 MQTT Broker 服务器，支持海量物联网设备互联互通。
@@ -247,6 +249,9 @@
 
 ## Python
 
+* 【2024-03-14】[openai / transformer-debugger](https://github.com/openai/transformer-debugger) - 
+* 【2024-03-14】[princeton-nlp / SWE-bench](https://github.com/princeton-nlp/SWE-bench) - [ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues?
+* 【2024-03-14】[PygmalionAI / aphrodite-engine](https://github.com/PygmalionAI/aphrodite-engine) - PygmalionAI's large-scale inference engine
 * 【2024-03-14】[BAAI-Agents / Cradle](https://github.com/BAAI-Agents/Cradle) - The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self-improvment, and skill curation, in a standardized general environment with minimal requirements.
 * 【2024-03-14】[openai / transformer\-debugger](https://github.com/openai/transformer-debugger) - 
 * 【2024-03-14】[princeton\-nlp / SWE\-bench](https://github.com/princeton-nlp/SWE-bench) - [ICLR 2024] SWE\-Bench: Can Language Models Resolve Real\-world Github Issues?
@@ -551,6 +556,7 @@
 
 ## C
 
+* 【2024-03-14】[tumuyan / RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, nearest, bilinear, bicubic, AVIR.
 * 【2024-03-14】[tumuyan / RealSR\-NCNN\-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super\-resolution & interpolation. Contains RealSR\-NCNN, SRMD\-NCNN, RealCUGAN\-NCNN, Real\-ESRGAN\-NCNN, Waifu2x\-NCNN, nearest, bilinear, bicubic, AVIR.
 * 【2024-03-14】[EpicGamesExt / raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user\-mode, multi\-process, graphical debugger.
 * 【2024-03-14】[rkaehn / cr_task.h](https://github.com/rkaehn/cr_task.h) - Header\-only library for asynchronous tasks in C
@@ -603,6 +609,7 @@
 
 ## C++
 
+* 【2024-03-14】[suchetanrs / ORB-SLAM3-ROS2-Docker](https://github.com/suchetanrs/ORB-SLAM3-ROS2-Docker) - This repository contains a full wrapper class for running ORB-SLAM3 on a docker container with ROS2 Humble with Ubuntu 22.04.
 * 【2024-03-14】[electronicarts / CNC_TS_and_RA2_Mission_Editor](https://github.com/electronicarts/CNC_TS_and_RA2_Mission_Editor) - FinalSun & FinalAlert2 Level Editors
 * 【2024-03-14】[MetaWu2077 / Esp32_VoiceChat_LLMs](https://github.com/MetaWu2077/Esp32_VoiceChat_LLMs) - esp32 based device, mainly used for voice chat with large language models
 * 【2024-03-14】[Wh04m1001 / GamingServiceEoP](https://github.com/Wh04m1001/GamingServiceEoP) - 
@@ -661,6 +668,7 @@
 
 ## C#
 
+* 【2024-03-14】[betwixt-labs / bebop](https://github.com/betwixt-labs/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
 * 【2024-03-14】[betwixt\-labs / bebop](https://github.com/betwixt-labs/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
 * 【2024-03-14】[dbrizov / NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter) - Third Person Controller for Unity
 * 【2024-03-14】[ulomaramma / JWTAuthenticationWebAPI](https://github.com/ulomaramma/JWTAuthenticationWebAPI) - 
@@ -726,6 +734,7 @@
 
 ## Html
 
+* 【2024-03-14】[wuhobin / blog-home](https://github.com/wuhobin/blog-home) - 一个干净简洁的个人作品集合主页
 * 【2024-03-14】[midudev / eloquent-javascript-es](https://github.com/midudev/eloquent-javascript-es) - Traducción del libro Eloquent JavaScript en Español
 * 【2024-03-14】[wuhobin / blog\-home](https://github.com/wuhobin/blog-home) - 一个干净简洁的个人作品集合主页
 * 【2024-03-14】[midudev / eloquent\-javascript\-es](https://github.com/midudev/eloquent-javascript-es) - Traducción del libro Eloquent JavaScript en Español
@@ -1002,6 +1011,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-03-14】[astral-sh / ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
+* 【2024-03-14】[rustdesk / rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
+* 【2024-03-14】[ad-si / Rust-Flashcards](https://github.com/ad-si/Rust-Flashcards) - Over 550 flashcards to learn Rust from first principles. Written in markdown with script to convert them to an Anki deck or PDF file.
 * 【2024-03-14】[astral\-sh / ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 * 【2024-03-14】[jdx / mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 * 【2024-03-14】[rustdesk / rustdesk\-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
@@ -1099,6 +1111,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-03-14】[lqzhgood / wechat-need-web](https://github.com/lqzhgood/wechat-need-web) - 让微信网页版可用 / Allow the use of WeChat via webpage access
+* 【2024-03-14】[KevinVandy / material-react-table](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
 * 【2024-03-14】[lqzhgood / wechat\-need\-web](https://github.com/lqzhgood/wechat-need-web) - 让微信网页版可用 / Allow the use of WeChat via webpage access
 * 【2024-03-14】[ueberdosis / tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 * 【2024-03-14】[unjs / h3](https://github.com/unjs/h3) - ⚡️ Minimal H(TTP) framework built for high performance and portability
