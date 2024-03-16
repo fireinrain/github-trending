@@ -29,6 +29,11 @@ def fetch_repo_statics(repo_title: str) -> ():
         response = requests.get(api_url, headers=headers)
         # response.raise_for_status()  # Check for errors
         if response.status_code == 404:
+            print(f">>> 当前仓库404状态，已被删除: {username}/{repo_name}")
+            return 0, 0, 0, False
+        if response.status_code != 200:
+            print(f">>> 当前请求可能触发Github api limit限制.")
+            print(f">>> {response.text}")
             return 0, 0, 0, False
         repo_data = response.json()
 
@@ -40,7 +45,7 @@ def fetch_repo_statics(repo_title: str) -> ():
         return watch_count, forks_count, stars_count, True
 
     except requests.exceptions.RequestException as e:
-        print(f"Error fetching data: {e}")
+        print(f">>> Error fetching data: {e}")
 
     return None
 
@@ -48,7 +53,7 @@ def fetch_repo_statics(repo_title: str) -> ():
 def patch_db_with_repo_info():
     # repo_star=0 and repo_status =1
     need_to_patch = database.session.query(
-        database.GithubTrending).filter_by(repo_star=0, repo_status=0).all()
+        database.GithubTrending).filter_by(repo_star=0, repo_status=1).all()
     for repo in need_to_patch:
         # fetch repo data
         statics = fetch_repo_statics(repo.title)
@@ -57,6 +62,7 @@ def patch_db_with_repo_info():
             repo.repo_folk = statics[1]
             repo.repo_star = statics[2]
             repo.repo_status = 1
+            print(f">>>: {statics}")
             try:
                 database.session.commit()
             except Exception as e:
@@ -67,7 +73,7 @@ def patch_db_with_repo_info():
         else:
             print(f"Failed to get repo data: {repo.title}")
             print(f"May be the repo does not exist: {repo.url}")
-        time.sleep(1)
+        time.sleep(3)
 
 
 if __name__ == '__main__':

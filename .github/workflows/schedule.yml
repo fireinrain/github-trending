@@ -32,7 +32,7 @@ jobs:
 
     - name: Run Scraper
       run: |
-        python scraper.py
+        python main.py
 
     - name: Check for changes
       id: git-status
