@@ -142,15 +142,24 @@ def get_archived_contents():
 
 def format_date2_tg_message(message: dict, lang: str, repo_statics: tuple) -> str:
     current_date = datetime.now()
-
+    # 'java', 'python', 'go', 'javascript', 'typescript', 'c', 'c++', 'c#', 'rust', 'html', 'unknown'
+    format_lang_map = {
+        '': 'All',
+        'java': 'Java',
+        'python': 'Python',
+        'javascript': 'Javascript',
+        'typescript': 'Typescript',
+        'c': 'C',
+        'c++': 'Cplusplus',
+        'c#': 'Csharp',
+        'rust': 'Rust',
+        'html': 'Html',
+        'unknown': 'Unknown'
+    }
+    temp_lang = lang
     # 格式化日期为"20201112"形式
     formatted_date = current_date.strftime("%Y%m%d")
-    if lang == '':
-        lang = 'all'
-    if lang == 'c++':
-        lang = 'C\+\+'
-    if lang == 'c#':
-        lang = 'Csharp'
+    lang = format_lang_map[temp_lang.strip()]
     if '|' in message['title'] or '|' in message['description']:
         message['title'] = message['title'].replace('|', '\|')
         message['description'] = message['description'].replace('|', '\|')
@@ -166,12 +175,11 @@ def format_date2_tg_message(message: dict, lang: str, repo_statics: tuple) -> st
     return (f"`{message['title']}`\n"
             f"`{message['description']}`\n"
             f"[Repo URL]({message['url']}) \| `👀{repo_statics[0]}` `🍴{repo_statics[1]}` `⭐{repo_statics[2]}`\n"
-            f"\#D{formatted_date}\_{lang} \#{lang}")
+            f"\#D{formatted_date} \#D{formatted_date}\_{lang} \#{lang}")
 
 
 def check_and_store_db(value: dict, lang: str) -> (dict, bool, tuple):
-    repo_statics = fetch_repo_statics(value['title'])
-    print(f">>> 当前仓库信息: {repo_statics}")
+    repo_statics = None
     if lang == '':
         lang = 'all'
     result = database.session.query(GithubTrending).filter_by(title=value['title']).first()
@@ -179,15 +187,14 @@ def check_and_store_db(value: dict, lang: str) -> (dict, bool, tuple):
         # update trend_count data
         trend_count = result.trend_count
         result.trend_count = trend_count + 1
-        if repo_statics is not None and repo_statics[3] is True:
-            result.repo_see = repo_statics[0]
-            result.repo_folk = repo_statics[1]
-            result.repo_star = repo_statics[2]
+        repo_statics = []
+        repo_statics[0] = result.repo_see
+        repo_statics[1] = result.repo_folk
+        repo_statics[2] = result.repo_star
+        repo_statics[3] = True
+        result.repo_status = 1
         # 仓库被删除了 404
-        if not repo_statics[3]:
-            result.repo_status = 0
-        else:
-            result.repo_status = 1
+
         try:
             database.session.commit()
         except Exception as e:
@@ -198,6 +205,8 @@ def check_and_store_db(value: dict, lang: str) -> (dict, bool, tuple):
         return value, True, repo_statics
     # insert to db
     # 获取当前日期
+    repo_statics = fetch_repo_statics(value['title'])
+    print(f">>> 当前仓库信息: {repo_statics}")
     current_date = datetime.now()
 
     # 格式化日期为"20201112"形式
