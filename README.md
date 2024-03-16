@@ -16,6 +16,12 @@
 
 ## All language
 
+* 【2024-03-16】[lavague\-ai / LaVague](https://github.com/lavague-ai/LaVague) - Automate automation with Large Action Model framework
+* 【2024-03-16】[Mintimate / oh\-my\-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate. QQ Chat\-Group: 703260572
+* 【2024-03-16】[diia\-open\-source / ios\-diia](https://github.com/diia-open-source/ios-diia) - 
+* 【2024-03-16】[tk04 / Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files
+* 【2024-03-16】[diia\-open\-source / android\-diia](https://github.com/diia-open-source/android-diia) - 
+* 【2024-03-16】[vis\-three / scene\-editor](https://github.com/vis-three/scene-editor) - vis\-three框架衍生出的全自定义web3D场景编辑器
 * 【2024-03-14】[krishnaik06 / Data\-Science\-Gen\-AI\-Playlist\-2024](https://github.com/krishnaik06/Data-Science-Gen-AI-Playlist-2024) - 
 * 【2024-03-14】[BAAI\-Agents / Cradle](https://github.com/BAAI-Agents/Cradle) - The Cradle framework is a first attempt at General Computer Control (GCC). Cradle supports agents to ace any computer task by enabling strong reasoning abilities, self\-improvment, and skill curation, in a standardized general environment with minimal requirements.
 * 【2024-03-14】[suyu-emu / suyu](https://github.com/suyu-emu/suyu) - suyu, pronounced "sue-you" (wink wink) is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
@@ -249,6 +255,10 @@
 
 ## Python
 
+* 【2024-03-16】[lavague-ai / LaVague](https://github.com/lavague-ai/LaVague) - Automate automation with Large Action Model framework
+* 【2024-03-16】[luijait / DarkGPT](https://github.com/luijait/DarkGPT) - DarkGPT is an OSINT assistant based on GPT\-4\-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes.
+* 【2024-03-16】[phospho\-app / phospho](https://github.com/phospho-app/phospho) - Text analytics for LLM apps. PostHog for prompts. Extract evaluations, intents and events from text messages. phospho leverages LLM (OpenAI, MistralAI, Ollama, etc.)
+* 【2024-03-16】[microsoft / presidio](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and de\-identification SDK for text and images
 * 【2024-03-14】[openai / transformer-debugger](https://github.com/openai/transformer-debugger) - 
 * 【2024-03-14】[princeton-nlp / SWE-bench](https://github.com/princeton-nlp/SWE-bench) - [ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues?
 * 【2024-03-14】[PygmalionAI / aphrodite-engine](https://github.com/PygmalionAI/aphrodite-engine) - PygmalionAI's large-scale inference engine
@@ -410,6 +420,8 @@
 
 ## Javascript
 
+* 【2024-03-16】[said7388 / developer\-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
+* 【2024-03-16】[Eclipse\-Laboratories\-Inc / eclipse\-wallet](https://github.com/Eclipse-Laboratories-Inc/eclipse-wallet) - 
 * 【2024-03-14】[wasmerio / winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
 * 【2024-03-14】[lulu5239 / view\-loggers](https://github.com/lulu5239/view-loggers) - 
 * 【2024-03-13】[salmanytofficial / XLICON-V3-MD](https://github.com/salmanytofficial/XLICON-V3-MD) - XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by Salman Ahamed. It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
@@ -609,6 +621,8 @@
 
 ## C++
 
+* 【2024-03-16】[flox / flox](https://github.com/flox/flox) - Developer environments you can take with you
+* 【2024-03-16】[zama-ai / concrete](https://github.com/zama-ai/concrete) - Concrete: TFHE Compiler that converts python programs into FHE equivalent
 * 【2024-03-14】[suchetanrs / ORB-SLAM3-ROS2-Docker](https://github.com/suchetanrs/ORB-SLAM3-ROS2-Docker) - This repository contains a full wrapper class for running ORB-SLAM3 on a docker container with ROS2 Humble with Ubuntu 22.04.
 * 【2024-03-14】[electronicarts / CNC_TS_and_RA2_Mission_Editor](https://github.com/electronicarts/CNC_TS_and_RA2_Mission_Editor) - FinalSun & FinalAlert2 Level Editors
 * 【2024-03-14】[MetaWu2077 / Esp32_VoiceChat_LLMs](https://github.com/MetaWu2077/Esp32_VoiceChat_LLMs) - esp32 based device, mainly used for voice chat with large language models
@@ -668,6 +682,9 @@
 
 ## C#
 
+* 【2024-03-16】[Vietsens / hisnguonmo](https://github.com/Vietsens/hisnguonmo) - His nguồn mở
+* 【2024-03-16】[oleg\-shilo / wixsharp](https://github.com/oleg-shilo/wixsharp) - Framework for building a complete MSI or WiX source code by using script files written with C\# syntax.
+* 【2024-03-16】[AIDotNet / fast\-wiki](https://github.com/AIDotNet/fast-wiki) - 基于.NET8+React+LobeUI实现的企业级智能客服知识库
 * 【2024-03-14】[betwixt-labs / bebop](https://github.com/betwixt-labs/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
 * 【2024-03-14】[betwixt\-labs / bebop](https://github.com/betwixt-labs/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
 * 【2024-03-14】[dbrizov / NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter) - Third Person Controller for Unity
@@ -734,6 +751,7 @@
 
 ## Html
 
+* 【2024-03-16】[skills-cogrammar / C7-Lecture-Backpack](https://github.com/skills-cogrammar/C7-Lecture-Backpack) - Lecture Content for Software Engineering, Data Science, and Full Stack Web Development Students
 * 【2024-03-14】[wuhobin / blog-home](https://github.com/wuhobin/blog-home) - 一个干净简洁的个人作品集合主页
 * 【2024-03-14】[midudev / eloquent-javascript-es](https://github.com/midudev/eloquent-javascript-es) - Traducción del libro Eloquent JavaScript en Español
 * 【2024-03-14】[wuhobin / blog\-home](https://github.com/wuhobin/blog-home) - 一个干净简洁的个人作品集合主页
@@ -872,6 +890,12 @@
 
 ## Unknown
 
+* 【2024-03-16】[decodingml / llm\-twin\-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production\-Ready AI Replica \| An End\-to\-End Framework for Production\-Ready LLM Systems by Building Your LLM Twin \| WIP...
+* 【2024-03-16】[telegram\-sgk / SGK_Sites_and_Bots](https://github.com/telegram-sgk/SGK_Sites_and_Bots) - 免费在线社工库，免费Telegram社工库
+* 【2024-03-16】[OceanNg529 / allAI](https://github.com/OceanNg529/allAI) - 
+* 【2024-03-16】[diia\-open\-source / diia\-setup\-howto](https://github.com/diia-open-source/diia-setup-howto) - 
+* 【2024-03-16】[cipher387 / cheatsheets](https://github.com/cipher387/cheatsheets) - High quality and text versions of cheat sheets from Cyber Detective Twitter
+* 【2024-03-16】[PeachTeaaa / Aviator\-Prediction\-Tool](https://github.com/PeachTeaaa/Aviator-Prediction-Tool) - Best prediction tool for Aviator, requests USB cable and PC for installation on your device
 * 【2024-03-14】[krishnaik06 / Data-Science-Gen-AI-Playlist-2024](https://github.com/krishnaik06/Data-Science-Gen-AI-Playlist-2024) - 
 * 【2024-03-14】[subat0mik / Misconfiguration-Manager](https://github.com/subat0mik/Misconfiguration-Manager) - Misconfiguration Manager is a central knowledge base for all known Microsoft Configuration Manager tradecraft and associated defensive and hardening guidance.
 * 【2024-03-14】[ai-boost / awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
@@ -1011,6 +1035,11 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-03-16】[false\-spring / gbfr\-logs](https://github.com/false-spring/gbfr-logs) - Overlay DPS Meter for Granblue Fantasy: Relink
+* 【2024-03-16】[veryl\-lang / veryl](https://github.com/veryl-lang/veryl) - Veryl: A Modern Hardware Description Language
+* 【2024-03-16】[pvolok / mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+* 【2024-03-16】[EvilGenius\-dot / RustMinerSystem](https://github.com/EvilGenius-dot/RustMinerSystem) - 🔥minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy 矿池中转 矿池抽水 矿池抽水 矿池中转
+* 【2024-03-16】[tauri\-apps / plugins\-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
 * 【2024-03-14】[astral-sh / ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 * 【2024-03-14】[rustdesk / rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 * 【2024-03-14】[ad-si / Rust-Flashcards](https://github.com/ad-si/Rust-Flashcards) - Over 550 flashcards to learn Rust from first principles. Written in markdown with script to convert them to an Anki deck or PDF file.
@@ -1111,6 +1140,13 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-03-16】[maplibre / maplibre\-gl\-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS \- Interactive vector tile maps in WebGL2
+* 【2024-03-16】[blefnk / relivator](https://github.com/blefnk/relivator) - Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS ORM, Intl App Router, Mdx Docs User Actions Kit, SaaS Commerce Shop Pricing Payments, Dark Mode, Modern Full Stack, Free ▲ more stars → more features
+* 【2024-03-16】[vueuse / vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
+* 【2024-03-16】[getsentry / sentry\-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
+* 【2024-03-16】[EvolutionAPI / evolution-api](https://github.com/EvolutionAPI/evolution-api) - Evolution API is an open-source WhatsApp integration API
+* 【2024-03-16】[niklasvh / html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
+* 【2024-03-16】[sonofmagic / weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - bring tailwindcss to weapp ! 把 `tailwindcss` 原子化思想带入小程序开发吧 ! 原 `weapp-tailwindcss-webpack-plugin`
 * 【2024-03-14】[lqzhgood / wechat-need-web](https://github.com/lqzhgood/wechat-need-web) - 让微信网页版可用 / Allow the use of WeChat via webpage access
 * 【2024-03-14】[KevinVandy / material-react-table](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
 * 【2024-03-14】[lqzhgood / wechat\-need\-web](https://github.com/lqzhgood/wechat-need-web) - 让微信网页版可用 / Allow the use of WeChat via webpage access
