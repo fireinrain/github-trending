@@ -16,6 +16,12 @@
 
 ## All language
 
+* 【2024-03-17】[Unity\-Technologies / megacity\-metro](https://github.com/Unity-Technologies/megacity-metro) - Megacity\-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, demonstrating how to craft engaging multiplayer games.
+* 【2024-03-17】[Skyvern\-AI / skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser\-based workflows with LLMs and Computer Vision
+* 【2024-03-17】[said7388 / developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
+* 【2024-03-17】[lsc4719 / MyViewOfLinuxSystems](https://github.com/lsc4719/MyViewOfLinuxSystems) - 
+* 【2024-03-17】[diia-open-source / ios-diia](https://github.com/diia-open-source/ios-diia) - 
+* 【2024-03-17】[pancakeswap / pancake\-frontend](https://github.com/pancakeswap/pancake-frontend) - 🥞 Pancake main features (farms, pools, IFO, lottery, profiles)
 * 【2024-03-16】[lavague\-ai / LaVague](https://github.com/lavague-ai/LaVague) - Automate automation with Large Action Model framework
 * 【2024-03-16】[Mintimate / oh\-my\-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate. QQ Chat\-Group: 703260572
 * 【2024-03-16】[diia\-open\-source / ios\-diia](https://github.com/diia-open-source/ios-diia) - 
@@ -205,6 +211,7 @@
 
 ## Java
 
+* 【2024-03-17】[marcushellberg / java\-ai\-playground](https://github.com/marcushellberg/java-ai-playground) - 
 * 【2024-03-14】[liyupi / yu-rpc](https://github.com/liyupi/yu-rpc) - 从 0 到 1，带你开发自己的 RPC 框架
 * 【2024-03-14】[spring-projects / spring-data-redis](https://github.com/spring-projects/spring-data-redis) - Provides support to increase developer productivity in Java when using Redis, a key-value store. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
 * 【2024-03-14】[liyupi / yu\-rpc](https://github.com/liyupi/yu-rpc) - 从 0 到 1，带你开发自己的 RPC 框架
@@ -255,6 +262,9 @@
 
 ## Python
 
+* 【2024-03-17】[Skyvern-AI / skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
+* 【2024-03-17】[zurdi15 / romm](https://github.com/zurdi15/romm) - A beautiful, powerful, self\-hosted rom manager
+* 【2024-03-17】[naver\-ai / Visual\-Style\-Prompting](https://github.com/naver-ai/Visual-Style-Prompting) - Official Pytorch implementation of "Visual Style Prompting with Swapping Self\-Attention"
 * 【2024-03-16】[lavague-ai / LaVague](https://github.com/lavague-ai/LaVague) - Automate automation with Large Action Model framework
 * 【2024-03-16】[luijait / DarkGPT](https://github.com/luijait/DarkGPT) - DarkGPT is an OSINT assistant based on GPT\-4\-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes.
 * 【2024-03-16】[phospho\-app / phospho](https://github.com/phospho-app/phospho) - Text analytics for LLM apps. PostHog for prompts. Extract evaluations, intents and events from text messages. phospho leverages LLM (OpenAI, MistralAI, Ollama, etc.)
@@ -420,6 +430,7 @@
 
 ## Javascript
 
+* 【2024-03-17】[randyisback / ask\-for\-a\-date](https://github.com/randyisback/ask-for-a-date) - Js project troll.
 * 【2024-03-16】[said7388 / developer\-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
 * 【2024-03-16】[Eclipse\-Laboratories\-Inc / eclipse\-wallet](https://github.com/Eclipse-Laboratories-Inc/eclipse-wallet) - 
 * 【2024-03-14】[wasmerio / winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
@@ -513,6 +524,10 @@
 
 ## Go
 
+* 【2024-03-17】[yusufcanb / tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
+* 【2024-03-17】[basecamp / thruster](https://github.com/basecamp/thruster) - 
+* 【2024-03-17】[smallstep / certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
+* 【2024-03-17】[pufferffish / wireproxy](https://github.com/pufferffish/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
 * 【2024-03-14】[dream-mo / prom-elastic-alert](https://github.com/dream-mo/prom-elastic-alert) - Prometheus & Alerting With ElasticSearch
 * 【2024-03-13】[pwh-pwh / aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
 * 【2024-03-13】[awslabs / diagram\-as\-code](https://github.com/awslabs/diagram-as-code) - Diagram\-as\-code for AWS architecture.
@@ -621,6 +636,7 @@
 
 ## C++
 
+* 【2024-03-17】[0x36 / Pixel_GPU_Exploit](https://github.com/0x36/Pixel_GPU_Exploit) - Android 14 kernel exploit for Pixel7/8 Pro
 * 【2024-03-16】[flox / flox](https://github.com/flox/flox) - Developer environments you can take with you
 * 【2024-03-16】[zama-ai / concrete](https://github.com/zama-ai/concrete) - Concrete: TFHE Compiler that converts python programs into FHE equivalent
 * 【2024-03-14】[suchetanrs / ORB-SLAM3-ROS2-Docker](https://github.com/suchetanrs/ORB-SLAM3-ROS2-Docker) - This repository contains a full wrapper class for running ORB-SLAM3 on a docker container with ROS2 Humble with Ubuntu 22.04.
@@ -682,6 +698,7 @@
 
 ## C#
 
+* 【2024-03-17】[Unity-Technologies / megacity-metro](https://github.com/Unity-Technologies/megacity-metro) - Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, demonstrating how to craft engaging multiplayer games.
 * 【2024-03-16】[Vietsens / hisnguonmo](https://github.com/Vietsens/hisnguonmo) - His nguồn mở
 * 【2024-03-16】[oleg\-shilo / wixsharp](https://github.com/oleg-shilo/wixsharp) - Framework for building a complete MSI or WiX source code by using script files written with C\# syntax.
 * 【2024-03-16】[AIDotNet / fast\-wiki](https://github.com/AIDotNet/fast-wiki) - 基于.NET8+React+LobeUI实现的企业级智能客服知识库
@@ -751,6 +768,7 @@
 
 ## Html
 
+* 【2024-03-17】[chiphuyen / ml\-interviews\-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml\-interviews\-book/
 * 【2024-03-16】[skills-cogrammar / C7-Lecture-Backpack](https://github.com/skills-cogrammar/C7-Lecture-Backpack) - Lecture Content for Software Engineering, Data Science, and Full Stack Web Development Students
 * 【2024-03-14】[wuhobin / blog-home](https://github.com/wuhobin/blog-home) - 一个干净简洁的个人作品集合主页
 * 【2024-03-14】[midudev / eloquent-javascript-es](https://github.com/midudev/eloquent-javascript-es) - Traducción del libro Eloquent JavaScript en Español
@@ -890,6 +908,9 @@
 
 ## Unknown
 
+* 【2024-03-17】[ianand / spreadsheets\-are\-all\-you\-need](https://github.com/ianand/spreadsheets-are-all-you-need) - 
+* 【2024-03-17】[linaruqi / StratiCounterGUI](https://github.com/linaruqi/StratiCounterGUI) - a GUI
+* 【2024-03-17】[darius\-khll / golang\-developer\-roadmap](https://github.com/darius-khll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 * 【2024-03-16】[decodingml / llm\-twin\-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production\-Ready AI Replica \| An End\-to\-End Framework for Production\-Ready LLM Systems by Building Your LLM Twin \| WIP...
 * 【2024-03-16】[telegram\-sgk / SGK_Sites_and_Bots](https://github.com/telegram-sgk/SGK_Sites_and_Bots) - 免费在线社工库，免费Telegram社工库
 * 【2024-03-16】[OceanNg529 / allAI](https://github.com/OceanNg529/allAI) - 
@@ -1035,6 +1056,13 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-03-17】[tauri-apps / plugins-workspace](https://github.com/tauri-apps/plugins-workspace) - All of the official Tauri plugins in one place!
+* 【2024-03-17】[delta-io / delta-rs](https://github.com/delta-io/delta-rs) - A native Rust library for Delta Lake, with bindings into Python
+* 【2024-03-17】[huggingface / tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State\-of\-the\-Art Tokenizers optimized for Research and Production
+* 【2024-03-17】[false-spring / gbfr-logs](https://github.com/false-spring/gbfr-logs) - Overlay DPS Meter for Granblue Fantasy: Relink
+* 【2024-03-17】[typst / packages](https://github.com/typst/packages) - Packages for Typst.
+* 【2024-03-17】[swapneel / hnsw\-rust](https://github.com/swapneel/hnsw-rust) - HNSW implementation in Rust. Reference: https://arxiv.org/ftp/arxiv/papers/1603/1603.09320.pdf
+* 【2024-03-17】[matter\-labs / era\-sync_vm](https://github.com/matter-labs/era-sync_vm) - Circuit Implementation of zkVM for zkSync Era
 * 【2024-03-16】[false\-spring / gbfr\-logs](https://github.com/false-spring/gbfr-logs) - Overlay DPS Meter for Granblue Fantasy: Relink
 * 【2024-03-16】[veryl\-lang / veryl](https://github.com/veryl-lang/veryl) - Veryl: A Modern Hardware Description Language
 * 【2024-03-16】[pvolok / mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
@@ -1140,6 +1168,13 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-03-17】[pancakeswap / pancake-frontend](https://github.com/pancakeswap/pancake-frontend) - 🥞 Pancake main features (farms, pools, IFO, lottery, profiles)
+* 【2024-03-17】[analogjs / analog](https://github.com/analogjs/analog) - The fullstack meta\-framework for Angular. Powered by Vite
+* 【2024-03-17】[googleapis / google\-cloud\-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
+* 【2024-03-17】[superagent\-ai / superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI\-agents with an API
+* 【2024-03-17】[open\-metadata / OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
+* 【2024-03-17】[polywrap / evo.ninja](https://github.com/polywrap/evo.ninja) - A versatile generalist agent.
+* 【2024-03-17】[GuMengYu / music\-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格pc音乐播放器
 * 【2024-03-16】[maplibre / maplibre\-gl\-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS \- Interactive vector tile maps in WebGL2
 * 【2024-03-16】[blefnk / relivator](https://github.com/blefnk/relivator) - Next.js 14: Store, Landing, Admin Dashboard ▲ i18n, Stripe, Shadcn Tailwind, Drizzle Zod Trpc TypeScript Auth Page, Lucide CSS Radix UI, Responsive React Server Components, MySQL and Neon Postgre TS ORM, Intl App Router, Mdx Docs User Actions Kit, SaaS Commerce Shop Pricing Payments, Dark Mode, Modern Full Stack, Free ▲ more stars → more features
 * 【2024-03-16】[vueuse / vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
