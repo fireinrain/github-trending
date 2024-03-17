@@ -15,6 +15,30 @@ import telegrambot
 
 ua = UserAgent()
 
+GH_TOKEN_PAIR = {'code': os.environ.get('GH_TOKEN'),
+                 'valid': True}
+
+
+def check_github_token_validity(github_token) -> dict:
+    url = 'https://api.github.com/user'
+    headers = {
+        'Authorization': f'token {github_token}',
+        'Accept': 'application/vnd.github.v3+json',
+    }
+
+    response = requests.get(url, headers=headers)
+    if response.status_code == 200:
+        print('The GitHub token is valid.')
+
+        return GH_TOKEN_PAIR
+    else:
+        print('The GitHub token is not valid.')
+        GH_TOKEN_PAIR['valid'] = False
+        return GH_TOKEN_PAIR
+
+
+GH_TOKEN_PAIR = check_github_token_validity(GH_TOKEN_PAIR['code'])
+
 
 def scrape_url(url):
     ''' Scrape github trending url
@@ -244,11 +268,19 @@ def fetch_repo_statics(repo_title: str) -> ():
     username = title_split[0].strip()
     repo_name = title_split[1].strip()
     api_url = f'https://api.github.com/repos/{username}/{repo_name}'
-
-    headers = {
-        'User-Agent': ua.random,
-        'Accept': 'application/vnd.github.v3+json',
-    }
+    # 使用github token 请求github api rate limit 1000/H
+    headers = None
+    if GH_TOKEN_PAIR['valid']:
+        headers = {
+            'Authorization': f'token {GH_TOKEN_PAIR["code"]}',
+            'User-Agent': ua.random,
+            'Accept': 'application/vnd.github.v3+json',
+        }
+    else:
+        headers = {
+            'User-Agent': ua.random,
+            'Accept': 'application/vnd.github.v3+json',
+        }
     # print(f"current token: {GITHUB_TOKEN}")
     try:
         response = requests.get(api_url, headers=headers)
