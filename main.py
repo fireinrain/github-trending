@@ -149,6 +149,7 @@ def format_date2_tg_message(message: dict, lang: str, repo_statics: tuple) -> st
         'python': 'Python',
         'javascript': 'Javascript',
         'typescript': 'Typescript',
+        'go': 'Go',
         'c': 'C',
         'c++': 'Cplusplus',
         'c#': 'Csharp',
