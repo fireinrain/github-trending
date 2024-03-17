@@ -188,10 +188,10 @@ def check_and_store_db(value: dict, lang: str) -> (dict, bool, tuple):
         trend_count = result.trend_count
         result.trend_count = trend_count + 1
         repo_statics = []
-        repo_statics[0] = result.repo_see
-        repo_statics[1] = result.repo_folk
-        repo_statics[2] = result.repo_star
-        repo_statics[3] = True
+        repo_statics.append(result.repo_see)
+        repo_statics.append(result.repo_folk)
+        repo_statics.append(result.repo_star)
+        repo_statics.append(True)
         result.repo_status = 1
         # 仓库被删除了 404
 
