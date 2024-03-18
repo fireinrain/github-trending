@@ -39,7 +39,7 @@ def format_bless_for_tgchannel(bless_words: str) -> str:
     return (f'😄今天是: `{current_date}`,Github热门仓库已推送完毕,快去看看吧:\)🎉\n'
             f'🥳每日祝福语: \n'
             f'`{bless_words}`\n'
-            f'\#trending_end')
+            f'\#trending\_end')
 
 
 if __name__ == '__main__':
