@@ -27,6 +27,12 @@ class GithubTrending(Base):
     update_time = Column(DateTime, server_default=text('CURRENT_TIMESTAMP'), onupdate=datetime.now)
 
 
+class EveryDayBless(Base):
+    __tablename__ = 'every_day_bless'
+    id = Column(Integer, primary_key=True, autoincrement=True)
+    push_flag = Column(Boolean, default=False)
+
+
 # Example usage
 engine = create_engine('sqlite:///github-trending.db', echo=True)
 Base.metadata.create_all(engine)

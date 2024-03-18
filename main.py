@@ -9,9 +9,10 @@ import requests
 import urllib.parse
 from pyquery import PyQuery as pq
 from datetime import datetime
-from database import GithubTrending
+from database import GithubTrending, EveryDayBless
 import database
 import telegrambot
+from bless import generate_bless_word, format_bless_for_tgchannel
 
 ua = UserAgent()
 
@@ -330,6 +331,41 @@ async def patch_db_with_repo_info():
         await asyncio.sleep(5)
 
 
+async def push_every_day_end():
+    bless_first = database.session.query(EveryDayBless).first()
+    if not bless_first:
+        bless = EveryDayBless(push_flag=False)
+        try:
+            database.session.commit()
+        except Exception as e:
+            print(f"创建记录失败: {e}")
+            database.session.rollback()
+        # do push and update record
+        word = generate_bless_word()
+        for_tgchannel = format_bless_for_tgchannel(word)
+        await telegrambot.send_message2bot(for_tgchannel)
+        bless.push_flag = True
+        try:
+            database.session.commit()
+        except Exception as e:
+            print(f"更新记录失败: {e}")
+            database.session.rollback()
+
+    else:
+        flag = bless_first.push_flag
+        if not flag:
+            # do push and update record
+            word = generate_bless_word()
+            for_tgchannel = format_bless_for_tgchannel(word)
+            await telegrambot.send_message2bot(for_tgchannel)
+            bless_first.push_flag = False
+            try:
+                database.session.commit()
+            except Exception as e:
+                print(f"更新记录失败: {e}")
+                database.session.rollback()
+
+
 async def fetch_push_ghtendings_job():
     """
     Get archived contents
@@ -353,6 +389,9 @@ async def fetch_push_ghtendings_job():
         # release db connection
         database.session.close()
         write_markdown(lang, results, archived_contents)
+
+    # 推送每日推送结束消息
+    await push_every_day_end()
 
 
 async def main():
