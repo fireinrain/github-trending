@@ -3,3 +3,5 @@ requests~=2.31.0
 python-telegram-bot~=20.8
 SQLAlchemy~=2.0.22
 fake_useragent
+pytz~=2023.3.post1
+aiohttp~=3.9.3

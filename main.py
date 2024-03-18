@@ -2,7 +2,6 @@
 import asyncio
 import os
 import datetime
-import time
 from fake_useragent import UserAgent
 
 import requests
