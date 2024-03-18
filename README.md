@@ -216,6 +216,7 @@
 
 ## Java
 
+* 【2024-03-18】[Sab1e-GitHub / BadAppleJuice](https://github.com/Sab1e-GitHub/BadAppleJuice) - 参考自EvilAppleJuice的项目，用于在安卓设备上发送广播包，唤起iPhone设备的弹窗。
 * 【2024-03-17】[Sab1e\-GitHub / BadAppleJuice](https://github.com/Sab1e-GitHub/BadAppleJuice) - 参考自EvilAppleJuice的项目，用于在安卓设备上发送广播包，唤起iPhone设备的弹窗。
 * 【2024-03-17】[ItsMadruga / MdgWa](https://github.com/ItsMadruga/MdgWa) - Um módulo Xposed para personalizar seu WhatsApp.
 * 【2024-03-17】[crate / crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real\-time, even with complex queries. It is PostgreSQL\-compatible, and based on Lucene.
@@ -271,6 +272,8 @@
 
 ## Python
 
+* 【2024-03-18】[philz1337x / clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - 
+* 【2024-03-18】[fofr / cog-face-to-many](https://github.com/fofr/cog-face-to-many) - Turn any face into a video game character, pixel art, claymation, 3D or toy
 * 【2024-03-17】[amazon-science / chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting
 * 【2024-03-17】[philz1337x / clarity\-upscaler](https://github.com/philz1337x/clarity-upscaler) - 
 * 【2024-03-17】[fofr / cog\-face\-to\-many](https://github.com/fofr/cog-face-to-many) - Turn any face into a video game character, pixel art, claymation, 3D or toy
@@ -538,6 +541,7 @@
 
 ## Go
 
+* 【2024-03-18】[ThePrimeagen / fem-htmx-proj](https://github.com/ThePrimeagen/fem-htmx-proj) - 
 * 【2024-03-17】[missingstudio / gateway](https://github.com/missingstudio/gateway) - 🌈 A Reliable AI Gateway \- Core infrastructure stack for building your AI workforce
 * 【2024-03-17】[scratchdata / scratchdata](https://github.com/scratchdata/scratchdata) - Scratch is an open\-source alternative to BigQuery, Redshift, and Snowflake. Runs on Clickhouse.
 * 【2024-03-17】[SleepingBag945 / dddd](https://github.com/SleepingBag945/dddd) - 一款高可拓展的指纹识别、供应链漏洞探测工具。支持从Hunter、Fofa批量拉取目标。
@@ -656,6 +660,7 @@
 
 ## C++
 
+* 【2024-03-18】[Hagrid29 / CVE-2024-2432-PaloAlto-GlobalProtect-EoP](https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP) - 
 * 【2024-03-17】[Hagrid29 / CVE\-2024\-2432\-PaloAlto\-GlobalProtect\-EoP](https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP) - 
 * 【2024-03-17】[0x36 / Pixel_GPU_Exploit](https://github.com/0x36/Pixel_GPU_Exploit) - Android 14 kernel exploit for Pixel7/8 Pro
 * 【2024-03-16】[flox / flox](https://github.com/flox/flox) - Developer environments you can take with you
@@ -932,6 +937,10 @@
 
 ## Unknown
 
+* 【2024-03-18】[maximal / http-267](https://github.com/maximal/http-267) - HTTP 267 Doubtful But Okay
+* 【2024-03-18】[ihmily / ip-info-api](https://github.com/ihmily/ip-info-api) - Free IP information query APIs / 免费IP信息查询API接口
+* 【2024-03-18】[web1n / wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak) - Flatpak 打包微信 Linux Universal 版
+* 【2024-03-18】[JeoJay127 / RapidEFI-Tool](https://github.com/JeoJay127/RapidEFI-Tool) - An excellent one-click EFI configuration tool based on OpenCore
 * 【2024-03-17】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
 * 【2024-03-17】[maximal / http\-267](https://github.com/maximal/http-267) - HTTP 267 Doubtful But Okay
 * 【2024-03-17】[ihmily / ip\-info\-api](https://github.com/ihmily/ip-info-api) - Free IP information query APIs / 免费IP信息查询API接口
@@ -1086,6 +1095,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-03-18】[Kobzol / cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
+* 【2024-03-18】[gfx-rs / wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
 * 【2024-03-17】[Kobzol / cargo\-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
 * 【2024-03-17】[EvilGenius-dot / RustMinerSystem](https://github.com/EvilGenius-dot/RustMinerSystem) - 🔥minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy,minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy 矿池中转 矿池抽水 矿池抽水 矿池中转
 * 【2024-03-17】[neovide / neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
@@ -1203,6 +1214,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-03-18】[panaverse / learn-typescript](https://github.com/panaverse/learn-typescript) - Learning TypeScript in Baby Steps
+* 【2024-03-18】[bitburner-official / bitburner-src](https://github.com/bitburner-official/bitburner-src) - Bitburner source code.
+* 【2024-03-18】[epicweb-dev / epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
 * 【2024-03-17】[AntonioErdeljac / next14-duolingo-clone](https://github.com/AntonioErdeljac/next14-duolingo-clone) - 
 * 【2024-03-17】[pretzelai / pretzelai](https://github.com/pretzelai/pretzelai) - Open\-source, browser\-local data exploration using DuckDB\-Wasm and PRQL
 * 【2024-03-17】[panaverse / learn\-typescript](https://github.com/panaverse/learn-typescript) - Learning TypeScript in Baby Steps
