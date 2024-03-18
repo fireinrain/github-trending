@@ -11,7 +11,7 @@ from datetime import datetime
 from database import GithubTrending, EveryDayBless
 import database
 import telegrambot
-from bless import generate_bless_word, format_bless_for_tgchannel
+from bless import generate_bless_word, format_bless_for_tgchannel2
 
 ua = UserAgent()
 
@@ -341,7 +341,7 @@ async def push_every_day_end():
             database.session.rollback()
         # do push and update record
         word = generate_bless_word()
-        for_tgchannel = format_bless_for_tgchannel(word)
+        for_tgchannel = format_bless_for_tgchannel2(word)
         await telegrambot.send_message2bot(for_tgchannel)
         bless.push_flag = True
         try:
@@ -355,7 +355,7 @@ async def push_every_day_end():
         if not flag:
             # do push and update record
             word = generate_bless_word()
-            for_tgchannel = format_bless_for_tgchannel(word)
+            for_tgchannel = format_bless_for_tgchannel2(word)
             await telegrambot.send_message2bot(for_tgchannel)
             bless_first.push_flag = False
             try:

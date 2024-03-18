@@ -7,6 +7,36 @@ BLESS_WORDS_DATA = './day-bless.data'
 BLESS_WORDS_DATA_SAMPLE = './day-bless.data.sample'
 
 
+# 生成格式  ¹¹/₂₂的日期
+def generate_date_str() -> str:
+    now = datetime.now()
+
+    # Format the month and day as strings
+    month = now.month  # Full month name as a string
+    day = now.strftime('%d')
+
+    superscript_digits = ['⁰', '¹', '²', '³', '⁴', '⁵', '⁶', '⁷', '⁸', '⁹']
+    month_str = ''.join(superscript_digits[int(digit)] for digit in str(month))
+    day_str = ''.join(superscript_digits[int(digit)] for digit in str(day))
+    return f"{month_str}/{day_str}"
+
+
+def generate_weekday_str() -> str:
+    # Define a mapping from normal case to the desired case
+    case_mapping = {
+        'Monday': 'Mᴏɴᴅᴀʏ',
+        'Tuesday': 'Tᴜᴇsᴅᴀʏ',
+        'Wednesday': 'Wᴇᴅɴᴇsᴅᴀʏ',
+        'Thursday': 'Tʜᴜʀsᴅᴀʏ',
+        'Friday': 'Fʀɪᴅᴀʏ',
+        'Saturday': 'Sᴀᴛᴜʀᴅᴀʏ',
+        'Sunday': 'Sᴜɴᴅᴀʏ'
+    }
+    current_day = datetime.now().strftime('%A')
+    # Return the formatted weekday
+    return case_mapping.get(current_day, "Unknown Day")
+
+
 def add_more_bless_words(words):
     with open(BLESS_WORDS_DATA_SAMPLE, 'r') as f:
         readlines = f.readlines()
@@ -42,7 +72,22 @@ def format_bless_for_tgchannel(bless_words: str) -> str:
             f'\#trending\_end')
 
 
+def format_bless_for_tgchannel2(bless_words: str) -> str:
+    year = datetime.now().year
+    date = generate_date_str()
+    week = generate_weekday_str()
+    return (f'📅 {year} {date} {week} . Github Trending\n'
+            f'\n'
+            f'Github热门仓库已推送完毕,快去看看吧:\)🎉\n'
+            f'🥳每日祝福语: \n'
+            f'`{bless_words}`\n'
+            f'\#trending\_end')
+
+
 if __name__ == '__main__':
     word = generate_bless_word()
     tgchannel = format_bless_for_tgchannel(word)
     print(tgchannel)
+    print(generate_weekday_str())
+    print(generate_date_str())
+    print(format_bless_for_tgchannel2("你好呀"))
