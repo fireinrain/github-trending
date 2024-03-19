@@ -17,6 +17,10 @@
 
 ## All language
 
+* 【2024-03-19】[openai / grok](https://github.com/openai/grok) - 
+* 【2024-03-19】[codediodeio / rembg-webapp-tutorial](https://github.com/codediodeio/rembg-webapp-tutorial) - a simple webapp with rembg
+* 【2024-03-19】[the-mirror-gdp / the-mirror](https://github.com/the-mirror-gdp/the-mirror) - The open-source Roblox & UEFN alternative giving you freedom to own what you create. An all-in-one, real-time, collaborative game development platform built on Godot.
+* 【2024-03-19】[OpenDevin / OpenDevin](https://github.com/OpenDevin/OpenDevin) - 
 * 【2024-03-17】[amazon\-science / chronos\-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting
 * 【2024-03-17】[AntonioErdeljac / next14\-duolingo\-clone](https://github.com/AntonioErdeljac/next14-duolingo-clone) - 
 * 【2024-03-17】[ianand / spreadsheets-are-all-you-need](https://github.com/ianand/spreadsheets-are-all-you-need) - 
@@ -217,6 +221,7 @@
 
 ## Java
 
+* 【2024-03-19】[racoonman2 / ReTerraForged](https://github.com/racoonman2/ReTerraForged) - a 1.19+ port of https://github.com/TerraForged/TerraForged
 * 【2024-03-18】[Sab1e-GitHub / BadAppleJuice](https://github.com/Sab1e-GitHub/BadAppleJuice) - 参考自EvilAppleJuice的项目，用于在安卓设备上发送广播包，唤起iPhone设备的弹窗。
 * 【2024-03-17】[Sab1e\-GitHub / BadAppleJuice](https://github.com/Sab1e-GitHub/BadAppleJuice) - 参考自EvilAppleJuice的项目，用于在安卓设备上发送广播包，唤起iPhone设备的弹窗。
 * 【2024-03-17】[ItsMadruga / MdgWa](https://github.com/ItsMadruga/MdgWa) - Um módulo Xposed para personalizar seu WhatsApp.
@@ -273,6 +278,9 @@
 
 ## Python
 
+* 【2024-03-19】[yoheinakajima / mindgraph](https://github.com/yoheinakajima/mindgraph) - proof of concept prototype for generating and querying against an ever\-expanding knowledge graph with ai
+* 【2024-03-19】[almandin / fuxploider](https://github.com/almandin/fuxploider) - File upload vulnerability scanner and exploitation tool.
+* 【2024-03-19】[CognitionAI / devin\-swebench\-results](https://github.com/CognitionAI/devin-swebench-results) - Cognition's results and methodology on SWE\-bench
 * 【2024-03-18】[philz1337x / clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - 
 * 【2024-03-18】[fofr / cog-face-to-many](https://github.com/fofr/cog-face-to-many) - Turn any face into a video game character, pixel art, claymation, 3D or toy
 * 【2024-03-17】[amazon-science / chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting
@@ -446,6 +454,8 @@
 
 ## Javascript
 
+* 【2024-03-19】[JavaScript\-Mastery\-Pro / gsap\-cc\-starter](https://github.com/JavaScript-Mastery-Pro/gsap-cc-starter) - Starter Repository of GSAP Crash Course
+* 【2024-03-19】[developersdigest / llm\-answer\-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity\-Inspired Answer Engine Using Groq, Mixtral, Langchain, Brave & OpenAI
 * 【2024-03-17】[adrianhajdin / iphone](https://github.com/adrianhajdin/iphone) - Recreate the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects. From custom animations to animated 3D models, this tutorial covers it all.
 * 【2024-03-17】[solotop999 / auto_trade_backpack_exchange](https://github.com/solotop999/auto_trade_backpack_exchange) - auto_trade on Backpack exchange typescript
 * 【2024-03-17】[randyisback / ask\-for\-a\-date](https://github.com/randyisback/ask-for-a-date) - Js project troll.
@@ -607,6 +617,7 @@
 
 ## C
 
+* 【2024-03-19】[SentientArt / TheBasement](https://github.com/SentientArt/TheBasement) - 
 * 【2024-03-17】[stm32duino / Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) - STM32 core support for Arduino
 * 【2024-03-14】[tumuyan / RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, nearest, bilinear, bicubic, AVIR.
 * 【2024-03-14】[tumuyan / RealSR\-NCNN\-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super\-resolution & interpolation. Contains RealSR\-NCNN, SRMD\-NCNN, RealCUGAN\-NCNN, Real\-ESRGAN\-NCNN, Waifu2x\-NCNN, nearest, bilinear, bicubic, AVIR.
@@ -661,6 +672,7 @@
 
 ## C++
 
+* 【2024-03-19】[fxsound2 / fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
 * 【2024-03-18】[Hagrid29 / CVE-2024-2432-PaloAlto-GlobalProtect-EoP](https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP) - 
 * 【2024-03-17】[Hagrid29 / CVE\-2024\-2432\-PaloAlto\-GlobalProtect\-EoP](https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP) - 
 * 【2024-03-17】[0x36 / Pixel_GPU_Exploit](https://github.com/0x36/Pixel_GPU_Exploit) - Android 14 kernel exploit for Pixel7/8 Pro
@@ -725,6 +737,7 @@
 
 ## C#
 
+* 【2024-03-19】[DevToys\-app / DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 * 【2024-03-17】[WistfulHopes / gbfrelink.utility.manager](https://github.com/WistfulHopes/gbfrelink.utility.manager) - Mod management utility for Granblue Fantasy Relink using Reloaded II
 * 【2024-03-17】[Reloaded-Project / Reloaded-II](https://github.com/Reloaded-Project/Reloaded-II) - Next Generation Universal .NET Core Powered Mod Loader compatible with anything X86, X64.
 * 【2024-03-17】[Unity-Technologies / megacity-metro](https://github.com/Unity-Technologies/megacity-metro) - Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, demonstrating how to craft engaging multiplayer games.
@@ -797,6 +810,8 @@
 
 ## Html
 
+* 【2024-03-19】[niikhiljha / Impressing\-your\-crush](https://github.com/niikhiljha/Impressing-your-crush) - 
+* 【2024-03-19】[Mojang / bedrock\-protocol\-docs](https://github.com/Mojang/bedrock-protocol-docs) - Documentation of the Bedrock network protocol. Protocol is subject to change release over release.
 * 【2024-03-17】[iOS17 / Jailbreak](https://github.com/iOS17/Jailbreak) - iOS 17 Jailbreak Tools, Cydia/Sileo/Zebra Tweaks & Jailbreak Related News Updates
 * 【2024-03-17】[chiphuyen / ml\-interviews\-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml\-interviews\-book/
 * 【2024-03-16】[skills-cogrammar / C7-Lecture-Backpack](https://github.com/skills-cogrammar/C7-Lecture-Backpack) - Lecture Content for Software Engineering, Data Science, and Full Stack Web Development Students
@@ -938,6 +953,10 @@
 
 ## Unknown
 
+* 【2024-03-19】[Deeksha2501 / Data\-Structures\-and\-Algorithms\-Notes](https://github.com/Deeksha2501/Data-Structures-and-Algorithms-Notes) - It contains all the data structures and computer fundamentals notes I made while preparing for placements.
+* 【2024-03-19】[crisbusquets / aprende\-diseno\-uxui](https://github.com/crisbusquets/aprende-diseno-uxui) - Este repositorio contiene una lista seleccionada de recursos para ayudarte a aprender sobre el diseño de interfaces y de experiencia del usuario. Incluye recursos como artículos, tutoriales, vídeos y cursos. Todo en español :)
+* 【2024-03-19】[PeachTeaaa / Aviator-Prediction-Tool](https://github.com/PeachTeaaa/Aviator-Prediction-Tool) - Best prediction tool for Aviator, requests USB cable and PC for installation on your device
+* 【2024-03-19】[laylavish / uBlockOrigin\-HUGE\-AI\-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of sites that contain AI generated content for uBlock Origin & uBlacklist.
 * 【2024-03-18】[maximal / http-267](https://github.com/maximal/http-267) - HTTP 267 Doubtful But Okay
 * 【2024-03-18】[ihmily / ip-info-api](https://github.com/ihmily/ip-info-api) - Free IP information query APIs / 免费IP信息查询API接口
 * 【2024-03-18】[web1n / wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak) - Flatpak 打包微信 Linux Universal 版
@@ -1096,6 +1115,10 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-03-19】[wez / wezterm](https://github.com/wez/wezterm) - A GPU\-accelerated cross\-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+* 【2024-03-19】[sharkdp / bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+* 【2024-03-19】[tokio\-rs / tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+* 【2024-03-19】[Universal\-Debloater\-Alliance / universal\-android\-debloater\-next\-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross\-platform GUI written in Rust using ADB to debloat non\-rooted Android devices. Improve your privacy, the security and battery life of your device.
 * 【2024-03-18】[Kobzol / cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
 * 【2024-03-18】[gfx-rs / wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
 * 【2024-03-17】[Kobzol / cargo\-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
@@ -1215,6 +1238,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-03-19】[jup-ag / token-list](https://github.com/jup-ag/token-list) - 
+* 【2024-03-19】[lobehub / sd\-webui\-lobe\-theme](https://github.com/lobehub/sd-webui-lobe-theme) - 🅰️Lobe theme \- The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.
 * 【2024-03-18】[panaverse / learn-typescript](https://github.com/panaverse/learn-typescript) - Learning TypeScript in Baby Steps
 * 【2024-03-18】[bitburner-official / bitburner-src](https://github.com/bitburner-official/bitburner-src) - Bitburner source code.
 * 【2024-03-18】[epicweb-dev / epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.

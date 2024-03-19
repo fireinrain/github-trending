@@ -330,7 +330,7 @@ async def patch_db_with_repo_info():
         await asyncio.sleep(5)
 
 
-async def push_every_day_end():
+async def push_every_day_end(new_trending_count: int):
     bless_first = database.session.query(EveryDayBless).first()
     if not bless_first:
         bless = EveryDayBless(push_flag=False)
@@ -341,7 +341,7 @@ async def push_every_day_end():
             database.session.rollback()
         # do push and update record
         word = generate_bless_word()
-        for_tgchannel = format_bless_for_tgchannel2(word)
+        for_tgchannel = format_bless_for_tgchannel2(word, new_trending_count)
         await telegrambot.send_message2bot(for_tgchannel)
         bless.push_flag = True
         try:
@@ -355,7 +355,7 @@ async def push_every_day_end():
         if not flag:
             # do push and update record
             word = generate_bless_word()
-            for_tgchannel = format_bless_for_tgchannel2(word)
+            for_tgchannel = format_bless_for_tgchannel2(word, new_trending_count)
             await telegrambot.send_message2bot(for_tgchannel)
             bless_first.push_flag = False
             try:
@@ -374,6 +374,7 @@ async def fetch_push_ghtendings_job():
     ''' Start the scrape job
     '''
     languages = ['', 'java', 'python', 'go', 'javascript', 'typescript', 'c', 'c++', 'c#', 'rust', 'html', 'unknown']
+    new_trending_count = 0
     for lang in languages:
         results = scrape_lang(lang)
         # push to telegram bot
@@ -381,6 +382,7 @@ async def fetch_push_ghtendings_job():
             value, have_push, repo_statics = check_and_store_db(value, lang)
             if not have_push:
                 print(f">>> 发现新的github trending记录,正在推送到telegram 频道...")
+                new_trending_count += 1
                 format_data = format_date2_tg_message(value, lang, repo_statics)
                 await telegrambot.send_message2bot(format_data)
                 await asyncio.sleep(2)
@@ -390,7 +392,7 @@ async def fetch_push_ghtendings_job():
         write_markdown(lang, results, archived_contents)
 
     # 推送每日推送结束消息
-    await push_every_day_end()
+    await push_every_day_end(new_trending_count)
 
 
 async def main():

@@ -72,13 +72,13 @@ def format_bless_for_tgchannel(bless_words: str) -> str:
             f'\#trending\_end')
 
 
-def format_bless_for_tgchannel2(bless_words: str) -> str:
+def format_bless_for_tgchannel2(bless_words: str, new_trending_count: int) -> str:
     year = datetime.now().year
     date = generate_date_str()
     week = generate_weekday_str()
-    return (f'📅 {year} {date} {week} . Github Trending\n'
+    return (f'📅 {year} {date} {week} \. Github Trending\n'
             f'\n'
-            f'Github热门仓库已推送完毕,快去看看吧:\)🎉\n'
+            f'Github热门仓库已推送完毕,共有:`{new_trending_count}`新入榜,快去看看吧:\)🎉\n'
             f'🥳每日祝福语: \n'
             f'`{bless_words}`\n'
             f'\#trending\_end')
