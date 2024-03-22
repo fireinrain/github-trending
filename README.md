@@ -17,6 +17,10 @@
 
 ## All language
 
+* 【2024-03-22】[ynqa / jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
+* 【2024-03-22】[microsoft / retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
+* 【2024-03-22】[CISOfy / lynis](https://github.com/CISOfy/lynis) - Lynis \- Security auditing tool for Linux, macOS, and UNIX\-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+* 【2024-03-22】[dotnet-smartcomponents / smartcomponents](https://github.com/dotnet-smartcomponents/smartcomponents) - Experimental, end-to-end AI features for .NET apps
 * 【2024-03-21】[discord / embedded\-app\-sdk](https://github.com/discord/embedded-app-sdk) - 🚀 The Discord Embedded App SDK lets you build rich, multiplayer experiences as Activities inside Discord.
 * 【2024-03-21】[TheMMC / In\-Place_Upgrade_Helper](https://github.com/TheMMC/In-Place_Upgrade_Helper) - Helper\-Tool für Windows 10/11 Inplace\-Upgrades und Editionswechsel
 * 【2024-03-21】[xyflow / xyflow](https://github.com/xyflow/xyflow) - React Flow \| Svelte Flow \- Powerful open source libraries for building node\-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out\-of\-the\-box and infinitely customizable.
@@ -293,6 +297,9 @@
 
 ## Python
 
+* 【2024-03-22】[kongzhecn / OMG](https://github.com/kongzhecn/OMG) - OMG: Occlusion\-friendly Personalized Multi\-concept Generation In Diffusion Models
+* 【2024-03-22】[Kiteretsu77 / APISR](https://github.com/Kiteretsu77/APISR) - APISR: Anime Production Inspired Real\-World Anime Super\-Resolution (CVPR 2024)
+* 【2024-03-22】[mrphrazer / reverser_ai](https://github.com/mrphrazer/reverser_ai) - Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
 * 【2024-03-21】[zylon-ai / private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 * 【2024-03-20】[xai-org / grok-1](https://github.com/xai-org/grok-1) - Grok open release
 * 【2024-03-20】[kijai / ComfyUI\-SUPIR](https://github.com/kijai/ComfyUI-SUPIR) - SUPIR upscaling wrapper for ComfyUI
@@ -472,6 +479,8 @@
 
 ## Javascript
 
+* 【2024-03-22】[typicode / mistcss](https://github.com/typicode/mistcss) - Write atomic React components using only CSS! (JS\-from\-CSS™) 🌬️
+* 【2024-03-22】[Hyizhou1 / tg_hongbao](https://github.com/Hyizhou1/tg_hongbao) - Telegram电报tg红包雷,红包扫雷机器人源码\-\-自助充值、提现全功能完整版多语言全网最全假人自动抢包
 * 【2024-03-21】[FiveKG / gas-listener](https://github.com/FiveKG/gas-listener) - 
 * 【2024-03-21】[Hyizhou1 / Tg_SuperSerch](https://github.com/Hyizhou1/Tg_SuperSerch) - 关于 TG索引机器人，telegram中文搜索群组，telegram超级索引源码，tg中文搜索，群组收录，tg搜索机器人https://t.me/spuerserch
 * 【2024-03-21】[ButzYung / SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline) - XR Animator, AI\-based Full Body Motion Capture and Extended Reality (XR) solution, powered by System Animator Online
@@ -579,6 +588,7 @@
 
 ## Go
 
+* 【2024-03-22】[omriharel / deej](https://github.com/omriharel/deej) - Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
 * 【2024-03-21】[veops / oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
 * 【2024-03-18】[ThePrimeagen / fem-htmx-proj](https://github.com/ThePrimeagen/fem-htmx-proj) - 
 * 【2024-03-17】[missingstudio / gateway](https://github.com/missingstudio/gateway) - 🌈 A Reliable AI Gateway \- Core infrastructure stack for building your AI workforce
@@ -645,6 +655,7 @@
 
 ## C
 
+* 【2024-03-22】[cecio / USBvalve](https://github.com/cecio/USBvalve) - Expose USB activity on the fly
 * 【2024-03-21】[X1Plus / X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
 * 【2024-03-21】[xscorp / jsmug](https://github.com/xscorp/jsmug) - A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
 * 【2024-03-21】[dibyendumajumdar / ravi](https://github.com/dibyendumajumdar/ravi) - Ravi is a dialect of Lua, featuring limited optional static typing, JIT and AOT compilers
@@ -707,6 +718,8 @@
 
 ## C++
 
+* 【2024-03-22】[rive\-app / rive\-renderer](https://github.com/rive-app/rive-renderer) - Downstream repo for Rive renderer
+* 【2024-03-22】[RedefiningReality / Cobalt\-Strike](https://github.com/RedefiningReality/Cobalt-Strike) - Various resources to enhance Cobalt Strike's functionality and its ability to evade antivirus/EDR detection
 * 【2024-03-21】[ros\-drivers / usb_cam](https://github.com/ros-drivers/usb_cam) - A ROS Driver for V4L2 USB Cameras
 * 【2024-03-20】[a\-ngo / route\-planning](https://github.com/a-ngo/route-planning) - 
 * 【2024-03-19】[fxsound2 / fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
@@ -774,6 +787,9 @@
 
 ## C#
 
+* 【2024-03-22】[microsoft / FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key\-value store + cache, in C\# and C++.
+* 【2024-03-22】[Pathoschild / SMAPI](https://github.com/Pathoschild/SMAPI) - The modding API for Stardew Valley.
+* 【2024-03-22】[Prescoter / Emora\-Project](https://github.com/Prescoter/Emora-Project) - Emora is an OSINT tool like sherlock but with a GUI, which search for accounts by username across social networks
 * 【2024-03-21】[AIDotNet / fast-wiki](https://github.com/AIDotNet/fast-wiki) - 基于.NET8+React+LobeUI实现的企业级智能客服知识库
 * 【2024-03-21】[microsoft / garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache\-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
 * 【2024-03-20】[falseeeeeeeeee / ShaderLibrary](https://github.com/falseeeeeeeeee/ShaderLibrary) - 希望开源能够帮到所有人
@@ -850,6 +866,7 @@
 
 ## Html
 
+* 【2024-03-22】[bradtraversy / react-crash-2024](https://github.com/bradtraversy/react-crash-2024) - React jobs project from YouTube crash course
 * 【2024-03-21】[teenboyring / Listonline](https://github.com/teenboyring/Listonline) - 
 * 【2024-03-21】[bradtraversy / react\-crash\-2024](https://github.com/bradtraversy/react-crash-2024) - React jobs project from YouTube crash course
 * 【2024-03-20】[zhugezifang / ai_timeline](https://github.com/zhugezifang/ai_timeline) - AI时间线，产品地址：http://www.ai\-timeline.top
@@ -996,6 +1013,7 @@
 
 ## Unknown
 
+* 【2024-03-22】[meituan / Meituan\-INFORMS\-TSL\-Research\-Challenge](https://github.com/meituan/Meituan-INFORMS-TSL-Research-Challenge) - 
 * 【2024-03-21】[dotnet\-smartcomponents / smartcomponents](https://github.com/dotnet-smartcomponents/smartcomponents) - Experimental, end\-to\-end AI features for .NET apps
 * 【2024-03-21】[mims\-harvard / UniTS](https://github.com/mims-harvard/UniTS) - A unified time series model.
 * 【2024-03-21】[Coder\-World04 / Complete\-Machine\-Learning\-](https://github.com/Coder-World04/Complete-Machine-Learning-) - This repository contains everything you need to become proficient in Machine Learning
@@ -1164,6 +1182,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-03-22】[joaoviictorti / RustRedOps](https://github.com/joaoviictorti/RustRedOps) - 🦀 \| RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language.
 * 【2024-03-21】[quickwit\-oss / quickwit](https://github.com/quickwit-oss/quickwit) - Cloud\-native search engine for observability. An open\-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 * 【2024-03-21】[SeaQL / sea\-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
 * 【2024-03-21】[eza\-community / eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
@@ -1299,6 +1318,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-03-22】[superagent-ai / superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
+* 【2024-03-22】[midday\-ai / midday](https://github.com/midday-ai/midday) - Run your business smarter.
 * 【2024-03-21】[discord / embedded-app-sdk](https://github.com/discord/embedded-app-sdk) - 🚀 The Discord Embedded App SDK lets you build rich, multiplayer experiences as Activities inside Discord.
 * 【2024-03-21】[yesmore / vmail](https://github.com/yesmore/vmail) - Virtual temporary email generator. 👉 vmail.dev
 * 【2024-03-21】[putyy / res\-downloader](https://github.com/putyy/res-downloader) - 网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
