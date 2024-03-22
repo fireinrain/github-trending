@@ -9,6 +9,10 @@
 关注 Github Trending 频道 谢谢喵！
 [Github Trending](https://t.me/ghtrendings)
 
+## 效果图
+![](resource/sample1.jpg)
+![](resource/sample2.jpg)
+
 更新:
 1. 加入telegram 消息推送
 2. 加入sqlite数据库支持
