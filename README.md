@@ -6,6 +6,9 @@
 
 项目灵感来自 [bonfy/github-trending](https://github.com/bonfy/github-trending)。
 
+关注 Github Trending 频道 谢谢喵！
+[Github Trending](https://t.me/ghtrendings)
+
 更新:
 1. 加入telegram 消息推送
 2. 加入sqlite数据库支持
