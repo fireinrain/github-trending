@@ -24,6 +24,16 @@
 
 ## All language
 
+* 【2024-03-23】[unit\-mesh / auto\-dev](https://github.com/unit-mesh/auto-dev) - 🧙‍AutoDev: The AI\-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug\-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent feature 🧪 included! 🚀
+* 【2024-03-23】[harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用大模型，一键生成短视频
+* 【2024-03-23】[rive-app / rive-renderer](https://github.com/rive-app/rive-renderer) - Downstream repo for Rive renderer
+* 【2024-03-23】[lewis\-007 / MediaCrawler](https://github.com/lewis-007/MediaCrawler) - 
+* 【2024-03-23】[OpenInterpreter / open\-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+* 【2024-03-23】[akexorcist / ruam\-mij\-android](https://github.com/akexorcist/ruam-mij-android) - [Android] Display useful information about your device privacy
+* 【2024-03-23】[midday-ai / midday](https://github.com/midday-ai/midday) - Run your business smarter.
+* 【2024-03-23】[GaParmar / img2img\-turbo](https://github.com/GaParmar/img2img-turbo) - One\-step image\-to\-image with Stable Diffusion turbo: sketch2image, day2night, and more
+* 【2024-03-23】[mhamilton723 / FeatUp](https://github.com/mhamilton723/FeatUp) - Official code for "FeatUp: A Model\-Agnostic Frameworkfor Features at Any Resolution" ICLR 2024
+* 【2024-03-23】[DataExpert\-io / data\-engineer\-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 * 【2024-03-22】[ynqa / jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 * 【2024-03-22】[microsoft / retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
 * 【2024-03-22】[CISOfy / lynis](https://github.com/CISOfy/lynis) - Lynis \- Security auditing tool for Linux, macOS, and UNIX\-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
@@ -304,6 +314,13 @@
 
 ## Python
 
+* 【2024-03-23】[lewis-007 / MediaCrawler](https://github.com/lewis-007/MediaCrawler) - 
+* 【2024-03-23】[OpenInterpreter / open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+* 【2024-03-23】[GaParmar / img2img-turbo](https://github.com/GaParmar/img2img-turbo) - One-step image-to-image with Stable Diffusion turbo: sketch2image, day2night, and more
+* 【2024-03-23】[Doriandarko / maestro](https://github.com/Doriandarko/maestro) - A framework for Claude Opus to intelligently orchestrate subagents.
+* 【2024-03-23】[Lightning\-AI / lightning\-thunder](https://github.com/Lightning-AI/lightning-thunder) - Source to source compiler for PyTorch. It makes PyTorch programs faster on single accelerators and distributed.
+* 【2024-03-23】[SYSTRAN / faster\-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
+* 【2024-03-23】[ezelikman / quiet\-star](https://github.com/ezelikman/quiet-star) - Code for Quiet\-STaR
 * 【2024-03-22】[kongzhecn / OMG](https://github.com/kongzhecn/OMG) - OMG: Occlusion\-friendly Personalized Multi\-concept Generation In Diffusion Models
 * 【2024-03-22】[Kiteretsu77 / APISR](https://github.com/Kiteretsu77/APISR) - APISR: Anime Production Inspired Real\-World Anime Super\-Resolution (CVPR 2024)
 * 【2024-03-22】[mrphrazer / reverser_ai](https://github.com/mrphrazer/reverser_ai) - Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
@@ -486,6 +503,9 @@
 
 ## Javascript
 
+* 【2024-03-23】[IseeJ / CosmosPersona](https://github.com/IseeJ/CosmosPersona) - for fun :D
+* 【2024-03-23】[ThePrimeagen / fem\-git](https://github.com/ThePrimeagen/fem-git) - 
+* 【2024-03-23】[Xtremilicious / projectlearn\-project\-based\-learning](https://github.com/Xtremilicious/projectlearn-project-based-learning) - A curated list of project tutorials for project\-based learning.
 * 【2024-03-22】[typicode / mistcss](https://github.com/typicode/mistcss) - Write atomic React components using only CSS! (JS\-from\-CSS™) 🌬️
 * 【2024-03-22】[Hyizhou1 / tg_hongbao](https://github.com/Hyizhou1/tg_hongbao) - Telegram电报tg红包雷,红包扫雷机器人源码\-\-自助充值、提现全功能完整版多语言全网最全假人自动抢包
 * 【2024-03-21】[FiveKG / gas-listener](https://github.com/FiveKG/gas-listener) - 
@@ -794,6 +814,9 @@
 
 ## C#
 
+* 【2024-03-23】[grzybeek / grzyClothTool](https://github.com/grzybeek/grzyClothTool) - grzyClothTool is a free tool to create and manage GTA5 addon clothing packs
+* 【2024-03-23】[Prescoter / Emora-Project](https://github.com/Prescoter/Emora-Project) - Emora is an OSINT tool like sherlock but with a GUI, which search for accounts by username across social networks
+* 【2024-03-23】[redis\-windows / redis\-windows](https://github.com/redis-windows/redis-windows) - Redis 6.0.20 6.2.14 7.0.15 7.2.4 for Windows
 * 【2024-03-22】[microsoft / FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key\-value store + cache, in C\# and C++.
 * 【2024-03-22】[Pathoschild / SMAPI](https://github.com/Pathoschild/SMAPI) - The modding API for Stardew Valley.
 * 【2024-03-22】[Prescoter / Emora\-Project](https://github.com/Prescoter/Emora-Project) - Emora is an OSINT tool like sherlock but with a GUI, which search for accounts by username across social networks
@@ -873,6 +896,7 @@
 
 ## Html
 
+* 【2024-03-23】[mist64 / 64er\-magazin.de](https://github.com/mist64/64er-magazin.de) - 
 * 【2024-03-22】[bradtraversy / react-crash-2024](https://github.com/bradtraversy/react-crash-2024) - React jobs project from YouTube crash course
 * 【2024-03-21】[teenboyring / Listonline](https://github.com/teenboyring/Listonline) - 
 * 【2024-03-21】[bradtraversy / react\-crash\-2024](https://github.com/bradtraversy/react-crash-2024) - React jobs project from YouTube crash course
@@ -1020,6 +1044,11 @@
 
 ## Unknown
 
+* 【2024-03-23】[DataExpert-io / data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+* 【2024-03-23】[Boiledcrabs / Aviator\-Prediction\-Tool](https://github.com/Boiledcrabs/Aviator-Prediction-Tool) - Best prediction tool for Aviator, requests USB cable and PC for install on your device.
+* 【2024-03-23】[sk3pp3r / cheat\-sheet\-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat\-Sheet Collection from the WWW
+* 【2024-03-23】[AlphacatPlus / VmambaIR](https://github.com/AlphacatPlus/VmambaIR) - This is official implementtaion of "VmambaIR: Visual State Space Model for Image Restoration"
+* 【2024-03-23】[shashankrustagi / DSA-IITD-NaveenGarg](https://github.com/shashankrustagi/DSA-IITD-NaveenGarg) - DSA notes of Dr Naveen Garg, IIT Delhi, NPTEL
 * 【2024-03-22】[meituan / Meituan\-INFORMS\-TSL\-Research\-Challenge](https://github.com/meituan/Meituan-INFORMS-TSL-Research-Challenge) - 
 * 【2024-03-21】[dotnet\-smartcomponents / smartcomponents](https://github.com/dotnet-smartcomponents/smartcomponents) - Experimental, end\-to\-end AI features for .NET apps
 * 【2024-03-21】[mims\-harvard / UniTS](https://github.com/mims-harvard/UniTS) - A unified time series model.
@@ -1189,6 +1218,10 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-03-23】[getgrit / gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
+* 【2024-03-23】[quickwit-oss / quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+* 【2024-03-23】[prefix\-dev / pixi](https://github.com/prefix-dev/pixi) - Package management made easy
+* 【2024-03-23】[embassy-rs / embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 * 【2024-03-22】[joaoviictorti / RustRedOps](https://github.com/joaoviictorti/RustRedOps) - 🦀 \| RustRedOps is a repository dedicated to gathering and sharing advanced techniques and offensive malware for Red Team, with a specific focus on the Rust programming language.
 * 【2024-03-21】[quickwit\-oss / quickwit](https://github.com/quickwit-oss/quickwit) - Cloud\-native search engine for observability. An open\-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 * 【2024-03-21】[SeaQL / sea\-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
@@ -1325,6 +1358,13 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-03-23】[putyy / res-downloader](https://github.com/putyy/res-downloader) - 网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
+* 【2024-03-23】[Uniswap / v3\-core](https://github.com/Uniswap/v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
+* 【2024-03-23】[ferdikoomen / openapi\-typescript\-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
+* 【2024-03-23】[capricorn86 / happy\-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
+* 【2024-03-23】[LLM\-Red\-Team / kimi\-free\-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型白嫖服务，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
+* 【2024-03-23】[wevm / wagmi](https://github.com/wevm/wagmi) - React Hooks for Ethereum
+* 【2024-03-23】[moonrailgun / codeck](https://github.com/moonrailgun/codeck) - 基于JS的可视化蓝图编程引擎
 * 【2024-03-22】[superagent-ai / superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
 * 【2024-03-22】[midday\-ai / midday](https://github.com/midday-ai/midday) - Run your business smarter.
 * 【2024-03-21】[discord / embedded-app-sdk](https://github.com/discord/embedded-app-sdk) - 🚀 The Discord Embedded App SDK lets you build rich, multiplayer experiences as Activities inside Discord.
