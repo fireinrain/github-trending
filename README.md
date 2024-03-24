@@ -24,6 +24,11 @@
 
 ## All language
 
+* 【2024-03-24】[stitionai / devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high\-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open\-source alternative to Devin by Cognition AI.
+* 【2024-03-24】[OpenInterpreter / 01](https://github.com/OpenInterpreter/01) - The open\-source language model computer
+* 【2024-03-24】[Lightning-AI / lightning-thunder](https://github.com/Lightning-AI/lightning-thunder) - Make PyTorch models Lightning fast! Thunder is a source to source compiler for PyTorch. It enables using different hardware executors at once.
+* 【2024-03-24】[unit-mesh / auto-dev](https://github.com/unit-mesh/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent feature 🧪 included! 🚀
+* 【2024-03-24】[SakanaAI / evolutionary\-model\-merge](https://github.com/SakanaAI/evolutionary-model-merge) - Official repository of Evolutionary Optimization of Model Merging Recipes
 * 【2024-03-23】[unit\-mesh / auto\-dev](https://github.com/unit-mesh/auto-dev) - 🧙‍AutoDev: The AI\-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug\-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Dev/Testing/Document/Agent feature 🧪 included! 🚀
 * 【2024-03-23】[harry0703 / MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用大模型，一键生成短视频
 * 【2024-03-23】[rive-app / rive-renderer](https://github.com/rive-app/rive-renderer) - Downstream repo for Rive renderer
@@ -314,6 +319,10 @@
 
 ## Python
 
+* 【2024-03-24】[SakanaAI / evolutionary-model-merge](https://github.com/SakanaAI/evolutionary-model-merge) - Official repository of Evolutionary Optimization of Model Merging Recipes
+* 【2024-03-24】[TarlogicSecurity / BlueSpy](https://github.com/TarlogicSecurity/BlueSpy) - 
+* 【2024-03-24】[ezelikman / quiet-star](https://github.com/ezelikman/quiet-star) - Code for Quiet-STaR
+* 【2024-03-24】[jiji262 / MediaCrawler\-new](https://github.com/jiji262/MediaCrawler-new) - 小红书笔记 \| 评论爬虫、抖音视频 \| 评论爬虫、快手视频 \| 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
 * 【2024-03-23】[lewis-007 / MediaCrawler](https://github.com/lewis-007/MediaCrawler) - 
 * 【2024-03-23】[OpenInterpreter / open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 * 【2024-03-23】[GaParmar / img2img-turbo](https://github.com/GaParmar/img2img-turbo) - One-step image-to-image with Stable Diffusion turbo: sketch2image, day2night, and more
@@ -503,6 +512,9 @@
 
 ## Javascript
 
+* 【2024-03-24】[huanghanzhilian / c\-shopping\-rn](https://github.com/huanghanzhilian/c-shopping-rn) - This is a complete App developed by React Native (Expo). It is a beautiful e\-commerce shopping application. 这个是一个React Native(Expo) 开发的完整App应用，是一个精美的电商购物应用。
+* 【2024-03-24】[Nuked88 / ComfyUI\-N\-Sidebar](https://github.com/Nuked88/ComfyUI-N-Sidebar) - A simple sidebar for your ConfyUI!
+* 【2024-03-24】[zeke / livestory](https://github.com/zeke/livestory) - 
 * 【2024-03-23】[IseeJ / CosmosPersona](https://github.com/IseeJ/CosmosPersona) - for fun :D
 * 【2024-03-23】[ThePrimeagen / fem\-git](https://github.com/ThePrimeagen/fem-git) - 
 * 【2024-03-23】[Xtremilicious / projectlearn\-project\-based\-learning](https://github.com/Xtremilicious/projectlearn-project-based-learning) - A curated list of project tutorials for project\-based learning.
@@ -682,6 +694,8 @@
 
 ## C
 
+* 【2024-03-24】[phdlee / uvk5cec](https://github.com/phdlee/uvk5cec) - Adds various experimental features to the uvk5 radio
+* 【2024-03-24】[wendy512 / iec61850](https://github.com/wendy512/iec61850) - GoLang IEC61850 library
 * 【2024-03-22】[cecio / USBvalve](https://github.com/cecio/USBvalve) - Expose USB activity on the fly
 * 【2024-03-21】[X1Plus / X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
 * 【2024-03-21】[xscorp / jsmug](https://github.com/xscorp/jsmug) - A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
@@ -745,6 +759,7 @@
 
 ## C++
 
+* 【2024-03-24】[Daiyouqi / Convenience_QThread](https://github.com/Daiyouqi/Convenience_QThread) - 在c++/qt中使用c\#的async/await语法糖
 * 【2024-03-22】[rive\-app / rive\-renderer](https://github.com/rive-app/rive-renderer) - Downstream repo for Rive renderer
 * 【2024-03-22】[RedefiningReality / Cobalt\-Strike](https://github.com/RedefiningReality/Cobalt-Strike) - Various resources to enhance Cobalt Strike's functionality and its ability to evade antivirus/EDR detection
 * 【2024-03-21】[ros\-drivers / usb_cam](https://github.com/ros-drivers/usb_cam) - A ROS Driver for V4L2 USB Cameras
@@ -814,6 +829,8 @@
 
 ## C#
 
+* 【2024-03-24】[whuanle / maomi](https://github.com/whuanle/maomi) - Maomi 框架是一个简单的、简洁的开发框架，处理框架本身提供的功能之外，Maomi 还作为一个易于阅读的开源项目，能够给开发者提供设计框架的思路和代码。
+* 【2024-03-24】[emoacht / Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease
 * 【2024-03-23】[grzybeek / grzyClothTool](https://github.com/grzybeek/grzyClothTool) - grzyClothTool is a free tool to create and manage GTA5 addon clothing packs
 * 【2024-03-23】[Prescoter / Emora-Project](https://github.com/Prescoter/Emora-Project) - Emora is an OSINT tool like sherlock but with a GUI, which search for accounts by username across social networks
 * 【2024-03-23】[redis\-windows / redis\-windows](https://github.com/redis-windows/redis-windows) - Redis 6.0.20 6.2.14 7.0.15 7.2.4 for Windows
@@ -896,6 +913,8 @@
 
 ## Html
 
+* 【2024-03-24】[TheLargestHiddenWiki / uncensored\-onion\-links](https://github.com/TheLargestHiddenWiki/uncensored-onion-links) - The Hidden Wiki
+* 【2024-03-24】[anan1213095357 / Blueprint](https://github.com/anan1213095357/Blueprint) - 
 * 【2024-03-23】[mist64 / 64er\-magazin.de](https://github.com/mist64/64er-magazin.de) - 
 * 【2024-03-22】[bradtraversy / react-crash-2024](https://github.com/bradtraversy/react-crash-2024) - React jobs project from YouTube crash course
 * 【2024-03-21】[teenboyring / Listonline](https://github.com/teenboyring/Listonline) - 
@@ -1044,6 +1063,10 @@
 
 ## Unknown
 
+* 【2024-03-24】[Boiledcrabs / Aviator-Prediction-Tool](https://github.com/Boiledcrabs/Aviator-Prediction-Tool) - Best prediction tool for Aviator, requests USB cable and PC for install on your device.
+* 【2024-03-24】[jakubtomsu / awesome\-odin](https://github.com/jakubtomsu/awesome-odin) - A collection of awesome Odin libraries, bindings, software and resources 🧙‍♂️✨
+* 【2024-03-24】[jaywcjlove / DevHub](https://github.com/jaywcjlove/DevHub) - A feature\-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
+* 【2024-03-24】[zorazrw / awesome\-tool\-llm](https://github.com/zorazrw/awesome-tool-llm) - 
 * 【2024-03-23】[DataExpert-io / data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 * 【2024-03-23】[Boiledcrabs / Aviator\-Prediction\-Tool](https://github.com/Boiledcrabs/Aviator-Prediction-Tool) - Best prediction tool for Aviator, requests USB cable and PC for install on your device.
 * 【2024-03-23】[sk3pp3r / cheat\-sheet\-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat\-Sheet Collection from the WWW
@@ -1218,6 +1241,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-03-24】[mullvad / mullvadvpn\-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
+* 【2024-03-24】[prefix-dev / pixi](https://github.com/prefix-dev/pixi) - Package management made easy
+* 【2024-03-24】[jpochyla / psst](https://github.com/jpochyla/psst) - Fast and multi\-platform Spotify client with native GUI
 * 【2024-03-23】[getgrit / gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
 * 【2024-03-23】[quickwit-oss / quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 * 【2024-03-23】[prefix\-dev / pixi](https://github.com/prefix-dev/pixi) - Package management made easy
@@ -1358,6 +1384,15 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-03-24】[chearon / dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
+* 【2024-03-24】[jarvis2f / vortex](https://github.com/jarvis2f/vortex) - 
+* 【2024-03-24】[027xiguapi / pear\-rec](https://github.com/027xiguapi/pear-rec) - pear\-rec is a screenshot, screen recording, audio recording, and video recording software based on Electron
+* 【2024-03-24】[vuejs / vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+* 【2024-03-24】[vercel / swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
+* 【2024-03-24】[lightdash / lightdash](https://github.com/lightdash/lightdash) - Open source BI for teams that move fast ⚡️
+* 【2024-03-24】[tact\-lang / tact](https://github.com/tact-lang/tact) - Tact compiler main repository
+* 【2024-03-24】[ianarawjo / ChainForge](https://github.com/ianarawjo/ChainForge) - An open\-source visual programming environment for battle\-testing prompts to LLMs.
+* 【2024-03-24】[halo\-dev / plugin\-comment\-widget](https://github.com/halo-dev/plugin-comment-widget) - 通用的 Halo 2.0 评论组件插件
 * 【2024-03-23】[putyy / res-downloader](https://github.com/putyy/res-downloader) - 网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
 * 【2024-03-23】[Uniswap / v3\-core](https://github.com/Uniswap/v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
 * 【2024-03-23】[ferdikoomen / openapi\-typescript\-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen) - NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification
