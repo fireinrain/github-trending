@@ -24,6 +24,11 @@
 
 ## All language
 
+* 【2024-03-25】[face\-hh / griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
+* 【2024-03-25】[mshumer / gpt\-investor](https://github.com/mshumer/gpt-investor) - 
+* 【2024-03-25】[lichao\-sun / Mora](https://github.com/lichao-sun/Mora) - Mora: More like Sora for Generalist Video Generation
+* 【2024-03-25】[jasonppy / VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero\-Shot Speech Editing and Text\-to\-Speech in the Wild
+* 【2024-03-25】[jiji262 / MediaCrawler-new](https://github.com/jiji262/MediaCrawler-new) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
 * 【2024-03-24】[stitionai / devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high\-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open\-source alternative to Devin by Cognition AI.
 * 【2024-03-24】[OpenInterpreter / 01](https://github.com/OpenInterpreter/01) - The open\-source language model computer
 * 【2024-03-24】[Lightning-AI / lightning-thunder](https://github.com/Lightning-AI/lightning-thunder) - Make PyTorch models Lightning fast! Thunder is a source to source compiler for PyTorch. It enables using different hardware executors at once.
@@ -259,6 +264,7 @@
 
 ## Java
 
+* 【2024-03-25】[labilibili / labilibili](https://github.com/labilibili/labilibili) - 仿bilibili前后端实现
 * 【2024-03-21】[01\-ai / Descartes](https://github.com/01-ai/Descartes) - 
 * 【2024-03-20】[CodingGay / BlackShadow](https://github.com/CodingGay/BlackShadow) - 腾讯(Tencent)Shadow的二次封装项目，开袋即食版。
 * 【2024-03-20】[smilexizheng / coco\-boot](https://github.com/smilexizheng/coco-boot) - test\-coco\-springboot
@@ -512,6 +518,8 @@
 
 ## Javascript
 
+* 【2024-03-25】[huanghanzhilian / c-shopping-rn](https://github.com/huanghanzhilian/c-shopping-rn) - This is a complete App developed by React Native (Expo). It is a beautiful e-commerce shopping application. 这个是一个React Native(Expo) 开发的完整App应用，是一个精美的电商购物应用。
+* 【2024-03-25】[jayofelony / pwnagotchi](https://github.com/jayofelony/pwnagotchi) - (⌐■_■) \- Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 * 【2024-03-24】[huanghanzhilian / c\-shopping\-rn](https://github.com/huanghanzhilian/c-shopping-rn) - This is a complete App developed by React Native (Expo). It is a beautiful e\-commerce shopping application. 这个是一个React Native(Expo) 开发的完整App应用，是一个精美的电商购物应用。
 * 【2024-03-24】[Nuked88 / ComfyUI\-N\-Sidebar](https://github.com/Nuked88/ComfyUI-N-Sidebar) - A simple sidebar for your ConfyUI!
 * 【2024-03-24】[zeke / livestory](https://github.com/zeke/livestory) - 
@@ -627,6 +635,7 @@
 
 ## Go
 
+* 【2024-03-25】[awslabs / diagram-as-code](https://github.com/awslabs/diagram-as-code) - Diagram-as-code for AWS architecture.
 * 【2024-03-22】[omriharel / deej](https://github.com/omriharel/deej) - Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
 * 【2024-03-21】[veops / oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
 * 【2024-03-18】[ThePrimeagen / fem-htmx-proj](https://github.com/ThePrimeagen/fem-htmx-proj) - 
@@ -694,6 +703,7 @@
 
 ## C
 
+* 【2024-03-25】[placeholderkv / placeholderkv](https://github.com/placeholderkv/placeholderkv) - A new project to resume development on the formerly open\-source Redis project. Name is placeholder.
 * 【2024-03-24】[phdlee / uvk5cec](https://github.com/phdlee/uvk5cec) - Adds various experimental features to the uvk5 radio
 * 【2024-03-24】[wendy512 / iec61850](https://github.com/wendy512/iec61850) - GoLang IEC61850 library
 * 【2024-03-22】[cecio / USBvalve](https://github.com/cecio/USBvalve) - Expose USB activity on the fly
@@ -829,6 +839,9 @@
 
 ## C#
 
+* 【2024-03-25】[KonataDev / Lagrange.Core](https://github.com/KonataDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C\#, Derived from Konata.Core
+* 【2024-03-25】[Preeaaw / Aviator\-Predictor\-FULL](https://github.com/Preeaaw/Aviator-Predictor-FULL) - Aviator Predictor is a tool designed for predicting multipliers in the Aviator betting game, helping players secure their earnings.
+* 【2024-03-25】[daleao / modular\-overhaul](https://github.com/daleao/modular-overhaul) - 
 * 【2024-03-24】[whuanle / maomi](https://github.com/whuanle/maomi) - Maomi 框架是一个简单的、简洁的开发框架，处理框架本身提供的功能之外，Maomi 还作为一个易于阅读的开源项目，能够给开发者提供设计框架的思路和代码。
 * 【2024-03-24】[emoacht / Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease
 * 【2024-03-23】[grzybeek / grzyClothTool](https://github.com/grzybeek/grzyClothTool) - grzyClothTool is a free tool to create and manage GTA5 addon clothing packs
@@ -913,6 +926,8 @@
 
 ## Html
 
+* 【2024-03-25】[una / better\-faster\-stronger\-web\-ui](https://github.com/una/better-faster-stronger-web-ui) - Better Faster Stronger Web UI Talk
+* 【2024-03-25】[TheLargestHiddenWiki / uncensored-onion-links](https://github.com/TheLargestHiddenWiki/uncensored-onion-links) - The Hidden Wiki
 * 【2024-03-24】[TheLargestHiddenWiki / uncensored\-onion\-links](https://github.com/TheLargestHiddenWiki/uncensored-onion-links) - The Hidden Wiki
 * 【2024-03-24】[anan1213095357 / Blueprint](https://github.com/anan1213095357/Blueprint) - 
 * 【2024-03-23】[mist64 / 64er\-magazin.de](https://github.com/mist64/64er-magazin.de) - 
@@ -1063,6 +1078,9 @@
 
 ## Unknown
 
+* 【2024-03-25】[mahidarling / Kubernetes\-Mock\-Exams](https://github.com/mahidarling/Kubernetes-Mock-Exams) - 
+* 【2024-03-25】[CIS\-Team / UI\-UX\-Roadmap\-2023](https://github.com/CIS-Team/UI-UX-Roadmap-2023) - UI/UX Squad Roadmap
+* 【2024-03-25】[WallKiller\-glitch / V2raySSSSRShare](https://github.com/WallKiller-glitch/V2raySSSSRShare) - 科学上网，vpn机场推荐，支持shadowrocket，ss, ssr, v2ray, trojan, clash,clashr,需要自取（每日更新）
 * 【2024-03-24】[Boiledcrabs / Aviator-Prediction-Tool](https://github.com/Boiledcrabs/Aviator-Prediction-Tool) - Best prediction tool for Aviator, requests USB cable and PC for install on your device.
 * 【2024-03-24】[jakubtomsu / awesome\-odin](https://github.com/jakubtomsu/awesome-odin) - A collection of awesome Odin libraries, bindings, software and resources 🧙‍♂️✨
 * 【2024-03-24】[jaywcjlove / DevHub](https://github.com/jaywcjlove/DevHub) - A feature\-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
@@ -1241,6 +1259,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-03-25】[LGFae / swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
+* 【2024-03-25】[worldcoin / orb\-software](https://github.com/worldcoin/orb-software) - Software for the orb
+* 【2024-03-25】[mullvad / mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 * 【2024-03-24】[mullvad / mullvadvpn\-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 * 【2024-03-24】[prefix-dev / pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 * 【2024-03-24】[jpochyla / psst](https://github.com/jpochyla/psst) - Fast and multi\-platform Spotify client with native GUI
@@ -1384,6 +1405,15 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-03-25】[pure\-admin / pure\-admin\-thin](https://github.com/pure-admin/pure-admin-thin) - vue\-pure\-admin官方精简版
+* 【2024-03-25】[hplush / slowreader](https://github.com/hplush/slowreader) - Web app to combine feeds from social networks and RSS and to help read more meaningful and deep content
+* 【2024-03-25】[prisma / prisma\-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready\-to\-run Prisma example projects
+* 【2024-03-25】[sst / ion](https://github.com/sst/ion) - ❍ — a new engine for SST
+* 【2024-03-25】[john\-smilga / typescript\-course](https://github.com/john-smilga/typescript-course) - 
+* 【2024-03-25】[udecode / plate](https://github.com/udecode/plate) - The rich\-text editor for React.
+* 【2024-03-25】[balena\-io / etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+* 【2024-03-25】[th-ch / youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+* 【2024-03-25】[q2316367743 / es\-client](https://github.com/q2316367743/es-client) - elasticsearch客户端，issue请前往码云：https://gitee.com/qiaoshengda/es\-client
 * 【2024-03-24】[chearon / dropflow](https://github.com/chearon/dropflow) - A CSS layout engine
 * 【2024-03-24】[jarvis2f / vortex](https://github.com/jarvis2f/vortex) - 
 * 【2024-03-24】[027xiguapi / pear\-rec](https://github.com/027xiguapi/pear-rec) - pear\-rec is a screenshot, screen recording, audio recording, and video recording software based on Electron
