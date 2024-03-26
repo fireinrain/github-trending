@@ -16,8 +16,11 @@ def generate_date_str() -> str:
     day = now.strftime('%d')
 
     superscript_digits = ['⁰', '¹', '²', '³', '⁴', '⁵', '⁶', '⁷', '⁸', '⁹']
+
+    lowerscript_digits = ['₀', '₁', '₂', '₃', '₄', '₅', '₆', '₇', '₈', '₉']
+
     month_str = ''.join(superscript_digits[int(digit)] for digit in str(month))
-    day_str = ''.join(superscript_digits[int(digit)] for digit in str(day))
+    day_str = ''.join(lowerscript_digits[int(digit)] for digit in str(day))
     return f"{month_str}/{day_str}"
 
 
@@ -76,7 +79,7 @@ def format_bless_for_tgchannel2(bless_words: str, new_trending_count: int) -> st
     year = datetime.now().year
     date = generate_date_str()
     week = generate_weekday_str()
-    return (f'📅 {year} {date} {week} \. Github Trending\n'
+    return (f'📅 {year} {date} {week} \• Github Trending\n'
             f'\n'
             f'Github热门仓库已推送完毕,共有:`{new_trending_count}`新入榜,快去看看吧:\)🎉\n'
             f'🥳每日祝福语: \n'
@@ -90,4 +93,4 @@ if __name__ == '__main__':
     print(tgchannel)
     print(generate_weekday_str())
     print(generate_date_str())
-    print(format_bless_for_tgchannel2("你好呀"))
+    print(format_bless_for_tgchannel2("你好呀",12))
