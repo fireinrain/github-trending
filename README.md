@@ -24,6 +24,9 @@
 
 ## All language
 
+* 【2024-03-27】[semanser / codel](https://github.com/semanser/codel) - ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.
+* 【2024-03-27】[olegos2 / mobox](https://github.com/olegos2/mobox) - 
+* 【2024-03-27】[FoundationVision / GLEE](https://github.com/FoundationVision/GLEE) - 【CVPR2024】GLEE: General Object Foundation Model for Images and Videos at Scale
 * 【2024-03-26】[mshumer / gpt-investor](https://github.com/mshumer/gpt-investor) - 
 * 【2024-03-26】[face-hh / griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
 * 【2024-03-26】[mistralai\-sf24 / hackathon](https://github.com/mistralai-sf24/hackathon) - 
@@ -268,6 +271,8 @@
 
 ## Java
 
+* 【2024-03-27】[infinilabs / analysis\-ik](https://github.com/infinilabs/analysis-ik) - 🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary.
+* 【2024-03-27】[algorithmzuo / algorithm\-journey](https://github.com/algorithmzuo/algorithm-journey) - 算法通关课的代码和课件
 * 【2024-03-25】[labilibili / labilibili](https://github.com/labilibili/labilibili) - 仿bilibili前后端实现
 * 【2024-03-21】[01\-ai / Descartes](https://github.com/01-ai/Descartes) - 
 * 【2024-03-20】[CodingGay / BlackShadow](https://github.com/CodingGay/BlackShadow) - 腾讯(Tencent)Shadow的二次封装项目，开袋即食版。
@@ -329,6 +334,7 @@
 
 ## Python
 
+* 【2024-03-27】[donydchen / mvsplat](https://github.com/donydchen/mvsplat) - 🌊[arXiv'24] MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi\-View Images
 * 【2024-03-26】[mistralai-sf24 / hackathon](https://github.com/mistralai-sf24/hackathon) - 
 * 【2024-03-26】[prometeydev / Prometheus](https://github.com/prometeydev/Prometheus) - Very powerful stealer + miner + rat + keylogger + clipper
 * 【2024-03-26】[geohot / 7900xtx](https://github.com/geohot/7900xtx) - 
@@ -525,6 +531,9 @@
 
 ## Javascript
 
+* 【2024-03-27】[hrishioa / lumentis](https://github.com/hrishioa/lumentis) - AI powered one\-click comprehensive docs from transcripts and text.
+* 【2024-03-27】[sahir2k / twitter_face_swap](https://github.com/sahir2k/twitter_face_swap) - 
+* 【2024-03-27】[Onezyh / Worker-Vless-2-USB](https://github.com/Onezyh/Worker-Vless-2-USB) - 
 * 【2024-03-26】[xiaopanglian / icefox](https://github.com/xiaopanglian/icefox) - Typecho微信朋友圈主题 icefox
 * 【2024-03-26】[micheleg / dash\-to\-dock](https://github.com/micheleg/dash-to-dock) - A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops.
 * 【2024-03-26】[Onezyh / Worker\-Vless\-2\-USB](https://github.com/Onezyh/Worker-Vless-2-USB) - 
@@ -720,6 +729,9 @@
 
 ## C
 
+* 【2024-03-27】[janmojzis / tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
+* 【2024-03-27】[let\-def / texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
+* 【2024-03-27】[web3ToolBoxDev / toolBoxClient](https://github.com/web3ToolBoxDev/toolBoxClient) - 一步一步编写web3工具——Step\-by\-Step Development of Web3 Tools
 * 【2024-03-26】[Florents\-Tselai / pgJQ](https://github.com/Florents-Tselai/pgJQ) - jq extension for Postgres
 * 【2024-03-25】[placeholderkv / placeholderkv](https://github.com/placeholderkv/placeholderkv) - A new project to resume development on the formerly open\-source Redis project. Name is placeholder.
 * 【2024-03-24】[phdlee / uvk5cec](https://github.com/phdlee/uvk5cec) - Adds various experimental features to the uvk5 radio
@@ -787,6 +799,7 @@
 
 ## C++
 
+* 【2024-03-27】[liu\-yi / HTLP](https://github.com/liu-yi/HTLP) - Homomorphic Time\-Lock Puzzle Schemes
 * 【2024-03-26】[hyprwm / hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities.
 * 【2024-03-24】[Daiyouqi / Convenience_QThread](https://github.com/Daiyouqi/Convenience_QThread) - 在c++/qt中使用c\#的async/await语法糖
 * 【2024-03-22】[rive\-app / rive\-renderer](https://github.com/rive-app/rive-renderer) - Downstream repo for Rive renderer
@@ -950,6 +963,11 @@
 
 ## Html
 
+* 【2024-03-27】[wintermute-cell / magick.css](https://github.com/wintermute-cell/magick.css) - magically playful, yet simple styling. all in one file.
+* 【2024-03-27】[LeoDJ / FW\-EC\-DongleHiderPlus](https://github.com/LeoDJ/FW-EC-DongleHiderPlus) - Framework Expansion Card that includes a USB hub to hide a bare dongle inside and still have a USB\-A port externally
+* 【2024-03-27】[0\-RTT / telegraph](https://github.com/0-RTT/telegraph) - 基于telegraph的图床，图片大于5MB自动压缩
+* 【2024-03-27】[badd1e / Pwn](https://github.com/badd1e/Pwn) - Advanced exploits that I wrote for Pwn2Own competitions and other occasions
+* 【2024-03-27】[techeonn / crush](https://github.com/techeonn/crush) - 
 * 【2024-03-26】[wintermute\-cell / magick.css](https://github.com/wintermute-cell/magick.css) - magically playful, yet simple styling. all in one file.
 * 【2024-03-26】[susam / fxyt](https://github.com/susam/fxyt) - Tiny, esoteric, stack\-based, postfix, canvas colouring language with only 36 simple commands
 * 【2024-03-26】[Codewithshobhit / Happy\-Holi\-Animation\-Using\-HTML\-And\-CSS](https://github.com/Codewithshobhit/Happy-Holi-Animation-Using-HTML-And-CSS) - 
@@ -1105,6 +1123,8 @@
 
 ## Unknown
 
+* 【2024-03-27】[ezerear / gog-games.to_backup](https://github.com/ezerear/gog-games.to_backup) - gog-games.to games backup
+* 【2024-03-27】[rynnxz / programming-module](https://github.com/rynnxz/programming-module) - 
 * 【2024-03-26】[ezerear / gog\-games.to_backup](https://github.com/ezerear/gog-games.to_backup) - gog\-games.to games backup
 * 【2024-03-26】[rynnxz / programming\-module](https://github.com/rynnxz/programming-module) - 
 * 【2024-03-26】[devsarwan / Adobe\-Premiere\-Pro](https://github.com/devsarwan/Adobe-Premiere-Pro) - 
@@ -1289,6 +1309,11 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-03-27】[Y2Z / monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+* 【2024-03-27】[volta\-cli / volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
+* 【2024-03-27】[crate\-ci / typos](https://github.com/crate-ci/typos) - Source code spell checker
+* 【2024-03-27】[foundry-rs / foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+* 【2024-03-27】[worldcoin / orb-software](https://github.com/worldcoin/orb-software) - Software for the orb
 * 【2024-03-26】[lapce / lapdev](https://github.com/lapce/lapdev) - Self\-Hosted Remote Dev Environment
 * 【2024-03-26】[tokio\-rs / tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 * 【2024-03-26】[foundry\-rs / foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
@@ -1443,6 +1468,14 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-03-27】[RealKai42 / qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+* 【2024-03-27】[Future\-Scholars / paperlib](https://github.com/Future-Scholars/paperlib) - An open\-source academic paper management tool.
+* 【2024-03-27】[ThaiProgrammer / tpa\-roadmap](https://github.com/ThaiProgrammer/tpa-roadmap) - 
+* 【2024-03-27】[latentcat / qrbtf](https://github.com/latentcat/qrbtf) - AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com
+* 【2024-03-27】[027xiguapi / pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a screenshot, screen recording, audio recording, and video recording software based on Electron
+* 【2024-03-27】[arco\-design / arco\-design\-vue](https://github.com/arco-design/arco-design-vue) - A Vue.js 3 UI Library based on Arco Design
+* 【2024-03-27】[pure-admin / pure-admin-thin](https://github.com/pure-admin/pure-admin-thin) - vue-pure-admin官方精简版
+* 【2024-03-27】[q2316367743 / es-client](https://github.com/q2316367743/es-client) - elasticsearch客户端，issue请前往码云：https://gitee.com/qiaoshengda/es-client
 * 【2024-03-26】[developersdigest / llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper
 * 【2024-03-26】[RealKai42 / qwerty\-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 * 【2024-03-26】[john-smilga / typescript-course](https://github.com/john-smilga/typescript-course) - 
