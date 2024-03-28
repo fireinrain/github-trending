@@ -271,6 +271,8 @@
 
 ## Java
 
+* 【2024-03-28】[infinilabs / analysis-ik](https://github.com/infinilabs/analysis-ik) - 🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary.
+* 【2024-03-28】[algorithmzuo / algorithm-journey](https://github.com/algorithmzuo/algorithm-journey) - 算法通关课的代码和课件
 * 【2024-03-27】[infinilabs / analysis\-ik](https://github.com/infinilabs/analysis-ik) - 🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary.
 * 【2024-03-27】[algorithmzuo / algorithm\-journey](https://github.com/algorithmzuo/algorithm-journey) - 算法通关课的代码和课件
 * 【2024-03-25】[labilibili / labilibili](https://github.com/labilibili/labilibili) - 仿bilibili前后端实现
@@ -729,6 +731,7 @@
 
 ## C
 
+* 【2024-03-28】[let-def / texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
 * 【2024-03-27】[janmojzis / tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
 * 【2024-03-27】[let\-def / texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
 * 【2024-03-27】[web3ToolBoxDev / toolBoxClient](https://github.com/web3ToolBoxDev/toolBoxClient) - 一步一步编写web3工具——Step\-by\-Step Development of Web3 Tools
@@ -799,6 +802,7 @@
 
 ## C++
 
+* 【2024-03-28】[liu-yi / HTLP](https://github.com/liu-yi/HTLP) - Homomorphic Time-Lock Puzzle Schemes
 * 【2024-03-27】[liu\-yi / HTLP](https://github.com/liu-yi/HTLP) - Homomorphic Time\-Lock Puzzle Schemes
 * 【2024-03-26】[hyprwm / hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities.
 * 【2024-03-24】[Daiyouqi / Convenience_QThread](https://github.com/Daiyouqi/Convenience_QThread) - 在c++/qt中使用c\#的async/await语法糖
@@ -963,6 +967,8 @@
 
 ## Html
 
+* 【2024-03-28】[LeoDJ / FW-EC-DongleHiderPlus](https://github.com/LeoDJ/FW-EC-DongleHiderPlus) - Framework Expansion Card that includes a USB hub to hide a bare dongle inside and still have a USB-A port externally
+* 【2024-03-28】[0-RTT / telegraph](https://github.com/0-RTT/telegraph) - 基于telegraph的图床，图片大于5MB自动压缩
 * 【2024-03-27】[wintermute-cell / magick.css](https://github.com/wintermute-cell/magick.css) - magically playful, yet simple styling. all in one file.
 * 【2024-03-27】[LeoDJ / FW\-EC\-DongleHiderPlus](https://github.com/LeoDJ/FW-EC-DongleHiderPlus) - Framework Expansion Card that includes a USB hub to hide a bare dongle inside and still have a USB\-A port externally
 * 【2024-03-27】[0\-RTT / telegraph](https://github.com/0-RTT/telegraph) - 基于telegraph的图床，图片大于5MB自动压缩
@@ -1309,6 +1315,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-03-28】[volta-cli / volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
+* 【2024-03-28】[crate-ci / typos](https://github.com/crate-ci/typos) - Source code spell checker
 * 【2024-03-27】[Y2Z / monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 * 【2024-03-27】[volta\-cli / volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 * 【2024-03-27】[crate\-ci / typos](https://github.com/crate-ci/typos) - Source code spell checker
@@ -1468,6 +1476,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-03-28】[Future-Scholars / paperlib](https://github.com/Future-Scholars/paperlib) - An open-source academic paper management tool.
+* 【2024-03-28】[ThaiProgrammer / tpa-roadmap](https://github.com/ThaiProgrammer/tpa-roadmap) - 
+* 【2024-03-28】[arco-design / arco-design-vue](https://github.com/arco-design/arco-design-vue) - A Vue.js 3 UI Library based on Arco Design
 * 【2024-03-27】[RealKai42 / qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 * 【2024-03-27】[Future\-Scholars / paperlib](https://github.com/Future-Scholars/paperlib) - An open\-source academic paper management tool.
 * 【2024-03-27】[ThaiProgrammer / tpa\-roadmap](https://github.com/ThaiProgrammer/tpa-roadmap) - 
