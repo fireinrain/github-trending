@@ -24,6 +24,13 @@
 
 ## All language
 
+* 【2024-03-30】[Zejun\-Yang / AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio\-Driven Synthesis of Photorealistic Portrait Animation
+* 【2024-03-30】[databricks / dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
+* 【2024-03-30】[valkey-io / valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, like a Valkyrie.
+* 【2024-03-30】[gamemcu / www\-genshin](https://github.com/gamemcu/www-genshin) - 
+* 【2024-03-30】[Notselwyn / CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) - Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.
+* 【2024-03-30】[SunoAI\-API / Suno\-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno API based on Python and FastAPI. It currently supports generating songs, lyrics, etc. It comes with a built\-in token maintenance and keep\-alive feature, so you don't have to worry about the token expiring.
+* 【2024-03-30】[langchain-ai / langchain-extract](https://github.com/langchain-ai/langchain-extract) - 🦜⛏️ Did you say you like data?
 * 【2024-03-29】[fudan\-generative\-vision / champ](https://github.com/fudan-generative-vision/champ) - Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance
 * 【2024-03-29】[langchain\-ai / langchain\-extract](https://github.com/langchain-ai/langchain-extract) - 🦜⛏️ Did you say you like data?
 * 【2024-03-29】[AlexanderKoch\-Koch / low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
@@ -278,6 +285,7 @@
 
 ## Java
 
+* 【2024-03-30】[digitalinnovationone / santander-dev-week-2024](https://github.com/digitalinnovationone/santander-dev-week-2024) - RESTful API da Santander Dev Week 2024 construída em Java 21 com Spring Boot 3.
 * 【2024-03-29】[digitalinnovationone / santander\-dev\-week\-2024](https://github.com/digitalinnovationone/santander-dev-week-2024) - RESTful API da Santander Dev Week 2024 construída em Java 21 com Spring Boot 3.
 * 【2024-03-29】[pig\-mesh / excel\-spring\-boot\-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - alibaba easyexcel spring boot starter
 * 【2024-03-28】[infinilabs / analysis-ik](https://github.com/infinilabs/analysis-ik) - 🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary.
@@ -345,6 +353,11 @@
 
 ## Python
 
+* 【2024-03-30】[Zejun-Yang / AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
+* 【2024-03-30】[SunoAI-API / Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial Suno API based on Python and FastAPI. It currently supports generating songs, lyrics, etc. It comes with a built-in token maintenance and keep-alive feature, so you don't have to worry about the token expiring.
+* 【2024-03-30】[NanmiCoder / CrawlerTutorial](https://github.com/NanmiCoder/CrawlerTutorial) - 爬虫入门、爬虫进阶、高级爬虫
+* 【2024-03-30】[intel-analytics / ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A PyTorch LLM library that seamlessly integrates with llama.cpp, HuggingFace, LangChain, LlamaIndex, DeepSpeed, vLLM, FastChat, ModelScope, etc.
+* 【2024-03-30】[pentestfunctions / BlueDucky](https://github.com/pentestfunctions/BlueDucky) - 🚨 CVE\-2023\-45866 \- BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)
 * 【2024-03-29】[fudan-generative-vision / champ](https://github.com/fudan-generative-vision/champ) - Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance
 * 【2024-03-29】[AlexanderKoch-Koch / low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
 * 【2024-03-29】[agiresearch / AIOS](https://github.com/agiresearch/AIOS) - AIOS: LLM Agent Operating System
@@ -551,6 +564,9 @@
 
 ## Javascript
 
+* 【2024-03-30】[2ri4eUI / CFW\-BOT](https://github.com/2ri4eUI/CFW-BOT) - Cloudflare Woker Bot ! No servers needed, just pure Xray link creation, all running smoothly on PythonAnywhere. a Shortcut to internet freedom! ✨"
+* 【2024-03-30】[asyncapi / generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
+* 【2024-03-30】[k1nd0ne / VolWeb](https://github.com/k1nd0ne/VolWeb) - A centralized and enhanced memory analysis platform
 * 【2024-03-29】[txstc55 / ugly-avatar](https://github.com/txstc55/ugly-avatar) - 
 * 【2024-03-29】[danni\-cool / wechatbot\-webhook](https://github.com/danni-cool/wechatbot-webhook) - http 请求驱动的微信机器人
 * 【2024-03-27】[hrishioa / lumentis](https://github.com/hrishioa/lumentis) - AI powered one\-click comprehensive docs from transcripts and text.
@@ -752,6 +768,8 @@
 
 ## C
 
+* 【2024-03-30】[airockchip / rknn\-toolkit2](https://github.com/airockchip/rknn-toolkit2) - 
+* 【2024-03-30】[Circuit\-Digest / ESP\-Drone](https://github.com/Circuit-Digest/ESP-Drone) - 
 * 【2024-03-29】[valkey\-io / valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open\-source Redis project. We're calling it Valkey, like a Valkyrie.
 * 【2024-03-29】[Notselwyn / CVE\-2024\-1086](https://github.com/Notselwyn/CVE-2024-1086) - Universal local privilege escalation Proof\-of\-Concept exploit for CVE\-2024\-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.
 * 【2024-03-28】[let-def / texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
@@ -990,6 +1008,8 @@
 
 ## Html
 
+* 【2024-03-30】[midudev / javascript\-100\-proyectos](https://github.com/midudev/javascript-100-proyectos) - 100 proyectos de JavaScript con código y vídeos. ¡Gratis!
+* 【2024-03-30】[0xeb / TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 * 【2024-03-29】[Winnie09 / GPTCelltype](https://github.com/Winnie09/GPTCelltype) - 
 * 【2024-03-29】[arcba / DDS\-Ejercicio\-Matriculacion](https://github.com/arcba/DDS-Ejercicio-Matriculacion) - Created with StackBlitz ⚡️
 * 【2024-03-28】[LeoDJ / FW-EC-DongleHiderPlus](https://github.com/LeoDJ/FW-EC-DongleHiderPlus) - Framework Expansion Card that includes a USB hub to hide a bare dongle inside and still have a USB-A port externally
@@ -1154,6 +1174,12 @@
 
 ## Unknown
 
+* 【2024-03-30】[fuckpiracyshield / fuckpiracyshield](https://github.com/fuckpiracyshield/fuckpiracyshield) - Readme
+* 【2024-03-30】[Picsart-AI-Research / StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
+* 【2024-03-30】[sk3pp3r / cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
+* 【2024-03-30】[polymerdevs / Quest-Into-The-Polyverse-Phase-1](https://github.com/polymerdevs/Quest-Into-The-Polyverse-Phase-1) - All information related to phase 1 of the polymer incentivized testnet (PIT)
+* 【2024-03-30】[IDKiro / sdxs](https://github.com/IDKiro/sdxs) - Official repo of paper "SDXS: Real\-Time One\-Step Latent Diffusion Models with Image Conditions"
+* 【2024-03-30】[WallKiller-glitch / V2raySSSSRShare](https://github.com/WallKiller-glitch/V2raySSSSRShare) - 科学上网，vpn机场推荐，支持shadowrocket，ss, ssr, v2ray, trojan, clash,clashr,需要自取（每日更新）
 * 【2024-03-29】[Picsart\-AI\-Research / StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
 * 【2024-03-29】[chenyl8848 / great\-open\-source\-project](https://github.com/chenyl8848/great-open-source-project) - 收集整理Github、Gitte上优秀的开源项目。
 * 【2024-03-29】[jeinlee1991 / chinese\-llm\-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - 中文大模型能力评测榜单：覆盖百度文心一言、chatgpt、阿里通义千问、讯飞星火、belle / chatglm6b 等开源大模型，多维度能力评测。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
@@ -1347,6 +1373,12 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-03-30】[MatthiasGrandl / Loungy](https://github.com/MatthiasGrandl/Loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
+* 【2024-03-30】[sigp / lighthouse](https://github.com/sigp/lighthouse) - Ethereum consensus client in Rust
+* 【2024-03-30】[tokio-rs / tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+* 【2024-03-30】[microsoft / qsharp](https://github.com/microsoft/qsharp) - 
+* 【2024-03-30】[aya\-rs / aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
+* 【2024-03-30】[tensorchord / pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable, Low\-latency and Hybrid\-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database.
 * 【2024-03-29】[nkaz001 / hftbacktest](https://github.com/nkaz001/hftbacktest) - A high\-frequency trading and market\-making backtesting tool in Python and Rust, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books.
 * 【2024-03-29】[rustwasm / wasm\-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high\-level interactions between Wasm modules and JavaScript
 * 【2024-03-29】[helius\-labs / atlas\-txn\-sender](https://github.com/helius-labs/atlas-txn-sender) - 
@@ -1518,6 +1550,13 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-03-30】[gamemcu / www-genshin](https://github.com/gamemcu/www-genshin) - 
+* 【2024-03-30】[snipe\-it\-com / solana\-sniper\-bot](https://github.com/snipe-it-com/solana-sniper-bot) - Solana Sniper Bot \- Proof of Concept
+* 【2024-03-30】[vfarid / v2ray\-worker](https://github.com/vfarid/v2ray-worker) - Total solution for V2Ray over Cloudflare's worker
+* 【2024-03-30】[umijs / qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
+* 【2024-03-30】[saasfly / saasfly](https://github.com/saasfly/saasfly) - Don't buy boilerplate or template anymore! A magic trip start with `bun create saasfly`
+* 【2024-03-30】[electron\-vite / electron\-vite\-vue](https://github.com/electron-vite/electron-vite-vue) - 🥳 Really simple Electron + Vite + Vue boilerplate.
+* 【2024-03-30】[markmap / markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 * 【2024-03-29】[wevm / viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum
 * 【2024-03-29】[webprodigies / fuzzie\-production](https://github.com/webprodigies/fuzzie-production) - 
 * 【2024-03-29】[Galaxies\-dev / fintech\-clone\-react\-native](https://github.com/Galaxies-dev/fintech-clone-react-native) - 
