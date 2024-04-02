@@ -24,6 +24,8 @@
 
 ## All language
 
+* 【2024-04-02】[heyform / heyform](https://github.com/heyform/heyform) - HeyForm is an open\-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.
+* 【2024-04-02】[wandb / openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 * 【2024-04-01】[adrianhajdin / zoom\-clone](https://github.com/adrianhajdin/zoom-clone) - Learn to develop a professional enterprise\-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.
 * 【2024-03-31】[easychen / one\-person\-businesses\-methodology\-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
 * 【2024-03-31】[TMElyralab / MuseV](https://github.com/TMElyralab/MuseV) - MuseV: Infinite\-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising
@@ -362,6 +364,10 @@
 
 ## Python
 
+* 【2024-04-02】[MsLolita / backpack-volume-auto](https://github.com/MsLolita/backpack-volume-auto) - 
+* 【2024-04-02】[brilliantlabsAR / noa\-assistant](https://github.com/brilliantlabsAR/noa-assistant) - 
+* 【2024-04-02】[Lightning\-AI / litgpt](https://github.com/Lightning-AI/litgpt) - Hackable implementation of state\-of\-the\-art open\-source LLMs based on nanoGPT. Supports flash attention, 4\-bit and 8\-bit quantization, LoRA and LLaMA\-Adapter fine\-tuning, pre\-training. Apache 2.0\-licensed.
+* 【2024-04-02】[foivospar / Arc2Face](https://github.com/foivospar/Arc2Face) - Arc2Face: A Foundation Model of Human Faces
 * 【2024-04-01】[google\-deepmind / long\-form\-factuality](https://github.com/google-deepmind/long-form-factuality) - Benchmarking long\-form factuality in large language models. Original code for our paper "Long\-form factuality in large language models".
 * 【2024-04-01】[MsLolita / backpack\-volume\-auto](https://github.com/MsLolita/backpack-volume-auto) - 
 * 【2024-04-01】[MsLolita / grass](https://github.com/MsLolita/grass) - grass\-mining
@@ -577,6 +583,8 @@
 
 ## Javascript
 
+* 【2024-04-02】[franceking1 / Flash-Md](https://github.com/franceking1/Flash-Md) - Feel free to use FLASH-MD, remember to STAR 🌟 The repo after forking
+* 【2024-04-02】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 * 【2024-04-01】[eduardoleao052 / js\-torch](https://github.com/eduardoleao052/js-torch) - A JavaScript library like PyTorch, built from scratch.
 * 【2024-04-01】[justimyhxu / GRM](https://github.com/justimyhxu/GRM) - Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation
 * 【2024-04-01】[anticensority / runet\-censorship\-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
@@ -713,6 +721,7 @@
 
 ## Go
 
+* 【2024-04-02】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 * 【2024-04-01】[pojntfx / weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 * 【2024-04-01】[plandex\-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 * 【2024-03-31】[shizunge / endlessh\-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
@@ -794,6 +803,8 @@
 
 ## C
 
+* 【2024-04-02】[BandarHL / BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
+* 【2024-04-02】[ysanatomic / io_uring_LPE\-CVE\-2024\-0582](https://github.com/ysanatomic/io_uring_LPE-CVE-2024-0582) - LPE exploit for CVE\-2024\-0582 (io_uring)
 * 【2024-04-01】[Decscots / Lockpick_RCM](https://github.com/Decscots/Lockpick_RCM) - 
 * 【2024-04-01】[dayanch96 / YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 * 【2024-03-31】[Circuit-Digest / ESP-Drone](https://github.com/Circuit-Digest/ESP-Drone) - 
@@ -872,6 +883,7 @@
 
 ## C++
 
+* 【2024-04-02】[Taiga74164 / SLA-Cheeto](https://github.com/Taiga74164/SLA-Cheeto) - Solo Leveling:ARISE cheat using DLL Proxying
 * 【2024-04-01】[Taiga74164 / SLA\-Cheeto](https://github.com/Taiga74164/SLA-Cheeto) - Solo Leveling:ARISE cheat using DLL Proxying
 * 【2024-04-01】[myscale / myscaledb](https://github.com/myscale/myscaledb) - An open\-source, high\-performance SQL vector database built on ClickHouse.
 * 【2024-04-01】[kasmtech / KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
@@ -948,6 +960,8 @@
 
 ## C#
 
+* 【2024-04-02】[sourcegit\-scm / sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
+* 【2024-04-02】[yaobiao131 / downkyicore](https://github.com/yaobiao131/downkyicore) - 哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 * 【2024-04-01】[Pathoschild / StardewMods](https://github.com/Pathoschild/StardewMods) - Mods for Stardew Valley using SMAPI.
 * 【2024-03-26】[daleao / modular-overhaul](https://github.com/daleao/modular-overhaul) - 
 * 【2024-03-26】[vercidium\-patreon / meshing](https://github.com/vercidium-patreon/meshing) - Greedy meshing algorithm for voxel models
@@ -1041,6 +1055,7 @@
 
 ## Html
 
+* 【2024-04-02】[simonw / tools](https://github.com/simonw/tools) - Assorted tools
 * 【2024-04-01】[EPFLXplore / XRE_LeggedRobot_HW](https://github.com/EPFLXplore/XRE_LeggedRobot_HW) - PCB designs for Xplore Research's robot dog project
 * 【2024-04-01】[erew123 / alltalk_tts](https://github.com/erew123/alltalk_tts) - AllTalk is based on the Coqui TTS engine, similar to the Coqui_tts extension for Text generation webUI, however supports a variety of advanced features, such as a settings page, low VRAM support, DeepSpeed, narrator, model finetuning, custom models, wav file maintenance. It can also be used with 3rd Party software via JSON calls.
 * 【2024-03-31】[syhily / algorithm\-anime](https://github.com/syhily/algorithm-anime) - 
@@ -1210,6 +1225,10 @@
 
 ## Unknown
 
+* 【2024-04-02】[billmei / every\-chatgpt\-gui](https://github.com/billmei/every-chatgpt-gui) - Every front\-end GUI client for ChatGPT
+* 【2024-04-02】[PandaBearLab / prompt\-tutorial](https://github.com/PandaBearLab/prompt-tutorial) - 
+* 【2024-04-02】[h4x0r-dz / Leaked-Credentials](https://github.com/h4x0r-dz/Leaked-Credentials) - how to look for Leaked Credentials !
+* 【2024-04-02】[Chanda\-Abdul / Several\-Coding\-Patterns\-for\-Solving\-Data\-Structures\-and\-Algorithms\-Problems\-during\-Interviews](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews) - Several Coding Patterns for Solving Data Structures and Algorithms Problems during Interviews
 * 【2024-04-01】[h4x0r\-dz / Leaked\-Credentials](https://github.com/h4x0r-dz/Leaked-Credentials) - how to look for Leaked Credentials !
 * 【2024-04-01】[knassar702 / awesome\-linux\-minimalism](https://github.com/knassar702/awesome-linux-minimalism) - awesome linux minimalism suggestions
 * 【2024-04-01】[BINANCECONTRACT / How\-to\-Create\-BEP20\-Token](https://github.com/BINANCECONTRACT/How-to-Create-BEP20-Token) - Step By Step Guide to How to Create BEP20 Token and list them on PANCAKE SWAP.
@@ -1417,6 +1436,11 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-04-02】[ratatui-org / ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
+* 【2024-04-02】[svenstaro / genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
+* 【2024-04-02】[LukeMathWalker / zero\-to\-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
+* 【2024-04-02】[tatut / pgprolog](https://github.com/tatut/pgprolog) - PostgreSQL Prolog language handler
+* 【2024-04-02】[kekeimiku / PointerSearcher-X](https://github.com/kekeimiku/PointerSearcher-X) - An application for finding memory pointers.
 * 【2024-04-01】[ratatui\-org / ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 * 【2024-04-01】[ntex\-rs / ntex](https://github.com/ntex-rs/ntex) - framework for composable networking services
 * 【2024-04-01】[kekeimiku / PointerSearcher\-X](https://github.com/kekeimiku/PointerSearcher-X) - An application for finding memory pointers.
@@ -1599,6 +1623,12 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-02】[catppuccin / catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high\-spirited!
+* 【2024-04-02】[Openpanel\-dev / openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool.
+* 【2024-04-02】[jbilcke-hf / ai-comic-factory](https://github.com/jbilcke-hf/ai-comic-factory) - Generate comic panels using a LLM + SDXL. Powered by Hugging Face 🤗
+* 【2024-04-02】[nukeop / nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
+* 【2024-04-02】[ByteGrad / portfolio-website](https://github.com/ByteGrad/portfolio-website) - Build & Deploy a modern React / Next.js portfolio website from scratch!
+* 【2024-04-02】[homebridge / homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 * 【2024-04-01】[adrianhajdin / zoom-clone](https://github.com/adrianhajdin/zoom-clone) - Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.
 * 【2024-04-01】[MohamedBassem / hoarder-app](https://github.com/MohamedBassem/hoarder-app) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 * 【2024-04-01】[wokim / clien\-archiver](https://github.com/wokim/clien-archiver) - Clien\-Archiver is a CLI tool that allows users to backup and manage posts from the clien.net website in a local environment.
