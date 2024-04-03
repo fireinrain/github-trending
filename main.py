@@ -197,7 +197,7 @@ def format_date2_tg_message(message: dict, lang: str, repo_statics: tuple) -> st
         message['title'] = message['title'].replace('-', '\-')
         message['description'] = message['description'].replace('-', '\-')
 
-    if '.' in message['title'] or '-' in message['description']:
+    if '.' in message['title'] or '.' in message['description']:
         message['title'] = message['title'].replace('.', '\.')
         message['description'] = message['description'].replace('.', '\.')
 
@@ -391,10 +391,9 @@ async def fetch_push_ghtendings_job():
                 await telegrambot.send_message2bot(format_data)
                 await asyncio.sleep(2)
             await asyncio.sleep(5)
-        # release db connection
-        database.session.close()
         write_markdown(lang, results, archived_contents)
-
+    # release db connection
+    database.session.close()
     # 推送每日推送结束消息
     await push_every_day_end(new_trending_count)
 
