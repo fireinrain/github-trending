@@ -24,6 +24,11 @@
 
 ## All language
 
+* 【2024-04-03】[amlweems / xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE\-2024\-3094)
+* 【2024-04-03】[zyronon / douyin](https://github.com/zyronon/douyin) - TikTok 抖音 Vue js
+* 【2024-04-03】[infiniflow / ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open\-source RAG (Retrieval\-Augmented Generation) engine based on deep document understanding 
+* 【2024-04-03】[huggingface / cookbook](https://github.com/huggingface/cookbook) - Open\-source AI cookbook
+* 【2024-04-03】[Anankke / SSPanel\-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi\-purpose proxy service management system
 * 【2024-04-02】[heyform / heyform](https://github.com/heyform/heyform) - HeyForm is an open\-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.
 * 【2024-04-02】[wandb / openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 * 【2024-04-01】[adrianhajdin / zoom\-clone](https://github.com/adrianhajdin/zoom-clone) - Learn to develop a professional enterprise\-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.
@@ -293,6 +298,7 @@
 
 ## Java
 
+* 【2024-04-03】[apache / cxf](https://github.com/apache/cxf) - Apache CXF
 * 【2024-04-01】[RikkaApps / Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android.
 * 【2024-03-31】[apache / paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
 * 【2024-03-31】[apache / incubator\-amoro](https://github.com/apache/incubator-amoro) - Apache Amoro (incubating) is a Lakehouse management system built on open data lake formats.
@@ -364,6 +370,13 @@
 
 ## Python
 
+* 【2024-04-03】[tamilselvanarjun / pydatascraper](https://github.com/tamilselvanarjun/pydatascraper) - pydatascraper is a Python application that provides web scraping capabilities, including fetching Google and Yelp reviews 
+* 【2024-04-03】[tamilselvanarjun / quantmodels](https://github.com/tamilselvanarjun/quantmodels) - FinModels  is a Python package that provides implementations of various financial models commonly used in finance and investment analysis 
+* 【2024-04-03】[tamilselvanarjun / df2file](https://github.com/tamilselvanarjun/df2file) - A utility for appending DataFrames to Single Excel file in different sheets 
+* 【2024-04-03】[tamilselvanarjun / finmodels](https://github.com/tamilselvanarjun/finmodels) - finmodels is a Python package that provides various financial models for analysis and optimization 
+* 【2024-04-03】[tamilselvanarjun / knapsack_algorithm](https://github.com/tamilselvanarjun/knapsack_algorithm) - A simple implementation of the Knapsack problem using dynamic programming 
+* 【2024-04-03】[X\-PLUG / mPLUG\-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl) - mPLUG\-DocOwl: Modularized Multimodal Large Language Model for Document Understanding
+* 【2024-04-03】[shuxiang / MT\-WMS](https://github.com/shuxiang/MT-WMS) - MT\-WMS 是开源的支持多仓多货主(multi warehouses, mulit owners)的WMS(仓储管理系统) 遵循Apache License 2 0协议
 * 【2024-04-02】[MsLolita / backpack-volume-auto](https://github.com/MsLolita/backpack-volume-auto) - 
 * 【2024-04-02】[brilliantlabsAR / noa\-assistant](https://github.com/brilliantlabsAR/noa-assistant) - 
 * 【2024-04-02】[Lightning\-AI / litgpt](https://github.com/Lightning-AI/litgpt) - Hackable implementation of state\-of\-the\-art open\-source LLMs based on nanoGPT. Supports flash attention, 4\-bit and 8\-bit quantization, LoRA and LLaMA\-Adapter fine\-tuning, pre\-training. Apache 2.0\-licensed.
@@ -803,6 +816,12 @@
 
 ## C
 
+* 【2024-04-03】[IchigoJam / ichigojam\-firm](https://github.com/IchigoJam/ichigojam-firm) - 
+* 【2024-04-03】[xz\-mirror / xz](https://github.com/xz-mirror/xz) - See https://github com/tukaani\-project/xz for the official repository
+* 【2024-04-03】[Cipher7 / ChaiLdr](https://github.com/Cipher7/ChaiLdr) - AV bypass while you sip your Chai!
+* 【2024-04-03】[ysanatomic / io_uring_LPE-CVE-2024-0582](https://github.com/ysanatomic/io_uring_LPE-CVE-2024-0582) - LPE exploit for CVE-2024-0582 (io_uring)
+* 【2024-04-03】[kyxiaxiang / Beacon_Source](https://github.com/kyxiaxiang/Beacon_Source) - not a reverse\-engineered version of the Cobalt Strike Beacon
+* 【2024-04-03】[hamarituc / xz\-backdoor](https://github.com/hamarituc/xz-backdoor) - 
 * 【2024-04-02】[BandarHL / BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
 * 【2024-04-02】[ysanatomic / io_uring_LPE\-CVE\-2024\-0582](https://github.com/ysanatomic/io_uring_LPE-CVE-2024-0582) - LPE exploit for CVE\-2024\-0582 (io_uring)
 * 【2024-04-01】[Decscots / Lockpick_RCM](https://github.com/Decscots/Lockpick_RCM) - 
@@ -883,6 +902,8 @@
 
 ## C++
 
+* 【2024-04-03】[city\-super / Octree\-GS](https://github.com/city-super/Octree-GS) - Octree\-GS: Towards Consistent Real\-time Rendering with LOD\-Structured 3D Gaussians
+* 【2024-04-03】[owasp\-modsecurity / ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs  It has a robust event\-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real\-time analys…
 * 【2024-04-02】[Taiga74164 / SLA-Cheeto](https://github.com/Taiga74164/SLA-Cheeto) - Solo Leveling:ARISE cheat using DLL Proxying
 * 【2024-04-01】[Taiga74164 / SLA\-Cheeto](https://github.com/Taiga74164/SLA-Cheeto) - Solo Leveling:ARISE cheat using DLL Proxying
 * 【2024-04-01】[myscale / myscaledb](https://github.com/myscale/myscaledb) - An open\-source, high\-performance SQL vector database built on ClickHouse.
@@ -960,6 +981,8 @@
 
 ## C#
 
+* 【2024-04-03】[sourcegit-scm / sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
+* 【2024-04-03】[zzzprojects / Z ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) - C\# Extension Methods \| Over 1000 extension methods:
 * 【2024-04-02】[sourcegit\-scm / sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 * 【2024-04-02】[yaobiao131 / downkyicore](https://github.com/yaobiao131/downkyicore) - 哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 * 【2024-04-01】[Pathoschild / StardewMods](https://github.com/Pathoschild/StardewMods) - Mods for Stardew Valley using SMAPI.
@@ -1055,6 +1078,11 @@
 
 ## Html
 
+* 【2024-04-03】[rod\-trent / Copilot\-for\-Security](https://github.com/rod-trent/Copilot-for-Security) - 
+* 【2024-04-03】[aeonaxy\-official / ReactTailwindBoilerplate](https://github.com/aeonaxy-official/ReactTailwindBoilerplate) - 
+* 【2024-04-03】[midudev / javascript-100-proyectos](https://github.com/midudev/javascript-100-proyectos) - 100 proyectos de JavaScript con código y vídeos. ¡Gratis!
+* 【2024-04-03】[jgrahamc / gmsl](https://github.com/jgrahamc/gmsl) - GNU Make Standard Library
+* 【2024-04-03】[wessamabdelwahab / CSCC1030](https://github.com/wessamabdelwahab/CSCC1030) - 
 * 【2024-04-02】[simonw / tools](https://github.com/simonw/tools) - Assorted tools
 * 【2024-04-01】[EPFLXplore / XRE_LeggedRobot_HW](https://github.com/EPFLXplore/XRE_LeggedRobot_HW) - PCB designs for Xplore Research's robot dog project
 * 【2024-04-01】[erew123 / alltalk_tts](https://github.com/erew123/alltalk_tts) - AllTalk is based on the Coqui TTS engine, similar to the Coqui_tts extension for Text generation webUI, however supports a variety of advanced features, such as a settings page, low VRAM support, DeepSpeed, narrator, model finetuning, custom models, wav file maintenance. It can also be used with 3rd Party software via JSON calls.
@@ -1225,6 +1253,13 @@
 
 ## Unknown
 
+* 【2024-04-03】[PandaBearLab / prompt-tutorial](https://github.com/PandaBearLab/prompt-tutorial) - chatGPT、prompt、LLM
+* 【2024-04-03】[bbolker / gLLMglnlmvlvMMM](https://github.com/bbolker/gLLMglnlmvlvMMM) - a generative Large Language Model for generalized linear and nonlinear multivariate latent\-variable multilevel/mixed modelling
+* 【2024-04-03】[billmei / every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT
+* 【2024-04-03】[coinbase / solidity\-style\-guide](https://github.com/coinbase/solidity-style-guide) - 
+* 【2024-04-03】[nera\-nikolayeva / rsixs](https://github.com/nera-nikolayeva/rsixs) - PASS \- 1234
+* 【2024-04-03】[ShawMerlin / NES\-Slotmaster](https://github.com/ShawMerlin/NES-Slotmaster) - A fully open\-sourced drop in replacement for the 72 Pin Cartridge Slot on a Front Loader NES
+* 【2024-04-03】[YN3011140075 / our\-flutter\-template\-vnc](https://github.com/YN3011140075/our-flutter-template-vnc) - 
 * 【2024-04-02】[billmei / every\-chatgpt\-gui](https://github.com/billmei/every-chatgpt-gui) - Every front\-end GUI client for ChatGPT
 * 【2024-04-02】[PandaBearLab / prompt\-tutorial](https://github.com/PandaBearLab/prompt-tutorial) - 
 * 【2024-04-02】[h4x0r-dz / Leaked-Credentials](https://github.com/h4x0r-dz/Leaked-Credentials) - how to look for Leaked Credentials !
@@ -1436,6 +1471,10 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-04-03】[tedkim97 / adcache](https://github.com/tedkim97/adcache) - 
+* 【2024-04-03】[touchHLE / touchHLE](https://github.com/touchHLE/touchHLE) - High\-level emulator for iPhone OS apps  This repo is used for issues, releases and CI  Submit patches at: https://review gerrithub io/admin/repos/touchHLE/touchHLE
+* 【2024-04-03】[Schniz / fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node js version manager, built in Rust
+* 【2024-04-03】[WebAssembly / WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface
 * 【2024-04-02】[ratatui-org / ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 * 【2024-04-02】[svenstaro / genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 * 【2024-04-02】[LukeMathWalker / zero\-to\-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
@@ -1623,6 +1662,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-03】[alphardex / su7\-replica](https://github.com/alphardex/su7-replica) - 
+* 【2024-04-03】[ixartz / SaaS\-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next js + Tailwind CSS + Shadcn UI + TypeScript  ⚡️ Full\-stack React application with Auth, Multi\-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
+* 【2024-04-03】[rrweb\-io / rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
+* 【2024-04-03】[Uniswap / interface](https://github.com/Uniswap/interface) - 🦄 Open source interfaces for the Uniswap protocol
 * 【2024-04-02】[catppuccin / catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high\-spirited!
 * 【2024-04-02】[Openpanel\-dev / openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool.
 * 【2024-04-02】[jbilcke-hf / ai-comic-factory](https://github.com/jbilcke-hf/ai-comic-factory) - Generate comic panels using a LLM + SDXL. Powered by Hugging Face 🤗
