@@ -197,6 +197,10 @@ def format_date2_tg_message(message: dict, lang: str, repo_statics: tuple) -> st
         message['title'] = message['title'].replace('-', '\-')
         message['description'] = message['description'].replace('-', '\-')
 
+    if '.' in message['title'] or '-' in message['description']:
+        message['title'] = message['title'].replace('.', '\.')
+        message['description'] = message['description'].replace('.', '\.')
+
     return (f"`{message['title']}`\n"
             f"`{message['description']}`\n"
             f"[Repo URL]({message['url']}) \| `👀{repo_statics[0]}` `🍴{repo_statics[1]}` `⭐{repo_statics[2]}`\n"
