@@ -24,6 +24,7 @@
 
 ## All language
 
+* 【2024-04-04】[Anankke / SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
 * 【2024-04-03】[amlweems / xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE\-2024\-3094)
 * 【2024-04-03】[zyronon / douyin](https://github.com/zyronon/douyin) - TikTok 抖音 Vue js
 * 【2024-04-03】[infiniflow / ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open\-source RAG (Retrieval\-Augmented Generation) engine based on deep document understanding 
@@ -370,6 +371,8 @@
 
 ## Python
 
+* 【2024-04-04】[X-PLUG / mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl) - mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding
+* 【2024-04-04】[shuxiang / MT-WMS](https://github.com/shuxiang/MT-WMS) - MT-WMS 是开源的支持多仓多货主(multi warehouses, mulit owners)的WMS(仓储管理系统) 遵循Apache License 2.0协议
 * 【2024-04-03】[tamilselvanarjun / pydatascraper](https://github.com/tamilselvanarjun/pydatascraper) - pydatascraper is a Python application that provides web scraping capabilities, including fetching Google and Yelp reviews 
 * 【2024-04-03】[tamilselvanarjun / quantmodels](https://github.com/tamilselvanarjun/quantmodels) - FinModels  is a Python package that provides implementations of various financial models commonly used in finance and investment analysis 
 * 【2024-04-03】[tamilselvanarjun / df2file](https://github.com/tamilselvanarjun/df2file) - A utility for appending DataFrames to Single Excel file in different sheets 
@@ -816,6 +819,9 @@
 
 ## C
 
+* 【2024-04-04】[IchigoJam / ichigojam-firm](https://github.com/IchigoJam/ichigojam-firm) - 
+* 【2024-04-04】[xz-mirror / xz](https://github.com/xz-mirror/xz) - See https://github.com/tukaani-project/xz for the official repository
+* 【2024-04-04】[hamarituc / xz-backdoor](https://github.com/hamarituc/xz-backdoor) - 
 * 【2024-04-03】[IchigoJam / ichigojam\-firm](https://github.com/IchigoJam/ichigojam-firm) - 
 * 【2024-04-03】[xz\-mirror / xz](https://github.com/xz-mirror/xz) - See https://github com/tukaani\-project/xz for the official repository
 * 【2024-04-03】[Cipher7 / ChaiLdr](https://github.com/Cipher7/ChaiLdr) - AV bypass while you sip your Chai!
@@ -902,6 +908,8 @@
 
 ## C++
 
+* 【2024-04-04】[city-super / Octree-GS](https://github.com/city-super/Octree-GS) - Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians
+* 【2024-04-04】[owasp-modsecurity / ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
 * 【2024-04-03】[city\-super / Octree\-GS](https://github.com/city-super/Octree-GS) - Octree\-GS: Towards Consistent Real\-time Rendering with LOD\-Structured 3D Gaussians
 * 【2024-04-03】[owasp\-modsecurity / ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs  It has a robust event\-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real\-time analys…
 * 【2024-04-02】[Taiga74164 / SLA-Cheeto](https://github.com/Taiga74164/SLA-Cheeto) - Solo Leveling:ARISE cheat using DLL Proxying
@@ -981,6 +989,7 @@
 
 ## C#
 
+* 【2024-04-04】[zzzprojects / Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) - C# Extension Methods | Over 1000 extension methods:
 * 【2024-04-03】[sourcegit-scm / sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 * 【2024-04-03】[zzzprojects / Z ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) - C\# Extension Methods \| Over 1000 extension methods:
 * 【2024-04-02】[sourcegit\-scm / sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
@@ -1078,6 +1087,8 @@
 
 ## Html
 
+* 【2024-04-04】[rod-trent / Copilot-for-Security](https://github.com/rod-trent/Copilot-for-Security) - 
+* 【2024-04-04】[aeonaxy-official / ReactTailwindBoilerplate](https://github.com/aeonaxy-official/ReactTailwindBoilerplate) - 
 * 【2024-04-03】[rod\-trent / Copilot\-for\-Security](https://github.com/rod-trent/Copilot-for-Security) - 
 * 【2024-04-03】[aeonaxy\-official / ReactTailwindBoilerplate](https://github.com/aeonaxy-official/ReactTailwindBoilerplate) - 
 * 【2024-04-03】[midudev / javascript-100-proyectos](https://github.com/midudev/javascript-100-proyectos) - 100 proyectos de JavaScript con código y vídeos. ¡Gratis!
@@ -1253,6 +1264,10 @@
 
 ## Unknown
 
+* 【2024-04-04】[coinbase / solidity-style-guide](https://github.com/coinbase/solidity-style-guide) - 
+* 【2024-04-04】[nera\-nikolayeva / r\-six\-s](https://github.com/nera-nikolayeva/r-six-s) - PASS \- 1234
+* 【2024-04-04】[ShawMerlin / NES-Slotmaster](https://github.com/ShawMerlin/NES-Slotmaster) - A fully open-sourced drop in replacement for the 72 Pin Cartridge Slot on a Front Loader NES
+* 【2024-04-04】[YN3011140075 / our-flutter-template-vnc](https://github.com/YN3011140075/our-flutter-template-vnc) - 
 * 【2024-04-03】[PandaBearLab / prompt-tutorial](https://github.com/PandaBearLab/prompt-tutorial) - chatGPT、prompt、LLM
 * 【2024-04-03】[bbolker / gLLMglnlmvlvMMM](https://github.com/bbolker/gLLMglnlmvlvMMM) - a generative Large Language Model for generalized linear and nonlinear multivariate latent\-variable multilevel/mixed modelling
 * 【2024-04-03】[billmei / every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT
@@ -1662,6 +1677,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-04】[alphardex / su7-replica](https://github.com/alphardex/su7-replica) - 
+* 【2024-04-04】[ixartz / SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
+* 【2024-04-04】[rrweb-io / rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 * 【2024-04-03】[alphardex / su7\-replica](https://github.com/alphardex/su7-replica) - 
 * 【2024-04-03】[ixartz / SaaS\-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next js + Tailwind CSS + Shadcn UI + TypeScript  ⚡️ Full\-stack React application with Auth, Multi\-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
 * 【2024-04-03】[rrweb\-io / rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
