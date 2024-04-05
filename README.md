@@ -24,6 +24,10 @@
 
 ## All language
 
+* 【2024-04-05】[princeton\-nlp / SWE\-agent](https://github.com/princeton-nlp/SWE-agent) - SWE\-agent: Agent Computer Interfaces Enable Software Engineering Language Models
+* 【2024-04-05】[rocketseat\-education / nlw\-unite\-nodejs](https://github.com/rocketseat-education/nlw-unite-nodejs) - Back\-end em Node js desenvolvido durante o NLW Unite da Rocketseat
+* 【2024-04-05】[HardhatChad / ore](https://github.com/HardhatChad/ore) - 
+* 【2024-04-05】[OneUptime / oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open\-source observability platform 
 * 【2024-04-04】[Anankke / SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
 * 【2024-04-03】[amlweems / xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE\-2024\-3094)
 * 【2024-04-03】[zyronon / douyin](https://github.com/zyronon/douyin) - TikTok 抖音 Vue js
@@ -299,6 +303,8 @@
 
 ## Java
 
+* 【2024-04-05】[javaconferences / javaconferences github io](https://github.com/javaconferences/javaconferences.github.io) - The Github repository for javaconferences org
+* 【2024-04-05】[qwdigital / LinkWechat\-Scrm](https://github.com/qwdigital/LinkWechat-Scrm) - LinkWeChat后端代码仓库，\-\- 基于企业微信的开源 SCRM 系统，是企业私域流量管理与营销的综合解决方案。
 * 【2024-04-03】[apache / cxf](https://github.com/apache/cxf) - Apache CXF
 * 【2024-04-01】[RikkaApps / Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android.
 * 【2024-03-31】[apache / paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
@@ -371,6 +377,10 @@
 
 ## Python
 
+* 【2024-04-05】[princeton-nlp / SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models
+* 【2024-04-05】[youtube\-jocoding / gpt\-bitcoin](https://github.com/youtube-jocoding/gpt-bitcoin) - 비트코인 GPT 인공지능 AI 자동매매 시스템
+* 【2024-04-05】[astropy / astropy](https://github.com/astropy/astropy) - Astronomy and astrophysics core library
+* 【2024-04-05】[KdaiP / StableTTS](https://github.com/KdaiP/StableTTS) - Next\-generation TTS model using flow\-matching and DiT, inspired by Stable Diffusion 3
 * 【2024-04-04】[X-PLUG / mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl) - mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding
 * 【2024-04-04】[shuxiang / MT-WMS](https://github.com/shuxiang/MT-WMS) - MT-WMS 是开源的支持多仓多货主(multi warehouses, mulit owners)的WMS(仓储管理系统) 遵循Apache License 2.0协议
 * 【2024-04-03】[tamilselvanarjun / pydatascraper](https://github.com/tamilselvanarjun/pydatascraper) - pydatascraper is a Python application that provides web scraping capabilities, including fetching Google and Yelp reviews 
@@ -599,6 +609,7 @@
 
 ## Javascript
 
+* 【2024-04-05】[TimeRainStarSky / TRSS\-Plugin](https://github.com/TimeRainStarSky/TRSS-Plugin) - 
 * 【2024-04-02】[franceking1 / Flash-Md](https://github.com/franceking1/Flash-Md) - Feel free to use FLASH-MD, remember to STAR 🌟 The repo after forking
 * 【2024-04-02】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 * 【2024-04-01】[eduardoleao052 / js\-torch](https://github.com/eduardoleao052/js-torch) - A JavaScript library like PyTorch, built from scratch.
@@ -737,6 +748,8 @@
 
 ## Go
 
+* 【2024-04-05】[openp2p\-cn / openp2p](https://github.com/openp2p-cn/openp2p) - OpenP2P is a lightweight P2P sharing network  Support Cone,Symmetric(NAT1\-NAT4),UPNP,IPv6,both UDP&TCP punch  You can build you private sharing network, or uses the public sharing network
+* 【2024-04-05】[nilsherzig / LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents  The user can ask a question and the system will use a chain of LLMs to find the answer  The user can see the progress of the agents and the final answer  No OpenAI or Google API keys are needed 
 * 【2024-04-02】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 * 【2024-04-01】[pojntfx / weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
 * 【2024-04-01】[plandex\-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
@@ -819,6 +832,8 @@
 
 ## C
 
+* 【2024-04-05】[renderlet / wander](https://github.com/renderlet/wander) - wander \- the Wasm Renderer
+* 【2024-04-05】[hannorein / rebound](https://github.com/hannorein/rebound) - 💫 An open\-source multi\-purpose N\-body code 
 * 【2024-04-04】[IchigoJam / ichigojam-firm](https://github.com/IchigoJam/ichigojam-firm) - 
 * 【2024-04-04】[xz-mirror / xz](https://github.com/xz-mirror/xz) - See https://github.com/tukaani-project/xz for the official repository
 * 【2024-04-04】[hamarituc / xz-backdoor](https://github.com/hamarituc/xz-backdoor) - 
@@ -989,6 +1004,7 @@
 
 ## C#
 
+* 【2024-04-05】[MaxWasUnavailable / Virality](https://github.com/MaxWasUnavailable/Virality) - A bigger lobby mod for Content Warning 
 * 【2024-04-04】[zzzprojects / Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) - C# Extension Methods | Over 1000 extension methods:
 * 【2024-04-03】[sourcegit-scm / sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 * 【2024-04-03】[zzzprojects / Z ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) - C\# Extension Methods \| Over 1000 extension methods:
@@ -1087,6 +1103,7 @@
 
 ## Html
 
+* 【2024-04-05】[rocketseat\-education / nlw\-unite\-html\-css\-js](https://github.com/rocketseat-education/nlw-unite-html-css-js) - Aplicação front\-end em HTML+CSS+JS desenvolvida durante o NLW Unite da Rocketseat
 * 【2024-04-04】[rod-trent / Copilot-for-Security](https://github.com/rod-trent/Copilot-for-Security) - 
 * 【2024-04-04】[aeonaxy-official / ReactTailwindBoilerplate](https://github.com/aeonaxy-official/ReactTailwindBoilerplate) - 
 * 【2024-04-03】[rod\-trent / Copilot\-for\-Security](https://github.com/rod-trent/Copilot-for-Security) - 
@@ -1264,6 +1281,8 @@
 
 ## Unknown
 
+* 【2024-04-05】[sdg\-1 / data\-team\-handbook](https://github.com/sdg-1/data-team-handbook) - 
+* 【2024-04-05】[IIIImmmyyy / frida-il2cppDumper](https://github.com/IIIImmmyyy/frida-il2cppDumper) - Riru Il2cppDumper 加强版 内存里直接dump出源码信息
 * 【2024-04-04】[coinbase / solidity-style-guide](https://github.com/coinbase/solidity-style-guide) - 
 * 【2024-04-04】[nera\-nikolayeva / r\-six\-s](https://github.com/nera-nikolayeva/r-six-s) - PASS \- 1234
 * 【2024-04-04】[ShawMerlin / NES-Slotmaster](https://github.com/ShawMerlin/NES-Slotmaster) - A fully open-sourced drop in replacement for the 72 Pin Cartridge Slot on a Front Loader NES
@@ -1486,6 +1505,13 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-04-05】[HardhatChad / ore\-cli](https://github.com/HardhatChad/ore-cli) - 
+* 【2024-04-05】[availproject / avail\-light](https://github.com/availproject/avail-light) - 
+* 【2024-04-05】[tokio-rs / tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
+* 【2024-04-05】[achristmascarl / three_body](https://github.com/achristmascarl/three_body) - ✨ rudimentary simulation of the three\-body problem
+* 【2024-04-05】[tsoding / good_training_language](https://github.com/tsoding/good_training_language) - Хороший Учебный Язык
+* 【2024-04-05】[apache / arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
+* 【2024-04-05】[hcavarsan / kftray](https://github.com/hcavarsan/kftray) - kubectl port\-forward on steroids ⚡ \| kftray makes it easy for you to manage and share multiple k8s port forwards right from your menu bar \- built with rust 🦀 and ts using tauri
 * 【2024-04-03】[tedkim97 / adcache](https://github.com/tedkim97/adcache) - 
 * 【2024-04-03】[touchHLE / touchHLE](https://github.com/touchHLE/touchHLE) - High\-level emulator for iPhone OS apps  This repo is used for issues, releases and CI  Submit patches at: https://review gerrithub io/admin/repos/touchHLE/touchHLE
 * 【2024-04-03】[Schniz / fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node js version manager, built in Rust
@@ -1677,6 +1703,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-05】[rocketseat-education / nlw-unite-nodejs](https://github.com/rocketseat-education/nlw-unite-nodejs) - Back-end em Node.js desenvolvido durante o NLW Unite da Rocketseat
+* 【2024-04-05】[rocketseat\-education / nlw\-unite\-react](https://github.com/rocketseat-education/nlw-unite-react) - Aplicação front\-end em React desenvolvida durante o NLW Unite da Rocketseat
+* 【2024-04-05】[atlassian / pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 * 【2024-04-04】[alphardex / su7-replica](https://github.com/alphardex/su7-replica) - 
 * 【2024-04-04】[ixartz / SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
 * 【2024-04-04】[rrweb-io / rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
