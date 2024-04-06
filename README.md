@@ -24,6 +24,12 @@
 
 ## All language
 
+* 【2024-04-06】[HardhatChad / ore-cli](https://github.com/HardhatChad/ore-cli) - 
+* 【2024-04-06】[rocketseat-education / nlw-unite-react](https://github.com/rocketseat-education/nlw-unite-react) - Aplicação front-end em React desenvolvida durante o NLW Unite da Rocketseat
+* 【2024-04-06】[aurora\-develop / aurora](https://github.com/aurora-develop/aurora) - free
+* 【2024-04-06】[availproject / availup](https://github.com/availproject/availup) - 
+* 【2024-04-06】[actions / setup\-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node js
+* 【2024-04-06】[EhTagTranslation / Database](https://github.com/EhTagTranslation/Database) - EhTagTranslation 项目的翻译数据。
 * 【2024-04-05】[princeton\-nlp / SWE\-agent](https://github.com/princeton-nlp/SWE-agent) - SWE\-agent: Agent Computer Interfaces Enable Software Engineering Language Models
 * 【2024-04-05】[rocketseat\-education / nlw\-unite\-nodejs](https://github.com/rocketseat-education/nlw-unite-nodejs) - Back\-end em Node js desenvolvido durante o NLW Unite da Rocketseat
 * 【2024-04-05】[HardhatChad / ore](https://github.com/HardhatChad/ore) - 
@@ -303,6 +309,8 @@
 
 ## Java
 
+* 【2024-04-06】[querydsl / querydsl](https://github.com/querydsl/querydsl) - Unified Queries for Java
+* 【2024-04-06】[confluentinc / kafka\-streams\-examples](https://github.com/confluentinc/kafka-streams-examples) - Demo applications and code examples for Apache Kafka's Streams API 
 * 【2024-04-05】[javaconferences / javaconferences github io](https://github.com/javaconferences/javaconferences.github.io) - The Github repository for javaconferences org
 * 【2024-04-05】[qwdigital / LinkWechat\-Scrm](https://github.com/qwdigital/LinkWechat-Scrm) - LinkWeChat后端代码仓库，\-\- 基于企业微信的开源 SCRM 系统，是企业私域流量管理与营销的综合解决方案。
 * 【2024-04-03】[apache / cxf](https://github.com/apache/cxf) - Apache CXF
@@ -377,6 +385,12 @@
 
 ## Python
 
+* 【2024-04-06】[qilingframework / qiling](https://github.com/qilingframework/qiling) - A True Instrumentable Binary Emulation Framework
+* 【2024-04-06】[zk\-Call / zkp\-hmac\-communication\-python](https://github.com/zk-Call/zkp-hmac-communication-python) - "Zero\-Knowledge" Proof Implementation with HMAC Communication in Python
+* 【2024-04-06】[YaoFANGUK / video\-subtitle\-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI\-based tool for removing hard\-coded subtitles and text\-like watermarks from videos or Pictures 
+* 【2024-04-06】[tech\-shrimp / WechatMoments](https://github.com/tech-shrimp/WechatMoments) - 微信朋友圈导出工具\-技术爬爬虾
+* 【2024-04-06】[1Panel\-dev / MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 基于 LLM 大语言模型的知识库问答系统，1Panel 官方出品。开箱即用，支持快速嵌入到第三方业务系统。
+* 【2024-04-06】[UpstageAI / evalverse](https://github.com/UpstageAI/evalverse) - The Universe of Evaluation  All about the evaluation for LLMs 
 * 【2024-04-05】[princeton-nlp / SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models
 * 【2024-04-05】[youtube\-jocoding / gpt\-bitcoin](https://github.com/youtube-jocoding/gpt-bitcoin) - 비트코인 GPT 인공지능 AI 자동매매 시스템
 * 【2024-04-05】[astropy / astropy](https://github.com/astropy/astropy) - Astronomy and astrophysics core library
@@ -609,6 +623,9 @@
 
 ## Javascript
 
+* 【2024-04-06】[missuo / FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT\-3 5\-Turbo API service provided by the login\-free ChatGPT Web 
+* 【2024-04-06】[mscdex / ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node js
+* 【2024-04-06】[TimeRainStarSky / TRSS-Plugin](https://github.com/TimeRainStarSky/TRSS-Plugin) - 
 * 【2024-04-05】[TimeRainStarSky / TRSS\-Plugin](https://github.com/TimeRainStarSky/TRSS-Plugin) - 
 * 【2024-04-02】[franceking1 / Flash-Md](https://github.com/franceking1/Flash-Md) - Feel free to use FLASH-MD, remember to STAR 🌟 The repo after forking
 * 【2024-04-02】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
@@ -748,6 +765,11 @@
 
 ## Go
 
+* 【2024-04-06】[aurora-develop / aurora](https://github.com/aurora-develop/aurora) - free
+* 【2024-04-06】[kube\-vip / kube\-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load\-Balancer
+* 【2024-04-06】[AlexanderGrom / go\-patterns](https://github.com/AlexanderGrom/go-patterns) - Design patterns in Golang
+* 【2024-04-06】[Netflix / chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures 
+* 【2024-04-06】[rancher / fleet](https://github.com/rancher/fleet) - Deploy workloads from Git to large fleets of Kubernetes clusters
 * 【2024-04-05】[openp2p\-cn / openp2p](https://github.com/openp2p-cn/openp2p) - OpenP2P is a lightweight P2P sharing network  Support Cone,Symmetric(NAT1\-NAT4),UPNP,IPv6,both UDP&TCP punch  You can build you private sharing network, or uses the public sharing network
 * 【2024-04-05】[nilsherzig / LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents  The user can ask a question and the system will use a chain of LLMs to find the answer  The user can see the progress of the agents and the final answer  No OpenAI or Google API keys are needed 
 * 【2024-04-02】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
@@ -832,6 +854,7 @@
 
 ## C
 
+* 【2024-04-06】[NVIDIAGameWorks / Streamline](https://github.com/NVIDIAGameWorks/Streamline) - Streamline Integration Framework
 * 【2024-04-05】[renderlet / wander](https://github.com/renderlet/wander) - wander \- the Wasm Renderer
 * 【2024-04-05】[hannorein / rebound](https://github.com/hannorein/rebound) - 💫 An open\-source multi\-purpose N\-body code 
 * 【2024-04-04】[IchigoJam / ichigojam-firm](https://github.com/IchigoJam/ichigojam-firm) - 
@@ -923,6 +946,8 @@
 
 ## C++
 
+* 【2024-04-06】[nukeykt / Nuked\-SC55](https://github.com/nukeykt/Nuked-SC55) - SC\-55mkII emulation
+* 【2024-04-06】[Neo\-Maoku / SearchAvailableExe](https://github.com/Neo-Maoku/SearchAvailableExe) - 寻找可利用的白文件
 * 【2024-04-04】[city-super / Octree-GS](https://github.com/city-super/Octree-GS) - Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians
 * 【2024-04-04】[owasp-modsecurity / ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
 * 【2024-04-03】[city\-super / Octree\-GS](https://github.com/city-super/Octree-GS) - Octree\-GS: Towards Consistent Real\-time Rendering with LOD\-Structured 3D Gaussians
@@ -1004,6 +1029,8 @@
 
 ## C#
 
+* 【2024-04-06】[MochiesCode / Mochies\-Unity\-Shaders](https://github.com/MochiesCode/Mochies-Unity-Shaders) - 
+* 【2024-04-06】[p0dalirius / LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor) - Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!
 * 【2024-04-05】[MaxWasUnavailable / Virality](https://github.com/MaxWasUnavailable/Virality) - A bigger lobby mod for Content Warning 
 * 【2024-04-04】[zzzprojects / Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) - C# Extension Methods | Over 1000 extension methods:
 * 【2024-04-03】[sourcegit-scm / sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
@@ -1103,6 +1130,9 @@
 
 ## Html
 
+* 【2024-04-06】[WICG / dbsc](https://github.com/WICG/dbsc) - 
+* 【2024-04-06】[rocketseat-education / nlw-unite-html-css-js](https://github.com/rocketseat-education/nlw-unite-html-css-js) - Aplicação front-end em HTML+CSS+JS desenvolvida durante o NLW Unite da Rocketseat
+* 【2024-04-06】[TIM168 / technical_books](https://github.com/TIM168/technical_books) - 📚🔥收集全网最热门的技术书籍 (GO、黑客、Android、计算机原理、人工智能、大数据、机器学习、数据库、PHP、java、架构、消息队列、算法、python、爬虫、操作系统、linux、C语言)，不间断更新中♨️
 * 【2024-04-05】[rocketseat\-education / nlw\-unite\-html\-css\-js](https://github.com/rocketseat-education/nlw-unite-html-css-js) - Aplicação front\-end em HTML+CSS+JS desenvolvida durante o NLW Unite da Rocketseat
 * 【2024-04-04】[rod-trent / Copilot-for-Security](https://github.com/rod-trent/Copilot-for-Security) - 
 * 【2024-04-04】[aeonaxy-official / ReactTailwindBoilerplate](https://github.com/aeonaxy-official/ReactTailwindBoilerplate) - 
@@ -1281,6 +1311,14 @@
 
 ## Unknown
 
+* 【2024-04-06】[Leymore / ruozhiba](https://github.com/Leymore/ruozhiba) - 
+* 【2024-04-06】[DataTalksClub / llm\-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) - LLM Zoomcamp \- a free online course about building an AI bot that can answer questions about your knowledge base
+* 【2024-04-06】[solddead / V1 4M](https://github.com/solddead/V1.4M) - 
+* 【2024-04-06】[ttxskk / AiOS](https://github.com/ttxskk/AiOS) - [CVPR 2024] Official Code for "AiOS: All\-in\-One\-Stage Expressive Human Pose and Shape Estimation
+* 【2024-04-06】[TrailblazingTracer / darknet\-markets](https://github.com/TrailblazingTracer/darknet-markets) - Hey, this is verified list of dark web resourses
+* 【2024-04-06】[Anita\-Lewis / Mch4j](https://github.com/Anita-Lewis/Mch4j) - 
+* 【2024-04-06】[DevSwanson / how-to-create-memetoken-memecoin](https://github.com/DevSwanson/how-to-create-memetoken-memecoin) - Create your own memecoin with full step by step tutorials
+* 【2024-04-06】[mmhunter3515 / receivesms](https://github.com/mmhunter3515/receivesms) - 十大最佳接码平台
 * 【2024-04-05】[sdg\-1 / data\-team\-handbook](https://github.com/sdg-1/data-team-handbook) - 
 * 【2024-04-05】[IIIImmmyyy / frida-il2cppDumper](https://github.com/IIIImmmyyy/frida-il2cppDumper) - Riru Il2cppDumper 加强版 内存里直接dump出源码信息
 * 【2024-04-04】[coinbase / solidity-style-guide](https://github.com/coinbase/solidity-style-guide) - 
@@ -1505,6 +1543,11 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-04-06】[availproject / avail-light](https://github.com/availproject/avail-light) - 
+* 【2024-04-06】[mistricky / codesnap nvim](https://github.com/mistricky/codesnap.nvim) - 📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim
+* 【2024-04-06】[lldap / lldap](https://github.com/lldap/lldap) - Light LDAP implementation
+* 【2024-04-06】[microsoft / windows\-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
+* 【2024-04-06】[IgnisDa / ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
 * 【2024-04-05】[HardhatChad / ore\-cli](https://github.com/HardhatChad/ore-cli) - 
 * 【2024-04-05】[availproject / avail\-light](https://github.com/availproject/avail-light) - 
 * 【2024-04-05】[tokio-rs / tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
@@ -1703,6 +1746,13 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-06】[actions / setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
+* 【2024-04-06】[actions / setup\-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
+* 【2024-04-06】[Jazee6 / cloudflare\-ai\-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
+* 【2024-04-06】[open-metadata / OpenMetadata](https://github.com/open-metadata/OpenMetadata) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.
+* 【2024-04-06】[actions / github\-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
+* 【2024-04-06】[mebjas / html5\-qrcode](https://github.com/mebjas/html5-qrcode) - A cross platform HTML5 QR code reader  See end to end implementation at: https://scanapp org
+* 【2024-04-06】[actions / starter\-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 * 【2024-04-05】[rocketseat-education / nlw-unite-nodejs](https://github.com/rocketseat-education/nlw-unite-nodejs) - Back-end em Node.js desenvolvido durante o NLW Unite da Rocketseat
 * 【2024-04-05】[rocketseat\-education / nlw\-unite\-react](https://github.com/rocketseat-education/nlw-unite-react) - Aplicação front\-end em React desenvolvida durante o NLW Unite da Rocketseat
 * 【2024-04-05】[atlassian / pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
