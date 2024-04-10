@@ -24,6 +24,7 @@
 
 ## All language
 
+* 【2024-04-10】[drawdb\-io / drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator 
 * 【2024-04-09】[andreasfertig / cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights \- See your source code with the eyes of a compiler
 * 【2024-04-09】[mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 * 【2024-04-08】[myshell-ai / JetMoE](https://github.com/myshell-ai/JetMoE) - Reaching LLaMA2 Performance with 0.1M Dollars
@@ -316,6 +317,7 @@
 
 ## Java
 
+* 【2024-04-10】[Gayanukaa / Spring\-Boot\-Playground](https://github.com/Gayanukaa/Spring-Boot-Playground) - Self\-Learn and Testing Environment
 * 【2024-04-08】[rkkr / simple\-keyboard](https://github.com/rkkr/simple-keyboard) - 
 * 【2024-04-06】[querydsl / querydsl](https://github.com/querydsl/querydsl) - Unified Queries for Java
 * 【2024-04-06】[confluentinc / kafka\-streams\-examples](https://github.com/confluentinc/kafka-streams-examples) - Demo applications and code examples for Apache Kafka's Streams API 
@@ -393,6 +395,8 @@
 
 ## Python
 
+* 【2024-04-10】[Vision\-CAIR / MiniGPT4\-video](https://github.com/Vision-CAIR/MiniGPT4-video) - 
+* 【2024-04-10】[AiGptCode / Iphone\-14\-15\-IRAN\-Anten](https://github.com/AiGptCode/Iphone-14-15-IRAN-Anten) - آموزش رایگان و دائمی فعال‌سازی آنتن در آیفون ۱۴ و ۱۵ بدون ردگیری و بسته شدن با دو روش مختلف، به همراه سورس کد و فایل ساخت UUID یکتا
 * 【2024-04-09】[Libr\-AI / OpenFactVerification](https://github.com/Libr-AI/OpenFactVerification) - Open\-source solution designed to automate the process of verifying factuality
 * 【2024-04-09】[TMElyralab / MuseTalk](https://github.com/TMElyralab/MuseTalk) - MuseTalk: Real\-Time High Quality Lip Synchorization with Latent Space Inpainting
 * 【2024-04-08】[nashsu / FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed  The user can ask a question and the system will make a multi engine search and combine the search result to the ChatGPT3 5 LLM and generate the answer based on search results 
@@ -643,6 +647,10 @@
 
 ## Javascript
 
+* 【2024-04-10】[drawdb-io / drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
+* 【2024-04-10】[langflow-ai / langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
+* 【2024-04-10】[stackframe\-projects / pgmock](https://github.com/stackframe-projects/pgmock) - In\-memory Postgres for unit/E2E tests
+* 【2024-04-10】[alexpinel / Dot](https://github.com/alexpinel/Dot) - Standalone app for fully local RAG with Mistral 7B
 * 【2024-04-09】[langflow\-ai / langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit  Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity 
 * 【2024-04-08】[curtisf / logger](https://github.com/curtisf/logger) - Loggerbot version 3, the Discord bot serving nearly 24 million users 
 * 【2024-04-08】[kolbytn / mindcraft](https://github.com/kolbytn/mindcraft) - 
@@ -883,6 +891,8 @@
 
 ## C
 
+* 【2024-04-10】[migueletto / PumpkinOS](https://github.com/migueletto/PumpkinOS) - PumpkinOS is a re\-implementation of PalmOS 
+* 【2024-04-10】[FascinatedBox / bonk](https://github.com/FascinatedBox/bonk) - X11 window management toolkit
 * 【2024-04-09】[BasedHardware / Friend](https://github.com/BasedHardware/Friend) - AI wearable with 24h+ battery
 * 【2024-04-09】[airockchip / rknn-toolkit2](https://github.com/airockchip/rknn-toolkit2) - 
 * 【2024-04-08】[RsyncProject / rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer  It also has useful features for backup and restore operations among many other use cases 
@@ -1068,6 +1078,8 @@
 
 ## C#
 
+* 【2024-04-10】[ricardojoserf / NativeDump](https://github.com/ricardojoserf/NativeDump) - Dump lsass using only Native APIs by hand\-crafting Minidump files (without MinidumpWriteDump!)
+* 【2024-04-10】[belav / csharpier](https://github.com/belav/csharpier) - CSharpier is an opinionated code formatter for c\# 
 * 【2024-04-08】[zoriya / Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution 
 * 【2024-04-08】[stanuwu / PixelGun3DPCCheat](https://github.com/stanuwu/PixelGun3DPCCheat) - Cheat for Pixel Gun 3D PC
 * 【2024-04-06】[MochiesCode / Mochies\-Unity\-Shaders](https://github.com/MochiesCode/Mochies-Unity-Shaders) - 
@@ -1171,6 +1183,10 @@
 
 ## Html
 
+* 【2024-04-10】[zengm-games / facesjs](https://github.com/zengm-games/facesjs) - A JavaScript library for generating vector-based cartoon faces
+* 【2024-04-10】[perfildodev / projetosdoperfil](https://github.com/perfildodev/projetosdoperfil) - Projetos de autoria do perfil do dev para os nossos seguidores  Abraços do ADM
+* 【2024-04-10】[novice88 / jetbra-server-rust](https://github.com/novice88/jetbra-server-rust) - 
+* 【2024-04-10】[tennc / fuzzdb](https://github.com/tennc/fuzzdb) - Dictionary of attack patterns and primitives for black\-box application fault injection and resource discovery 
 * 【2024-04-09】[iofeqkurrc42 / jetbra\-server\-go](https://github.com/iofeqkurrc42/jetbra-server-go) - 
 * 【2024-04-09】[zengm\-games / facesjs](https://github.com/zengm-games/facesjs) - A JavaScript library for generating vector\-based cartoon faces
 * 【2024-04-09】[dgunning / edgartools](https://github.com/dgunning/edgartools) - Python library for working with SEC Edgar
@@ -1358,6 +1374,10 @@
 
 ## Unknown
 
+* 【2024-04-10】[netsecfish / dlink](https://github.com/netsecfish/dlink) - 
+* 【2024-04-10】[DataTalksClub / llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) - LLM Zoomcamp - a free online course about building an AI bot that can answer questions about your knowledge base
+* 【2024-04-10】[jeinlee1991 / chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - 中文大模型能力评测榜单：覆盖百度文心一言、chatgpt、阿里通义千问、讯飞星火、belle / chatglm6b 等开源大模型，多维度能力评测。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
+* 【2024-04-10】[plausible / community\-edition](https://github.com/plausible/community-edition) - Example docker\-compose setups for hosting Plausible Community Edition
 * 【2024-04-09】[anu0012 / awesome\-computer\-science\-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) - An awesome list of events and fellowship opportunities for Computer Science students
 * 【2024-04-09】[niucnet / jinri\-cp](https://github.com/niucnet/jinri-cp) - jinricp \| 韩国BJ \| 韩国女主播 \| pandatv \| 진리컴퍼니 \| jinri company
 * 【2024-04-09】[vxiiduu / VxKex](https://github.com/vxiiduu/VxKex) - Windows 7 API Extensions
@@ -1601,6 +1621,11 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-04-10】[dora\-rs / dora](https://github.com/dora-rs/dora) - low latency, composable, and distributed dataflow for AI and robotic application
+* 【2024-04-10】[AmrDeveloper / ClangQL](https://github.com/AmrDeveloper/ClangQL) - ClangQL is a tool that allow you to run SQL\-like query on C/C++ Code instead of database files using the GitQL SDK
+* 【2024-04-10】[rpgp / rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
+* 【2024-04-10】[firecracker\-microvm / firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing 
+* 【2024-04-10】[dtolnay / proc\-macro\-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 * 【2024-04-09】[nwaliaez / ascii_art](https://github.com/nwaliaez/ascii_art) - 
 * 【2024-04-08】[jito-labs / searcher-examples](https://github.com/jito-labs/searcher-examples) - Searcher Examples
 * 【2024-04-08】[PhilippRados / wrecc](https://github.com/PhilippRados/wrecc) - A x86_64 C99 compiler written in Rust from scratch
@@ -1810,6 +1835,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-10】[rsrohan99 / rag\-stream\-intermediate\-events\-tutorial](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial) - Tutorial on how to properly send intermediate LlamaIndex events to vercel ai sdk via server\-sent events during RAG 
+* 【2024-04-10】[vercel / examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions  Use these patterns to build your own robust and scalable applications 
+* 【2024-04-10】[jeffvli / feishin](https://github.com/jeffvli/feishin) - A modern self\-hosted music player 
+* 【2024-04-10】[ivanfioravanti / chatbot\-ollama](https://github.com/ivanfioravanti/chatbot-ollama) - Chatbot Ollama is an open source chat UI for Ollama 
 * 【2024-04-09】[tusen\-ai / naive\-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library  Fairly Complete  Theme Customizable  Uses TypeScript  Fast 
 * 【2024-04-09】[ixahmedxi / orbitkit](https://github.com/ixahmedxi/orbitkit) - 🚀 Orbitkit is a monorepo starterkit aiming to be the foundation you build your next startup or big idea upon 
 * 【2024-04-09】[antfu / vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
