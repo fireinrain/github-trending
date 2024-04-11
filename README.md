@@ -24,6 +24,10 @@
 
 ## All language
 
+* 【2024-04-11】[karpathy / llm c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
+* 【2024-04-11】[miurla / morphic](https://github.com/miurla/morphic) - An AI\-powered answer engine with a generative UI
+* 【2024-04-11】[datawhalechina / self\-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
+* 【2024-04-11】[AiGptCode / Iphone-14-15-IRAN-Anten](https://github.com/AiGptCode/Iphone-14-15-IRAN-Anten) - آموزش رایگان و دائمی فعال‌سازی آنتن در آیفون ۱۴ و ۱۵ بدون ردگیری و بسته شدن با دو روش مختلف، به همراه سورس کد و فایل ساخت UUID یکتا
 * 【2024-04-10】[drawdb\-io / drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator 
 * 【2024-04-09】[andreasfertig / cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights \- See your source code with the eyes of a compiler
 * 【2024-04-09】[mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
@@ -317,6 +321,7 @@
 
 ## Java
 
+* 【2024-04-11】[datastrato / gravitino](https://github.com/datastrato/gravitino) - World's most powerful data catalog service with providing a high\-performance, geo\-distributed and federated metadata lake 
 * 【2024-04-10】[Gayanukaa / Spring\-Boot\-Playground](https://github.com/Gayanukaa/Spring-Boot-Playground) - Self\-Learn and Testing Environment
 * 【2024-04-08】[rkkr / simple\-keyboard](https://github.com/rkkr/simple-keyboard) - 
 * 【2024-04-06】[querydsl / querydsl](https://github.com/querydsl/querydsl) - Unified Queries for Java
@@ -395,6 +400,10 @@
 
 ## Python
 
+* 【2024-04-11】[LlamaFamily / Llama\-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
+* 【2024-04-11】[jmerle / imc\-prosperity\-2\-backtester](https://github.com/jmerle/imc-prosperity-2-backtester) - Backtester for IMC Prosperity 2 algorithms
+* 【2024-04-11】[Filimoa / open\-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
+* 【2024-04-11】[blasty / JiaTansSSHAgent](https://github.com/blasty/JiaTansSSHAgent) - 
 * 【2024-04-10】[Vision\-CAIR / MiniGPT4\-video](https://github.com/Vision-CAIR/MiniGPT4-video) - 
 * 【2024-04-10】[AiGptCode / Iphone\-14\-15\-IRAN\-Anten](https://github.com/AiGptCode/Iphone-14-15-IRAN-Anten) - آموزش رایگان و دائمی فعال‌سازی آنتن در آیفون ۱۴ و ۱۵ بدون ردگیری و بسته شدن با دو روش مختلف، به همراه سورس کد و فایل ساخت UUID یکتا
 * 【2024-04-09】[Libr\-AI / OpenFactVerification](https://github.com/Libr-AI/OpenFactVerification) - Open\-source solution designed to automate the process of verifying factuality
@@ -647,6 +656,7 @@
 
 ## Javascript
 
+* 【2024-04-11】[camwiegert / typical](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
 * 【2024-04-10】[drawdb-io / drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 * 【2024-04-10】[langflow-ai / langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
 * 【2024-04-10】[stackframe\-projects / pgmock](https://github.com/stackframe-projects/pgmock) - In\-memory Postgres for unit/E2E tests
@@ -798,6 +808,7 @@
 
 ## Go
 
+* 【2024-04-11】[flipt\-io / reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 * 【2024-04-08】[MartialBE / one-api](https://github.com/MartialBE/one-api) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 * 【2024-04-08】[RiemaLabs / modular-indexer-light](https://github.com/RiemaLabs/modular-indexer-light) - A fully user-verified execution layer for Bitcoin's meta-protocols. (light indexer)
 * 【2024-04-07】[kube-vip / kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
@@ -891,6 +902,7 @@
 
 ## C
 
+* 【2024-04-11】[bb\-qq / r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters
 * 【2024-04-10】[migueletto / PumpkinOS](https://github.com/migueletto/PumpkinOS) - PumpkinOS is a re\-implementation of PalmOS 
 * 【2024-04-10】[FascinatedBox / bonk](https://github.com/FascinatedBox/bonk) - X11 window management toolkit
 * 【2024-04-09】[BasedHardware / Friend](https://github.com/BasedHardware/Friend) - AI wearable with 24h+ battery
@@ -989,6 +1001,7 @@
 
 ## C++
 
+* 【2024-04-11】[GothenburgBitFactory / taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior \- Command line Task Management
 * 【2024-04-09】[zk\-Call / zkp\-hmac\-communication\-cpp](https://github.com/zk-Call/zkp-hmac-communication-cpp) - "Zero\-Knowledge" Proof Implementation with HMAC Communication in C++
 * 【2024-04-09】[PacktPublishing / C\-High\-Performance\-for\-Financial\-Systems\-](https://github.com/PacktPublishing/C-High-Performance-for-Financial-Systems-) - 
 * 【2024-04-08】[hyprwm / hyprland\-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
@@ -1078,6 +1091,8 @@
 
 ## C#
 
+* 【2024-04-11】[blake502 / balatro\-apk\-maker](https://github.com/blake502/balatro-apk-maker) - Create a Balatro APK from your Steam version of Balatro
+* 【2024-04-11】[amantinband / error\-or](https://github.com/amantinband/error-or) - A simple, fluent discriminated union of an error or a result 
 * 【2024-04-10】[ricardojoserf / NativeDump](https://github.com/ricardojoserf/NativeDump) - Dump lsass using only Native APIs by hand\-crafting Minidump files (without MinidumpWriteDump!)
 * 【2024-04-10】[belav / csharpier](https://github.com/belav/csharpier) - CSharpier is an opinionated code formatter for c\# 
 * 【2024-04-08】[zoriya / Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution 
@@ -1183,6 +1198,10 @@
 
 ## Html
 
+* 【2024-04-11】[microsoft / BotFramework\-WebChat](https://github.com/microsoft/BotFramework-WebChat) - A highly\-customizable web\-based client for Azure Bot Services 
+* 【2024-04-11】[xvvvyz / tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage 
+* 【2024-04-11】[alura\-challenges / challenge\-one\-portfolio\-br](https://github.com/alura-challenges/challenge-one-portfolio-br) - Repositorio Base para desenvolvimento do Desafio 1 Crie seu próprio Portfólio do Challenge ONE Front end
+* 【2024-04-11】[sunaku / glove80\-keymaps](https://github.com/sunaku/glove80-keymaps) - "Glorious Engrammer" keymap for Glove80 keyboard
 * 【2024-04-10】[zengm-games / facesjs](https://github.com/zengm-games/facesjs) - A JavaScript library for generating vector-based cartoon faces
 * 【2024-04-10】[perfildodev / projetosdoperfil](https://github.com/perfildodev/projetosdoperfil) - Projetos de autoria do perfil do dev para os nossos seguidores  Abraços do ADM
 * 【2024-04-10】[novice88 / jetbra-server-rust](https://github.com/novice88/jetbra-server-rust) - 
@@ -1374,6 +1393,8 @@
 
 ## Unknown
 
+* 【2024-04-11】[trusted\-point / 0g\-tools](https://github.com/trusted-point/0g-tools) - 0G Validator Guide
+* 【2024-04-11】[ddz16 / TSFpaper](https://github.com/ddz16/TSFpaper) - This repository contains a reading list of papers on Time Series Forecasting/Prediction (TSF) and Spatio\-Temporal Forecasting/Prediction (STF)  These papers are mainly categorized according to the type of model 
 * 【2024-04-10】[netsecfish / dlink](https://github.com/netsecfish/dlink) - 
 * 【2024-04-10】[DataTalksClub / llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) - LLM Zoomcamp - a free online course about building an AI bot that can answer questions about your knowledge base
 * 【2024-04-10】[jeinlee1991 / chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - 中文大模型能力评测榜单：覆盖百度文心一言、chatgpt、阿里通义千问、讯飞星火、belle / chatglm6b 等开源大模型，多维度能力评测。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
@@ -1621,6 +1642,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-04-11】[dora-rs / dora](https://github.com/dora-rs/dora) - low latency, composable, and distributed dataflow for AI and robotic application
+* 【2024-04-11】[tnoorman / ore\-jito](https://github.com/tnoorman/ore-jito) - 
+* 【2024-04-11】[tsukinaha / tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third\-party Emby client
 * 【2024-04-10】[dora\-rs / dora](https://github.com/dora-rs/dora) - low latency, composable, and distributed dataflow for AI and robotic application
 * 【2024-04-10】[AmrDeveloper / ClangQL](https://github.com/AmrDeveloper/ClangQL) - ClangQL is a tool that allow you to run SQL\-like query on C/C++ Code instead of database files using the GitQL SDK
 * 【2024-04-10】[rpgp / rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
@@ -1835,6 +1859,12 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-11】[brocoders / nestjs\-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate  Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker 
+* 【2024-04-11】[Azure\-Samples / serverless\-chat\-langchainjs](https://github.com/Azure-Samples/serverless-chat-langchainjs) - Create your own serverless ChatGPT with Retrieval\-Augmented\-Generation using LangChain js, TypeScript and Azure
+* 【2024-04-11】[promptfoo / promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, models, and RAGs  Catch regressions and improve prompt quality  LLM evals for OpenAI, Azure, Anthropic, Gemini, Mistral, Llama, Bedrock, Ollama, and other local & private models with CI/CD integration 
+* 【2024-04-11】[peter\-evans / create\-pull\-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
+* 【2024-04-11】[originjs / vite\-plugin\-federation](https://github.com/originjs/vite-plugin-federation) - Module Federation for vite & rollup
+* 【2024-04-11】[benvinegar / counterscale](https://github.com/benvinegar/counterscale) - Scalable web analytics you run yourself on Cloudflare
 * 【2024-04-10】[rsrohan99 / rag\-stream\-intermediate\-events\-tutorial](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial) - Tutorial on how to properly send intermediate LlamaIndex events to vercel ai sdk via server\-sent events during RAG 
 * 【2024-04-10】[vercel / examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions  Use these patterns to build your own robust and scalable applications 
 * 【2024-04-10】[jeffvli / feishin](https://github.com/jeffvli/feishin) - A modern self\-hosted music player 
