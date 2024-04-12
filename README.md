@@ -24,6 +24,9 @@
 
 ## All language
 
+* 【2024-04-12】[karpathy / llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
+* 【2024-04-12】[nus\-apr / auto\-code\-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement
+* 【2024-04-12】[tidwall / neco](https://github.com/tidwall/neco) - Concurrency library for C (coroutines)
 * 【2024-04-11】[karpathy / llm c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 * 【2024-04-11】[miurla / morphic](https://github.com/miurla/morphic) - An AI\-powered answer engine with a generative UI
 * 【2024-04-11】[datawhalechina / self\-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
@@ -400,6 +403,8 @@
 
 ## Python
 
+* 【2024-04-12】[nus-apr / auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement
+* 【2024-04-12】[aixcoder\-plugin / aiXcoder\-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder\-7B Code Large Language Model
 * 【2024-04-11】[LlamaFamily / Llama\-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
 * 【2024-04-11】[jmerle / imc\-prosperity\-2\-backtester](https://github.com/jmerle/imc-prosperity-2-backtester) - Backtester for IMC Prosperity 2 algorithms
 * 【2024-04-11】[Filimoa / open\-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
@@ -808,6 +813,7 @@
 
 ## Go
 
+* 【2024-04-12】[dolthub / go\-mysql\-server](https://github.com/dolthub/go-mysql-server) - A MySQL\-compatible relational database with a storage agnostic query engine  Implemented in pure Go 
 * 【2024-04-11】[flipt\-io / reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 * 【2024-04-08】[MartialBE / one-api](https://github.com/MartialBE/one-api) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 * 【2024-04-08】[RiemaLabs / modular-indexer-light](https://github.com/RiemaLabs/modular-indexer-light) - A fully user-verified execution layer for Bitcoin's meta-protocols. (light indexer)
@@ -1001,6 +1007,7 @@
 
 ## C++
 
+* 【2024-04-12】[Kitware / VTK](https://github.com/Kitware/VTK) - Mirror of Visualization Toolkit repository
 * 【2024-04-11】[GothenburgBitFactory / taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior \- Command line Task Management
 * 【2024-04-09】[zk\-Call / zkp\-hmac\-communication\-cpp](https://github.com/zk-Call/zkp-hmac-communication-cpp) - "Zero\-Knowledge" Proof Implementation with HMAC Communication in C++
 * 【2024-04-09】[PacktPublishing / C\-High\-Performance\-for\-Financial\-Systems\-](https://github.com/PacktPublishing/C-High-Performance-for-Financial-Systems-) - 
@@ -1091,6 +1098,9 @@
 
 ## C#
 
+* 【2024-04-12】[kwsch / ItemPrinterDeGacha](https://github.com/kwsch/ItemPrinterDeGacha) - Calculation tool for Scarlet/Violet's Item Printer
+* 【2024-04-12】[blake502 / balatro-apk-maker](https://github.com/blake502/balatro-apk-maker) - Create a Balatro APK from your Steam version of Balatro
+* 【2024-04-12】[builtbybel / Winpilot](https://github.com/builtbybel/Winpilot) - Your everyday Windows companion
 * 【2024-04-11】[blake502 / balatro\-apk\-maker](https://github.com/blake502/balatro-apk-maker) - Create a Balatro APK from your Steam version of Balatro
 * 【2024-04-11】[amantinband / error\-or](https://github.com/amantinband/error-or) - A simple, fluent discriminated union of an error or a result 
 * 【2024-04-10】[ricardojoserf / NativeDump](https://github.com/ricardojoserf/NativeDump) - Dump lsass using only Native APIs by hand\-crafting Minidump files (without MinidumpWriteDump!)
@@ -1198,6 +1208,7 @@
 
 ## Html
 
+* 【2024-04-12】[WuSuoV / YioveGetIP](https://github.com/WuSuoV/YioveGetIP) - 实时获取当前 IP 地址，支持多线路，包括中国移动、中国联通、中国电信、海外线路，以及访问谷歌等特殊网站。
 * 【2024-04-11】[microsoft / BotFramework\-WebChat](https://github.com/microsoft/BotFramework-WebChat) - A highly\-customizable web\-based client for Azure Bot Services 
 * 【2024-04-11】[xvvvyz / tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage 
 * 【2024-04-11】[alura\-challenges / challenge\-one\-portfolio\-br](https://github.com/alura-challenges/challenge-one-portfolio-br) - Repositorio Base para desenvolvimento do Desafio 1 Crie seu próprio Portfólio do Challenge ONE Front end
@@ -1393,6 +1404,8 @@
 
 ## Unknown
 
+* 【2024-04-12】[zhuima / awesome\-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。
+* 【2024-04-12】[ga642381 / speech\-trident](https://github.com/ga642381/speech-trident) - Awesome speech/audio LLMs, representation learning, and codec models
 * 【2024-04-11】[trusted\-point / 0g\-tools](https://github.com/trusted-point/0g-tools) - 0G Validator Guide
 * 【2024-04-11】[ddz16 / TSFpaper](https://github.com/ddz16/TSFpaper) - This repository contains a reading list of papers on Time Series Forecasting/Prediction (TSF) and Spatio\-Temporal Forecasting/Prediction (STF)  These papers are mainly categorized according to the type of model 
 * 【2024-04-10】[netsecfish / dlink](https://github.com/netsecfish/dlink) - 
@@ -1642,6 +1655,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-04-12】[a16z / jolt](https://github.com/a16z/jolt) - The simplest and most extensible ZK VM  Fast and fully open source from a16z crypto  ⚡ 💌
+* 【2024-04-12】[nervosnetwork / ckb](https://github.com/nervosnetwork/ckb) - The Nervos CKB is a public permissionless blockchain, and the layer 1 of Nervos network 
 * 【2024-04-11】[dora-rs / dora](https://github.com/dora-rs/dora) - low latency, composable, and distributed dataflow for AI and robotic application
 * 【2024-04-11】[tnoorman / ore\-jito](https://github.com/tnoorman/ore-jito) - 
 * 【2024-04-11】[tsukinaha / tsukimi](https://github.com/tsukinaha/tsukimi) - A simple third\-party Emby client
@@ -1859,6 +1874,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-12】[hydralauncher / hydra](https://github.com/hydralauncher/hydra) - 
+* 【2024-04-12】[ashleyrudland / nextjs_vps](https://github.com/ashleyrudland/nextjs_vps) - NextJS VPS Example
+* 【2024-04-12】[payloadcms / payload\-3 0\-demo](https://github.com/payloadcms/payload-3.0-demo) - 
 * 【2024-04-11】[brocoders / nestjs\-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate  Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker 
 * 【2024-04-11】[Azure\-Samples / serverless\-chat\-langchainjs](https://github.com/Azure-Samples/serverless-chat-langchainjs) - Create your own serverless ChatGPT with Retrieval\-Augmented\-Generation using LangChain js, TypeScript and Azure
 * 【2024-04-11】[promptfoo / promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, models, and RAGs  Catch regressions and improve prompt quality  LLM evals for OpenAI, Azure, Anthropic, Gemini, Mistral, Llama, Bedrock, Ollama, and other local & private models with CI/CD integration 
