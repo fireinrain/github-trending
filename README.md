@@ -24,6 +24,13 @@
 
 ## All language
 
+* 【2024-04-13】[aixcoder-plugin / aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
+* 【2024-04-13】[YuriiCrimson / ExploitGSM](https://github.com/YuriiCrimson/ExploitGSM) - Exploit for 6 4 \- 6 5 kernels and another exploit for 5 15 \- 6 5
+* 【2024-04-13】[datawhalechina / self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
+* 【2024-04-13】[google\-gemini / cookbook](https://github.com/google-gemini/cookbook) - A collection of guides and examples for the Gemini API 
+* 【2024-04-13】[PKU\-YuanGroup / MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - MagicTime: Time\-lapse Video Generation Models as Metamorphic Simulators
+* 【2024-04-13】[grafana / alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines
+* 【2024-04-13】[1Panel-dev / MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
 * 【2024-04-12】[karpathy / llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 * 【2024-04-12】[nus\-apr / auto\-code\-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement
 * 【2024-04-12】[tidwall / neco](https://github.com/tidwall/neco) - Concurrency library for C (coroutines)
@@ -403,6 +410,11 @@
 
 ## Python
 
+* 【2024-04-13】[PKU-YuanGroup / MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
+* 【2024-04-13】[google\-deepmind / recurrentgemma](https://github.com/google-deepmind/recurrentgemma) - Open weights language model from Google DeepMind, based on Griffin 
+* 【2024-04-13】[AIRI\-Institute / OmniFusion](https://github.com/AIRI-Institute/OmniFusion) - OmniFusion — a multimodal model to communicate using text and images
+* 【2024-04-13】[huggingface / parler\-tts](https://github.com/huggingface/parler-tts) - Inference and training library for high\-quality TTS models 
+* 【2024-04-13】[NaishengZhang / book\-recommendation\-system](https://github.com/NaishengZhang/book-recommendation-system) - Book Recommendation System
 * 【2024-04-12】[nus-apr / auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement
 * 【2024-04-12】[aixcoder\-plugin / aiXcoder\-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder\-7B Code Large Language Model
 * 【2024-04-11】[LlamaFamily / Llama\-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
@@ -661,6 +673,9 @@
 
 ## Javascript
 
+* 【2024-04-13】[apachecn / rate\-my\-supervisor](https://github.com/apachecn/rate-my-supervisor) - 
+* 【2024-04-13】[nextapps\-de / flexsearch](https://github.com/nextapps-de/flexsearch) - Next\-Generation full text search library for Browser and Node js
+* 【2024-04-13】[dai\-shi / use\-signals](https://github.com/dai-shi/use-signals) - An experimental React hook for TC39 signals
 * 【2024-04-11】[camwiegert / typical](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
 * 【2024-04-10】[drawdb-io / drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 * 【2024-04-10】[langflow-ai / langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
@@ -908,6 +923,7 @@
 
 ## C
 
+* 【2024-04-13】[tukaani\-project / xz](https://github.com/tukaani-project/xz) - XZ Utils
 * 【2024-04-11】[bb\-qq / r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters
 * 【2024-04-10】[migueletto / PumpkinOS](https://github.com/migueletto/PumpkinOS) - PumpkinOS is a re\-implementation of PalmOS 
 * 【2024-04-10】[FascinatedBox / bonk](https://github.com/FascinatedBox/bonk) - X11 window management toolkit
@@ -1098,6 +1114,7 @@
 
 ## C#
 
+* 【2024-04-13】[peass\-ng / PEASS\-ng](https://github.com/peass-ng/PEASS-ng) - PEASS \- Privilege Escalation Awesome Scripts SUITE (with colors)
 * 【2024-04-12】[kwsch / ItemPrinterDeGacha](https://github.com/kwsch/ItemPrinterDeGacha) - Calculation tool for Scarlet/Violet's Item Printer
 * 【2024-04-12】[blake502 / balatro-apk-maker](https://github.com/blake502/balatro-apk-maker) - Create a Balatro APK from your Steam version of Balatro
 * 【2024-04-12】[builtbybel / Winpilot](https://github.com/builtbybel/Winpilot) - Your everyday Windows companion
@@ -1208,6 +1225,10 @@
 
 ## Html
 
+* 【2024-04-13】[ClickHouse / adsb exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS\-B data with ClickHouse
+* 【2024-04-13】[Qadeer0937 / Dead\-By\-Daylight\-Extrnl](https://github.com/Qadeer0937/Dead-By-Daylight-Extrnl) - for youtube video
+* 【2024-04-13】[Ben00000000 / Working\-Hwid\-Spoofer](https://github.com/Ben00000000/Working-Hwid-Spoofer) - 
+* 【2024-04-13】[naxiaoduo / 1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。
 * 【2024-04-12】[WuSuoV / YioveGetIP](https://github.com/WuSuoV/YioveGetIP) - 实时获取当前 IP 地址，支持多线路，包括中国移动、中国联通、中国电信、海外线路，以及访问谷歌等特殊网站。
 * 【2024-04-11】[microsoft / BotFramework\-WebChat](https://github.com/microsoft/BotFramework-WebChat) - A highly\-customizable web\-based client for Azure Bot Services 
 * 【2024-04-11】[xvvvyz / tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage 
@@ -1404,6 +1425,11 @@
 
 ## Unknown
 
+* 【2024-04-13】[WUYANXIUSHI / BLACK_NEWS](https://github.com/WUYANXIUSHI/BLACK_NEWS) - 北京邮电大学郑凤事件完整pdf
+* 【2024-04-13】[Edr4 / XSS\-Bypass\-Filters](https://github.com/Edr4/XSS-Bypass-Filters) - 
+* 【2024-04-13】[eric\-ai\-lab / swap\-anything](https://github.com/eric-ai-lab/swap-anything) - 
+* 【2024-04-13】[zhuima / awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。
+* 【2024-04-13】[CLOUDUH / dual\-wechat](https://github.com/CLOUDUH/dual-wechat) - 如何在Mac上通过脚本实现微信双开，并通过自动操作创建应用程序，修改图标后直接当作第二个微信使用，无需打开终端输入代码，且双开后无终端出现。
 * 【2024-04-12】[zhuima / awesome\-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。
 * 【2024-04-12】[ga642381 / speech\-trident](https://github.com/ga642381/speech-trident) - Awesome speech/audio LLMs, representation learning, and codec models
 * 【2024-04-11】[trusted\-point / 0g\-tools](https://github.com/trusted-point/0g-tools) - 0G Validator Guide
@@ -1655,6 +1681,13 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-04-13】[ninja\-quant / ninjabook](https://github.com/ninja-quant/ninjabook) - A lightweight and high\-performance order\-book designed to process level 2 and trades data
+* 【2024-04-13】[frostb1ten / CVE\-2024\-24576\-PoC](https://github.com/frostb1ten/CVE-2024-24576-PoC) - Example of CVE\-2024\-24576 use case 
+* 【2024-04-13】[paradedb / paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
+* 【2024-04-13】[lbl8603 / vnt](https://github.com/lbl8603/vnt) - A virtual network tool (or VPN),简便高效的异地组网、内网穿透工具
+* 【2024-04-13】[fermyon / spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly 
+* 【2024-04-13】[WithSecureLabs / chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Forensic Artefacts
+* 【2024-04-13】[r\-nacos / r\-nacos](https://github.com/r-nacos/r-nacos) - Nacos server re\-implemented in Rust 
 * 【2024-04-12】[a16z / jolt](https://github.com/a16z/jolt) - The simplest and most extensible ZK VM  Fast and fully open source from a16z crypto  ⚡ 💌
 * 【2024-04-12】[nervosnetwork / ckb](https://github.com/nervosnetwork/ckb) - The Nervos CKB is a public permissionless blockchain, and the layer 1 of Nervos network 
 * 【2024-04-11】[dora-rs / dora](https://github.com/dora-rs/dora) - low latency, composable, and distributed dataflow for AI and robotic application
@@ -1874,6 +1907,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-13】[payloadcms / payload-3.0-demo](https://github.com/payloadcms/payload-3.0-demo) - The official demo for Payload 3.0
+* 【2024-04-13】[vercel\-labs / gemini\-chatbot](https://github.com/vercel-labs/gemini-chatbot) - Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini
+* 【2024-04-13】[AzureAD / microsoft\-authentication\-library\-for\-js](https://github.com/AzureAD/microsoft-authentication-library-for-js) - Microsoft Authentication Library (MSAL) for JS
 * 【2024-04-12】[hydralauncher / hydra](https://github.com/hydralauncher/hydra) - 
 * 【2024-04-12】[ashleyrudland / nextjs_vps](https://github.com/ashleyrudland/nextjs_vps) - NextJS VPS Example
 * 【2024-04-12】[payloadcms / payload\-3 0\-demo](https://github.com/payloadcms/payload-3.0-demo) - 
