@@ -24,6 +24,13 @@
 
 ## All language
 
+* 【2024-04-14】[eknkc / ssr\-benchmark](https://github.com/eknkc/ssr-benchmark) - Benchmarking JS web framework SSR performance
+* 【2024-04-14】[huggingface / parler-tts](https://github.com/huggingface/parler-tts) - Inference and training library for high-quality TTS models.
+* 【2024-04-14】[itsmattkc / dotnet9x](https://github.com/itsmattkc/dotnet9x) - Backport of  NET 2 0 \- 3 5 to Windows 9x
+* 【2024-04-14】[google-gemini / cookbook](https://github.com/google-gemini/cookbook) - A collection of guides and examples for the Gemini API.
+* 【2024-04-14】[Azure / Copilot\-For\-Security](https://github.com/Azure/Copilot-For-Security) - Microsoft Copilot for Security is a generative AI\-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant to responsible AI principles
+* 【2024-04-14】[Lightning-AI / litgpt](https://github.com/Lightning-AI/litgpt) - Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
+* 【2024-04-14】[BITNP / BIThesis](https://github.com/BITNP/BIThesis) - 📖 北京理工大学非官方 LaTeX 模板集合，包含本科、研究生毕业设计模板及更多。🎉 （更多文档请访问 wiki 和 release 中的手册）
 * 【2024-04-13】[aixcoder-plugin / aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
 * 【2024-04-13】[YuriiCrimson / ExploitGSM](https://github.com/YuriiCrimson/ExploitGSM) - Exploit for 6 4 \- 6 5 kernels and another exploit for 5 15 \- 6 5
 * 【2024-04-13】[datawhalechina / self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
@@ -331,6 +338,7 @@
 
 ## Java
 
+* 【2024-04-14】[apache / hertzbeat](https://github.com/apache/hertzbeat) - HertzBeat is a real\-time monitoring system with agentless, performance cluster, prometheus\-compatible, custom monitoring and status page building capabilities 
 * 【2024-04-11】[datastrato / gravitino](https://github.com/datastrato/gravitino) - World's most powerful data catalog service with providing a high\-performance, geo\-distributed and federated metadata lake 
 * 【2024-04-10】[Gayanukaa / Spring\-Boot\-Playground](https://github.com/Gayanukaa/Spring-Boot-Playground) - Self\-Learn and Testing Environment
 * 【2024-04-08】[rkkr / simple\-keyboard](https://github.com/rkkr/simple-keyboard) - 
@@ -410,6 +418,8 @@
 
 ## Python
 
+* 【2024-04-14】[huggingface / dataspeech](https://github.com/huggingface/dataspeech) - 
+* 【2024-04-14】[VRSEN / agency\-swarm\-lab](https://github.com/VRSEN/agency-swarm-lab) - 
 * 【2024-04-13】[PKU-YuanGroup / MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
 * 【2024-04-13】[google\-deepmind / recurrentgemma](https://github.com/google-deepmind/recurrentgemma) - Open weights language model from Google DeepMind, based on Griffin 
 * 【2024-04-13】[AIRI\-Institute / OmniFusion](https://github.com/AIRI-Institute/OmniFusion) - OmniFusion — a multimodal model to communicate using text and images
@@ -673,6 +683,9 @@
 
 ## Javascript
 
+* 【2024-04-14】[nextapps-de / flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+* 【2024-04-14】[leibnizli / hummingbird](https://github.com/leibnizli/hummingbird) - A compression (jpg/png/webp/svg/gif/css/js/html/mp4/mov) App, it can convert different format pictures, support for macOS and Windows 
+* 【2024-04-14】[safak / react\-firebase\-chat](https://github.com/safak/react-firebase-chat) - 
 * 【2024-04-13】[apachecn / rate\-my\-supervisor](https://github.com/apachecn/rate-my-supervisor) - 
 * 【2024-04-13】[nextapps\-de / flexsearch](https://github.com/nextapps-de/flexsearch) - Next\-Generation full text search library for Browser and Node js
 * 【2024-04-13】[dai\-shi / use\-signals](https://github.com/dai-shi/use-signals) - An experimental React hook for TC39 signals
@@ -1225,6 +1238,7 @@
 
 ## Html
 
+* 【2024-04-14】[stanford\-oval / storm](https://github.com/stanford-oval/storm) - An LLM\-powered knowledge curation system that researches a topic and generates a full\-length report with citations 
 * 【2024-04-13】[ClickHouse / adsb exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS\-B data with ClickHouse
 * 【2024-04-13】[Qadeer0937 / Dead\-By\-Daylight\-Extrnl](https://github.com/Qadeer0937/Dead-By-Daylight-Extrnl) - for youtube video
 * 【2024-04-13】[Ben00000000 / Working\-Hwid\-Spoofer](https://github.com/Ben00000000/Working-Hwid-Spoofer) - 
@@ -1425,6 +1439,13 @@
 
 ## Unknown
 
+* 【2024-04-14】[Abhay5855 / Mission\-frontend](https://github.com/Abhay5855/Mission-frontend) - A curated list of Javascript, React, Machine coding problems, Pattern questions, basic backend knowledge and fundamentals questions all in one 
+* 【2024-04-14】[SamurAIGPT / Best\-AI\-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - A list of top AI agents
+* 【2024-04-14】[DEBAGanov / interview_questions](https://github.com/DEBAGanov/interview_questions) - Java Developer Interview Preparation Materials
+* 【2024-04-14】[tldrsec / awesome\-secure\-defaults](https://github.com/tldrsec/awesome-secure-defaults) - Awesome secure by default libraries to help you eliminate bug classes!
+* 【2024-04-14】[spocky / miproja1](https://github.com/spocky/miproja1) - 
+* 【2024-04-14】[dinaashraf20003 / Software\-Internship\-Guide](https://github.com/dinaashraf20003/Software-Internship-Guide) - Software Internship Guide for Egyptian Undergraduates
+* 【2024-04-14】[CLOUDUH / dual-wechat](https://github.com/CLOUDUH/dual-wechat) - 如何在Mac上通过脚本实现微信双开，并通过自动操作创建应用程序，修改图标后直接当作第二个微信使用，无需打开终端输入代码，且双开后无终端出现。
 * 【2024-04-13】[WUYANXIUSHI / BLACK_NEWS](https://github.com/WUYANXIUSHI/BLACK_NEWS) - 北京邮电大学郑凤事件完整pdf
 * 【2024-04-13】[Edr4 / XSS\-Bypass\-Filters](https://github.com/Edr4/XSS-Bypass-Filters) - 
 * 【2024-04-13】[eric\-ai\-lab / swap\-anything](https://github.com/eric-ai-lab/swap-anything) - 
@@ -1681,6 +1702,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-04-14】[Mufanc / z\-loader](https://github.com/Mufanc/z-loader) - Inject into processes specialized from Zygote
+* 【2024-04-14】[mathematic\-inc / unfmt](https://github.com/mathematic-inc/unfmt) - A compile\-time pattern matching library that reverses the interpolation process of  format!  
 * 【2024-04-13】[ninja\-quant / ninjabook](https://github.com/ninja-quant/ninjabook) - A lightweight and high\-performance order\-book designed to process level 2 and trades data
 * 【2024-04-13】[frostb1ten / CVE\-2024\-24576\-PoC](https://github.com/frostb1ten/CVE-2024-24576-PoC) - Example of CVE\-2024\-24576 use case 
 * 【2024-04-13】[paradedb / paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics
@@ -1907,6 +1930,12 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-14】[eknkc / ssr-benchmark](https://github.com/eknkc/ssr-benchmark) - Benchmarking JS web framework SSR performance
+* 【2024-04-14】[d\-ivashchuk / cascade](https://github.com/d-ivashchuk/cascade) - Best open\-source SaaS boilerplate  Free, powerful & extendable 
+* 【2024-04-14】[vercel-labs / gemini-chatbot](https://github.com/vercel-labs/gemini-chatbot) - Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini
+* 【2024-04-14】[sdfxai / sdfx](https://github.com/sdfxai/sdfx) - The ultimate no\-code platform to build and share AI apps with beautiful UI 
+* 【2024-04-14】[Canner / WrenAI](https://github.com/Canner/WrenAI) - Make Text\-to\-SQL simple and accurate  🐦 WrenAI is your AI data assistant that helps you get results and insights faster by asking questions without writing SQL 
+* 【2024-04-14】[google / generative\-ai\-js](https://github.com/google/generative-ai-js) - Google AI SDK for JavaScript
 * 【2024-04-13】[payloadcms / payload-3.0-demo](https://github.com/payloadcms/payload-3.0-demo) - The official demo for Payload 3.0
 * 【2024-04-13】[vercel\-labs / gemini\-chatbot](https://github.com/vercel-labs/gemini-chatbot) - Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini
 * 【2024-04-13】[AzureAD / microsoft\-authentication\-library\-for\-js](https://github.com/AzureAD/microsoft-authentication-library-for-js) - Microsoft Authentication Library (MSAL) for JS
