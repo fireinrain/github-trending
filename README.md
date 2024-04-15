@@ -24,6 +24,9 @@
 
 ## All language
 
+* 【2024-04-15】[stanford-oval / storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+* 【2024-04-15】[openai / simple\-evals](https://github.com/openai/simple-evals) - 
+* 【2024-04-15】[datawhalechina / llm\-universe](https://github.com/datawhalechina/llm-universe) - 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina github io/llm\-universe/
 * 【2024-04-14】[eknkc / ssr\-benchmark](https://github.com/eknkc/ssr-benchmark) - Benchmarking JS web framework SSR performance
 * 【2024-04-14】[huggingface / parler-tts](https://github.com/huggingface/parler-tts) - Inference and training library for high-quality TTS models.
 * 【2024-04-14】[itsmattkc / dotnet9x](https://github.com/itsmattkc/dotnet9x) - Backport of  NET 2 0 \- 3 5 to Windows 9x
@@ -338,6 +341,8 @@
 
 ## Java
 
+* 【2024-04-15】[hebian1994 / cloud2024](https://github.com/hebian1994/cloud2024) - 
+* 【2024-04-15】[uncle\-novel / uncle\-novel](https://github.com/uncle-novel/uncle-novel) - 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
 * 【2024-04-14】[apache / hertzbeat](https://github.com/apache/hertzbeat) - HertzBeat is a real\-time monitoring system with agentless, performance cluster, prometheus\-compatible, custom monitoring and status page building capabilities 
 * 【2024-04-11】[datastrato / gravitino](https://github.com/datastrato/gravitino) - World's most powerful data catalog service with providing a high\-performance, geo\-distributed and federated metadata lake 
 * 【2024-04-10】[Gayanukaa / Spring\-Boot\-Playground](https://github.com/Gayanukaa/Spring-Boot-Playground) - Self\-Learn and Testing Environment
@@ -418,6 +423,9 @@
 
 ## Python
 
+* 【2024-04-15】[openai / simple-evals](https://github.com/openai/simple-evals) - 
+* 【2024-04-15】[OpenBMB / MiniCPM\-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM\-V 2 0: An Efficient End\-side MLLM with Strong OCR and Understanding Capabilities
+* 【2024-04-15】[chengaopan / AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes) - 自动抓取合并互联网上的公开节点。 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子
 * 【2024-04-14】[huggingface / dataspeech](https://github.com/huggingface/dataspeech) - 
 * 【2024-04-14】[VRSEN / agency\-swarm\-lab](https://github.com/VRSEN/agency-swarm-lab) - 
 * 【2024-04-13】[PKU-YuanGroup / MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
@@ -683,6 +691,10 @@
 
 ## Javascript
 
+* 【2024-04-15】[gezhaoyou / picprose](https://github.com/gezhaoyou/picprose) - PicProse is a better cover image generator tool for Medium, YouTube, BiliBili, Blog and many others
+* 【2024-04-15】[adrianhajdin / aora](https://github.com/adrianhajdin/aora) - Build your first mobile application
+* 【2024-04-15】[eidam / cf\-workers\-status\-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes  Using Cloudflare Workers, CRON Triggers, and KV storage 
+* 【2024-04-15】[safak / react-firebase-chat](https://github.com/safak/react-firebase-chat) - 
 * 【2024-04-14】[nextapps-de / flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 * 【2024-04-14】[leibnizli / hummingbird](https://github.com/leibnizli/hummingbird) - A compression (jpg/png/webp/svg/gif/css/js/html/mp4/mov) App, it can convert different format pictures, support for macOS and Windows 
 * 【2024-04-14】[safak / react\-firebase\-chat](https://github.com/safak/react-firebase-chat) - 
@@ -841,6 +853,7 @@
 
 ## Go
 
+* 【2024-04-15】[FyshOS / fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 * 【2024-04-12】[dolthub / go\-mysql\-server](https://github.com/dolthub/go-mysql-server) - A MySQL\-compatible relational database with a storage agnostic query engine  Implemented in pure Go 
 * 【2024-04-11】[flipt\-io / reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 * 【2024-04-08】[MartialBE / one-api](https://github.com/MartialBE/one-api) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
@@ -936,6 +949,7 @@
 
 ## C
 
+* 【2024-04-15】[antirez / linenoise](https://github.com/antirez/linenoise) - A small self\-contained alternative to readline and libedit
 * 【2024-04-13】[tukaani\-project / xz](https://github.com/tukaani-project/xz) - XZ Utils
 * 【2024-04-11】[bb\-qq / r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters
 * 【2024-04-10】[migueletto / PumpkinOS](https://github.com/migueletto/PumpkinOS) - PumpkinOS is a re\-implementation of PalmOS 
@@ -1127,6 +1141,7 @@
 
 ## C#
 
+* 【2024-04-15】[peass-ng / PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 * 【2024-04-13】[peass\-ng / PEASS\-ng](https://github.com/peass-ng/PEASS-ng) - PEASS \- Privilege Escalation Awesome Scripts SUITE (with colors)
 * 【2024-04-12】[kwsch / ItemPrinterDeGacha](https://github.com/kwsch/ItemPrinterDeGacha) - Calculation tool for Scarlet/Violet's Item Printer
 * 【2024-04-12】[blake502 / balatro-apk-maker](https://github.com/blake502/balatro-apk-maker) - Create a Balatro APK from your Steam version of Balatro
@@ -1238,6 +1253,8 @@
 
 ## Html
 
+* 【2024-04-15】[jbloomAus / SAELens](https://github.com/jbloomAus/SAELens) - Training Sparse Autoencoders on Language Models
+* 【2024-04-15】[tomitokko / ai\-blog\-article\-generator](https://github.com/tomitokko/ai-blog-article-generator) - 
 * 【2024-04-14】[stanford\-oval / storm](https://github.com/stanford-oval/storm) - An LLM\-powered knowledge curation system that researches a topic and generates a full\-length report with citations 
 * 【2024-04-13】[ClickHouse / adsb exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS\-B data with ClickHouse
 * 【2024-04-13】[Qadeer0937 / Dead\-By\-Daylight\-Extrnl](https://github.com/Qadeer0937/Dead-By-Daylight-Extrnl) - for youtube video
@@ -1439,6 +1456,8 @@
 
 ## Unknown
 
+* 【2024-04-15】[microsoft / rho](https://github.com/microsoft/rho) - Repo for Rho\-1: Token\-level Data Selection & Selective Pretraining of LLMs 
+* 【2024-04-15】[henry123\-boy / SpaTracker](https://github.com/henry123-boy/SpaTracker) - 
 * 【2024-04-14】[Abhay5855 / Mission\-frontend](https://github.com/Abhay5855/Mission-frontend) - A curated list of Javascript, React, Machine coding problems, Pattern questions, basic backend knowledge and fundamentals questions all in one 
 * 【2024-04-14】[SamurAIGPT / Best\-AI\-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - A list of top AI agents
 * 【2024-04-14】[DEBAGanov / interview_questions](https://github.com/DEBAGanov/interview_questions) - Java Developer Interview Preparation Materials
@@ -1702,6 +1721,10 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-04-15】[KipData / FnckSQL](https://github.com/KipData/FnckSQL) - SQL as a Function for Rust
+* 【2024-04-15】[rust-lang / rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
+* 【2024-04-15】[ad\-si / tu](https://github.com/ad-si/tu) - CLI tool to convert a natural language date/time string to UTC
+* 【2024-04-15】[rust\-lang / miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid\-level intermediate representation
 * 【2024-04-14】[Mufanc / z\-loader](https://github.com/Mufanc/z-loader) - Inject into processes specialized from Zygote
 * 【2024-04-14】[mathematic\-inc / unfmt](https://github.com/mathematic-inc/unfmt) - A compile\-time pattern matching library that reverses the interpolation process of  format!  
 * 【2024-04-13】[ninja\-quant / ninjabook](https://github.com/ninja-quant/ninjabook) - A lightweight and high\-performance order\-book designed to process level 2 and trades data
@@ -1930,6 +1953,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-15】[andrewcourtice / ripl](https://github.com/andrewcourtice/ripl) - Ripl provides a unified API for 2D graphics rendering in the browser with a focus towards high performance and interactive data visualization 
+* 【2024-04-15】[un / inbox](https://github.com/un/inbox) - Modern email for teams and professionals  A replacement for outdated email technology and tools  Alt to hey com, front com, missiveapp com
+* 【2024-04-15】[lambda\-tech\-club / katatataki\-bank](https://github.com/lambda-tech-club/katatataki-bank) - 肩たたき券の発行と管理を行うシステム
+* 【2024-04-15】[WebDevSimplified / next\-js\-ecommerce\-mvp](https://github.com/WebDevSimplified/next-js-ecommerce-mvp) - 
+* 【2024-04-15】[toss / es\-hangul](https://github.com/toss/es-hangul) - A modern JavaScript library for handling Hangul characters 
 * 【2024-04-14】[eknkc / ssr-benchmark](https://github.com/eknkc/ssr-benchmark) - Benchmarking JS web framework SSR performance
 * 【2024-04-14】[d\-ivashchuk / cascade](https://github.com/d-ivashchuk/cascade) - Best open\-source SaaS boilerplate  Free, powerful & extendable 
 * 【2024-04-14】[vercel-labs / gemini-chatbot](https://github.com/vercel-labs/gemini-chatbot) - Build your own generative UI chatbot using the Vercel AI SDK and Google Gemini
