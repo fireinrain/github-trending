@@ -24,6 +24,11 @@
 
 ## All language
 
+* 【2024-04-19】[Julien\-cpsn / ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
+* 【2024-04-19】[kevinbentley / Descent3](https://github.com/kevinbentley/Descent3) - Descent 3 by Outrage Entertainment
+* 【2024-04-19】[figma / code\-connect](https://github.com/figma/code-connect) - A tool for connecting your design system components in code with your design system in Figma
+* 【2024-04-19】[skydoves / pokedex-compose](https://github.com/skydoves/pokedex-compose) - 🗡️ Pokedex Compose demonstrates modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
+* 【2024-04-19】[vis-three / scene-editor](https://github.com/vis-three/scene-editor) - vis-three框架衍生出的全自定义web3D场景编辑器
 * 【2024-04-18】[dvlab-research / MiniGemini](https://github.com/dvlab-research/MiniGemini) - Official implementation for Mini-Gemini
 * 【2024-04-18】[BenjaSOL / ore\-cli\-gpu](https://github.com/BenjaSOL/ore-cli-gpu) - 
 * 【2024-04-18】[Dhravya / supermemory](https://github.com/Dhravya/supermemory) - Build your own second brain with supermemory  It's a ChatGPT for your bookmarks  Import tweets or save websites and content using the chrome extension 
@@ -352,6 +357,7 @@
 
 ## Java
 
+* 【2024-04-19】[redis / lettuce](https://github.com/redis/lettuce) - Advanced Java Redis client for thread\-safe sync, async, and reactive usage  Supports Cluster, Sentinel, Pipelining, and codecs 
 * 【2024-04-18】[apache / mina\-sshd](https://github.com/apache/mina-sshd) - Apache MINA sshd is a comprehensive Java library for client\- and server\-side SSH 
 * 【2024-04-17】[MohamedMetwalli5 / LeetCode\-Solutions](https://github.com/MohamedMetwalli5/LeetCode-Solutions) - ✅🟨 These solutions are designed specifically for beginners on LeetCode, addressing many problems using code and animations  They will be continuously updated to facilitate better understanding for beginners 
 * 【2024-04-16】[Hafthor / zsvutil](https://github.com/Hafthor/zsvutil) - ZSV Utility for converting csv/tsv to/from zip\-separated\-values
@@ -437,6 +443,9 @@
 
 ## Python
 
+* 【2024-04-19】[PixArt-alpha / PixArt-sigma](https://github.com/PixArt-alpha/PixArt-sigma) - PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation
+* 【2024-04-19】[pytorch / torchtune](https://github.com/pytorch/torchtune) - A Native\-PyTorch Library for LLM Fine\-tuning
+* 【2024-04-19】[truefoundry / cognita](https://github.com/truefoundry/cognita) - Cognita by TrueFoundry \- Framework for building modular, open source RAG applications for production 
 * 【2024-04-18】[xlang\-ai / OSWorld](https://github.com/xlang-ai/OSWorld) - OSWorld: A unified, real computer environment for multimodal agents to evaluate open\-ended computer tasks involving arbitrary apps and interfaces on Ubuntu, Windows, and macOS
 * 【2024-04-18】[cognitivecomputations / github2file](https://github.com/cognitivecomputations/github2file) - 
 * 【2024-04-18】[hudson\-and\-thames / arbitragelab](https://github.com/hudson-and-thames/arbitragelab) - ArbitrageLab is a python library that enables traders who want to exploit mean\-reverting portfolios by providing a complete set of algorithms from the best academic journals 
@@ -719,6 +728,9 @@
 
 ## Javascript
 
+* 【2024-04-19】[fatwang2 / coze2openai](https://github.com/fatwang2/coze2openai) - Turn Coze API into OpenAI
+* 【2024-04-19】[bpc\-clone / bypass\-paywalls\-clean\-filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters) - 
+* 【2024-04-19】[rastapasta / mapscii](https://github.com/rastapasta/mapscii) - 🗺 MapSCII is a Braille & ASCII world map renderer for your console \- enter => telnet mapscii me <= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 * 【2024-04-17】[Bistutu / FluentRead](https://github.com/Bistutu/FluentRead) - 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。
 * 【2024-04-16】[Oligard008 / Pancakeswap\-Bot](https://github.com/Oligard008/Pancakeswap-Bot) - Bot for PancakeSwap Prediction – 30technical indicators  Multichain with MetaMask
 * 【2024-04-16】[NaishengZhang / blog](https://github.com/NaishengZhang/blog) - Blog Platform Using Spring Boot
@@ -885,6 +897,7 @@
 
 ## Go
 
+* 【2024-04-19】[omni\-network / omni](https://github.com/omni-network/omni) - Monorepo for Omni node, contracts and other related tools
 * 【2024-04-18】[elastic / otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler
 * 【2024-04-17】[nalgeon / redka](https://github.com/nalgeon/redka) - Redis re\-implemented with SQLite
 * 【2024-04-16】[Simple\-Tracker / qBittorrent\-ClientBlocker](https://github.com/Simple-Tracker/qBittorrent-ClientBlocker) - 一款适用于 qBittorrent/Transmission (Beta) 的客户端屏蔽器, 默认屏蔽包括但不限于迅雷 (XunLei/XL0012) 等客户端  A client blocker compatible with qBittorrent/Transmission (Beta) which is prohibited to include but not limited to clients such as Xunlei 
@@ -987,6 +1000,7 @@
 
 ## C
 
+* 【2024-04-19】[hakaioffsec / CVE\-2024\-21338](https://github.com/hakaioffsec/CVE-2024-21338) - Local Privilege Escalation from Admin to Kernel vulnerability on Windows 10 and Windows 11 operating systems with HVCI enabled 
 * 【2024-04-18】[Thehepta / androidGRPC](https://github.com/Thehepta/androidGRPC) - 
 * 【2024-04-17】[DosX\-dev / obfus h](https://github.com/DosX-dev/obfus.h) - Macro\-header for compile\-time C obfuscation (tcc, win x86/x64)
 * 【2024-04-17】[HypoPG / hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
@@ -1502,6 +1516,13 @@
 
 ## Unknown
 
+* 【2024-04-19】[CryingMan666 / eternal\-nodes](https://github.com/CryingMan666/eternal-nodes) - 👇 手机往下滑 📱 一个能每天自动生成高速机场的小站
+* 【2024-04-19】[LLMBook-zh / LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
+* 【2024-04-19】[SoilZhu / CookLikeHOC](https://github.com/SoilZhu/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC 
+* 【2024-04-19】[milanm / azure\-cheat\-sheet](https://github.com/milanm/azure-cheat-sheet) - Every product, feature and service in the Azure family 
+* 【2024-04-19】[ton\-society / ecosystem\-map](https://github.com/ton-society/ecosystem-map) - TON Ecosystem Map
+* 【2024-04-19】[elicit / machine\-learning\-list](https://github.com/elicit/machine-learning-list) - 
+* 【2024-04-19】[bilal414 / backupsheep](https://github.com/bilal414/backupsheep) - Automating backups is costly and takes time  With BackupSheep, you can quickly automate server snapshots and offsite backups \- without writing code 
 * 【2024-04-18】[LLMBook\-zh / LLMBook\-zh github io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 * 【2024-04-18】[DKWDRV / DKWDRV](https://github.com/DKWDRV/DKWDRV) - 
 * 【2024-04-17】[cqcore / Fact\-Checking\-Verification](https://github.com/cqcore/Fact-Checking-Verification) - Find helpful tools and resources to help you fact check and analyse, fake news and AI generated imagery 
@@ -1774,6 +1795,10 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-04-19】[Julien-cpsn / ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
+* 【2024-04-19】[farm\-fe / farm](https://github.com/farm-fe/farm) - Extremely fast Vite\-compatible web build tool written in Rust
+* 【2024-04-19】[dtolnay / cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
+* 【2024-04-19】[DragonOS-Community / DragonOS](https://github.com/DragonOS-Community/DragonOS) - 使用Rust从0自研内核，具有Linux兼容性的操作系统，面向云计算轻量化场景而设计。
 * 【2024-04-18】[BenjaSOL / ore-cli-gpu](https://github.com/BenjaSOL/ore-cli-gpu) - 
 * 【2024-04-18】[soywod / neverest](https://github.com/soywod/neverest) - CLI to synchronize, backup and restore emails
 * 【2024-04-18】[paradigmxyz / alphanet](https://github.com/paradigmxyz/alphanet) - Reth AlphaNet is a testnet OP Stack\-compatible rollup aimed at enabling experimentation of bleeding edge Ethereum Research 
@@ -2014,6 +2039,14 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-19】[figma / code-connect](https://github.com/figma/code-connect) - A tool for connecting your design system components in code with your design system in Figma
+* 【2024-04-19】[NomicFoundation / hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software 
+* 【2024-04-19】[total\-typescript / total\-typescript\-book](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book
+* 【2024-04-19】[stonith404 / pingvin\-share](https://github.com/stonith404/pingvin-share) - A self\-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing 
+* 【2024-04-19】[warp\-id / solana\-trading\-bot](https://github.com/warp-id/solana-trading-bot) - Solana Trading Bot \- Beta
+* 【2024-04-19】[mikro\-orm / mikro\-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node js based on Data Mapper, Unit of Work and Identity Map patterns  Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases 
+* 【2024-04-19】[learn\-anything / learn\-anything xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
+* 【2024-04-19】[Effect-TS / effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
 * 【2024-04-18】[reduxjs / redux\-toolkit](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries\-included toolset for efficient Redux development
 * 【2024-04-18】[snyk / cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities 
 * 【2024-04-18】[pnpm / pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
