@@ -24,6 +24,13 @@
 
 ## All language
 
+* 【2024-04-21】[meta\-llama / llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
+* 【2024-04-21】[code100x / chess](https://github.com/code100x/chess) - A multiplayer chess platform similar to https://chess com/
+* 【2024-04-21】[meta\-llama / llama\-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine\-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi\-node GPUs  Supports default & custom datasets for applications such as summarization & question answering  Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment Demo apps to showcase Llama2 for WhatsApp & Messenger
+* 【2024-04-21】[sugarforever / chat-ollama](https://github.com/sugarforever/chat-ollama) - ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
+* 【2024-04-21】[meta-llama / llama](https://github.com/meta-llama/llama) - Inference code for Llama models
+* 【2024-04-21】[timpaul / form\-extractor\-prototype](https://github.com/timpaul/form-extractor-prototype) - 
+* 【2024-04-21】[harperreed / photo\-similarity\-search](https://github.com/harperreed/photo-similarity-search) - Super simple MLX (apple silicon) CLIP based photo similarity web app
 * 【2024-04-20】[rileytestut / Delta](https://github.com/rileytestut/Delta) - Delta is an all\-in\-one classic video game emulator for non\-jailbroken iOS devices 
 * 【2024-04-20】[meta\-llama / PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security 
 * 【2024-04-20】[WINSDK / bite](https://github.com/WINSDK/bite) - Disassembler focused on comprehensive rust support 
@@ -364,6 +371,7 @@
 
 ## Java
 
+* 【2024-04-21】[qwdigital / LinkWechat-Scrm](https://github.com/qwdigital/LinkWechat-Scrm) - LinkWeChat后端代码仓库，-- 基于企业微信的开源 SCRM 系统，是企业私域流量管理与营销的综合解决方案。
 * 【2024-04-20】[grishka / poke dex](https://github.com/grishka/poke.dex) - 
 * 【2024-04-20】[MisakaTAT / Shiro](https://github.com/MisakaTAT/Shiro) - 基于OneBot协议的QQ机器人快速开发框架
 * 【2024-04-19】[redis / lettuce](https://github.com/redis/lettuce) - Advanced Java Redis client for thread\-safe sync, async, and reactive usage  Supports Cluster, Sentinel, Pipelining, and codecs 
@@ -452,6 +460,13 @@
 
 ## Python
 
+* 【2024-04-21】[meta-llama / llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
+* 【2024-04-21】[harperreed / photo-similarity-search](https://github.com/harperreed/photo-similarity-search) - Super simple MLX (apple silicon) CLIP based photo similarity web app
+* 【2024-04-21】[LlamaFamily / Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
+* 【2024-04-21】[Upsonic / Tiger](https://github.com/Upsonic/Tiger) - Neuralink for your AI Agents \- LangChain \- Autogen \- CrewAI
+* 【2024-04-21】[facebookresearch / generative\-recommenders](https://github.com/facebookresearch/generative-recommenders) - Repository hosting code used to reproduce results in "Actions Speak Louder than Words Trillion\-Parameter Sequential Transducers for Generative Recommendations" (https://arxiv org/abs/2402 17152) 
+* 【2024-04-21】[QwenLM / CodeQwen1 5](https://github.com/QwenLM/CodeQwen1.5) - CodeQwen1 5 is the code version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud 
+* 【2024-04-21】[theowni / Damn\-Vulnerable\-RESTaurant\-API\-Game](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game) - Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers 
 * 【2024-04-20】[meta-llama / PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
 * 【2024-04-20】[meta-llama / codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 * 【2024-04-20】[facebookresearch / llm-transparency-tool](https://github.com/facebookresearch/llm-transparency-tool) - LLM Transparency Tool (LLM-TT), an open-source interactive toolkit for analyzing internal workings of Transformer-based language models. *Check out demo at* https://huggingface.co/spaces/facebook/llm-transparency-tool-demo
@@ -745,6 +760,10 @@
 
 ## Javascript
 
+* 【2024-04-21】[timpaul / form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - 
+* 【2024-04-21】[replicate / llama\-chat](https://github.com/replicate/llama-chat) - A boilerplate for creating a Llama 3 chat app
+* 【2024-04-21】[Arun020 / Jarvis\-AI](https://github.com/Arun020/Jarvis-AI) - A small virtual Assistant
+* 【2024-04-21】[archtaurus / RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie
 * 【2024-04-20】[facebook / react\-native\-website](https://github.com/facebook/react-native-website) - The React Native website and docs
 * 【2024-04-20】[UseInterstellar / Interstellar](https://github.com/UseInterstellar/Interstellar) - One of the most popular modern web proxies with blazing fast speeds and a variety of games 
 * 【2024-04-19】[fatwang2 / coze2openai](https://github.com/fatwang2/coze2openai) - Turn Coze API into OpenAI
@@ -916,6 +935,8 @@
 
 ## Go
 
+* 【2024-04-21】[marco\-liberale / PasteBomb](https://github.com/marco-liberale/PasteBomb) - PasteBomb C2\-less RAT
+* 【2024-04-21】[danvergara / morphos](https://github.com/danvergara/morphos) - Self\-hosted file converter server
 * 【2024-04-19】[omni\-network / omni](https://github.com/omni-network/omni) - Monorepo for Omni node, contracts and other related tools
 * 【2024-04-18】[elastic / otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler
 * 【2024-04-17】[nalgeon / redka](https://github.com/nalgeon/redka) - Redis re\-implemented with SQLite
@@ -1019,6 +1040,8 @@
 
 ## C
 
+* 【2024-04-21】[loopj / short\-stack](https://github.com/loopj/short-stack) - World's Smallest Nintendo Wii, using a trimmed motherboard and custom stacked PCBs
+* 【2024-04-21】[yoshisuga / MAME4iOS](https://github.com/yoshisuga/MAME4iOS) - Multiple Arcade Machine Emulator for iOS, iPadOS, tvOS, macOS (Catalyst)
 * 【2024-04-20】[hakaioffsec / CVE-2024-21338](https://github.com/hakaioffsec/CVE-2024-21338) - Local Privilege Escalation from Admin to Kernel vulnerability on Windows 10 and Windows 11 operating systems with HVCI enabled.
 * 【2024-04-20】[antirez / zx2040](https://github.com/antirez/zx2040) - RP2040 ZX Spectrum emulator
 * 【2024-04-20】[Nero22k / Exploits](https://github.com/Nero22k/Exploits) - Repo with different exploits & PoCs
@@ -1127,6 +1150,8 @@
 
 ## C++
 
+* 【2024-04-21】[gottingen / hercules](https://github.com/gottingen/hercules) - aot compiler
+* 【2024-04-21】[AztecProtocol / aztec\-packages](https://github.com/AztecProtocol/aztec-packages) - 
 * 【2024-04-20】[EvanMcBroom / lsa\-whisperer](https://github.com/EvanMcBroom/lsa-whisperer) - Tools for interacting with authentication packages using their individual message protocols
 * 【2024-04-20】[Meowmycks / LetMeowIn](https://github.com/Meowmycks/LetMeowIn) - A sophisticated, covert Windows\-based credential dumper using C++ and MASM x64 
 * 【2024-04-18】[CocoaBob / GBA4iOS](https://github.com/CocoaBob/GBA4iOS) - A fork of https://bitbucket org/rileytestut/gba4ios
@@ -1221,6 +1246,7 @@
 
 ## C#
 
+* 【2024-04-21】[Navi\-Studio / Virtual\-Human\-for\-Chatting](https://github.com/Navi-Studio/Virtual-Human-for-Chatting) - Live2D Virtual Human for Chatting based on Unity
 * 【2024-04-20】[dotnet / aspire\-samples](https://github.com/dotnet/aspire-samples) - 
 * 【2024-04-18】[leap71 / PicoGK](https://github.com/leap71/PicoGK) - PicoGK is a compact and robust geometry kernel for Computational Engineering
 * 【2024-04-18】[bbradson / Performance\-Fish](https://github.com/bbradson/Performance-Fish) - Performance Mod for RimWorld
@@ -1543,6 +1569,12 @@
 
 ## Unknown
 
+* 【2024-04-21】[tldrsec / awesome-secure-defaults](https://github.com/tldrsec/awesome-secure-defaults) - Awesome secure by default libraries to help you eliminate bug classes!
+* 【2024-04-21】[315386775 / DeepLearing\-Interview\-Awesome\-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) - AIGC\-interview/CV\-interview/LLMs\-interview面试问题与答案集合仓，同时包含工作和科研过程中的新想法、新问题、新资源与新项目
+* 【2024-04-21】[Psmths / windows\-forensic\-artifacts](https://github.com/Psmths/windows-forensic-artifacts) - Handbook of windows forensic artifacts across multiple Windows version with interpretation tips with some examples  Work in progress!
+* 【2024-04-21】[nodelrd / ChatGPT-Next-Web-PLUS](https://github.com/nodelrd/ChatGPT-Next-Web-PLUS) - 基于chatgpt-next-web 增强版本，后台管理，接入知识库等。将按需持续接入midjourney绘画功能，接入了stable-diffusion，支持oss，支持dall-e-3、gpt-4-vision-preview、whisper、tts，支持gpt-4-all，支持GPTs商店。
+* 【2024-04-21】[Aikoyori / ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High\-quality PNGs for logos I made for fun
+* 【2024-04-21】[tora\-in\-net / onion\-sites\-list\-2024](https://github.com/tora-in-net/onion-sites-list-2024) - 
 * 【2024-04-20】[CryingMan666 / eternal-nodes](https://github.com/CryingMan666/eternal-nodes) - 👇 手机往下滑 📱 一个能每天自动生成高速机场的小站
 * 【2024-04-20】[ronakganatra / awesome\-marketing](https://github.com/ronakganatra/awesome-marketing) - A living document of hand\-picked resources for marketers 
 * 【2024-04-20】[Cisco\-Talos / IOCs](https://github.com/Cisco-Talos/IOCs) - Indicators of Compromise
@@ -1830,6 +1862,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-04-21】[tyr\-rust\-bootcamp / template](https://github.com/tyr-rust-bootcamp/template) - project template
 * 【2024-04-20】[apache / datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 * 【2024-04-20】[facebookexperimental / hermit](https://github.com/facebookexperimental/hermit) - Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution  Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavior  This can be used for various applications, including replay\-debugging, reproducible artifacts, chaos mode concurrency testing and bug analysis 
 * 【2024-04-20】[BitVM / BitVM](https://github.com/BitVM/BitVM) - Smarter Bitcoin Contracts
@@ -2077,6 +2110,13 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-21】[frangoteam / FUXA](https://github.com/frangoteam/FUXA) - Web\-based Process Visualization (SCADA/HMI/Dashboard) software
+* 【2024-04-21】[intlify / vue\-i18n\-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
+* 【2024-04-21】[gcui\-art / suno\-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno ai, and easily integrate it into agents like GPTs 
+* 【2024-04-21】[mxstbr / karabiner](https://github.com/mxstbr/karabiner) - My Karabiner Elements configuration
+* 【2024-04-21】[mempool / mempool](https://github.com/mempool/mempool) - Explore the full Bitcoin ecosystem with mempool space, or self\-host your own instance with one\-click installation on popular Raspberry Pi fullnode distros including Umbrel, Raspiblitz, Start9, and more!
+* 【2024-04-21】[projectx-codehagen / Badget](https://github.com/projectx-codehagen/Badget) - Badget aims to simplify financial management with a user-friendly interface and robust backend
+* 【2024-04-21】[learn-anything / learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 * 【2024-04-20】[signalapp / Signal\-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux 
 * 【2024-04-20】[toeverything / blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web \- BlockSuite is a toolkit for building editors and collaborative applications 
 * 【2024-04-20】[Vencord / Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
