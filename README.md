@@ -24,6 +24,9 @@
 
 ## All language
 
+* 【2024-04-22】[moest\-np / center\-randomize](https://github.com/moest-np/center-randomize) - Script is to assign exam centers to students
+* 【2024-04-22】[sadmann7 / shadcn\-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server\-side sorting, filtering, and pagination 
+* 【2024-04-22】[meta-llama / llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment.Demo apps to showcase Llama2 for WhatsApp & Messenger
 * 【2024-04-21】[meta\-llama / llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 * 【2024-04-21】[code100x / chess](https://github.com/code100x/chess) - A multiplayer chess platform similar to https://chess com/
 * 【2024-04-21】[meta\-llama / llama\-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine\-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi\-node GPUs  Supports default & custom datasets for applications such as summarization & question answering  Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment Demo apps to showcase Llama2 for WhatsApp & Messenger
@@ -371,6 +374,7 @@
 
 ## Java
 
+* 【2024-04-22】[epicstudios856 / Vectras\-VM\-Android](https://github.com/epicstudios856/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 * 【2024-04-21】[qwdigital / LinkWechat-Scrm](https://github.com/qwdigital/LinkWechat-Scrm) - LinkWeChat后端代码仓库，-- 基于企业微信的开源 SCRM 系统，是企业私域流量管理与营销的综合解决方案。
 * 【2024-04-20】[grishka / poke dex](https://github.com/grishka/poke.dex) - 
 * 【2024-04-20】[MisakaTAT / Shiro](https://github.com/MisakaTAT/Shiro) - 基于OneBot协议的QQ机器人快速开发框架
@@ -460,6 +464,11 @@
 
 ## Python
 
+* 【2024-04-22】[moest-np / center-randomize](https://github.com/moest-np/center-randomize) - Script is to assign exam centers to students
+* 【2024-04-22】[MetaCubeX / mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API 
+* 【2024-04-22】[liming\-ai / ControlNet_Plus_Plus](https://github.com/liming-ai/ControlNet_Plus_Plus) - Inference code for: ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback
+* 【2024-04-22】[embeddings\-benchmark / mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: Massive Text Embedding Benchmark
+* 【2024-04-22】[google\-deepmind / penzai](https://github.com/google-deepmind/penzai) - A JAX research toolkit for building, editing, and visualizing neural networks 
 * 【2024-04-21】[meta-llama / llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 * 【2024-04-21】[harperreed / photo-similarity-search](https://github.com/harperreed/photo-similarity-search) - Super simple MLX (apple silicon) CLIP based photo similarity web app
 * 【2024-04-21】[LlamaFamily / Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
@@ -760,6 +769,8 @@
 
 ## Javascript
 
+* 【2024-04-22】[replicate / llama-chat](https://github.com/replicate/llama-chat) - A boilerplate for creating a Llama 3 chat app
+* 【2024-04-22】[surfbryce / beautiful\-lyrics](https://github.com/surfbryce/beautiful-lyrics) - Completely revolutionizes the Spotify Lyrics Experience by introducing Live Lyrics, Dynamic Backgrounds, and Immersive Views
 * 【2024-04-21】[timpaul / form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - 
 * 【2024-04-21】[replicate / llama\-chat](https://github.com/replicate/llama-chat) - A boilerplate for creating a Llama 3 chat app
 * 【2024-04-21】[Arun020 / Jarvis\-AI](https://github.com/Arun020/Jarvis-AI) - A small virtual Assistant
@@ -935,6 +946,9 @@
 
 ## Go
 
+* 【2024-04-22】[Layr\-Labs / eigenda](https://github.com/Layr-Labs/eigenda) - Secure, high\-throughput, and decentralized Data Availability
+* 【2024-04-22】[bom\-squad / protobom](https://github.com/bom-squad/protobom) - A universal SBOM representation in protocol buffers
+* 【2024-04-22】[IceBearAI / LLM-And-More](https://github.com/IceBearAI/LLM-And-More) - LLM-And-More is a professional, plug-and-play, llm trainer and application builder that guides you through the complete LLM workflow from data to evaluation, from training to deployment, from idea to sevice. / LLM-And-More 是一个专业、开箱即用的大模型训练及应用构建一站式解决方案，包含从数据到评估、从训练到部署、从想法到服务的全流程最佳实践。
 * 【2024-04-21】[marco\-liberale / PasteBomb](https://github.com/marco-liberale/PasteBomb) - PasteBomb C2\-less RAT
 * 【2024-04-21】[danvergara / morphos](https://github.com/danvergara/morphos) - Self\-hosted file converter server
 * 【2024-04-19】[omni\-network / omni](https://github.com/omni-network/omni) - Monorepo for Omni node, contracts and other related tools
@@ -1040,6 +1054,7 @@
 
 ## C
 
+* 【2024-04-22】[khanhduytran0 / LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it!
 * 【2024-04-21】[loopj / short\-stack](https://github.com/loopj/short-stack) - World's Smallest Nintendo Wii, using a trimmed motherboard and custom stacked PCBs
 * 【2024-04-21】[yoshisuga / MAME4iOS](https://github.com/yoshisuga/MAME4iOS) - Multiple Arcade Machine Emulator for iOS, iPadOS, tvOS, macOS (Catalyst)
 * 【2024-04-20】[hakaioffsec / CVE-2024-21338](https://github.com/hakaioffsec/CVE-2024-21338) - Local Privilege Escalation from Admin to Kernel vulnerability on Windows 10 and Windows 11 operating systems with HVCI enabled.
@@ -1150,6 +1165,7 @@
 
 ## C++
 
+* 【2024-04-22】[stanuwu / PixelGunCheatInternal](https://github.com/stanuwu/PixelGunCheatInternal) - Pixel Gun 3D Internal Cheat in C++
 * 【2024-04-21】[gottingen / hercules](https://github.com/gottingen/hercules) - aot compiler
 * 【2024-04-21】[AztecProtocol / aztec\-packages](https://github.com/AztecProtocol/aztec-packages) - 
 * 【2024-04-20】[EvanMcBroom / lsa\-whisperer](https://github.com/EvanMcBroom/lsa-whisperer) - Tools for interacting with authentication packages using their individual message protocols
@@ -1246,6 +1262,7 @@
 
 ## C#
 
+* 【2024-04-22】[CombatExtended\-Continued / CombatExtended](https://github.com/CombatExtended-Continued/CombatExtended) - Combat Extended mod for RimWorld
 * 【2024-04-21】[Navi\-Studio / Virtual\-Human\-for\-Chatting](https://github.com/Navi-Studio/Virtual-Human-for-Chatting) - Live2D Virtual Human for Chatting based on Unity
 * 【2024-04-20】[dotnet / aspire\-samples](https://github.com/dotnet/aspire-samples) - 
 * 【2024-04-18】[leap71 / PicoGK](https://github.com/leap71/PicoGK) - PicoGK is a compact and robust geometry kernel for Computational Engineering
@@ -1569,6 +1586,8 @@
 
 ## Unknown
 
+* 【2024-04-22】[hegdepavankumar / Cisco\-Images\-for\-GNS3\-and\-EVE\-NG](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG) - Dive into a diverse array of Free Images of routers, switches,Firewalls and other appliances, including Cisco, Fortigate, Palo Alto, Sophos and more  Whether you're a seasoned professional or a learning enthusiast, our repository provides a one\-stop solution for a comprehensive hands\-on experience 
+* 【2024-04-22】[rbhatia46 / Data\-Science\-Interview\-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) - A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview  New resources added frequently 
 * 【2024-04-21】[tldrsec / awesome-secure-defaults](https://github.com/tldrsec/awesome-secure-defaults) - Awesome secure by default libraries to help you eliminate bug classes!
 * 【2024-04-21】[315386775 / DeepLearing\-Interview\-Awesome\-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) - AIGC\-interview/CV\-interview/LLMs\-interview面试问题与答案集合仓，同时包含工作和科研过程中的新想法、新问题、新资源与新项目
 * 【2024-04-21】[Psmths / windows\-forensic\-artifacts](https://github.com/Psmths/windows-forensic-artifacts) - Handbook of windows forensic artifacts across multiple Windows version with interpretation tips with some examples  Work in progress!
@@ -1862,6 +1881,13 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-04-22】[TanTanDev / binary_greedy_mesher_demo](https://github.com/TanTanDev/binary_greedy_mesher_demo) - 
+* 【2024-04-22】[tyr-rust-bootcamp / template](https://github.com/tyr-rust-bootcamp/template) - project template
+* 【2024-04-22】[Whitecat18 / Rust\-for\-Malware\-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - This repository contains my complete resources and coding practices for malware development using Rust 🦀 
+* 【2024-04-22】[H\-M\-H / Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer 
+* 【2024-04-22】[analysis\-tools\-dev / static\-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more  The focus is on tools which improve code quality 
+* 【2024-04-22】[rust-lang / miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
+* 【2024-04-22】[rustwasm / wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 * 【2024-04-21】[tyr\-rust\-bootcamp / template](https://github.com/tyr-rust-bootcamp/template) - project template
 * 【2024-04-20】[apache / datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 * 【2024-04-20】[facebookexperimental / hermit](https://github.com/facebookexperimental/hermit) - Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution  Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavior  This can be used for various applications, including replay\-debugging, reproducible artifacts, chaos mode concurrency testing and bug analysis 
@@ -2110,6 +2136,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-22】[sadmann7 / shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination.
+* 【2024-04-22】[ivanfioravanti / chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama) - Chatbot Ollama is an open source chat UI for Ollama.
+* 【2024-04-22】[wvit / web\-document](https://github.com/wvit/web-document) - A browser extension for saving web documents locally, allowing you to access them offline and quickly search for webpage content without an internet connection, while also saving browser memory usage 
+* 【2024-04-22】[PKief / vscode\-material\-icon\-theme](https://github.com/PKief/vscode-material-icon-theme) - Available on the VSCode Marketplace
+* 【2024-04-22】[magicdawn / bilibili-app-recommend](https://github.com/magicdawn/bilibili-app-recommend) - [UserScript] 为 B 站首页添加像 App 一样的推荐
 * 【2024-04-21】[frangoteam / FUXA](https://github.com/frangoteam/FUXA) - Web\-based Process Visualization (SCADA/HMI/Dashboard) software
 * 【2024-04-21】[intlify / vue\-i18n\-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
 * 【2024-04-21】[gcui\-art / suno\-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno ai, and easily integrate it into agents like GPTs 
