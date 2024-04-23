@@ -24,6 +24,8 @@
 
 ## All language
 
+* 【2024-04-23】[open\-webui / open\-webui](https://github.com/open-webui/open-webui) - User\-friendly WebUI for LLMs (Formerly Ollama WebUI)
+* 【2024-04-23】[joschan21 / profanity dev](https://github.com/joschan21/profanity.dev) - 
 * 【2024-04-22】[moest\-np / center\-randomize](https://github.com/moest-np/center-randomize) - Script is to assign exam centers to students
 * 【2024-04-22】[sadmann7 / shadcn\-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server\-side sorting, filtering, and pagination 
 * 【2024-04-22】[meta-llama / llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment.Demo apps to showcase Llama2 for WhatsApp & Messenger
@@ -374,6 +376,7 @@
 
 ## Java
 
+* 【2024-04-23】[InterviewReady / Concurrency\-Tester](https://github.com/InterviewReady/Concurrency-Tester) - A tester that checks for correctness of code in distributed systems 
 * 【2024-04-22】[epicstudios856 / Vectras\-VM\-Android](https://github.com/epicstudios856/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 * 【2024-04-21】[qwdigital / LinkWechat-Scrm](https://github.com/qwdigital/LinkWechat-Scrm) - LinkWeChat后端代码仓库，-- 基于企业微信的开源 SCRM 系统，是企业私域流量管理与营销的综合解决方案。
 * 【2024-04-20】[grishka / poke dex](https://github.com/grishka/poke.dex) - 
@@ -464,6 +467,7 @@
 
 ## Python
 
+* 【2024-04-23】[tinyzqh / light_mappo](https://github.com/tinyzqh/light_mappo) - Lightweight version of MAPPO to help you quickly migrate to your local environment 
 * 【2024-04-22】[moest-np / center-randomize](https://github.com/moest-np/center-randomize) - Script is to assign exam centers to students
 * 【2024-04-22】[MetaCubeX / mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API 
 * 【2024-04-22】[liming\-ai / ControlNet_Plus_Plus](https://github.com/liming-ai/ControlNet_Plus_Plus) - Inference code for: ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback
@@ -946,6 +950,9 @@
 
 ## Go
 
+* 【2024-04-23】[amuluze / amprobe](https://github.com/amuluze/amprobe) - 轻量级主机及容器监控服务
+* 【2024-04-23】[aurorax\-neo / free\-gpt3 5\-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) - free chat gpt api
+* 【2024-04-23】[1buran / rHttp](https://github.com/1buran/rHttp) - REPL for HTTP
 * 【2024-04-22】[Layr\-Labs / eigenda](https://github.com/Layr-Labs/eigenda) - Secure, high\-throughput, and decentralized Data Availability
 * 【2024-04-22】[bom\-squad / protobom](https://github.com/bom-squad/protobom) - A universal SBOM representation in protocol buffers
 * 【2024-04-22】[IceBearAI / LLM-And-More](https://github.com/IceBearAI/LLM-And-More) - LLM-And-More is a professional, plug-and-play, llm trainer and application builder that guides you through the complete LLM workflow from data to evaluation, from training to deployment, from idea to sevice. / LLM-And-More 是一个专业、开箱即用的大模型训练及应用构建一站式解决方案，包含从数据到评估、从训练到部署、从想法到服务的全流程最佳实践。
@@ -1054,6 +1061,8 @@
 
 ## C
 
+* 【2024-04-23】[wareya / DIY\-Gaming\-Mouse](https://github.com/wareya/DIY-Gaming-Mouse) - Completely open source DIY gaming mouse, including hardware (PCB, shell) design files
+* 【2024-04-23】[plasma\-umass / coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
 * 【2024-04-22】[khanhduytran0 / LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it!
 * 【2024-04-21】[loopj / short\-stack](https://github.com/loopj/short-stack) - World's Smallest Nintendo Wii, using a trimmed motherboard and custom stacked PCBs
 * 【2024-04-21】[yoshisuga / MAME4iOS](https://github.com/yoshisuga/MAME4iOS) - Multiple Arcade Machine Emulator for iOS, iPadOS, tvOS, macOS (Catalyst)
@@ -1262,6 +1271,8 @@
 
 ## C#
 
+* 【2024-04-23】[bbradson / Performance-Fish](https://github.com/bbradson/Performance-Fish) - Performance Mod for RimWorld
+* 【2024-04-23】[HunterPie / HunterPie](https://github.com/HunterPie/HunterPie) - A clean, modern and robust overlay for Monster Hunter games 
 * 【2024-04-22】[CombatExtended\-Continued / CombatExtended](https://github.com/CombatExtended-Continued/CombatExtended) - Combat Extended mod for RimWorld
 * 【2024-04-21】[Navi\-Studio / Virtual\-Human\-for\-Chatting](https://github.com/Navi-Studio/Virtual-Human-for-Chatting) - Live2D Virtual Human for Chatting based on Unity
 * 【2024-04-20】[dotnet / aspire\-samples](https://github.com/dotnet/aspire-samples) - 
@@ -1380,6 +1391,7 @@
 
 ## Html
 
+* 【2024-04-23】[reisxd / TizenBrew](https://github.com/reisxd/TizenBrew) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 * 【2024-04-20】[jokob\-sk / NetAlertX](https://github.com/jokob-sk/NetAlertX) - 💻🔍 WIFI / LAN intruder detector  Scans for devices connected to your network and alerts you if new and unknown devices are found 
 * 【2024-04-20】[hytql8 / VXAdmin](https://github.com/hytql8/VXAdmin) - A practical front\-end template for Vue3+TypeScript+Vite+Pinia+Vueuse, based on the latest/cutting\-edge front\-end technologies
 * 【2024-04-18】[alura-challenges / challenge-one-portfolio-br](https://github.com/alura-challenges/challenge-one-portfolio-br) - Repositorio Base para desenvolvimento do Desafio 1 Crie seu próprio Portfólio do Challenge ONE Front end
@@ -1586,6 +1598,8 @@
 
 ## Unknown
 
+* 【2024-04-23】[qiye45 / wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频、直播回放下载
+* 【2024-04-23】[rbhatia46 / Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) - A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. New resources added frequently.
 * 【2024-04-22】[hegdepavankumar / Cisco\-Images\-for\-GNS3\-and\-EVE\-NG](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG) - Dive into a diverse array of Free Images of routers, switches,Firewalls and other appliances, including Cisco, Fortigate, Palo Alto, Sophos and more  Whether you're a seasoned professional or a learning enthusiast, our repository provides a one\-stop solution for a comprehensive hands\-on experience 
 * 【2024-04-22】[rbhatia46 / Data\-Science\-Interview\-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) - A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview  New resources added frequently 
 * 【2024-04-21】[tldrsec / awesome-secure-defaults](https://github.com/tldrsec/awesome-secure-defaults) - Awesome secure by default libraries to help you eliminate bug classes!
@@ -1881,6 +1895,11 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-04-23】[Whitecat18 / Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - This repository contains my complete resources and coding practices for malware development using Rust 🦀.
+* 【2024-04-23】[LukeMathWalker / zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
+* 【2024-04-23】[Smithay / smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
+* 【2024-04-23】[LGUG2Z / komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
+* 【2024-04-23】[Plonky3 / Plonky3](https://github.com/Plonky3/Plonky3) - A toolkit for polynomial IOPs (PIOPs)
 * 【2024-04-22】[TanTanDev / binary_greedy_mesher_demo](https://github.com/TanTanDev/binary_greedy_mesher_demo) - 
 * 【2024-04-22】[tyr-rust-bootcamp / template](https://github.com/tyr-rust-bootcamp/template) - project template
 * 【2024-04-22】[Whitecat18 / Rust\-for\-Malware\-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - This repository contains my complete resources and coding practices for malware development using Rust 🦀 
@@ -2136,6 +2155,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-23】[joschan21 / profanity.dev](https://github.com/joschan21/profanity.dev) - 
+* 【2024-04-23】[latentcat / latentbox](https://github.com/latentcat/latentbox) - A collection of awesome\-lists for AI, creativity and art  AI、创意和艺术领域的精选合集。https://latentbox com
+* 【2024-04-23】[telekom / create\-tsi](https://github.com/telekom/create-tsi) - Create\-tsi is a generative AI RAG toolkit which generates AI Applications with low code 
+* 【2024-04-23】[hello\-nav / hello\-nav](https://github.com/hello-nav/hello-nav) - 🗺 A navigation for developer
+* 【2024-04-23】[remotion\-dev / remotion](https://github.com/remotion-dev/remotion) - 🎥 Make videos programmatically with React
 * 【2024-04-22】[sadmann7 / shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination.
 * 【2024-04-22】[ivanfioravanti / chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama) - Chatbot Ollama is an open source chat UI for Ollama.
 * 【2024-04-22】[wvit / web\-document](https://github.com/wvit/web-document) - A browser extension for saving web documents locally, allowing you to access them offline and quickly search for webpage content without an internet connection, while also saving browser memory usage 
