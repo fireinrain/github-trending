@@ -24,6 +24,8 @@
 
 ## All language
 
+* 【2024-04-24】[CrazyBoyM / llama3\-Chinese\-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3 中文仓库（聚合资料：各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、部署教程视频 & 文档）
+* 【2024-04-24】[mishushakov / llm\-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 * 【2024-04-23】[open\-webui / open\-webui](https://github.com/open-webui/open-webui) - User\-friendly WebUI for LLMs (Formerly Ollama WebUI)
 * 【2024-04-23】[joschan21 / profanity dev](https://github.com/joschan21/profanity.dev) - 
 * 【2024-04-22】[moest\-np / center\-randomize](https://github.com/moest-np/center-randomize) - Script is to assign exam centers to students
@@ -376,6 +378,7 @@
 
 ## Java
 
+* 【2024-04-24】[sing1ee / elasticsearch\-jieba\-plugin](https://github.com/sing1ee/elasticsearch-jieba-plugin) - jieba analysis plugin for elasticsearch 7 0 0, 6 4 0, 6 0 0, 5 4 0，5 3 0, 5 2 2, 5 2 1, 5 2, 5 1 2, 5 1 1
 * 【2024-04-23】[InterviewReady / Concurrency\-Tester](https://github.com/InterviewReady/Concurrency-Tester) - A tester that checks for correctness of code in distributed systems 
 * 【2024-04-22】[epicstudios856 / Vectras\-VM\-Android](https://github.com/epicstudios856/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 * 【2024-04-21】[qwdigital / LinkWechat-Scrm](https://github.com/qwdigital/LinkWechat-Scrm) - LinkWeChat后端代码仓库，-- 基于企业微信的开源 SCRM 系统，是企业私域流量管理与营销的综合解决方案。
@@ -467,6 +470,10 @@
 
 ## Python
 
+* 【2024-04-24】[CrazyBoyM / llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3 中文仓库（聚合资料：各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、部署教程视频 & 文档）
+* 【2024-04-24】[haizelabs / llama3\-jailbreak](https://github.com/haizelabs/llama3-jailbreak) - A trivial programmatic Llama 3 jailbreak  Sorry Zuck!
+* 【2024-04-24】[google-deepmind / penzai](https://github.com/google-deepmind/penzai) - A JAX research toolkit for building, editing, and visualizing neural networks.
+* 【2024-04-24】[yuka\-friends / Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics 
 * 【2024-04-23】[tinyzqh / light_mappo](https://github.com/tinyzqh/light_mappo) - Lightweight version of MAPPO to help you quickly migrate to your local environment 
 * 【2024-04-22】[moest-np / center-randomize](https://github.com/moest-np/center-randomize) - Script is to assign exam centers to students
 * 【2024-04-22】[MetaCubeX / mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API 
@@ -773,6 +780,8 @@
 
 ## Javascript
 
+* 【2024-04-24】[Sbermarketing\-Analytics / InternFrontend\-EntryTask](https://github.com/Sbermarketing-Analytics/InternFrontend-EntryTask) - 
+* 【2024-04-24】[OpenDroneMap / WebODM](https://github.com/OpenDroneMap/WebODM) - User\-friendly, commercial\-grade software for processing aerial imagery  🛩
 * 【2024-04-22】[replicate / llama-chat](https://github.com/replicate/llama-chat) - A boilerplate for creating a Llama 3 chat app
 * 【2024-04-22】[surfbryce / beautiful\-lyrics](https://github.com/surfbryce/beautiful-lyrics) - Completely revolutionizes the Spotify Lyrics Experience by introducing Live Lyrics, Dynamic Backgrounds, and Immersive Views
 * 【2024-04-21】[timpaul / form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - 
@@ -1061,6 +1070,8 @@
 
 ## C
 
+* 【2024-04-24】[luainkernel / lunatik](https://github.com/luainkernel/lunatik) - Lunatik is a framework for scripting the Linux kernel with Lua 
+* 【2024-04-24】[floesen / KExecDD](https://github.com/floesen/KExecDD) - Admin to Kernel code execution using the KSecDD driver
 * 【2024-04-23】[wareya / DIY\-Gaming\-Mouse](https://github.com/wareya/DIY-Gaming-Mouse) - Completely open source DIY gaming mouse, including hardware (PCB, shell) design files
 * 【2024-04-23】[plasma\-umass / coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
 * 【2024-04-22】[khanhduytran0 / LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it!
@@ -1174,6 +1185,7 @@
 
 ## C++
 
+* 【2024-04-24】[SasaKaranovic / winfidel\-sensor](https://github.com/SasaKaranovic/winfidel-sensor) - Wireless Inline Filament Diameter Estimator Low\-cost Sensor
 * 【2024-04-22】[stanuwu / PixelGunCheatInternal](https://github.com/stanuwu/PixelGunCheatInternal) - Pixel Gun 3D Internal Cheat in C++
 * 【2024-04-21】[gottingen / hercules](https://github.com/gottingen/hercules) - aot compiler
 * 【2024-04-21】[AztecProtocol / aztec\-packages](https://github.com/AztecProtocol/aztec-packages) - 
@@ -1271,6 +1283,8 @@
 
 ## C#
 
+* 【2024-04-24】[westonwalker / DotnetJobsOs](https://github.com/westonwalker/DotnetJobsOs) - 
+* 【2024-04-24】[eldewrito2 / ElDewritoLauncher](https://github.com/eldewrito2/ElDewritoLauncher) - 
 * 【2024-04-23】[bbradson / Performance-Fish](https://github.com/bbradson/Performance-Fish) - Performance Mod for RimWorld
 * 【2024-04-23】[HunterPie / HunterPie](https://github.com/HunterPie/HunterPie) - A clean, modern and robust overlay for Monster Hunter games 
 * 【2024-04-22】[CombatExtended\-Continued / CombatExtended](https://github.com/CombatExtended-Continued/CombatExtended) - Combat Extended mod for RimWorld
@@ -1391,6 +1405,10 @@
 
 ## Html
 
+* 【2024-04-24】[tinyworldmap / tiny\-world\-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline\-first and low\-bandwidth web apps
+* 【2024-04-24】[colour\-science / colour\-science\-precis](https://github.com/colour-science/colour-science-precis) - Colour Science Precis for the CGI Artist
+* 【2024-04-24】[themesberg / landwind](https://github.com/themesberg/landwind) - Responsive and clean landing page built with Tailwind CSS and Flowbite
+* 【2024-04-24】[lrita / lrita github io](https://github.com/lrita/lrita.github.io) - lrita's blog
 * 【2024-04-23】[reisxd / TizenBrew](https://github.com/reisxd/TizenBrew) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 * 【2024-04-20】[jokob\-sk / NetAlertX](https://github.com/jokob-sk/NetAlertX) - 💻🔍 WIFI / LAN intruder detector  Scans for devices connected to your network and alerts you if new and unknown devices are found 
 * 【2024-04-20】[hytql8 / VXAdmin](https://github.com/hytql8/VXAdmin) - A practical front\-end template for Vue3+TypeScript+Vite+Pinia+Vueuse, based on the latest/cutting\-edge front\-end technologies
@@ -1598,6 +1616,7 @@
 
 ## Unknown
 
+* 【2024-04-24】[01Kevin01 / OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) - 2024!!Onion Links V3!!(Forum&Chat&Markets)TR\-EN
 * 【2024-04-23】[qiye45 / wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频、直播回放下载
 * 【2024-04-23】[rbhatia46 / Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) - A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. New resources added frequently.
 * 【2024-04-22】[hegdepavankumar / Cisco\-Images\-for\-GNS3\-and\-EVE\-NG](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG) - Dive into a diverse array of Free Images of routers, switches,Firewalls and other appliances, including Cisco, Fortigate, Palo Alto, Sophos and more  Whether you're a seasoned professional or a learning enthusiast, our repository provides a one\-stop solution for a comprehensive hands\-on experience 
@@ -1895,6 +1914,16 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-04-24】[godot\-rust / gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
+* 【2024-04-24】[H-M-H / Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
+* 【2024-04-24】[analysis-tools-dev / static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+* 【2024-04-24】[rust\-bitcoin / rust\-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - Rust Bitcoin library
+* 【2024-04-24】[thetawavegame / thetawave](https://github.com/thetawavegame/thetawave) - A physics based, space shooter game made with Rust and the Bevy engine 
+* 【2024-04-24】[SeaDve / Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
+* 【2024-04-24】[alexpusch / rust\-magic\-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified
+* 【2024-04-24】[Yamato\-Security / hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma\-based threat hunting and fast forensics timeline generator for Windows event logs 
+* 【2024-04-24】[tyrchen / geektime\-rust](https://github.com/tyrchen/geektime-rust) - 我的极客时间 Rust 课程的代码仓库，随课程更新
+* 【2024-04-24】[HigherOrderCO / HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 * 【2024-04-23】[Whitecat18 / Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development) - This repository contains my complete resources and coding practices for malware development using Rust 🦀.
 * 【2024-04-23】[LukeMathWalker / zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
 * 【2024-04-23】[Smithay / smithay](https://github.com/Smithay/smithay) - A smithy for rusty wayland compositors
@@ -2155,6 +2184,14 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-24】[mishushakov / llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
+* 【2024-04-24】[scalar / scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨
+* 【2024-04-24】[coder\-hxl / x\-crawl](https://github.com/coder-hxl/x-crawl) - Flexible Node js AI\-assisted crawler library
+* 【2024-04-24】[run\-llama / create\-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
+* 【2024-04-24】[rjmacarthy / twinny](https://github.com/rjmacarthy/twinny) - The ultimate straightforward, locally or API\-hosted AI code completion plugin for Visual Studio Code—like GitHub Copilot but completely free!
+* 【2024-04-24】[intlify / vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3
+* 【2024-04-24】[googleapis / release\-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits org spec
+* 【2024-04-24】[TanStack / table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS \- React\-Table, Vue\-Table, Solid\-Table, Svelte\-Table
 * 【2024-04-23】[joschan21 / profanity.dev](https://github.com/joschan21/profanity.dev) - 
 * 【2024-04-23】[latentcat / latentbox](https://github.com/latentcat/latentbox) - A collection of awesome\-lists for AI, creativity and art  AI、创意和艺术领域的精选合集。https://latentbox com
 * 【2024-04-23】[telekom / create\-tsi](https://github.com/telekom/create-tsi) - Create\-tsi is a generative AI RAG toolkit which generates AI Applications with low code 
