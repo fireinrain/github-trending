@@ -24,6 +24,12 @@
 
 ## All language
 
+* 【2024-04-26】[CyanVoxel / TagStudio](https://github.com/CyanVoxel/TagStudio) - A file and photo management application and system 
+* 【2024-04-26】[whoeevee / EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) - A tweak to get Spotify Premium for free, just like Spotilife
+* 【2024-04-26】[mentalDetector / Quansheng_UV\-K5_PCB_R51\-V1 4_PCB_Reversing_Rev _0 9](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9) - Reverse engineering of the Quansheng UV\-K5 V1 4 PCB in KiCad 7
+* 【2024-04-26】[Profluent\-AI / OpenCRISPR](https://github.com/Profluent-AI/OpenCRISPR) - AI\-generated gene editing systems
+* 【2024-04-26】[ml\-explore / mlx\-swift\-examples](https://github.com/ml-explore/mlx-swift-examples) - Examples using MLX Swift
+* 【2024-04-26】[McGill\-NLP / webllama](https://github.com/McGill-NLP/webllama) - Llama\-3 agents that can browse the web by following instructions and talking to you
 * 【2024-04-25】[open-webui / open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 * 【2024-04-25】[mztacat / Base](https://github.com/mztacat/Base) - 
 * 【2024-04-25】[8680 / GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列。
@@ -476,6 +482,10 @@
 
 ## Python
 
+* 【2024-04-26】[McGill-NLP / webllama](https://github.com/McGill-NLP/webllama) - Llama-3 agents that can browse the web by following instructions and talking to you
+* 【2024-04-26】[FareedKhan\-dev / Detect\-AI\-text\-Easily](https://github.com/FareedKhan-dev/Detect-AI-text-Easily) - Some words that LLM regularly uses
+* 【2024-04-26】[a1600012888 / PhysDreamer](https://github.com/a1600012888/PhysDreamer) - Code for PhysDreamer
+* 【2024-04-26】[yisol / IDM\-VTON](https://github.com/yisol/IDM-VTON) - IDM\-VTON : Improving Diffusion Models for Authentic Virtual Try\-on in the Wild
 * 【2024-04-25】[UnicomAI / Unichat\-llama3\-Chinese](https://github.com/UnicomAI/Unichat-llama3-Chinese) - 
 * 【2024-04-25】[haizelabs / llama3-jailbreak](https://github.com/haizelabs/llama3-jailbreak) - A trivial programmatic Llama 3 jailbreak. Sorry Zuck!
 * 【2024-04-25】[lipku / metahuman\-stream](https://github.com/lipku/metahuman-stream) - Real time streaming digital human based on nerf
@@ -791,6 +801,8 @@
 
 ## Javascript
 
+* 【2024-04-26】[0xlau / biliplus](https://github.com/0xlau/biliplus) - 🧩 A Chrome/Edge extension to feel better in bilibili com
+* 【2024-04-26】[ErickWendel / parallelizing\-nodejs\-ops](https://github.com/ErickWendel/parallelizing-nodejs-ops) - Example of how to Migrate 1M items from MongoDB to Postgres in just a few minutes using Node js child process
 * 【2024-04-25】[code\-charity / youtube](https://github.com/code-charity/youtube) - [Top~1 open YouTube / Video Web\-Extension] Enrich your experience & choice! 🧰100+ clever features📌set & forget📌Longest\-standing (yet rare & tough alone  Please help/join🧩us👨‍👩‍👧‍👧)   ⋮ {playback\|content discovery\|player\|extra buttons\|distractions\|related videos\|shorts\|ads\|quality\|codec\|full tab\|full screen}
 * 【2024-04-25】[apache / cordova\-ios](https://github.com/apache/cordova-ios) - Apache Cordova iOS
 * 【2024-04-25】[SiJiDo / X](https://github.com/SiJiDo/X) - 红蓝对抗快速搭建基础设施平台
@@ -1301,6 +1313,9 @@
 
 ## C#
 
+* 【2024-04-26】[SergeyTeplyakov / ErrorProne NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) - Set of roslyn\-based analyzers for catching common C\# errors (inspired by Google's error\-prone)
+* 【2024-04-26】[DomainDrivers / dd\-csharp](https://github.com/DomainDrivers/dd-csharp) - 
+* 【2024-04-26】[jonowilliams26 / StructuredMinimalApi](https://github.com/jonowilliams26/StructuredMinimalApi) - An example of a structured minimal api project
 * 【2024-04-25】[Siccity / xNode](https://github.com/Siccity/xNode) - Unity Node Editor: Lets you view and edit node graphs inside Unity
 * 【2024-04-25】[WeakKnight / real\-time\-seamless\-object\-space\-shading](https://github.com/WeakKnight/real-time-seamless-object-space-shading) - Source Code for Eurographics 2024 Short Paper "Real\-time Seamless Object Space Shading"
 * 【2024-04-24】[westonwalker / DotnetJobsOs](https://github.com/westonwalker/DotnetJobsOs) - 
@@ -1425,6 +1440,10 @@
 
 ## Html
 
+* 【2024-04-26】[FrontendMasters / front\-end\-handbook\-2024](https://github.com/FrontendMasters/front-end-handbook-2024) - A guide to modern front\-end web development / engineering 
+* 【2024-04-26】[rohanarun / Open\-Agent\-Studio](https://github.com/rohanarun/Open-Agent-Studio) - 
+* 【2024-04-26】[milvus\-io / bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc 
+* 【2024-04-26】[Snowflake\-Labs / sfquickstarts](https://github.com/Snowflake-Labs/sfquickstarts) - Follow along with our tutorials to get you up and running with the Snowflake Data Cloud 
 * 【2024-04-25】[workadventure / map\-starter\-kit](https://github.com/workadventure/map-starter-kit) - A starter kit to help you get started developing your own maps for WorkAdventure
 * 【2024-04-25】[colour-science / colour-science-precis](https://github.com/colour-science/colour-science-precis) - Colour Science Precis for the CGI Artist
 * 【2024-04-25】[learn\-co\-curriculum / react\-hooks\-running\-tests](https://github.com/learn-co-curriculum/react-hooks-running-tests) - 
@@ -1639,6 +1658,12 @@
 
 ## Unknown
 
+* 【2024-04-26】[mentalDetector / Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9) - Reverse engineering of the Quansheng UV-K5 V1.4 PCB in KiCad 7
+* 【2024-04-26】[Profluent-AI / OpenCRISPR](https://github.com/Profluent-AI/OpenCRISPR) - AI-generated gene editing systems
+* 【2024-04-26】[SAWARATSUKI / ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してください🫠
+* 【2024-04-26】[ymcui / Chinese\-LLaMA\-Alpaca\-3](https://github.com/ymcui/Chinese-LLaMA-Alpaca-3) - 中文羊驼大模型三期项目 developed from Meta Llama 3
+* 【2024-04-26】[instructlab / taxonomy](https://github.com/instructlab/taxonomy) - Taxonomy tree that will allow you to create models tuned with your data
+* 【2024-04-26】[TheBurnsy / Vehicle\-OSINT\-Collection](https://github.com/TheBurnsy/Vehicle-OSINT-Collection) - A comprehensive list of tools that can be used for finding information related to a specific vehicle 
 * 【2024-04-25】[prometeytron / Prometheus\-Tron\-Brute\-Force](https://github.com/prometeytron/Prometheus-Tron-Brute-Force) - Tron Wallets Brute Force
 * 【2024-04-25】[thehappydinoa / awesome\-censys\-queries](https://github.com/thehappydinoa/awesome-censys-queries) - A collection of fascinating and bizarre Censys Search Queries
 * 【2024-04-25】[CScorza / OSINT\-IA](https://github.com/CScorza/OSINT-IA) - L'I A  a supporto dell'OSINT
@@ -1943,6 +1968,10 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-04-26】[xelis-project / xelis-blockchain](https://github.com/xelis-project/xelis-blockchain) - A private blockDAG using Homomorphic Encryption with Smart Contract support
+* 【2024-04-26】[godot-rust / gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
+* 【2024-04-26】[Byron / gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+* 【2024-04-26】[lbcb\-sci / herro](https://github.com/lbcb-sci/herro) - HERRO is a highly\-accurate, haplotype\-aware, deep\-learning tool for error correction of Nanopore R10 4 1 or R9 4 1 reads (read length of >= 10 kbps is recommended) 
 * 【2024-04-25】[kylebarron / parquet\-wasm](https://github.com/kylebarron/parquet-wasm) - Rust\-based WebAssembly bindings to read and write Apache Parquet data
 * 【2024-04-25】[xelis\-project / xelis\-blockchain](https://github.com/xelis-project/xelis-blockchain) - A private blockDAG using Homomorphic Encryption with Smart Contract support
 * 【2024-04-25】[Yamato-Security / hayabusa](https://github.com/Yamato-Security/hayabusa) - Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.
@@ -2216,6 +2245,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-26】[feiandxs / duckrush](https://github.com/feiandxs/duckrush) - A simple and fast backend API, based on Hono, that can search for relevant content on the internet using keywords and convert it into a format suitable for LLM processing  Supports deployment on Cloudflare 
+* 【2024-04-26】[dorny / paths\-filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits
+* 【2024-04-26】[plasmicapp / plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React  Build apps, websites, and content  Integrate with your codebase 
 * 【2024-04-25】[react\-navigation / react\-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 * 【2024-04-25】[ethers\-io / ethers js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript 
 * 【2024-04-25】[actions / checkout](https://github.com/actions/checkout) - Action for checking out a repo
