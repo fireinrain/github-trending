@@ -24,6 +24,10 @@
 
 ## All language
 
+* 【2024-04-29】[microsoft / MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
+* 【2024-04-29】[adam-maj / tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
+* 【2024-04-29】[pytorch / torchtitan](https://github.com/pytorch/torchtitan) - A native PyTorch Library for large model training
+* 【2024-04-29】[plaintextpackets / netprobe_lite](https://github.com/plaintextpackets/netprobe_lite) - Simple internet performance tester written in Python
 * 【2024-04-28】[adam\-maj / tiny\-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
 * 【2024-04-28】[microsoft / MS\-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS\-DOS 1 25, 2 0, and 4 0 for reference purposes
 * 【2024-04-28】[EricLBuehler / mistral rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference 
@@ -398,6 +402,8 @@
 
 ## Java
 
+* 【2024-04-29】[BiliRoamingX / BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX) - BiliRoamingX integrations and patches powered by ReVanced 
+* 【2024-04-29】[bisq\-network / bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
 * 【2024-04-27】[OpenSPG / openspg](https://github.com/OpenSPG/openspg) - OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic\-enhanced Programmable Graph) framework  Core Capabilities: 1) domain model constrained knowledge modeling, 2) facts and logic fused representation, 3) kNext SDK(python): LLM\-enhanced knowledge construction, reasoning and generation
 * 【2024-04-25】[react\-native\-cameraroll / react\-native\-cameraroll](https://github.com/react-native-cameraroll/react-native-cameraroll) - CameraRoll is a react\-native native module that provides access to the local camera roll or photo library 
 * 【2024-04-25】[loks666 / get_jobs](https://github.com/loks666/get_jobs) - 💼【找工作最强助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
@@ -494,6 +500,10 @@
 
 ## Python
 
+* 【2024-04-29】[SYSTRAN / faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
+* 【2024-04-29】[mbzuai\-oryx / LLaVA\-pp](https://github.com/mbzuai-oryx/LLaVA-pp) - 🔥🔥 LLaVA++: Extending LLaVA with Phi\-3 and LLaMA\-3 (LLaVA LLaMA\-3, LLaVA Phi\-3)
+* 【2024-04-29】[sarperavci / GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) - Solve Google reCAPTCHA in less than 5 seconds! 🚀
+* 【2024-04-29】[pangao1990 / PPX](https://github.com/pangao1990/PPX) - 基于 JavaScript 和 Python，一键生成 macOS 和 Windows 平台客户端应用
 * 【2024-04-28】[CrazyBoyM / phi3\-Chinese](https://github.com/CrazyBoyM/phi3-Chinese) - Phi3 中文仓库
 * 【2024-04-28】[TagStudioDev / TagStudio](https://github.com/TagStudioDev/TagStudio) - A file and photo management application and system 
 * 【2024-04-28】[OWASP / OFFAT](https://github.com/OWASP/OFFAT) - The OWASP OFFAT tool autonomously assesses your API for prevalent vulnerabilities, though full compatibility with OAS v3 is pending  The project remains a work in progress, continuously evolving towards completion 
@@ -820,6 +830,7 @@
 
 ## Javascript
 
+* 【2024-04-29】[Lunakepio / Mario\-Bros js](https://github.com/Lunakepio/Mario-Bros.js) - A Mario Bros in 3D with React
 * 【2024-04-27】[zk-Call / zkp-hmac-communication-js](https://github.com/zk-Call/zkp-hmac-communication-js) - "Zero-Knowledge" Proof Implementation with HMAC Communication in JavaScript
 * 【2024-04-27】[fatwang2 / search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
 * 【2024-04-26】[0xlau / biliplus](https://github.com/0xlau/biliplus) - 🧩 A Chrome/Edge extension to feel better in bilibili com
@@ -1006,6 +1017,7 @@
 
 ## Go
 
+* 【2024-04-29】[talostrading / sonic](https://github.com/talostrading/sonic) - Sonic is a Go library for network and I/O programming that provides developers with a consistent asynchronous model, with a focus on achieving the lowest possible latency and jitter in Go 
 * 【2024-04-27】[zk\-Call / zkp\-hmac\-communication\-go](https://github.com/zk-Call/zkp-hmac-communication-go) - "Zero\-Knowledge" Proof Implementation with HMAC Communication in Go
 * 【2024-04-27】[Dhravya / radish](https://github.com/Dhravya/radish) - Super fast drop\-in replacement of the in memory key\-value store Redis, made in Golang
 * 【2024-04-25】[panjf2000 / gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high\-performance, lightweight, non\-blocking, event\-driven networking framework written in pure Go / gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
@@ -1342,6 +1354,8 @@
 
 ## C#
 
+* 【2024-04-29】[Voland163 / TFTV](https://github.com/Voland163/TFTV) - Terror from the Void mod for Phoenix Point
+* 【2024-04-29】[stayintarkov / SIT\-Mod\-Ports](https://github.com/stayintarkov/SIT-Mod-Ports) - 
 * 【2024-04-27】[ForzaMods / Forza\-Mods\-AIO](https://github.com/ForzaMods/Forza-Mods-AIO) - Free and open\-source FH4 & FH5 mod tool
 * 【2024-04-27】[adamgryu / InspectorHistory\-Unity](https://github.com/adamgryu/InspectorHistory-Unity) - 
 * 【2024-04-26】[SergeyTeplyakov / ErrorProne NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) - Set of roslyn\-based analyzers for catching common C\# errors (inspired by Google's error\-prone)
@@ -1471,6 +1485,10 @@
 
 ## Html
 
+* 【2024-04-29】[celesWuff / waterctl](https://github.com/celesWuff/waterctl) - 深圳市常工电子“蓝牙水控器”控制程序的开源实现。适用于国内各大高校宿舍热水器。
+* 【2024-04-29】[SajedHassan / CSEx61\-dockerized\-pintos](https://github.com/SajedHassan/CSEx61-dockerized-pintos) - 
+* 【2024-04-29】[codewithsadee / grilli](https://github.com/codewithsadee/grilli) - Grilli is a fully responsive restaurant website, Responsive for all devices, build using HTML, CSS, and JavaScript 
+* 【2024-04-29】[elidianaandrade / dio\-lab\-portfolio](https://github.com/elidianaandrade/dio-lab-portfolio) - Repositório do lab Construindo seu Portfólio Front\-end do Zero da Digital Innovation One 
 * 【2024-04-28】[Jamil226 / WebAppDev](https://github.com/Jamil226/WebAppDev) - 
 * 【2024-04-28】[LiveDuo / destack](https://github.com/LiveDuo/destack) - Page builder for Next js 🅧  Zero\-config deployment 🚀  React now supported!
 * 【2024-04-27】[FrontendMasters / front-end-handbook-2024](https://github.com/FrontendMasters/front-end-handbook-2024) - A guide to modern front-end web development / engineering.
@@ -1694,6 +1712,9 @@
 
 ## Unknown
 
+* 【2024-04-29】[bpc-clone / bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
+* 【2024-04-29】[ImplFerris / LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
+* 【2024-04-29】[Gar\-b\-age / CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC 
 * 【2024-04-28】[OdysseusYuan / Mocreak](https://github.com/OdysseusYuan/Mocreak) - 基于 LKY_OfficeTools 构建的图形化版本。一键自动化下载、安装、激活 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。
 * 【2024-04-28】[Finallyt / Heroglyph](https://github.com/Finallyt/Heroglyph) - Incentives For Transforming Ethereum Validator Dynamics
 * 【2024-04-28】[Shenzhi\-Wang / Llama3\-Chinese\-Chat](https://github.com/Shenzhi-Wang/Llama3-Chinese-Chat) - This is the first Chinese chat model specifically fine\-tuned for Chinese through ORPO based on the Meta\-Llama\-3\-8B\-Instruct model 
@@ -2009,6 +2030,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-04-29】[apache / datafusion-comet](https://github.com/apache/datafusion-comet) - Apache DataFusion Comet Spark Accelerator
+* 【2024-04-29】[feschber / lan\-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 * 【2024-04-28】[EricLBuehler / mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
 * 【2024-04-28】[apache / datafusion\-comet](https://github.com/apache/datafusion-comet) - Apache DataFusion Comet Spark Accelerator
 * 【2024-04-28】[redis\-rs / redis\-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust
@@ -2293,6 +2316,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-29】[ethanniser / effect\-workshop](https://github.com/ethanniser/effect-workshop) - 
+* 【2024-04-29】[stayintarkov / SIT.Aki-Server-Mod](https://github.com/stayintarkov/SIT.Aki-Server-Mod) - A SPT-Aki mod to be used with SPT-Aki Server to allow the Coop Module to communicate with the SPT-Aki Server.
+* 【2024-04-29】[dai\-shi / waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
+* 【2024-04-29】[woovibr / pix\-pdf](https://github.com/woovibr/pix-pdf) - 
+* 【2024-04-29】[gaozhangmin / aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 \- Powered by 阿里云盘。
 * 【2024-04-28】[lrhh123 / ChatGPT\-On\-CS](https://github.com/lrhh123/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3 5/GPT4 0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
 * 【2024-04-28】[dubinc / oss\-gallery](https://github.com/dubinc/oss-gallery) - A crowdsourced list of the best open\-source projects on the internet  Built with the Dub co API 
 * 【2024-04-28】[CapSoftware / Cap](https://github.com/CapSoftware/Cap) - Effortless, instant screen sharing  Open\-source and cross\-platform 
