@@ -402,6 +402,7 @@
 
 ## Java
 
+* 【2024-04-30】[lgp547 / any\-door](https://github.com/lgp547/any-door) - 
 * 【2024-04-29】[BiliRoamingX / BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX) - BiliRoamingX integrations and patches powered by ReVanced 
 * 【2024-04-29】[bisq\-network / bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
 * 【2024-04-27】[OpenSPG / openspg](https://github.com/OpenSPG/openspg) - OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic\-enhanced Programmable Graph) framework  Core Capabilities: 1) domain model constrained knowledge modeling, 2) facts and logic fused representation, 3) kNext SDK(python): LLM\-enhanced knowledge construction, reasoning and generation
@@ -500,6 +501,9 @@
 
 ## Python
 
+* 【2024-04-30】[xlang-ai / OSWorld](https://github.com/xlang-ai/OSWorld) - OSWorld: A real computer environment for multimodal agents to evaluate open-ended computer tasks
+* 【2024-04-30】[autonomousvision / gaussian\-opacity\-fields](https://github.com/autonomousvision/gaussian-opacity-fields) - Gaussian Opacity Fields for Efficient and Compact Surface Reconstruction in Unbounded Scenes
+* 【2024-04-30】[mbzuai-oryx / LLaVA-pp](https://github.com/mbzuai-oryx/LLaVA-pp) - 🔥🔥 LLaVA++: Extending LLaVA with Phi-3 and LLaMA-3 (LLaVA LLaMA-3, LLaVA Phi-3)
 * 【2024-04-29】[SYSTRAN / faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 * 【2024-04-29】[mbzuai\-oryx / LLaVA\-pp](https://github.com/mbzuai-oryx/LLaVA-pp) - 🔥🔥 LLaVA++: Extending LLaVA with Phi\-3 and LLaMA\-3 (LLaVA LLaMA\-3, LLaVA Phi\-3)
 * 【2024-04-29】[sarperavci / GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) - Solve Google reCAPTCHA in less than 5 seconds! 🚀
@@ -830,6 +834,8 @@
 
 ## Javascript
 
+* 【2024-04-30】[ibrahimaitech / IBRAHIM\-MD](https://github.com/ibrahimaitech/IBRAHIM-MD) - Black panther md the fastest wabot that helps WhatsApp users to enjoy smooth life
+* 【2024-04-30】[jadehh / TVSpider](https://github.com/jadehh/TVSpider) - 影视和猫影视爬虫仓库
 * 【2024-04-29】[Lunakepio / Mario\-Bros js](https://github.com/Lunakepio/Mario-Bros.js) - A Mario Bros in 3D with React
 * 【2024-04-27】[zk-Call / zkp-hmac-communication-js](https://github.com/zk-Call/zkp-hmac-communication-js) - "Zero-Knowledge" Proof Implementation with HMAC Communication in JavaScript
 * 【2024-04-27】[fatwang2 / search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
@@ -1251,6 +1257,7 @@
 
 ## C++
 
+* 【2024-04-30】[nukeykt / Nuked-SC55](https://github.com/nukeykt/Nuked-SC55) - Roland SC-55 series emulation
 * 【2024-04-28】[turingmotors / swan](https://github.com/turingmotors/swan) - This project aims to enable language model inference on FPGAs, supporting AI applications in edge devices and environments with limited resources 
 * 【2024-04-28】[facebookexternal / nimble](https://github.com/facebookexternal/nimble) - New file format for storage of large columnar datasets 
 * 【2024-04-28】[prusa3d / Prusa\-Firmware\-ESP32\-Cam](https://github.com/prusa3d/Prusa-Firmware-ESP32-Cam) - Firmware for ESP32 Cam modules to be used in Prusa Connect
@@ -1354,6 +1361,10 @@
 
 ## C#
 
+* 【2024-04-30】[JakaAmbrus / PlayLink](https://github.com/JakaAmbrus/PlayLink) -  NET API with Clean Architecture and CQRS, featuring advanced testing and a dynamic Angular frontend
+* 【2024-04-30】[Project\-PLATEAU / SkylinesPLATEAU](https://github.com/Project-PLATEAU/SkylinesPLATEAU) - 3D都市モデルを都市育成シミュレーションゲーム"Cities:Skylines"にインポートするMOD
+* 【2024-04-30】[bbradson / Fishery](https://github.com/bbradson/Fishery) - Modding Library
+* 【2024-04-30】[MicrosoftDocs / windows\-dev\-docs](https://github.com/MicrosoftDocs/windows-dev-docs) - Conceptual and overview content for developing Windows apps
 * 【2024-04-29】[Voland163 / TFTV](https://github.com/Voland163/TFTV) - Terror from the Void mod for Phoenix Point
 * 【2024-04-29】[stayintarkov / SIT\-Mod\-Ports](https://github.com/stayintarkov/SIT-Mod-Ports) - 
 * 【2024-04-27】[ForzaMods / Forza\-Mods\-AIO](https://github.com/ForzaMods/Forza-Mods-AIO) - Free and open\-source FH4 & FH5 mod tool
@@ -1485,6 +1496,7 @@
 
 ## Html
 
+* 【2024-04-30】[elidianaandrade / dio-lab-portfolio](https://github.com/elidianaandrade/dio-lab-portfolio) - Repositório do lab Construindo seu Portfólio Front-end do Zero da Digital Innovation One.
 * 【2024-04-29】[celesWuff / waterctl](https://github.com/celesWuff/waterctl) - 深圳市常工电子“蓝牙水控器”控制程序的开源实现。适用于国内各大高校宿舍热水器。
 * 【2024-04-29】[SajedHassan / CSEx61\-dockerized\-pintos](https://github.com/SajedHassan/CSEx61-dockerized-pintos) - 
 * 【2024-04-29】[codewithsadee / grilli](https://github.com/codewithsadee/grilli) - Grilli is a fully responsive restaurant website, Responsive for all devices, build using HTML, CSS, and JavaScript 
@@ -1712,6 +1724,9 @@
 
 ## Unknown
 
+* 【2024-04-30】[func25 / go\-practical\-tips](https://github.com/func25/go-practical-tips) - Go Practical Tips
+* 【2024-04-30】[Gar-b-age / CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+* 【2024-04-30】[project\-fika / Fika\-Documentation](https://github.com/project-fika/Fika-Documentation) - 
 * 【2024-04-29】[bpc-clone / bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
 * 【2024-04-29】[ImplFerris / LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
 * 【2024-04-29】[Gar\-b\-age / CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC 
@@ -2030,6 +2045,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-04-30】[not\-fl3 / macroquad](https://github.com/not-fl3/macroquad) - Cross\-platform game engine in Rust 
+* 【2024-04-30】[dtolnay / proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
+* 【2024-04-30】[redis-rs / redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust
 * 【2024-04-29】[apache / datafusion-comet](https://github.com/apache/datafusion-comet) - Apache DataFusion Comet Spark Accelerator
 * 【2024-04-29】[feschber / lan\-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 * 【2024-04-28】[EricLBuehler / mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
@@ -2316,6 +2334,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-04-30】[outline / outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams  Beautiful, realtime collaborative, feature packed, and markdown compatible 
+* 【2024-04-30】[astoilkov / main\-thread\-scheduling](https://github.com/astoilkov/main-thread-scheduling) - Fast and consistently responsive apps using a single function call
+* 【2024-04-30】[LLM\-Red\-Team / glm\-free\-api](https://github.com/LLM-Red-Team/glm-free-api) - 🚀 智谱清言 ChatGLM4大模型逆向API白嫖测试【特长：超强智能体】，支持高速流式输出、支持智能体对话、支持多轮对话、支持AI绘图、支持联网搜索、支持长文档解读、支持代码调用、支持图像解析，零配置部署，多路token支持，自动清理会话痕迹。
+* 【2024-04-30】[warden\-protocol / wardenprotocol](https://github.com/warden-protocol/wardenprotocol) - 
+* 【2024-04-30】[Hiram\-Wong / ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer) - 跨平台桌面端视频资源播放器,免费高颜值 
 * 【2024-04-29】[ethanniser / effect\-workshop](https://github.com/ethanniser/effect-workshop) - 
 * 【2024-04-29】[stayintarkov / SIT.Aki-Server-Mod](https://github.com/stayintarkov/SIT.Aki-Server-Mod) - A SPT-Aki mod to be used with SPT-Aki Server to allow the Coop Module to communicate with the SPT-Aki Server.
 * 【2024-04-29】[dai\-shi / waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
