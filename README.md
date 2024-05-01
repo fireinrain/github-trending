@@ -24,6 +24,13 @@
 
 ## All language
 
+* 【2024-05-01】[ItzCrazyKns / Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI\-powered search engine  It is an Open source alternative to Perplexity AI
+* 【2024-05-01】[Kludex / fastapi\-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
+* 【2024-05-01】[zk-Call / zkp-hmac-communication-python](https://github.com/zk-Call/zkp-hmac-communication-python) - "Zero-Knowledge" Proof Implementation with HMAC Communication in Python
+* 【2024-05-01】[obhq / jailbreak\-11](https://github.com/obhq/jailbreak-11) - Experimental PS4 jailbreak for 11 00 and lower
+* 【2024-05-01】[rejunity / z80\-open\-silicon](https://github.com/rejunity/z80-open-silicon) - Z80 open\-source silicon  Goal is to become a silicon proven, pin compatible, open\-source replacement for classic Z80 
+* 【2024-05-01】[JackAILab / ConsistentID](https://github.com/JackAILab/ConsistentID) - Customized ID Consistent for human
+* 【2024-05-01】[module\-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 * 【2024-04-29】[microsoft / MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 * 【2024-04-29】[adam-maj / tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
 * 【2024-04-29】[pytorch / torchtitan](https://github.com/pytorch/torchtitan) - A native PyTorch Library for large model training
@@ -402,6 +409,7 @@
 
 ## Java
 
+* 【2024-05-01】[AutoMQ / automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud\-native fork of Kafka by separating storage to S3  10x cost\-effective  Autoscale in seconds  Single\-digit ms latency 
 * 【2024-04-30】[lgp547 / any\-door](https://github.com/lgp547/any-door) - 
 * 【2024-04-29】[BiliRoamingX / BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX) - BiliRoamingX integrations and patches powered by ReVanced 
 * 【2024-04-29】[bisq\-network / bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
@@ -501,6 +509,8 @@
 
 ## Python
 
+* 【2024-05-01】[microsoft / FILM](https://github.com/microsoft/FILM) - Official repo for "Make Your LLM Fully Utilize the Context"
+* 【2024-05-01】[VinciGit00 / Scrapegraph\-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 * 【2024-04-30】[xlang-ai / OSWorld](https://github.com/xlang-ai/OSWorld) - OSWorld: A real computer environment for multimodal agents to evaluate open-ended computer tasks
 * 【2024-04-30】[autonomousvision / gaussian\-opacity\-fields](https://github.com/autonomousvision/gaussian-opacity-fields) - Gaussian Opacity Fields for Efficient and Compact Surface Reconstruction in Unbounded Scenes
 * 【2024-04-30】[mbzuai-oryx / LLaVA-pp](https://github.com/mbzuai-oryx/LLaVA-pp) - 🔥🔥 LLaVA++: Extending LLaVA with Phi-3 and LLaMA-3 (LLaVA LLaMA-3, LLaVA Phi-3)
@@ -834,6 +844,7 @@
 
 ## Javascript
 
+* 【2024-05-01】[virus010101 / linfeng\-community](https://github.com/virus010101/linfeng-community) - 林风社交论坛小程序\|H5论坛\|app论坛是java+vue+uniapp开发的前后端分离社交论坛问答发帖/BBS项目，包括论坛图文帖，视频，圈子，IM私聊，微信支付，付费贴，积分签到，钱包充值等论坛小程序论坛app完整功能
 * 【2024-04-30】[ibrahimaitech / IBRAHIM\-MD](https://github.com/ibrahimaitech/IBRAHIM-MD) - Black panther md the fastest wabot that helps WhatsApp users to enjoy smooth life
 * 【2024-04-30】[jadehh / TVSpider](https://github.com/jadehh/TVSpider) - 影视和猫影视爬虫仓库
 * 【2024-04-29】[Lunakepio / Mario\-Bros js](https://github.com/Lunakepio/Mario-Bros.js) - A Mario Bros in 3D with React
@@ -1138,6 +1149,10 @@
 
 ## C
 
+* 【2024-05-01】[exploits\-forsale / CVE\-2024\-21345](https://github.com/exploits-forsale/CVE-2024-21345) - Proof\-of\-Concept for CVE\-2024\-21345
+* 【2024-05-01】[gyf304 / dotenv](https://github.com/gyf304/dotenv) - Standalone, language agnostic dotenv
+* 【2024-05-01】[exploits\-forsale / CVE\-2024\-26218](https://github.com/exploits-forsale/CVE-2024-26218) - Proof\-of\-Concept for CVE\-2024\-26218
+* 【2024-05-01】[exploits\-forsale / 24h2\-nt\-exploit](https://github.com/exploits-forsale/24h2-nt-exploit) - Exploit targeting NT kernel in 24H2 Windows Insider Preview
 * 【2024-04-28】[KartKrewDev / RingRacers](https://github.com/KartKrewDev/RingRacers) - 
 * 【2024-04-28】[PhysicsDptAngers / polyUAnalog](https://github.com/PhysicsDptAngers/polyUAnalog) - Open source, analog and polyphonic synthesizer
 * 【2024-04-25】[OpenNJet / OpenNJet](https://github.com/OpenNJet/OpenNJet) - 
@@ -1257,6 +1272,7 @@
 
 ## C++
 
+* 【2024-05-01】[sherlockchou86 / VideoPipe](https://github.com/sherlockchou86/VideoPipe) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。
 * 【2024-04-30】[nukeykt / Nuked-SC55](https://github.com/nukeykt/Nuked-SC55) - Roland SC-55 series emulation
 * 【2024-04-28】[turingmotors / swan](https://github.com/turingmotors/swan) - This project aims to enable language model inference on FPGAs, supporting AI applications in edge devices and environments with limited resources 
 * 【2024-04-28】[facebookexternal / nimble](https://github.com/facebookexternal/nimble) - New file format for storage of large columnar datasets 
@@ -1361,6 +1377,10 @@
 
 ## C#
 
+* 【2024-05-01】[project\-fika / Fika\-Plugin](https://github.com/project-fika/Fika-Plugin) - Client\-side changes to make multiplayer work
+* 【2024-05-01】[stayintarkov / SIT Manager Avalonia](https://github.com/stayintarkov/SIT.Manager.Avalonia) - 
+* 【2024-05-01】[InvoxiPlayGames / FestivalInstrumentMapper](https://github.com/InvoxiPlayGames/FestivalInstrumentMapper) - Maps most existing Rock Band / Guitar Hero instruments as Xbox One instruments for Fortnite Festival 
+* 【2024-05-01】[tryAGI / LangChain](https://github.com/tryAGI/LangChain) - C\# implementation of LangChain  We try to be as close to the original as possible in terms of abstractions, but are open to new entities 
 * 【2024-04-30】[JakaAmbrus / PlayLink](https://github.com/JakaAmbrus/PlayLink) -  NET API with Clean Architecture and CQRS, featuring advanced testing and a dynamic Angular frontend
 * 【2024-04-30】[Project\-PLATEAU / SkylinesPLATEAU](https://github.com/Project-PLATEAU/SkylinesPLATEAU) - 3D都市モデルを都市育成シミュレーションゲーム"Cities:Skylines"にインポートするMOD
 * 【2024-04-30】[bbradson / Fishery](https://github.com/bbradson/Fishery) - Modding Library
@@ -1496,6 +1516,9 @@
 
 ## Html
 
+* 【2024-05-01】[macadmins / sofa](https://github.com/macadmins/sofa) - SOFA \| A MacAdmin's Simple Organized Feed for Apple Software Updates
+* 【2024-05-01】[hegdepavankumar / Cisco-Images-for-GNS3-and-EVE-NG](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG) - Free Images for EVE-NG and GNS3 containing routers, switches,Firewalls and other appliances, including Cisco, Fortigate, Palo Alto, Sophos and more. Master the art of networking and improve your skills!, our repository provides a one-stop solution for a comprehensive hands-on experience.
+* 【2024-05-01】[TacoGuy21 / ByeBlocker](https://github.com/TacoGuy21/ByeBlocker) - The only TRULY UNBLOCKABLE proxy that works on Netlify, codepen, playcode, as a bookmarklet, never shows up in your history, and MORE! (The ONLY unblocker that works on static hosts)
 * 【2024-04-30】[elidianaandrade / dio-lab-portfolio](https://github.com/elidianaandrade/dio-lab-portfolio) - Repositório do lab Construindo seu Portfólio Front-end do Zero da Digital Innovation One.
 * 【2024-04-29】[celesWuff / waterctl](https://github.com/celesWuff/waterctl) - 深圳市常工电子“蓝牙水控器”控制程序的开源实现。适用于国内各大高校宿舍热水器。
 * 【2024-04-29】[SajedHassan / CSEx61\-dockerized\-pintos](https://github.com/SajedHassan/CSEx61-dockerized-pintos) - 
@@ -1724,6 +1747,14 @@
 
 ## Unknown
 
+* 【2024-05-01】[Kludex / fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
+* 【2024-05-01】[harsharock / BaseCamp](https://github.com/harsharock/BaseCamp) - BaseCamp Contracts
+* 【2024-05-01】[jkiolppm / Crypto\-Miner\-Soft](https://github.com/jkiolppm/Crypto-Miner-Soft) - miner bitcoin\-mining crypto\-miner bitcoin\-miner cryptocurrency\-mining xmr\-miner dual\-mining ton\-miner btc\-miner rvn\-miner xna\-miner ergo\-miner kas\-miner neox\-miner ctxc\-miner zephyr\-miner zeph\-miner aeon\-miner zcash\-miner open\-sources\-code\-github
+* 【2024-05-01】[CodingChallengesFYI / SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
+* 【2024-05-01】[idk10\-a / aviator](https://github.com/idk10-a/aviator) - Level up your Aviator game! This bot employs its prediction prowess to help you maximize your profit – and it's completely free!
+* 【2024-05-01】[project-fika / Fika-Documentation](https://github.com/project-fika/Fika-Documentation) - 
+* 【2024-05-01】[bpc\-clone / bypass\-paywalls\-firefox\-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
+* 【2024-05-01】[xiaobaikeji831 / cfDAIMA](https://github.com/xiaobaikeji831/cfDAIMA) - 
 * 【2024-04-30】[func25 / go\-practical\-tips](https://github.com/func25/go-practical-tips) - Go Practical Tips
 * 【2024-04-30】[Gar-b-age / CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 * 【2024-04-30】[project\-fika / Fika\-Documentation](https://github.com/project-fika/Fika-Documentation) - 
@@ -2045,6 +2076,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-01】[obhq / jailbreak-11](https://github.com/obhq/jailbreak-11) - Experimental PS4 jailbreak for 11.00 and lower
+* 【2024-05-01】[say4n / jf](https://github.com/say4n/jf) - flatten them json
 * 【2024-04-30】[not\-fl3 / macroquad](https://github.com/not-fl3/macroquad) - Cross\-platform game engine in Rust 
 * 【2024-04-30】[dtolnay / proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]
 * 【2024-04-30】[redis-rs / redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust
@@ -2334,6 +2367,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
+* 【2024-05-01】[warden-protocol / wardenprotocol](https://github.com/warden-protocol/wardenprotocol) - 
+* 【2024-05-01】[Aylur / ags](https://github.com/Aylur/ags) - A customizable and extensible shell
+* 【2024-05-01】[remorses / docker\-phobia](https://github.com/remorses/docker-phobia) - Analyze Docker images size
+* 【2024-05-01】[cyanff / anime gf](https://github.com/cyanff/anime.gf) - Local & Open Source Alternative to CharacterAI
 * 【2024-04-30】[outline / outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams  Beautiful, realtime collaborative, feature packed, and markdown compatible 
 * 【2024-04-30】[astoilkov / main\-thread\-scheduling](https://github.com/astoilkov/main-thread-scheduling) - Fast and consistently responsive apps using a single function call
 * 【2024-04-30】[LLM\-Red\-Team / glm\-free\-api](https://github.com/LLM-Red-Team/glm-free-api) - 🚀 智谱清言 ChatGLM4大模型逆向API白嫖测试【特长：超强智能体】，支持高速流式输出、支持智能体对话、支持多轮对话、支持AI绘图、支持联网搜索、支持长文档解读、支持代码调用、支持图像解析，零配置部署，多路token支持，自动清理会话痕迹。
