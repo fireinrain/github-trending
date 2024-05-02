@@ -24,6 +24,13 @@
 
 ## All language
 
+* 【2024-05-02】[felipemotarocha / fullstackweek\-foods](https://github.com/felipemotarocha/fullstackweek-foods) - 
+* 【2024-05-02】[Brackeys / first\-game\-in\-godot](https://github.com/Brackeys/first-game-in-godot) - Project files for our video on making your first game in Godot 
+* 【2024-05-02】[mlabonne / llm\-datasets](https://github.com/mlabonne/llm-datasets) - High\-quality datasets, tools, and concepts for LLM fine\-tuning 
+* 【2024-05-02】[ymcui / Chinese-LLaMA-Alpaca-3](https://github.com/ymcui/Chinese-LLaMA-Alpaca-3) - 中文羊驼大模型三期项目 (Chinese Llama-3 LLMs) developed from Meta Llama 3
+* 【2024-05-02】[kubernetes / community](https://github.com/kubernetes/community) - Kubernetes community content
+* 【2024-05-02】[OpenGVLab / InternVL](https://github.com/OpenGVLab/InternVL) - [CVPR 2024 Oral] InternVL Family: A Pioneering Open\-Source Alternative to GPT\-4V  接近GPT\-4V表现的可商用开源模型
+* 【2024-05-02】[microsoft / vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 * 【2024-05-01】[ItzCrazyKns / Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI\-powered search engine  It is an Open source alternative to Perplexity AI
 * 【2024-05-01】[Kludex / fastapi\-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
 * 【2024-05-01】[zk-Call / zkp-hmac-communication-python](https://github.com/zk-Call/zkp-hmac-communication-python) - "Zero-Knowledge" Proof Implementation with HMAC Communication in Python
@@ -409,6 +416,9 @@
 
 ## Java
 
+* 【2024-05-02】[vvb2060 / KeyAttestation](https://github.com/vvb2060/KeyAttestation) - 
+* 【2024-05-02】[eclipse\-openj9 / openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start\-up, and high throughput  Builds on Eclipse OMR (https://github com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo 
+* 【2024-05-02】[0ofo / Deswing](https://github.com/0ofo/Deswing) - 图形化Java反序列化利用工具，集成Ysoserial
 * 【2024-05-01】[AutoMQ / automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud\-native fork of Kafka by separating storage to S3  10x cost\-effective  Autoscale in seconds  Single\-digit ms latency 
 * 【2024-04-30】[lgp547 / any\-door](https://github.com/lgp547/any-door) - 
 * 【2024-04-29】[BiliRoamingX / BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX) - BiliRoamingX integrations and patches powered by ReVanced 
@@ -509,6 +519,9 @@
 
 ## Python
 
+* 【2024-05-02】[magic\-research / PLLaVA](https://github.com/magic-research/PLLaVA) - Official repository for the paper PLLaVA
+* 【2024-05-02】[UniModal4Reasoning / ChartVLM](https://github.com/UniModal4Reasoning/ChartVLM) - Official Repository of ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning
+* 【2024-05-02】[snap\-stanford / stark](https://github.com/snap-stanford/stark) - Official Code of "STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases"
 * 【2024-05-01】[microsoft / FILM](https://github.com/microsoft/FILM) - Official repo for "Make Your LLM Fully Utilize the Context"
 * 【2024-05-01】[VinciGit00 / Scrapegraph\-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 * 【2024-04-30】[xlang-ai / OSWorld](https://github.com/xlang-ai/OSWorld) - OSWorld: A real computer environment for multimodal agents to evaluate open-ended computer tasks
@@ -844,6 +857,9 @@
 
 ## Javascript
 
+* 【2024-05-02】[ibrahimaitech / IBRAHIM-MD](https://github.com/ibrahimaitech/IBRAHIM-MD) - Black panther md the fastest wabot that helps WhatsApp users to enjoy smooth life
+* 【2024-05-02】[hjdhnx / hipy\-server](https://github.com/hjdhnx/hipy-server) - hipy t4服务后端
+* 【2024-05-02】[virus010101 / linfeng-community](https://github.com/virus010101/linfeng-community) - 林风社交论坛小程序|H5论坛|app论坛是java+vue+uniapp开发的前后端分离社交论坛问答发帖/BBS项目，包括论坛图文帖，视频，圈子，IM私聊，微信支付，付费贴，积分签到，钱包充值等论坛小程序论坛app完整功能
 * 【2024-05-01】[virus010101 / linfeng\-community](https://github.com/virus010101/linfeng-community) - 林风社交论坛小程序\|H5论坛\|app论坛是java+vue+uniapp开发的前后端分离社交论坛问答发帖/BBS项目，包括论坛图文帖，视频，圈子，IM私聊，微信支付，付费贴，积分签到，钱包充值等论坛小程序论坛app完整功能
 * 【2024-04-30】[ibrahimaitech / IBRAHIM\-MD](https://github.com/ibrahimaitech/IBRAHIM-MD) - Black panther md the fastest wabot that helps WhatsApp users to enjoy smooth life
 * 【2024-04-30】[jadehh / TVSpider](https://github.com/jadehh/TVSpider) - 影视和猫影视爬虫仓库
@@ -1034,6 +1050,8 @@
 
 ## Go
 
+* 【2024-05-02】[appleboy / gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang) 
+* 【2024-05-02】[kaytu\-io / kaytu](https://github.com/kaytu-io/kaytu) - The Kaytu CLI helps you save on cloud costs by finding the perfect server sizes  Kaytu analyzes historical usage and provides tailored recommendations, ensuring you only pay for the resources you need 
 * 【2024-04-29】[talostrading / sonic](https://github.com/talostrading/sonic) - Sonic is a Go library for network and I/O programming that provides developers with a consistent asynchronous model, with a focus on achieving the lowest possible latency and jitter in Go 
 * 【2024-04-27】[zk\-Call / zkp\-hmac\-communication\-go](https://github.com/zk-Call/zkp-hmac-communication-go) - "Zero\-Knowledge" Proof Implementation with HMAC Communication in Go
 * 【2024-04-27】[Dhravya / radish](https://github.com/Dhravya/radish) - Super fast drop\-in replacement of the in memory key\-value store Redis, made in Golang
@@ -1149,6 +1167,7 @@
 
 ## C
 
+* 【2024-05-02】[Polprzewodnikowy / SummerCart64](https://github.com/Polprzewodnikowy/SummerCart64) - SummerCart64 \- a fully open source N64 flashcart
 * 【2024-05-01】[exploits\-forsale / CVE\-2024\-21345](https://github.com/exploits-forsale/CVE-2024-21345) - Proof\-of\-Concept for CVE\-2024\-21345
 * 【2024-05-01】[gyf304 / dotenv](https://github.com/gyf304/dotenv) - Standalone, language agnostic dotenv
 * 【2024-05-01】[exploits\-forsale / CVE\-2024\-26218](https://github.com/exploits-forsale/CVE-2024-26218) - Proof\-of\-Concept for CVE\-2024\-26218
@@ -1377,6 +1396,7 @@
 
 ## C#
 
+* 【2024-05-02】[mixandjam / balatro\-feel](https://github.com/mixandjam/balatro-feel) - Recreating the basic Game Feel from Balatro
 * 【2024-05-01】[project\-fika / Fika\-Plugin](https://github.com/project-fika/Fika-Plugin) - Client\-side changes to make multiplayer work
 * 【2024-05-01】[stayintarkov / SIT Manager Avalonia](https://github.com/stayintarkov/SIT.Manager.Avalonia) - 
 * 【2024-05-01】[InvoxiPlayGames / FestivalInstrumentMapper](https://github.com/InvoxiPlayGames/FestivalInstrumentMapper) - Maps most existing Rock Band / Guitar Hero instruments as Xbox One instruments for Fortnite Festival 
@@ -1516,6 +1536,8 @@
 
 ## Html
 
+* 【2024-05-02】[microsoft / BotFramework-WebChat](https://github.com/microsoft/BotFramework-WebChat) - A highly-customizable web-based client for Azure Bot Services.
+* 【2024-05-02】[opipari / DeepRobWeb](https://github.com/opipari/DeepRobWeb) - Deep Learning for Robot Perception
 * 【2024-05-01】[macadmins / sofa](https://github.com/macadmins/sofa) - SOFA \| A MacAdmin's Simple Organized Feed for Apple Software Updates
 * 【2024-05-01】[hegdepavankumar / Cisco-Images-for-GNS3-and-EVE-NG](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG) - Free Images for EVE-NG and GNS3 containing routers, switches,Firewalls and other appliances, including Cisco, Fortigate, Palo Alto, Sophos and more. Master the art of networking and improve your skills!, our repository provides a one-stop solution for a comprehensive hands-on experience.
 * 【2024-05-01】[TacoGuy21 / ByeBlocker](https://github.com/TacoGuy21/ByeBlocker) - The only TRULY UNBLOCKABLE proxy that works on Netlify, codepen, playcode, as a bookmarklet, never shows up in your history, and MORE! (The ONLY unblocker that works on static hosts)
@@ -1747,6 +1769,10 @@
 
 ## Unknown
 
+* 【2024-05-02】[mlabonne / llm-datasets](https://github.com/mlabonne/llm-datasets) - High-quality datasets, tools, and concepts for LLM fine-tuning.
+* 【2024-05-02】[codenihar / ml](https://github.com/codenihar/ml) - This repo contains all the resources related to the massive mass coders machine learning series
+* 【2024-05-02】[dinaashraf20003 / Software-Internship-Guide](https://github.com/dinaashraf20003/Software-Internship-Guide) - Software Internship Guide for Egyptian Undergraduates
+* 【2024-05-02】[KQLMSPress / definitive\-guide\-kql](https://github.com/KQLMSPress/definitive-guide-kql) - Sample queries and data as part of the Microsoft Press book, The Definitive Guide to KQL
 * 【2024-05-01】[Kludex / fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
 * 【2024-05-01】[harsharock / BaseCamp](https://github.com/harsharock/BaseCamp) - BaseCamp Contracts
 * 【2024-05-01】[jkiolppm / Crypto\-Miner\-Soft](https://github.com/jkiolppm/Crypto-Miner-Soft) - miner bitcoin\-mining crypto\-miner bitcoin\-miner cryptocurrency\-mining xmr\-miner dual\-mining ton\-miner btc\-miner rvn\-miner xna\-miner ergo\-miner kas\-miner neox\-miner ctxc\-miner zephyr\-miner zeph\-miner aeon\-miner zcash\-miner open\-sources\-code\-github
@@ -2076,6 +2102,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-02】[rust\-lang / rust\-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries 
+* 【2024-05-02】[getsentry / sentry\-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry 
 * 【2024-05-01】[obhq / jailbreak-11](https://github.com/obhq/jailbreak-11) - Experimental PS4 jailbreak for 11.00 and lower
 * 【2024-05-01】[say4n / jf](https://github.com/say4n/jf) - flatten them json
 * 【2024-04-30】[not\-fl3 / macroquad](https://github.com/not-fl3/macroquad) - Cross\-platform game engine in Rust 
@@ -2367,6 +2395,12 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-02】[felipemotarocha / fullstackweek-foods](https://github.com/felipemotarocha/fullstackweek-foods) - 
+* 【2024-05-02】[cyanff / anime.gf](https://github.com/cyanff/anime.gf) - Local & Open Source Alternative to CharacterAI
+* 【2024-05-02】[Dokploy / dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku 
+* 【2024-05-02】[ItsSpyce / dailies\-tracker](https://github.com/ItsSpyce/dailies-tracker) - 
+* 【2024-05-02】[4gray / iptvnator](https://github.com/4gray/iptvnator) - 📺 Cross\-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more 
+* 【2024-05-02】[tusen-ai / naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 * 【2024-05-01】[module-federation / core](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications
 * 【2024-05-01】[warden-protocol / wardenprotocol](https://github.com/warden-protocol/wardenprotocol) - 
 * 【2024-05-01】[Aylur / ags](https://github.com/Aylur/ags) - A customizable and extensible shell
