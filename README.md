@@ -24,6 +24,10 @@
 
 ## All language
 
+* 【2024-05-04】[KindXiaoming / pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
+* 【2024-05-04】[GistNoesis / FourierKAN](https://github.com/GistNoesis/FourierKAN) - 
+* 【2024-05-04】[a\-real\-ai / pywinassistant](https://github.com/a-real-ai/pywinassistant) - The first open source Large Action Model generalist Artificial Narrow Intelligence that controls completely human user interfaces by only using natural language  PyWinAssistant utilizes Visualization\-of\-Thought Elicits Spatial Reasoning in Large Language Models 
+* 【2024-05-04】[fcori47 / basdonax\-ai\-rag](https://github.com/fcori47/basdonax-ai-rag) - 
 * 【2024-05-03】[dnhkng / GlaDOS](https://github.com/dnhkng/GlaDOS) - Personality Core
 * 【2024-05-03】[TheOfficialFloW / PPPwn](https://github.com/TheOfficialFloW/PPPwn) - PPPwn \- PlayStation 4 PPPoE RCE
 * 【2024-05-03】[dylanaraps / neofetch](https://github.com/dylanaraps/neofetch) - 🖼️ A command\-line system information tool written in bash 3 2+
@@ -421,6 +425,8 @@
 
 ## Java
 
+* 【2024-05-04】[GoogleCloudPlatform / spring\-cloud\-gcp](https://github.com/GoogleCloudPlatform/spring-cloud-gcp) - New home for Spring Cloud GCP development starting with version 2 0 
+* 【2024-05-04】[lgp547 / any-door](https://github.com/lgp547/any-door) - 
 * 【2024-05-02】[vvb2060 / KeyAttestation](https://github.com/vvb2060/KeyAttestation) - 
 * 【2024-05-02】[eclipse\-openj9 / openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start\-up, and high throughput  Builds on Eclipse OMR (https://github com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo 
 * 【2024-05-02】[0ofo / Deswing](https://github.com/0ofo/Deswing) - 图形化Java反序列化利用工具，集成Ysoserial
@@ -524,6 +530,13 @@
 
 ## Python
 
+* 【2024-05-04】[a-real-ai / pywinassistant](https://github.com/a-real-ai/pywinassistant) - The first open source Large Action Model generalist Artificial Narrow Intelligence that controls completely human user interfaces by only using natural language. PyWinAssistant utilizes Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models.
+* 【2024-05-04】[fcori47 / basdonax-ai-rag](https://github.com/fcori47/basdonax-ai-rag) - 
+* 【2024-05-04】[e2b\-dev / code\-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for adding code interpreting to your AI app
+* 【2024-05-04】[pyinfra-dev / pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns your Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to thousands.
+* 【2024-05-04】[dai\-motoki / zoltraak](https://github.com/dai-motoki/zoltraak) - 
+* 【2024-05-04】[ToTheBeginning / PuLID](https://github.com/ToTheBeginning/PuLID) - Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment
+* 【2024-05-04】[xcapt0 / gpt2_chatbot](https://github.com/xcapt0/gpt2_chatbot) - ☕ GPT\-2 chatbot for daily conversation
 * 【2024-05-03】[pyinfra\-dev / pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra automates infrastructure using Python  It’s fast and scales from one server to thousands  Great for ad\-hoc command execution, service deployment, configuration management and more 
 * 【2024-05-03】[P1sec / QCSuper](https://github.com/P1sec/QCSuper) - QCSuper is a tool communicating with Qualcomm\-based phones and modems, allowing to capture raw 2G/3G/4G radio frames, among other things 
 * 【2024-05-03】[run\-llama / llama_parse](https://github.com/run-llama/llama_parse) - Parse files for optimal RAG
@@ -866,6 +879,8 @@
 
 ## Javascript
 
+* 【2024-05-04】[mouricedevs / Gifted-Md](https://github.com/mouricedevs/Gifted-Md) - Gifted Md is a Cool Multi-Device WhatsApp bot which offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+* 【2024-05-04】[TacoGuy21 / Greatsword-V3](https://github.com/TacoGuy21/Greatsword-V3) - ***Please star if you fork*** (This is an unblocker, link making tutorial attached below.)
 * 【2024-05-03】[IvanGlinkin / CCTV](https://github.com/IvanGlinkin/CCTV) - Close\-Circuit Telegram Vision revolutionizes location tracking with its open\-source design and Telegram API integration  Offering precise tracking within 50\-100 meters, users can monitor others in real\-time for logistics or safety, redefining how we navigate our surroundings
 * 【2024-05-03】[mouricedevs / Gifted\-Md](https://github.com/mouricedevs/Gifted-Md) - Gifted Md is a Cool Multi\-Device WhatsApp bot which offers a wide range of extraordinary features, making it an advanced and user\-friendly bot for various purposes 
 * 【2024-05-03】[TacoGuy21 / Greatsword\-V3](https://github.com/TacoGuy21/Greatsword-V3) - ***Please star if you fork*** (This is an unblocker, link making tutorial attached below )
@@ -1062,6 +1077,7 @@
 
 ## Go
 
+* 【2024-05-04】[zk-Call / zkp-hmac-communication-go](https://github.com/zk-Call/zkp-hmac-communication-go) - "Zero-Knowledge" Proof Implementation with HMAC Communication in Go
 * 【2024-05-02】[appleboy / gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang) 
 * 【2024-05-02】[kaytu\-io / kaytu](https://github.com/kaytu-io/kaytu) - The Kaytu CLI helps you save on cloud costs by finding the perfect server sizes  Kaytu analyzes historical usage and provides tailored recommendations, ensuring you only pay for the resources you need 
 * 【2024-04-29】[talostrading / sonic](https://github.com/talostrading/sonic) - Sonic is a Go library for network and I/O programming that provides developers with a consistent asynchronous model, with a focus on achieving the lowest possible latency and jitter in Go 
@@ -1304,6 +1320,9 @@
 
 ## C++
 
+* 【2024-05-04】[zk-Call / zkp-hmac-communication-cpp](https://github.com/zk-Call/zkp-hmac-communication-cpp) - "Zero-Knowledge" Proof Implementation with HMAC Communication in C++
+* 【2024-05-04】[AztecProtocol / aztec-packages](https://github.com/AztecProtocol/aztec-packages) - 
+* 【2024-05-04】[geektcp / Everwar](https://github.com/geektcp/Everwar) - everwar wow game server c++ 开源魔兽世界 https://uewow com
 * 【2024-05-03】[open\-navigation / navigation2](https://github.com/open-navigation/navigation2) - ROS 2 Navigation Framework and System
 * 【2024-05-03】[30hours / blah2](https://github.com/30hours/blah2) - A real\-time passive radar
 * 【2024-05-01】[sherlockchou86 / VideoPipe](https://github.com/sherlockchou86/VideoPipe) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。
@@ -1411,6 +1430,9 @@
 
 ## C#
 
+* 【2024-05-04】[blake502 / balatro-mobile-maker](https://github.com/blake502/balatro-mobile-maker) - Create a mobile Balatro app from your Steam version of Balatro
+* 【2024-05-04】[xM4ddy / OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11
+* 【2024-05-04】[TippingGame / F8Framework](https://github.com/TippingGame/F8Framework) - F8 Framework是一个优雅，轻量，符合直觉的基于Unity引擎的Game Framework，组件围绕F8一键启动，框架整体遵循以极少的使用成本开发游戏。
 * 【2024-05-03】[blake502 / balatro\-mobile\-maker](https://github.com/blake502/balatro-mobile-maker) - Create a mobile Balatro app from your Steam version of Balatro
 * 【2024-05-03】[Master\-s / PS4\-9 00\-11 00\-PoC\-bin\-loader](https://github.com/Master-s/PS4-9.00-11.00-PoC-bin-loader) - PS4\-9 00\-11 00\-PoC\-bin\-loader
 * 【2024-05-03】[thisisnabi / Blogger](https://github.com/thisisnabi/Blogger) - Clean Architecture, CQRS, and DDD Implementation by ASP NET Core Blog problem domain 
@@ -1558,6 +1580,7 @@
 
 ## Html
 
+* 【2024-05-04】[The\-Marcy\-Lab\-School / 2\-2\-css\-practice\-nirvana](https://github.com/The-Marcy-Lab-School/2-2-css-practice-nirvana) - 
 * 【2024-05-02】[microsoft / BotFramework-WebChat](https://github.com/microsoft/BotFramework-WebChat) - A highly-customizable web-based client for Azure Bot Services.
 * 【2024-05-02】[opipari / DeepRobWeb](https://github.com/opipari/DeepRobWeb) - Deep Learning for Robot Perception
 * 【2024-05-01】[macadmins / sofa](https://github.com/macadmins/sofa) - SOFA \| A MacAdmin's Simple Organized Feed for Apple Software Updates
@@ -1791,6 +1814,8 @@
 
 ## Unknown
 
+* 【2024-05-04】[birobirobiro / awesome\-shadcn\-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui 
+* 【2024-05-04】[githubnext / copilot\-workspace\-user\-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
 * 【2024-05-03】[CeliaLyu / DataStructure\-Algorithm\-Intro](https://github.com/CeliaLyu/DataStructure-Algorithm-Intro) - 
 * 【2024-05-03】[Guilouz / Creality\-Helper\-Script\-Wiki](https://github.com/Guilouz/Creality-Helper-Script-Wiki) - Wiki for Creality Helper Script
 * 【2024-05-02】[mlabonne / llm-datasets](https://github.com/mlabonne/llm-datasets) - High-quality datasets, tools, and concepts for LLM fine-tuning.
@@ -2126,6 +2151,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-04】[borgo-lang / borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
+* 【2024-05-04】[meteroid\-oss / meteroid](https://github.com/meteroid-oss/meteroid) - Open\-source Pricing and Billing Infrastructure 🚀 Subscription management, Invoicing, Pricing, Usage\-based billing, Cost limiting, Grandfathering, Experiments, Revenue analytics & Actionable insights
+* 【2024-05-04】[getsentry / sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
 * 【2024-05-03】[borgo\-lang / borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go 
 * 【2024-05-03】[image\-rs / image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 * 【2024-05-02】[rust\-lang / rust\-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries 
@@ -2421,6 +2449,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-04】[openai / openai\-assistants\-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next js 
+* 【2024-05-04】[cometchat / cometchat\-sample\-app\-react](https://github.com/cometchat/cometchat-sample-app-react) - Voice & Video Calling and Text Chat App for React (JavaScript/Web)
+* 【2024-05-04】[cezaraugusto / extension.js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug-and-play, zero-config, cross-browser extension development tool.
+* 【2024-05-04】[github\-early\-access / generate\-build\-provenance](https://github.com/github-early-access/generate-build-provenance) - Publish a signed build provenance from your GitHub Actions workflow
 * 【2024-05-03】[cezaraugusto / extension js](https://github.com/cezaraugusto/extension.js) - 🧩 Plug\-and\-play, zero\-config, cross\-browser extension development tool 
 * 【2024-05-03】[aws / aws\-toolkit\-vscode](https://github.com/aws/aws-toolkit-vscode) - Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
 * 【2024-05-03】[Kliton / budget_tracker](https://github.com/Kliton/budget_tracker) - 
