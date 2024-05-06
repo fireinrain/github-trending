@@ -24,6 +24,9 @@
 
 ## All language
 
+* 【2024-05-06】[Blealtan / efficient\-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure\-PyTorch implementation of Kolmogorov\-Arnold Network (KAN) 
+* 【2024-05-06】[lmstudio-ai / lms](https://github.com/lmstudio-ai/lms) - LM Studio in your terminal
+* 【2024-05-06】[HVision\-NKU / StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
 * 【2024-05-05】[adrianhajdin / banking](https://github.com/adrianhajdin/banking) - Horizon is a modern banking platform for everyone 
 * 【2024-05-05】[verlab / accelerated_features](https://github.com/verlab/accelerated_features) - Do you need robust and fast local feature extraction? You are in the right place!
 * 【2024-05-04】[KindXiaoming / pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
@@ -533,6 +536,13 @@
 
 ## Python
 
+* 【2024-05-06】[Blealtan / efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
+* 【2024-05-06】[eureka\-research / DrEureka](https://github.com/eureka-research/DrEureka) - 
+* 【2024-05-06】[edgedb / edgedb](https://github.com/edgedb/edgedb) - A graph\-relational database with declarative schema, built\-in migration system, and a next\-generation query language
+* 【2024-05-06】[prometheus\-eval / prometheus\-eval](https://github.com/prometheus-eval/prometheus-eval) - Evaluate your LLM's response with Prometheus 💯
+* 【2024-05-06】[PSGO / PPPwnGo](https://github.com/PSGO/PPPwnGo) - 
+* 【2024-05-06】[NVlabs / DoRA](https://github.com/NVlabs/DoRA) - [ICML2024] Official PyTorch implementation of DoRA: Weight\-Decomposed Low\-Rank Adaptation
+* 【2024-05-06】[SCLBD / DeepfakeBench](https://github.com/SCLBD/DeepfakeBench) - A comprehensive benchmark of deepfake detection
 * 【2024-05-05】[pypa / pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 * 【2024-05-05】[florestefano1975 / ComfyUI\-HiDiffusion](https://github.com/florestefano1975/ComfyUI-HiDiffusion) - 
 * 【2024-05-05】[e2b-dev / code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for adding code interpreting to your AI app
@@ -890,6 +900,10 @@
 
 ## Javascript
 
+* 【2024-05-06】[Astropeda / Asta\-Md](https://github.com/Astropeda/Asta-Md) - ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀsᴛʀᴏᴘᴇᴅᴀ ᴛᴇᴀᴍ
+* 【2024-05-06】[surfbryce / beautiful-lyrics](https://github.com/surfbryce/beautiful-lyrics) - Completely revolutionizes the Spotify Lyrics Experience by introducing Live Lyrics, Dynamic Backgrounds, and Immersive Views
+* 【2024-05-06】[automatisch / automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative  Build workflow automation without spending time and money 
+* 【2024-05-06】[ibrahimaitech / IBRAHIM\-AI\-10 10](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
 * 【2024-05-05】[Pandasswap / PancakeswapBot](https://github.com/Pandasswap/PancakeswapBot) - PancakeSwap Prediction Bot
 * 【2024-05-05】[tencent\-connect / bot\-docs](https://github.com/tencent-connect/bot-docs) - QQ频道机器人文档
 * 【2024-05-05】[AbhishekSuresh2 / Phoenix\-MD](https://github.com/AbhishekSuresh2/Phoenix-MD) - ℹ️ A Simple WhatsApp Bot With Advanced Features
@@ -1091,6 +1105,8 @@
 
 ## Go
 
+* 【2024-05-06】[missuo / FreeDuckDuckGo](https://github.com/missuo/FreeDuckDuckGo) - Use DuckDuckGo for free with GPT\-3 5\-Turbo 
+* 【2024-05-06】[Layr-Labs / eigenda](https://github.com/Layr-Labs/eigenda) - Secure, high-throughput, and decentralized Data Availability
 * 【2024-05-05】[charmbracelet / wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 * 【2024-05-04】[zk-Call / zkp-hmac-communication-go](https://github.com/zk-Call/zkp-hmac-communication-go) - "Zero-Knowledge" Proof Implementation with HMAC Communication in Go
 * 【2024-05-02】[appleboy / gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang) 
@@ -1210,6 +1226,9 @@
 
 ## C
 
+* 【2024-05-06】[danielchasehooper / ShapeUp-public](https://github.com/danielchasehooper/ShapeUp-public) - A 3D Modeler Made in a Week
+* 【2024-05-06】[asg017 / sqlite\-vec](https://github.com/asg017/sqlite-vec) - Work\-in\-progress vector search SQLite extension that runs anywhere 
+* 【2024-05-06】[WillPower3309 / swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 * 【2024-05-05】[tsalvo / wipeoutPD](https://github.com/tsalvo/wipeoutPD) - port of wipeout\-rewrite to Playdate
 * 【2024-05-05】[danielchasehooper / ShapeUp\-public](https://github.com/danielchasehooper/ShapeUp-public) - A 3D Modeler Made in a Week
 * 【2024-05-03】[cpldcpu / BitNetMCU](https://github.com/cpldcpu/BitNetMCU) - Neural Networks with low bit weights on a CH32V003 RISC\-V Microcontroller without multiplication
@@ -1451,6 +1470,8 @@
 
 ## C#
 
+* 【2024-05-06】[Ephilipz / 1brc net](https://github.com/Ephilipz/1brc.net) - 
+* 【2024-05-06】[paternostrox / Minecraft4Unity](https://github.com/paternostrox/Minecraft4Unity) - A minimal and very optimized version of Minecraft made in Unity, virtually endless in all three axis 
 * 【2024-05-05】[PreaawX / Aviator\-Predictor\-FULL](https://github.com/PreaawX/Aviator-Predictor-FULL) - Aviator Predictor is a tool designed for predicting multipliers in the Aviator betting game, helping players secure their earnings 
 * 【2024-05-04】[blake502 / balatro-mobile-maker](https://github.com/blake502/balatro-mobile-maker) - Create a mobile Balatro app from your Steam version of Balatro
 * 【2024-05-04】[xM4ddy / OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11
@@ -1602,6 +1623,7 @@
 
 ## Html
 
+* 【2024-05-06】[nature\-of\-code / noc\-book\-2](https://github.com/nature-of-code/noc-book-2) - Nature of Code with p5 js and Notion workflow / build system 
 * 【2024-05-05】[yoheinakajima / prettygraph](https://github.com/yoheinakajima/prettygraph) - An experimental UI for text\-to\-knowledge\-graph generation
 * 【2024-05-05】[MicroStrategy / did\-btc\-spec](https://github.com/MicroStrategy/did-btc-spec) - did:btc Method Specification
 * 【2024-05-05】[sz\-games / sz\-games github io](https://github.com/sz-games/sz-games.github.io) - The Best Way To Play Games In School
@@ -1839,6 +1861,7 @@
 
 ## Unknown
 
+* 【2024-05-06】[CrealityOfficial / CrealityPrint](https://github.com/CrealityOfficial/CrealityPrint) - 
 * 【2024-05-05】[Ouckah / Summer2025\-Internships](https://github.com/Ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-05-05】[birobirobiro / awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 * 【2024-05-05】[githubnext / copilot-workspace-user-manual](https://github.com/githubnext/copilot-workspace-user-manual) - 📖 The user manual for GitHub Copilot Workspace
@@ -2181,6 +2204,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-06】[keep\-starknet\-strange / madara](https://github.com/keep-starknet-strange/madara) - Building the Integrity Web  The most modular ZK Rollup framework 
 * 【2024-05-05】[image-rs / image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 * 【2024-05-05】[KKRainbow / EasyTier](https://github.com/KKRainbow/EasyTier) - A simple, decentralized mesh VPN with WireGuard support 
 * 【2024-05-05】[pcwalton / offset\-allocator](https://github.com/pcwalton/offset-allocator) - A port of Sebastian Aaltonen's  OffsetAllocator  to Rust
@@ -2482,6 +2506,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-06】[bepass\-org / oblivion\-desktop](https://github.com/bepass-org/oblivion-desktop) - unofficial desktop version of oblivion
+* 【2024-05-06】[RSSNext / follow](https://github.com/RSSNext/follow) - [WIP] Next generation information browser
+* 【2024-05-06】[danmindru / page\-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next js, built on top of TailwindCSS
 * 【2024-05-05】[openai / openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
 * 【2024-05-05】[github-early-access / generate-build-provenance](https://github.com/github-early-access/generate-build-provenance) - Publish a signed build provenance from your GitHub Actions workflow
 * 【2024-05-05】[lmstudio\-ai / lms](https://github.com/lmstudio-ai/lms) - LM Studio in your terminal
