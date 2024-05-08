@@ -24,6 +24,9 @@
 
 ## All language
 
+* 【2024-05-08】[AtotheY / saas-landingpage](https://github.com/AtotheY/saas-landingpage) - https://map.sistilli.dev/public/coding/SaaS+Boilerplate
+* 【2024-05-08】[tangzhiyao / boss\-show\-time](https://github.com/tangzhiyao/boss-show-time) - 展示boss直聘岗位的发布时间
+* 【2024-05-08】[ca110us / epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach
 * 【2024-05-07】[HVision-NKU / StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
 * 【2024-05-07】[dev\-xo / remix\-saas](https://github.com/dev-xo/remix-saas) - A Lightweight, Production\-Ready Remix Stack for your next SaaS Application 
 * 【2024-05-07】[abi / secret\-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed  Supports Mistral and LLama 3 
@@ -543,6 +546,10 @@
 
 ## Python
 
+* 【2024-05-08】[NVlabs / RADIO](https://github.com/NVlabs/RADIO) - Official repository for "AM\-RADIO: Reduce All Domains Into One"
+* 【2024-05-08】[Efficient-Large-Model / VILA](https://github.com/Efficient-Large-Model/VILA) - VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)
+* 【2024-05-08】[dmunozv04 / iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients 
+* 【2024-05-08】[RevoltSecurities / Subdominator](https://github.com/RevoltSecurities/Subdominator) - SubDominator helps you discover subdomains associated with a target domain efficiently and with minimal impact for your Bug Bounty
 * 【2024-05-07】[eureka-research / DrEureka](https://github.com/eureka-research/DrEureka) - 
 * 【2024-05-07】[judahpaul16 / gpt\-home](https://github.com/judahpaul16/gpt-home) - ChatGPT at home! Basically a better Google Nest Hub or Amazon Alexa home assistant  Built on the Raspberry Pi using the OpenAI API 
 * 【2024-05-07】[Efficient\-Large\-Model / VILA](https://github.com/Efficient-Large-Model/VILA) - VILA \- a multi\-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)
@@ -911,6 +918,7 @@
 
 ## Javascript
 
+* 【2024-05-08】[tangzhiyao / boss-show-time](https://github.com/tangzhiyao/boss-show-time) - 展示boss直聘岗位的发布时间
 * 【2024-05-07】[ibrahimaitech / IBRAHIM-AI-10.10](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
 * 【2024-05-06】[Astropeda / Asta\-Md](https://github.com/Astropeda/Asta-Md) - ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀsᴛʀᴏᴘᴇᴅᴀ ᴛᴇᴀᴍ
 * 【2024-05-06】[surfbryce / beautiful-lyrics](https://github.com/surfbryce/beautiful-lyrics) - Completely revolutionizes the Spotify Lyrics Experience by introducing Live Lyrics, Dynamic Backgrounds, and Immersive Views
@@ -1373,6 +1381,7 @@
 
 ## C++
 
+* 【2024-05-08】[dillo\-browser / dillo](https://github.com/dillo-browser/dillo) - Dillo, a multi\-platform graphical web browser
 * 【2024-05-07】[litucks / torzu](https://github.com/litucks/torzu) - Yet another Yuzu fork
 * 【2024-05-05】[rondagayman307 / WhatsApp\-Web\-Spammer](https://github.com/rondagayman307/WhatsApp-Web-Spammer) - whatsapp web spammer 💥 spammer for whatsapp web 2024 latest update 💥 simple script to spam people on whatsapp web  whatsapp web spammer whatsapp spammer whatsapp message spammer whatsapp group spammer whatsapp web spammer whatsapp spammer whatsapp message spammer whatsapp group spammer whatsapp web spammer whatsapp spammer whatsap scripts tools
 * 【2024-05-05】[rubakloedeil10 / WarfaceHCK](https://github.com/rubakloedeil10/WarfaceHCK) - warface warface\-cheat warface\-cheats warface\-aim warface\-aimbot warface\-hack warface\-hacks warface\-esp warface\-wallhack warface\-wh warface\-softaim cheat\-warface cheats\-warface hack\-warface hacks\-warface warface\-free\-hack warface\-hack\-aim warface\-legit warface\-rage\-download\-free\-warface\-speedbot\-warface\-2024\-best\-cheats\-warface\-mod\-menu\-skin\-changer
@@ -1488,6 +1497,8 @@
 
 ## C#
 
+* 【2024-05-08】[CCob / okta\-terrify](https://github.com/CCob/okta-terrify) - Okta Verify and Okta FastPass Abuse Tool
+* 【2024-05-08】[oureveryday / Steam-auto-crack](https://github.com/oureveryday/Steam-auto-crack) - Steam Game Automatic Cracker
 * 【2024-05-07】[Ephilipz / 1brc.net](https://github.com/Ephilipz/1brc.net) - 
 * 【2024-05-07】[oureveryday / Steam\-auto\-crack](https://github.com/oureveryday/Steam-auto-crack) - Steam Game Automatic Cracker
 * 【2024-05-07】[StyxEnc / Styx\-File\-Protection](https://github.com/StyxEnc/Styx-File-Protection) - Provides Styx Multi Tool Legend Scan results working with License Key
@@ -1645,6 +1656,8 @@
 
 ## Html
 
+* 【2024-05-08】[drduh / YubiKey\-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
+* 【2024-05-08】[supertestnet / coinjoin\-workshop](https://github.com/supertestnet/coinjoin-workshop) - A workshop on constructing coinjoin transactions without a coordinator
 * 【2024-05-07】[DeadCoder1722 / Kick\-VIewer\-Bot](https://github.com/DeadCoder1722/Kick-VIewer-Bot) - 
 * 【2024-05-07】[sauravhathi / lpu\-cse](https://github.com/sauravhathi/lpu-cse) - Lovely Professional University End Term Exam Question Papers with Answers, Study Materials, Projects, Roadmap, and more 
 * 【2024-05-06】[nature\-of\-code / noc\-book\-2](https://github.com/nature-of-code/noc-book-2) - Nature of Code with p5 js and Notion workflow / build system 
@@ -1885,6 +1898,8 @@
 
 ## Unknown
 
+* 【2024-05-08】[raultrades / SMA\-outfits](https://github.com/raultrades/SMA-outfits) - Analysis of SMA outfit (blackbox) use in public equity markets for real\-time insight into wealth distribution and direct stock market influence  A call for transparency and public discourse 
+* 【2024-05-08】[youssefHosni / Awesome\-AI\-Data\-Guided\-Projects](https://github.com/youssefHosni/Awesome-AI-Data-Guided-Projects) - A curated list of data science & AI guided projects to start building your portfolio
 * 【2024-05-07】[casubsverssnor1979 / Aviator\-Prediction\-App](https://github.com/casubsverssnor1979/Aviator-Prediction-App) - 1
 * 【2024-05-07】[kolesarm / 539b](https://github.com/kolesarm/539b) - (Advanced) Applied Econometrics
 * 【2024-05-07】[jacobdjwilson / awesome\-annual\-security\-reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) - A curated list of annual cyber security reports
@@ -2232,6 +2247,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-08】[sharkdp / fd](https://github.com/sharkdp/fd) - A simple, fast and user\-friendly alternative to 'find'
+* 【2024-05-08】[get\-convex / convex\-backend](https://github.com/get-convex/convex-backend) - Open source single\-machine version of the Convex backend
+* 【2024-05-08】[winnow\-rs / winnow](https://github.com/winnow-rs/winnow) - Making parsing a breeze
 * 【2024-05-07】[verus\-lang / verus](https://github.com/verus-lang/verus) - Verified Rust for low\-level systems code
 * 【2024-05-07】[yetone / get\-selected\-text](https://github.com/yetone/get-selected-text) - A tiny Rust library that allows you to easily obtain selected text across all platforms (macOS, Windows, Linux) 
 * 【2024-05-06】[keep\-starknet\-strange / madara](https://github.com/keep-starknet-strange/madara) - Building the Integrity Web  The most modular ZK Rollup framework 
@@ -2536,6 +2554,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-08】[joschan21 / casecobra](https://github.com/joschan21/casecobra) - A Modern E\-Commerce\-Store for Custom Phone Cases
+* 【2024-05-08】[Hiram-Wong / ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer) - 跨平台桌面端视频资源播放器,免费高颜值.
+* 【2024-05-08】[run\-llama / LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - LlamaIndex is a data framework for your LLM applications
+* 【2024-05-08】[coder / code-server](https://github.com/coder/code-server) - VS Code in the browser
 * 【2024-05-07】[dev-xo / remix-saas](https://github.com/dev-xo/remix-saas) - A Lightweight, Production-Ready Remix Stack for your next SaaS Application.
 * 【2024-05-07】[abi / secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
 * 【2024-05-07】[AtotheY / saas\-landingpage](https://github.com/AtotheY/saas-landingpage) - https://map sistilli dev/public/coding/SaaS+Boilerplate
