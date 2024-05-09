@@ -24,6 +24,10 @@
 
 ## All language
 
+* 【2024-05-09】[huggingface / lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: State\-of\-the\-art Machine Learning for Real\-World Robotics in Pytorch
+* 【2024-05-09】[hbb1 / 2d\-gaussian\-splatting](https://github.com/hbb1/2d-gaussian-splatting) - [SIGGRAPH'24] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields
+* 【2024-05-09】[IcarusRyy / NewJob](https://github.com/IcarusRyy/NewJob) - 一眼看出该职位最后修改时间，绿色为2周之内，暗橙色为1 5个月之内，红色为1 5个月以上
+* 【2024-05-09】[Sh4yy / personal\-ai](https://github.com/Sh4yy/personal-ai) - 
 * 【2024-05-08】[AtotheY / saas-landingpage](https://github.com/AtotheY/saas-landingpage) - https://map.sistilli.dev/public/coding/SaaS+Boilerplate
 * 【2024-05-08】[tangzhiyao / boss\-show\-time](https://github.com/tangzhiyao/boss-show-time) - 展示boss直聘岗位的发布时间
 * 【2024-05-08】[ca110us / epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach
@@ -546,6 +550,9 @@
 
 ## Python
 
+* 【2024-05-09】[hbb1 / 2d-gaussian-splatting](https://github.com/hbb1/2d-gaussian-splatting) - [SIGGRAPH'24] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields
+* 【2024-05-09】[Kroery / DiffMOT](https://github.com/Kroery/DiffMOT) - code for CVPR2024 paper: DiffMOT: A Real\-time Diffusion\-based Multiple Object Tracker with Non\-linear Prediction
+* 【2024-05-09】[instructlab / instructlab](https://github.com/instructlab/instructlab) - Command\-line interface  Use this to chat with the model or train the model (training consumes the taxonomy data)
 * 【2024-05-08】[NVlabs / RADIO](https://github.com/NVlabs/RADIO) - Official repository for "AM\-RADIO: Reduce All Domains Into One"
 * 【2024-05-08】[Efficient-Large-Model / VILA](https://github.com/Efficient-Large-Model/VILA) - VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)
 * 【2024-05-08】[dmunozv04 / iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients 
@@ -918,6 +925,8 @@
 
 ## Javascript
 
+* 【2024-05-09】[heyseth / worm\-sim](https://github.com/heyseth/worm-sim) - Simulate the C  Elegans worm brain in your browser and interact with the worm as it moves around
+* 【2024-05-09】[Admiral\-Billy / Pokerogue\-App](https://github.com/Admiral-Billy/Pokerogue-App) - An app to play Pokerogue net in an app window  Wow!
 * 【2024-05-08】[tangzhiyao / boss-show-time](https://github.com/tangzhiyao/boss-show-time) - 展示boss直聘岗位的发布时间
 * 【2024-05-07】[ibrahimaitech / IBRAHIM-AI-10.10](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
 * 【2024-05-06】[Astropeda / Asta\-Md](https://github.com/Astropeda/Asta-Md) - ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀsᴛʀᴏᴘᴇᴅᴀ ᴛᴇᴀᴍ
@@ -1251,6 +1260,7 @@
 
 ## C
 
+* 【2024-05-09】[dcfsswindy / oled\-ui\-astra](https://github.com/dcfsswindy/oled-ui-astra) - A smooth, easy\-to\-deploy, and easy\-to\-extend OLED UI framework, based on C++ 
 * 【2024-05-06】[danielchasehooper / ShapeUp-public](https://github.com/danielchasehooper/ShapeUp-public) - A 3D Modeler Made in a Week
 * 【2024-05-06】[asg017 / sqlite\-vec](https://github.com/asg017/sqlite-vec) - Work\-in\-progress vector search SQLite extension that runs anywhere 
 * 【2024-05-06】[WillPower3309 / swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
@@ -1381,6 +1391,7 @@
 
 ## C++
 
+* 【2024-05-09】[baconpaul / airwin2rack](https://github.com/baconpaul/airwin2rack) - Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin
 * 【2024-05-08】[dillo\-browser / dillo](https://github.com/dillo-browser/dillo) - Dillo, a multi\-platform graphical web browser
 * 【2024-05-07】[litucks / torzu](https://github.com/litucks/torzu) - Yet another Yuzu fork
 * 【2024-05-05】[rondagayman307 / WhatsApp\-Web\-Spammer](https://github.com/rondagayman307/WhatsApp-Web-Spammer) - whatsapp web spammer 💥 spammer for whatsapp web 2024 latest update 💥 simple script to spam people on whatsapp web  whatsapp web spammer whatsapp spammer whatsapp message spammer whatsapp group spammer whatsapp web spammer whatsapp spammer whatsapp message spammer whatsapp group spammer whatsapp web spammer whatsapp spammer whatsap scripts tools
@@ -1497,6 +1508,8 @@
 
 ## C#
 
+* 【2024-05-09】[CCob / okta-terrify](https://github.com/CCob/okta-terrify) - Okta Verify and Okta FastPass Abuse Tool
+* 【2024-05-09】[win4r / AISuperDomain](https://github.com/win4r/AISuperDomain) - Aila(AI超元域): The premier AI integration tool for Windows, macOS, and Android  Ask once, get answers from 10+ AIs like ChatGPT, Gemini, Claude3, Copilot, Poe, perplexity and more  Features customizable AI and prompts 
 * 【2024-05-08】[CCob / okta\-terrify](https://github.com/CCob/okta-terrify) - Okta Verify and Okta FastPass Abuse Tool
 * 【2024-05-08】[oureveryday / Steam-auto-crack](https://github.com/oureveryday/Steam-auto-crack) - Steam Game Automatic Cracker
 * 【2024-05-07】[Ephilipz / 1brc.net](https://github.com/Ephilipz/1brc.net) - 
@@ -1656,6 +1669,8 @@
 
 ## Html
 
+* 【2024-05-09】[Flomp / wanderer](https://github.com/Flomp/wanderer) - wanderer is a self\-hosted trail database  Save your adventures!
+* 【2024-05-09】[drduh / YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 * 【2024-05-08】[drduh / YubiKey\-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 * 【2024-05-08】[supertestnet / coinjoin\-workshop](https://github.com/supertestnet/coinjoin-workshop) - A workshop on constructing coinjoin transactions without a coordinator
 * 【2024-05-07】[DeadCoder1722 / Kick\-VIewer\-Bot](https://github.com/DeadCoder1722/Kick-VIewer-Bot) - 
@@ -1898,6 +1913,10 @@
 
 ## Unknown
 
+* 【2024-05-09】[elicit / machine-learning-list](https://github.com/elicit/machine-learning-list) - A curriculum for learning about foundation models, from scratch to the frontier
+* 【2024-05-09】[casubsverssnor1979 / Aviator-Prediction-App](https://github.com/casubsverssnor1979/Aviator-Prediction-App) - 1
+* 【2024-05-09】[raultrades / SMA-outfits](https://github.com/raultrades/SMA-outfits) - Analysis of SMA outfit (blackbox) use in public equity markets for real-time insight into wealth distribution and direct stock market influence. A call for transparency and public discourse.
+* 【2024-05-09】[ShixiangWang / pybook](https://github.com/ShixiangWang/pybook) - 《交互的Python：数据分析入门》
 * 【2024-05-08】[raultrades / SMA\-outfits](https://github.com/raultrades/SMA-outfits) - Analysis of SMA outfit (blackbox) use in public equity markets for real\-time insight into wealth distribution and direct stock market influence  A call for transparency and public discourse 
 * 【2024-05-08】[youssefHosni / Awesome\-AI\-Data\-Guided\-Projects](https://github.com/youssefHosni/Awesome-AI-Data-Guided-Projects) - A curated list of data science & AI guided projects to start building your portfolio
 * 【2024-05-07】[casubsverssnor1979 / Aviator\-Prediction\-App](https://github.com/casubsverssnor1979/Aviator-Prediction-App) - 1
@@ -2247,6 +2266,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-09】[get-convex / convex-backend](https://github.com/get-convex/convex-backend) - Open source single-machine version of the Convex backend
+* 【2024-05-09】[Bylx666 / key\-lang](https://github.com/Bylx666/key-lang) - 目标是最精致的编程语言
+* 【2024-05-09】[Rokasbarasa1 / minecraft_rust](https://github.com/Rokasbarasa1/minecraft_rust) - A light remake of Minecraft in Rust  A challenge for myself 
 * 【2024-05-08】[sharkdp / fd](https://github.com/sharkdp/fd) - A simple, fast and user\-friendly alternative to 'find'
 * 【2024-05-08】[get\-convex / convex\-backend](https://github.com/get-convex/convex-backend) - Open source single\-machine version of the Convex backend
 * 【2024-05-08】[winnow\-rs / winnow](https://github.com/winnow-rs/winnow) - Making parsing a breeze
@@ -2554,6 +2576,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-09】[Sh4yy / personal-ai](https://github.com/Sh4yy/personal-ai) - 
+* 【2024-05-09】[jupyterlab / jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment 
+* 【2024-05-09】[ali\-bouali / book\-social\-network](https://github.com/ali-bouali/book-social-network) - BSN is a social network platform to exchange books between the members 
+* 【2024-05-09】[gitkraken / vscode\-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
 * 【2024-05-08】[joschan21 / casecobra](https://github.com/joschan21/casecobra) - A Modern E\-Commerce\-Store for Custom Phone Cases
 * 【2024-05-08】[Hiram-Wong / ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer) - 跨平台桌面端视频资源播放器,免费高颜值.
 * 【2024-05-08】[run\-llama / LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - LlamaIndex is a data framework for your LLM applications
