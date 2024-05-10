@@ -24,6 +24,10 @@
 
 ## All language
 
+* 【2024-05-10】[phenaproxima / starshot\-prototype](https://github.com/phenaproxima/starshot-prototype) - Prototype of a new kind of Drupal, based on recipes and loaded up with contrib's best modules and themes  Not a fork or a distribution 
+* 【2024-05-10】[FunkinCrew / Funkin](https://github.com/FunkinCrew/Funkin) - A rhythm game made with HaxeFlixel
+* 【2024-05-10】[AdityaNG / kan\-gpt](https://github.com/AdityaNG/kan-gpt) - The PyTorch implementation of Generative Pre\-trained Transformers (GPTs) using Kolmogorov\-Arnold Networks (KANs) for language modeling
+* 【2024-05-10】[deepseek\-ai / DeepSeek\-V2](https://github.com/deepseek-ai/DeepSeek-V2) - 
 * 【2024-05-09】[huggingface / lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: State\-of\-the\-art Machine Learning for Real\-World Robotics in Pytorch
 * 【2024-05-09】[hbb1 / 2d\-gaussian\-splatting](https://github.com/hbb1/2d-gaussian-splatting) - [SIGGRAPH'24] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields
 * 【2024-05-09】[IcarusRyy / NewJob](https://github.com/IcarusRyy/NewJob) - 一眼看出该职位最后修改时间，绿色为2周之内，暗橙色为1 5个月之内，红色为1 5个月以上
@@ -550,6 +554,7 @@
 
 ## Python
 
+* 【2024-05-10】[AdityaNG / kan-gpt](https://github.com/AdityaNG/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
 * 【2024-05-09】[hbb1 / 2d-gaussian-splatting](https://github.com/hbb1/2d-gaussian-splatting) - [SIGGRAPH'24] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields
 * 【2024-05-09】[Kroery / DiffMOT](https://github.com/Kroery/DiffMOT) - code for CVPR2024 paper: DiffMOT: A Real\-time Diffusion\-based Multiple Object Tracker with Non\-linear Prediction
 * 【2024-05-09】[instructlab / instructlab](https://github.com/instructlab/instructlab) - Command\-line interface  Use this to chat with the model or train the model (training consumes the taxonomy data)
@@ -925,6 +930,11 @@
 
 ## Javascript
 
+* 【2024-05-10】[said7388 / github\-portfolio](https://github.com/said7388/github-portfolio) - Create a Portfolio Website using your GitHub username  This website template is constructed with next js and tailwind CSS, allowing you to display your work and skills as a software developer 
+* 【2024-05-10】[taikoxyz / operations](https://github.com/taikoxyz/operations) - Operations related scripts
+* 【2024-05-10】[Admiral-Billy / Pokerogue-App](https://github.com/Admiral-Billy/Pokerogue-App) - An app to play Pokerogue.net in an app window. Wow!
+* 【2024-05-10】[heyseth / worm-sim](https://github.com/heyseth/worm-sim) - Simulate the C. Elegans worm brain in your browser and interact with the worm as it moves around
+* 【2024-05-10】[yonggekkk / Cloudflare_vless_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) - Cloudflare代理脚本，支持workers与pages两种形式部署，实现Vless与Trojan两种协议。CF优选域名、优选官方IP反代IP多平台一键脚本
 * 【2024-05-09】[heyseth / worm\-sim](https://github.com/heyseth/worm-sim) - Simulate the C  Elegans worm brain in your browser and interact with the worm as it moves around
 * 【2024-05-09】[Admiral\-Billy / Pokerogue\-App](https://github.com/Admiral-Billy/Pokerogue-App) - An app to play Pokerogue net in an app window  Wow!
 * 【2024-05-08】[tangzhiyao / boss-show-time](https://github.com/tangzhiyao/boss-show-time) - 展示boss直聘岗位的发布时间
@@ -1260,6 +1270,7 @@
 
 ## C
 
+* 【2024-05-10】[dcfsswindy / oled-ui-astra](https://github.com/dcfsswindy/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C++.
 * 【2024-05-09】[dcfsswindy / oled\-ui\-astra](https://github.com/dcfsswindy/oled-ui-astra) - A smooth, easy\-to\-deploy, and easy\-to\-extend OLED UI framework, based on C++ 
 * 【2024-05-06】[danielchasehooper / ShapeUp-public](https://github.com/danielchasehooper/ShapeUp-public) - A 3D Modeler Made in a Week
 * 【2024-05-06】[asg017 / sqlite\-vec](https://github.com/asg017/sqlite-vec) - Work\-in\-progress vector search SQLite extension that runs anywhere 
@@ -1391,6 +1402,7 @@
 
 ## C++
 
+* 【2024-05-10】[lilipads / gradient_descent_viz](https://github.com/lilipads/gradient_descent_viz) - interactive visualization of 5 popular gradient descent methods with step\-by\-step illustration and hyperparameter tuning UI
 * 【2024-05-09】[baconpaul / airwin2rack](https://github.com/baconpaul/airwin2rack) - Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin
 * 【2024-05-08】[dillo\-browser / dillo](https://github.com/dillo-browser/dillo) - Dillo, a multi\-platform graphical web browser
 * 【2024-05-07】[litucks / torzu](https://github.com/litucks/torzu) - Yet another Yuzu fork
@@ -1508,6 +1520,8 @@
 
 ## C#
 
+* 【2024-05-10】[ravibpatel / AutoUpdater NET](https://github.com/ravibpatel/AutoUpdater.NET) - AutoUpdater NET is a class library that allows  NET developers to easily add auto update functionality to their classic desktop application projects 
+* 【2024-05-10】[simpleidserver / SimpleIdServer](https://github.com/simpleidserver/SimpleIdServer) - OpenID, OAuth 2 0, SCIM2 0, UMA2 0, FAPI, CIBA & OPENBANKING Framework for ASP NET Core
 * 【2024-05-09】[CCob / okta-terrify](https://github.com/CCob/okta-terrify) - Okta Verify and Okta FastPass Abuse Tool
 * 【2024-05-09】[win4r / AISuperDomain](https://github.com/win4r/AISuperDomain) - Aila(AI超元域): The premier AI integration tool for Windows, macOS, and Android  Ask once, get answers from 10+ AIs like ChatGPT, Gemini, Claude3, Copilot, Poe, perplexity and more  Features customizable AI and prompts 
 * 【2024-05-08】[CCob / okta\-terrify](https://github.com/CCob/okta-terrify) - Okta Verify and Okta FastPass Abuse Tool
@@ -1669,6 +1683,9 @@
 
 ## Html
 
+* 【2024-05-10】[logankilpatrick / gemini\-api\-quickstart](https://github.com/logankilpatrick/gemini-api-quickstart) - Get up and running in under 5 minutes with the Google AI Gemini API (in Python)
+* 【2024-05-10】[tinyworldmap / tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps
+* 【2024-05-10】[Snowflake-Labs / sfquickstarts](https://github.com/Snowflake-Labs/sfquickstarts) - Follow along with our tutorials to get you up and running with the Snowflake Data Cloud.
 * 【2024-05-09】[Flomp / wanderer](https://github.com/Flomp/wanderer) - wanderer is a self\-hosted trail database  Save your adventures!
 * 【2024-05-09】[drduh / YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 * 【2024-05-08】[drduh / YubiKey\-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
@@ -1913,6 +1930,9 @@
 
 ## Unknown
 
+* 【2024-05-10】[deepseek-ai / DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) - 
+* 【2024-05-10】[ibm\-granite / granite\-code\-models](https://github.com/ibm-granite/granite-code-models) - Granite Code Models: A Family of Open Foundation Models for Code Intelligence
+* 【2024-05-10】[iyukiyama / leetcode\-posts](https://github.com/iyukiyama/leetcode-posts) - yukiyama 创作的算法文章，目前共二十余万字，持续新增中。发表数月内，在力扣中国收获20w+阅读量，1w+收藏量，近5k点赞量。
 * 【2024-05-09】[elicit / machine-learning-list](https://github.com/elicit/machine-learning-list) - A curriculum for learning about foundation models, from scratch to the frontier
 * 【2024-05-09】[casubsverssnor1979 / Aviator-Prediction-App](https://github.com/casubsverssnor1979/Aviator-Prediction-App) - 1
 * 【2024-05-09】[raultrades / SMA-outfits](https://github.com/raultrades/SMA-outfits) - Analysis of SMA outfit (blackbox) use in public equity markets for real-time insight into wealth distribution and direct stock market influence. A call for transparency and public discourse.
@@ -2576,6 +2596,13 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-10】[caprover / caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) \- aka Heroku on Steroids
+* 【2024-05-10】[BuilderIO / mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere  Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more 
+* 【2024-05-10】[ethers-io / ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
+* 【2024-05-10】[AzureAD / microsoft-authentication-library-for-js](https://github.com/AzureAD/microsoft-authentication-library-for-js) - Microsoft Authentication Library (MSAL) for JS
+* 【2024-05-10】[juice\-shop / juice\-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+* 【2024-05-10】[mswjs / msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node js 
+* 【2024-05-10】[Ting\-Code / Ting\-Library\-Monorepo](https://github.com/Ting-Code/Ting-Library-Monorepo) - 基于 pnpm 搭建的 monorepo 架构的知识库。主要用于归纳 vue3 生态的解决方案。希望各位小伙伴一起讨论总结，一起进步。后期计划加入 react&nextjs 等子项目。看个人时间。
 * 【2024-05-09】[Sh4yy / personal-ai](https://github.com/Sh4yy/personal-ai) - 
 * 【2024-05-09】[jupyterlab / jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment 
 * 【2024-05-09】[ali\-bouali / book\-social\-network](https://github.com/ali-bouali/book-social-network) - BSN is a social network platform to exchange books between the members 
