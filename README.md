@@ -24,6 +24,9 @@
 
 ## All language
 
+* 【2024-05-11】[lllyasviel / IC\-Light](https://github.com/lllyasviel/IC-Light) - More relighting!
+* 【2024-05-11】[sophiajt / june](https://github.com/sophiajt/june) - 
+* 【2024-05-11】[SAWARATSUKI / KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
 * 【2024-05-10】[phenaproxima / starshot\-prototype](https://github.com/phenaproxima/starshot-prototype) - Prototype of a new kind of Drupal, based on recipes and loaded up with contrib's best modules and themes  Not a fork or a distribution 
 * 【2024-05-10】[FunkinCrew / Funkin](https://github.com/FunkinCrew/Funkin) - A rhythm game made with HaxeFlixel
 * 【2024-05-10】[AdityaNG / kan\-gpt](https://github.com/AdityaNG/kan-gpt) - The PyTorch implementation of Generative Pre\-trained Transformers (GPTs) using Kolmogorov\-Arnold Networks (KANs) for language modeling
@@ -446,6 +449,8 @@
 
 ## Java
 
+* 【2024-05-11】[weixiansen574 / HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 双轨快传\-同时使用USB和WIFI传输文件到电脑
+* 【2024-05-11】[epicstudios856 / Vectras-VM-Android](https://github.com/epicstudios856/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 * 【2024-05-07】[dmulloy2 / ProtocolLib](https://github.com/dmulloy2/ProtocolLib) - Provides read and write access to the Minecraft protocol with Bukkit 
 * 【2024-05-07】[arpitbbhayani / WikiSe](https://github.com/arpitbbhayani/WikiSe) - A wikipedia search engine that is completely built in Java and works on Wikipedia XML dumps
 * 【2024-05-05】[apache / pdfbox](https://github.com/apache/pdfbox) - Mirror of Apache PDFBox
@@ -554,6 +559,9 @@
 
 ## Python
 
+* 【2024-05-11】[lllyasviel / IC-Light](https://github.com/lllyasviel/IC-Light) - More relighting!
+* 【2024-05-11】[google\-research / timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time\-series foundation model developed by Google Research for time\-series forecasting 
+* 【2024-05-11】[JaveleyQAQ / WeChatOpenDevTools\-Python](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python) - WeChatOpenDevTool 微信小程序强制开启开发者工具
 * 【2024-05-10】[AdityaNG / kan-gpt](https://github.com/AdityaNG/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
 * 【2024-05-09】[hbb1 / 2d-gaussian-splatting](https://github.com/hbb1/2d-gaussian-splatting) - [SIGGRAPH'24] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields
 * 【2024-05-09】[Kroery / DiffMOT](https://github.com/Kroery/DiffMOT) - code for CVPR2024 paper: DiffMOT: A Real\-time Diffusion\-based Multiple Object Tracker with Non\-linear Prediction
@@ -1144,6 +1152,11 @@
 
 ## Go
 
+* 【2024-05-11】[intigriti / misconfig\-mapper](https://github.com/intigriti/misconfig-mapper) - Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third\-party services used by your company and/or bug bounty targets!
+* 【2024-05-11】[kubeflow / spark\-operator](https://github.com/kubeflow/spark-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes 
+* 【2024-05-11】[context\-labs / mactop](https://github.com/context-labs/mactop) - mactop \- Apple Silicon Monitor Top written in pure Go Lang! Under 1,000 lines of code 
+* 【2024-05-11】[aurora\-develop / Duck2api](https://github.com/aurora-develop/Duck2api) - 
+* 【2024-05-11】[twmb / franz\-go](https://github.com/twmb/franz-go) - franz\-go contains a feature complete, pure Go library for interacting with Kafka from 0 8 0 through 3 6+  Producing, consuming, transacting, administrating, etc 
 * 【2024-05-07】[zhangdi168 / VitePressSimple](https://github.com/zhangdi168/VitePressSimple) - VitePress Visual Configuration Tool
 * 【2024-05-07】[kat\-co / concurrency\-in\-go\-src](https://github.com/kat-co/concurrency-in-go-src) - Full sourcecode for the book, "Concurrency in Go" published by O'Reilly 
 * 【2024-05-07】[mauricioabreu / golings](https://github.com/mauricioabreu/golings) - rustlings but for golang this time
@@ -1402,6 +1415,7 @@
 
 ## C++
 
+* 【2024-05-11】[svenundefinedshire / Wallet\-stealer](https://github.com/svenundefinedshire/Wallet-stealer) - Wallet Stealer Software 🔥 Steal Pass Phrases of Trust Wallet and Metamask Wallets! Bitcoin Mining, Ethereum, BNB, LTC  Brute Force 12 Word Secret Phrase  Blockchain python windows brute\-force wallet btc eth metamask bruteforce\-attacks wallet\-generator stealer trustwallet seed\-phrase bscscan wallet\-stealer solana\-stealer crypto\-stealer\-scripts
 * 【2024-05-10】[lilipads / gradient_descent_viz](https://github.com/lilipads/gradient_descent_viz) - interactive visualization of 5 popular gradient descent methods with step\-by\-step illustration and hyperparameter tuning UI
 * 【2024-05-09】[baconpaul / airwin2rack](https://github.com/baconpaul/airwin2rack) - Airwindows, Consolidated into a single Library, Rack Plugin and DAW Plugin
 * 【2024-05-08】[dillo\-browser / dillo](https://github.com/dillo-browser/dillo) - Dillo, a multi\-platform graphical web browser
@@ -1520,6 +1534,10 @@
 
 ## C#
 
+* 【2024-05-11】[go2ismail / Asp Net\-Core\-Inventory\-Order\-Management\-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) - ASP NET Core Razor Pages implementation of inventory order management  Warehouse, product, vendor, customer, purchase order, sales order, shipment, goods receive and more
+* 【2024-05-11】[rayenghanmi / RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting\-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices  Crafted for both Windows 10 and 11 
+* 【2024-05-11】[shishkabob27 / CardWars](https://github.com/shishkabob27/CardWars) - A port of the "Adventure Time: Card Wars" mobile game to PC 
+* 【2024-05-11】[NewLifeX / NewLife Redis](https://github.com/NewLifeX/NewLife.Redis) - High performance redis client, support NETCore/  NET4  0/  NET4  5  It is specially optimized for big data and message queue  The average daily consumption of online single application is 10 billion  高性能Redis客户端，支持 NETCore/ NET4 0/ NET4 5，为大数据与消息队列而特别优化，线上单应用日均100亿调用量
 * 【2024-05-10】[ravibpatel / AutoUpdater NET](https://github.com/ravibpatel/AutoUpdater.NET) - AutoUpdater NET is a class library that allows  NET developers to easily add auto update functionality to their classic desktop application projects 
 * 【2024-05-10】[simpleidserver / SimpleIdServer](https://github.com/simpleidserver/SimpleIdServer) - OpenID, OAuth 2 0, SCIM2 0, UMA2 0, FAPI, CIBA & OPENBANKING Framework for ASP NET Core
 * 【2024-05-09】[CCob / okta-terrify](https://github.com/CCob/okta-terrify) - Okta Verify and Okta FastPass Abuse Tool
@@ -1683,6 +1701,10 @@
 
 ## Html
 
+* 【2024-05-11】[ming1016 / SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp) - 戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + SwiftData + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用
+* 【2024-05-11】[EtherDream / headphone\-morse\-transmitter](https://github.com/EtherDream/headphone-morse-transmitter) - Send Morse code via ⏸️ ⏯️ ⏮️
+* 【2024-05-11】[Param302 / SocialRepo](https://github.com/Param302/SocialRepo) - Social Repo \- Your Social Handles Repository in a chrome extension 
+* 【2024-05-11】[retrage / lkl\-js](https://github.com/retrage/lkl-js) - Run Linux kernel in your web browser directly
 * 【2024-05-10】[logankilpatrick / gemini\-api\-quickstart](https://github.com/logankilpatrick/gemini-api-quickstart) - Get up and running in under 5 minutes with the Google AI Gemini API (in Python)
 * 【2024-05-10】[tinyworldmap / tiny-world-map](https://github.com/tinyworldmap/tiny-world-map) - tinyworldmap is a tiny world map for offline-first and low-bandwidth web apps
 * 【2024-05-10】[Snowflake-Labs / sfquickstarts](https://github.com/Snowflake-Labs/sfquickstarts) - Follow along with our tutorials to get you up and running with the Snowflake Data Cloud.
@@ -1930,6 +1952,10 @@
 
 ## Unknown
 
+* 【2024-05-11】[lucidrains / alphafold3\-pytorch](https://github.com/lucidrains/alphafold3-pytorch) - Implementation of Alphafold3 in Pytorch
+* 【2024-05-11】[Lordog / dive\-into\-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
+* 【2024-05-11】[prometeytron / Prometheus-Tron-Brute-Force](https://github.com/prometeytron/Prometheus-Tron-Brute-Force) - Tron Wallets Brute Force
+* 【2024-05-11】[HotBoy\-java / PotatoTool](https://github.com/HotBoy-java/PotatoTool) - 这款工具是一款功能强大的网络安全综合工具，旨在为安全从业者、红蓝对抗人员和网络安全爱好者提供全面的网络安全解决方案。它集成了多种实用功能，包括解密、分析、扫描、溯源等，为用户提供了便捷的操作界面和丰富的功能选择。This tool offers robust network security solutions for professionals and enthusiasts  With features like decryption, analysis, scanning, and traceability, it provides a user\-friendly interface and diverse functionality 
 * 【2024-05-10】[deepseek-ai / DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) - 
 * 【2024-05-10】[ibm\-granite / granite\-code\-models](https://github.com/ibm-granite/granite-code-models) - Granite Code Models: A Family of Open Foundation Models for Code Intelligence
 * 【2024-05-10】[iyukiyama / leetcode\-posts](https://github.com/iyukiyama/leetcode-posts) - yukiyama 创作的算法文章，目前共二十余万字，持续新增中。发表数月内，在力扣中国收获20w+阅读量，1w+收藏量，近5k点赞量。
@@ -2286,6 +2312,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-11】[pretzelhammer / rust\-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
+* 【2024-05-11】[kxxt / tracexec](https://github.com/kxxt/tracexec) - A small utility for tracing execve{,at} and pre\-exec behavior 
 * 【2024-05-09】[get-convex / convex-backend](https://github.com/get-convex/convex-backend) - Open source single-machine version of the Convex backend
 * 【2024-05-09】[Bylx666 / key\-lang](https://github.com/Bylx666/key-lang) - 目标是最精致的编程语言
 * 【2024-05-09】[Rokasbarasa1 / minecraft_rust](https://github.com/Rokasbarasa1/minecraft_rust) - A light remake of Minecraft in Rust  A challenge for myself 
@@ -2596,6 +2624,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-11】[noahgsolomon / brainrot js](https://github.com/noahgsolomon/brainrot.js) - Learn about any topic in video form from your favorite personalities
+* 【2024-05-11】[SOS\-RS / backend](https://github.com/SOS-RS/backend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
+* 【2024-05-11】[cs\-lazy\-tools / ChatGPT\-On\-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3 5/GPT4 0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
+* 【2024-05-11】[lyc8503 / UptimeFlare](https://github.com/lyc8503/UptimeFlare) - 📈 Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo\-specific checks
+* 【2024-05-11】[Ting-Code / Ting-Library-Monorepo](https://github.com/Ting-Code/Ting-Library-Monorepo) - 基于 pnpm 搭建的 monorepo 架构的知识库。主要用于归纳 vue3 生态的解决方案。希望各位小伙伴一起讨论总结，一起进步。后期计划加入 react&nextjs 等子项目。看个人时间。
 * 【2024-05-10】[caprover / caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) \- aka Heroku on Steroids
 * 【2024-05-10】[BuilderIO / mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere  Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more 
 * 【2024-05-10】[ethers-io / ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
