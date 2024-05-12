@@ -24,6 +24,15 @@
 
 ## All language
 
+* 【2024-05-12】[SOS-RS / backend](https://github.com/SOS-RS/backend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
+* 【2024-05-12】[w3laba / CoinMarketCap\-Trending](https://github.com/w3laba/CoinMarketCap-Trending) - CoinMarketCap (CMC) Trending \| CMC, Coingecko, Dexscreener, Dextools Trending services
+* 【2024-05-12】[SOS\-RS / frontend](https://github.com/SOS-RS/frontend) - 
+* 【2024-05-12】[w3laba / DexScreener\-Trending](https://github.com/w3laba/DexScreener-Trending) - DexScreener Trending \| CMC, Coingecko, Dexscreener, Dextools Trending services
+* 【2024-05-12】[kyegomez / AlphaFold3](https://github.com/kyegomez/AlphaFold3) - Implementation of Alpha Fold 3 from the paper: "Accurate structure prediction of biomolecular interactions with AlphaFold3" in PyTorch
+* 【2024-05-12】[stooged / PI\-Pwn](https://github.com/stooged/PI-Pwn) - pppwn
+* 【2024-05-12】[glanceapp / glance](https://github.com/glanceapp/glance) - A self\-hosted dashboard that puts all your feeds in one place
+* 【2024-05-12】[mintisan / awesome\-kan](https://github.com/mintisan/awesome-kan) - A comprehensive collection of KAN(Kolmogorov\-Arnold Network)\-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov\-Arnold Network field 
+* 【2024-05-12】[cisagov / vulnrichment](https://github.com/cisagov/vulnrichment) - A repo to conduct vulnerability enrichment 
 * 【2024-05-11】[lllyasviel / IC\-Light](https://github.com/lllyasviel/IC-Light) - More relighting!
 * 【2024-05-11】[sophiajt / june](https://github.com/sophiajt/june) - 
 * 【2024-05-11】[SAWARATSUKI / KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
@@ -449,6 +458,7 @@
 
 ## Java
 
+* 【2024-05-12】[4379711 / lol\-helper](https://github.com/4379711/lol-helper) - 英雄联盟工具,LCU API,一键喊话,战绩查询,一键发送战绩,更改段位显示,更改背景页,牛马/上等马/下等马,彩虹屁,禁用英雄 ,秒选英雄,解锁炫彩皮肤等
 * 【2024-05-11】[weixiansen574 / HybridFileXfer](https://github.com/weixiansen574/HybridFileXfer) - 双轨快传\-同时使用USB和WIFI传输文件到电脑
 * 【2024-05-11】[epicstudios856 / Vectras-VM-Android](https://github.com/epicstudios856/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 * 【2024-05-07】[dmulloy2 / ProtocolLib](https://github.com/dmulloy2/ProtocolLib) - Provides read and write access to the Minecraft protocol with Bukkit 
@@ -559,6 +569,9 @@
 
 ## Python
 
+* 【2024-05-12】[stooged / PI-Pwn](https://github.com/stooged/PI-Pwn) - pppwn
+* 【2024-05-12】[jgravelle / AutoGroq](https://github.com/jgravelle/AutoGroq) - 
+* 【2024-05-12】[mustafaaljadery / gemma\-2B\-10M](https://github.com/mustafaaljadery/gemma-2B-10M) - Gemma 2B with 10M context length using Infini\-attention 
 * 【2024-05-11】[lllyasviel / IC-Light](https://github.com/lllyasviel/IC-Light) - More relighting!
 * 【2024-05-11】[google\-research / timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time\-series foundation model developed by Google Research for time\-series forecasting 
 * 【2024-05-11】[JaveleyQAQ / WeChatOpenDevTools\-Python](https://github.com/JaveleyQAQ/WeChatOpenDevTools-Python) - WeChatOpenDevTool 微信小程序强制开启开发者工具
@@ -1152,6 +1165,7 @@
 
 ## Go
 
+* 【2024-05-12】[supabase / auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
 * 【2024-05-11】[intigriti / misconfig\-mapper](https://github.com/intigriti/misconfig-mapper) - Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third\-party services used by your company and/or bug bounty targets!
 * 【2024-05-11】[kubeflow / spark\-operator](https://github.com/kubeflow/spark-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes 
 * 【2024-05-11】[context\-labs / mactop](https://github.com/context-labs/mactop) - mactop \- Apple Silicon Monitor Top written in pure Go Lang! Under 1,000 lines of code 
@@ -1283,6 +1297,8 @@
 
 ## C
 
+* 【2024-05-12】[Hirrolot / datatype99](https://github.com/Hirrolot/datatype99) - Algebraic data types for C99
+* 【2024-05-12】[B\-Dem / PPPwnUI](https://github.com/B-Dem/PPPwnUI) - PPPwnUI is a program that adds an UI to the exploit PPPwn created by TheFlow 
 * 【2024-05-10】[dcfsswindy / oled-ui-astra](https://github.com/dcfsswindy/oled-ui-astra) - A smooth, easy-to-deploy, and easy-to-extend OLED UI framework, based on C++.
 * 【2024-05-09】[dcfsswindy / oled\-ui\-astra](https://github.com/dcfsswindy/oled-ui-astra) - A smooth, easy\-to\-deploy, and easy\-to\-extend OLED UI framework, based on C++ 
 * 【2024-05-06】[danielchasehooper / ShapeUp-public](https://github.com/danielchasehooper/ShapeUp-public) - A 3D Modeler Made in a Week
@@ -1534,6 +1550,8 @@
 
 ## C#
 
+* 【2024-05-12】[paidworkco / solana\-api](https://github.com/paidworkco/solana-api) - API for Solana Tokens
+* 【2024-05-12】[hadashiA / VContainer](https://github.com/hadashiA/VContainer) - The extra fast, minimum code size, GC\-free DI (Dependency Injection) library running on Unity Game Engine 
 * 【2024-05-11】[go2ismail / Asp Net\-Core\-Inventory\-Order\-Management\-System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) - ASP NET Core Razor Pages implementation of inventory order management  Warehouse, product, vendor, customer, purchase order, sales order, shipment, goods receive and more
 * 【2024-05-11】[rayenghanmi / RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting\-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices  Crafted for both Windows 10 and 11 
 * 【2024-05-11】[shishkabob27 / CardWars](https://github.com/shishkabob27/CardWars) - A port of the "Adventure Time: Card Wars" mobile game to PC 
@@ -1701,6 +1719,10 @@
 
 ## Html
 
+* 【2024-05-12】[khushi\-joshi\-05 / Food\-ordering\-website](https://github.com/khushi-joshi-05/Food-ordering-website) - Foodie is a food ordering website that aims to provide users with a seamless experience for ordering food online, taking orders for pickup, and booking tables for dining in  The website showcases the quality and specialties of the food offered, along with a variety of services to cater to different user preferences 
+* 【2024-05-12】[arghadipmanna101 / Flipkart_Clone](https://github.com/arghadipmanna101/Flipkart_Clone) - Clone of Flipkart using HTML,CSS and JavaScript
+* 【2024-05-12】[unclecode / crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open\-source LLM Friendly Web Crawler & Scrapper
+* 【2024-05-12】[mgz0227 / legado\-Harmony](https://github.com/mgz0227/legado-Harmony) - 开源阅读鸿蒙版仓库
 * 【2024-05-11】[ming1016 / SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp) - 戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + SwiftData + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用
 * 【2024-05-11】[EtherDream / headphone\-morse\-transmitter](https://github.com/EtherDream/headphone-morse-transmitter) - Send Morse code via ⏸️ ⏯️ ⏮️
 * 【2024-05-11】[Param302 / SocialRepo](https://github.com/Param302/SocialRepo) - Social Repo \- Your Social Handles Repository in a chrome extension 
@@ -1952,6 +1974,11 @@
 
 ## Unknown
 
+* 【2024-05-12】[w3laba / CoinMarketCap-Trending](https://github.com/w3laba/CoinMarketCap-Trending) - CoinMarketCap (CMC) Trending | CMC, Coingecko, Dexscreener, Dextools Trending services
+* 【2024-05-12】[w3laba / DexScreener-Trending](https://github.com/w3laba/DexScreener-Trending) - DexScreener Trending | CMC, Coingecko, Dexscreener, Dextools Trending services
+* 【2024-05-12】[mintisan / awesome-kan](https://github.com/mintisan/awesome-kan) - A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.
+* 【2024-05-12】[Cry1ngMan / 1](https://github.com/Cry1ngMan/1) - 手机往下滑 ❤️ 定期更新 ❤️ 免费/白嫖/公益/节点/机场/订阅/vpn/翻墙
+* 【2024-05-12】[AI\-Guru / xlstm\-resources](https://github.com/AI-Guru/xlstm-resources) - Resources about xLSTM by Sepp Hochreiter
 * 【2024-05-11】[lucidrains / alphafold3\-pytorch](https://github.com/lucidrains/alphafold3-pytorch) - Implementation of Alphafold3 in Pytorch
 * 【2024-05-11】[Lordog / dive\-into\-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
 * 【2024-05-11】[prometeytron / Prometheus-Tron-Brute-Force](https://github.com/prometeytron/Prometheus-Tron-Brute-Force) - Tron Wallets Brute Force
@@ -2312,6 +2339,10 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-12】[SeaQL / sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM for Rust
+* 【2024-05-12】[tembo\-io / pgmq](https://github.com/tembo-io/pgmq) - A lightweight message queue  Like AWS SQS and RSMQ but on Postgres 
+* 【2024-05-12】[pretzelhammer / rust-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
+* 【2024-05-12】[penberg / limbo](https://github.com/penberg/limbo) - Limbo is a work\-in\-progress, in\-process OLTP database management system, compatible with SQLite 
 * 【2024-05-11】[pretzelhammer / rust\-blog](https://github.com/pretzelhammer/rust-blog) - Educational blog posts for Rust beginners
 * 【2024-05-11】[kxxt / tracexec](https://github.com/kxxt/tracexec) - A small utility for tracing execve{,at} and pre\-exec behavior 
 * 【2024-05-09】[get-convex / convex-backend](https://github.com/get-convex/convex-backend) - Open source single-machine version of the Convex backend
@@ -2624,6 +2655,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-12】[SOS-RS / frontend](https://github.com/SOS-RS/frontend) - 
+* 【2024-05-12】[toss / es-hangul](https://github.com/toss/es-hangul) - A modern JavaScript library for handling Hangul characters.
+* 【2024-05-12】[warp-id / solana-trading-bot](https://github.com/warp-id/solana-trading-bot) - Solana Trading Bot - Beta
+* 【2024-05-12】[cs-lazy-tools / ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
 * 【2024-05-11】[noahgsolomon / brainrot js](https://github.com/noahgsolomon/brainrot.js) - Learn about any topic in video form from your favorite personalities
 * 【2024-05-11】[SOS\-RS / backend](https://github.com/SOS-RS/backend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
 * 【2024-05-11】[cs\-lazy\-tools / ChatGPT\-On\-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3 5/GPT4 0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
