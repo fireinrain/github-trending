@@ -24,6 +24,8 @@
 
 ## All language
 
+* 【2024-05-15】[alibaba-damo-academy / FunClip](https://github.com/alibaba-damo-academy/FunClip) - Open-source, accurate and easy-to-use video clipping tool, LLM based AI clipping intergrated || 开源、精准、方便的视频切片工具，集成了大语言模型AI智能剪辑功能
+* 【2024-05-15】[elder-plinius / L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - J41LBR34K PR0MPT5 F0R 4LL M4J0R LLM5
 * 【2024-05-14】[Mr-Wiseguy / N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) - Tool to statically recompile N64 games into native executables
 * 【2024-05-14】[Mr-Wiseguy / Zelda64Recomp](https://github.com/Mr-Wiseguy/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)
 * 【2024-05-14】[rt64 / rt64](https://github.com/rt64/rt64) - RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports 
@@ -468,6 +470,9 @@
 
 ## Java
 
+* 【2024-05-15】[TutorLee / Arcane](https://github.com/TutorLee/Arcane) - fortnite\-aimbot fortnite\-hack fortnite\-cheat fortnite\-wallhack fortnite\-esp fortnite\-wallhack fortnite\-skinchanger fortnite\-skin\-swapper
+* 【2024-05-15】[JanusGraph / janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open\-source, distributed graph database
+* 【2024-05-15】[lh728 / 0-to-1-Microservices-Distributed-E-commerce-System-Template](https://github.com/lh728/0-to-1-Microservices-Distributed-E-commerce-System-Template) - This is a microservices-based distributed e-commerce system template designed to leverage a wide range of advanced management tools and practices from 0 to 1.
 * 【2024-05-14】[haveno\-dex / haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange built on Monero and Tor
 * 【2024-05-14】[preslavmihaylov / booknotes](https://github.com/preslavmihaylov/booknotes) - A collection of my book notes on various subjects, mainly computer science
 * 【2024-05-14】[lh728 / 0\-to\-1\-Microservices\-Distributed\-E\-commerce\-System\-Template](https://github.com/lh728/0-to-1-Microservices-Distributed-E-commerce-System-Template) - This is a microservices\-based distributed e\-commerce system template designed to leverage a wide range of advanced management tools and practices from 0 to 1 
@@ -583,6 +588,9 @@
 
 ## Python
 
+* 【2024-05-15】[entropy\-research / Devon](https://github.com/entropy-research/Devon) - Devon: An open\-source pair programmer
+* 【2024-05-15】[multimodal-art-projection / MAP-NEO](https://github.com/multimodal-art-projection/MAP-NEO) - 
+* 【2024-05-15】[Chaphlagical / Deblur\-GS](https://github.com/Chaphlagical/Deblur-GS) - [I3D 2024] Deblur\-GS: 3D Gaussian Splatting from Camera Motion Blurred Images
 * 【2024-05-14】[Mega-Gorilla / Index_PDF_Translation](https://github.com/Mega-Gorilla/Index_PDF_Translation) - 
 * 【2024-05-14】[alibaba\-damo\-academy / FunClip](https://github.com/alibaba-damo-academy/FunClip) - Open\-source, accurate and easy\-to\-use video clipping tool \| 开源、精准、方便的视频切片工具
 * 【2024-05-14】[multimodal\-art\-projection / MAP\-NEO](https://github.com/multimodal-art-projection/MAP-NEO) - 
@@ -975,6 +983,9 @@
 
 ## Javascript
 
+* 【2024-05-15】[GameSphere-MultiPlayer / Dot-Box](https://github.com/GameSphere-MultiPlayer/Dot-Box) - Dot-Box is a game where players take turns drawing lines between dots to create boxes. The player who completes the most boxes wins. It's a simple yet strategic game enjoyed by people of all ages.
+* 【2024-05-15】[aegir\-assembly / omni\-clip](https://github.com/aegir-assembly/omni-clip) - Open source video editing web application
+* 【2024-05-15】[JiyaGupta-cs / ShopNex](https://github.com/JiyaGupta-cs/ShopNex) - React Ecommerce App
 * 【2024-05-14】[Dev\-tanay / Rubik\-Cube](https://github.com/Dev-tanay/Rubik-Cube) - Rubik Cube
 * 【2024-05-14】[Omkar\-Sonawane\-23 / Maa\-Vimala](https://github.com/Omkar-Sonawane-23/Maa-Vimala) - 
 * 【2024-05-14】[GameSphere\-MultiPlayer / Dot\-Box](https://github.com/GameSphere-MultiPlayer/Dot-Box) - Dot\-Box is a game where players take turns drawing lines between dots to create boxes  The player who completes the most boxes wins  It's a simple yet strategic game enjoyed by people of all ages 
@@ -1338,6 +1349,9 @@
 
 ## C
 
+* 【2024-05-15】[BasedHardware / OpenGlass](https://github.com/BasedHardware/OpenGlass) - Turn any glasses into AI\-powered smart glasses
+* 【2024-05-15】[ARM\-software / CMSIS\-DSP](https://github.com/ARM-software/CMSIS-DSP) - CMSIS\-DSP embedded compute library for Cortex\-M and Cortex\-A
+* 【2024-05-15】[cocomelonc / bsprishtina\-2024\-maldev\-workshop](https://github.com/cocomelonc/bsprishtina-2024-maldev-workshop) - BSides Prishtina 2024 Malware Development and Persistence workshop
 * 【2024-05-14】[zeldaret / mm](https://github.com/zeldaret/mm) - Decompilation of The Legend of Zelda: Majora's Mask
 * 【2024-05-12】[Hirrolot / datatype99](https://github.com/Hirrolot/datatype99) - Algebraic data types for C99
 * 【2024-05-12】[B\-Dem / PPPwnUI](https://github.com/B-Dem/PPPwnUI) - PPPwnUI is a program that adds an UI to the exploit PPPwn created by TheFlow 
@@ -1473,6 +1487,8 @@
 
 ## C++
 
+* 【2024-05-15】[mirage\-project / mirage](https://github.com/mirage-project/mirage) - A multi\-level tensor algebra superoptimizer
+* 【2024-05-15】[ros\-navigation / navigation2](https://github.com/ros-navigation/navigation2) - ROS 2 Navigation Framework and System
 * 【2024-05-14】[marichardson137 / VerletIntegration](https://github.com/marichardson137/VerletIntegration) - 
 * 【2024-05-13】[Mr\-Wiseguy / Zelda64Recomp](https://github.com/Mr-Wiseguy/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)
 * 【2024-05-13】[Mr\-Wiseguy / N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) - Tool to statically recompile N64 games into native executables
@@ -1596,6 +1612,8 @@
 
 ## C#
 
+* 【2024-05-15】[PokersKun / PPPwn-Loader](https://github.com/PokersKun/PPPwn-Loader) - A WPF-based PPPwn front-end
+* 【2024-05-15】[victorverdoodt / Disaster\-Response\-Coordinator](https://github.com/victorverdoodt/Disaster-Response-Coordinator) - O 'Disaster Response Coordinator' é um sistema interativo baseado em inteligência artificial para coordenação e suporte em situações de desastre  Utiliza a API do Gemini para facilitar a comunicação entre vítimas e serviços de emergência, integrando\-se ao Sistema Integrado de Informações sobre Desastres v3 
 * 【2024-05-14】[PokersKun / PPPwn\-Loader](https://github.com/PokersKun/PPPwn-Loader) - A WPF\-based PPPwn front\-end
 * 【2024-05-13】[LiuYunPlayer / TuneLab](https://github.com/LiuYunPlayer/TuneLab) - 
 * 【2024-05-12】[paidworkco / solana\-api](https://github.com/paidworkco/solana-api) - API for Solana Tokens
@@ -1767,6 +1785,10 @@
 
 ## Html
 
+* 【2024-05-15】[pybluez / pybluez](https://github.com/pybluez/pybluez) - Bluetooth Python extension module
+* 【2024-05-15】[Suchitra-Sahoo / AgriLearnNetwork](https://github.com/Suchitra-Sahoo/AgriLearnNetwork) - Agrilearn Network is a comprehensive platform designed to empower farmers with essential insights and resources for successful agriculture practices. Our platform serves as an indispensable resource, offering a holistic approach enriched with detailed guidance, in-depth knowledge and strategic management approaches across various facets of farming.
+* 【2024-05-15】[SiddharthBahuguna / NEWS\-AGGREGATOR\-PROJECT](https://github.com/SiddharthBahuguna/NEWS-AGGREGATOR-PROJECT) - The news aggregator project aims to create a centralized platform that curates and organizes news articles and updates from various sources across the internet  It is being developed to address the growing need for a consolidated and user\-friendly platform that offers reliable and diverse news content
+* 【2024-05-15】[imoki / PaperTools](https://github.com/imoki/PaperTools) - 论文查重降重工具汇总
 * 【2024-05-14】[anuragverma108 / SwapReads](https://github.com/anuragverma108/SwapReads) - This repo is officially accepted for GSSOC'2k24  SwapReads com is the ultimate online destination for book enthusiasts to connect, exchange favorite reads, and embark on literary adventures  Create your profile, list the books you're eager to swap, and join a vibrant community of passionate readers 
 * 【2024-05-14】[Suchitra\-Sahoo / AgriLearnNetwork](https://github.com/Suchitra-Sahoo/AgriLearnNetwork) - Agrilearn Network is a comprehensive platform designed to empower farmers with essential insights and resources for successful agriculture practices  Our platform serves as an indispensable resource, offering a holistic approach enriched with detailed guidance, in\-depth knowledge and strategic management approaches across various facets of farming 
 * 【2024-05-14】[juhinagpure / Eduford-university](https://github.com/juhinagpure/Eduford-university) - 
@@ -2037,6 +2059,12 @@
 
 ## Unknown
 
+* 【2024-05-15】[theokwebb / C\-from\-Scratch](https://github.com/theokwebb/C-from-Scratch) - A roadmap to learn C from Scratch
+* 【2024-05-15】[01\-ai / Yi\-1 5](https://github.com/01-ai/Yi-1.5) - Yi\-1 5 is an upgraded version of Yi, delivering stronger performance in coding, math, reasoning, and instruction\-following capability 
+* 【2024-05-15】[AI-Guru / xlstm-resources](https://github.com/AI-Guru/xlstm-resources) - Resources about xLSTM by Sepp Hochreiter
+* 【2024-05-15】[shubham\-gangpuri / Android\-Interview\-Questions](https://github.com/shubham-gangpuri/Android-Interview-Questions) - Android / Koltin / Java questions or topics for android developer interviews
+* 【2024-05-15】[gracenolan / Notes](https://github.com/gracenolan/Notes) - 
+* 【2024-05-15】[eclipse\-sumo / sumo](https://github.com/eclipse-sumo/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks  It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation 
 * 【2024-05-14】[elder\-plinius / L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - J41LBR34K PR0MPT5
 * 【2024-05-14】[rendnature808 / warzone2jpolks](https://github.com/rendnature808/warzone2jpolks) - mw3 skin\-swapper skin\-changer skinchanger skinswapper inventory\-changer warzone\-2\-inventory\-changer warzone\-2\-skinswapper warzone\-2\-skinchanger mw3\-skin\-changer mw3\-skin\-swapper
 * 【2024-05-14】[ef19927648345 / lolnoxa](https://github.com/ef19927648345/lolnoxa) - league\-of\-legends lol lol\-cheat lol\-hack league\-of\-legends\-hack lol\-script lol\-scripts lol\-cheats lol\-script\-free lol\-scripting hack\-lol hacks\-en\-lol tool\-hack\-lol league\-of\-legends\-hacks lol\-script\-hack hacks\-lol lol\-scripter script\-lol hack\-lol\-2023 map\-hack\-lol lol\-hacks\-2024 lol\-cheats\-menu\-free\-download league\-of\-legends lol lol\-cheat lol\-zoom
@@ -2416,6 +2444,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-15】[rust-lang / rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
+* 【2024-05-15】[fossable / goldboot](https://github.com/fossable/goldboot) - Immutable infrastructure for the desktop!
+* 【2024-05-15】[vmfunc / cargo\-buttplug](https://github.com/vmfunc/cargo-buttplug) - ensuring positive reinforcement during long, tiring code sessions~
 * 【2024-05-14】[devflowinc / trieve](https://github.com/devflowinc/trieve) - All\-in\-one infrastructure for building search, recommendations, and RAG  Trieve combines search language models with tools for tuning ranking and relevance 
 * 【2024-05-14】[alloy\-rs / alloy](https://github.com/alloy-rs/alloy) - Transports, Middleware, and Networks for the Alloy project
 * 【2024-05-14】[juhaku / utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
@@ -2737,6 +2768,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-15】[sst / sst](https://github.com/sst/sst) - Build modern full\-stack applications on AWS
+* 【2024-05-15】[webpro / knip](https://github.com/webpro/knip) - ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects  Knip it before you ship it!
+* 【2024-05-15】[googleapis / release\-please\-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
+* 【2024-05-15】[radix\-ui / primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open\-source UI component library for building high\-quality, accessible design systems and web apps  Maintained by @workos 
 * 【2024-05-14】[hiteshchoudhary / ama-app](https://github.com/hiteshchoudhary/ama-app) - 
 * 【2024-05-14】[vuejs / router](https://github.com/vuejs/router) - 🚦 The official router for Vue js
 * 【2024-05-14】[privatenumber / tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node js enhanced to run TypeScript & ESM
