@@ -24,6 +24,9 @@
 
 ## All language
 
+* 【2024-05-16】[HazyResearch / ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels
+* 【2024-05-16】[dependabot / dependabot\-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's 
+* 【2024-05-16】[pipecat\-ai / pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 * 【2024-05-15】[alibaba-damo-academy / FunClip](https://github.com/alibaba-damo-academy/FunClip) - Open-source, accurate and easy-to-use video clipping tool, LLM based AI clipping intergrated || 开源、精准、方便的视频切片工具，集成了大语言模型AI智能剪辑功能
 * 【2024-05-15】[elder-plinius / L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - J41LBR34K PR0MPT5 F0R 4LL M4J0R LLM5
 * 【2024-05-14】[Mr-Wiseguy / N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp) - Tool to statically recompile N64 games into native executables
@@ -470,6 +473,7 @@
 
 ## Java
 
+* 【2024-05-16】[haveno-dex / haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange built on Monero and Tor
 * 【2024-05-15】[TutorLee / Arcane](https://github.com/TutorLee/Arcane) - fortnite\-aimbot fortnite\-hack fortnite\-cheat fortnite\-wallhack fortnite\-esp fortnite\-wallhack fortnite\-skinchanger fortnite\-skin\-swapper
 * 【2024-05-15】[JanusGraph / janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open\-source, distributed graph database
 * 【2024-05-15】[lh728 / 0-to-1-Microservices-Distributed-E-commerce-System-Template](https://github.com/lh728/0-to-1-Microservices-Distributed-E-commerce-System-Template) - This is a microservices-based distributed e-commerce system template designed to leverage a wide range of advanced management tools and practices from 0 to 1.
@@ -588,6 +592,11 @@
 
 ## Python
 
+* 【2024-05-16】[pipecat-ai / pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
+* 【2024-05-16】[Chaphlagical / Deblur-GS](https://github.com/Chaphlagical/Deblur-GS) - [I3D 2024] Deblur-GS: 3D Gaussian Splatting from Camera Motion Blurred Images
+* 【2024-05-16】[nkasmanoff / pi\-card](https://github.com/nkasmanoff/pi-card) - Raspberry Pi Voice Assistant
+* 【2024-05-16】[Aabyss\-Team / ARL](https://github.com/Aabyss-Team/ARL) - ARL官方仓库备份项目：ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
+* 【2024-05-16】[Chainlit / cookbook](https://github.com/Chainlit/cookbook) - Chainlit's cookbook repo
 * 【2024-05-15】[entropy\-research / Devon](https://github.com/entropy-research/Devon) - Devon: An open\-source pair programmer
 * 【2024-05-15】[multimodal-art-projection / MAP-NEO](https://github.com/multimodal-art-projection/MAP-NEO) - 
 * 【2024-05-15】[Chaphlagical / Deblur\-GS](https://github.com/Chaphlagical/Deblur-GS) - [I3D 2024] Deblur\-GS: 3D Gaussian Splatting from Camera Motion Blurred Images
@@ -1214,6 +1223,7 @@
 
 ## Go
 
+* 【2024-05-16】[camunda / camunda\-platform](https://github.com/camunda/camunda-platform) - Links to Camunda Platform 8 resources, releases, and local development config
 * 【2024-05-14】[fdx\-xdf / darkPulse](https://github.com/fdx-xdf/darkPulse) - darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，目前免杀火绒，360，360核晶。
 * 【2024-05-14】[NHAS / wag](https://github.com/NHAS/wag) - Simple Wireguard 2FA
 * 【2024-05-13】[MHNightCat / superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager
@@ -1349,6 +1359,8 @@
 
 ## C
 
+* 【2024-05-16】[PabloMK7 / ArticBaseServer](https://github.com/PabloMK7/ArticBaseServer) - 3DS Game Broadcaster
+* 【2024-05-16】[ArtifexSoftware / mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
 * 【2024-05-15】[BasedHardware / OpenGlass](https://github.com/BasedHardware/OpenGlass) - Turn any glasses into AI\-powered smart glasses
 * 【2024-05-15】[ARM\-software / CMSIS\-DSP](https://github.com/ARM-software/CMSIS-DSP) - CMSIS\-DSP embedded compute library for Cortex\-M and Cortex\-A
 * 【2024-05-15】[cocomelonc / bsprishtina\-2024\-maldev\-workshop](https://github.com/cocomelonc/bsprishtina-2024-maldev-workshop) - BSides Prishtina 2024 Malware Development and Persistence workshop
@@ -1487,6 +1499,7 @@
 
 ## C++
 
+* 【2024-05-16】[Flutterando / calamidade](https://github.com/Flutterando/calamidade) - 
 * 【2024-05-15】[mirage\-project / mirage](https://github.com/mirage-project/mirage) - A multi\-level tensor algebra superoptimizer
 * 【2024-05-15】[ros\-navigation / navigation2](https://github.com/ros-navigation/navigation2) - ROS 2 Navigation Framework and System
 * 【2024-05-14】[marichardson137 / VerletIntegration](https://github.com/marichardson137/VerletIntegration) - 
@@ -1612,6 +1625,11 @@
 
 ## C#
 
+* 【2024-05-16】[victorverdoodt / Disaster-Response-Coordinator](https://github.com/victorverdoodt/Disaster-Response-Coordinator) - O 'Disaster Response Coordinator' é um sistema interativo baseado em inteligência artificial para coordenação e suporte em situações de desastre. Utiliza a API do Gemini para facilitar a comunicação entre vítimas e serviços de emergência, integrando-se ao Sistema Integrado de Informações sobre Desastres v3.
+* 【2024-05-16】[cybersectroll / SharpPersistSD](https://github.com/cybersectroll/SharpPersistSD) - 
+* 【2024-05-16】[n1d3v / naticord](https://github.com/n1d3v/naticord) - Naticord / Native\-cord is a native Discord client targetting modern and old operating systems 
+* 【2024-05-16】[shishkabob27 / CardWarsKingdom](https://github.com/shishkabob27/CardWarsKingdom) - A port of the "Adventure Time: Card Wars Kingdom" mobile game to PC 
+* 【2024-05-16】[microsoft / CopilotStudioSamples](https://github.com/microsoft/CopilotStudioSamples) - 
 * 【2024-05-15】[PokersKun / PPPwn-Loader](https://github.com/PokersKun/PPPwn-Loader) - A WPF-based PPPwn front-end
 * 【2024-05-15】[victorverdoodt / Disaster\-Response\-Coordinator](https://github.com/victorverdoodt/Disaster-Response-Coordinator) - O 'Disaster Response Coordinator' é um sistema interativo baseado em inteligência artificial para coordenação e suporte em situações de desastre  Utiliza a API do Gemini para facilitar a comunicação entre vítimas e serviços de emergência, integrando\-se ao Sistema Integrado de Informações sobre Desastres v3 
 * 【2024-05-14】[PokersKun / PPPwn\-Loader](https://github.com/PokersKun/PPPwn-Loader) - A WPF\-based PPPwn front\-end
@@ -1785,6 +1803,9 @@
 
 ## Html
 
+* 【2024-05-16】[Avdhesh\-Varshney / WebMasterLog](https://github.com/Avdhesh-Varshney/WebMasterLog) - A record of Unique Web Development Projects made with Angular, Next, Node, React, ExpressJS, Redux, Vanilla, Vue, etc  Technologies   
+* 【2024-05-16】[ayush-that / FinVeda](https://github.com/ayush-that/FinVeda) - A web application designed to enhance financial literacy.
+* 【2024-05-16】[yuriskinfo / cheat\-sheets](https://github.com/yuriskinfo/cheat-sheets) - Cheat sheets to help you in daily hands\-on tasks of trouble shooting, configuration, and diagnostics with Fortinet, HP/Aruba, Cisco, Checkpoint and others' gear 
 * 【2024-05-15】[pybluez / pybluez](https://github.com/pybluez/pybluez) - Bluetooth Python extension module
 * 【2024-05-15】[Suchitra-Sahoo / AgriLearnNetwork](https://github.com/Suchitra-Sahoo/AgriLearnNetwork) - Agrilearn Network is a comprehensive platform designed to empower farmers with essential insights and resources for successful agriculture practices. Our platform serves as an indispensable resource, offering a holistic approach enriched with detailed guidance, in-depth knowledge and strategic management approaches across various facets of farming.
 * 【2024-05-15】[SiddharthBahuguna / NEWS\-AGGREGATOR\-PROJECT](https://github.com/SiddharthBahuguna/NEWS-AGGREGATOR-PROJECT) - The news aggregator project aims to create a centralized platform that curates and organizes news articles and updates from various sources across the internet  It is being developed to address the growing need for a consolidated and user\-friendly platform that offers reliable and diverse news content
@@ -2059,6 +2080,9 @@
 
 ## Unknown
 
+* 【2024-05-16】[bobeff / open\-source\-games](https://github.com/bobeff/open-source-games) - A list of open source games 
+* 【2024-05-16】[GigaAI\-research / General\-World\-Models\-Survey](https://github.com/GigaAI-research/General-World-Models-Survey) - 
+* 【2024-05-16】[total\-typescript / tsconfig](https://github.com/total-typescript/tsconfig) - The simplest way to set up your tsconfig json
 * 【2024-05-15】[theokwebb / C\-from\-Scratch](https://github.com/theokwebb/C-from-Scratch) - A roadmap to learn C from Scratch
 * 【2024-05-15】[01\-ai / Yi\-1 5](https://github.com/01-ai/Yi-1.5) - Yi\-1 5 is an upgraded version of Yi, delivering stronger performance in coding, math, reasoning, and instruction\-following capability 
 * 【2024-05-15】[AI-Guru / xlstm-resources](https://github.com/AI-Guru/xlstm-resources) - Resources about xLSTM by Sepp Hochreiter
@@ -2444,6 +2468,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-16】[sigoden / dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav   
+* 【2024-05-16】[ogxd / gxhash](https://github.com/ogxd/gxhash) - The fastest hashing algorithm 📈
+* 【2024-05-16】[vmfunc / cargo-buttplug](https://github.com/vmfunc/cargo-buttplug) - ensuring positive reinforcement during long, tiring code sessions~
 * 【2024-05-15】[rust-lang / rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 * 【2024-05-15】[fossable / goldboot](https://github.com/fossable/goldboot) - Immutable infrastructure for the desktop!
 * 【2024-05-15】[vmfunc / cargo\-buttplug](https://github.com/vmfunc/cargo-buttplug) - ensuring positive reinforcement during long, tiring code sessions~
@@ -2768,6 +2795,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-16】[ztjhz / BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
+* 【2024-05-16】[n4ze3m / page\-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
+* 【2024-05-16】[mikro-orm / mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
+* 【2024-05-16】[withastro / starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high\-performance documentation websites with Astro
+* 【2024-05-16】[MotooriKashin / Bilibili\-Old](https://github.com/MotooriKashin/Bilibili-Old) - 恢复旧版Bilibili页面，为了那些念旧的人。
 * 【2024-05-15】[sst / sst](https://github.com/sst/sst) - Build modern full\-stack applications on AWS
 * 【2024-05-15】[webpro / knip](https://github.com/webpro/knip) - ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects  Knip it before you ship it!
 * 【2024-05-15】[googleapis / release\-please\-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
