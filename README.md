@@ -24,6 +24,8 @@
 
 ## All language
 
+* 【2024-05-18】[likejazz / llama3 np](https://github.com/likejazz/llama3.np) - llama3 np is pure NumPy implementation for Llama 3 model 
+* 【2024-05-18】[google / project\-gameface](https://github.com/google/project-gameface) - 
 * 【2024-05-17】[andydunstall / piko](https://github.com/andydunstall/piko) - An open\-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
 * 【2024-05-17】[Tencent / HunyuanDiT](https://github.com/Tencent/HunyuanDiT) - Hunyuan\-DiT : A Powerful Multi\-Resolution Diffusion Transformer with Fine\-Grained Chinese Understanding
 * 【2024-05-17】[android / kotlin\-multiplatform\-samples](https://github.com/android/kotlin-multiplatform-samples) - Samples showcasing the experimental Kotlin Multiplatform Jetpack libraries
@@ -476,6 +478,9 @@
 
 ## Java
 
+* 【2024-05-18】[google / project-gameface](https://github.com/google/project-gameface) - 
+* 【2024-05-18】[TheWidlarzGroup / react\-native\-video](https://github.com/TheWidlarzGroup/react-native-video) - A <Video /> component for react\-native
+* 【2024-05-18】[opensearch\-project / opensearch\-java](https://github.com/opensearch-project/opensearch-java) - Java Client for OpenSearch
 * 【2024-05-17】[elastic / apm\-agent\-java](https://github.com/elastic/apm-agent-java) - Elastic APM Java Agent
 * 【2024-05-16】[haveno-dex / haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange built on Monero and Tor
 * 【2024-05-15】[TutorLee / Arcane](https://github.com/TutorLee/Arcane) - fortnite\-aimbot fortnite\-hack fortnite\-cheat fortnite\-wallhack fortnite\-esp fortnite\-wallhack fortnite\-skinchanger fortnite\-skin\-swapper
@@ -596,6 +601,11 @@
 
 ## Python
 
+* 【2024-05-18】[likejazz / llama3.np](https://github.com/likejazz/llama3.np) - llama3.np is pure NumPy implementation for Llama 3 model.
+* 【2024-05-18】[yuweihao / MambaOut](https://github.com/yuweihao/MambaOut) - MambaOut: Do We Really Need Mamba for Vision?
+* 【2024-05-18】[Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
+* 【2024-05-18】[roboflow / sports](https://github.com/roboflow/sports) - computer vision and sports
+* 【2024-05-18】[AiGptCode / WordPress\-Auto\-Admin\-Account\-and\-Reverse\-Shell\-cve\-2024\-27956](https://github.com/AiGptCode/WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956) - WordPress Auto Admin Account Creation and Reverse Shell cve\-2024\-27956 automates the process of creating a new administrator account in a WordPress site and executing a reverse shell on the target server  It utilizes the wp\-automatic plugin's CSV injection vulnerability to execute SQL queries
 * 【2024-05-17】[livekit / agents](https://github.com/livekit/agents) - Build real\-time multimodal AI applications 🤖🎙️📹
 * 【2024-05-17】[microsoft / EveryoneCanCode\-US](https://github.com/microsoft/EveryoneCanCode-US) - Everyone Can Code Event (U S  Edition)
 * 【2024-05-17】[AgentOps\-AI / agentops](https://github.com/AgentOps-AI/agentops) - Open source Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more  Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
@@ -1231,6 +1241,8 @@
 
 ## Go
 
+* 【2024-05-18】[umutcamliyurt / PingRAT](https://github.com/umutcamliyurt/PingRAT) - PingRAT secretly passes C2 traffic through firewalls using ICMP payloads 
+* 【2024-05-18】[initia\-labs / initia](https://github.com/initia-labs/initia) - 
 * 【2024-05-17】[chapar\-rest / chapar](https://github.com/chapar-rest/chapar) - Chapar is a simple and easy to use api testing tools aims to help developers to test their api endpoints  it will support http and grpc protocols 
 * 【2024-05-16】[camunda / camunda\-platform](https://github.com/camunda/camunda-platform) - Links to Camunda Platform 8 resources, releases, and local development config
 * 【2024-05-14】[fdx\-xdf / darkPulse](https://github.com/fdx-xdf/darkPulse) - darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，目前免杀火绒，360，360核晶。
@@ -1368,6 +1380,7 @@
 
 ## C
 
+* 【2024-05-18】[mcknly / breadboard\-os](https://github.com/mcknly/breadboard-os) - A firmware platform aimed at quick prototyping, built around FreeRTOS and a feature\-packed CLI
 * 【2024-05-17】[Modos\-Labs / Glider](https://github.com/Modos-Labs/Glider) - Open\-source E\-ink monitor  Mirror of https://gitlab com/zephray/glider
 * 【2024-05-16】[PabloMK7 / ArticBaseServer](https://github.com/PabloMK7/ArticBaseServer) - 3DS Game Broadcaster
 * 【2024-05-16】[ArtifexSoftware / mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
@@ -1509,6 +1522,9 @@
 
 ## C++
 
+* 【2024-05-18】[microsoft / onnxruntime-genai](https://github.com/microsoft/onnxruntime-genai) - Generative AI extensions for onnxruntime
+* 【2024-05-18】[serge1 / ELFIO](https://github.com/serge1/ELFIO) - ELFIO \- ELF (Executable and Linkable Format) reader and producer implemented as a header only C++ library
+* 【2024-05-18】[Lymphatus / caesium\-image\-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats  You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image 
 * 【2024-05-17】[okalachev / flix](https://github.com/okalachev/flix) - Making an ESP32\-based quadcopter from scratch
 * 【2024-05-17】[ValveSoftware / halflife](https://github.com/ValveSoftware/halflife) - Half\-Life 1 engine based games
 * 【2024-05-17】[google\-ai\-edge / mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross\-platform, customizable ML solutions for live and streaming media 
@@ -2097,6 +2113,13 @@
 
 ## Unknown
 
+* 【2024-05-18】[upbrosai / ait](https://github.com/upbrosai/ait) - Introducing "ait," "aiself," and "aits"—new pronouns for AI systems  This repo provides definitions and examples to promote their use in referring to artificial intelligence  Contributions and multi\-language versions are welcome 
+* 【2024-05-18】[pnp / copilot\-prompts](https://github.com/pnp/copilot-prompts) - Examples of prompts for Microsoft Copilot
+* 【2024-05-18】[ruesandora / Initia](https://github.com/ruesandora/Initia) - 
+* 【2024-05-18】[promethron / Prometheus\-Tron\-Brute\-Force](https://github.com/promethron/Prometheus-Tron-Brute-Force) - Tron Wallets Brute Force
+* 【2024-05-18】[LayerZero-Labs / sybil-report](https://github.com/LayerZero-Labs/sybil-report) - 
+* 【2024-05-18】[ProxymanApp / Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern  Native  Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+* 【2024-05-18】[Bullas / ajudadev\-rs](https://github.com/Bullas/ajudadev-rs) - Lista de iniciativas para ajudar o Rio Grande do Sul que precisam de voluntários
 * 【2024-05-17】[0x676e67 / js\-fuck](https://github.com/0x676e67/js-fuck) - 无视ip、账号强开gpt\-4o
 * 【2024-05-17】[LayerZero\-Labs / sybil\-report](https://github.com/LayerZero-Labs/sybil-report) - 
 * 【2024-05-17】[langgptai / wonderful\-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
@@ -2489,6 +2512,12 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-18】[quarylabs / quary](https://github.com/quarylabs/quary) - Open\-source BI for engineers
+* 【2024-05-18】[mainmatter / 100\-exercises\-to\-learn\-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self\-paced course to learn Rust, one exercise at a time 
+* 【2024-05-18】[AleoNet / snarkOS](https://github.com/AleoNet/snarkOS) - A Decentralized Operating System for ZK Applications
+* 【2024-05-18】[graphprotocol / graph\-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
+* 【2024-05-18】[benfred / py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
+* 【2024-05-18】[HigherOrderCO / Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high\-level programming language
 * 【2024-05-17】[Sh1Yo / x8](https://github.com/Sh1Yo/x8) - Hidden parameters discovery suite
 * 【2024-05-16】[sigoden / dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav   
 * 【2024-05-16】[ogxd / gxhash](https://github.com/ogxd/gxhash) - The fastest hashing algorithm 📈
@@ -2817,6 +2846,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-18】[nkzw\-tech / athena\-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern\-retro turn\-based tactical strategy game  Athena Crisis is open core technology 
+* 【2024-05-18】[brick-design / brick-design](https://github.com/brick-design/brick-design) - 低代码框架，支持流式布局与自由布局拖拽编排，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示、自由布局支持辅助对齐、支持自动吸附、实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
 * 【2024-05-17】[devcontainers / cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer json 
 * 【2024-05-17】[juice-shop / juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 * 【2024-05-17】[callstack / react\-native\-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
