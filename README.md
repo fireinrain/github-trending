@@ -24,6 +24,10 @@
 
 ## All language
 
+* 【2024-05-19】[expo / react\-conf\-app](https://github.com/expo/react-conf-app) - 
+* 【2024-05-19】[apple / swift\-log](https://github.com/apple/swift-log) - A Logging API for Swift
+* 【2024-05-19】[felangel / data_class](https://github.com/felangel/data_class) - Experimental support for data classes in Dart using macros 
+* 【2024-05-19】[tjdevries / config nvim](https://github.com/tjdevries/config.nvim) - my nvim config
 * 【2024-05-18】[likejazz / llama3 np](https://github.com/likejazz/llama3.np) - llama3 np is pure NumPy implementation for Llama 3 model 
 * 【2024-05-18】[google / project\-gameface](https://github.com/google/project-gameface) - 
 * 【2024-05-17】[andydunstall / piko](https://github.com/andydunstall/piko) - An open\-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
@@ -601,6 +605,10 @@
 
 ## Python
 
+* 【2024-05-19】[pypa / hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
+* 【2024-05-19】[JadyXuan / NTTS](https://github.com/JadyXuan/NTTS) - NO TIME TO SLEEP
+* 【2024-05-19】[modelscope / swift](https://github.com/modelscope/swift) - ms\-swift: Use PEFT or Full\-parameter to finetune 200+ LLMs or 15+ MLLMs
+* 【2024-05-19】[zhenglinpan / SakugaDataset](https://github.com/zhenglinpan/SakugaDataset) - Official Repository for Sakuga\-42M Dataset
 * 【2024-05-18】[likejazz / llama3.np](https://github.com/likejazz/llama3.np) - llama3.np is pure NumPy implementation for Llama 3 model.
 * 【2024-05-18】[yuweihao / MambaOut](https://github.com/yuweihao/MambaOut) - MambaOut: Do We Really Need Mamba for Vision?
 * 【2024-05-18】[Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
@@ -1241,6 +1249,10 @@
 
 ## Go
 
+* 【2024-05-19】[linux\-do / override](https://github.com/linux-do/override) - 啥也不是
+* 【2024-05-19】[kubeflow / training\-operator](https://github.com/kubeflow/training-operator) - Distributed ML Training and Fine\-Tuning on Kubernetes
+* 【2024-05-19】[firebase / firebase\-admin\-go](https://github.com/firebase/firebase-admin-go) - Firebase Admin Go SDK
+* 【2024-05-19】[initia-labs / initia](https://github.com/initia-labs/initia) - 
 * 【2024-05-18】[umutcamliyurt / PingRAT](https://github.com/umutcamliyurt/PingRAT) - PingRAT secretly passes C2 traffic through firewalls using ICMP payloads 
 * 【2024-05-18】[initia\-labs / initia](https://github.com/initia-labs/initia) - 
 * 【2024-05-17】[chapar\-rest / chapar](https://github.com/chapar-rest/chapar) - Chapar is a simple and easy to use api testing tools aims to help developers to test their api endpoints  it will support http and grpc protocols 
@@ -1380,6 +1392,9 @@
 
 ## C
 
+* 【2024-05-19】[mcknly / breadboard-os](https://github.com/mcknly/breadboard-os) - A firmware platform aimed at quick prototyping, built around FreeRTOS and a feature-packed CLI
+* 【2024-05-19】[0xNinjaCyclone / hellMaker](https://github.com/0xNinjaCyclone/hellMaker) - Generate FUD backdoors
+* 【2024-05-19】[tpunix / SAROO](https://github.com/tpunix/SAROO) - SAROO is a SEGA Saturn HDloader
 * 【2024-05-18】[mcknly / breadboard\-os](https://github.com/mcknly/breadboard-os) - A firmware platform aimed at quick prototyping, built around FreeRTOS and a feature\-packed CLI
 * 【2024-05-17】[Modos\-Labs / Glider](https://github.com/Modos-Labs/Glider) - Open\-source E\-ink monitor  Mirror of https://gitlab com/zephray/glider
 * 【2024-05-16】[PabloMK7 / ArticBaseServer](https://github.com/PabloMK7/ArticBaseServer) - 3DS Game Broadcaster
@@ -1522,6 +1537,9 @@
 
 ## C++
 
+* 【2024-05-19】[ip7z / 7zip](https://github.com/ip7z/7zip) - 7\-Zip
+* 【2024-05-19】[Lymphatus / caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats. You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.
+* 【2024-05-19】[snake\-4 / Zygisk\-Assistant](https://github.com/snake-4/Zygisk-Assistant) - A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5 0 and above 
 * 【2024-05-18】[microsoft / onnxruntime-genai](https://github.com/microsoft/onnxruntime-genai) - Generative AI extensions for onnxruntime
 * 【2024-05-18】[serge1 / ELFIO](https://github.com/serge1/ELFIO) - ELFIO \- ELF (Executable and Linkable Format) reader and producer implemented as a header only C++ library
 * 【2024-05-18】[Lymphatus / caesium\-image\-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats  You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image 
@@ -1834,6 +1852,9 @@
 
 ## Html
 
+* 【2024-05-19】[Jisan\-mia / dom\-projects](https://github.com/Jisan-mia/dom-projects) - dom\-projects is an open\-source web app that helps you learn frontend development faster with a hands\-on practice style  It is a collection of projects that you can use to learn HTML, CSS and JavaScript
+* 【2024-05-19】[bincooo / chatgpt\-adapter](https://github.com/bincooo/chatgpt-adapter) - 集成了openai\-api、bing、gemini、coze、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。
+* 【2024-05-19】[Mojang / bedrock-protocol-docs](https://github.com/Mojang/bedrock-protocol-docs) - Documentation of the Bedrock network protocol. Protocol is subject to change release over release.
 * 【2024-05-17】[DaGeger / paper\-conversion](https://github.com/DaGeger/paper-conversion) - 文章去重助手 论文降重 智能改写 智能原创
 * 【2024-05-17】[pytorch / kineto](https://github.com/pytorch/kineto) - A CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters 
 * 【2024-05-16】[Avdhesh\-Varshney / WebMasterLog](https://github.com/Avdhesh-Varshney/WebMasterLog) - A record of Unique Web Development Projects made with Angular, Next, Node, React, ExpressJS, Redux, Vanilla, Vue, etc  Technologies   
@@ -2113,6 +2134,11 @@
 
 ## Unknown
 
+* 【2024-05-19】[Bullas / ajudadev-rs](https://github.com/Bullas/ajudadev-rs) - Lista de iniciativas para ajudar o Rio Grande do Sul que precisam de voluntários
+* 【2024-05-19】[hevar / awesome\-react\-tailwindcss\-ui\-components](https://github.com/hevar/awesome-react-tailwindcss-ui-components) - 
+* 【2024-05-19】[promethron / Prometheus-Tron-Brute-Force](https://github.com/promethron/Prometheus-Tron-Brute-Force) - Tron Wallets Brute Force
+* 【2024-05-19】[pnp / copilot-prompts](https://github.com/pnp/copilot-prompts) - Examples of prompts for Microsoft Copilot
+* 【2024-05-19】[eclipse-sumo / sumo](https://github.com/eclipse-sumo/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
 * 【2024-05-18】[upbrosai / ait](https://github.com/upbrosai/ait) - Introducing "ait," "aiself," and "aits"—new pronouns for AI systems  This repo provides definitions and examples to promote their use in referring to artificial intelligence  Contributions and multi\-language versions are welcome 
 * 【2024-05-18】[pnp / copilot\-prompts](https://github.com/pnp/copilot-prompts) - Examples of prompts for Microsoft Copilot
 * 【2024-05-18】[ruesandora / Initia](https://github.com/ruesandora/Initia) - 
@@ -2512,6 +2538,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-19】[mainmatter / 100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
+* 【2024-05-19】[rosedblabs / rust-practice](https://github.com/rosedblabs/rust-practice) - some tiny learning projects in Rust
+* 【2024-05-19】[FoxIO\-LLC / ja4](https://github.com/FoxIO-LLC/ja4) - JA4+ is a suite of network fingerprinting standards
 * 【2024-05-18】[quarylabs / quary](https://github.com/quarylabs/quary) - Open\-source BI for engineers
 * 【2024-05-18】[mainmatter / 100\-exercises\-to\-learn\-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self\-paced course to learn Rust, one exercise at a time 
 * 【2024-05-18】[AleoNet / snarkOS](https://github.com/AleoNet/snarkOS) - A Decentralized Operating System for ZK Applications
@@ -2846,6 +2875,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-19】[expo / react-conf-app](https://github.com/expo/react-conf-app) - 
+* 【2024-05-19】[nkzw-tech / athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
+* 【2024-05-19】[visgl / react\-google\-maps](https://github.com/visgl/react-google-maps) - React components and hooks for the Google Maps JavaScript API
+* 【2024-05-19】[nhn / tui calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need 
 * 【2024-05-18】[nkzw\-tech / athena\-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern\-retro turn\-based tactical strategy game  Athena Crisis is open core technology 
 * 【2024-05-18】[brick-design / brick-design](https://github.com/brick-design/brick-design) - 低代码框架，支持流式布局与自由布局拖拽编排，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示、自由布局支持辅助对齐、支持自动吸附、实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
 * 【2024-05-17】[devcontainers / cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer json 
