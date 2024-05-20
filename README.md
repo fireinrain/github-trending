@@ -24,6 +24,9 @@
 
 ## All language
 
+* 【2024-05-20】[adrianhajdin / portfolio](https://github.com/adrianhajdin/portfolio) - Modern & Minimal JS Mastery Portfolio
+* 【2024-05-20】[rashadphz / farfalle](https://github.com/rashadphz/farfalle) - 🔍 ai search engine \- self\-host local or cloud language models
+* 【2024-05-20】[joye61 / pic\-smaller](https://github.com/joye61/pic-smaller) - Pic Smaller – Compress JPEG, PNG, WEBP, AVIF and GIF images intelligently
 * 【2024-05-19】[expo / react\-conf\-app](https://github.com/expo/react-conf-app) - 
 * 【2024-05-19】[apple / swift\-log](https://github.com/apple/swift-log) - A Logging API for Swift
 * 【2024-05-19】[felangel / data_class](https://github.com/felangel/data_class) - Experimental support for data classes in Dart using macros 
@@ -482,6 +485,7 @@
 
 ## Java
 
+* 【2024-05-20】[P4r4d1se / heapdump_shiro_vuln](https://github.com/P4r4d1se/heapdump_shiro_vuln) - A heapdump leaks Shiro key causing RCE vulnerability environment 
 * 【2024-05-18】[google / project-gameface](https://github.com/google/project-gameface) - 
 * 【2024-05-18】[TheWidlarzGroup / react\-native\-video](https://github.com/TheWidlarzGroup/react-native-video) - A <Video /> component for react\-native
 * 【2024-05-18】[opensearch\-project / opensearch\-java](https://github.com/opensearch-project/opensearch-java) - Java Client for OpenSearch
@@ -605,6 +609,7 @@
 
 ## Python
 
+* 【2024-05-20】[instaloader / instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram 
 * 【2024-05-19】[pypa / hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 * 【2024-05-19】[JadyXuan / NTTS](https://github.com/JadyXuan/NTTS) - NO TIME TO SLEEP
 * 【2024-05-19】[modelscope / swift](https://github.com/modelscope/swift) - ms\-swift: Use PEFT or Full\-parameter to finetune 200+ LLMs or 15+ MLLMs
@@ -1017,6 +1022,7 @@
 
 ## Javascript
 
+* 【2024-05-20】[joye61 / pic-smaller](https://github.com/joye61/pic-smaller) - Pic Smaller – Compress JPEG, PNG, WEBP, AVIF and GIF images intelligently
 * 【2024-05-17】[google\-marketing\-solutions / ga4_dataform](https://github.com/google-marketing-solutions/ga4_dataform) - 
 * 【2024-05-15】[GameSphere-MultiPlayer / Dot-Box](https://github.com/GameSphere-MultiPlayer/Dot-Box) - Dot-Box is a game where players take turns drawing lines between dots to create boxes. The player who completes the most boxes wins. It's a simple yet strategic game enjoyed by people of all ages.
 * 【2024-05-15】[aegir\-assembly / omni\-clip](https://github.com/aegir-assembly/omni-clip) - Open source video editing web application
@@ -1392,6 +1398,7 @@
 
 ## C
 
+* 【2024-05-20】[google / wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
 * 【2024-05-19】[mcknly / breadboard-os](https://github.com/mcknly/breadboard-os) - A firmware platform aimed at quick prototyping, built around FreeRTOS and a feature-packed CLI
 * 【2024-05-19】[0xNinjaCyclone / hellMaker](https://github.com/0xNinjaCyclone/hellMaker) - Generate FUD backdoors
 * 【2024-05-19】[tpunix / SAROO](https://github.com/tpunix/SAROO) - SAROO is a SEGA Saturn HDloader
@@ -1537,6 +1544,9 @@
 
 ## C++
 
+* 【2024-05-20】[snort3 / snort3](https://github.com/snort3/snort3) - Snort++
+* 【2024-05-20】[yileijin / Bootstrap\-3D\-GS](https://github.com/yileijin/Bootstrap-3D-GS) - 
+* 【2024-05-20】[ludouzi / fooyin](https://github.com/ludouzi/fooyin) - A customisable music player
 * 【2024-05-19】[ip7z / 7zip](https://github.com/ip7z/7zip) - 7\-Zip
 * 【2024-05-19】[Lymphatus / caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats. You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.
 * 【2024-05-19】[snake\-4 / Zygisk\-Assistant](https://github.com/snake-4/Zygisk-Assistant) - A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5 0 and above 
@@ -1674,6 +1684,9 @@
 
 ## C#
 
+* 【2024-05-20】[thisisnabi / DigitalWallet](https://github.com/thisisnabi/DigitalWallet) - The E\-Commerce User Wallet Service designed in ASP NET Core
+* 【2024-05-20】[m4rs\-mt / ILGPU](https://github.com/m4rs-mt/ILGPU) - ILGPU JIT Compiler for high\-performance  Net GPU programs
+* 【2024-05-20】[uberhalit / EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore) - A small utility to remove frame rate limit, change FOV, add widescreen support and more for Elden Ring
 * 【2024-05-16】[victorverdoodt / Disaster-Response-Coordinator](https://github.com/victorverdoodt/Disaster-Response-Coordinator) - O 'Disaster Response Coordinator' é um sistema interativo baseado em inteligência artificial para coordenação e suporte em situações de desastre. Utiliza a API do Gemini para facilitar a comunicação entre vítimas e serviços de emergência, integrando-se ao Sistema Integrado de Informações sobre Desastres v3.
 * 【2024-05-16】[cybersectroll / SharpPersistSD](https://github.com/cybersectroll/SharpPersistSD) - 
 * 【2024-05-16】[n1d3v / naticord](https://github.com/n1d3v/naticord) - Naticord / Native\-cord is a native Discord client targetting modern and old operating systems 
@@ -1852,6 +1865,8 @@
 
 ## Html
 
+* 【2024-05-20】[nghuyhoang2509 / Office\-and\-Windows\-Activator](https://github.com/nghuyhoang2509/Office-and-Windows-Activator) - kmsauto\-free\-download\-2024 kmsauto\-download\-2024 windows\-free\-activation kmsauto\-2024 kmsauto\-download\-windows\-11 kmsauto\-activate kmsauto\-download\-windows\-10 windows\-activate\-free free\-activation\-tutorial kmsauto\-activator\-download windows\-activator\-download kmsauto\-download kmsauto\-net\-download kmsauto kmsauto\-free\-download windows\-11\-activat
+* 【2024-05-20】[GameSphere\-MultiPlayer / Community\-Page](https://github.com/GameSphere-MultiPlayer/Community-Page) - A Chrome gaming community page is an online space within the Chrome browser where gamers connect, discuss games, share content, get updates, troubleshoot issues, join events, and interact with developers  It's a hub for all things gaming\-related in the Chrome ecosystem 
 * 【2024-05-19】[Jisan\-mia / dom\-projects](https://github.com/Jisan-mia/dom-projects) - dom\-projects is an open\-source web app that helps you learn frontend development faster with a hands\-on practice style  It is a collection of projects that you can use to learn HTML, CSS and JavaScript
 * 【2024-05-19】[bincooo / chatgpt\-adapter](https://github.com/bincooo/chatgpt-adapter) - 集成了openai\-api、bing、gemini、coze、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。
 * 【2024-05-19】[Mojang / bedrock-protocol-docs](https://github.com/Mojang/bedrock-protocol-docs) - Documentation of the Bedrock network protocol. Protocol is subject to change release over release.
@@ -2134,6 +2149,14 @@
 
 ## Unknown
 
+* 【2024-05-20】[pREffff / dbd](https://github.com/pREffff/dbd) - dbd dbd\-cheat dbd\-cheats dbd\-hack dbd\-hacks dbd\-esp dbd\-wallhack dbd\-wh cheat\-dbd cheats\-dbd hack\-dbd hacks\-dbd dbd\-free\-hack dbd\-legit dbd\-rage
+* 【2024-05-20】[Kekichd / Hwid\-Full\-Spoof](https://github.com/Kekichd/Hwid-Full-Spoof) - hwid\-spoofer hwid\-spoofer\-poc hwid\-bypass hwid\-spoofer\-valorant hwid\-changer hwid\-spoofer\-undetected hwid\-spoofer\-rust hwid\-spoofer\-apex\-legends hwid\-spoofer\-warzone hwid\-spoofer\-eac hwid\-spoofer\-fortnite free\-hwid\-spoofer hwid\-spoofer\-apex download\-free\-hwid\-spoofer free\-hwid\-changer hwid\-spoofer\-free\-download free\-download\-hwid\-spoofer free\-down
+* 【2024-05-20】[sh1004pgf / CryptoHopperFree](https://github.com/sh1004pgf/CryptoHopperFree) - cryptohopper\-crack cryptohopper\-bot\-crack cryptohopper\-bot cryptohopper\-free\-bot cryptohopper\-software cryptohopper\-free\-download cryptohopper\-pro\-crack cryptohopper\-pro\-version cryptohopper\-full\-version
+* 【2024-05-20】[hshaweghaas / BitcoinFlasher](https://github.com/hshaweghaas/BitcoinFlasher) - 
+* 【2024-05-20】[letthedataconfess / Data\-Engineering\-Books](https://github.com/letthedataconfess/Data-Engineering-Books) - 
+* 【2024-05-20】[bankme\-tech / aprove\-me](https://github.com/bankme-tech/aprove-me) - Este é o repositório utilizado para a realização dos testes seletivos para novos Devs na Bankme
+* 【2024-05-20】[solana\-mobile / solana\-mobile\-stack\-sdk](https://github.com/solana-mobile/solana-mobile-stack-sdk) - 
+* 【2024-05-20】[epoch\-philosophy / homepage\-example](https://github.com/epoch-philosophy/homepage-example) - Homepage can be a bit difficult, and it can be tough to visualize what the YAML configuration is doing  There's also few examples out there of full configurations that are real world examples  So figured I would use my personal dashboard as a guide that could be helpful to others  Homepage's documentation below:
 * 【2024-05-19】[Bullas / ajudadev-rs](https://github.com/Bullas/ajudadev-rs) - Lista de iniciativas para ajudar o Rio Grande do Sul que precisam de voluntários
 * 【2024-05-19】[hevar / awesome\-react\-tailwindcss\-ui\-components](https://github.com/hevar/awesome-react-tailwindcss-ui-components) - 
 * 【2024-05-19】[promethron / Prometheus-Tron-Brute-Force](https://github.com/promethron/Prometheus-Tron-Brute-Force) - Tron Wallets Brute Force
@@ -2538,6 +2561,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-20】[VirusTotal / yara\-x](https://github.com/VirusTotal/yara-x) - A rewrite of YARA in Rust 
 * 【2024-05-19】[mainmatter / 100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 * 【2024-05-19】[rosedblabs / rust-practice](https://github.com/rosedblabs/rust-practice) - some tiny learning projects in Rust
 * 【2024-05-19】[FoxIO\-LLC / ja4](https://github.com/FoxIO-LLC/ja4) - JA4+ is a suite of network fingerprinting standards
@@ -2875,6 +2899,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-20】[tradingview / lightweight\-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
+* 【2024-05-20】[initia\-labs / initia\-registry](https://github.com/initia-labs/initia-registry) - 
 * 【2024-05-19】[expo / react-conf-app](https://github.com/expo/react-conf-app) - 
 * 【2024-05-19】[nkzw-tech / athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 * 【2024-05-19】[visgl / react\-google\-maps](https://github.com/visgl/react-google-maps) - React components and hooks for the Google Maps JavaScript API
