@@ -24,6 +24,10 @@
 
 ## All language
 
+* 【2024-05-21】[Raphire / Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience  This script works for both windows 10 and windows 11 
+* 【2024-05-21】[folke / tokyonight nvim](https://github.com/folke/tokyonight.nvim) - 🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins  Includes additional themes for Kitty, Alacritty, iTerm and Fish 
+* 【2024-05-21】[entropy-research / Devon](https://github.com/entropy-research/Devon) - Devon: An open-source pair programmer
+* 【2024-05-21】[mukel / llama3 java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
 * 【2024-05-20】[adrianhajdin / portfolio](https://github.com/adrianhajdin/portfolio) - Modern & Minimal JS Mastery Portfolio
 * 【2024-05-20】[rashadphz / farfalle](https://github.com/rashadphz/farfalle) - 🔍 ai search engine \- self\-host local or cloud language models
 * 【2024-05-20】[joye61 / pic\-smaller](https://github.com/joye61/pic-smaller) - Pic Smaller – Compress JPEG, PNG, WEBP, AVIF and GIF images intelligently
@@ -485,6 +489,7 @@
 
 ## Java
 
+* 【2024-05-21】[mukel / llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
 * 【2024-05-20】[P4r4d1se / heapdump_shiro_vuln](https://github.com/P4r4d1se/heapdump_shiro_vuln) - A heapdump leaks Shiro key causing RCE vulnerability environment 
 * 【2024-05-18】[google / project-gameface](https://github.com/google/project-gameface) - 
 * 【2024-05-18】[TheWidlarzGroup / react\-native\-video](https://github.com/TheWidlarzGroup/react-native-video) - A <Video /> component for react\-native
@@ -609,6 +614,7 @@
 
 ## Python
 
+* 【2024-05-21】[minyoungg / platonic\-rep](https://github.com/minyoungg/platonic-rep) - 
 * 【2024-05-20】[instaloader / instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram 
 * 【2024-05-19】[pypa / hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 * 【2024-05-19】[JadyXuan / NTTS](https://github.com/JadyXuan/NTTS) - NO TIME TO SLEEP
@@ -1022,6 +1028,7 @@
 
 ## Javascript
 
+* 【2024-05-21】[sindresorhus / create\-dmg](https://github.com/sindresorhus/create-dmg) - Create a good\-looking DMG for your macOS app in seconds
 * 【2024-05-20】[joye61 / pic-smaller](https://github.com/joye61/pic-smaller) - Pic Smaller – Compress JPEG, PNG, WEBP, AVIF and GIF images intelligently
 * 【2024-05-17】[google\-marketing\-solutions / ga4_dataform](https://github.com/google-marketing-solutions/ga4_dataform) - 
 * 【2024-05-15】[GameSphere-MultiPlayer / Dot-Box](https://github.com/GameSphere-MultiPlayer/Dot-Box) - Dot-Box is a game where players take turns drawing lines between dots to create boxes. The player who completes the most boxes wins. It's a simple yet strategic game enjoyed by people of all ages.
@@ -1255,6 +1262,8 @@
 
 ## Go
 
+* 【2024-05-21】[skx / cpmulator](https://github.com/skx/cpmulator) - Golang CP/M emulator for playing zork, lighthouse\-of\-doom, etc
+* 【2024-05-21】[NibiruChain / nibiru](https://github.com/NibiruChain/nibiru) - Nibiru Chain: The breakthrough smart contract platform ushering in the next era of money  Nibiru powers an ecosystem of dApps including perps, RWAs, and more 
 * 【2024-05-19】[linux\-do / override](https://github.com/linux-do/override) - 啥也不是
 * 【2024-05-19】[kubeflow / training\-operator](https://github.com/kubeflow/training-operator) - Distributed ML Training and Fine\-Tuning on Kubernetes
 * 【2024-05-19】[firebase / firebase\-admin\-go](https://github.com/firebase/firebase-admin-go) - Firebase Admin Go SDK
@@ -1544,6 +1553,7 @@
 
 ## C++
 
+* 【2024-05-21】[jsecurity101 / ETWInspector](https://github.com/jsecurity101/ETWInspector) - 
 * 【2024-05-20】[snort3 / snort3](https://github.com/snort3/snort3) - Snort++
 * 【2024-05-20】[yileijin / Bootstrap\-3D\-GS](https://github.com/yileijin/Bootstrap-3D-GS) - 
 * 【2024-05-20】[ludouzi / fooyin](https://github.com/ludouzi/fooyin) - A customisable music player
@@ -1684,6 +1694,7 @@
 
 ## C#
 
+* 【2024-05-21】[DaBaival / wemod\-pro\-unlocker](https://github.com/DaBaival/wemod-pro-unlocker) - 
 * 【2024-05-20】[thisisnabi / DigitalWallet](https://github.com/thisisnabi/DigitalWallet) - The E\-Commerce User Wallet Service designed in ASP NET Core
 * 【2024-05-20】[m4rs\-mt / ILGPU](https://github.com/m4rs-mt/ILGPU) - ILGPU JIT Compiler for high\-performance  Net GPU programs
 * 【2024-05-20】[uberhalit / EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore) - A small utility to remove frame rate limit, change FOV, add widescreen support and more for Elden Ring
@@ -1865,6 +1876,7 @@
 
 ## Html
 
+* 【2024-05-21】[jaganjavid / 100\-Project](https://github.com/jaganjavid/100-Project) - ALl project
 * 【2024-05-20】[nghuyhoang2509 / Office\-and\-Windows\-Activator](https://github.com/nghuyhoang2509/Office-and-Windows-Activator) - kmsauto\-free\-download\-2024 kmsauto\-download\-2024 windows\-free\-activation kmsauto\-2024 kmsauto\-download\-windows\-11 kmsauto\-activate kmsauto\-download\-windows\-10 windows\-activate\-free free\-activation\-tutorial kmsauto\-activator\-download windows\-activator\-download kmsauto\-download kmsauto\-net\-download kmsauto kmsauto\-free\-download windows\-11\-activat
 * 【2024-05-20】[GameSphere\-MultiPlayer / Community\-Page](https://github.com/GameSphere-MultiPlayer/Community-Page) - A Chrome gaming community page is an online space within the Chrome browser where gamers connect, discuss games, share content, get updates, troubleshoot issues, join events, and interact with developers  It's a hub for all things gaming\-related in the Chrome ecosystem 
 * 【2024-05-19】[Jisan\-mia / dom\-projects](https://github.com/Jisan-mia/dom-projects) - dom\-projects is an open\-source web app that helps you learn frontend development faster with a hands\-on practice style  It is a collection of projects that you can use to learn HTML, CSS and JavaScript
@@ -2149,6 +2161,9 @@
 
 ## Unknown
 
+* 【2024-05-21】[solana-mobile / solana-mobile-stack-sdk](https://github.com/solana-mobile/solana-mobile-stack-sdk) - 
+* 【2024-05-21】[ruesandora / 0rbit](https://github.com/ruesandora/0rbit) - 
+* 【2024-05-21】[trusted\-point / initia\-tools](https://github.com/trusted-point/initia-tools) - 
 * 【2024-05-20】[pREffff / dbd](https://github.com/pREffff/dbd) - dbd dbd\-cheat dbd\-cheats dbd\-hack dbd\-hacks dbd\-esp dbd\-wallhack dbd\-wh cheat\-dbd cheats\-dbd hack\-dbd hacks\-dbd dbd\-free\-hack dbd\-legit dbd\-rage
 * 【2024-05-20】[Kekichd / Hwid\-Full\-Spoof](https://github.com/Kekichd/Hwid-Full-Spoof) - hwid\-spoofer hwid\-spoofer\-poc hwid\-bypass hwid\-spoofer\-valorant hwid\-changer hwid\-spoofer\-undetected hwid\-spoofer\-rust hwid\-spoofer\-apex\-legends hwid\-spoofer\-warzone hwid\-spoofer\-eac hwid\-spoofer\-fortnite free\-hwid\-spoofer hwid\-spoofer\-apex download\-free\-hwid\-spoofer free\-hwid\-changer hwid\-spoofer\-free\-download free\-download\-hwid\-spoofer free\-down
 * 【2024-05-20】[sh1004pgf / CryptoHopperFree](https://github.com/sh1004pgf/CryptoHopperFree) - cryptohopper\-crack cryptohopper\-bot\-crack cryptohopper\-bot cryptohopper\-free\-bot cryptohopper\-software cryptohopper\-free\-download cryptohopper\-pro\-crack cryptohopper\-pro\-version cryptohopper\-full\-version
@@ -2561,6 +2576,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-21】[orhun / flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs)
+* 【2024-05-21】[actix / actix\-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust 
 * 【2024-05-20】[VirusTotal / yara\-x](https://github.com/VirusTotal/yara-x) - A rewrite of YARA in Rust 
 * 【2024-05-19】[mainmatter / 100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 * 【2024-05-19】[rosedblabs / rust-practice](https://github.com/rosedblabs/rust-practice) - some tiny learning projects in Rust
@@ -2899,6 +2916,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-21】[solidSpoon / DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。\#美剧 \#播放器 \#听力
+* 【2024-05-21】[Unleash / unleash](https://github.com/Unleash/unleash) - Open\-source feature management solution built for developers 
+* 【2024-05-21】[MCSManager / MCSManager](https://github.com/MCSManager/MCSManager) - Free, Secure, Distributed, Modern Control Panel for Minecraft and Steam Game Servers 
 * 【2024-05-20】[tradingview / lightweight\-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 * 【2024-05-20】[initia\-labs / initia\-registry](https://github.com/initia-labs/initia-registry) - 
 * 【2024-05-19】[expo / react-conf-app](https://github.com/expo/react-conf-app) - 
