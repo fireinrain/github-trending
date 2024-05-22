@@ -24,6 +24,8 @@
 
 ## All language
 
+* 【2024-05-22】[naklecha / llama3\-from\-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
+* 【2024-05-22】[folke / tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 * 【2024-05-21】[Raphire / Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience  This script works for both windows 10 and windows 11 
 * 【2024-05-21】[folke / tokyonight nvim](https://github.com/folke/tokyonight.nvim) - 🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins  Includes additional themes for Kitty, Alacritty, iTerm and Fish 
 * 【2024-05-21】[entropy-research / Devon](https://github.com/entropy-research/Devon) - Devon: An open-source pair programmer
@@ -614,6 +616,13 @@
 
 ## Python
 
+* 【2024-05-22】[IDEA\-Research / Grounding\-DINO\-1 5\-API](https://github.com/IDEA-Research/Grounding-DINO-1.5-API) - API for Grounding DINO 1 5: IDEA Research's Most Capable Open\-World Object Detection Model Series
+* 【2024-05-22】[alexfazio / viral\-clips\-crew](https://github.com/alexfazio/viral-clips-crew) - Your CrewAI Powered Video Editing Assistant
+* 【2024-05-22】[lanqian528 / chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format 
+* 【2024-05-22】[HumanSignal / labelImg](https://github.com/HumanSignal/labelImg) - LabelImg is now part of the Label Studio community  The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source data labeling tool for images, text, hypertext, audio, video and time\-series data 
+* 【2024-05-22】[Fooyao / web3Task](https://github.com/Fooyao/web3Task) - 活动脚本汇总，更新通知介绍频道：https://t me/hddinfo
+* 【2024-05-22】[lipku / metahuman-stream](https://github.com/lipku/metahuman-stream) - Real time streaming digital human based on nerf
+* 【2024-05-22】[lucidrains / alphafold3-pytorch](https://github.com/lucidrains/alphafold3-pytorch) - Implementation of Alphafold 3 in Pytorch
 * 【2024-05-21】[minyoungg / platonic\-rep](https://github.com/minyoungg/platonic-rep) - 
 * 【2024-05-20】[instaloader / instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram 
 * 【2024-05-19】[pypa / hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
@@ -1028,6 +1037,8 @@
 
 ## Javascript
 
+* 【2024-05-22】[metaskills / experts](https://github.com/metaskills/experts) - Experts js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail 
+* 【2024-05-22】[V2RaySSR / Free\-VLESS](https://github.com/V2RaySSR/Free-VLESS) - 通过 Cloudflare，免费部署 VLESS节点
 * 【2024-05-21】[sindresorhus / create\-dmg](https://github.com/sindresorhus/create-dmg) - Create a good\-looking DMG for your macOS app in seconds
 * 【2024-05-20】[joye61 / pic-smaller](https://github.com/joye61/pic-smaller) - Pic Smaller – Compress JPEG, PNG, WEBP, AVIF and GIF images intelligently
 * 【2024-05-17】[google\-marketing\-solutions / ga4_dataform](https://github.com/google-marketing-solutions/ga4_dataform) - 
@@ -1407,6 +1418,8 @@
 
 ## C
 
+* 【2024-05-22】[rovertronic / Mario\-Builder\-64](https://github.com/rovertronic/Mario-Builder-64) - Mario Builder 64 is a Super Mario 64 ROM hack that allows you to create custom levels in\-game 
+* 【2024-05-22】[Decompollaborate / rabbitizer](https://github.com/Decompollaborate/rabbitizer) - MIPS instruction decoder
 * 【2024-05-20】[google / wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
 * 【2024-05-19】[mcknly / breadboard-os](https://github.com/mcknly/breadboard-os) - A firmware platform aimed at quick prototyping, built around FreeRTOS and a feature-packed CLI
 * 【2024-05-19】[0xNinjaCyclone / hellMaker](https://github.com/0xNinjaCyclone/hellMaker) - Generate FUD backdoors
@@ -1553,6 +1566,9 @@
 
 ## C++
 
+* 【2024-05-22】[triton\-lang / triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
+* 【2024-05-22】[yileijin / Bootstrap-3D-GS](https://github.com/yileijin/Bootstrap-3D-GS) - 
+* 【2024-05-22】[SaadAhla / IP\-Hunter](https://github.com/SaadAhla/IP-Hunter) - Hunt for C2 servers and phishing web sites using VirusTotal API , you can modify code to kill the malicious process
 * 【2024-05-21】[jsecurity101 / ETWInspector](https://github.com/jsecurity101/ETWInspector) - 
 * 【2024-05-20】[snort3 / snort3](https://github.com/snort3/snort3) - Snort++
 * 【2024-05-20】[yileijin / Bootstrap\-3D\-GS](https://github.com/yileijin/Bootstrap-3D-GS) - 
@@ -1694,6 +1710,7 @@
 
 ## C#
 
+* 【2024-05-22】[Monika1313 / Wu CommTool](https://github.com/Monika1313/Wu.CommTool) - 基于C\#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具,，支持Modbus Rtu调试、Mqtt调试
 * 【2024-05-21】[DaBaival / wemod\-pro\-unlocker](https://github.com/DaBaival/wemod-pro-unlocker) - 
 * 【2024-05-20】[thisisnabi / DigitalWallet](https://github.com/thisisnabi/DigitalWallet) - The E\-Commerce User Wallet Service designed in ASP NET Core
 * 【2024-05-20】[m4rs\-mt / ILGPU](https://github.com/m4rs-mt/ILGPU) - ILGPU JIT Compiler for high\-performance  Net GPU programs
@@ -1876,6 +1893,7 @@
 
 ## Html
 
+* 【2024-05-22】[OCA / crm](https://github.com/OCA/crm) - Odoo CRM, Mail & Newsletter advanced features
 * 【2024-05-21】[jaganjavid / 100\-Project](https://github.com/jaganjavid/100-Project) - ALl project
 * 【2024-05-20】[nghuyhoang2509 / Office\-and\-Windows\-Activator](https://github.com/nghuyhoang2509/Office-and-Windows-Activator) - kmsauto\-free\-download\-2024 kmsauto\-download\-2024 windows\-free\-activation kmsauto\-2024 kmsauto\-download\-windows\-11 kmsauto\-activate kmsauto\-download\-windows\-10 windows\-activate\-free free\-activation\-tutorial kmsauto\-activator\-download windows\-activator\-download kmsauto\-download kmsauto\-net\-download kmsauto kmsauto\-free\-download windows\-11\-activat
 * 【2024-05-20】[GameSphere\-MultiPlayer / Community\-Page](https://github.com/GameSphere-MultiPlayer/Community-Page) - A Chrome gaming community page is an online space within the Chrome browser where gamers connect, discuss games, share content, get updates, troubleshoot issues, join events, and interact with developers  It's a hub for all things gaming\-related in the Chrome ecosystem 
@@ -2161,6 +2179,12 @@
 
 ## Unknown
 
+* 【2024-05-22】[mcinglis / c\-style](https://github.com/mcinglis/c-style) - My favorite C programming practices 
+* 【2024-05-22】[ulab\-uiuc / AGI\-survey](https://github.com/ulab-uiuc/AGI-survey) - 
+* 【2024-05-22】[Diyshift / 3D\-Printer](https://github.com/Diyshift/3D-Printer) - Voron Stuff
+* 【2024-05-22】[Ouckah / Summer2025-Internships](https://github.com/Ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
+* 【2024-05-22】[letthedataconfess / Data-Engineering-Books](https://github.com/letthedataconfess/Data-Engineering-Books) - 
+* 【2024-05-22】[P3TERX / GeoLite mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 * 【2024-05-21】[solana-mobile / solana-mobile-stack-sdk](https://github.com/solana-mobile/solana-mobile-stack-sdk) - 
 * 【2024-05-21】[ruesandora / 0rbit](https://github.com/ruesandora/0rbit) - 
 * 【2024-05-21】[trusted\-point / initia\-tools](https://github.com/trusted-point/initia-tools) - 
@@ -2576,6 +2600,10 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-22】[VirusTotal / yara-x](https://github.com/VirusTotal/yara-x) - A rewrite of YARA in Rust.
+* 【2024-05-22】[FoxIO-LLC / ja4](https://github.com/FoxIO-LLC/ja4) - JA4+ is a suite of network fingerprinting standards
+* 【2024-05-22】[feschber / lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
+* 【2024-05-22】[containers / bootc](https://github.com/containers/bootc) - Boot and upgrade via container images
 * 【2024-05-21】[orhun / flawz](https://github.com/orhun/flawz) - A Terminal UI for browsing security vulnerabilities (CVEs)
 * 【2024-05-21】[actix / actix\-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust 
 * 【2024-05-20】[VirusTotal / yara\-x](https://github.com/VirusTotal/yara-x) - A rewrite of YARA in Rust 
@@ -2916,6 +2944,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-22】[gorhom / react\-native\-bottom\-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
+* 【2024-05-22】[Worklenz / worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
+* 【2024-05-22】[hudy9x / namviek](https://github.com/hudy9x/namviek) - The open\-source project manager for tiny teams
+* 【2024-05-22】[tradingview / lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 * 【2024-05-21】[solidSpoon / DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。\#美剧 \#播放器 \#听力
 * 【2024-05-21】[Unleash / unleash](https://github.com/Unleash/unleash) - Open\-source feature management solution built for developers 
 * 【2024-05-21】[MCSManager / MCSManager](https://github.com/MCSManager/MCSManager) - Free, Secure, Distributed, Modern Control Panel for Minecraft and Steam Game Servers 
