@@ -24,6 +24,10 @@
 
 ## All language
 
+* 【2024-05-23】[amalmurali47 / git_rce](https://github.com/amalmurali47/git_rce) - Exploit PoC for CVE\-2024\-32002
+* 【2024-05-23】[naklecha / llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
+* 【2024-05-23】[Codium\-ai / cover\-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover\-Agent: An AI\-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
+* 【2024-05-23】[THUDM / CogVLM2](https://github.com/THUDM/CogVLM2) - GPT4V\-level open\-source multi\-modal model based on Llama3\-8B
 * 【2024-05-22】[naklecha / llama3\-from\-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 * 【2024-05-22】[folke / tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 * 【2024-05-21】[Raphire / Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience  This script works for both windows 10 and windows 11 
@@ -491,6 +495,7 @@
 
 ## Java
 
+* 【2024-05-23】[chiteroman / FrameworkPatch](https://github.com/chiteroman/FrameworkPatch) - Modify framework jar to build on system level a valid certificate chain
 * 【2024-05-21】[mukel / llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
 * 【2024-05-20】[P4r4d1se / heapdump_shiro_vuln](https://github.com/P4r4d1se/heapdump_shiro_vuln) - A heapdump leaks Shiro key causing RCE vulnerability environment 
 * 【2024-05-18】[google / project-gameface](https://github.com/google/project-gameface) - 
@@ -616,6 +621,10 @@
 
 ## Python
 
+* 【2024-05-23】[Codium-ai / cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
+* 【2024-05-23】[shamhi / TapSwapBot](https://github.com/shamhi/TapSwapBot) - Bot that mines coins in Tapswap
+* 【2024-05-23】[W01fh4cker / CVE\-2024\-22120\-RCE](https://github.com/W01fh4cker/CVE-2024-22120-RCE) - Time Based SQL Injection in Zabbix Server Audit Log \-\-> RCE
+* 【2024-05-23】[facebookresearch / generative-recommenders](https://github.com/facebookresearch/generative-recommenders) - Repository hosting code used to reproduce results in "Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations" (https://arxiv.org/abs/2402.17152, ICML'24).
 * 【2024-05-22】[IDEA\-Research / Grounding\-DINO\-1 5\-API](https://github.com/IDEA-Research/Grounding-DINO-1.5-API) - API for Grounding DINO 1 5: IDEA Research's Most Capable Open\-World Object Detection Model Series
 * 【2024-05-22】[alexfazio / viral\-clips\-crew](https://github.com/alexfazio/viral-clips-crew) - Your CrewAI Powered Video Editing Assistant
 * 【2024-05-22】[lanqian528 / chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format 
@@ -1037,6 +1046,7 @@
 
 ## Javascript
 
+* 【2024-05-23】[Pactum7 / ticket\-grabbing](https://github.com/Pactum7/ticket-grabbing) - 猫眼纷玩岛大麦抢票、余票监控AutoX js脚本，手机移动端，全场次选购
 * 【2024-05-22】[metaskills / experts](https://github.com/metaskills/experts) - Experts js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail 
 * 【2024-05-22】[V2RaySSR / Free\-VLESS](https://github.com/V2RaySSR/Free-VLESS) - 通过 Cloudflare，免费部署 VLESS节点
 * 【2024-05-21】[sindresorhus / create\-dmg](https://github.com/sindresorhus/create-dmg) - Create a good\-looking DMG for your macOS app in seconds
@@ -1418,6 +1428,7 @@
 
 ## C
 
+* 【2024-05-23】[rovertronic / Mario-Builder-64](https://github.com/rovertronic/Mario-Builder-64) - Mario Builder 64 is a Super Mario 64 ROM hack that allows you to create custom levels in-game.
 * 【2024-05-22】[rovertronic / Mario\-Builder\-64](https://github.com/rovertronic/Mario-Builder-64) - Mario Builder 64 is a Super Mario 64 ROM hack that allows you to create custom levels in\-game 
 * 【2024-05-22】[Decompollaborate / rabbitizer](https://github.com/Decompollaborate/rabbitizer) - MIPS instruction decoder
 * 【2024-05-20】[google / wuffs](https://github.com/google/wuffs) - Wrangling Untrusted File Formats Safely
@@ -1566,6 +1577,8 @@
 
 ## C++
 
+* 【2024-05-23】[triton-lang / triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
+* 【2024-05-23】[ros-navigation / navigation2](https://github.com/ros-navigation/navigation2) - ROS 2 Navigation Framework and System
 * 【2024-05-22】[triton\-lang / triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 * 【2024-05-22】[yileijin / Bootstrap-3D-GS](https://github.com/yileijin/Bootstrap-3D-GS) - 
 * 【2024-05-22】[SaadAhla / IP\-Hunter](https://github.com/SaadAhla/IP-Hunter) - Hunt for C2 servers and phishing web sites using VirusTotal API , you can modify code to kill the malicious process
@@ -1710,6 +1723,7 @@
 
 ## C#
 
+* 【2024-05-23】[MicrosoftLearning / mslearn\-ai\-services](https://github.com/MicrosoftLearning/mslearn-ai-services) - Lab files for Azure AI Services modules
 * 【2024-05-22】[Monika1313 / Wu CommTool](https://github.com/Monika1313/Wu.CommTool) - 基于C\#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具,，支持Modbus Rtu调试、Mqtt调试
 * 【2024-05-21】[DaBaival / wemod\-pro\-unlocker](https://github.com/DaBaival/wemod-pro-unlocker) - 
 * 【2024-05-20】[thisisnabi / DigitalWallet](https://github.com/thisisnabi/DigitalWallet) - The E\-Commerce User Wallet Service designed in ASP NET Core
@@ -1893,6 +1907,7 @@
 
 ## Html
 
+* 【2024-05-23】[OCA / product\-attribute](https://github.com/OCA/product-attribute) - Odoo Product Attribute
 * 【2024-05-22】[OCA / crm](https://github.com/OCA/crm) - Odoo CRM, Mail & Newsletter advanced features
 * 【2024-05-21】[jaganjavid / 100\-Project](https://github.com/jaganjavid/100-Project) - ALl project
 * 【2024-05-20】[nghuyhoang2509 / Office\-and\-Windows\-Activator](https://github.com/nghuyhoang2509/Office-and-Windows-Activator) - kmsauto\-free\-download\-2024 kmsauto\-download\-2024 windows\-free\-activation kmsauto\-2024 kmsauto\-download\-windows\-11 kmsauto\-activate kmsauto\-download\-windows\-10 windows\-activate\-free free\-activation\-tutorial kmsauto\-activator\-download windows\-activator\-download kmsauto\-download kmsauto\-net\-download kmsauto kmsauto\-free\-download windows\-11\-activat
@@ -2179,6 +2194,10 @@
 
 ## Unknown
 
+* 【2024-05-23】[lidlGalaxy / Crypto\-Robot](https://github.com/lidlGalaxy/Crypto-Robot) - Create a Crypto Robot for yourself
+* 【2024-05-23】[shreyaschavhan / advanced\-sql\-injection\-for\-awae](https://github.com/shreyaschavhan/advanced-sql-injection-for-awae) - 
+* 【2024-05-23】[shubham-gangpuri / Android-Interview-Questions](https://github.com/shubham-gangpuri/Android-Interview-Questions) - Android / Koltin / Java questions or topics for android developer interviews
+* 【2024-05-23】[the\-web3 / layer2](https://github.com/the-web3/layer2) - 最全面的 Layer2 资料汇总
 * 【2024-05-22】[mcinglis / c\-style](https://github.com/mcinglis/c-style) - My favorite C programming practices 
 * 【2024-05-22】[ulab\-uiuc / AGI\-survey](https://github.com/ulab-uiuc/AGI-survey) - 
 * 【2024-05-22】[Diyshift / 3D\-Printer](https://github.com/Diyshift/3D-Printer) - Voron Stuff
@@ -2600,6 +2619,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-23】[Ph0enixKM / Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
+* 【2024-05-23】[dtolnay / anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
 * 【2024-05-22】[VirusTotal / yara-x](https://github.com/VirusTotal/yara-x) - A rewrite of YARA in Rust.
 * 【2024-05-22】[FoxIO-LLC / ja4](https://github.com/FoxIO-LLC/ja4) - JA4+ is a suite of network fingerprinting standards
 * 【2024-05-22】[feschber / lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
@@ -2944,6 +2965,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-23】[tinacms / tinacms](https://github.com/tinacms/tinacms) - A fully open\-source headless CMS that supports Markdown and Visual Editing
+* 【2024-05-23】[firebase / genkit](https://github.com/firebase/genkit) - An open source framework for building AI\-powered apps with familiar code\-centric patterns  Genkit makes it easy to integrate, test, and deploy sophisticated AI features to Firebase or Google Cloud 
 * 【2024-05-22】[gorhom / react\-native\-bottom\-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
 * 【2024-05-22】[Worklenz / worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
 * 【2024-05-22】[hudy9x / namviek](https://github.com/hudy9x/namviek) - The open\-source project manager for tiny teams
