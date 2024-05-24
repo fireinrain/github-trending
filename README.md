@@ -24,6 +24,9 @@
 
 ## All language
 
+* 【2024-05-24】[JetBrains / kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language 
+* 【2024-05-24】[microsoft / Phi\-3CookBook](https://github.com/microsoft/Phi-3CookBook) - This is a Phi\-3 book for getting started with Phi\-3  Phi\-3, a family of open AI models developed by Microsoft  Phi\-3 models are the most capable and cost\-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks 
+* 【2024-05-24】[folke / ts\-comments nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
 * 【2024-05-23】[amalmurali47 / git_rce](https://github.com/amalmurali47/git_rce) - Exploit PoC for CVE\-2024\-32002
 * 【2024-05-23】[naklecha / llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 * 【2024-05-23】[Codium\-ai / cover\-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover\-Agent: An AI\-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
@@ -621,6 +624,7 @@
 
 ## Python
 
+* 【2024-05-24】[R4gd0ll / I\-Wanna\-Get\-All](https://github.com/R4gd0ll/I-Wanna-Get-All) - OA漏洞利用工具
 * 【2024-05-23】[Codium-ai / cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 * 【2024-05-23】[shamhi / TapSwapBot](https://github.com/shamhi/TapSwapBot) - Bot that mines coins in Tapswap
 * 【2024-05-23】[W01fh4cker / CVE\-2024\-22120\-RCE](https://github.com/W01fh4cker/CVE-2024-22120-RCE) - Time Based SQL Injection in Zabbix Server Audit Log \-\-> RCE
@@ -1046,6 +1050,7 @@
 
 ## Javascript
 
+* 【2024-05-24】[ibrahimaitech / BMW\-MD](https://github.com/ibrahimaitech/BMW-MD) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
 * 【2024-05-23】[Pactum7 / ticket\-grabbing](https://github.com/Pactum7/ticket-grabbing) - 猫眼纷玩岛大麦抢票、余票监控AutoX js脚本，手机移动端，全场次选购
 * 【2024-05-22】[metaskills / experts](https://github.com/metaskills/experts) - Experts js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail 
 * 【2024-05-22】[V2RaySSR / Free\-VLESS](https://github.com/V2RaySSR/Free-VLESS) - 通过 Cloudflare，免费部署 VLESS节点
@@ -1283,6 +1288,8 @@
 
 ## Go
 
+* 【2024-05-24】[defenseunicorns / zarf](https://github.com/defenseunicorns/zarf) - DevSecOps for Air Gap & Limited\-Connection Systems  https://zarf dev/
+* 【2024-05-24】[fdx-xdf / darkPulse](https://github.com/fdx-xdf/darkPulse) - darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，目前免杀火绒，360，360核晶。
 * 【2024-05-21】[skx / cpmulator](https://github.com/skx/cpmulator) - Golang CP/M emulator for playing zork, lighthouse\-of\-doom, etc
 * 【2024-05-21】[NibiruChain / nibiru](https://github.com/NibiruChain/nibiru) - Nibiru Chain: The breakthrough smart contract platform ushering in the next era of money  Nibiru powers an ecosystem of dApps including perps, RWAs, and more 
 * 【2024-05-19】[linux\-do / override](https://github.com/linux-do/override) - 啥也不是
@@ -1723,6 +1730,7 @@
 
 ## C#
 
+* 【2024-05-24】[dotnet / aspire-samples](https://github.com/dotnet/aspire-samples) - 
 * 【2024-05-23】[MicrosoftLearning / mslearn\-ai\-services](https://github.com/MicrosoftLearning/mslearn-ai-services) - Lab files for Azure AI Services modules
 * 【2024-05-22】[Monika1313 / Wu CommTool](https://github.com/Monika1313/Wu.CommTool) - 基于C\#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具,，支持Modbus Rtu调试、Mqtt调试
 * 【2024-05-21】[DaBaival / wemod\-pro\-unlocker](https://github.com/DaBaival/wemod-pro-unlocker) - 
@@ -1907,6 +1915,9 @@
 
 ## Html
 
+* 【2024-05-24】[frontend\-joe / es6\-components](https://github.com/frontend-joe/es6-components) - Collection of components built with HTML, CSS and JavaScript (ES6)
+* 【2024-05-24】[receptron / graphai](https://github.com/receptron/graphai) - 
+* 【2024-05-24】[OCA / partner\-contact](https://github.com/OCA/partner-contact) - Odoo Partner and Contact related addons
 * 【2024-05-23】[OCA / product\-attribute](https://github.com/OCA/product-attribute) - Odoo Product Attribute
 * 【2024-05-22】[OCA / crm](https://github.com/OCA/crm) - Odoo CRM, Mail & Newsletter advanced features
 * 【2024-05-21】[jaganjavid / 100\-Project](https://github.com/jaganjavid/100-Project) - ALl project
@@ -2194,6 +2205,7 @@
 
 ## Unknown
 
+* 【2024-05-24】[Chanda-Abdul / Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews) - Several Coding Patterns for Solving Data Structures and Algorithms Problems during Interviews
 * 【2024-05-23】[lidlGalaxy / Crypto\-Robot](https://github.com/lidlGalaxy/Crypto-Robot) - Create a Crypto Robot for yourself
 * 【2024-05-23】[shreyaschavhan / advanced\-sql\-injection\-for\-awae](https://github.com/shreyaschavhan/advanced-sql-injection-for-awae) - 
 * 【2024-05-23】[shubham-gangpuri / Android-Interview-Questions](https://github.com/shubham-gangpuri/Android-Interview-Questions) - Android / Koltin / Java questions or topics for android developer interviews
@@ -2619,6 +2631,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-24】[taikoxyz / raiko](https://github.com/taikoxyz/raiko) - Multi\-proofs for Taiko  SNARKS, STARKS and Trusted Execution Enclave  Our previous ZK\-EVM circuits are deprecated 
+* 【2024-05-24】[ImageOptim / gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant)  Squeezes maximum possible quality from the awful GIF format 
+* 【2024-05-24】[CADmium\-Co / CADmium](https://github.com/CADmium-Co/CADmium) - A CAD program that runs in the browser
 * 【2024-05-23】[Ph0enixKM / Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
 * 【2024-05-23】[dtolnay / anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
 * 【2024-05-22】[VirusTotal / yara-x](https://github.com/VirusTotal/yara-x) - A rewrite of YARA in Rust.
@@ -2965,6 +2980,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-24】[ethereum / remix\-project](https://github.com/ethereum/remix-project) - Remix is a browser\-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions 
+* 【2024-05-24】[wix / react\-native\-calendars](https://github.com/wix/react-native-calendars) - React Native Calendar Components 🗓️ 📆
+* 【2024-05-24】[huggingface / huggingface js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face Hub API
+* 【2024-05-24】[safak / next\-ecommerce](https://github.com/safak/next-ecommerce) - 
+* 【2024-05-24】[lengyibai / wzry](https://github.com/lengyibai/wzry) - 🌈基于 Vue3+TS的王者荣耀图鉴（公测中   ）🚀
 * 【2024-05-23】[tinacms / tinacms](https://github.com/tinacms/tinacms) - A fully open\-source headless CMS that supports Markdown and Visual Editing
 * 【2024-05-23】[firebase / genkit](https://github.com/firebase/genkit) - An open source framework for building AI\-powered apps with familiar code\-centric patterns  Genkit makes it easy to integrate, test, and deploy sophisticated AI features to Firebase or Google Cloud 
 * 【2024-05-22】[gorhom / react\-native\-bottom\-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
