@@ -24,6 +24,10 @@
 
 ## All language
 
+* 【2024-05-25】[nucleuscloud / neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers  Create high fidelity synthetic data and sync it across your environments 
+* 【2024-05-25】[foolstack\-omg / block\-tech\-sharing](https://github.com/foolstack-omg/block-tech-sharing) - Sharing Valuable Technology & Arbitrage Skill of The Blockchain I have learned 
+* 【2024-05-25】[CADmium-Co / CADmium](https://github.com/CADmium-Co/CADmium) - A CAD program that runs in the browser
+* 【2024-05-25】[6677\-ai / tap4\-ai\-webui](https://github.com/6677-ai/tap4-ai-webui) - One\-click to deploy your own ai tools directory with the open source web\-ui
 * 【2024-05-24】[JetBrains / kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language 
 * 【2024-05-24】[microsoft / Phi\-3CookBook](https://github.com/microsoft/Phi-3CookBook) - This is a Phi\-3 book for getting started with Phi\-3  Phi\-3, a family of open AI models developed by Microsoft  Phi\-3 models are the most capable and cost\-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks 
 * 【2024-05-24】[folke / ts\-comments nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
@@ -498,6 +502,7 @@
 
 ## Java
 
+* 【2024-05-25】[camunda / camunda](https://github.com/camunda/camunda) - Distributed Workflow Engine for Microservices Orchestration
 * 【2024-05-23】[chiteroman / FrameworkPatch](https://github.com/chiteroman/FrameworkPatch) - Modify framework jar to build on system level a valid certificate chain
 * 【2024-05-21】[mukel / llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
 * 【2024-05-20】[P4r4d1se / heapdump_shiro_vuln](https://github.com/P4r4d1se/heapdump_shiro_vuln) - A heapdump leaks Shiro key causing RCE vulnerability environment 
@@ -624,6 +629,9 @@
 
 ## Python
 
+* 【2024-05-25】[kangpeilun / VastGaussian](https://github.com/kangpeilun/VastGaussian) - v1 0
+* 【2024-05-25】[baidubce / app\-builder](https://github.com/baidubce/app-builder) - appbuilder\-sdk, 千帆AppBuilder\-SDK帮助开发者灵活、快速的搭建AI原生应用
+* 【2024-05-25】[darrenburns / elia](https://github.com/darrenburns/elia) - A snappy, keyboard\-centric terminal user interface for interacting with large language models  Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more 
 * 【2024-05-24】[R4gd0ll / I\-Wanna\-Get\-All](https://github.com/R4gd0ll/I-Wanna-Get-All) - OA漏洞利用工具
 * 【2024-05-23】[Codium-ai / cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 * 【2024-05-23】[shamhi / TapSwapBot](https://github.com/shamhi/TapSwapBot) - Bot that mines coins in Tapswap
@@ -1050,6 +1058,9 @@
 
 ## Javascript
 
+* 【2024-05-25】[foolstack-omg / block-tech-sharing](https://github.com/foolstack-omg/block-tech-sharing) - Sharing Valuable Technology & Arbitrage Skill of The Blockchain I have learned.
+* 【2024-05-25】[github / relative\-time\-element](https://github.com/github/relative-time-element) - Web component extensions to the standard <time> element 
+* 【2024-05-25】[imputnet / cobalt](https://github.com/imputnet/cobalt) - save what you love
 * 【2024-05-24】[ibrahimaitech / BMW\-MD](https://github.com/ibrahimaitech/BMW-MD) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
 * 【2024-05-23】[Pactum7 / ticket\-grabbing](https://github.com/Pactum7/ticket-grabbing) - 猫眼纷玩岛大麦抢票、余票监控AutoX js脚本，手机移动端，全场次选购
 * 【2024-05-22】[metaskills / experts](https://github.com/metaskills/experts) - Experts js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail 
@@ -1435,6 +1446,7 @@
 
 ## C
 
+* 【2024-05-25】[psycopg / psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 * 【2024-05-23】[rovertronic / Mario-Builder-64](https://github.com/rovertronic/Mario-Builder-64) - Mario Builder 64 is a Super Mario 64 ROM hack that allows you to create custom levels in-game.
 * 【2024-05-22】[rovertronic / Mario\-Builder\-64](https://github.com/rovertronic/Mario-Builder-64) - Mario Builder 64 is a Super Mario 64 ROM hack that allows you to create custom levels in\-game 
 * 【2024-05-22】[Decompollaborate / rabbitizer](https://github.com/Decompollaborate/rabbitizer) - MIPS instruction decoder
@@ -1730,6 +1742,9 @@
 
 ## C#
 
+* 【2024-05-25】[cybersectroll / TrollUAC](https://github.com/cybersectroll/TrollUAC) - 
+* 【2024-05-25】[dotnet / ai\-samples](https://github.com/dotnet/ai-samples) - 
+* 【2024-05-25】[NuGet / NuGet Client](https://github.com/NuGet/NuGet.Client) - Client Tools for NuGet \- including Visual Studio extensions, command line tools, and msbuild support  (Open issues on https://github com/nuget/home/issues)
 * 【2024-05-24】[dotnet / aspire-samples](https://github.com/dotnet/aspire-samples) - 
 * 【2024-05-23】[MicrosoftLearning / mslearn\-ai\-services](https://github.com/MicrosoftLearning/mslearn-ai-services) - Lab files for Azure AI Services modules
 * 【2024-05-22】[Monika1313 / Wu CommTool](https://github.com/Monika1313/Wu.CommTool) - 基于C\#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具,，支持Modbus Rtu调试、Mqtt调试
@@ -1915,6 +1930,7 @@
 
 ## Html
 
+* 【2024-05-25】[nextcloud / documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
 * 【2024-05-24】[frontend\-joe / es6\-components](https://github.com/frontend-joe/es6-components) - Collection of components built with HTML, CSS and JavaScript (ES6)
 * 【2024-05-24】[receptron / graphai](https://github.com/receptron/graphai) - 
 * 【2024-05-24】[OCA / partner\-contact](https://github.com/OCA/partner-contact) - Odoo Partner and Contact related addons
@@ -2205,6 +2221,9 @@
 
 ## Unknown
 
+* 【2024-05-25】[igorbarinov / awesome\-data\-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
+* 【2024-05-25】[gunnarmorling / awesome\-opensource\-data\-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - An Awesome List of Open\-Source Data Engineering Projects
+* 【2024-05-25】[h9\-tect / 100days_AI](https://github.com/h9-tect/100days_AI) - 
 * 【2024-05-24】[Chanda-Abdul / Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews) - Several Coding Patterns for Solving Data Structures and Algorithms Problems during Interviews
 * 【2024-05-23】[lidlGalaxy / Crypto\-Robot](https://github.com/lidlGalaxy/Crypto-Robot) - Create a Crypto Robot for yourself
 * 【2024-05-23】[shreyaschavhan / advanced\-sql\-injection\-for\-awae](https://github.com/shreyaschavhan/advanced-sql-injection-for-awae) - 
@@ -2631,6 +2650,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-25】[onecodex / rust\-bfield](https://github.com/onecodex/rust-bfield) - B\-field implementation in Rust
 * 【2024-05-24】[taikoxyz / raiko](https://github.com/taikoxyz/raiko) - Multi\-proofs for Taiko  SNARKS, STARKS and Trusted Execution Enclave  Our previous ZK\-EVM circuits are deprecated 
 * 【2024-05-24】[ImageOptim / gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant)  Squeezes maximum possible quality from the awful GIF format 
 * 【2024-05-24】[CADmium\-Co / CADmium](https://github.com/CADmium-Co/CADmium) - A CAD program that runs in the browser
@@ -2980,6 +3000,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-25】[6677-ai / tap4-ai-webui](https://github.com/6677-ai/tap4-ai-webui) - One-click to deploy your own ai tools directory with the open source web-ui
+* 【2024-05-25】[farcasterxyz / hub\-monorepo](https://github.com/farcasterxyz/hub-monorepo) - Implementation of the Farcaster Hub specification and supporting libraries for building applications on Farcaster
+* 【2024-05-25】[ragapp / ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
+* 【2024-05-25】[szimek / signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
 * 【2024-05-24】[ethereum / remix\-project](https://github.com/ethereum/remix-project) - Remix is a browser\-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions 
 * 【2024-05-24】[wix / react\-native\-calendars](https://github.com/wix/react-native-calendars) - React Native Calendar Components 🗓️ 📆
 * 【2024-05-24】[huggingface / huggingface js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face Hub API
