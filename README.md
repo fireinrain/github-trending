@@ -24,6 +24,7 @@
 
 ## All language
 
+* 【2024-05-26】[W01fh4cker / CVE\-2024\-21683\-RCE](https://github.com/W01fh4cker/CVE-2024-21683-RCE) - CVE\-2024\-21683 Confluence Post Auth RCE
 * 【2024-05-25】[nucleuscloud / neosync](https://github.com/nucleuscloud/neosync) - Open source data anonymization and synthetic data orchestration for developers  Create high fidelity synthetic data and sync it across your environments 
 * 【2024-05-25】[foolstack\-omg / block\-tech\-sharing](https://github.com/foolstack-omg/block-tech-sharing) - Sharing Valuable Technology & Arbitrage Skill of The Blockchain I have learned 
 * 【2024-05-25】[CADmium-Co / CADmium](https://github.com/CADmium-Co/CADmium) - A CAD program that runs in the browser
@@ -629,6 +630,12 @@
 
 ## Python
 
+* 【2024-05-26】[W01fh4cker / CVE-2024-21683-RCE](https://github.com/W01fh4cker/CVE-2024-21683-RCE) - CVE-2024-21683 Confluence Post Auth RCE
+* 【2024-05-26】[google\-research / omniglue](https://github.com/google-research/omniglue) - Code release for CVPR'24 submission 'OmniGlue'
+* 【2024-05-26】[nvaccess / nvda](https://github.com/nvaccess/nvda) - NVDA, the free and open source Screen Reader for Microsoft Windows
+* 【2024-05-26】[epic\-open\-source / seismometer](https://github.com/epic-open-source/seismometer) - Predictive model evaluation with a focus on healthcare
+* 【2024-05-26】[pathwaycom / pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real\-time analytics, LLM pipelines, and RAG 
+* 【2024-05-26】[geekcomputers / Python](https://github.com/geekcomputers/Python) - My Python Examples
 * 【2024-05-25】[kangpeilun / VastGaussian](https://github.com/kangpeilun/VastGaussian) - v1 0
 * 【2024-05-25】[baidubce / app\-builder](https://github.com/baidubce/app-builder) - appbuilder\-sdk, 千帆AppBuilder\-SDK帮助开发者灵活、快速的搭建AI原生应用
 * 【2024-05-25】[darrenburns / elia](https://github.com/darrenburns/elia) - A snappy, keyboard\-centric terminal user interface for interacting with large language models  Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more 
@@ -1058,6 +1065,8 @@
 
 ## Javascript
 
+* 【2024-05-26】[apple / password\-manager\-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better 
+* 【2024-05-26】[ibrahimaitech / BMW-MD](https://github.com/ibrahimaitech/BMW-MD) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
 * 【2024-05-25】[foolstack-omg / block-tech-sharing](https://github.com/foolstack-omg/block-tech-sharing) - Sharing Valuable Technology & Arbitrage Skill of The Blockchain I have learned.
 * 【2024-05-25】[github / relative\-time\-element](https://github.com/github/relative-time-element) - Web component extensions to the standard <time> element 
 * 【2024-05-25】[imputnet / cobalt](https://github.com/imputnet/cobalt) - save what you love
@@ -1299,6 +1308,8 @@
 
 ## Go
 
+* 【2024-05-26】[edgelesssys / contrast](https://github.com/edgelesssys/contrast) - Deploy and manage confidential containers on Kubernetes
+* 【2024-05-26】[pagefaultgames / rogueserver](https://github.com/pagefaultgames/rogueserver) - Game server backend and API for PokéRogue
 * 【2024-05-24】[defenseunicorns / zarf](https://github.com/defenseunicorns/zarf) - DevSecOps for Air Gap & Limited\-Connection Systems  https://zarf dev/
 * 【2024-05-24】[fdx-xdf / darkPulse](https://github.com/fdx-xdf/darkPulse) - darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，目前免杀火绒，360，360核晶。
 * 【2024-05-21】[skx / cpmulator](https://github.com/skx/cpmulator) - Golang CP/M emulator for playing zork, lighthouse\-of\-doom, etc
@@ -1446,6 +1457,7 @@
 
 ## C
 
+* 【2024-05-26】[lanceewing / agi](https://github.com/lanceewing/agi) - Original source code of Sierra On\-Line's AGI adventure game interpreter 
 * 【2024-05-25】[psycopg / psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 * 【2024-05-23】[rovertronic / Mario-Builder-64](https://github.com/rovertronic/Mario-Builder-64) - Mario Builder 64 is a Super Mario 64 ROM hack that allows you to create custom levels in-game.
 * 【2024-05-22】[rovertronic / Mario\-Builder\-64](https://github.com/rovertronic/Mario-Builder-64) - Mario Builder 64 is a Super Mario 64 ROM hack that allows you to create custom levels in\-game 
@@ -1596,6 +1608,8 @@
 
 ## C++
 
+* 【2024-05-26】[es3n1n / no\-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender  (through the WSC api)
+* 【2024-05-26】[pcg\-mlp / KsanaLLM](https://github.com/pcg-mlp/KsanaLLM) - 
 * 【2024-05-23】[triton-lang / triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 * 【2024-05-23】[ros-navigation / navigation2](https://github.com/ros-navigation/navigation2) - ROS 2 Navigation Framework and System
 * 【2024-05-22】[triton\-lang / triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
@@ -1930,6 +1944,7 @@
 
 ## Html
 
+* 【2024-05-26】[TommyBoi\-TB / Blooket\-Cheats](https://github.com/TommyBoi-TB/Blooket-Cheats) - 
 * 【2024-05-25】[nextcloud / documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
 * 【2024-05-24】[frontend\-joe / es6\-components](https://github.com/frontend-joe/es6-components) - Collection of components built with HTML, CSS and JavaScript (ES6)
 * 【2024-05-24】[receptron / graphai](https://github.com/receptron/graphai) - 
@@ -2221,6 +2236,11 @@
 
 ## Unknown
 
+* 【2024-05-26】[mlops\-discord / gpu\-optimization\-workshop](https://github.com/mlops-discord/gpu-optimization-workshop) - Slides, notes, and materials for the workshop
+* 【2024-05-26】[awesome\-doge / breaking\-gfw\-book](https://github.com/awesome-doge/breaking-gfw-book) - 本书介绍的方法涵盖了 Shadowsocks 以及与 Shadowsocks 相关的各种插件，ShadowsocksR, ShadowsocksRR, V2ray，以及 Telegram 通讯软件的 Proxy。
+* 【2024-05-26】[aviatbet / Aviator\-predictor\-app](https://github.com/aviatbet/Aviator-predictor-app) - Aviator Predictor is a tool designed for predicting multipliers in the Aviator betting game, helping players secure their earnings 
+* 【2024-05-26】[P1nganD / Rookie](https://github.com/P1nganD/Rookie) - 漏洞扫描
+* 【2024-05-26】[it\-ebooks\-0 / it\-ebooks\-2023](https://github.com/it-ebooks-0/it-ebooks-2023) - 📚 计算机电子书 2023
 * 【2024-05-25】[igorbarinov / awesome\-data\-engineering](https://github.com/igorbarinov/awesome-data-engineering) - A curated list of data engineering tools for software developers
 * 【2024-05-25】[gunnarmorling / awesome\-opensource\-data\-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - An Awesome List of Open\-Source Data Engineering Projects
 * 【2024-05-25】[h9\-tect / 100days_AI](https://github.com/h9-tect/100days_AI) - 
@@ -2650,6 +2670,10 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-26】[dalance / amber](https://github.com/dalance/amber) - A code search / replace tool
+* 【2024-05-26】[railwayapp / nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
+* 【2024-05-26】[tensorlakeai / indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications
+* 【2024-05-26】[valadaptive / ntsc\-rs](https://github.com/valadaptive/ntsc-rs) - Free, open\-source analog TV + VHS effect  Standalone application + plugin (After Effects, Premiere, and OpenFX) 
 * 【2024-05-25】[onecodex / rust\-bfield](https://github.com/onecodex/rust-bfield) - B\-field implementation in Rust
 * 【2024-05-24】[taikoxyz / raiko](https://github.com/taikoxyz/raiko) - Multi\-proofs for Taiko  SNARKS, STARKS and Trusted Execution Enclave  Our previous ZK\-EVM circuits are deprecated 
 * 【2024-05-24】[ImageOptim / gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant)  Squeezes maximum possible quality from the awful GIF format 
@@ -3000,6 +3024,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-26】[magicuidesign / magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers  Animated components and effects you can copy and paste into your apps  Free  Open Source 
+* 【2024-05-26】[Amery2010 / TalkWithGemini](https://github.com/Amery2010/TalkWithGemini) - Deploy your private Gemini application for free with one click, supporting Gemini 1 5 Pro, Gemini 1 5 Flash, Gemini Pro and Gemini Pro Vision models  一键免费部署您的私人 Gemini 应用, 支持 Gemini 1 5 Pro、Gemini 1 5 Flash、Gemini Pro 和 Gemini Pro Vision 模型。
+* 【2024-05-26】[hoarder\-app / hoarder](https://github.com/hoarder-app/hoarder) - A self\-hostable bookmark\-everything app (links, notes and images) with AI\-based automatic tagging and full text search
 * 【2024-05-25】[6677-ai / tap4-ai-webui](https://github.com/6677-ai/tap4-ai-webui) - One-click to deploy your own ai tools directory with the open source web-ui
 * 【2024-05-25】[farcasterxyz / hub\-monorepo](https://github.com/farcasterxyz/hub-monorepo) - Implementation of the Farcaster Hub specification and supporting libraries for building applications on Farcaster
 * 【2024-05-25】[ragapp / ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
