@@ -24,6 +24,9 @@
 
 ## All language
 
+* 【2024-05-29】[didi / xiaoju\-survey](https://github.com/didi/xiaoju-survey) - 「快速」打造「专属」问卷系统, 让调研「更轻松」
+* 【2024-05-29】[iyaja / llama\-fs](https://github.com/iyaja/llama-fs) - A self\-organizing file system with llama 3
+* 【2024-05-29】[lihaoyun6 / QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 * 【2024-05-28】[wintermute\-cell / ngrrram](https://github.com/wintermute-cell/ngrrram) - A TUI tool to help you type faster and learn new layouts  Includes a free cat 
 * 【2024-05-28】[ccbikai / Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare 
 * 【2024-05-28】[zakirkun / arsip\-gorengan\-is](https://github.com/zakirkun/arsip-gorengan-is) - Arsip gorengan full konteks
@@ -643,6 +646,11 @@
 
 ## Python
 
+* 【2024-05-29】[lks\-ai / anynode](https://github.com/lks-ai/anynode) - A Node for ComfyUI that does what you ask it to do
+* 【2024-05-29】[dbrojas / optlib](https://github.com/dbrojas/optlib) - A library for financial options pricing written in Python 
+* 【2024-05-29】[RUC\-NLPIR / FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - ⚡FlashRAG: A Python Toolkit for Efficient RAG Research
+* 【2024-05-29】[princeton\-nlp / SimPO](https://github.com/princeton-nlp/SimPO) - SimPO: Simple Preference Optimization with a Reference\-Free Reward
+* 【2024-05-29】[transcriptionstream / transcriptionstream](https://github.com/transcriptionstream/transcriptionstream) - turnkey self\-hosted offline transcription and diarization service with llm summary
 * 【2024-05-28】[kijai / ComfyUI-SUPIR](https://github.com/kijai/ComfyUI-SUPIR) - SUPIR upscaling wrapper for ComfyUI
 * 【2024-05-28】[vb000 / LookOnceToHear](https://github.com/vb000/LookOnceToHear) - A novel human\-interaction method for real\-time speech extraction on headphones 
 * 【2024-05-28】[talkdai / dialog](https://github.com/talkdai/dialog) - RAG LLM Ops App for easy deployment and testing
@@ -1088,6 +1096,9 @@
 
 ## Javascript
 
+* 【2024-05-29】[WasperAI / Wasper](https://github.com/WasperAI/Wasper) - 
+* 【2024-05-29】[frappe / gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
+* 【2024-05-29】[Kingjux / Venocyber\-md](https://github.com/Kingjux/Venocyber-md) - Introducing Venocyber md bot your personal chuddybuddy md you were looking for this is most powerful Whatsapp chat bot created to ensure your WhatsApp personal requirements you are all in one ✍️👋👋
 * 【2024-05-26】[apple / password\-manager\-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better 
 * 【2024-05-26】[ibrahimaitech / BMW-MD](https://github.com/ibrahimaitech/BMW-MD) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
 * 【2024-05-25】[foolstack-omg / block-tech-sharing](https://github.com/foolstack-omg/block-tech-sharing) - Sharing Valuable Technology & Arbitrage Skill of The Blockchain I have learned.
@@ -1484,6 +1495,9 @@
 
 ## C
 
+* 【2024-05-29】[CDSoft / luax](https://github.com/CDSoft/luax) - luax is a Lua interpreter and REPL based on Lua 5 4, augmented with some useful packages  It is also a "compiler" that produces standalone executables from Lua scripts 
+* 【2024-05-29】[null\-luo / btrace](https://github.com/null-luo/btrace) - btrace：binder_transaction+eBPF+Golang实现通用的Android APP动态行为追踪工具
+* 【2024-05-29】[pytorch / cpuinfo](https://github.com/pytorch/cpuinfo) - CPU INFOrmation library (x86/x86\-64/ARM/ARM64, Linux/Windows/Android/macOS/iOS)
 * 【2024-05-27】[Encryqed / Dumper\-7](https://github.com/Encryqed/Dumper-7) - 
 * 【2024-05-26】[lanceewing / agi](https://github.com/lanceewing/agi) - Original source code of Sierra On\-Line's AGI adventure game interpreter 
 * 【2024-05-25】[psycopg / psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
@@ -1636,6 +1650,10 @@
 
 ## C++
 
+* 【2024-05-29】[DiscoGrad / DiscoGrad](https://github.com/DiscoGrad/DiscoGrad) - DiscoGrad \- automatically differentiate across conditional branches in C++ programs
+* 【2024-05-29】[microsoft / GW\-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW\-BASIC from 1983
+* 【2024-05-29】[tnodir / fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
+* 【2024-05-29】[google-ai-edge / mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 * 【2024-05-28】[MaaXYZ / MaaFramework](https://github.com/MaaXYZ/MaaFramework) - 基于图像识别的自动化黑盒测试框架 \| An automation black\-box testing framework based on image recognition
 * 【2024-05-28】[intel / openvino\-plugins\-ai\-audacity](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI\-enabled effects, generators, and analyzers for Audacity® 
 * 【2024-05-27】[pcg-mlp / KsanaLLM](https://github.com/pcg-mlp/KsanaLLM) - 
@@ -1787,6 +1805,7 @@
 
 ## C#
 
+* 【2024-05-29】[babalae / better\-wuthering\-waves](https://github.com/babalae/better-wuthering-waves) - 🌊更好的鸣潮 \- 后台自动剧情
 * 【2024-05-28】[jonathanpeppers / dotnes](https://github.com/jonathanpeppers/dotnes) -  NET for the NES game console
 * 【2024-05-28】[runevision / LayerProcGen](https://github.com/runevision/LayerProcGen) - Layer\-based infinite procedural generation
 * 【2024-05-27】[Sehyn / Wuwa_fpsunlocker](https://github.com/Sehyn/Wuwa_fpsunlocker) - Unlocking Wuwa FPS Limits for PC version 
@@ -1979,6 +1998,7 @@
 
 ## Html
 
+* 【2024-05-29】[akshetP / robotics\-resources](https://github.com/akshetP/robotics-resources) - A complete library of resources that caters to all levels of Roboticists 
 * 【2024-05-27】[lowlighter / matcha](https://github.com/lowlighter/matcha) - 🍵 Drop\-in semantic styling library in pure CSS 
 * 【2024-05-26】[TommyBoi\-TB / Blooket\-Cheats](https://github.com/TommyBoi-TB/Blooket-Cheats) - 
 * 【2024-05-25】[nextcloud / documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
@@ -2272,6 +2292,14 @@
 
 ## Unknown
 
+* 【2024-05-29】[Fankouzu / solana\-basic\-ui](https://github.com/Fankouzu/solana-basic-ui) - Solana中文大全\-由崔棉大师@mastercui和捕鲸船社区小伙伴共建的Solana学习社区
+* 【2024-05-29】[xForeSwitchEz / hamster\-coin\-tools\-v1 2](https://github.com/xForeSwitchEz/hamster-coin-tools-v1.2) - 
+* 【2024-05-29】[zHex4z / ERDP](https://github.com/zHex4z/ERDP) - 
+* 【2024-05-29】[zHex4z / zHex4z1](https://github.com/zHex4z/zHex4z1) - apex\-legends apex\-hack apex\-legends\-hack apex\-legends\-cheat apex\-legends\-aimbot apex\-legends\-wallhack apex\-free\-hack apex\-hacks apex\-legends\-hacks apex\-legends\-cheats apex\-cheat apex\-aimbot hacks\-apex\-legends hack\-apex apex\-hack\-download download\-apex\-hack apex\-legends\-hack\-pc apex\-legends\-hacker apex\-legends\-esp apex\-legends\-free\-hack
+* 【2024-05-29】[Z4ee / Pipsi\-WW\-Releases](https://github.com/Z4ee/Pipsi-WW-Releases) - 
+* 【2024-05-29】[MatthewScould / MatthewScould](https://github.com/MatthewScould/MatthewScould) - 
+* 【2024-05-29】[plausible / community-edition](https://github.com/plausible/community-edition) - Example docker-compose setups for hosting Plausible Community Edition
+* 【2024-05-29】[kotlin\-magazine / kotlin\-magazine](https://github.com/kotlin-magazine/kotlin-magazine) - fun code() – A magazine for Kotlin™ developers
 * 【2024-05-28】[hyperai / awesome-ai4s](https://github.com/hyperai/awesome-ai4s) - AI for Science 论文解读合集（持续更新ing），论文/数据集/教程下载：hyper.ai
 * 【2024-05-28】[ruesandora / Rivalz](https://github.com/ruesandora/Rivalz) - 
 * 【2024-05-28】[alfa155518 / API-s-collection-free](https://github.com/alfa155518/API-s-collection-free) - The API's collection is free to Any One and Open source
@@ -2712,6 +2740,14 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-05-29】[NiREvil / vless](https://github.com/NiREvil/vless) - v2ray subscription links
+* 【2024-05-29】[alloy-rs / alloy](https://github.com/alloy-rs/alloy) - Transports, Middleware, and Networks for the Alloy project
+* 【2024-05-29】[warp\-tech / russh](https://github.com/warp-tech/russh) - Rust SSH client & server library
+* 【2024-05-29】[glebbash / LO](https://github.com/glebbash/LO) - LO \- small programming language targeting WASM that aims to be as simple as possible
+* 【2024-05-29】[gabotechs / MusicGPT](https://github.com/gabotechs/MusicGPT) - Generate music based on natural language prompts using LLMs running locally
+* 【2024-05-29】[Ragnt / AngryOxide](https://github.com/Ragnt/AngryOxide) - 802 11 Attack Tool
+* 【2024-05-29】[bionic\-gpt / bionic\-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on\-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
+* 【2024-05-29】[ynqa / sig](https://github.com/ynqa/sig) - Interactive grep (for streaming)
 * 【2024-05-28】[wintermute-cell / ngrrram](https://github.com/wintermute-cell/ngrrram) - A TUI tool to help you type faster and learn new layouts. Includes a free cat.
 * 【2024-05-28】[librespot-org / librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 * 【2024-05-28】[Slowerzs / PPLSystem](https://github.com/Slowerzs/PPLSystem) - 
@@ -3070,6 +3106,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-05-29】[didi / xiaoju-survey](https://github.com/didi/xiaoju-survey) - 「快速」打造「专属」问卷系统, 让调研「更轻松」
+* 【2024-05-29】[brocoders / nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
+* 【2024-05-29】[langchain\-ai / langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context\-aware reasoning applications 🦜🔗
+* 【2024-05-29】[emilkowalski / sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React 
 * 【2024-05-28】[software\-mansion / react\-native\-ide](https://github.com/software-mansion/react-native-ide) - 
 * 【2024-05-28】[obsidianmd / obsidian\-sample\-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - 
 * 【2024-05-28】[chakra-ui / ark](https://github.com/chakra-ui/ark) - A headless library for building reusable, scalable design systems that works for a wide range of JS frameworks.
