@@ -24,6 +24,12 @@
 
 ## All language
 
+* 【2024-06-03】[lllyasviel / Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
+* 【2024-06-03】[face\-hh / webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web \- browse websites such as buss://yippie rizz made in HTML, CSS and Lua  Custom web browser, custom HTML rendering engine, custom search engine, and more 
+* 【2024-06-03】[ishaan1013 / sandbox](https://github.com/ishaan1013/sandbox) - A cloud\-based code editing environment with an AI copilot and real\-time collaboration 
+* 【2024-06-03】[anthropics / courses](https://github.com/anthropics/courses) - Anthropic's educational courses
+* 【2024-06-03】[warpstreamlabs / bento](https://github.com/warpstreamlabs/bento) - 
+* 【2024-06-03】[leanprover\-community / mathlib4](https://github.com/leanprover-community/mathlib4) - The math library of Lean 4
 * 【2024-06-02】[jianchang512 / ChatTTS\-ui](https://github.com/jianchang512/ChatTTS-ui) - 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。
 * 【2024-06-02】[StasPlov / docker\-unlock](https://github.com/StasPlov/docker-unlock) - Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria
 * 【2024-06-02】[ToonCrafter / ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) - a research paper for generative cartoon interpolation
@@ -537,6 +543,7 @@
 
 ## Java
 
+* 【2024-06-03】[SNWCreations / KookBC](https://github.com/SNWCreations/KookBC) - The Kook Bot Client & JKook API standard implementation for Java 
 * 【2024-06-02】[eclipse\-edc / Connector](https://github.com/eclipse-edc/Connector) - EDC core services including data plane and control plane
 * 【2024-06-01】[TheWidlarzGroup / react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A <Video /> component for react-native
 * 【2024-05-31】[openkoda / openkoda](https://github.com/openkoda/openkoda) - Open source business application platform for fast development
@@ -671,6 +678,10 @@
 
 ## Python
 
+* 【2024-06-03】[G\-U\-N / Phased\-Consistency\-Model](https://github.com/G-U-N/Phased-Consistency-Model) - Boosting the performance of consistency models with PCM!
+* 【2024-06-03】[fofr / cog\-consistent\-character](https://github.com/fofr/cog-consistent-character) - Create images of a given character in different poses
+* 【2024-06-03】[Bklieger / groqbook](https://github.com/Bklieger/groqbook) - Groqbook: Generate entire books in seconds using Groq and Llama3
+* 【2024-06-03】[isaac\-sim / IsaacLab](https://github.com/isaac-sim/IsaacLab) - Unified framework for robot learning built on NVIDIA Isaac Sim
 * 【2024-06-02】[jianchang512 / ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) - 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。
 * 【2024-06-02】[pengHTYX / Era3D](https://github.com/pengHTYX/Era3D) - 
 * 【2024-06-02】[sandeco / prompts](https://github.com/sandeco/prompts) - 
@@ -1140,6 +1151,9 @@
 
 ## Javascript
 
+* 【2024-06-03】[Kingjux / Venocyber-md](https://github.com/Kingjux/Venocyber-md) - Introducing Venocyber md bot your personal chuddybuddy md you were looking for this is most powerful Whatsapp chat bot created to ensure your WhatsApp personal requirements you are all in one ✍️👋👋
+* 【2024-06-03】[Muskansahuincredible / StudyNotion\-An\-Online\-Education\-Platform](https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform) - 
+* 【2024-06-03】[SyedImtiyaz\-1 / GetTechProjects](https://github.com/SyedImtiyaz-1/GetTechProjects) - Make your first Pull Request on this Repo  Don't forget to spread love and give us a ⭐️
 * 【2024-06-02】[feiyun0112 / Gradio Net](https://github.com/feiyun0112/Gradio.Net) - Gradio for  NET – a port of Gradio, an open\-source Python package that allows you to quickly build a demo or web application for your machine learning model, API, or any arbitrary Python function  Gradio for  NET – 基于 Gradio 的  NET 移植，Gradio 是一个开源 Python 包，允许你为机器学习模型、API 或任何任意 Python 函数快速构建演示或 Web 应用程序。
 * 【2024-06-02】[mediacms-io / mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 * 【2024-06-01】[adysec / cf\-mirror](https://github.com/adysec/cf-mirror) - AdySec CF拉平镜像站 \| 官方源可信度和稳定性最高，但国内访问速度较慢，通过众生平等Cloudflare，利用全球的边缘节点，将用户请求转发到离用户距离最近的节点，同时缓存静态内容加速，减少网络延迟和下载速度，使用Cloudflare Workers配置反代实现
@@ -1392,6 +1406,9 @@
 
 ## Go
 
+* 【2024-06-03】[fruitbars / simple\-one\-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep\-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用 
+* 【2024-06-03】[getseabird / seabird](https://github.com/getseabird/seabird) - Native Kubernetes desktop client 
+* 【2024-06-03】[redpanda\-data / benthos](https://github.com/redpanda-data/benthos) - 
 * 【2024-06-01】[redpanda-data / connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
 * 【2024-05-30】[yorukot / superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 * 【2024-05-30】[jetify\-com / devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
@@ -1548,6 +1565,7 @@
 
 ## C
 
+* 【2024-06-03】[Pzqqt / android_kernel_xiaomi_marble](https://github.com/Pzqqt/android_kernel_xiaomi_marble) - Melt Kernel For Redmi Note 12 Turbo (marble) / Poco F5 (marblein)
 * 【2024-06-02】[cococry / leif](https://github.com/cococry/leif) - Minimal, configurable & GPU accelerated Immediate Mode UI Library written with modern OpenGL
 * 【2024-06-02】[cloudberrydb / cloudberrydb](https://github.com/cloudberrydb/cloudberrydb) - Cloudberry Database \- Next generation unified database for Analytics and AI
 * 【2024-06-02】[Waterdish / Shipwright\-Android](https://github.com/Waterdish/Shipwright-Android) - Ship of Harkinian Android Port
@@ -1873,6 +1891,8 @@
 
 ## C#
 
+* 【2024-06-03】[fullstackhero / dotnet\-starter\-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud\-Ready  NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included 
+* 【2024-06-03】[Unity-Technologies / ECSGalaxySample](https://github.com/Unity-Technologies/ECSGalaxySample) - ECS sample demonstrating an automated simulation of teams of spaceships fighting for the control of planets
 * 【2024-06-02】[Unity\-Technologies / ECSGalaxySample](https://github.com/Unity-Technologies/ECSGalaxySample) - ECS sample demonstrating an automated simulation of teams of spaceships fighting for the control of planets
 * 【2024-06-01】[WalletWasabi / WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open\-source, non\-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac 
 * 【2024-05-29】[babalae / better\-wuthering\-waves](https://github.com/babalae/better-wuthering-waves) - 🌊更好的鸣潮 \- 后台自动剧情
@@ -2068,6 +2088,7 @@
 
 ## Html
 
+* 【2024-06-03】[Huxpro / huxblog\-boilerplate](https://github.com/Huxpro/huxblog-boilerplate) - Boilerplate of Hux Blog
 * 【2024-06-02】[tspeterkim / insta-chat](https://github.com/tspeterkim/insta-chat) - DIY Instagram Chat Automation with Google Sheets
 * 【2024-06-02】[karpathy / calorie](https://github.com/karpathy/calorie) - nice and effective super simple calorie counter web app
 * 【2024-06-02】[w3c / webauthn](https://github.com/w3c/webauthn) - Web Authentication: An API for accessing Public Key Credentials
@@ -2373,6 +2394,9 @@
 
 ## Unknown
 
+* 【2024-06-03】[moest\-np / incubator](https://github.com/moest-np/incubator) - Problem statements, discussions and prototypes
+* 【2024-06-03】[krishnaik06 / AI-Engineer-Roadmap-2024](https://github.com/krishnaik06/AI-Engineer-Roadmap-2024) - 
+* 【2024-06-03】[magic\-research / InstaDrag](https://github.com/magic-research/InstaDrag) - Experiencing lightning fast (~1s) and accurate drag\-based image editing
 * 【2024-06-02】[LzhDreamcc / Blum\-auto\-bot](https://github.com/LzhDreamcc/Blum-auto-bot) - Blum auto bot free download for windows / blum auto farm bot Hi everyone today we present you our bot for crypto game Blum with which you can automate the whole process in the game which is possible
 * 【2024-06-02】[DavidS95 / Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
 * 【2024-06-01】[alibaba-yuanjing-aigclab / ViViD](https://github.com/alibaba-yuanjing-aigclab/ViViD) - ViViD: Video Virtual Try-on using Diffusion Models
@@ -2828,6 +2852,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-06-03】[face-hh / webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
+* 【2024-06-03】[Xudong\-Huang / may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
+* 【2024-06-03】[apache / datafusion\-ballista](https://github.com/apache/datafusion-ballista) - Apache Arrow Ballista Distributed Query Engine
 * 【2024-06-02】[MutinyWallet / harbor](https://github.com/MutinyWallet/harbor) - Ecash management tool
 * 【2024-06-02】[Qiskit / rustworkx](https://github.com/Qiskit/rustworkx) - A high performance Python graph library implemented in Rust 
 * 【2024-06-01】[cross-rs / cross](https://github.com/cross-rs/cross) - “Zero setup” cross compilation and “cross testing” of Rust crates
@@ -3202,6 +3229,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-03】[Nutlope / turboseek](https://github.com/Nutlope/turboseek) - An AI search engine inspired by Perplexity
+* 【2024-06-03】[OcularEngineering / ocular](https://github.com/OcularEngineering/ocular) - AI Powered Search and Chat for Orgs \- Think ChatGpt meets Google Search but powered by your data 
+* 【2024-06-03】[adrianhajdin / ecommerce](https://github.com/adrianhajdin/ecommerce) - Learn how to build an incredible e\-commerce webshop with an admin dashboard and CMS using Next 14, Stripe, TypeScript, and Payload CMS 
+* 【2024-06-03】[darkreader / darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 * 【2024-06-02】[digital-go-jp / design-system-example-components](https://github.com/digital-go-jp/design-system-example-components) - デジタル庁デザインシステムのサンプルコンポーネント
 * 【2024-06-02】[vuejs / devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue js applications 
 * 【2024-06-02】[MiningCattiva / x\-spider](https://github.com/MiningCattiva/x-spider) - A spider for X (Twitter)
