@@ -24,6 +24,13 @@
 
 ## All language
 
+* 【2024-06-04】[onuratakan / gpt\-computer\-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt\-4o for windows, macos and ubuntu
+* 【2024-06-04】[StasPlov / docker-unlock](https://github.com/StasPlov/docker-unlock) - Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria
+* 【2024-06-04】[adrianhajdin / podcastr](https://github.com/adrianhajdin/podcastr) - 
+* 【2024-06-04】[aaedmusa / Capstan\-Drive](https://github.com/aaedmusa/Capstan-Drive) - Robotic actuator test stand utilizing a Capstan Drive reducer
+* 【2024-06-04】[fullstackhero / dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
+* 【2024-06-04】[Gktwo / wuwa\-mod](https://github.com/Gktwo/wuwa-mod) - Wuthering Waves pak mods
+* 【2024-06-04】[isaac-sim / IsaacLab](https://github.com/isaac-sim/IsaacLab) - Unified framework for robot learning built on NVIDIA Isaac Sim
 * 【2024-06-03】[lllyasviel / Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 * 【2024-06-03】[face\-hh / webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web \- browse websites such as buss://yippie rizz made in HTML, CSS and Lua  Custom web browser, custom HTML rendering engine, custom search engine, and more 
 * 【2024-06-03】[ishaan1013 / sandbox](https://github.com/ishaan1013/sandbox) - A cloud\-based code editing environment with an AI copilot and real\-time collaboration 
@@ -543,6 +550,11 @@
 
 ## Java
 
+* 【2024-06-04】[FaculdadeDescomplica / pratica_integradora_tecnologias_disruptivas](https://github.com/FaculdadeDescomplica/pratica_integradora_tecnologias_disruptivas) - 
+* 【2024-06-04】[MultiArrayQueue / MultiArrayQueue](https://github.com/MultiArrayQueue/MultiArrayQueue) - Multi\-Array Queue program codes
+* 【2024-06-04】[Kei-Luna / LunaGC_4.6.0](https://github.com/Kei-Luna/LunaGC_4.6.0) - Grassutter 4.6.0 Update
+* 【2024-06-04】[Alanosy / online\-exam\-system\-backend](https://github.com/Alanosy/online-exam-system-backend) - 在线考试系统,springboot+vue
+* 【2024-06-04】[Arijit\-SE / Java\-Solutions\-TCS\-IPA\-Questions](https://github.com/Arijit-SE/Java-Solutions-TCS-IPA-Questions) - Java Solutions of TCS IPA exam  35 marks and 15 marks questions are solved 
 * 【2024-06-03】[SNWCreations / KookBC](https://github.com/SNWCreations/KookBC) - The Kook Bot Client & JKook API standard implementation for Java 
 * 【2024-06-02】[eclipse\-edc / Connector](https://github.com/eclipse-edc/Connector) - EDC core services including data plane and control plane
 * 【2024-06-01】[TheWidlarzGroup / react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A <Video /> component for react-native
@@ -678,6 +690,9 @@
 
 ## Python
 
+* 【2024-06-04】[onuratakan / gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and ubuntu
+* 【2024-06-04】[TMElyralab / Comfyui\-MusePose](https://github.com/TMElyralab/Comfyui-MusePose) - 
+* 【2024-06-04】[fofr / cog-consistent-character](https://github.com/fofr/cog-consistent-character) - Create images of a given character in different poses
 * 【2024-06-03】[G\-U\-N / Phased\-Consistency\-Model](https://github.com/G-U-N/Phased-Consistency-Model) - Boosting the performance of consistency models with PCM!
 * 【2024-06-03】[fofr / cog\-consistent\-character](https://github.com/fofr/cog-consistent-character) - Create images of a given character in different poses
 * 【2024-06-03】[Bklieger / groqbook](https://github.com/Bklieger/groqbook) - Groqbook: Generate entire books in seconds using Groq and Llama3
@@ -1151,6 +1166,8 @@
 
 ## Javascript
 
+* 【2024-06-04】[SyedImtiyaz-1 / GetTechProjects](https://github.com/SyedImtiyaz-1/GetTechProjects) - Make your first Pull Request on this Repo. Don't forget to spread love and give us a ⭐️
+* 【2024-06-04】[VajiraTech / VAJIRA\-MD](https://github.com/VajiraTech/VAJIRA-MD) - 🇱🇰King vajira md v4 update released🇱🇰
 * 【2024-06-03】[Kingjux / Venocyber-md](https://github.com/Kingjux/Venocyber-md) - Introducing Venocyber md bot your personal chuddybuddy md you were looking for this is most powerful Whatsapp chat bot created to ensure your WhatsApp personal requirements you are all in one ✍️👋👋
 * 【2024-06-03】[Muskansahuincredible / StudyNotion\-An\-Online\-Education\-Platform](https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform) - 
 * 【2024-06-03】[SyedImtiyaz\-1 / GetTechProjects](https://github.com/SyedImtiyaz-1/GetTechProjects) - Make your first Pull Request on this Repo  Don't forget to spread love and give us a ⭐️
@@ -1406,6 +1423,8 @@
 
 ## Go
 
+* 【2024-06-04】[ivoras / EncryptedNotepad2](https://github.com/ivoras/EncryptedNotepad2) - A Notepad\-like simple text editor where files are saved (and later loaded) encrypted with AES\-256 
+* 【2024-06-04】[AccentDesign / gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go
 * 【2024-06-03】[fruitbars / simple\-one\-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep\-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用 
 * 【2024-06-03】[getseabird / seabird](https://github.com/getseabird/seabird) - Native Kubernetes desktop client 
 * 【2024-06-03】[redpanda\-data / benthos](https://github.com/redpanda-data/benthos) - 
@@ -1731,6 +1750,7 @@
 
 ## C++
 
+* 【2024-06-04】[samtupy / nvgt](https://github.com/samtupy/nvgt) - The Nonvisual Gaming Toolkit
 * 【2024-06-01】[Cambricon / triton\-linalg](https://github.com/Cambricon/triton-linalg) - Development repository for the Triton\-Linalg conversion
 * 【2024-06-01】[baidu / babylon](https://github.com/baidu/babylon) - High\-Performance C++ Fundamental Library
 * 【2024-05-31】[Offensive\-Panda / RWX_MEMEORY_HUNT_AND_INJECTION_DV](https://github.com/Offensive-Panda/RWX_MEMEORY_HUNT_AND_INJECTION_DV) - Abusing Windows fork API and OneDrive exe process to inject the malicious shellcode without allocating new RWX memory region 
@@ -1891,6 +1911,8 @@
 
 ## C#
 
+* 【2024-06-04】[thebookisclosed / AmperageKit](https://github.com/thebookisclosed/AmperageKit) - One stop shop for enabling Recall in Windows 11 version 24H2 on unsupported devices
+* 【2024-06-04】[awaescher / OllamaSharp](https://github.com/awaescher/OllamaSharp) - Ollama API bindings for  NET
 * 【2024-06-03】[fullstackhero / dotnet\-starter\-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud\-Ready  NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included 
 * 【2024-06-03】[Unity-Technologies / ECSGalaxySample](https://github.com/Unity-Technologies/ECSGalaxySample) - ECS sample demonstrating an automated simulation of teams of spaceships fighting for the control of planets
 * 【2024-06-02】[Unity\-Technologies / ECSGalaxySample](https://github.com/Unity-Technologies/ECSGalaxySample) - ECS sample demonstrating an automated simulation of teams of spaceships fighting for the control of planets
@@ -2088,6 +2110,9 @@
 
 ## Html
 
+* 【2024-06-04】[akshetP / robotics-resources](https://github.com/akshetP/robotics-resources) - A complete library of resources that caters to all levels of Roboticists.
+* 【2024-06-04】[VA3HDL / hamdashboard](https://github.com/VA3HDL/hamdashboard) - Customizable Dashboard for Ham Radio
+* 【2024-06-04】[YingqingHe / Awesome\-LLMs\-meet\-Multimodal\-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) - 🔥🔥🔥 A curated list of papers on LLMs\-based multimodal generation (image, video, 3D and audio) 
 * 【2024-06-03】[Huxpro / huxblog\-boilerplate](https://github.com/Huxpro/huxblog-boilerplate) - Boilerplate of Hux Blog
 * 【2024-06-02】[tspeterkim / insta-chat](https://github.com/tspeterkim/insta-chat) - DIY Instagram Chat Automation with Google Sheets
 * 【2024-06-02】[karpathy / calorie](https://github.com/karpathy/calorie) - nice and effective super simple calorie counter web app
@@ -2394,6 +2419,11 @@
 
 ## Unknown
 
+* 【2024-06-04】[aaedmusa / Capstan-Drive](https://github.com/aaedmusa/Capstan-Drive) - Robotic actuator test stand utilizing a Capstan Drive reducer
+* 【2024-06-04】[kotlin-magazine / kotlin-magazine](https://github.com/kotlin-magazine/kotlin-magazine) - fun code() – A magazine for Kotlin™ developers
+* 【2024-06-04】[DustinWin / clash_singbox\-tools](https://github.com/DustinWin/clash_singbox-tools) - 自动同步 Clash Premium 内核、mihomo 内核、sing\-box 内核、sing\-box PuerNya 版内核、Clash dashboard 面板和 AdGuardHome 最新版
+* 【2024-06-04】[moest-np / incubator](https://github.com/moest-np/incubator) - Problem statements, discussions and prototypes
+* 【2024-06-04】[Sourav692 / Data\-Engineer\-Books](https://github.com/Sourav692/Data-Engineer-Books) - This repo contains some of the most famous books on Data Engineering
 * 【2024-06-03】[moest\-np / incubator](https://github.com/moest-np/incubator) - Problem statements, discussions and prototypes
 * 【2024-06-03】[krishnaik06 / AI-Engineer-Roadmap-2024](https://github.com/krishnaik06/AI-Engineer-Roadmap-2024) - 
 * 【2024-06-03】[magic\-research / InstaDrag](https://github.com/magic-research/InstaDrag) - Experiencing lightning fast (~1s) and accurate drag\-based image editing
@@ -3229,6 +3259,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-04】[rough\-stuff / wired\-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn  Great for wireframes or a fun look 
+* 【2024-06-04】[southliu / react\-admin](https://github.com/southliu/react-admin) - React、Typescript、Vite、Antd等技术开发中后台项目解决方案，支持keepalive功能，react\-redux状态管理，UnoCSS，动态菜单，国际化i18n，虚拟滚动表格。
+* 【2024-06-04】[zhangyao1990 / elegant\-admin](https://github.com/zhangyao1990/elegant-admin) -  vue3 x ， typeScript ，  vite , pinia , element\-Plus  搭建一套一款优雅的管理系统模版
 * 【2024-06-03】[Nutlope / turboseek](https://github.com/Nutlope/turboseek) - An AI search engine inspired by Perplexity
 * 【2024-06-03】[OcularEngineering / ocular](https://github.com/OcularEngineering/ocular) - AI Powered Search and Chat for Orgs \- Think ChatGpt meets Google Search but powered by your data 
 * 【2024-06-03】[adrianhajdin / ecommerce](https://github.com/adrianhajdin/ecommerce) - Learn how to build an incredible e\-commerce webshop with an admin dashboard and CMS using Next 14, Stripe, TypeScript, and Payload CMS 
