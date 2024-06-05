@@ -550,6 +550,9 @@
 
 ## Java
 
+* 【2024-06-05】[pen4uin / java\-memshell\-generator](https://github.com/pen4uin/java-memshell-generator) - 一款支持高度自定义的 Java 内存马生成工具
+* 【2024-06-05】[Alanosy / online-exam-system-backend](https://github.com/Alanosy/online-exam-system-backend) - 在线考试系统,springboot+vue
+* 【2024-06-05】[pen4uin / java\-echo\-generator](https://github.com/pen4uin/java-echo-generator) - 一款支持高度自定义的 Java 回显载荷生成工具
 * 【2024-06-04】[FaculdadeDescomplica / pratica_integradora_tecnologias_disruptivas](https://github.com/FaculdadeDescomplica/pratica_integradora_tecnologias_disruptivas) - 
 * 【2024-06-04】[MultiArrayQueue / MultiArrayQueue](https://github.com/MultiArrayQueue/MultiArrayQueue) - Multi\-Array Queue program codes
 * 【2024-06-04】[Kei-Luna / LunaGC_4.6.0](https://github.com/Kei-Luna/LunaGC_4.6.0) - Grassutter 4.6.0 Update
@@ -690,6 +693,10 @@
 
 ## Python
 
+* 【2024-06-05】[AiuniAI / Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of Unique3D: High\-Quality and Efficient 3D Mesh Generation from a Single Image
+* 【2024-06-05】[tevslin / meeting\-reporter](https://github.com/tevslin/meeting-reporter) - Human\-AI collaboration to produce a newstory about a meeting from minutes or transcript
+* 【2024-06-05】[julep\-ai / julep](https://github.com/julep-ai/julep) - Open\-source alternative to Assistant's API with a managed backend for memory, RAG, tools and tasks  ~Supabase for building AI agents 
+* 【2024-06-05】[myhhub / KnowledgeGraph](https://github.com/myhhub/KnowledgeGraph) - knowledge graph知识图谱,从零开始构建知识图谱
 * 【2024-06-04】[onuratakan / gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and ubuntu
 * 【2024-06-04】[TMElyralab / Comfyui\-MusePose](https://github.com/TMElyralab/Comfyui-MusePose) - 
 * 【2024-06-04】[fofr / cog-consistent-character](https://github.com/fofr/cog-consistent-character) - Create images of a given character in different poses
@@ -1166,6 +1173,7 @@
 
 ## Javascript
 
+* 【2024-06-05】[ForrestKnight / 3d\-portfolio](https://github.com/ForrestKnight/3d-portfolio) - 
 * 【2024-06-04】[SyedImtiyaz-1 / GetTechProjects](https://github.com/SyedImtiyaz-1/GetTechProjects) - Make your first Pull Request on this Repo. Don't forget to spread love and give us a ⭐️
 * 【2024-06-04】[VajiraTech / VAJIRA\-MD](https://github.com/VajiraTech/VAJIRA-MD) - 🇱🇰King vajira md v4 update released🇱🇰
 * 【2024-06-03】[Kingjux / Venocyber-md](https://github.com/Kingjux/Venocyber-md) - Introducing Venocyber md bot your personal chuddybuddy md you were looking for this is most powerful Whatsapp chat bot created to ensure your WhatsApp personal requirements you are all in one ✍️👋👋
@@ -1584,6 +1592,7 @@
 
 ## C
 
+* 【2024-06-05】[CTR\-tools / CTR\-ModSDK](https://github.com/CTR-tools/CTR-ModSDK) - ModSDK \- a modding toolkit to create mods for Crash Team Racing in C  This repository also houses an effort to fully decompile and reverse\-engineer CTR in C 
 * 【2024-06-03】[Pzqqt / android_kernel_xiaomi_marble](https://github.com/Pzqqt/android_kernel_xiaomi_marble) - Melt Kernel For Redmi Note 12 Turbo (marble) / Poco F5 (marblein)
 * 【2024-06-02】[cococry / leif](https://github.com/cococry/leif) - Minimal, configurable & GPU accelerated Immediate Mode UI Library written with modern OpenGL
 * 【2024-06-02】[cloudberrydb / cloudberrydb](https://github.com/cloudberrydb/cloudberrydb) - Cloudberry Database \- Next generation unified database for Analytics and AI
@@ -1911,6 +1920,8 @@
 
 ## C#
 
+* 【2024-06-05】[feiyun0112 / Gradio.Net](https://github.com/feiyun0112/Gradio.Net) - Gradio for .NET – a port of Gradio, an open-source Python package that allows you to quickly build a demo or web application for your machine learning model, API, or any arbitrary Python function. Gradio for .NET – 基于 Gradio 的 .NET 移植，Gradio 是一个开源 Python 包，允许你为机器学习模型、API 或任何任意 Python 函数快速构建演示或 Web 应用程序。
+* 【2024-06-05】[Cysharp / ConsoleAppFramework](https://github.com/Cysharp/ConsoleAppFramework) - Zero Dependency, Zero Overhead, Zero Reflection, Zero Allocation, AOT Safe CLI Framework powered by C\# Source Generator 
 * 【2024-06-04】[thebookisclosed / AmperageKit](https://github.com/thebookisclosed/AmperageKit) - One stop shop for enabling Recall in Windows 11 version 24H2 on unsupported devices
 * 【2024-06-04】[awaescher / OllamaSharp](https://github.com/awaescher/OllamaSharp) - Ollama API bindings for  NET
 * 【2024-06-03】[fullstackhero / dotnet\-starter\-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud\-Ready  NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included 
@@ -2110,6 +2121,8 @@
 
 ## Html
 
+* 【2024-06-05】[chrispsn / mesh\-spreadsheet](https://github.com/chrispsn/mesh-spreadsheet) - A data and code editor that feels like a spreadsheet 
+* 【2024-06-05】[SAP / ui5\-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components \- the enterprise\-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice 
 * 【2024-06-04】[akshetP / robotics-resources](https://github.com/akshetP/robotics-resources) - A complete library of resources that caters to all levels of Roboticists.
 * 【2024-06-04】[VA3HDL / hamdashboard](https://github.com/VA3HDL/hamdashboard) - Customizable Dashboard for Ham Radio
 * 【2024-06-04】[YingqingHe / Awesome\-LLMs\-meet\-Multimodal\-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) - 🔥🔥🔥 A curated list of papers on LLMs\-based multimodal generation (image, video, 3D and audio) 
@@ -2419,6 +2432,11 @@
 
 ## Unknown
 
+* 【2024-06-05】[Crispher / MathlibExplorer](https://github.com/Crispher/MathlibExplorer) - A visualization tool for Lean's mathlib library 
+* 【2024-06-05】[coffinxp / payloads](https://github.com/coffinxp/payloads) - 
+* 【2024-06-05】[biowarrior72mactep / Crusader\-Kings\-III\-byb4f34](https://github.com/biowarrior72mactep/Crusader-Kings-III-byb4f34) - Crusader Kings III Crusader Kings III cheat Crusader Kings III cheats Crusader Kings III aim Crusader Kings III aimbot Crusader Kings III hack Crusader Kings III hacks Crusader Kings III esp Crusader Kings III wallhack Crusader Kings III wh Crusader Kings III softaim cheat Crusader Kings III cheats Crusader Kings III hack Crusader Kings III hacks
+* 【2024-06-05】[ConnersHua / RuleGo](https://github.com/ConnersHua/RuleGo) - Rule: Global Offensive
+* 【2024-06-05】[infinition / Bjorn](https://github.com/infinition/Bjorn) - Bjorn is an educational cybersecurity project designed to run on a Raspberry Pi Zero equipped with a Waveshare screen  Once connected to a network (WiFi, Ethernet, Bluetooth, or USB), Bjorn will discover targets on the network, identify open ports, exposed services, and potential vulnerabilities 
 * 【2024-06-04】[aaedmusa / Capstan-Drive](https://github.com/aaedmusa/Capstan-Drive) - Robotic actuator test stand utilizing a Capstan Drive reducer
 * 【2024-06-04】[kotlin-magazine / kotlin-magazine](https://github.com/kotlin-magazine/kotlin-magazine) - fun code() – A magazine for Kotlin™ developers
 * 【2024-06-04】[DustinWin / clash_singbox\-tools](https://github.com/DustinWin/clash_singbox-tools) - 自动同步 Clash Premium 内核、mihomo 内核、sing\-box 内核、sing\-box PuerNya 版内核、Clash dashboard 面板和 AdGuardHome 最新版
@@ -2882,6 +2900,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-06-05】[tock / tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
+* 【2024-06-05】[tauri\-apps / wry](https://github.com/tauri-apps/wry) - Cross\-platform WebView library in Rust for Tauri 
+* 【2024-06-05】[zksecurity / noname](https://github.com/zksecurity/noname) - Noname: a programming language to write zkapps
 * 【2024-06-03】[face-hh / webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
 * 【2024-06-03】[Xudong\-Huang / may](https://github.com/Xudong-Huang/may) - rust stackful coroutine library
 * 【2024-06-03】[apache / datafusion\-ballista](https://github.com/apache/datafusion-ballista) - Apache Arrow Ballista Distributed Query Engine
@@ -3259,6 +3280,14 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-05】[SawyerHood / tlbrowse](https://github.com/SawyerHood/tlbrowse) - Generate imagined websites on an infinite canvas
+* 【2024-06-05】[NapNeko / NapCatQQ](https://github.com/NapNeko/NapCatQQ) - 基于NTQQ的无头Bot框架
+* 【2024-06-05】[vscode\-icons / vscode\-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
+* 【2024-06-05】[gitbrent / PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Create PowerPoint presentations with a powerful, concise JavaScript API 
+* 【2024-06-05】[francisrstokes / githublog](https://github.com/francisrstokes/githublog) - I'm sick of complex blogging solutions, so markdown files in a git repo it is
+* 【2024-06-05】[shoelace\-style / shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards  SHOELACE IS BECOMING WEB AWESOME 👇👇👇
+* 【2024-06-05】[RocketChat / Rocket Chat ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative) - Rocket Chat mobile clients
+* 【2024-06-05】[zhangyao1990 / elegant-admin](https://github.com/zhangyao1990/elegant-admin) - `vue3.x`，`typeScript`， `vite`,`pinia`,`element-Plus` 搭建一套一款优雅的管理系统模版
 * 【2024-06-04】[rough\-stuff / wired\-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn  Great for wireframes or a fun look 
 * 【2024-06-04】[southliu / react\-admin](https://github.com/southliu/react-admin) - React、Typescript、Vite、Antd等技术开发中后台项目解决方案，支持keepalive功能，react\-redux状态管理，UnoCSS，动态菜单，国际化i18n，虚拟滚动表格。
 * 【2024-06-04】[zhangyao1990 / elegant\-admin](https://github.com/zhangyao1990/elegant-admin) -  vue3 x ， typeScript ，  vite , pinia , element\-Plus  搭建一套一款优雅的管理系统模版
