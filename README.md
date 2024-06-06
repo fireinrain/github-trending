@@ -1592,6 +1592,8 @@
 
 ## C
 
+* 【2024-06-06】[riscv\-software\-src / riscv\-tests](https://github.com/riscv-software-src/riscv-tests) - 
+* 【2024-06-06】[AlkaMotors / AM32\-MultiRotor\-ESC\-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors
 * 【2024-06-05】[CTR\-tools / CTR\-ModSDK](https://github.com/CTR-tools/CTR-ModSDK) - ModSDK \- a modding toolkit to create mods for Crash Team Racing in C  This repository also houses an effort to fully decompile and reverse\-engineer CTR in C 
 * 【2024-06-03】[Pzqqt / android_kernel_xiaomi_marble](https://github.com/Pzqqt/android_kernel_xiaomi_marble) - Melt Kernel For Redmi Note 12 Turbo (marble) / Poco F5 (marblein)
 * 【2024-06-02】[cococry / leif](https://github.com/cococry/leif) - Minimal, configurable & GPU accelerated Immediate Mode UI Library written with modern OpenGL
@@ -1920,6 +1922,7 @@
 
 ## C#
 
+* 【2024-06-06】[nomi\-san / parsec\-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect 4K@240Hz Virtual Display
 * 【2024-06-05】[feiyun0112 / Gradio.Net](https://github.com/feiyun0112/Gradio.Net) - Gradio for .NET – a port of Gradio, an open-source Python package that allows you to quickly build a demo or web application for your machine learning model, API, or any arbitrary Python function. Gradio for .NET – 基于 Gradio 的 .NET 移植，Gradio 是一个开源 Python 包，允许你为机器学习模型、API 或任何任意 Python 函数快速构建演示或 Web 应用程序。
 * 【2024-06-05】[Cysharp / ConsoleAppFramework](https://github.com/Cysharp/ConsoleAppFramework) - Zero Dependency, Zero Overhead, Zero Reflection, Zero Allocation, AOT Safe CLI Framework powered by C\# Source Generator 
 * 【2024-06-04】[thebookisclosed / AmperageKit](https://github.com/thebookisclosed/AmperageKit) - One stop shop for enabling Recall in Windows 11 version 24H2 on unsupported devices
@@ -3280,6 +3283,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-06】[xjh22222228 / nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 最强静态导航网站
 * 【2024-06-05】[SawyerHood / tlbrowse](https://github.com/SawyerHood/tlbrowse) - Generate imagined websites on an infinite canvas
 * 【2024-06-05】[NapNeko / NapCatQQ](https://github.com/NapNeko/NapCatQQ) - 基于NTQQ的无头Bot框架
 * 【2024-06-05】[vscode\-icons / vscode\-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
