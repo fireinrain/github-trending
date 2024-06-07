@@ -1173,6 +1173,8 @@
 
 ## Javascript
 
+* 【2024-06-07】[xaboy / form\-create](https://github.com/xaboy/form-create) - 🔥🔥🔥 强大的动态表单生成器，通过数据驱动表单渲染，支持可视化设计。提高开发者对表单的开发效率。目前在OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
+* 【2024-06-07】[jagenjo / litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
 * 【2024-06-05】[ForrestKnight / 3d\-portfolio](https://github.com/ForrestKnight/3d-portfolio) - 
 * 【2024-06-04】[SyedImtiyaz-1 / GetTechProjects](https://github.com/SyedImtiyaz-1/GetTechProjects) - Make your first Pull Request on this Repo. Don't forget to spread love and give us a ⭐️
 * 【2024-06-04】[VajiraTech / VAJIRA\-MD](https://github.com/VajiraTech/VAJIRA-MD) - 🇱🇰King vajira md v4 update released🇱🇰
@@ -1592,6 +1594,7 @@
 
 ## C
 
+* 【2024-06-07】[AlkaMotors / AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors
 * 【2024-06-06】[riscv\-software\-src / riscv\-tests](https://github.com/riscv-software-src/riscv-tests) - 
 * 【2024-06-06】[AlkaMotors / AM32\-MultiRotor\-ESC\-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors
 * 【2024-06-05】[CTR\-tools / CTR\-ModSDK](https://github.com/CTR-tools/CTR-ModSDK) - ModSDK \- a modding toolkit to create mods for Crash Team Racing in C  This repository also houses an effort to fully decompile and reverse\-engineer CTR in C 
@@ -1922,6 +1925,7 @@
 
 ## C#
 
+* 【2024-06-07】[nomi-san / parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect 4K@240Hz Virtual Display
 * 【2024-06-06】[nomi\-san / parsec\-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect 4K@240Hz Virtual Display
 * 【2024-06-05】[feiyun0112 / Gradio.Net](https://github.com/feiyun0112/Gradio.Net) - Gradio for .NET – a port of Gradio, an open-source Python package that allows you to quickly build a demo or web application for your machine learning model, API, or any arbitrary Python function. Gradio for .NET – 基于 Gradio 的 .NET 移植，Gradio 是一个开源 Python 包，允许你为机器学习模型、API 或任何任意 Python 函数快速构建演示或 Web 应用程序。
 * 【2024-06-05】[Cysharp / ConsoleAppFramework](https://github.com/Cysharp/ConsoleAppFramework) - Zero Dependency, Zero Overhead, Zero Reflection, Zero Allocation, AOT Safe CLI Framework powered by C\# Source Generator 
@@ -2124,6 +2128,8 @@
 
 ## Html
 
+* 【2024-06-07】[jokob-sk / NetAlertX](https://github.com/jokob-sk/NetAlertX) - 💻🔍 WIFI / LAN intruder detector. Scans for devices connected to your network and alerts you if new and unknown devices are found.
+* 【2024-06-07】[SAP / ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
 * 【2024-06-05】[chrispsn / mesh\-spreadsheet](https://github.com/chrispsn/mesh-spreadsheet) - A data and code editor that feels like a spreadsheet 
 * 【2024-06-05】[SAP / ui5\-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components \- the enterprise\-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice 
 * 【2024-06-04】[akshetP / robotics-resources](https://github.com/akshetP/robotics-resources) - A complete library of resources that caters to all levels of Roboticists.
@@ -3283,6 +3289,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-07】[RocketChat / Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative) - Rocket.Chat mobile clients
+* 【2024-06-07】[callstack / react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 * 【2024-06-06】[xjh22222228 / nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 最强静态导航网站
 * 【2024-06-05】[SawyerHood / tlbrowse](https://github.com/SawyerHood/tlbrowse) - Generate imagined websites on an infinite canvas
 * 【2024-06-05】[NapNeko / NapCatQQ](https://github.com/NapNeko/NapCatQQ) - 基于NTQQ的无头Bot框架
