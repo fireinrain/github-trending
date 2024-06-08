@@ -24,6 +24,8 @@
 
 ## All language
 
+* 【2024-06-08】[jordanbaird / Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+* 【2024-06-08】[google / mesop](https://github.com/google/mesop) - 
 * 【2024-06-04】[onuratakan / gpt\-computer\-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt\-4o for windows, macos and ubuntu
 * 【2024-06-04】[StasPlov / docker-unlock](https://github.com/StasPlov/docker-unlock) - Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria
 * 【2024-06-04】[adrianhajdin / podcastr](https://github.com/adrianhajdin/podcastr) - 
@@ -550,6 +552,7 @@
 
 ## Java
 
+* 【2024-06-08】[tencentmusic / supersonic](https://github.com/tencentmusic/supersonic) - SuperSonic is the next\-generation BI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms 
 * 【2024-06-05】[pen4uin / java\-memshell\-generator](https://github.com/pen4uin/java-memshell-generator) - 一款支持高度自定义的 Java 内存马生成工具
 * 【2024-06-05】[Alanosy / online-exam-system-backend](https://github.com/Alanosy/online-exam-system-backend) - 在线考试系统,springboot+vue
 * 【2024-06-05】[pen4uin / java\-echo\-generator](https://github.com/pen4uin/java-echo-generator) - 一款支持高度自定义的 Java 回显载荷生成工具
@@ -693,6 +696,7 @@
 
 ## Python
 
+* 【2024-06-08】[mategol / PySilon\-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier 
 * 【2024-06-05】[AiuniAI / Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of Unique3D: High\-Quality and Efficient 3D Mesh Generation from a Single Image
 * 【2024-06-05】[tevslin / meeting\-reporter](https://github.com/tevslin/meeting-reporter) - Human\-AI collaboration to produce a newstory about a meeting from minutes or transcript
 * 【2024-06-05】[julep\-ai / julep](https://github.com/julep-ai/julep) - Open\-source alternative to Assistant's API with a managed backend for memory, RAG, tools and tasks  ~Supabase for building AI agents 
@@ -1433,6 +1437,7 @@
 
 ## Go
 
+* 【2024-06-08】[eksctl\-io / eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 * 【2024-06-04】[ivoras / EncryptedNotepad2](https://github.com/ivoras/EncryptedNotepad2) - A Notepad\-like simple text editor where files are saved (and later loaded) encrypted with AES\-256 
 * 【2024-06-04】[AccentDesign / gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go
 * 【2024-06-03】[fruitbars / simple\-one\-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep\-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用 
@@ -3289,6 +3294,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-08】[idootop / mi\-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
+* 【2024-06-08】[vikejs / vike](https://github.com/vikejs/vike) - 🔨 Flexible, lean, community\-driven, dependable, fast Vite\-based frontend framework 
+* 【2024-06-08】[vercel / vercel](https://github.com/vercel/vercel) - Develop  Preview  Ship 
+* 【2024-06-08】[laudspeaker / laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform  Open Source alternative to Braze / One Signal / Customer Io / Appcues / Pendo   Use Laudspeaker to design product onboarding flows and send product and event triggered emails, sms, push and more 
+* 【2024-06-08】[microsoft / azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
 * 【2024-06-07】[RocketChat / Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative) - Rocket.Chat mobile clients
 * 【2024-06-07】[callstack / react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 * 【2024-06-06】[xjh22222228 / nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 最强静态导航网站
