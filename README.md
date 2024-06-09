@@ -24,6 +24,8 @@
 
 ## All language
 
+* 【2024-06-09】[idootop / mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
+* 【2024-06-09】[hackerb9 / lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images  Shows thumbnails in terminal using sixel graphics 
 * 【2024-06-08】[jordanbaird / Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 * 【2024-06-08】[google / mesop](https://github.com/google/mesop) - 
 * 【2024-06-04】[onuratakan / gpt\-computer\-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt\-4o for windows, macos and ubuntu
@@ -552,6 +554,9 @@
 
 ## Java
 
+* 【2024-06-09】[tjake / Jlama](https://github.com/tjake/Jlama) - Jlama is a modern Java inference engine for LLMs
+* 【2024-06-09】[confluentinc / parallel\-consumer](https://github.com/confluentinc/parallel-consumer) - Parallel Apache Kafka client wrapper with per message ACK, client side queueing, a simpler consumer/producer API with key concurrency and extendable non\-blocking IO processing 
+* 【2024-06-09】[youtube / cobalt](https://github.com/youtube/cobalt) - Cobalt is a lightweight HTML5 application container
 * 【2024-06-08】[tencentmusic / supersonic](https://github.com/tencentmusic/supersonic) - SuperSonic is the next\-generation BI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms 
 * 【2024-06-05】[pen4uin / java\-memshell\-generator](https://github.com/pen4uin/java-memshell-generator) - 一款支持高度自定义的 Java 内存马生成工具
 * 【2024-06-05】[Alanosy / online-exam-system-backend](https://github.com/Alanosy/online-exam-system-backend) - 在线考试系统,springboot+vue
@@ -1437,6 +1442,7 @@
 
 ## Go
 
+* 【2024-06-09】[playwright\-community / playwright\-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API 
 * 【2024-06-08】[eksctl\-io / eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 * 【2024-06-04】[ivoras / EncryptedNotepad2](https://github.com/ivoras/EncryptedNotepad2) - A Notepad\-like simple text editor where files are saved (and later loaded) encrypted with AES\-256 
 * 【2024-06-04】[AccentDesign / gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go
@@ -1599,6 +1605,7 @@
 
 ## C
 
+* 【2024-06-09】[wolfi-dev / os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 * 【2024-06-07】[AlkaMotors / AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors
 * 【2024-06-06】[riscv\-software\-src / riscv\-tests](https://github.com/riscv-software-src/riscv-tests) - 
 * 【2024-06-06】[AlkaMotors / AM32\-MultiRotor\-ESC\-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors
@@ -1769,6 +1776,7 @@
 
 ## C++
 
+* 【2024-06-09】[microsoft / onnxruntime\-inference\-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing 
 * 【2024-06-04】[samtupy / nvgt](https://github.com/samtupy/nvgt) - The Nonvisual Gaming Toolkit
 * 【2024-06-01】[Cambricon / triton\-linalg](https://github.com/Cambricon/triton-linalg) - Development repository for the Triton\-Linalg conversion
 * 【2024-06-01】[baidu / babylon](https://github.com/baidu/babylon) - High\-Performance C++ Fundamental Library
@@ -2914,6 +2922,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-06-09】[lancedb / lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust  Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning  Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming  
 * 【2024-06-05】[tock / tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
 * 【2024-06-05】[tauri\-apps / wry](https://github.com/tauri-apps/wry) - Cross\-platform WebView library in Rust for Tauri 
 * 【2024-06-05】[zksecurity / noname](https://github.com/zksecurity/noname) - Noname: a programming language to write zkapps
@@ -3294,6 +3303,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-09】[RhysSullivan / shiptalkers](https://github.com/RhysSullivan/shiptalkers) - 
+* 【2024-06-09】[discord / discord\-api\-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
+* 【2024-06-09】[felixmosh / bull\-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector
+* 【2024-06-09】[pixijs / pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer 
 * 【2024-06-08】[idootop / mi\-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
 * 【2024-06-08】[vikejs / vike](https://github.com/vikejs/vike) - 🔨 Flexible, lean, community\-driven, dependable, fast Vite\-based frontend framework 
 * 【2024-06-08】[vercel / vercel](https://github.com/vercel/vercel) - Develop  Preview  Ship 
