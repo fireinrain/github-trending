@@ -24,6 +24,7 @@
 
 ## All language
 
+* 【2024-06-11】[DaoCloud / public\-image\-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
 * 【2024-06-09】[idootop / mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
 * 【2024-06-09】[hackerb9 / lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images  Shows thumbnails in terminal using sixel graphics 
 * 【2024-06-08】[jordanbaird / Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -554,6 +555,7 @@
 
 ## Java
 
+* 【2024-06-11】[batfish / batfish](https://github.com/batfish/batfish) - Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations  It enables network engineers to rapidly and safely evolve their network, without fear of outages or security breaches 
 * 【2024-06-09】[tjake / Jlama](https://github.com/tjake/Jlama) - Jlama is a modern Java inference engine for LLMs
 * 【2024-06-09】[confluentinc / parallel\-consumer](https://github.com/confluentinc/parallel-consumer) - Parallel Apache Kafka client wrapper with per message ACK, client side queueing, a simpler consumer/producer API with key concurrency and extendable non\-blocking IO processing 
 * 【2024-06-09】[youtube / cobalt](https://github.com/youtube/cobalt) - Cobalt is a lightweight HTML5 application container
@@ -1442,6 +1444,9 @@
 
 ## Go
 
+* 【2024-06-11】[wzshiming / crproxy](https://github.com/wzshiming/crproxy) - CRProxy (Container Registry Proxy)
+* 【2024-06-11】[danvergara / dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves 
+* 【2024-06-11】[imgproxy / imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 * 【2024-06-09】[playwright\-community / playwright\-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API 
 * 【2024-06-08】[eksctl\-io / eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 * 【2024-06-04】[ivoras / EncryptedNotepad2](https://github.com/ivoras/EncryptedNotepad2) - A Notepad\-like simple text editor where files are saved (and later loaded) encrypted with AES\-256 
@@ -3303,6 +3308,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-11】[vendure\-ecommerce / vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
 * 【2024-06-09】[RhysSullivan / shiptalkers](https://github.com/RhysSullivan/shiptalkers) - 
 * 【2024-06-09】[discord / discord\-api\-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 * 【2024-06-09】[felixmosh / bull\-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector
