@@ -24,6 +24,7 @@
 
 ## All language
 
+* 【2024-06-12】[piku / piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen  Piku allows you to do git push deployments to your own servers 
 * 【2024-06-11】[DaoCloud / public\-image\-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
 * 【2024-06-09】[idootop / mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
 * 【2024-06-09】[hackerb9 / lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images  Shows thumbnails in terminal using sixel graphics 
@@ -555,6 +556,7 @@
 
 ## Java
 
+* 【2024-06-12】[elkokc / reflector](https://github.com/elkokc/reflector) - Burp plugin able to find reflected XSS on page in real\-time while browsing on site
 * 【2024-06-11】[batfish / batfish](https://github.com/batfish/batfish) - Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations  It enables network engineers to rapidly and safely evolve their network, without fear of outages or security breaches 
 * 【2024-06-09】[tjake / Jlama](https://github.com/tjake/Jlama) - Jlama is a modern Java inference engine for LLMs
 * 【2024-06-09】[confluentinc / parallel\-consumer](https://github.com/confluentinc/parallel-consumer) - Parallel Apache Kafka client wrapper with per message ACK, client side queueing, a simpler consumer/producer API with key concurrency and extendable non\-blocking IO processing 
@@ -703,6 +705,7 @@
 
 ## Python
 
+* 【2024-06-12】[dyang886 / Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager) - Easily download and manage game cheats for your convenience
 * 【2024-06-08】[mategol / PySilon\-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier 
 * 【2024-06-05】[AiuniAI / Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of Unique3D: High\-Quality and Efficient 3D Mesh Generation from a Single Image
 * 【2024-06-05】[tevslin / meeting\-reporter](https://github.com/tevslin/meeting-reporter) - Human\-AI collaboration to produce a newstory about a meeting from minutes or transcript
@@ -1184,6 +1187,7 @@
 
 ## Javascript
 
+* 【2024-06-12】[Neet\-Nestor / Telegram\-Media\-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A Tampermonkey script allowing you to download images and videos from Telegram web even if the group restricts downloading 
 * 【2024-06-07】[xaboy / form\-create](https://github.com/xaboy/form-create) - 🔥🔥🔥 强大的动态表单生成器，通过数据驱动表单渲染，支持可视化设计。提高开发者对表单的开发效率。目前在OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
 * 【2024-06-07】[jagenjo / litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
 * 【2024-06-05】[ForrestKnight / 3d\-portfolio](https://github.com/ForrestKnight/3d-portfolio) - 
@@ -1444,6 +1448,7 @@
 
 ## Go
 
+* 【2024-06-12】[kubernetes\-sigs / secrets\-store\-csi\-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) - Secrets Store CSI driver for Kubernetes secrets \- Integrates secrets stores with Kubernetes via a CSI volume 
 * 【2024-06-11】[wzshiming / crproxy](https://github.com/wzshiming/crproxy) - CRProxy (Container Registry Proxy)
 * 【2024-06-11】[danvergara / dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves 
 * 【2024-06-11】[imgproxy / imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
@@ -1610,6 +1615,8 @@
 
 ## C
 
+* 【2024-06-12】[nginx / njs](https://github.com/nginx/njs) - A subset of JavaScript language to use in nginx
+* 【2024-06-12】[haampie / libtree](https://github.com/haampie/libtree) - ldd as a tree
 * 【2024-06-09】[wolfi-dev / os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 * 【2024-06-07】[AlkaMotors / AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors
 * 【2024-06-06】[riscv\-software\-src / riscv\-tests](https://github.com/riscv-software-src/riscv-tests) - 
@@ -1781,6 +1788,7 @@
 
 ## C++
 
+* 【2024-06-12】[dalathegreat / Battery\-Emulator](https://github.com/dalathegreat/Battery-Emulator) - This software enables EV battery packs to be used for stationary storage in combination with solar inverters 
 * 【2024-06-09】[microsoft / onnxruntime\-inference\-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing 
 * 【2024-06-04】[samtupy / nvgt](https://github.com/samtupy/nvgt) - The Nonvisual Gaming Toolkit
 * 【2024-06-01】[Cambricon / triton\-linalg](https://github.com/Cambricon/triton-linalg) - Development repository for the Triton\-Linalg conversion
@@ -2146,6 +2154,7 @@
 
 ## Html
 
+* 【2024-06-12】[tc39 / proposal\-async\-context](https://github.com/tc39/proposal-async-context) - Async Context for JavaScript
 * 【2024-06-07】[jokob-sk / NetAlertX](https://github.com/jokob-sk/NetAlertX) - 💻🔍 WIFI / LAN intruder detector. Scans for devices connected to your network and alerts you if new and unknown devices are found.
 * 【2024-06-07】[SAP / ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
 * 【2024-06-05】[chrispsn / mesh\-spreadsheet](https://github.com/chrispsn/mesh-spreadsheet) - A data and code editor that feels like a spreadsheet 
@@ -2927,6 +2936,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-06-12】[teodevgroup / teo](https://github.com/teodevgroup/teo) - Schema\-driven web server framework 
 * 【2024-06-09】[lancedb / lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust  Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning  Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming  
 * 【2024-06-05】[tock / tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
 * 【2024-06-05】[tauri\-apps / wry](https://github.com/tauri-apps/wry) - Cross\-platform WebView library in Rust for Tauri 
@@ -3308,6 +3318,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-12】[xenova / whisper\-web](https://github.com/xenova/whisper-web) - ML\-powered speech recognition directly in your browser
 * 【2024-06-11】[vendure\-ecommerce / vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
 * 【2024-06-09】[RhysSullivan / shiptalkers](https://github.com/RhysSullivan/shiptalkers) - 
 * 【2024-06-09】[discord / discord\-api\-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
