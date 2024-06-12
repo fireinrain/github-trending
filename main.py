@@ -51,8 +51,13 @@ def scrape_url(url):
     }
 
     print(f">>> Fetch link: {url}")
-    r = requests.get(url, headers=HEADERS)
-    assert r.status_code == 200
+    r = None
+    try:
+        r = requests.get(url, headers=HEADERS)
+        r.raise_for_status()
+    except Exception as e:
+        print(f"Error for fetch url: {url},error:{e}")
+        return None
 
     d = pq(r.content)
     items = d('div.Box article.Box-row')
@@ -78,7 +83,12 @@ def scrape_lang(language):
     url = 'https://github.com/trending/{language}?spoken_language_code=zh'.format(
         language=urllib.parse.quote_plus(language))
     r2 = scrape_url(url)
-    return {**r1, **r2}
+    result = {}
+    if r1 is not None:
+        result.update(r1)
+    if r2 is not None:
+        result.update(r2)
+    return result
 
 
 def write_markdown(lang, results, archived_contents):
@@ -384,6 +394,8 @@ async def fetch_push_ghtendings_job():
     new_trending_count = 0
     for lang in languages:
         results = scrape_lang(lang)
+        if not results:
+            continue
         # push to telegram bot
         for key, value in results.items():
             value, have_push, repo_statics = check_and_store_db(value, lang)
