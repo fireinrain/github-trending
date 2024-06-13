@@ -24,6 +24,8 @@
 
 ## All language
 
+* 【2024-06-13】[DaoCloud / public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
+* 【2024-06-13】[TangSY / echarts\-map\-demo](https://github.com/TangSY/echarts-map-demo) - 适用于echarts等地图geoJson行政区划边界数据的实时获取与应用，json格式数据，全国省市区县多级联动下钻，真正意义的下钻至县级【附最新全国省市区县乡镇三级或四级城市geoJson文件下载，另可下载四级联动或五级（村级）行政编码对应关系】
 * 【2024-06-12】[piku / piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen  Piku allows you to do git push deployments to your own servers 
 * 【2024-06-11】[DaoCloud / public\-image\-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
 * 【2024-06-09】[idootop / mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
@@ -1448,6 +1450,7 @@
 
 ## Go
 
+* 【2024-06-13】[xtaci / kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC  Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다  Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC 
 * 【2024-06-12】[kubernetes\-sigs / secrets\-store\-csi\-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) - Secrets Store CSI driver for Kubernetes secrets \- Integrates secrets stores with Kubernetes via a CSI volume 
 * 【2024-06-11】[wzshiming / crproxy](https://github.com/wzshiming/crproxy) - CRProxy (Container Registry Proxy)
 * 【2024-06-11】[danvergara / dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves 
@@ -2936,6 +2939,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-06-13】[nexus\-xyz / nexus\-zkvm](https://github.com/nexus-xyz/nexus-zkvm) - The Nexus zkVM: The zero\-knowledge virtual machine
 * 【2024-06-12】[teodevgroup / teo](https://github.com/teodevgroup/teo) - Schema\-driven web server framework 
 * 【2024-06-09】[lancedb / lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust  Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning  Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming  
 * 【2024-06-05】[tock / tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
@@ -3318,6 +3322,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-13】[xenova / whisper-web](https://github.com/xenova/whisper-web) - ML-powered speech recognition directly in your browser
+* 【2024-06-13】[cvat-ai / cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+* 【2024-06-13】[chimurai / http\-proxy\-middleware](https://github.com/chimurai/http-proxy-middleware) - ⚡ The one\-liner node js http\-proxy middleware for connect, express, next js and more
 * 【2024-06-12】[xenova / whisper\-web](https://github.com/xenova/whisper-web) - ML\-powered speech recognition directly in your browser
 * 【2024-06-11】[vendure\-ecommerce / vendure](https://github.com/vendure-ecommerce/vendure) - A headless GraphQL commerce platform for the modern web
 * 【2024-06-09】[RhysSullivan / shiptalkers](https://github.com/RhysSullivan/shiptalkers) - 
