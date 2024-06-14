@@ -24,6 +24,8 @@
 
 ## All language
 
+* 【2024-06-14】[fchollet / ARC\-AGI](https://github.com/fchollet/ARC-AGI) - The Abstraction and Reasoning Corpus
+* 【2024-06-14】[goldmansachs / gs\-quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
 * 【2024-06-13】[DaoCloud / public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
 * 【2024-06-13】[TangSY / echarts\-map\-demo](https://github.com/TangSY/echarts-map-demo) - 适用于echarts等地图geoJson行政区划边界数据的实时获取与应用，json格式数据，全国省市区县多级联动下钻，真正意义的下钻至县级【附最新全国省市区县乡镇三级或四级城市geoJson文件下载，另可下载四级联动或五级（村级）行政编码对应关系】
 * 【2024-06-12】[piku / piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen  Piku allows you to do git push deployments to your own servers 
@@ -558,6 +560,7 @@
 
 ## Java
 
+* 【2024-06-14】[spacious\-team / investbook](https://github.com/spacious-team/investbook) - Оценка эффективности инвестиций с учетом комиссий, налогов (удержанных и ожидающихся), дивидендов и купонов 
 * 【2024-06-12】[elkokc / reflector](https://github.com/elkokc/reflector) - Burp plugin able to find reflected XSS on page in real\-time while browsing on site
 * 【2024-06-11】[batfish / batfish](https://github.com/batfish/batfish) - Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations  It enables network engineers to rapidly and safely evolve their network, without fear of outages or security breaches 
 * 【2024-06-09】[tjake / Jlama](https://github.com/tjake/Jlama) - Jlama is a modern Java inference engine for LLMs
@@ -1189,6 +1192,8 @@
 
 ## Javascript
 
+* 【2024-06-14】[fchollet / ARC-AGI](https://github.com/fchollet/ARC-AGI) - The Abstraction and Reasoning Corpus
+* 【2024-06-14】[paulmillr / chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross\-platform file watching library
 * 【2024-06-12】[Neet\-Nestor / Telegram\-Media\-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A Tampermonkey script allowing you to download images and videos from Telegram web even if the group restricts downloading 
 * 【2024-06-07】[xaboy / form\-create](https://github.com/xaboy/form-create) - 🔥🔥🔥 强大的动态表单生成器，通过数据驱动表单渲染，支持可视化设计。提高开发者对表单的开发效率。目前在OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
 * 【2024-06-07】[jagenjo / litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
@@ -1450,6 +1455,7 @@
 
 ## Go
 
+* 【2024-06-14】[Azure / azure\-storage\-fuse](https://github.com/Azure/azure-storage-fuse) - A virtual file system adapter for Azure Blob storage
 * 【2024-06-13】[xtaci / kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC  Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다  Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC 
 * 【2024-06-12】[kubernetes\-sigs / secrets\-store\-csi\-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) - Secrets Store CSI driver for Kubernetes secrets \- Integrates secrets stores with Kubernetes via a CSI volume 
 * 【2024-06-11】[wzshiming / crproxy](https://github.com/wzshiming/crproxy) - CRProxy (Container Registry Proxy)
@@ -1618,6 +1624,7 @@
 
 ## C
 
+* 【2024-06-14】[RubyMetric / chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具  Change Source for every software on every platform from the command line 
 * 【2024-06-12】[nginx / njs](https://github.com/nginx/njs) - A subset of JavaScript language to use in nginx
 * 【2024-06-12】[haampie / libtree](https://github.com/haampie/libtree) - ldd as a tree
 * 【2024-06-09】[wolfi-dev / os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
@@ -1954,6 +1961,7 @@
 
 ## C#
 
+* 【2024-06-14】[MediaBrowser / Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device 
 * 【2024-06-07】[nomi-san / parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect 4K@240Hz Virtual Display
 * 【2024-06-06】[nomi\-san / parsec\-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect 4K@240Hz Virtual Display
 * 【2024-06-05】[feiyun0112 / Gradio.Net](https://github.com/feiyun0112/Gradio.Net) - Gradio for .NET – a port of Gradio, an open-source Python package that allows you to quickly build a demo or web application for your machine learning model, API, or any arbitrary Python function. Gradio for .NET – 基于 Gradio 的 .NET 移植，Gradio 是一个开源 Python 包，允许你为机器学习模型、API 或任何任意 Python 函数快速构建演示或 Web 应用程序。
@@ -2939,6 +2947,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-06-14】[timescale / pgvectorscale](https://github.com/timescale/pgvectorscale) - A complement to pgvector for high performance, cost efficient vector search on large workloads 
+* 【2024-06-14】[nexus-xyz / nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm) - The Nexus zkVM: The zero-knowledge virtual machine
 * 【2024-06-13】[nexus\-xyz / nexus\-zkvm](https://github.com/nexus-xyz/nexus-zkvm) - The Nexus zkVM: The zero\-knowledge virtual machine
 * 【2024-06-12】[teodevgroup / teo](https://github.com/teodevgroup/teo) - Schema\-driven web server framework 
 * 【2024-06-09】[lancedb / lance](https://github.com/lancedb/lance) - Modern columnar data format for ML and LLMs implemented in Rust  Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning  Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming  
@@ -3322,6 +3332,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-14】[redotvideo / revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
+* 【2024-06-14】[rejetto / hfs](https://github.com/rejetto/hfs) - HFS is a web file server to run on your computer  Share folders or even a single file thanks to the virtual file system 
+* 【2024-06-14】[maplibre / maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
+* 【2024-06-14】[getsentry / sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 * 【2024-06-13】[xenova / whisper-web](https://github.com/xenova/whisper-web) - ML-powered speech recognition directly in your browser
 * 【2024-06-13】[cvat-ai / cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 * 【2024-06-13】[chimurai / http\-proxy\-middleware](https://github.com/chimurai/http-proxy-middleware) - ⚡ The one\-liner node js http\-proxy middleware for connect, express, next js and more
