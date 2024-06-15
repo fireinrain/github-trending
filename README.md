@@ -24,6 +24,7 @@
 
 ## All language
 
+* 【2024-06-15】[lexbor / lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library  https://lexbor com
 * 【2024-06-14】[fchollet / ARC\-AGI](https://github.com/fchollet/ARC-AGI) - The Abstraction and Reasoning Corpus
 * 【2024-06-14】[goldmansachs / gs\-quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
 * 【2024-06-13】[DaoCloud / public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
@@ -560,6 +561,8 @@
 
 ## Java
 
+* 【2024-06-15】[innoveit / react\-native\-ble\-manager](https://github.com/innoveit/react-native-ble-manager) - React Native BLE communication module
+* 【2024-06-15】[spring\-projects / sts4](https://github.com/spring-projects/sts4) - The next generation of tooling for Spring Boot, including support for Cloud Foundry manifest files, Concourse CI pipeline definitions, BOSH deployment manifests, and more    \- Available for Eclipse, Visual Studio Code, and Theia
 * 【2024-06-14】[spacious\-team / investbook](https://github.com/spacious-team/investbook) - Оценка эффективности инвестиций с учетом комиссий, налогов (удержанных и ожидающихся), дивидендов и купонов 
 * 【2024-06-12】[elkokc / reflector](https://github.com/elkokc/reflector) - Burp plugin able to find reflected XSS on page in real\-time while browsing on site
 * 【2024-06-11】[batfish / batfish](https://github.com/batfish/batfish) - Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations  It enables network engineers to rapidly and safely evolve their network, without fear of outages or security breaches 
@@ -1192,6 +1195,10 @@
 
 ## Javascript
 
+* 【2024-06-15】[hotwired / turbo\-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
+* 【2024-06-15】[aws\-actions / amazon\-ecs\-deploy\-task\-definition](https://github.com/aws-actions/amazon-ecs-deploy-task-definition) - Registers an Amazon ECS task definition and deploys it to an ECS service 
+* 【2024-06-15】[debezium / debezium\-examples](https://github.com/debezium/debezium-examples) - Examples for running Debezium (Configuration, Docker Compose files etc )
+* 【2024-06-15】[OpenZeppelin / openzeppelin\-contracts\-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) - Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts 
 * 【2024-06-14】[fchollet / ARC-AGI](https://github.com/fchollet/ARC-AGI) - The Abstraction and Reasoning Corpus
 * 【2024-06-14】[paulmillr / chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross\-platform file watching library
 * 【2024-06-12】[Neet\-Nestor / Telegram\-Media\-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A Tampermonkey script allowing you to download images and videos from Telegram web even if the group restricts downloading 
@@ -1455,6 +1462,7 @@
 
 ## Go
 
+* 【2024-06-15】[multiversx / mx\-chain\-go](https://github.com/multiversx/mx-chain-go) - ⚡ The official implementation of the MultiversX blockchain protocol, written in golang 
 * 【2024-06-14】[Azure / azure\-storage\-fuse](https://github.com/Azure/azure-storage-fuse) - A virtual file system adapter for Azure Blob storage
 * 【2024-06-13】[xtaci / kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC  Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다  Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC 
 * 【2024-06-12】[kubernetes\-sigs / secrets\-store\-csi\-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) - Secrets Store CSI driver for Kubernetes secrets \- Integrates secrets stores with Kubernetes via a CSI volume 
@@ -2165,6 +2173,8 @@
 
 ## Html
 
+* 【2024-06-15】[OCA / maintenance](https://github.com/OCA/maintenance) - Odoo modules for businesses that implies maintenance tasks
+* 【2024-06-15】[foundation / foundation\-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client  Even Outlook 
 * 【2024-06-12】[tc39 / proposal\-async\-context](https://github.com/tc39/proposal-async-context) - Async Context for JavaScript
 * 【2024-06-07】[jokob-sk / NetAlertX](https://github.com/jokob-sk/NetAlertX) - 💻🔍 WIFI / LAN intruder detector. Scans for devices connected to your network and alerts you if new and unknown devices are found.
 * 【2024-06-07】[SAP / ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
@@ -2947,6 +2957,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-06-15】[restatedev / restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD 
+* 【2024-06-15】[JohnnyMorganz / StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 * 【2024-06-14】[timescale / pgvectorscale](https://github.com/timescale/pgvectorscale) - A complement to pgvector for high performance, cost efficient vector search on large workloads 
 * 【2024-06-14】[nexus-xyz / nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm) - The Nexus zkVM: The zero-knowledge virtual machine
 * 【2024-06-13】[nexus\-xyz / nexus\-zkvm](https://github.com/nexus-xyz/nexus-zkvm) - The Nexus zkVM: The zero\-knowledge virtual machine
@@ -3332,6 +3344,15 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-15】[DylanVann / react\-native\-fast\-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component 
+* 【2024-06-15】[BuilderIO / builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
+* 【2024-06-15】[dooboolab\-community / react\-native\-iap](https://github.com/dooboolab-community/react-native-iap) - In App Purchase module for React Native!
+* 【2024-06-15】[swiftlang / vscode\-swift](https://github.com/swiftlang/vscode-swift) - Visual Studio Code Extension for Swift
+* 【2024-06-15】[mongodb\-js / compass](https://github.com/mongodb-js/compass) - The GUI for MongoDB 
+* 【2024-06-15】[OfficeDev / teams\-toolkit](https://github.com/OfficeDev/teams-toolkit) - Developer tools for building Teams apps
+* 【2024-06-15】[googleapis / release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
+* 【2024-06-15】[ardatan / graphql\-tools](https://github.com/ardatan/graphql-tools) - 🔧 Utility library for GraphQL to build, stitch and mock GraphQL schemas in the SDL\-first approach
+* 【2024-06-15】[Azure / communication\-ui\-library](https://github.com/Azure/communication-ui-library) - UI Library for Azure Communication Services helps developers build communication applications with ease  From turn\-key composites to UI components that can be composited together 
 * 【2024-06-14】[redotvideo / revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 * 【2024-06-14】[rejetto / hfs](https://github.com/rejetto/hfs) - HFS is a web file server to run on your computer  Share folders or even a single file thanks to the virtual file system 
 * 【2024-06-14】[maplibre / maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
