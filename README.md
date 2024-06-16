@@ -713,6 +713,8 @@
 
 ## Python
 
+* 【2024-06-16】[reorx / httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+* 【2024-06-16】[oceanbase / obdiag](https://github.com/oceanbase/obdiag) - obdiag (OceanBase Diagnostic Tool) is designed to help OceanBase users quickly gather necessary information and analyze the root cause of the problem 
 * 【2024-06-12】[dyang886 / Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager) - Easily download and manage game cheats for your convenience
 * 【2024-06-08】[mategol / PySilon\-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier 
 * 【2024-06-05】[AiuniAI / Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of Unique3D: High\-Quality and Efficient 3D Mesh Generation from a Single Image
@@ -1632,6 +1634,8 @@
 
 ## C
 
+* 【2024-06-16】[KhronosGroup / Vulkan\-Loader](https://github.com/KhronosGroup/Vulkan-Loader) - Vulkan Loader
+* 【2024-06-16】[a0rtega / pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
 * 【2024-06-14】[RubyMetric / chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具  Change Source for every software on every platform from the command line 
 * 【2024-06-12】[nginx / njs](https://github.com/nginx/njs) - A subset of JavaScript language to use in nginx
 * 【2024-06-12】[haampie / libtree](https://github.com/haampie/libtree) - ldd as a tree
@@ -2957,6 +2961,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-06-16】[shell\-pool / shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim    lower
 * 【2024-06-15】[restatedev / restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD 
 * 【2024-06-15】[JohnnyMorganz / StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 * 【2024-06-14】[timescale / pgvectorscale](https://github.com/timescale/pgvectorscale) - A complement to pgvector for high performance, cost efficient vector search on large workloads 
@@ -3344,6 +3349,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-16】[refined\-github / refined\-github](https://github.com/refined-github/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
 * 【2024-06-15】[DylanVann / react\-native\-fast\-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component 
 * 【2024-06-15】[BuilderIO / builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
 * 【2024-06-15】[dooboolab\-community / react\-native\-iap](https://github.com/dooboolab-community/react-native-iap) - In App Purchase module for React Native!
