@@ -1464,6 +1464,7 @@
 
 ## Go
 
+* 【2024-06-17】[davecheney / httpstat](https://github.com/davecheney/httpstat) - It's like curl \-v, with colours 
 * 【2024-06-15】[multiversx / mx\-chain\-go](https://github.com/multiversx/mx-chain-go) - ⚡ The official implementation of the MultiversX blockchain protocol, written in golang 
 * 【2024-06-14】[Azure / azure\-storage\-fuse](https://github.com/Azure/azure-storage-fuse) - A virtual file system adapter for Azure Blob storage
 * 【2024-06-13】[xtaci / kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC  Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다  Un tunnel stable et sécurisé basé sur KCP avec multiplexage N:M et FEC 
@@ -2961,6 +2962,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-06-17】[shell-pool / shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
+* 【2024-06-17】[XAMPPRocky / octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust 
 * 【2024-06-16】[shell\-pool / shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim    lower
 * 【2024-06-15】[restatedev / restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD 
 * 【2024-06-15】[JohnnyMorganz / StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
@@ -3349,6 +3352,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-17】[koush / scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform
+* 【2024-06-17】[gorhom / react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
 * 【2024-06-16】[refined\-github / refined\-github](https://github.com/refined-github/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
 * 【2024-06-15】[DylanVann / react\-native\-fast\-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component 
 * 【2024-06-15】[BuilderIO / builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
