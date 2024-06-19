@@ -24,6 +24,8 @@
 
 ## All language
 
+* 【2024-06-19】[datawhalechina / leedl\-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github com/datawhalechina/leedl\-tutorial/releases
+* 【2024-06-19】[zxwk1998 / vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 * 【2024-06-18】[zxwk1998 / vue\-admin\-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3 0 admin,vue后台管理,vue\-admin,vue3 0\-admin,admin,vue\-admin,vue\-element\-admin,ant\-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 * 【2024-06-15】[lexbor / lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library  https://lexbor com
 * 【2024-06-14】[fchollet / ARC\-AGI](https://github.com/fchollet/ARC-AGI) - The Abstraction and Reasoning Corpus
@@ -716,6 +718,7 @@
 
 ## Python
 
+* 【2024-06-19】[landing\-ai / vision\-agent](https://github.com/landing-ai/vision-agent) - Vision agent
 * 【2024-06-16】[reorx / httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 * 【2024-06-16】[oceanbase / obdiag](https://github.com/oceanbase/obdiag) - obdiag (OceanBase Diagnostic Tool) is designed to help OceanBase users quickly gather necessary information and analyze the root cause of the problem 
 * 【2024-06-12】[dyang886 / Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager) - Easily download and manage game cheats for your convenience
@@ -1200,6 +1203,7 @@
 
 ## Javascript
 
+* 【2024-06-19】[DefiLlama / chainlist](https://github.com/DefiLlama/chainlist) - 
 * 【2024-06-15】[hotwired / turbo\-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
 * 【2024-06-15】[aws\-actions / amazon\-ecs\-deploy\-task\-definition](https://github.com/aws-actions/amazon-ecs-deploy-task-definition) - Registers an Amazon ECS task definition and deploys it to an ECS service 
 * 【2024-06-15】[debezium / debezium\-examples](https://github.com/debezium/debezium-examples) - Examples for running Debezium (Configuration, Docker Compose files etc )
@@ -1467,6 +1471,7 @@
 
 ## Go
 
+* 【2024-06-19】[envoyproxy / ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications 
 * 【2024-06-18】[simulot / immich\-go](https://github.com/simulot/immich-go) - An alternative to the immich\-CLI command that doesn't depend on nodejs installation  It tries its best for importing google photos takeout archives 
 * 【2024-06-17】[davecheney / httpstat](https://github.com/davecheney/httpstat) - It's like curl \-v, with colours 
 * 【2024-06-15】[multiversx / mx\-chain\-go](https://github.com/multiversx/mx-chain-go) - ⚡ The official implementation of the MultiversX blockchain protocol, written in golang 
@@ -1815,6 +1820,7 @@
 
 ## C++
 
+* 【2024-06-19】[FrederoxDev / Amethyst](https://github.com/FrederoxDev/Amethyst) - Native c++ modding for MCBE 1 21 0 3 for building client side mods
 * 【2024-06-12】[dalathegreat / Battery\-Emulator](https://github.com/dalathegreat/Battery-Emulator) - This software enables EV battery packs to be used for stationary storage in combination with solar inverters 
 * 【2024-06-09】[microsoft / onnxruntime\-inference\-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing 
 * 【2024-06-04】[samtupy / nvgt](https://github.com/samtupy/nvgt) - The Nonvisual Gaming Toolkit
@@ -2967,6 +2973,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-06-19】[sqlparser\-rs / sqlparser\-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
 * 【2024-06-18】[not-fl3 / macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
 * 【2024-06-17】[shell-pool / shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 * 【2024-06-17】[XAMPPRocky / octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust 
@@ -3358,6 +3365,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-19】[radix-ui / primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 * 【2024-06-17】[koush / scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform
 * 【2024-06-17】[gorhom / react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
 * 【2024-06-16】[refined\-github / refined\-github](https://github.com/refined-github/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
