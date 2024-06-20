@@ -24,6 +24,7 @@
 
 ## All language
 
+* 【2024-06-20】[jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2 x/3 x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding\->代码生成\->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
 * 【2024-06-19】[datawhalechina / leedl\-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github com/datawhalechina/leedl\-tutorial/releases
 * 【2024-06-19】[zxwk1998 / vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 * 【2024-06-18】[zxwk1998 / vue\-admin\-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3 0 admin,vue后台管理,vue\-admin,vue3 0\-admin,admin,vue\-admin,vue\-element\-admin,ant\-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
@@ -564,6 +565,7 @@
 
 ## Java
 
+* 【2024-06-20】[testng\-team / testng](https://github.com/testng-team/testng) - TestNG testing framework
 * 【2024-06-18】[uber / NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build\-time overhead
 * 【2024-06-18】[apache / incubator\-xtable](https://github.com/apache/incubator-xtable) - Apache XTable (incubating) is a cross\-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query engines 
 * 【2024-06-15】[innoveit / react\-native\-ble\-manager](https://github.com/innoveit/react-native-ble-manager) - React Native BLE communication module
@@ -718,6 +720,7 @@
 
 ## Python
 
+* 【2024-06-20】[LLaVA-VL / LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT) - 
 * 【2024-06-19】[landing\-ai / vision\-agent](https://github.com/landing-ai/vision-agent) - Vision agent
 * 【2024-06-16】[reorx / httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 * 【2024-06-16】[oceanbase / obdiag](https://github.com/oceanbase/obdiag) - obdiag (OceanBase Diagnostic Tool) is designed to help OceanBase users quickly gather necessary information and analyze the root cause of the problem 
@@ -1984,6 +1987,7 @@
 
 ## C#
 
+* 【2024-06-20】[dotnet / android](https://github.com/dotnet/android) -  NET for Android provides open\-source bindings of the Android SDK for use with  NET managed languages such as C\#
 * 【2024-06-18】[notscuffed / repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
 * 【2024-06-14】[MediaBrowser / Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device 
 * 【2024-06-07】[nomi-san / parsec-vdd](https://github.com/nomi-san/parsec-vdd) - ✨ Perfect 4K@240Hz Virtual Display
@@ -2189,6 +2193,7 @@
 
 ## Html
 
+* 【2024-06-20】[lllllllillllllillll / DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero\-config dashboard for your containers 
 * 【2024-06-15】[OCA / maintenance](https://github.com/OCA/maintenance) - Odoo modules for businesses that implies maintenance tasks
 * 【2024-06-15】[foundation / foundation\-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client  Even Outlook 
 * 【2024-06-12】[tc39 / proposal\-async\-context](https://github.com/tc39/proposal-async-context) - Async Context for JavaScript
@@ -3365,6 +3370,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-20】[vercel / react\-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application 
+* 【2024-06-20】[Redocly / redoc](https://github.com/Redocly/redoc) - 📘 OpenAPI/Swagger\-generated API Reference Documentation
 * 【2024-06-19】[radix-ui / primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 * 【2024-06-17】[koush / scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform
 * 【2024-06-17】[gorhom / react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
