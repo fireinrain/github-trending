@@ -565,6 +565,7 @@
 
 ## Java
 
+* 【2024-06-21】[eclipse\-jkube / jkube](https://github.com/eclipse-jkube/jkube) - Build and Deploy java applications on Kubernetes
 * 【2024-06-20】[testng\-team / testng](https://github.com/testng-team/testng) - TestNG testing framework
 * 【2024-06-18】[uber / NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build\-time overhead
 * 【2024-06-18】[apache / incubator\-xtable](https://github.com/apache/incubator-xtable) - Apache XTable (incubating) is a cross\-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query engines 
@@ -720,6 +721,7 @@
 
 ## Python
 
+* 【2024-06-21】[labelmeai / labelme](https://github.com/labelmeai/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image\-level flag annotation) 
 * 【2024-06-20】[LLaVA-VL / LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT) - 
 * 【2024-06-19】[landing\-ai / vision\-agent](https://github.com/landing-ai/vision-agent) - Vision agent
 * 【2024-06-16】[reorx / httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
@@ -1987,6 +1989,7 @@
 
 ## C#
 
+* 【2024-06-21】[bitwarden / android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android 
 * 【2024-06-20】[dotnet / android](https://github.com/dotnet/android) -  NET for Android provides open\-source bindings of the Android SDK for use with  NET managed languages such as C\#
 * 【2024-06-18】[notscuffed / repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
 * 【2024-06-14】[MediaBrowser / Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device 
@@ -2193,6 +2196,7 @@
 
 ## Html
 
+* 【2024-06-21】[vasturiano / globe gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
 * 【2024-06-20】[lllllllillllllillll / DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero\-config dashboard for your containers 
 * 【2024-06-15】[OCA / maintenance](https://github.com/OCA/maintenance) - Odoo modules for businesses that implies maintenance tasks
 * 【2024-06-15】[foundation / foundation\-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client  Even Outlook 
@@ -2978,6 +2982,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-06-21】[BoundaryML / baml](https://github.com/BoundaryML/baml) - BAML is a templating language to write typed LLM functions using jinja  Check out the promptfiddle com playground
 * 【2024-06-19】[sqlparser\-rs / sqlparser\-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
 * 【2024-06-18】[not-fl3 / macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
 * 【2024-06-17】[shell-pool / shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
@@ -3370,6 +3375,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-21】[sanity\-io / sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 * 【2024-06-20】[vercel / react\-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application 
 * 【2024-06-20】[Redocly / redoc](https://github.com/Redocly/redoc) - 📘 OpenAPI/Swagger\-generated API Reference Documentation
 * 【2024-06-19】[radix-ui / primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
