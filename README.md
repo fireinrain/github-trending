@@ -24,6 +24,8 @@
 
 ## All language
 
+* 【2024-06-22】[StamusNetworks / SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata based IDS/IPS/NSM distro
+* 【2024-06-22】[MrKai77 / Loop](https://github.com/MrKai77/Loop) - Window management made elegant 
 * 【2024-06-20】[jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2 x/3 x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding\->代码生成\->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
 * 【2024-06-19】[datawhalechina / leedl\-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github com/datawhalechina/leedl\-tutorial/releases
 * 【2024-06-19】[zxwk1998 / vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
@@ -721,6 +723,7 @@
 
 ## Python
 
+* 【2024-06-22】[DigitalPhonetics / IMS\-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - Multilingual and Controllable Text\-to\-Speech Toolkit of the Speech and Language Technologies Group at the University of Stuttgart 
 * 【2024-06-21】[labelmeai / labelme](https://github.com/labelmeai/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image\-level flag annotation) 
 * 【2024-06-20】[LLaVA-VL / LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT) - 
 * 【2024-06-19】[landing\-ai / vision\-agent](https://github.com/landing-ai/vision-agent) - Vision agent
@@ -1825,6 +1828,7 @@
 
 ## C++
 
+* 【2024-06-22】[niedev / RTranslator](https://github.com/niedev/RTranslator) - RTranslator is the world's first open source real\-time translation app 
 * 【2024-06-19】[FrederoxDev / Amethyst](https://github.com/FrederoxDev/Amethyst) - Native c++ modding for MCBE 1 21 0 3 for building client side mods
 * 【2024-06-12】[dalathegreat / Battery\-Emulator](https://github.com/dalathegreat/Battery-Emulator) - This software enables EV battery packs to be used for stationary storage in combination with solar inverters 
 * 【2024-06-09】[microsoft / onnxruntime\-inference\-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing 
@@ -1989,6 +1993,7 @@
 
 ## C#
 
+* 【2024-06-22】[BenGrn / EldenRingSaveCopier](https://github.com/BenGrn/EldenRingSaveCopier) - 
 * 【2024-06-21】[bitwarden / android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android 
 * 【2024-06-20】[dotnet / android](https://github.com/dotnet/android) -  NET for Android provides open\-source bindings of the Android SDK for use with  NET managed languages such as C\#
 * 【2024-06-18】[notscuffed / repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
@@ -2196,6 +2201,7 @@
 
 ## Html
 
+* 【2024-06-22】[ComposioHQ / composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well\-crafted tools empowering them to tackle complex tasks
 * 【2024-06-21】[vasturiano / globe gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
 * 【2024-06-20】[lllllllillllllillll / DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero\-config dashboard for your containers 
 * 【2024-06-15】[OCA / maintenance](https://github.com/OCA/maintenance) - Odoo modules for businesses that implies maintenance tasks
@@ -2982,6 +2988,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-06-22】[MaterializeInc / materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads 
+* 【2024-06-22】[facebook / relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data\-driven React applications 
 * 【2024-06-21】[BoundaryML / baml](https://github.com/BoundaryML/baml) - BAML is a templating language to write typed LLM functions using jinja  Check out the promptfiddle com playground
 * 【2024-06-19】[sqlparser\-rs / sqlparser\-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
 * 【2024-06-18】[not-fl3 / macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
@@ -3375,6 +3383,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-22】[marmelab / react\-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data\-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
+* 【2024-06-22】[vuejs / pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
+* 【2024-06-22】[ionic\-team / capacitor](https://github.com/ionic-team/capacitor) - Build cross\-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 * 【2024-06-21】[sanity\-io / sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 * 【2024-06-20】[vercel / react\-tweet](https://github.com/vercel/react-tweet) - Embed tweets in your React application 
 * 【2024-06-20】[Redocly / redoc](https://github.com/Redocly/redoc) - 📘 OpenAPI/Swagger\-generated API Reference Documentation
