@@ -24,6 +24,7 @@
 
 ## All language
 
+* 【2024-06-23】[karpathy / micrograd](https://github.com/karpathy/micrograd) - A tiny scalar\-valued autograd engine and a neural net library on top of it with PyTorch\-like API
 * 【2024-06-22】[StamusNetworks / SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata based IDS/IPS/NSM distro
 * 【2024-06-22】[MrKai77 / Loop](https://github.com/MrKai77/Loop) - Window management made elegant 
 * 【2024-06-20】[jeecgboot / JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥「企业级低代码平台」前后端分离架构SpringBoot 2 x/3 x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding\->代码生成\->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。
@@ -1652,6 +1653,7 @@
 
 ## C
 
+* 【2024-06-23】[robertdavidgraham / wc2](https://github.com/robertdavidgraham/wc2) - Investigates optimizing 'wc', the Unix word count program
 * 【2024-06-16】[KhronosGroup / Vulkan\-Loader](https://github.com/KhronosGroup/Vulkan-Loader) - Vulkan Loader
 * 【2024-06-16】[a0rtega / pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
 * 【2024-06-14】[RubyMetric / chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具  Change Source for every software on every platform from the command line 
@@ -1993,6 +1995,7 @@
 
 ## C#
 
+* 【2024-06-23】[IzyPro / WatchDog](https://github.com/IzyPro/WatchDog) - WatchDog is a Realtime Message, Event, HTTP (Request & Response) and Exception logger and viewer for ASP Net Core Web Apps and APIs  It allows developers log and view messages, events, http requests made to their web application and also exception caught during runtime in their web applications, all in Realtime 
 * 【2024-06-22】[BenGrn / EldenRingSaveCopier](https://github.com/BenGrn/EldenRingSaveCopier) - 
 * 【2024-06-21】[bitwarden / android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android 
 * 【2024-06-20】[dotnet / android](https://github.com/dotnet/android) -  NET for Android provides open\-source bindings of the Android SDK for use with  NET managed languages such as C\#
@@ -2201,6 +2204,7 @@
 
 ## Html
 
+* 【2024-06-23】[dotnet / upgrade\-assistant](https://github.com/dotnet/upgrade-assistant) - A tool to assist developers in upgrading  NET Framework applications to  NET 6 and beyond
 * 【2024-06-22】[ComposioHQ / composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well\-crafted tools empowering them to tackle complex tasks
 * 【2024-06-21】[vasturiano / globe gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
 * 【2024-06-20】[lllllllillllllillll / DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero\-config dashboard for your containers 
@@ -2988,6 +2992,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-06-23】[graphprotocol / graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 * 【2024-06-22】[MaterializeInc / materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads 
 * 【2024-06-22】[facebook / relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data\-driven React applications 
 * 【2024-06-21】[BoundaryML / baml](https://github.com/BoundaryML/baml) - BAML is a templating language to write typed LLM functions using jinja  Check out the promptfiddle com playground
@@ -3383,6 +3388,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-23】[chanind / hanzi\-writer](https://github.com/chanind/hanzi-writer) - Chinese character stroke order animations and practice quizzes
+* 【2024-06-23】[Shopify / flash\-list](https://github.com/Shopify/flash-list) - A better list for React Native
+* 【2024-06-23】[OpenRailAssociation / osrd](https://github.com/OpenRailAssociation/osrd) - An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation
+* 【2024-06-23】[safe\-global / safe\-smart\-account](https://github.com/safe-global/safe-smart-account) - Safe allows secure management of blockchain assets 
 * 【2024-06-22】[marmelab / react\-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data\-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 * 【2024-06-22】[vuejs / pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 * 【2024-06-22】[ionic\-team / capacitor](https://github.com/ionic-team/capacitor) - Build cross\-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
