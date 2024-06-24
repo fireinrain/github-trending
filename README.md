@@ -24,6 +24,7 @@
 
 ## All language
 
+* 【2024-06-24】[SimplifyJobs / Summer2025\-Internships](https://github.com/SimplifyJobs/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-06-23】[karpathy / micrograd](https://github.com/karpathy/micrograd) - A tiny scalar\-valued autograd engine and a neural net library on top of it with PyTorch\-like API
 * 【2024-06-22】[StamusNetworks / SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata based IDS/IPS/NSM distro
 * 【2024-06-22】[MrKai77 / Loop](https://github.com/MrKai77/Loop) - Window management made elegant 
@@ -568,6 +569,8 @@
 
 ## Java
 
+* 【2024-06-24】[DSheirer / sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross\-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR)  Website:
+* 【2024-06-24】[gsantner / markor](https://github.com/gsantner/markor) - Text editor \- Notes & ToDo (for Android) \- Markdown, todo txt, plaintext, math,   
 * 【2024-06-21】[eclipse\-jkube / jkube](https://github.com/eclipse-jkube/jkube) - Build and Deploy java applications on Kubernetes
 * 【2024-06-20】[testng\-team / testng](https://github.com/testng-team/testng) - TestNG testing framework
 * 【2024-06-18】[uber / NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build\-time overhead
@@ -724,6 +727,7 @@
 
 ## Python
 
+* 【2024-06-24】[Kosinkadink / ComfyUI\-AnimateDiff\-Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved) - Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 * 【2024-06-22】[DigitalPhonetics / IMS\-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - Multilingual and Controllable Text\-to\-Speech Toolkit of the Speech and Language Technologies Group at the University of Stuttgart 
 * 【2024-06-21】[labelmeai / labelme](https://github.com/labelmeai/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image\-level flag annotation) 
 * 【2024-06-20】[LLaVA-VL / LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT) - 
@@ -1480,6 +1484,7 @@
 
 ## Go
 
+* 【2024-06-24】[alecthomas / kong](https://github.com/alecthomas/kong) - Kong is a command\-line parser for Go
 * 【2024-06-19】[envoyproxy / ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications 
 * 【2024-06-18】[simulot / immich\-go](https://github.com/simulot/immich-go) - An alternative to the immich\-CLI command that doesn't depend on nodejs installation  It tries its best for importing google photos takeout archives 
 * 【2024-06-17】[davecheney / httpstat](https://github.com/davecheney/httpstat) - It's like curl \-v, with colours 
@@ -1830,6 +1835,7 @@
 
 ## C++
 
+* 【2024-06-24】[geektcp / UeCore](https://github.com/geektcp/UeCore) - UeCore wow game server c++ 开源魔兽世界 https://uewow com
 * 【2024-06-22】[niedev / RTranslator](https://github.com/niedev/RTranslator) - RTranslator is the world's first open source real\-time translation app 
 * 【2024-06-19】[FrederoxDev / Amethyst](https://github.com/FrederoxDev/Amethyst) - Native c++ modding for MCBE 1 21 0 3 for building client side mods
 * 【2024-06-12】[dalathegreat / Battery\-Emulator](https://github.com/dalathegreat/Battery-Emulator) - This software enables EV battery packs to be used for stationary storage in combination with solar inverters 
@@ -1995,6 +2001,8 @@
 
 ## C#
 
+* 【2024-06-24】[soulsmods / DSMapStudio](https://github.com/soulsmods/DSMapStudio) - A standalone map/level editor for Demon's Souls, Dark Souls 1/2/3, Bloodborne, Sekiro, and Elden Ring 
+* 【2024-06-24】[Mzying2001 / CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) - Flash浏览器 / Flash Browser
 * 【2024-06-23】[IzyPro / WatchDog](https://github.com/IzyPro/WatchDog) - WatchDog is a Realtime Message, Event, HTTP (Request & Response) and Exception logger and viewer for ASP Net Core Web Apps and APIs  It allows developers log and view messages, events, http requests made to their web application and also exception caught during runtime in their web applications, all in Realtime 
 * 【2024-06-22】[BenGrn / EldenRingSaveCopier](https://github.com/BenGrn/EldenRingSaveCopier) - 
 * 【2024-06-21】[bitwarden / android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android 
@@ -2524,6 +2532,7 @@
 
 ## Unknown
 
+* 【2024-06-24】[SimplifyJobs / Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-06-05】[Crispher / MathlibExplorer](https://github.com/Crispher/MathlibExplorer) - A visualization tool for Lean's mathlib library 
 * 【2024-06-05】[coffinxp / payloads](https://github.com/coffinxp/payloads) - 
 * 【2024-06-05】[biowarrior72mactep / Crusader\-Kings\-III\-byb4f34](https://github.com/biowarrior72mactep/Crusader-Kings-III-byb4f34) - Crusader Kings III Crusader Kings III cheat Crusader Kings III cheats Crusader Kings III aim Crusader Kings III aimbot Crusader Kings III hack Crusader Kings III hacks Crusader Kings III esp Crusader Kings III wallhack Crusader Kings III wh Crusader Kings III softaim cheat Crusader Kings III cheats Crusader Kings III hack Crusader Kings III hacks
@@ -2992,6 +3001,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-06-24】[ClayAmore / ER\-Save\-Editor](https://github.com/ClayAmore/ER-Save-Editor) - Elden Ring Save Editor  Compatible with PC and Playstation saves 
 * 【2024-06-23】[graphprotocol / graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 * 【2024-06-22】[MaterializeInc / materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads 
 * 【2024-06-22】[facebook / relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data\-driven React applications 
@@ -3388,6 +3398,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-24】[farcasterxyz / hub-monorepo](https://github.com/farcasterxyz/hub-monorepo) - Implementation of the Farcaster Hub specification and supporting libraries for building applications on Farcaster
+* 【2024-06-24】[getumbrel / umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self\-hosting with an app store  Buy a pre\-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system 
 * 【2024-06-23】[chanind / hanzi\-writer](https://github.com/chanind/hanzi-writer) - Chinese character stroke order animations and practice quizzes
 * 【2024-06-23】[Shopify / flash\-list](https://github.com/Shopify/flash-list) - A better list for React Native
 * 【2024-06-23】[OpenRailAssociation / osrd](https://github.com/OpenRailAssociation/osrd) - An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation
