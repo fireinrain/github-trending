@@ -24,6 +24,7 @@
 
 ## All language
 
+* 【2024-06-25】[modelscope / DiffSynth\-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 * 【2024-06-24】[SimplifyJobs / Summer2025\-Internships](https://github.com/SimplifyJobs/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-06-23】[karpathy / micrograd](https://github.com/karpathy/micrograd) - A tiny scalar\-valued autograd engine and a neural net library on top of it with PyTorch\-like API
 * 【2024-06-22】[StamusNetworks / SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata based IDS/IPS/NSM distro
@@ -727,6 +728,7 @@
 
 ## Python
 
+* 【2024-06-25】[modelscope / DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 * 【2024-06-24】[Kosinkadink / ComfyUI\-AnimateDiff\-Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved) - Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 * 【2024-06-22】[DigitalPhonetics / IMS\-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - Multilingual and Controllable Text\-to\-Speech Toolkit of the Speech and Language Technologies Group at the University of Stuttgart 
 * 【2024-06-21】[labelmeai / labelme](https://github.com/labelmeai/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image\-level flag annotation) 
@@ -1835,6 +1837,7 @@
 
 ## C++
 
+* 【2024-06-25】[soulsmods / ModEngine2](https://github.com/soulsmods/ModEngine2) - Runtime injection library for modding Souls games  WIP
 * 【2024-06-24】[geektcp / UeCore](https://github.com/geektcp/UeCore) - UeCore wow game server c++ 开源魔兽世界 https://uewow com
 * 【2024-06-22】[niedev / RTranslator](https://github.com/niedev/RTranslator) - RTranslator is the world's first open source real\-time translation app 
 * 【2024-06-19】[FrederoxDev / Amethyst](https://github.com/FrederoxDev/Amethyst) - Native c++ modding for MCBE 1 21 0 3 for building client side mods
@@ -3001,6 +3004,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-06-25】[ClayAmore / ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor) - Elden Ring Save Editor. Compatible with PC and Playstation saves.
 * 【2024-06-24】[ClayAmore / ER\-Save\-Editor](https://github.com/ClayAmore/ER-Save-Editor) - Elden Ring Save Editor  Compatible with PC and Playstation saves 
 * 【2024-06-23】[graphprotocol / graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
 * 【2024-06-22】[MaterializeInc / materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads 
@@ -3398,6 +3402,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-25】[maotoumao / MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) - 插件化、定制化、无广告的免费音乐播放器
+* 【2024-06-25】[mayneyao / eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion  Eidos is an extensible framework for managing your personal data throughout your lifetime in one place 
+* 【2024-06-25】[anthropics / anthropic\-sdk\-typescript](https://github.com/anthropics/anthropic-sdk-typescript) - Access to Anthropic's safety\-first language model APIs
+* 【2024-06-25】[google\-gemini / generative\-ai\-js](https://github.com/google-gemini/generative-ai-js) - The official Node js / Typescript library for the Google Gemini API
 * 【2024-06-24】[farcasterxyz / hub-monorepo](https://github.com/farcasterxyz/hub-monorepo) - Implementation of the Farcaster Hub specification and supporting libraries for building applications on Farcaster
 * 【2024-06-24】[getumbrel / umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self\-hosting with an app store  Buy a pre\-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system 
 * 【2024-06-23】[chanind / hanzi\-writer](https://github.com/chanind/hanzi-writer) - Chinese character stroke order animations and practice quizzes
