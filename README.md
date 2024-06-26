@@ -570,6 +570,7 @@
 
 ## Java
 
+* 【2024-06-26】[xwiki / xwiki\-platform](https://github.com/xwiki/xwiki-platform) - The XWiki platform
 * 【2024-06-24】[DSheirer / sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross\-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR)  Website:
 * 【2024-06-24】[gsantner / markor](https://github.com/gsantner/markor) - Text editor \- Notes & ToDo (for Android) \- Markdown, todo txt, plaintext, math,   
 * 【2024-06-21】[eclipse\-jkube / jkube](https://github.com/eclipse-jkube/jkube) - Build and Deploy java applications on Kubernetes
@@ -728,6 +729,7 @@
 
 ## Python
 
+* 【2024-06-26】[microsoft / table\-transformer](https://github.com/microsoft/table-transformer) - Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images)  This is also the official repository for the PubTables\-1M dataset and GriTS evaluation metric 
 * 【2024-06-25】[modelscope / DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 * 【2024-06-24】[Kosinkadink / ComfyUI\-AnimateDiff\-Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved) - Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 * 【2024-06-22】[DigitalPhonetics / IMS\-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - Multilingual and Controllable Text\-to\-Speech Toolkit of the Speech and Language Technologies Group at the University of Stuttgart 
@@ -1660,6 +1662,7 @@
 
 ## C
 
+* 【2024-06-26】[bol\-van / zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 * 【2024-06-23】[robertdavidgraham / wc2](https://github.com/robertdavidgraham/wc2) - Investigates optimizing 'wc', the Unix word count program
 * 【2024-06-16】[KhronosGroup / Vulkan\-Loader](https://github.com/KhronosGroup/Vulkan-Loader) - Vulkan Loader
 * 【2024-06-16】[a0rtega / pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
@@ -1837,6 +1840,7 @@
 
 ## C++
 
+* 【2024-06-26】[maplibre / maplibre\-native](https://github.com/maplibre/maplibre-native) - MapLibre Native \- Interactive vector tile maps for iOS, Android and other platforms 
 * 【2024-06-25】[soulsmods / ModEngine2](https://github.com/soulsmods/ModEngine2) - Runtime injection library for modding Souls games  WIP
 * 【2024-06-24】[geektcp / UeCore](https://github.com/geektcp/UeCore) - UeCore wow game server c++ 开源魔兽世界 https://uewow com
 * 【2024-06-22】[niedev / RTranslator](https://github.com/niedev/RTranslator) - RTranslator is the world's first open source real\-time translation app 
@@ -3402,6 +3406,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-26】[nlkitai / nlux](https://github.com/nlkitai/nlux) - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Library 💬 — UI for any LLM, supporting LangChain / HuggingFace / Vercel AI, and more 🧡 React, Next js, and plain JavaScript ⭐️
+* 【2024-06-26】[babel / babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript 
+* 【2024-06-26】[vuejs / devtools\-next](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools
 * 【2024-06-25】[maotoumao / MusicFreeDesktop](https://github.com/maotoumao/MusicFreeDesktop) - 插件化、定制化、无广告的免费音乐播放器
 * 【2024-06-25】[mayneyao / eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion  Eidos is an extensible framework for managing your personal data throughout your lifetime in one place 
 * 【2024-06-25】[anthropics / anthropic\-sdk\-typescript](https://github.com/anthropics/anthropic-sdk-typescript) - Access to Anthropic's safety\-first language model APIs
