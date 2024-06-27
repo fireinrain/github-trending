@@ -729,6 +729,7 @@
 
 ## Python
 
+* 【2024-06-27】[frappe / hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 * 【2024-06-26】[microsoft / table\-transformer](https://github.com/microsoft/table-transformer) - Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images)  This is also the official repository for the PubTables\-1M dataset and GriTS evaluation metric 
 * 【2024-06-25】[modelscope / DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 * 【2024-06-24】[Kosinkadink / ComfyUI\-AnimateDiff\-Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved) - Improved AnimateDiff for ComfyUI and Advanced Sampling Support
@@ -1220,6 +1221,7 @@
 
 ## Javascript
 
+* 【2024-06-27】[jhuckaby / performa](https://github.com/jhuckaby/performa) - A multi\-server monitoring system with a web based UI 
 * 【2024-06-19】[DefiLlama / chainlist](https://github.com/DefiLlama/chainlist) - 
 * 【2024-06-15】[hotwired / turbo\-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
 * 【2024-06-15】[aws\-actions / amazon\-ecs\-deploy\-task\-definition](https://github.com/aws-actions/amazon-ecs-deploy-task-definition) - Registers an Amazon ECS task definition and deploys it to an ECS service 
@@ -1488,6 +1490,7 @@
 
 ## Go
 
+* 【2024-06-27】[kubeflow / spark-operator](https://github.com/kubeflow/spark-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 * 【2024-06-24】[alecthomas / kong](https://github.com/alecthomas/kong) - Kong is a command\-line parser for Go
 * 【2024-06-19】[envoyproxy / ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications 
 * 【2024-06-18】[simulot / immich\-go](https://github.com/simulot/immich-go) - An alternative to the immich\-CLI command that doesn't depend on nodejs installation  It tries its best for importing google photos takeout archives 
@@ -3008,6 +3011,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-06-27】[szabodanika / microbin](https://github.com/szabodanika/microbin) - A secure, configurable file\-sharing and URL shortening web app written in Rust 
 * 【2024-06-25】[ClayAmore / ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor) - Elden Ring Save Editor. Compatible with PC and Playstation saves.
 * 【2024-06-24】[ClayAmore / ER\-Save\-Editor](https://github.com/ClayAmore/ER-Save-Editor) - Elden Ring Save Editor  Compatible with PC and Playstation saves 
 * 【2024-06-23】[graphprotocol / graph-node](https://github.com/graphprotocol/graph-node) - Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
