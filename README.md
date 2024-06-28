@@ -729,6 +729,7 @@
 
 ## Python
 
+* 【2024-06-28】[bunkerity / bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
 * 【2024-06-27】[frappe / hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 * 【2024-06-26】[microsoft / table\-transformer](https://github.com/microsoft/table-transformer) - Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images)  This is also the official repository for the PubTables\-1M dataset and GriTS evaluation metric 
 * 【2024-06-25】[modelscope / DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
@@ -1221,6 +1222,7 @@
 
 ## Javascript
 
+* 【2024-06-28】[ciiiii / cloudflare\-docker\-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker 
 * 【2024-06-27】[jhuckaby / performa](https://github.com/jhuckaby/performa) - A multi\-server monitoring system with a web based UI 
 * 【2024-06-19】[DefiLlama / chainlist](https://github.com/DefiLlama/chainlist) - 
 * 【2024-06-15】[hotwired / turbo\-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
@@ -1490,6 +1492,7 @@
 
 ## Go
 
+* 【2024-06-28】[minio / mc](https://github.com/minio/mc) - Simple \| Fast tool to manage MinIO clusters ☁️
 * 【2024-06-27】[kubeflow / spark-operator](https://github.com/kubeflow/spark-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 * 【2024-06-24】[alecthomas / kong](https://github.com/alecthomas/kong) - Kong is a command\-line parser for Go
 * 【2024-06-19】[envoyproxy / ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications 
@@ -3011,6 +3014,10 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-06-28】[stacks\-network / stacks\-core](https://github.com/stacks-network/stacks-core) - The Stacks blockchain implementation
+* 【2024-06-28】[rwf2 / Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust 
+* 【2024-06-28】[veeenu / eldenring\-practice\-tool](https://github.com/veeenu/eldenring-practice-tool) - Elden Ring speedrunning practice tool
+* 【2024-06-28】[Rigellute / spotify\-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 * 【2024-06-27】[szabodanika / microbin](https://github.com/szabodanika/microbin) - A secure, configurable file\-sharing and URL shortening web app written in Rust 
 * 【2024-06-25】[ClayAmore / ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor) - Elden Ring Save Editor. Compatible with PC and Playstation saves.
 * 【2024-06-24】[ClayAmore / ER\-Save\-Editor](https://github.com/ClayAmore/ER-Save-Editor) - Elden Ring Save Editor  Compatible with PC and Playstation saves 
@@ -3410,6 +3417,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-28】[aspen\-cloud / triplit](https://github.com/aspen-cloud/triplit) - A full\-stack, syncing database that runs on both server and client  Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte) 
 * 【2024-06-26】[nlkitai / nlux](https://github.com/nlkitai/nlux) - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Library 💬 — UI for any LLM, supporting LangChain / HuggingFace / Vercel AI, and more 🧡 React, Next js, and plain JavaScript ⭐️
 * 【2024-06-26】[babel / babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript 
 * 【2024-06-26】[vuejs / devtools\-next](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools
