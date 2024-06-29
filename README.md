@@ -24,6 +24,7 @@
 
 ## All language
 
+* 【2024-06-29】[stacks-network / stacks-core](https://github.com/stacks-network/stacks-core) - The Stacks blockchain implementation
 * 【2024-06-25】[modelscope / DiffSynth\-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 * 【2024-06-24】[SimplifyJobs / Summer2025\-Internships](https://github.com/SimplifyJobs/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-06-23】[karpathy / micrograd](https://github.com/karpathy/micrograd) - A tiny scalar\-valued autograd engine and a neural net library on top of it with PyTorch\-like API
@@ -1222,6 +1223,8 @@
 
 ## Javascript
 
+* 【2024-06-29】[dotenvx / dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of  dotenv 
+* 【2024-06-29】[ciiiii / cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
 * 【2024-06-28】[ciiiii / cloudflare\-docker\-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker 
 * 【2024-06-27】[jhuckaby / performa](https://github.com/jhuckaby/performa) - A multi\-server monitoring system with a web based UI 
 * 【2024-06-19】[DefiLlama / chainlist](https://github.com/DefiLlama/chainlist) - 
@@ -2014,6 +2017,7 @@
 
 ## C#
 
+* 【2024-06-29】[SonarSource / sonar\-dotnet](https://github.com/SonarSource/sonar-dotnet) - Code analyzer for C\# and VB NET projects
 * 【2024-06-24】[soulsmods / DSMapStudio](https://github.com/soulsmods/DSMapStudio) - A standalone map/level editor for Demon's Souls, Dark Souls 1/2/3, Bloodborne, Sekiro, and Elden Ring 
 * 【2024-06-24】[Mzying2001 / CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) - Flash浏览器 / Flash Browser
 * 【2024-06-23】[IzyPro / WatchDog](https://github.com/IzyPro/WatchDog) - WatchDog is a Realtime Message, Event, HTTP (Request & Response) and Exception logger and viewer for ASP Net Core Web Apps and APIs  It allows developers log and view messages, events, http requests made to their web application and also exception caught during runtime in their web applications, all in Realtime 
@@ -2225,6 +2229,7 @@
 
 ## Html
 
+* 【2024-06-29】[Rakesh9100 / Beautiify](https://github.com/Rakesh9100/Beautiify) - Beautiify comprises a curated selection of beautifully designed components and animations that can be seamlessly incorporated into any website, elevating its overall UI experience 
 * 【2024-06-23】[dotnet / upgrade\-assistant](https://github.com/dotnet/upgrade-assistant) - A tool to assist developers in upgrading  NET Framework applications to  NET 6 and beyond
 * 【2024-06-22】[ComposioHQ / composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well\-crafted tools empowering them to tackle complex tasks
 * 【2024-06-21】[vasturiano / globe gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
@@ -3014,6 +3019,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-06-29】[gimli\-rs / object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
 * 【2024-06-28】[stacks\-network / stacks\-core](https://github.com/stacks-network/stacks-core) - The Stacks blockchain implementation
 * 【2024-06-28】[rwf2 / Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust 
 * 【2024-06-28】[veeenu / eldenring\-practice\-tool](https://github.com/veeenu/eldenring-practice-tool) - Elden Ring speedrunning practice tool
