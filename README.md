@@ -24,6 +24,8 @@
 
 ## All language
 
+* 【2024-06-30】[snakers4 / silero\-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre\-trained enterprise\-grade Voice Activity Detector
+* 【2024-06-30】[ZuodaoTech / everyone\-can\-use\-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 * 【2024-06-29】[stacks-network / stacks-core](https://github.com/stacks-network/stacks-core) - The Stacks blockchain implementation
 * 【2024-06-25】[modelscope / DiffSynth\-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 * 【2024-06-24】[SimplifyJobs / Summer2025\-Internships](https://github.com/SimplifyJobs/Summer2025-Internships) - Collection of Summer 2025 tech internships!
@@ -571,6 +573,7 @@
 
 ## Java
 
+* 【2024-06-30】[GoogleCloudPlatform / spring-cloud-gcp](https://github.com/GoogleCloudPlatform/spring-cloud-gcp) - New home for Spring Cloud GCP development starting with version 2.0.
 * 【2024-06-26】[xwiki / xwiki\-platform](https://github.com/xwiki/xwiki-platform) - The XWiki platform
 * 【2024-06-24】[DSheirer / sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross\-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR)  Website:
 * 【2024-06-24】[gsantner / markor](https://github.com/gsantner/markor) - Text editor \- Notes & ToDo (for Android) \- Markdown, todo txt, plaintext, math,   
@@ -730,6 +733,7 @@
 
 ## Python
 
+* 【2024-06-30】[snakers4 / silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector
 * 【2024-06-28】[bunkerity / bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
 * 【2024-06-27】[frappe / hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
 * 【2024-06-26】[microsoft / table\-transformer](https://github.com/microsoft/table-transformer) - Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images)  This is also the official repository for the PubTables\-1M dataset and GriTS evaluation metric 
@@ -1495,6 +1499,7 @@
 
 ## Go
 
+* 【2024-06-30】[DataDog / dd\-trace\-go](https://github.com/DataDog/dd-trace-go) - Datadog Go Library including APM tracing, profiling, and security monitoring 
 * 【2024-06-28】[minio / mc](https://github.com/minio/mc) - Simple \| Fast tool to manage MinIO clusters ☁️
 * 【2024-06-27】[kubeflow / spark-operator](https://github.com/kubeflow/spark-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
 * 【2024-06-24】[alecthomas / kong](https://github.com/alecthomas/kong) - Kong is a command\-line parser for Go
@@ -1849,6 +1854,7 @@
 
 ## C++
 
+* 【2024-06-30】[zhuzichu520 / FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
 * 【2024-06-26】[maplibre / maplibre\-native](https://github.com/maplibre/maplibre-native) - MapLibre Native \- Interactive vector tile maps for iOS, Android and other platforms 
 * 【2024-06-25】[soulsmods / ModEngine2](https://github.com/soulsmods/ModEngine2) - Runtime injection library for modding Souls games  WIP
 * 【2024-06-24】[geektcp / UeCore](https://github.com/geektcp/UeCore) - UeCore wow game server c++ 开源魔兽世界 https://uewow com
@@ -2229,6 +2235,7 @@
 
 ## Html
 
+* 【2024-06-30】[wppconnect\-team / wa\-version](https://github.com/wppconnect-team/wa-version) - 
 * 【2024-06-29】[Rakesh9100 / Beautiify](https://github.com/Rakesh9100/Beautiify) - Beautiify comprises a curated selection of beautifully designed components and animations that can be seamlessly incorporated into any website, elevating its overall UI experience 
 * 【2024-06-23】[dotnet / upgrade\-assistant](https://github.com/dotnet/upgrade-assistant) - A tool to assist developers in upgrading  NET Framework applications to  NET 6 and beyond
 * 【2024-06-22】[ComposioHQ / composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well\-crafted tools empowering them to tackle complex tasks
@@ -3423,6 +3430,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-06-30】[ZuodaoTech / everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
+* 【2024-06-30】[posit\-dev / positron](https://github.com/posit-dev/positron) - Positron, a next\-generation data science IDE
+* 【2024-06-30】[eclipse\-theia / theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript 
+* 【2024-06-30】[QwikDev / qwik](https://github.com/QwikDev/qwik) - Instant\-loading web apps, without effort
+* 【2024-06-30】[NG-ZORRO / ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - Angular UI Component Library based on Ant Design
 * 【2024-06-28】[aspen\-cloud / triplit](https://github.com/aspen-cloud/triplit) - A full\-stack, syncing database that runs on both server and client  Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte) 
 * 【2024-06-26】[nlkitai / nlux](https://github.com/nlkitai/nlux) - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Library 💬 — UI for any LLM, supporting LangChain / HuggingFace / Vercel AI, and more 🧡 React, Next js, and plain JavaScript ⭐️
 * 【2024-06-26】[babel / babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript 
