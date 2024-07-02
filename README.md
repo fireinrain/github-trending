@@ -24,6 +24,7 @@
 
 ## All language
 
+* 【2024-07-02】[goldmansachs / gs-quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
 * 【2024-06-30】[snakers4 / silero\-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre\-trained enterprise\-grade Voice Activity Detector
 * 【2024-06-30】[ZuodaoTech / everyone\-can\-use\-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 * 【2024-06-29】[stacks-network / stacks-core](https://github.com/stacks-network/stacks-core) - The Stacks blockchain implementation
@@ -1230,6 +1231,7 @@
 
 ## Javascript
 
+* 【2024-07-02】[toncenter / tonweb](https://github.com/toncenter/tonweb) - JavaScript SDK for TON (The Open Network)
 * 【2024-07-01】[antfu / vscode\-file\-nesting\-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
 * 【2024-07-01】[twbs / icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap 
 * 【2024-06-29】[dotenvx / dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of  dotenv 
@@ -1861,6 +1863,7 @@
 
 ## C++
 
+* 【2024-07-02】[liyunfan1223 / mod\-playerbots](https://github.com/liyunfan1223/mod-playerbots) - AzerothCore Playerbots Module
 * 【2024-07-01】[multitheftauto / mtasa\-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single\-player game 
 * 【2024-06-30】[zhuzichu520 / FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
 * 【2024-06-26】[maplibre / maplibre\-native](https://github.com/maplibre/maplibre-native) - MapLibre Native \- Interactive vector tile maps for iOS, Android and other platforms 
@@ -2569,6 +2572,7 @@
 
 ## Unknown
 
+* 【2024-07-02】[The\-Cool\-Coders / Project\-Ideas\-And\-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤ 
 * 【2024-06-24】[SimplifyJobs / Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-06-05】[Crispher / MathlibExplorer](https://github.com/Crispher/MathlibExplorer) - A visualization tool for Lean's mathlib library 
 * 【2024-06-05】[coffinxp / payloads](https://github.com/coffinxp/payloads) - 
@@ -3038,6 +3042,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-02】[AleoNet / snarkVM](https://github.com/AleoNet/snarkVM) - A Virtual Machine for Zero\-Knowledge Executions
+* 【2024-07-02】[umijs / mako](https://github.com/umijs/mako) - An extremely fast, production\-grade web bundler based on Rust 
+* 【2024-07-02】[actix / actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 * 【2024-07-01】[pgcentralfoundation / pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
 * 【2024-07-01】[containers / youki](https://github.com/containers/youki) - A container runtime written in Rust
 * 【2024-06-29】[gimli\-rs / object](https://github.com/gimli-rs/object) - A unified interface for reading and writing object file formats
@@ -3444,6 +3451,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-02】[replit / kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
+* 【2024-07-02】[ffxiv-teamcraft / ffxiv-teamcraft](https://github.com/ffxiv-teamcraft/ffxiv-teamcraft) - A ffxiv tool to handle collaborative crafts easily
+* 【2024-07-02】[pawelmalak / flame](https://github.com/pawelmalak/flame) - Flame is self\-hosted startpage for your server  Easily manage your apps and bookmarks with built\-in editors 
 * 【2024-07-01】[thepeacockproject / Peacock](https://github.com/thepeacockproject/Peacock) - The Peacock Project is a HITMAN™ World of Assassination trilogy server replacement 
 * 【2024-07-01】[maurodesouza / profile\-readme\-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily  This profile README generator is the best you'll find 🚀
 * 【2024-07-01】[posit-dev / positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
