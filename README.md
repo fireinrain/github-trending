@@ -24,6 +24,7 @@
 
 ## All language
 
+* 【2024-07-03】[NVIDIA / gpu\-operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
 * 【2024-07-02】[goldmansachs / gs-quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
 * 【2024-06-30】[snakers4 / silero\-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre\-trained enterprise\-grade Voice Activity Detector
 * 【2024-06-30】[ZuodaoTech / everyone\-can\-use\-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
@@ -574,6 +575,7 @@
 
 ## Java
 
+* 【2024-07-03】[kermitt2 / grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 * 【2024-07-01】[unicode\-org / cldr](https://github.com/unicode-org/cldr) - The home of the Unicode Common Locale Data Repository
 * 【2024-07-01】[runtimeverification / k](https://github.com/runtimeverification/k) - K Framework Tools 7 0
 * 【2024-06-30】[GoogleCloudPlatform / spring-cloud-gcp](https://github.com/GoogleCloudPlatform/spring-cloud-gcp) - New home for Spring Cloud GCP development starting with version 2.0.
@@ -736,6 +738,7 @@
 
 ## Python
 
+* 【2024-07-03】[pydata / xarray](https://github.com/pydata/xarray) - N\-D labeled arrays and datasets in Python
 * 【2024-07-01】[mategol / PySilon-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.
 * 【2024-06-30】[snakers4 / silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector
 * 【2024-06-28】[bunkerity / bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
@@ -1506,6 +1509,7 @@
 
 ## Go
 
+* 【2024-07-03】[NVIDIA / gpu-operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
 * 【2024-07-01】[botlabs\-gg / yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
 * 【2024-07-01】[cloudfoundry / cf\-deployment](https://github.com/cloudfoundry/cf-deployment) - The canonical open source deployment manifest for Cloud Foundry
 * 【2024-06-30】[DataDog / dd\-trace\-go](https://github.com/DataDog/dd-trace-go) - Datadog Go Library including APM tracing, profiling, and security monitoring 
@@ -1685,6 +1689,7 @@
 
 ## C
 
+* 【2024-07-03】[shalxmva / modxo](https://github.com/shalxmva/modxo) - Xbox LPC Port modchip using a Raspberry Pi Pico
 * 【2024-06-26】[bol\-van / zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 * 【2024-06-23】[robertdavidgraham / wc2](https://github.com/robertdavidgraham/wc2) - Investigates optimizing 'wc', the Unix word count program
 * 【2024-06-16】[KhronosGroup / Vulkan\-Loader](https://github.com/KhronosGroup/Vulkan-Loader) - Vulkan Loader
@@ -2034,6 +2039,7 @@
 
 ## C#
 
+* 【2024-07-03】[Nordgaren / Elden\-Ring\-Debug\-Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool) - Debug tool for Elden Ring modding
 * 【2024-07-01】[sn4k3 / UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 * 【2024-07-01】[SamboyCoding / Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) - Work\-in\-progress tool to reverse unity's IL2CPP toolchain 
 * 【2024-06-29】[SonarSource / sonar\-dotnet](https://github.com/SonarSource/sonar-dotnet) - Code analyzer for C\# and VB NET projects
@@ -2248,6 +2254,7 @@
 
 ## Html
 
+* 【2024-07-03】[milvus-io / bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
 * 【2024-07-01】[wppconnect-team / wa-version](https://github.com/wppconnect-team/wa-version) - 
 * 【2024-07-01】[elastic / ecs\-dotnet](https://github.com/elastic/ecs-dotnet) - 
 * 【2024-06-30】[wppconnect\-team / wa\-version](https://github.com/wppconnect-team/wa-version) - 
@@ -3042,6 +3049,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-03】[serde\-rs / json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
+* 【2024-07-03】[PyO3 / maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
+* 【2024-07-03】[Rigellute / spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 * 【2024-07-02】[AleoNet / snarkVM](https://github.com/AleoNet/snarkVM) - A Virtual Machine for Zero\-Knowledge Executions
 * 【2024-07-02】[umijs / mako](https://github.com/umijs/mako) - An extremely fast, production\-grade web bundler based on Rust 
 * 【2024-07-02】[actix / actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
@@ -3451,6 +3461,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-03】[aws\-samples / generative\-ai\-use\-cases\-jp](https://github.com/aws-samples/generative-ai-use-cases-jp) - すぐに業務活用できるビジネスユースケース集付きの安全な生成AIアプリ実装
+* 【2024-07-03】[changesets / changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
 * 【2024-07-02】[replit / kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 * 【2024-07-02】[ffxiv-teamcraft / ffxiv-teamcraft](https://github.com/ffxiv-teamcraft/ffxiv-teamcraft) - A ffxiv tool to handle collaborative crafts easily
 * 【2024-07-02】[pawelmalak / flame](https://github.com/pawelmalak/flame) - Flame is self\-hosted startpage for your server  Easily manage your apps and bookmarks with built\-in editors 
