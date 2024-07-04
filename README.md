@@ -24,6 +24,7 @@
 
 ## All language
 
+* 【2024-07-04】[BLAKE3\-team / BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 * 【2024-07-03】[NVIDIA / gpu\-operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
 * 【2024-07-02】[goldmansachs / gs-quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
 * 【2024-06-30】[snakers4 / silero\-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre\-trained enterprise\-grade Voice Activity Detector
@@ -575,6 +576,7 @@
 
 ## Java
 
+* 【2024-07-04】[apache / gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high\-performance, geo\-distributed and federated metadata lake 
 * 【2024-07-03】[kermitt2 / grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 * 【2024-07-01】[unicode\-org / cldr](https://github.com/unicode-org/cldr) - The home of the Unicode Common Locale Data Repository
 * 【2024-07-01】[runtimeverification / k](https://github.com/runtimeverification/k) - K Framework Tools 7 0
@@ -738,6 +740,8 @@
 
 ## Python
 
+* 【2024-07-04】[coreruleset / coreruleset](https://github.com/coreruleset/coreruleset) - OWASP CRS (Official Repository)
+* 【2024-07-04】[MiuLab / Taiwan\-LLM](https://github.com/MiuLab/Taiwan-LLM) - Traditional Mandarin LLMs for Taiwan
 * 【2024-07-03】[pydata / xarray](https://github.com/pydata/xarray) - N\-D labeled arrays and datasets in Python
 * 【2024-07-01】[mategol / PySilon-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.
 * 【2024-06-30】[snakers4 / silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector
@@ -1234,6 +1238,7 @@
 
 ## Javascript
 
+* 【2024-07-04】[microsoft / botframework\-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications 
 * 【2024-07-02】[toncenter / tonweb](https://github.com/toncenter/tonweb) - JavaScript SDK for TON (The Open Network)
 * 【2024-07-01】[antfu / vscode\-file\-nesting\-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
 * 【2024-07-01】[twbs / icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap 
@@ -1509,6 +1514,8 @@
 
 ## Go
 
+* 【2024-07-04】[mr\-karan / doggo](https://github.com/mr-karan/doggo) - 🐶 Command\-line DNS Client for Humans  Written in Golang
+* 【2024-07-04】[sylabs / singularity](https://github.com/sylabs/singularity) - SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure 
 * 【2024-07-03】[NVIDIA / gpu-operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
 * 【2024-07-01】[botlabs\-gg / yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
 * 【2024-07-01】[cloudfoundry / cf\-deployment](https://github.com/cloudfoundry/cf-deployment) - The canonical open source deployment manifest for Cloud Foundry
@@ -2039,6 +2046,7 @@
 
 ## C#
 
+* 【2024-07-04】[Nordgaren / Elden-Ring-Debug-Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool) - Debug tool for Elden Ring modding
 * 【2024-07-03】[Nordgaren / Elden\-Ring\-Debug\-Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool) - Debug tool for Elden Ring modding
 * 【2024-07-01】[sn4k3 / UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 * 【2024-07-01】[SamboyCoding / Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) - Work\-in\-progress tool to reverse unity's IL2CPP toolchain 
@@ -2579,6 +2587,7 @@
 
 ## Unknown
 
+* 【2024-07-04】[The-Cool-Coders / Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 * 【2024-07-02】[The\-Cool\-Coders / Project\-Ideas\-And\-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤ 
 * 【2024-06-24】[SimplifyJobs / Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-06-05】[Crispher / MathlibExplorer](https://github.com/Crispher/MathlibExplorer) - A visualization tool for Lean's mathlib library 
@@ -3049,6 +3058,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-04】[opentensor / subtensor](https://github.com/opentensor/subtensor) - Bittensor Blockchain Layer
 * 【2024-07-03】[serde\-rs / json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 * 【2024-07-03】[PyO3 / maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 * 【2024-07-03】[Rigellute / spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
@@ -3461,6 +3471,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-04】[wix / react-native-calendars](https://github.com/wix/react-native-calendars) - React Native Calendar Components 🗓️ 📆
+* 【2024-07-04】[infinitered / ignite](https://github.com/infinitered/ignite) - Infinite Red's battle\-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
+* 【2024-07-04】[vendure-ecommerce / vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
+* 【2024-07-04】[ant\-design / ant\-design\-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps 
 * 【2024-07-03】[aws\-samples / generative\-ai\-use\-cases\-jp](https://github.com/aws-samples/generative-ai-use-cases-jp) - すぐに業務活用できるビジネスユースケース集付きの安全な生成AIアプリ実装
 * 【2024-07-03】[changesets / changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
 * 【2024-07-02】[replit / kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
