@@ -24,6 +24,9 @@
 
 ## All language
 
+* 【2024-07-05】[microsoft / graphrag](https://github.com/microsoft/graphrag) - A modular graph\-based Retrieval\-Augmented Generation (RAG) system
+* 【2024-07-05】[Azure\-Samples / graphrag\-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) - One\-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
+* 【2024-07-05】[BLAKE3-team / BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 * 【2024-07-04】[BLAKE3\-team / BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 * 【2024-07-03】[NVIDIA / gpu\-operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
 * 【2024-07-02】[goldmansachs / gs-quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
@@ -740,6 +743,8 @@
 
 ## Python
 
+* 【2024-07-05】[Azure-Samples / graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) - One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
+* 【2024-07-05】[Kedreamix / Linly\-Talker](https://github.com/Kedreamix/Linly-Talker) - Digital Avatar Conversational System \- Linly\-Talker  😄✨ Linly\-Talker is an intelligent AI system that combines large language models (LLMs) with visual models to create a novel human\-AI interaction method  🤝🤖 It integrates various technologies like Whisper, Linly, Microsoft Speech Services, and SadTalker talking head generation system  🌟🔬
 * 【2024-07-04】[coreruleset / coreruleset](https://github.com/coreruleset/coreruleset) - OWASP CRS (Official Repository)
 * 【2024-07-04】[MiuLab / Taiwan\-LLM](https://github.com/MiuLab/Taiwan-LLM) - Traditional Mandarin LLMs for Taiwan
 * 【2024-07-03】[pydata / xarray](https://github.com/pydata/xarray) - N\-D labeled arrays and datasets in Python
@@ -1514,6 +1519,7 @@
 
 ## Go
 
+* 【2024-07-05】[KusionStack / karpor](https://github.com/KusionStack/karpor) - Intelligence for Kubernetes  World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams 
 * 【2024-07-04】[mr\-karan / doggo](https://github.com/mr-karan/doggo) - 🐶 Command\-line DNS Client for Humans  Written in Golang
 * 【2024-07-04】[sylabs / singularity](https://github.com/sylabs/singularity) - SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure 
 * 【2024-07-03】[NVIDIA / gpu-operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
@@ -1696,6 +1702,7 @@
 
 ## C
 
+* 【2024-07-05】[rui314 / 8cc](https://github.com/rui314/8cc) - A Small C Compiler
 * 【2024-07-03】[shalxmva / modxo](https://github.com/shalxmva/modxo) - Xbox LPC Port modchip using a Raspberry Pi Pico
 * 【2024-06-26】[bol\-van / zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 * 【2024-06-23】[robertdavidgraham / wc2](https://github.com/robertdavidgraham/wc2) - Investigates optimizing 'wc', the Unix word count program
@@ -1875,6 +1882,7 @@
 
 ## C++
 
+* 【2024-07-05】[vslavik / diff\-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 * 【2024-07-02】[liyunfan1223 / mod\-playerbots](https://github.com/liyunfan1223/mod-playerbots) - AzerothCore Playerbots Module
 * 【2024-07-01】[multitheftauto / mtasa\-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single\-player game 
 * 【2024-06-30】[zhuzichu520 / FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
@@ -2046,6 +2054,7 @@
 
 ## C#
 
+* 【2024-07-05】[marticliment / UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers  Could be terribly described as a package manager manager to manage your package managers
 * 【2024-07-04】[Nordgaren / Elden-Ring-Debug-Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool) - Debug tool for Elden Ring modding
 * 【2024-07-03】[Nordgaren / Elden\-Ring\-Debug\-Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool) - Debug tool for Elden Ring modding
 * 【2024-07-01】[sn4k3 / UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
@@ -3058,6 +3067,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-05】[serde-rs / json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
+* 【2024-07-05】[aome510 / spotify\-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 * 【2024-07-04】[opentensor / subtensor](https://github.com/opentensor/subtensor) - Bittensor Blockchain Layer
 * 【2024-07-03】[serde\-rs / json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 * 【2024-07-03】[PyO3 / maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
@@ -3471,6 +3482,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-05】[eclipse-theia / theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
+* 【2024-07-05】[palantir / blueprint](https://github.com/palantir/blueprint) - A React\-based UI toolkit for the web
+* 【2024-07-05】[caorushizi / mediago](https://github.com/caorushizi/mediago) - m3u8[m3u8\-downloader] 视频在线提取工具 流媒体下载 m3u8下载 桌面客户端 windows mac
+* 【2024-07-05】[rjsf\-team / react\-jsonschema\-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema 
 * 【2024-07-04】[wix / react-native-calendars](https://github.com/wix/react-native-calendars) - React Native Calendar Components 🗓️ 📆
 * 【2024-07-04】[infinitered / ignite](https://github.com/infinitered/ignite) - Infinite Red's battle\-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
 * 【2024-07-04】[vendure-ecommerce / vendure](https://github.com/vendure-ecommerce/vendure) - The commerce platform with customization in its DNA.
