@@ -24,6 +24,7 @@
 
 ## All language
 
+* 【2024-07-06】[aome510 / spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 * 【2024-07-05】[microsoft / graphrag](https://github.com/microsoft/graphrag) - A modular graph\-based Retrieval\-Augmented Generation (RAG) system
 * 【2024-07-05】[Azure\-Samples / graphrag\-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) - One\-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
 * 【2024-07-05】[BLAKE3-team / BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
@@ -743,6 +744,8 @@
 
 ## Python
 
+* 【2024-07-06】[Kedreamix / Linly-Talker](https://github.com/Kedreamix/Linly-Talker) - Digital Avatar Conversational System - Linly-Talker. 😄✨ Linly-Talker is an intelligent AI system that combines large language models (LLMs) with visual models to create a novel human-AI interaction method. 🤝🤖 It integrates various technologies like Whisper, Linly, Microsoft Speech Services, and SadTalker talking head generation system. 🌟🔬
+* 【2024-07-06】[Rikorose / DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
 * 【2024-07-05】[Azure-Samples / graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) - One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
 * 【2024-07-05】[Kedreamix / Linly\-Talker](https://github.com/Kedreamix/Linly-Talker) - Digital Avatar Conversational System \- Linly\-Talker  😄✨ Linly\-Talker is an intelligent AI system that combines large language models (LLMs) with visual models to create a novel human\-AI interaction method  🤝🤖 It integrates various technologies like Whisper, Linly, Microsoft Speech Services, and SadTalker talking head generation system  🌟🔬
 * 【2024-07-04】[coreruleset / coreruleset](https://github.com/coreruleset/coreruleset) - OWASP CRS (Official Repository)
@@ -1243,6 +1246,7 @@
 
 ## Javascript
 
+* 【2024-07-06】[react\-dropzone / react\-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag\-drop zone with React js 
 * 【2024-07-04】[microsoft / botframework\-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications 
 * 【2024-07-02】[toncenter / tonweb](https://github.com/toncenter/tonweb) - JavaScript SDK for TON (The Open Network)
 * 【2024-07-01】[antfu / vscode\-file\-nesting\-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
@@ -1519,6 +1523,8 @@
 
 ## Go
 
+* 【2024-07-06】[screego / server](https://github.com/screego/server) - screen sharing for developers https://screego net/
+* 【2024-07-06】[allora\-network / allora\-chain](https://github.com/allora-network/allora-chain) - Node software to run the Allora Network
 * 【2024-07-05】[KusionStack / karpor](https://github.com/KusionStack/karpor) - Intelligence for Kubernetes  World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams 
 * 【2024-07-04】[mr\-karan / doggo](https://github.com/mr-karan/doggo) - 🐶 Command\-line DNS Client for Humans  Written in Golang
 * 【2024-07-04】[sylabs / singularity](https://github.com/sylabs/singularity) - SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure 
@@ -2054,6 +2060,8 @@
 
 ## C#
 
+* 【2024-07-06】[Jeric\-X / SyncClipboard](https://github.com/Jeric-X/SyncClipboard) - 跨平台剪贴板同步方案 / Cross\-Platform Cipboard Syncing Solution
+* 【2024-07-06】[FreyaHolmer / ShaderForge](https://github.com/FreyaHolmer/ShaderForge) - A Shader Editor for Unity
 * 【2024-07-05】[marticliment / UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers  Could be terribly described as a package manager manager to manage your package managers
 * 【2024-07-04】[Nordgaren / Elden-Ring-Debug-Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool) - Debug tool for Elden Ring modding
 * 【2024-07-03】[Nordgaren / Elden\-Ring\-Debug\-Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool) - Debug tool for Elden Ring modding
@@ -2271,6 +2279,7 @@
 
 ## Html
 
+* 【2024-07-06】[Show\-Me\-the\-Code / python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version 
 * 【2024-07-03】[milvus-io / bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
 * 【2024-07-01】[wppconnect-team / wa-version](https://github.com/wppconnect-team/wa-version) - 
 * 【2024-07-01】[elastic / ecs\-dotnet](https://github.com/elastic/ecs-dotnet) - 
@@ -3482,6 +3491,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-06】[JSv4 / OpenContracts](https://github.com/JSv4/OpenContracts) - Mass document analytics platform based on LlamaIndex, Pgvector, React and Django 
+* 【2024-07-06】[fullcalendar / fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full\-sized drag & drop event calendar in JavaScript
+* 【2024-07-06】[react-navigation / react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 * 【2024-07-05】[eclipse-theia / theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 * 【2024-07-05】[palantir / blueprint](https://github.com/palantir/blueprint) - A React\-based UI toolkit for the web
 * 【2024-07-05】[caorushizi / mediago](https://github.com/caorushizi/mediago) - m3u8[m3u8\-downloader] 视频在线提取工具 流媒体下载 m3u8下载 桌面客户端 windows mac
