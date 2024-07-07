@@ -24,6 +24,8 @@
 
 ## All language
 
+* 【2024-07-07】[albertobsd / keyhunt](https://github.com/albertobsd/keyhunt) - privkey hunt for crypto currencies that use secp256k1 elliptic curve
+* 【2024-07-07】[GaiaNet-AI / gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install and run your own AI agent service
 * 【2024-07-06】[aome510 / spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 * 【2024-07-05】[microsoft / graphrag](https://github.com/microsoft/graphrag) - A modular graph\-based Retrieval\-Augmented Generation (RAG) system
 * 【2024-07-05】[Azure\-Samples / graphrag\-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) - One\-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
@@ -744,6 +746,9 @@
 
 ## Python
 
+* 【2024-07-07】[freelabz / secator](https://github.com/freelabz/secator) - secator \- the pentester's swiss knife
+* 【2024-07-07】[tanelpoder / 0xtools](https://github.com/tanelpoder/0xtools) - 0x Tools: X\-Ray vision for Linux systems
+* 【2024-07-07】[qdrant / fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 * 【2024-07-06】[Kedreamix / Linly-Talker](https://github.com/Kedreamix/Linly-Talker) - Digital Avatar Conversational System - Linly-Talker. 😄✨ Linly-Talker is an intelligent AI system that combines large language models (LLMs) with visual models to create a novel human-AI interaction method. 🤝🤖 It integrates various technologies like Whisper, Linly, Microsoft Speech Services, and SadTalker talking head generation system. 🌟🔬
 * 【2024-07-06】[Rikorose / DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
 * 【2024-07-05】[Azure-Samples / graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) - One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
@@ -1246,6 +1251,7 @@
 
 ## Javascript
 
+* 【2024-07-07】[metafloor / bwip\-js](https://github.com/metafloor/bwip-js) - Barcode Writer in Pure JavaScript
 * 【2024-07-06】[react\-dropzone / react\-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag\-drop zone with React js 
 * 【2024-07-04】[microsoft / botframework\-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications 
 * 【2024-07-02】[toncenter / tonweb](https://github.com/toncenter/tonweb) - JavaScript SDK for TON (The Open Network)
@@ -1708,6 +1714,7 @@
 
 ## C
 
+* 【2024-07-07】[andmarti1424 / sc\-im](https://github.com/andmarti1424/sc-im) - sc\-im \- Spreadsheet Calculator Improvised \-\- An ncurses spreadsheet program for terminal
 * 【2024-07-05】[rui314 / 8cc](https://github.com/rui314/8cc) - A Small C Compiler
 * 【2024-07-03】[shalxmva / modxo](https://github.com/shalxmva/modxo) - Xbox LPC Port modchip using a Raspberry Pi Pico
 * 【2024-06-26】[bol\-van / zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
@@ -2060,6 +2067,7 @@
 
 ## C#
 
+* 【2024-07-07】[xivdev / Penumbra](https://github.com/xivdev/Penumbra) - FINAL FANTASY XIV modding, but actually good this time
 * 【2024-07-06】[Jeric\-X / SyncClipboard](https://github.com/Jeric-X/SyncClipboard) - 跨平台剪贴板同步方案 / Cross\-Platform Cipboard Syncing Solution
 * 【2024-07-06】[FreyaHolmer / ShaderForge](https://github.com/FreyaHolmer/ShaderForge) - A Shader Editor for Unity
 * 【2024-07-05】[marticliment / UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers  Could be terribly described as a package manager manager to manage your package managers
@@ -2605,6 +2613,7 @@
 
 ## Unknown
 
+* 【2024-07-07】[Consensys / ethereum\-developer\-tools\-list](https://github.com/Consensys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum 
 * 【2024-07-04】[The-Cool-Coders / Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 * 【2024-07-02】[The\-Cool\-Coders / Project\-Ideas\-And\-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤ 
 * 【2024-06-24】[SimplifyJobs / Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships) - Collection of Summer 2025 tech internships!
@@ -3491,6 +3500,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-07】[gridstack / gridstack js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes 
+* 【2024-07-07】[adrianhajdin / social_media_app](https://github.com/adrianhajdin/social_media_app) - Build a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more 
+* 【2024-07-07】[refined-github / refined-github](https://github.com/refined-github/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
+* 【2024-07-07】[rjsf-team / react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 * 【2024-07-06】[JSv4 / OpenContracts](https://github.com/JSv4/OpenContracts) - Mass document analytics platform based on LlamaIndex, Pgvector, React and Django 
 * 【2024-07-06】[fullcalendar / fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full\-sized drag & drop event calendar in JavaScript
 * 【2024-07-06】[react-navigation / react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
