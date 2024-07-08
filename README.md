@@ -746,6 +746,7 @@
 
 ## Python
 
+* 【2024-07-08】[explorerhq / django\-sql\-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries 
 * 【2024-07-07】[freelabz / secator](https://github.com/freelabz/secator) - secator \- the pentester's swiss knife
 * 【2024-07-07】[tanelpoder / 0xtools](https://github.com/tanelpoder/0xtools) - 0x Tools: X\-Ray vision for Linux systems
 * 【2024-07-07】[qdrant / fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
@@ -1714,6 +1715,7 @@
 
 ## C
 
+* 【2024-07-08】[zodiacon / WindowsInternals](https://github.com/zodiacon/WindowsInternals) - Windows Internals Book 7th edition Tools
 * 【2024-07-07】[andmarti1424 / sc\-im](https://github.com/andmarti1424/sc-im) - sc\-im \- Spreadsheet Calculator Improvised \-\- An ncurses spreadsheet program for terminal
 * 【2024-07-05】[rui314 / 8cc](https://github.com/rui314/8cc) - A Small C Compiler
 * 【2024-07-03】[shalxmva / modxo](https://github.com/shalxmva/modxo) - Xbox LPC Port modchip using a Raspberry Pi Pico
@@ -2613,6 +2615,7 @@
 
 ## Unknown
 
+* 【2024-07-08】[praetorian\-inc / Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - Password cracking rules for Hashcat based on statistics and industry patterns
 * 【2024-07-07】[Consensys / ethereum\-developer\-tools\-list](https://github.com/Consensys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum 
 * 【2024-07-04】[The-Cool-Coders / Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 * 【2024-07-02】[The\-Cool\-Coders / Project\-Ideas\-And\-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤ 
@@ -3085,6 +3088,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-08】[Jondolf / avian](https://github.com/Jondolf/avian) - ECS\-driven 2D and 3D physics engine for the Bevy game engine 
 * 【2024-07-05】[serde-rs / json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 * 【2024-07-05】[aome510 / spotify\-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 * 【2024-07-04】[opentensor / subtensor](https://github.com/opentensor/subtensor) - Bittensor Blockchain Layer
@@ -3500,6 +3504,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-08】[monkeytypegame / monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features  Test yourself in various modes, track your progress and improve your speed 
+* 【2024-07-08】[logto-io / logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
+* 【2024-07-08】[mrzachnugent / react-native-reusables](https://github.com/mrzachnugent/react-native-reusables) - Universal shadcn/ui for React Native: Copy, paste, and tailor components to suit your specific requirements.
 * 【2024-07-07】[gridstack / gridstack js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes 
 * 【2024-07-07】[adrianhajdin / social_media_app](https://github.com/adrianhajdin/social_media_app) - Build a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more 
 * 【2024-07-07】[refined-github / refined-github](https://github.com/refined-github/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features
