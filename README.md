@@ -1252,6 +1252,7 @@
 
 ## Javascript
 
+* 【2024-07-09】[evidence\-dev / evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
 * 【2024-07-07】[metafloor / bwip\-js](https://github.com/metafloor/bwip-js) - Barcode Writer in Pure JavaScript
 * 【2024-07-06】[react\-dropzone / react\-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag\-drop zone with React js 
 * 【2024-07-04】[microsoft / botframework\-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications 
@@ -1530,6 +1531,8 @@
 
 ## Go
 
+* 【2024-07-09】[micro / go\-micro](https://github.com/micro/go-micro) - A Go microservices framework
+* 【2024-07-09】[simulot / immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 * 【2024-07-06】[screego / server](https://github.com/screego/server) - screen sharing for developers https://screego net/
 * 【2024-07-06】[allora\-network / allora\-chain](https://github.com/allora-network/allora-chain) - Node software to run the Allora Network
 * 【2024-07-05】[KusionStack / karpor](https://github.com/KusionStack/karpor) - Intelligence for Kubernetes  World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams 
@@ -1897,6 +1900,7 @@
 
 ## C++
 
+* 【2024-07-09】[swiftlang / swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 * 【2024-07-05】[vslavik / diff\-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 * 【2024-07-02】[liyunfan1223 / mod\-playerbots](https://github.com/liyunfan1223/mod-playerbots) - AzerothCore Playerbots Module
 * 【2024-07-01】[multitheftauto / mtasa\-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single\-player game 
@@ -2069,6 +2073,7 @@
 
 ## C#
 
+* 【2024-07-09】[ForzaMods / Forza-Mods-AIO](https://github.com/ForzaMods/Forza-Mods-AIO) - Free and open-source FH4 & FH5 mod tool
 * 【2024-07-07】[xivdev / Penumbra](https://github.com/xivdev/Penumbra) - FINAL FANTASY XIV modding, but actually good this time
 * 【2024-07-06】[Jeric\-X / SyncClipboard](https://github.com/Jeric-X/SyncClipboard) - 跨平台剪贴板同步方案 / Cross\-Platform Cipboard Syncing Solution
 * 【2024-07-06】[FreyaHolmer / ShaderForge](https://github.com/FreyaHolmer/ShaderForge) - A Shader Editor for Unity
@@ -2289,6 +2294,7 @@
 
 ## Html
 
+* 【2024-07-09】[paulirish / lite\-youtube\-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed 
 * 【2024-07-06】[Show\-Me\-the\-Code / python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version 
 * 【2024-07-03】[milvus-io / bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
 * 【2024-07-01】[wppconnect-team / wa-version](https://github.com/wppconnect-team/wa-version) - 
@@ -3088,6 +3094,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-09】[topgrade\-rs / topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 * 【2024-07-08】[Jondolf / avian](https://github.com/Jondolf/avian) - ECS\-driven 2D and 3D physics engine for the Bevy game engine 
 * 【2024-07-05】[serde-rs / json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 * 【2024-07-05】[aome510 / spotify\-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
