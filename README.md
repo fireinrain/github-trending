@@ -746,6 +746,7 @@
 
 ## Python
 
+* 【2024-07-10】[Xpra\-org / xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows 
 * 【2024-07-08】[explorerhq / django\-sql\-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries 
 * 【2024-07-07】[freelabz / secator](https://github.com/freelabz/secator) - secator \- the pentester's swiss knife
 * 【2024-07-07】[tanelpoder / 0xtools](https://github.com/tanelpoder/0xtools) - 0x Tools: X\-Ray vision for Linux systems
@@ -1718,6 +1719,7 @@
 
 ## C
 
+* 【2024-07-10】[virtualsquare / vde\-2](https://github.com/virtualsquare/vde-2) - 
 * 【2024-07-08】[zodiacon / WindowsInternals](https://github.com/zodiacon/WindowsInternals) - Windows Internals Book 7th edition Tools
 * 【2024-07-07】[andmarti1424 / sc\-im](https://github.com/andmarti1424/sc-im) - sc\-im \- Spreadsheet Calculator Improvised \-\- An ncurses spreadsheet program for terminal
 * 【2024-07-05】[rui314 / 8cc](https://github.com/rui314/8cc) - A Small C Compiler
@@ -2294,6 +2296,7 @@
 
 ## Html
 
+* 【2024-07-10】[paulirish / lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 * 【2024-07-09】[paulirish / lite\-youtube\-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed 
 * 【2024-07-06】[Show\-Me\-the\-Code / python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version 
 * 【2024-07-03】[milvus-io / bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
@@ -3094,6 +3097,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-10】[mufeedvh / code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting 
 * 【2024-07-09】[topgrade\-rs / topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 * 【2024-07-08】[Jondolf / avian](https://github.com/Jondolf/avian) - ECS\-driven 2D and 3D physics engine for the Bevy game engine 
 * 【2024-07-05】[serde-rs / json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
@@ -3511,6 +3515,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-10】[BishopFox / unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
+* 【2024-07-10】[socketio / socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 * 【2024-07-08】[monkeytypegame / monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features  Test yourself in various modes, track your progress and improve your speed 
 * 【2024-07-08】[logto-io / logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 * 【2024-07-08】[mrzachnugent / react-native-reusables](https://github.com/mrzachnugent/react-native-reusables) - Universal shadcn/ui for React Native: Copy, paste, and tailor components to suit your specific requirements.
