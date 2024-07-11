@@ -1532,6 +1532,7 @@
 
 ## Go
 
+* 【2024-07-11】[nerdswords / yet\-another\-cloudwatch\-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) - Prometheus exporter for AWS CloudWatch \- Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels
 * 【2024-07-09】[micro / go\-micro](https://github.com/micro/go-micro) - A Go microservices framework
 * 【2024-07-09】[simulot / immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 * 【2024-07-06】[screego / server](https://github.com/screego/server) - screen sharing for developers https://screego net/
@@ -2075,6 +2076,8 @@
 
 ## C#
 
+* 【2024-07-11】[cairoshell / cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows 
+* 【2024-07-11】[DbUp / DbUp](https://github.com/DbUp/DbUp) - DbUp is a  NET library that helps you to deploy changes to SQL Server databases  It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date 
 * 【2024-07-09】[ForzaMods / Forza-Mods-AIO](https://github.com/ForzaMods/Forza-Mods-AIO) - Free and open-source FH4 & FH5 mod tool
 * 【2024-07-07】[xivdev / Penumbra](https://github.com/xivdev/Penumbra) - FINAL FANTASY XIV modding, but actually good this time
 * 【2024-07-06】[Jeric\-X / SyncClipboard](https://github.com/Jeric-X/SyncClipboard) - 跨平台剪贴板同步方案 / Cross\-Platform Cipboard Syncing Solution
@@ -2296,6 +2299,7 @@
 
 ## Html
 
+* 【2024-07-11】[Show-Me-the-Code / python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version.
 * 【2024-07-10】[paulirish / lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 * 【2024-07-09】[paulirish / lite\-youtube\-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed 
 * 【2024-07-06】[Show\-Me\-the\-Code / python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version 
@@ -3515,6 +3519,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-11】[RamiAwar / dataline](https://github.com/RamiAwar/dataline) - Chat with your data \- AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite   
+* 【2024-07-11】[sussy\-code / smov](https://github.com/sussy-code/smov) - Sudo\-flix's source code (Allegedly)
 * 【2024-07-10】[BishopFox / unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 * 【2024-07-10】[socketio / socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 * 【2024-07-08】[monkeytypegame / monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features  Test yourself in various modes, track your progress and improve your speed 
