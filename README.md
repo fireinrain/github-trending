@@ -746,6 +746,8 @@
 
 ## Python
 
+* 【2024-07-12】[milesial / Pytorch\-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U\-Net for image semantic segmentation with high quality images
+* 【2024-07-12】[urchade / GLiNER](https://github.com/urchade/GLiNER) - Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts) @ NAACL 2024
 * 【2024-07-10】[Xpra\-org / xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows 
 * 【2024-07-08】[explorerhq / django\-sql\-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries 
 * 【2024-07-07】[freelabz / secator](https://github.com/freelabz/secator) - secator \- the pentester's swiss knife
@@ -1532,6 +1534,7 @@
 
 ## Go
 
+* 【2024-07-12】[nerdswords / yet-another-cloudwatch-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) - Prometheus exporter for AWS CloudWatch - Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels
 * 【2024-07-11】[nerdswords / yet\-another\-cloudwatch\-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) - Prometheus exporter for AWS CloudWatch \- Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels
 * 【2024-07-09】[micro / go\-micro](https://github.com/micro/go-micro) - A Go microservices framework
 * 【2024-07-09】[simulot / immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
@@ -1720,6 +1723,8 @@
 
 ## C
 
+* 【2024-07-12】[zherczeg / sljit](https://github.com/zherczeg/sljit) - Platform independent low\-level JIT compiler
+* 【2024-07-12】[yarrick / iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 * 【2024-07-10】[virtualsquare / vde\-2](https://github.com/virtualsquare/vde-2) - 
 * 【2024-07-08】[zodiacon / WindowsInternals](https://github.com/zodiacon/WindowsInternals) - Windows Internals Book 7th edition Tools
 * 【2024-07-07】[andmarti1424 / sc\-im](https://github.com/andmarti1424/sc-im) - sc\-im \- Spreadsheet Calculator Improvised \-\- An ncurses spreadsheet program for terminal
@@ -3101,6 +3106,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-12】[nimiq / core\-rs\-albatross](https://github.com/nimiq/core-rs-albatross) - Rust implementation of the Albatross protocol
 * 【2024-07-10】[mufeedvh / code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting 
 * 【2024-07-09】[topgrade\-rs / topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 * 【2024-07-08】[Jondolf / avian](https://github.com/Jondolf/avian) - ECS\-driven 2D and 3D physics engine for the Bevy game engine 
@@ -3519,6 +3525,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-12】[marmelab / react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
+* 【2024-07-12】[growthbook / growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 * 【2024-07-11】[RamiAwar / dataline](https://github.com/RamiAwar/dataline) - Chat with your data \- AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite   
 * 【2024-07-11】[sussy\-code / smov](https://github.com/sussy-code/smov) - Sudo\-flix's source code (Allegedly)
 * 【2024-07-10】[BishopFox / unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
