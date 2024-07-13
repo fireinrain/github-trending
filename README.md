@@ -24,6 +24,7 @@
 
 ## All language
 
+* 【2024-07-13】[apify / crawlee\-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers  Extract data for AI, LLMs, RAG, or GPTs  Download HTML, PDF, JPG, PNG, and other files from websites  Works with BeautifulSoup, Playwright, and raw HTTP  Both headful and headless mode  With proxy rotation 
 * 【2024-07-07】[albertobsd / keyhunt](https://github.com/albertobsd/keyhunt) - privkey hunt for crypto currencies that use secp256k1 elliptic curve
 * 【2024-07-07】[GaiaNet-AI / gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install and run your own AI agent service
 * 【2024-07-06】[aome510 / spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
@@ -746,6 +747,8 @@
 
 ## Python
 
+* 【2024-07-13】[apify / crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
+* 【2024-07-13】[InternLM / Tutorial](https://github.com/InternLM/Tutorial) - LLM Tutorial
 * 【2024-07-12】[milesial / Pytorch\-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U\-Net for image semantic segmentation with high quality images
 * 【2024-07-12】[urchade / GLiNER](https://github.com/urchade/GLiNER) - Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts) @ NAACL 2024
 * 【2024-07-10】[Xpra\-org / xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows 
@@ -1723,6 +1726,7 @@
 
 ## C
 
+* 【2024-07-13】[ARM-software / CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) - CMSIS-DSP embedded compute library for Cortex-M and Cortex-A
 * 【2024-07-12】[zherczeg / sljit](https://github.com/zherczeg/sljit) - Platform independent low\-level JIT compiler
 * 【2024-07-12】[yarrick / iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 * 【2024-07-10】[virtualsquare / vde\-2](https://github.com/virtualsquare/vde-2) - 
@@ -1908,6 +1912,8 @@
 
 ## C++
 
+* 【2024-07-13】[qiayuanl / legged_control](https://github.com/qiayuanl/legged_control) - Nonlinear MPC and WBC framework for legged robot based on OCS2 and ros\-controls
+* 【2024-07-13】[maplibre / maplibre-native](https://github.com/maplibre/maplibre-native) - MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.
 * 【2024-07-09】[swiftlang / swift](https://github.com/swiftlang/swift) - The Swift Programming Language
 * 【2024-07-05】[vslavik / diff\-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 * 【2024-07-02】[liyunfan1223 / mod\-playerbots](https://github.com/liyunfan1223/mod-playerbots) - AzerothCore Playerbots Module
@@ -3106,6 +3112,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-13】[apache / iceberg\-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg
 * 【2024-07-12】[nimiq / core\-rs\-albatross](https://github.com/nimiq/core-rs-albatross) - Rust implementation of the Albatross protocol
 * 【2024-07-10】[mufeedvh / code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting 
 * 【2024-07-09】[topgrade\-rs / topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
@@ -3525,6 +3532,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-13】[cornerstonejs / cornerstone3D](https://github.com/cornerstonejs/cornerstone3D) - Cornerstone is a set of JavaScript libraries that can be used to build web\-based medical imaging applications  It provides a framework to build radiology applications such as the OHIF Viewer 
+* 【2024-07-13】[jquense / yup](https://github.com/jquense/yup) - Dead simple Object schema validation
+* 【2024-07-13】[nhn / tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
+* 【2024-07-13】[tensorflow / tfjs\-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow js
 * 【2024-07-12】[marmelab / react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 * 【2024-07-12】[growthbook / growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 * 【2024-07-11】[RamiAwar / dataline](https://github.com/RamiAwar/dataline) - Chat with your data \- AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite   
