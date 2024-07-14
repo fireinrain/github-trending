@@ -747,6 +747,8 @@
 
 ## Python
 
+* 【2024-07-14】[opendatalab / MinerU](https://github.com/opendatalab/MinerU) - MinerU is a one\-stop, open\-source, high\-quality data extraction tool, supports PDF/webpage/e\-book extraction 一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
+* 【2024-07-14】[drivendataorg / cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 * 【2024-07-13】[apify / crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
 * 【2024-07-13】[InternLM / Tutorial](https://github.com/InternLM/Tutorial) - LLM Tutorial
 * 【2024-07-12】[milesial / Pytorch\-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U\-Net for image semantic segmentation with high quality images
@@ -3532,6 +3534,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-14】[alibaba / formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder \-\- Support React/React Native/Vue 2/Vue 3
+* 【2024-07-14】[mx\-space / kami](https://github.com/mx-space/kami) - 🍰 Kami is mx\-space's web frontend theme  Colorful, flat, cute and comfortable 
 * 【2024-07-13】[cornerstonejs / cornerstone3D](https://github.com/cornerstonejs/cornerstone3D) - Cornerstone is a set of JavaScript libraries that can be used to build web\-based medical imaging applications  It provides a framework to build radiology applications such as the OHIF Viewer 
 * 【2024-07-13】[jquense / yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 * 【2024-07-13】[nhn / tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
