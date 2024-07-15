@@ -1539,6 +1539,7 @@
 
 ## Go
 
+* 【2024-07-15】[taubyte / tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS)  A self\-hosted Vercel / Netlify / Cloudflare alternative 
 * 【2024-07-12】[nerdswords / yet-another-cloudwatch-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) - Prometheus exporter for AWS CloudWatch - Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels
 * 【2024-07-11】[nerdswords / yet\-another\-cloudwatch\-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) - Prometheus exporter for AWS CloudWatch \- Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels
 * 【2024-07-09】[micro / go\-micro](https://github.com/micro/go-micro) - A Go microservices framework
@@ -2089,6 +2090,7 @@
 
 ## C#
 
+* 【2024-07-15】[Exiled\-Team / EXILED](https://github.com/Exiled-Team/EXILED) - A high\-level plugin framework for SCP: Secret Laboratory servers  It offers an event system for developers to hook in order to manipulate or change game code, or implement their own functions 
 * 【2024-07-11】[cairoshell / cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows 
 * 【2024-07-11】[DbUp / DbUp](https://github.com/DbUp/DbUp) - DbUp is a  NET library that helps you to deploy changes to SQL Server databases  It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date 
 * 【2024-07-09】[ForzaMods / Forza-Mods-AIO](https://github.com/ForzaMods/Forza-Mods-AIO) - Free and open-source FH4 & FH5 mod tool
@@ -3114,6 +3116,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-15】[getzola / zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built\-in  https://www getzola org
+* 【2024-07-15】[clarkmcc / cel\-rust](https://github.com/clarkmcc/cel-rust) - Common Expression Language interpreter written in Rust
 * 【2024-07-13】[apache / iceberg\-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg
 * 【2024-07-12】[nimiq / core\-rs\-albatross](https://github.com/nimiq/core-rs-albatross) - Rust implementation of the Albatross protocol
 * 【2024-07-10】[mufeedvh / code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting 
