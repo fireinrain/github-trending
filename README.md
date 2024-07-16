@@ -24,6 +24,7 @@
 
 ## All language
 
+* 【2024-07-16】[neo4j\-labs / llm\-graph\-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
 * 【2024-07-13】[apify / crawlee\-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers  Extract data for AI, LLMs, RAG, or GPTs  Download HTML, PDF, JPG, PNG, and other files from websites  Works with BeautifulSoup, Playwright, and raw HTTP  Both headful and headless mode  With proxy rotation 
 * 【2024-07-07】[albertobsd / keyhunt](https://github.com/albertobsd/keyhunt) - privkey hunt for crypto currencies that use secp256k1 elliptic curve
 * 【2024-07-07】[GaiaNet-AI / gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install and run your own AI agent service
@@ -1539,6 +1540,7 @@
 
 ## Go
 
+* 【2024-07-16】[edoardottt / scilla](https://github.com/edoardottt/scilla) - Information Gathering tool \- DNS / Subdomains / Ports / Directories enumeration
 * 【2024-07-15】[taubyte / tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS)  A self\-hosted Vercel / Netlify / Cloudflare alternative 
 * 【2024-07-12】[nerdswords / yet-another-cloudwatch-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) - Prometheus exporter for AWS CloudWatch - Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels
 * 【2024-07-11】[nerdswords / yet\-another\-cloudwatch\-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) - Prometheus exporter for AWS CloudWatch \- Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels
@@ -2643,6 +2645,7 @@
 
 ## Unknown
 
+* 【2024-07-16】[xlenore / ps2\-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
 * 【2024-07-08】[praetorian\-inc / Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - Password cracking rules for Hashcat based on statistics and industry patterns
 * 【2024-07-07】[Consensys / ethereum\-developer\-tools\-list](https://github.com/Consensys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum 
 * 【2024-07-04】[The-Cool-Coders / Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
@@ -3116,6 +3119,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-16】[ducaale / xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 * 【2024-07-15】[getzola / zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built\-in  https://www getzola org
 * 【2024-07-15】[clarkmcc / cel\-rust](https://github.com/clarkmcc/cel-rust) - Common Expression Language interpreter written in Rust
 * 【2024-07-13】[apache / iceberg\-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg
@@ -3538,6 +3542,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-16】[resend / react\-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 * 【2024-07-14】[alibaba / formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder \-\- Support React/React Native/Vue 2/Vue 3
 * 【2024-07-14】[mx\-space / kami](https://github.com/mx-space/kami) - 🍰 Kami is mx\-space's web frontend theme  Colorful, flat, cute and comfortable 
 * 【2024-07-13】[cornerstonejs / cornerstone3D](https://github.com/cornerstonejs/cornerstone3D) - Cornerstone is a set of JavaScript libraries that can be used to build web\-based medical imaging applications  It provides a framework to build radiology applications such as the OHIF Viewer 
