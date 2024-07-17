@@ -748,6 +748,7 @@
 
 ## Python
 
+* 【2024-07-17】[mem0ai / mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 * 【2024-07-14】[opendatalab / MinerU](https://github.com/opendatalab/MinerU) - MinerU is a one\-stop, open\-source, high\-quality data extraction tool, supports PDF/webpage/e\-book extraction 一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 * 【2024-07-14】[drivendataorg / cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 * 【2024-07-13】[apify / crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
@@ -1540,6 +1541,7 @@
 
 ## Go
 
+* 【2024-07-17】[twmb / franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.6+. Producing, consuming, transacting, administrating, etc.
 * 【2024-07-16】[edoardottt / scilla](https://github.com/edoardottt/scilla) - Information Gathering tool \- DNS / Subdomains / Ports / Directories enumeration
 * 【2024-07-15】[taubyte / tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS)  A self\-hosted Vercel / Netlify / Cloudflare alternative 
 * 【2024-07-12】[nerdswords / yet-another-cloudwatch-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) - Prometheus exporter for AWS CloudWatch - Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels
@@ -1917,6 +1919,8 @@
 
 ## C++
 
+* 【2024-07-17】[ROCm / HIP](https://github.com/ROCm/HIP) - HIP: C++ Heterogeneous\-Compute Interface for Portability
+* 【2024-07-17】[strawberrymusicplayer / strawberry](https://github.com/strawberrymusicplayer/strawberry) - 🍓 Strawberry Music Player
 * 【2024-07-13】[qiayuanl / legged_control](https://github.com/qiayuanl/legged_control) - Nonlinear MPC and WBC framework for legged robot based on OCS2 and ros\-controls
 * 【2024-07-13】[maplibre / maplibre-native](https://github.com/maplibre/maplibre-native) - MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.
 * 【2024-07-09】[swiftlang / swift](https://github.com/swiftlang/swift) - The Swift Programming Language
@@ -3119,6 +3123,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-17】[teloxide / teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
+* 【2024-07-17】[lostb1t / replex](https://github.com/lostb1t/replex) - Remix your Plex hubs
 * 【2024-07-16】[ducaale / xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 * 【2024-07-15】[getzola / zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built\-in  https://www getzola org
 * 【2024-07-15】[clarkmcc / cel\-rust](https://github.com/clarkmcc/cel-rust) - Common Expression Language interpreter written in Rust
@@ -3542,6 +3548,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-17】[resend / react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
+* 【2024-07-17】[codercup / unibest](https://github.com/codercup/unibest) - unibest \- 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。
 * 【2024-07-16】[resend / react\-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 * 【2024-07-14】[alibaba / formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder \-\- Support React/React Native/Vue 2/Vue 3
 * 【2024-07-14】[mx\-space / kami](https://github.com/mx-space/kami) - 🍰 Kami is mx\-space's web frontend theme  Colorful, flat, cute and comfortable 
