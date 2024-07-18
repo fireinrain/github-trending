@@ -24,6 +24,7 @@
 
 ## All language
 
+* 【2024-07-18】[neo4j-labs / llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
 * 【2024-07-16】[neo4j\-labs / llm\-graph\-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
 * 【2024-07-13】[apify / crawlee\-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers  Extract data for AI, LLMs, RAG, or GPTs  Download HTML, PDF, JPG, PNG, and other files from websites  Works with BeautifulSoup, Playwright, and raw HTTP  Both headful and headless mode  With proxy rotation 
 * 【2024-07-07】[albertobsd / keyhunt](https://github.com/albertobsd/keyhunt) - privkey hunt for crypto currencies that use secp256k1 elliptic curve
@@ -748,6 +749,7 @@
 
 ## Python
 
+* 【2024-07-18】[run-llama / llama_parse](https://github.com/run-llama/llama_parse) - Parse files for optimal RAG
 * 【2024-07-17】[mem0ai / mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 * 【2024-07-14】[opendatalab / MinerU](https://github.com/opendatalab/MinerU) - MinerU is a one\-stop, open\-source, high\-quality data extraction tool, supports PDF/webpage/e\-book extraction 一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 * 【2024-07-14】[drivendataorg / cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
@@ -1733,6 +1735,7 @@
 
 ## C
 
+* 【2024-07-18】[IvorySQL / IvorySQL](https://github.com/IvorySQL/IvorySQL) - Open Source Oracle Compatible PostgreSQL 
 * 【2024-07-13】[ARM-software / CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) - CMSIS-DSP embedded compute library for Cortex-M and Cortex-A
 * 【2024-07-12】[zherczeg / sljit](https://github.com/zherczeg/sljit) - Platform independent low\-level JIT compiler
 * 【2024-07-12】[yarrick / iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
@@ -2320,6 +2323,7 @@
 
 ## Html
 
+* 【2024-07-18】[trigaten / The_Prompt_Report](https://github.com/trigaten/The_Prompt_Report) - 
 * 【2024-07-11】[Show-Me-the-Code / python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version.
 * 【2024-07-10】[paulirish / lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 * 【2024-07-09】[paulirish / lite\-youtube\-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed 
@@ -3123,6 +3127,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-18】[dfinity / ic](https://github.com/dfinity/ic) - Internet Computer blockchain source: the client/replica software run by nodes
+* 【2024-07-18】[TraceMachina / nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high\-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE\-compatible build systems  It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings 
 * 【2024-07-17】[teloxide / teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 * 【2024-07-17】[lostb1t / replex](https://github.com/lostb1t/replex) - Remix your Plex hubs
 * 【2024-07-16】[ducaale / xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
