@@ -1264,6 +1264,7 @@
 
 ## Javascript
 
+* 【2024-07-19】[cavi\-au / Consent\-O\-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
 * 【2024-07-09】[evidence\-dev / evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
 * 【2024-07-07】[metafloor / bwip\-js](https://github.com/metafloor/bwip-js) - Barcode Writer in Pure JavaScript
 * 【2024-07-06】[react\-dropzone / react\-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag\-drop zone with React js 
@@ -1735,6 +1736,7 @@
 
 ## C
 
+* 【2024-07-19】[siduck / chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 * 【2024-07-18】[IvorySQL / IvorySQL](https://github.com/IvorySQL/IvorySQL) - Open Source Oracle Compatible PostgreSQL 
 * 【2024-07-13】[ARM-software / CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) - CMSIS-DSP embedded compute library for Cortex-M and Cortex-A
 * 【2024-07-12】[zherczeg / sljit](https://github.com/zherczeg/sljit) - Platform independent low\-level JIT compiler
@@ -2653,6 +2655,7 @@
 
 ## Unknown
 
+* 【2024-07-19】[miss\-mumu / developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 * 【2024-07-16】[xlenore / ps2\-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
 * 【2024-07-08】[praetorian\-inc / Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - Password cracking rules for Hashcat based on statistics and industry patterns
 * 【2024-07-07】[Consensys / ethereum\-developer\-tools\-list](https://github.com/Consensys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum 
