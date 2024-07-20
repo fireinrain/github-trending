@@ -1544,6 +1544,7 @@
 
 ## Go
 
+* 【2024-07-20】[GoogleCloudPlatform / golang\-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language 
 * 【2024-07-17】[twmb / franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.6+. Producing, consuming, transacting, administrating, etc.
 * 【2024-07-16】[edoardottt / scilla](https://github.com/edoardottt/scilla) - Information Gathering tool \- DNS / Subdomains / Ports / Directories enumeration
 * 【2024-07-15】[taubyte / tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS)  A self\-hosted Vercel / Netlify / Cloudflare alternative 
@@ -1924,6 +1925,7 @@
 
 ## C++
 
+* 【2024-07-20】[Livox\-SDK / livox_ros_driver2](https://github.com/Livox-SDK/livox_ros_driver2) - Livox device driver under Ros(Compatible with ros and ros2), support Lidar HAP and Mid\-360 
 * 【2024-07-17】[ROCm / HIP](https://github.com/ROCm/HIP) - HIP: C++ Heterogeneous\-Compute Interface for Portability
 * 【2024-07-17】[strawberrymusicplayer / strawberry](https://github.com/strawberrymusicplayer/strawberry) - 🍓 Strawberry Music Player
 * 【2024-07-13】[qiayuanl / legged_control](https://github.com/qiayuanl/legged_control) - Nonlinear MPC and WBC framework for legged robot based on OCS2 and ros\-controls
@@ -3557,6 +3559,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-20】[kando\-menu / kando](https://github.com/kando-menu/kando) - 🥧 The Cross\-Platform Pie Menu 
 * 【2024-07-17】[resend / react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 * 【2024-07-17】[codercup / unibest](https://github.com/codercup/unibest) - unibest \- 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。
 * 【2024-07-16】[resend / react\-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
