@@ -1264,6 +1264,7 @@
 
 ## Javascript
 
+* 【2024-07-21】[kevin\-mizu / domloggerpp](https://github.com/kevin-mizu/domloggerpp) - A browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on customizable configurations 
 * 【2024-07-19】[cavi\-au / Consent\-O\-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
 * 【2024-07-09】[evidence\-dev / evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
 * 【2024-07-07】[metafloor / bwip\-js](https://github.com/metafloor/bwip-js) - Barcode Writer in Pure JavaScript
@@ -1544,6 +1545,8 @@
 
 ## Go
 
+* 【2024-07-21】[quackduck / devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
+* 【2024-07-21】[oliver006 / redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for ValKey & Redis Metrics  Supports ValKey and Redis 2 x, 3 x, 4 x, 5 x, 6 x, and 7 x
 * 【2024-07-20】[GoogleCloudPlatform / golang\-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language 
 * 【2024-07-17】[twmb / franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.6+. Producing, consuming, transacting, administrating, etc.
 * 【2024-07-16】[edoardottt / scilla](https://github.com/edoardottt/scilla) - Information Gathering tool \- DNS / Subdomains / Ports / Directories enumeration
@@ -3132,6 +3135,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-21】[tokio\-rs / mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust 
 * 【2024-07-18】[dfinity / ic](https://github.com/dfinity/ic) - Internet Computer blockchain source: the client/replica software run by nodes
 * 【2024-07-18】[TraceMachina / nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high\-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE\-compatible build systems  It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings 
 * 【2024-07-17】[teloxide / teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
@@ -3559,6 +3563,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-21】[kando-menu / kando](https://github.com/kando-menu/kando) - 🥧 The Cross-Platform Pie Menu.
+* 【2024-07-21】[katspaugh / wavesurfer js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
+* 【2024-07-21】[stoplightio / prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations 
+* 【2024-07-21】[buqiyuan / vue3\-antdv\-admin](https://github.com/buqiyuan/vue3-antdv-admin) - 基于 vite5 x + vue3 x + ant\-design\-vue4 x + typescript hooks 的基础后台管理系统 RBAC的权限系统, JSON Schema动态表单,动态表格,锁屏界面
 * 【2024-07-20】[kando\-menu / kando](https://github.com/kando-menu/kando) - 🥧 The Cross\-Platform Pie Menu 
 * 【2024-07-17】[resend / react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 * 【2024-07-17】[codercup / unibest](https://github.com/codercup/unibest) - unibest \- 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。
