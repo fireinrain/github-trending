@@ -96,10 +96,10 @@ def write_markdown(lang, results, archived_contents):
     Write the results to markdown file
     """
     content = ''
-    with open('README.md', mode='r', encoding='utf-8') as f:
+    with open('TrendsHist.md', mode='r', encoding='utf-8') as f:
         content = f.read()
     content = convert_file_contenet(content, lang, results, archived_contents)
-    with open('README.md', mode='w', encoding='utf-8') as f:
+    with open('TrendsHist.md', mode='w', encoding='utf-8') as f:
         f.write(content)
 
 
