@@ -749,6 +749,7 @@
 
 ## Python
 
+* 【2024-07-22】[crewAIInc / crewAI\-examples](https://github.com/crewAIInc/crewAI-examples) - 
 * 【2024-07-18】[run-llama / llama_parse](https://github.com/run-llama/llama_parse) - Parse files for optimal RAG
 * 【2024-07-17】[mem0ai / mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 * 【2024-07-14】[opendatalab / MinerU](https://github.com/opendatalab/MinerU) - MinerU is a one\-stop, open\-source, high\-quality data extraction tool, supports PDF/webpage/e\-book extraction 一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
@@ -1545,6 +1546,7 @@
 
 ## Go
 
+* 【2024-07-22】[kkdai / youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 * 【2024-07-21】[quackduck / devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 * 【2024-07-21】[oliver006 / redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for ValKey & Redis Metrics  Supports ValKey and Redis 2 x, 3 x, 4 x, 5 x, 6 x, and 7 x
 * 【2024-07-20】[GoogleCloudPlatform / golang\-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language 
@@ -1928,6 +1930,7 @@
 
 ## C++
 
+* 【2024-07-22】[OGRECave / ogre](https://github.com/OGRECave/ogre) - scene\-oriented, flexible 3D engine (C++, Python, C\#, Java)
 * 【2024-07-20】[Livox\-SDK / livox_ros_driver2](https://github.com/Livox-SDK/livox_ros_driver2) - Livox device driver under Ros(Compatible with ros and ros2), support Lidar HAP and Mid\-360 
 * 【2024-07-17】[ROCm / HIP](https://github.com/ROCm/HIP) - HIP: C++ Heterogeneous\-Compute Interface for Portability
 * 【2024-07-17】[strawberrymusicplayer / strawberry](https://github.com/strawberrymusicplayer/strawberry) - 🍓 Strawberry Music Player
@@ -2106,6 +2109,7 @@
 
 ## C#
 
+* 【2024-07-22】[Cysharp / Ulid](https://github.com/Cysharp/Ulid) - Fast  NET C\# Implementation of ULID for  NET and Unity 
 * 【2024-07-15】[Exiled\-Team / EXILED](https://github.com/Exiled-Team/EXILED) - A high\-level plugin framework for SCP: Secret Laboratory servers  It offers an event system for developers to hook in order to manipulate or change game code, or implement their own functions 
 * 【2024-07-11】[cairoshell / cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows 
 * 【2024-07-11】[DbUp / DbUp](https://github.com/DbUp/DbUp) - DbUp is a  NET library that helps you to deploy changes to SQL Server databases  It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date 
@@ -2660,6 +2664,7 @@
 
 ## Unknown
 
+* 【2024-07-22】[Cyfrin / foundry\-full\-course\-cu](https://github.com/Cyfrin/foundry-full-course-cu) - 
 * 【2024-07-19】[miss\-mumu / developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 * 【2024-07-16】[xlenore / ps2\-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
 * 【2024-07-08】[praetorian\-inc / Hob0Rules](https://github.com/praetorian-inc/Hob0Rules) - Password cracking rules for Hashcat based on statistics and industry patterns
