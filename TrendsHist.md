@@ -725,6 +725,7 @@
 
 ## Python
 
+* 【2024-07-23】[crewAIInc / crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role\-playing, autonomous AI agents  By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks 
 * 【2024-07-22】[crewAIInc / crewAI\-examples](https://github.com/crewAIInc/crewAI-examples) - 
 * 【2024-07-18】[run-llama / llama_parse](https://github.com/run-llama/llama_parse) - Parse files for optimal RAG
 * 【2024-07-17】[mem0ai / mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
@@ -2640,6 +2641,7 @@
 
 ## Unknown
 
+* 【2024-07-23】[rothgar / awesome\-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 * 【2024-07-22】[Cyfrin / foundry\-full\-course\-cu](https://github.com/Cyfrin/foundry-full-course-cu) - 
 * 【2024-07-19】[miss\-mumu / developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 * 【2024-07-16】[xlenore / ps2\-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
@@ -3116,6 +3118,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-23】[barter\-rs / barter\-rs](https://github.com/barter-rs/barter-rs) - Open\-source Rust framework for building event\-driven live\-trading & backtesting systems
+* 【2024-07-23】[BitBoxSwiss / bitbox02\-firmware](https://github.com/BitBoxSwiss/bitbox02-firmware) - Firmware code of the BitBox02 hardware wallet
 * 【2024-07-21】[tokio\-rs / mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust 
 * 【2024-07-18】[dfinity / ic](https://github.com/dfinity/ic) - Internet Computer blockchain source: the client/replica software run by nodes
 * 【2024-07-18】[TraceMachina / nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high\-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE\-compatible build systems  It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings 
@@ -3544,6 +3548,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-23】[Zettlr / Zettlr](https://github.com/Zettlr/Zettlr) - Your One\-Stop Publication Workbench
 * 【2024-07-21】[kando-menu / kando](https://github.com/kando-menu/kando) - 🥧 The Cross-Platform Pie Menu.
 * 【2024-07-21】[katspaugh / wavesurfer js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 * 【2024-07-21】[stoplightio / prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations 
