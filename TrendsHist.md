@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-07-24】[careywyr / UnderstandingDeepLearning\-ZH\-CN](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN) - UnderstandingDeepLearing中文翻译
+* 【2024-07-24】[sinaatalay / rendercv](https://github.com/sinaatalay/rendercv) - A LaTeX CV/Resume Framework
 * 【2024-07-18】[neo4j-labs / llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
 * 【2024-07-16】[neo4j\-labs / llm\-graph\-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
 * 【2024-07-13】[apify / crawlee\-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers  Extract data for AI, LLMs, RAG, or GPTs  Download HTML, PDF, JPG, PNG, and other files from websites  Works with BeautifulSoup, Playwright, and raw HTTP  Both headful and headless mode  With proxy rotation 
@@ -1719,6 +1721,8 @@
 
 ## C
 
+* 【2024-07-24】[microsoft / ebpf\-for\-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
+* 【2024-07-24】[viti95 / FastDoom](https://github.com/viti95/FastDoom) - Doom port for DOS, optimized to be as fast as possible!
 * 【2024-07-19】[siduck / chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 * 【2024-07-18】[IvorySQL / IvorySQL](https://github.com/IvorySQL/IvorySQL) - Open Source Oracle Compatible PostgreSQL 
 * 【2024-07-13】[ARM-software / CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) - CMSIS-DSP embedded compute library for Cortex-M and Cortex-A
@@ -3118,6 +3122,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-24】[ogham / exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’ 
 * 【2024-07-23】[barter\-rs / barter\-rs](https://github.com/barter-rs/barter-rs) - Open\-source Rust framework for building event\-driven live\-trading & backtesting systems
 * 【2024-07-23】[BitBoxSwiss / bitbox02\-firmware](https://github.com/BitBoxSwiss/bitbox02-firmware) - Firmware code of the BitBox02 hardware wallet
 * 【2024-07-21】[tokio\-rs / mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust 
@@ -3548,6 +3553,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-24】[katspaugh / wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
+* 【2024-07-24】[plouc / nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 * 【2024-07-23】[Zettlr / Zettlr](https://github.com/Zettlr/Zettlr) - Your One\-Stop Publication Workbench
 * 【2024-07-21】[kando-menu / kando](https://github.com/kando-menu/kando) - 🥧 The Cross-Platform Pie Menu.
 * 【2024-07-21】[katspaugh / wavesurfer js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
