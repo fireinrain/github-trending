@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-07-25】[Netflix / maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 * 【2024-07-24】[careywyr / UnderstandingDeepLearning\-ZH\-CN](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN) - UnderstandingDeepLearing中文翻译
 * 【2024-07-24】[sinaatalay / rendercv](https://github.com/sinaatalay/rendercv) - A LaTeX CV/Resume Framework
 * 【2024-07-18】[neo4j-labs / llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
@@ -1244,6 +1245,7 @@
 
 ## Javascript
 
+* 【2024-07-25】[PrismJS / prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting 
 * 【2024-07-21】[kevin\-mizu / domloggerpp](https://github.com/kevin-mizu/domloggerpp) - A browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on customizable configurations 
 * 【2024-07-19】[cavi\-au / Consent\-O\-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
 * 【2024-07-09】[evidence\-dev / evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in pure SQL and markdown
@@ -1525,6 +1527,7 @@
 
 ## Go
 
+* 【2024-07-25】[progrium / darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go  Previously known as MacDriver
 * 【2024-07-22】[kkdai / youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 * 【2024-07-21】[quackduck / devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 * 【2024-07-21】[oliver006 / redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for ValKey & Redis Metrics  Supports ValKey and Redis 2 x, 3 x, 4 x, 5 x, 6 x, and 7 x
@@ -1721,6 +1724,7 @@
 
 ## C
 
+* 【2024-07-25】[microsoft / ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
 * 【2024-07-24】[microsoft / ebpf\-for\-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
 * 【2024-07-24】[viti95 / FastDoom](https://github.com/viti95/FastDoom) - Doom port for DOS, optimized to be as fast as possible!
 * 【2024-07-19】[siduck / chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
@@ -2315,6 +2319,7 @@
 
 ## Html
 
+* 【2024-07-25】[OCA / product-attribute](https://github.com/OCA/product-attribute) - Odoo Product Attribute
 * 【2024-07-18】[trigaten / The_Prompt_Report](https://github.com/trigaten/The_Prompt_Report) - 
 * 【2024-07-11】[Show-Me-the-Code / python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version.
 * 【2024-07-10】[paulirish / lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
@@ -2645,6 +2650,7 @@
 
 ## Unknown
 
+* 【2024-07-25】[onceupon / Bash\-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One\-Liners and terminal tricks for data processing and Linux system maintenance 
 * 【2024-07-23】[rothgar / awesome\-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 * 【2024-07-22】[Cyfrin / foundry\-full\-course\-cu](https://github.com/Cyfrin/foundry-full-course-cu) - 
 * 【2024-07-19】[miss\-mumu / developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
@@ -3122,6 +3128,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-25】[cloudflare / workers\-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 * 【2024-07-24】[ogham / exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’ 
 * 【2024-07-23】[barter\-rs / barter\-rs](https://github.com/barter-rs/barter-rs) - Open\-source Rust framework for building event\-driven live\-trading & backtesting systems
 * 【2024-07-23】[BitBoxSwiss / bitbox02\-firmware](https://github.com/BitBoxSwiss/bitbox02-firmware) - Firmware code of the BitBox02 hardware wallet
