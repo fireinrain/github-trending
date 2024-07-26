@@ -728,6 +728,8 @@
 
 ## Python
 
+* 【2024-07-26】[ollama / ollama\-python](https://github.com/ollama/ollama-python) - Ollama Python library
+* 【2024-07-26】[google\-research / neuralgcm](https://github.com/google-research/neuralgcm) - Hybrid ML + physics model of the Earth's atmosphere
 * 【2024-07-23】[crewAIInc / crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role\-playing, autonomous AI agents  By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks 
 * 【2024-07-22】[crewAIInc / crewAI\-examples](https://github.com/crewAIInc/crewAI-examples) - 
 * 【2024-07-18】[run-llama / llama_parse](https://github.com/run-llama/llama_parse) - Parse files for optimal RAG
@@ -2319,6 +2321,7 @@
 
 ## Html
 
+* 【2024-07-26】[riggraz / no\-style\-please](https://github.com/riggraz/no-style-please) - A (nearly) no\-CSS, fast, minimalist Jekyll theme 
 * 【2024-07-25】[OCA / product-attribute](https://github.com/OCA/product-attribute) - Odoo Product Attribute
 * 【2024-07-18】[trigaten / The_Prompt_Report](https://github.com/trigaten/The_Prompt_Report) - 
 * 【2024-07-11】[Show-Me-the-Code / python](https://github.com/Show-Me-the-Code/python) - Show Me the Code Python version.
@@ -3128,6 +3131,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-26】[jtroo / kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 * 【2024-07-25】[cloudflare / workers\-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 * 【2024-07-24】[ogham / exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’ 
 * 【2024-07-23】[barter\-rs / barter\-rs](https://github.com/barter-rs/barter-rs) - Open\-source Rust framework for building event\-driven live\-trading & backtesting systems
@@ -3560,6 +3564,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-26】[microsoft / vscode\-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code 
 * 【2024-07-24】[katspaugh / wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 * 【2024-07-24】[plouc / nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 * 【2024-07-23】[Zettlr / Zettlr](https://github.com/Zettlr/Zettlr) - Your One\-Stop Publication Workbench
