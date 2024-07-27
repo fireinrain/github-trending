@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-07-27】[FishHawk / auto\-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 * 【2024-07-25】[Netflix / maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 * 【2024-07-24】[careywyr / UnderstandingDeepLearning\-ZH\-CN](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN) - UnderstandingDeepLearing中文翻译
 * 【2024-07-24】[sinaatalay / rendercv](https://github.com/sinaatalay/rendercv) - A LaTeX CV/Resume Framework
@@ -564,6 +565,7 @@
 
 ## Java
 
+* 【2024-07-27】[TimefoldAI / timefold\-solver](https://github.com/TimefoldAI/timefold-solver) - The open source Solver AI for Java, Python and Kotlin to optimize scheduling and routing  Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems 
 * 【2024-07-04】[apache / gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high\-performance, geo\-distributed and federated metadata lake 
 * 【2024-07-03】[kermitt2 / grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 * 【2024-07-01】[unicode\-org / cldr](https://github.com/unicode-org/cldr) - The home of the Unicode Common Locale Data Repository
@@ -728,6 +730,7 @@
 
 ## Python
 
+* 【2024-07-27】[ollama / ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 * 【2024-07-26】[ollama / ollama\-python](https://github.com/ollama/ollama-python) - Ollama Python library
 * 【2024-07-26】[google\-research / neuralgcm](https://github.com/google-research/neuralgcm) - Hybrid ML + physics model of the Earth's atmosphere
 * 【2024-07-23】[crewAIInc / crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role\-playing, autonomous AI agents  By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks 
@@ -1917,6 +1920,7 @@
 
 ## C++
 
+* 【2024-07-27】[pytorch / FBGEMM](https://github.com/pytorch/FBGEMM) - FB (Facebook) + GEMM (General Matrix\-Matrix Multiplication) \- https://code fb com/ml\-applications/fbgemm/
 * 【2024-07-22】[OGRECave / ogre](https://github.com/OGRECave/ogre) - scene\-oriented, flexible 3D engine (C++, Python, C\#, Java)
 * 【2024-07-20】[Livox\-SDK / livox_ros_driver2](https://github.com/Livox-SDK/livox_ros_driver2) - Livox device driver under Ros(Compatible with ros and ros2), support Lidar HAP and Mid\-360 
 * 【2024-07-17】[ROCm / HIP](https://github.com/ROCm/HIP) - HIP: C++ Heterogeneous\-Compute Interface for Portability
