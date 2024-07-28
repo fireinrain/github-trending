@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-07-28】[freeCodeCamp / devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
+* 【2024-07-28】[FishHawk / auto-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 * 【2024-07-27】[FishHawk / auto\-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 * 【2024-07-25】[Netflix / maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 * 【2024-07-24】[careywyr / UnderstandingDeepLearning\-ZH\-CN](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN) - UnderstandingDeepLearing中文翻译
@@ -565,6 +567,7 @@
 
 ## Java
 
+* 【2024-07-28】[apache / fury](https://github.com/apache/fury) - A blazingly fast multi\-language serialization framework powered by JIT and zero\-copy 
 * 【2024-07-27】[TimefoldAI / timefold\-solver](https://github.com/TimefoldAI/timefold-solver) - The open source Solver AI for Java, Python and Kotlin to optimize scheduling and routing  Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems 
 * 【2024-07-04】[apache / gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high\-performance, geo\-distributed and federated metadata lake 
 * 【2024-07-03】[kermitt2 / grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
@@ -730,6 +733,8 @@
 
 ## Python
 
+* 【2024-07-28】[Chenyme / Chenyme\-AAVT](https://github.com/Chenyme/Chenyme-AAVT) - 这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。
+* 【2024-07-28】[stamparm / maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 * 【2024-07-27】[ollama / ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 * 【2024-07-26】[ollama / ollama\-python](https://github.com/ollama/ollama-python) - Ollama Python library
 * 【2024-07-26】[google\-research / neuralgcm](https://github.com/google-research/neuralgcm) - Hybrid ML + physics model of the Earth's atmosphere
@@ -1250,6 +1255,7 @@
 
 ## Javascript
 
+* 【2024-07-28】[jquery / jquery\-ui](https://github.com/jquery/jquery-ui) - The official jQuery user interface library 
 * 【2024-07-25】[PrismJS / prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting 
 * 【2024-07-21】[kevin\-mizu / domloggerpp](https://github.com/kevin-mizu/domloggerpp) - A browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on customizable configurations 
 * 【2024-07-19】[cavi\-au / Consent\-O\-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
@@ -1532,6 +1538,7 @@
 
 ## Go
 
+* 【2024-07-28】[cyclops\-ui / cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 * 【2024-07-25】[progrium / darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go  Previously known as MacDriver
 * 【2024-07-22】[kkdai / youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
 * 【2024-07-21】[quackduck / devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
@@ -1729,6 +1736,7 @@
 
 ## C
 
+* 【2024-07-28】[bol-van / zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 * 【2024-07-25】[microsoft / ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
 * 【2024-07-24】[microsoft / ebpf\-for\-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
 * 【2024-07-24】[viti95 / FastDoom](https://github.com/viti95/FastDoom) - Doom port for DOS, optimized to be as fast as possible!
@@ -3135,6 +3143,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-28】[Gankra / cargo\-mommy](https://github.com/Gankra/cargo-mommy) - Mommy's here to support you when running cargo~
 * 【2024-07-26】[jtroo / kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 * 【2024-07-25】[cloudflare / workers\-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 * 【2024-07-24】[ogham / exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’ 
@@ -3568,6 +3577,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-28】[sindresorhus / ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
+* 【2024-07-28】[pavlobu / deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer  ⭐️ Star to support our work!
+* 【2024-07-28】[ollama / ollama\-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 * 【2024-07-26】[microsoft / vscode\-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code 
 * 【2024-07-24】[katspaugh / wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 * 【2024-07-24】[plouc / nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
