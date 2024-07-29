@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-07-29】[OpenGenerativeAI / llm\-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM
 * 【2024-07-28】[freeCodeCamp / devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 * 【2024-07-28】[FishHawk / auto-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 * 【2024-07-27】[FishHawk / auto\-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
@@ -733,6 +734,7 @@
 
 ## Python
 
+* 【2024-07-29】[patched\-codes / patchwork](https://github.com/patched-codes/patchwork) - Automate development gruntwwork like code reviews, patching and documentation with LLM workflows 
 * 【2024-07-28】[Chenyme / Chenyme\-AAVT](https://github.com/Chenyme/Chenyme-AAVT) - 这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。
 * 【2024-07-28】[stamparm / maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 * 【2024-07-27】[ollama / ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
@@ -1538,6 +1540,7 @@
 
 ## Go
 
+* 【2024-07-29】[cyclops-ui / cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 * 【2024-07-28】[cyclops\-ui / cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 * 【2024-07-25】[progrium / darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go  Previously known as MacDriver
 * 【2024-07-22】[kkdai / youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
@@ -1736,6 +1739,7 @@
 
 ## C
 
+* 【2024-07-29】[hanwckf / bl\-mt798x](https://github.com/hanwckf/bl-mt798x) - ATF and u\-boot for mt798x 
 * 【2024-07-28】[bol-van / zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 * 【2024-07-25】[microsoft / ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
 * 【2024-07-24】[microsoft / ebpf\-for\-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
@@ -1928,6 +1932,7 @@
 
 ## C++
 
+* 【2024-07-29】[elfmz / far2l](https://github.com/elfmz/far2l) - Linux port of FAR v2
 * 【2024-07-27】[pytorch / FBGEMM](https://github.com/pytorch/FBGEMM) - FB (Facebook) + GEMM (General Matrix\-Matrix Multiplication) \- https://code fb com/ml\-applications/fbgemm/
 * 【2024-07-22】[OGRECave / ogre](https://github.com/OGRECave/ogre) - scene\-oriented, flexible 3D engine (C++, Python, C\#, Java)
 * 【2024-07-20】[Livox\-SDK / livox_ros_driver2](https://github.com/Livox-SDK/livox_ros_driver2) - Livox device driver under Ros(Compatible with ros and ros2), support Lidar HAP and Mid\-360 
@@ -2333,6 +2338,7 @@
 
 ## Html
 
+* 【2024-07-29】[a1ex4 / ownfoil](https://github.com/a1ex4/ownfoil) - Lightweight and customizable Tinfoil Shop manager, with automatic saves backup 
 * 【2024-07-26】[riggraz / no\-style\-please](https://github.com/riggraz/no-style-please) - A (nearly) no\-CSS, fast, minimalist Jekyll theme 
 * 【2024-07-25】[OCA / product-attribute](https://github.com/OCA/product-attribute) - Odoo Product Attribute
 * 【2024-07-18】[trigaten / The_Prompt_Report](https://github.com/trigaten/The_Prompt_Report) - 
@@ -2665,6 +2671,7 @@
 
 ## Unknown
 
+* 【2024-07-29】[miss-mumu / developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 * 【2024-07-25】[onceupon / Bash\-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One\-Liners and terminal tricks for data processing and Linux system maintenance 
 * 【2024-07-23】[rothgar / awesome\-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 * 【2024-07-22】[Cyfrin / foundry\-full\-course\-cu](https://github.com/Cyfrin/foundry-full-course-cu) - 
@@ -3143,6 +3150,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-07-29】[Gankra / cargo-mommy](https://github.com/Gankra/cargo-mommy) - Mommy's here to support you when running cargo~
+* 【2024-07-29】[raphamorim / rio](https://github.com/raphamorim/rio) - A hardware\-accelerated GPU terminal emulator focusing to run in desktops and browsers 
 * 【2024-07-28】[Gankra / cargo\-mommy](https://github.com/Gankra/cargo-mommy) - Mommy's here to support you when running cargo~
 * 【2024-07-26】[jtroo / kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 * 【2024-07-25】[cloudflare / workers\-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
@@ -3577,6 +3586,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-07-29】[ollama / ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 * 【2024-07-28】[sindresorhus / ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 * 【2024-07-28】[pavlobu / deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer  ⭐️ Star to support our work!
 * 【2024-07-28】[ollama / ollama\-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
