@@ -1257,6 +1257,7 @@
 
 ## Javascript
 
+* 【2024-07-30】[spicetify / cli](https://github.com/spicetify/cli) - Command\-line tool to customize Spotify client  Supports Windows, MacOS, and Linux 
 * 【2024-07-28】[jquery / jquery\-ui](https://github.com/jquery/jquery-ui) - The official jQuery user interface library 
 * 【2024-07-25】[PrismJS / prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting 
 * 【2024-07-21】[kevin\-mizu / domloggerpp](https://github.com/kevin-mizu/domloggerpp) - A browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on customizable configurations 
@@ -1739,6 +1740,7 @@
 
 ## C
 
+* 【2024-07-30】[c3lang / c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 * 【2024-07-29】[hanwckf / bl\-mt798x](https://github.com/hanwckf/bl-mt798x) - ATF and u\-boot for mt798x 
 * 【2024-07-28】[bol-van / zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 * 【2024-07-25】[microsoft / ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
@@ -2671,6 +2673,7 @@
 
 ## Unknown
 
+* 【2024-07-30】[onceupon / Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 * 【2024-07-29】[miss-mumu / developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 * 【2024-07-25】[onceupon / Bash\-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One\-Liners and terminal tricks for data processing and Linux system maintenance 
 * 【2024-07-23】[rothgar / awesome\-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
