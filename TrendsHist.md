@@ -734,6 +734,8 @@
 
 ## Python
 
+* 【2024-08-01】[DAGWorks\-Inc / burr](https://github.com/DAGWorks-Inc/burr) - Build applications that make decisions (chatbots, agents, simulations, etc   )  Monitor, trace, persist, and execute on your own infrastructure 
+* 【2024-08-01】[usnistgov / dioptra](https://github.com/usnistgov/dioptra) - Test Software for the Characterization of AI Technologies
 * 【2024-07-31】[patched-codes / patchwork](https://github.com/patched-codes/patchwork) - Automate development gruntwork like code reviews, patching and documentation with LLM workflows.
 * 【2024-07-31】[TDAmeritrade / stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for modern time series analysis
 * 【2024-07-31】[healthchecks / healthchecks](https://github.com/healthchecks/healthchecks) - Open\-source cron job and background task monitoring service, written in Python & Django
@@ -2121,6 +2123,7 @@
 
 ## C#
 
+* 【2024-08-01】[PunishXIV / Artisan](https://github.com/PunishXIV/Artisan) - A 'simple' crafting plugin 
 * 【2024-07-22】[Cysharp / Ulid](https://github.com/Cysharp/Ulid) - Fast  NET C\# Implementation of ULID for  NET and Unity 
 * 【2024-07-15】[Exiled\-Team / EXILED](https://github.com/Exiled-Team/EXILED) - A high\-level plugin framework for SCP: Secret Laboratory servers  It offers an event system for developers to hook in order to manipulate or change game code, or implement their own functions 
 * 【2024-07-11】[cairoshell / cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows 
@@ -2346,6 +2349,7 @@
 
 ## Html
 
+* 【2024-08-01】[Esri / calcite\-design\-system](https://github.com/Esri/calcite-design-system) - A monorepo containing the packages for Esri's Calcite Design System
 * 【2024-07-29】[a1ex4 / ownfoil](https://github.com/a1ex4/ownfoil) - Lightweight and customizable Tinfoil Shop manager, with automatic saves backup 
 * 【2024-07-26】[riggraz / no\-style\-please](https://github.com/riggraz/no-style-please) - A (nearly) no\-CSS, fast, minimalist Jekyll theme 
 * 【2024-07-25】[OCA / product-attribute](https://github.com/OCA/product-attribute) - Odoo Product Attribute
@@ -3159,6 +3163,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-01】[mbecker20 / monitor](https://github.com/mbecker20/monitor) - 🦎 a tool to build and deploy software on many servers 🦎
 * 【2024-07-29】[Gankra / cargo-mommy](https://github.com/Gankra/cargo-mommy) - Mommy's here to support you when running cargo~
 * 【2024-07-29】[raphamorim / rio](https://github.com/raphamorim/rio) - A hardware\-accelerated GPU terminal emulator focusing to run in desktops and browsers 
 * 【2024-07-28】[Gankra / cargo\-mommy](https://github.com/Gankra/cargo-mommy) - Mommy's here to support you when running cargo~
@@ -3595,6 +3600,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-01】[shoelace-style / shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
+* 【2024-08-01】[buqiyuan / vue3-antdv-admin](https://github.com/buqiyuan/vue3-antdv-admin) - 基于 vite5.x + vue3.x + ant-design-vue4.x + typescript hooks 的基础后台管理系统 RBAC的权限系统, JSON Schema动态表单,动态表格,锁屏界面
 * 【2024-07-31】[ionic-team / capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 * 【2024-07-31】[aws-samples / generative-ai-use-cases-jp](https://github.com/aws-samples/generative-ai-use-cases-jp) - すぐに業務活用できるビジネスユースケース集付きの安全な生成AIアプリ実装
 * 【2024-07-29】[ollama / ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
