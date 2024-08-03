@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-08-03】[teaxyz / white\-paper](https://github.com/teaxyz/white-paper) - how will the protocol work?
 * 【2024-08-02】[RedisInsight / RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
 * 【2024-07-29】[OpenGenerativeAI / llm\-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM
 * 【2024-07-28】[freeCodeCamp / devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
@@ -569,6 +570,7 @@
 
 ## Java
 
+* 【2024-08-03】[mcastillof / FakeTraveler](https://github.com/mcastillof/FakeTraveler) - Fake where your phone is located (Mock location for Android) 
 * 【2024-08-02】[java\-native\-access / jna](https://github.com/java-native-access/jna) - Java Native Access
 * 【2024-07-28】[apache / fury](https://github.com/apache/fury) - A blazingly fast multi\-language serialization framework powered by JIT and zero\-copy 
 * 【2024-07-27】[TimefoldAI / timefold\-solver](https://github.com/TimefoldAI/timefold-solver) - The open source Solver AI for Java, Python and Kotlin to optimize scheduling and routing  Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems 
@@ -1266,6 +1268,7 @@
 
 ## Javascript
 
+* 【2024-08-03】[CanadaHonk / porffor](https://github.com/CanadaHonk/porffor) - A from\-scratch experimental AOT JS engine, written in JS
 * 【2024-08-02】[tailwindlabs / tailwindcss\-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control 
 * 【2024-07-30】[spicetify / cli](https://github.com/spicetify/cli) - Command\-line tool to customize Spotify client  Supports Windows, MacOS, and Linux 
 * 【2024-07-28】[jquery / jquery\-ui](https://github.com/jquery/jquery-ui) - The official jQuery user interface library 
@@ -1751,6 +1754,7 @@
 
 ## C
 
+* 【2024-08-03】[asg017 / sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere.
 * 【2024-08-02】[basil00 / Divert](https://github.com/basil00/Divert) - WinDivert: Windows Packet Divert
 * 【2024-07-31】[valignatev / socd](https://github.com/valignatev/socd) - SOCD cleaner tool for epic gamers
 * 【2024-07-30】[c3lang / c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
@@ -2131,6 +2135,7 @@
 
 ## C#
 
+* 【2024-08-03】[openai / openai-dotnet](https://github.com/openai/openai-dotnet) - The official .NET library for the OpenAI API
 * 【2024-08-02】[openai / openai\-dotnet](https://github.com/openai/openai-dotnet) - The official  NET library for the OpenAI API
 * 【2024-08-01】[PunishXIV / Artisan](https://github.com/PunishXIV/Artisan) - A 'simple' crafting plugin 
 * 【2024-07-22】[Cysharp / Ulid](https://github.com/Cysharp/Ulid) - Fast  NET C\# Implementation of ULID for  NET and Unity 
