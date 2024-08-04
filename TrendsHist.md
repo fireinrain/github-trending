@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-08-04】[xvzc / SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti\-censorship tool written in Go
+* 【2024-08-04】[apache / apisix](https://github.com/apache/apisix) - The Cloud\-Native API Gateway
 * 【2024-08-03】[teaxyz / white\-paper](https://github.com/teaxyz/white-paper) - how will the protocol work?
 * 【2024-08-02】[RedisInsight / RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
 * 【2024-07-29】[OpenGenerativeAI / llm\-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM
@@ -570,6 +572,7 @@
 
 ## Java
 
+* 【2024-08-04】[krlvm / PowerTunnel](https://github.com/krlvm/PowerTunnel) - Powerful and extensible proxy server with anti\-censorship functionality
 * 【2024-08-03】[mcastillof / FakeTraveler](https://github.com/mcastillof/FakeTraveler) - Fake where your phone is located (Mock location for Android) 
 * 【2024-08-02】[java\-native\-access / jna](https://github.com/java-native-access/jna) - Java Native Access
 * 【2024-07-28】[apache / fury](https://github.com/apache/fury) - A blazingly fast multi\-language serialization framework powered by JIT and zero\-copy 
@@ -738,6 +741,7 @@
 
 ## Python
 
+* 【2024-08-04】[InternLM / lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM\-based agents
 * 【2024-08-02】[pytorch / torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 * 【2024-08-02】[ChaozhongLiu / DyberPet](https://github.com/ChaozhongLiu/DyberPet) - Desktop Cyber Pet Framework based on PySide6
 * 【2024-08-01】[DAGWorks\-Inc / burr](https://github.com/DAGWorks-Inc/burr) - Build applications that make decisions (chatbots, agents, simulations, etc   )  Monitor, trace, persist, and execute on your own infrastructure 
@@ -1268,6 +1272,7 @@
 
 ## Javascript
 
+* 【2024-08-04】[SadeghHayeri / GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti\-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites 
 * 【2024-08-03】[CanadaHonk / porffor](https://github.com/CanadaHonk/porffor) - A from\-scratch experimental AOT JS engine, written in JS
 * 【2024-08-02】[tailwindlabs / tailwindcss\-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control 
 * 【2024-07-30】[spicetify / cli](https://github.com/spicetify/cli) - Command\-line tool to customize Spotify client  Supports Windows, MacOS, and Linux 
@@ -3177,6 +3182,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-04】[rust-bakery / nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 * 【2024-08-02】[hickory\-dns / hickory\-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
 * 【2024-08-01】[mbecker20 / monitor](https://github.com/mbecker20/monitor) - 🦎 a tool to build and deploy software on many servers 🦎
 * 【2024-07-29】[Gankra / cargo-mommy](https://github.com/Gankra/cargo-mommy) - Mommy's here to support you when running cargo~
@@ -3615,6 +3621,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-04】[emilkowalski / vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React 
+* 【2024-08-04】[Tonejs / Tone js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser 
 * 【2024-08-02】[ssoready / ssoready](https://github.com/ssoready/ssoready) - Open\-source dev tools for enterprise SSO  Ship SAML support this afternoon 
 * 【2024-08-02】[reduxjs / redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
 * 【2024-08-02】[vue\-mini / vue\-mini](https://github.com/vue-mini/vue-mini) - 基于 Vue 3 的小程序框架。简单，强大，高性能。
