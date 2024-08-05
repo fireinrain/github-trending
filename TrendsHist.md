@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-08-05】[hufrea / byedpi](https://github.com/hufrea/byedpi) - Bypass DPI
 * 【2024-08-04】[xvzc / SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti\-censorship tool written in Go
 * 【2024-08-04】[apache / apisix](https://github.com/apache/apisix) - The Cloud\-Native API Gateway
 * 【2024-08-03】[teaxyz / white\-paper](https://github.com/teaxyz/white-paper) - how will the protocol work?
@@ -741,6 +742,7 @@
 
 ## Python
 
+* 【2024-08-05】[McGill\-NLP / llm2vec](https://github.com/McGill-NLP/llm2vec) - Code for 'LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders'
 * 【2024-08-04】[InternLM / lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM\-based agents
 * 【2024-08-02】[pytorch / torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
 * 【2024-08-02】[ChaozhongLiu / DyberPet](https://github.com/ChaozhongLiu/DyberPet) - Desktop Cyber Pet Framework based on PySide6
@@ -1759,6 +1761,7 @@
 
 ## C
 
+* 【2024-08-05】[pr3y / Bruce](https://github.com/pr3y/Bruce) - Firmware for m5stack Cardputer, StickC and ESP32
 * 【2024-08-03】[asg017 / sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere.
 * 【2024-08-02】[basil00 / Divert](https://github.com/basil00/Divert) - WinDivert: Windows Packet Divert
 * 【2024-07-31】[valignatev / socd](https://github.com/valignatev/socd) - SOCD cleaner tool for epic gamers
@@ -2140,6 +2143,8 @@
 
 ## C#
 
+* 【2024-08-05】[jumoog / intro\-skipper](https://github.com/jumoog/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
+* 【2024-08-05】[0x90d / videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Video Duplicate Finder \- Crossplatform
 * 【2024-08-03】[openai / openai-dotnet](https://github.com/openai/openai-dotnet) - The official .NET library for the OpenAI API
 * 【2024-08-02】[openai / openai\-dotnet](https://github.com/openai/openai-dotnet) - The official  NET library for the OpenAI API
 * 【2024-08-01】[PunishXIV / Artisan](https://github.com/PunishXIV/Artisan) - A 'simple' crafting plugin 
@@ -3621,6 +3626,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-05】[electron\-userland / electron\-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+* 【2024-08-05】[keldaanCommunity / pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess) - Pokemon Auto Chess Game  Made by fans for fans  Open source, non profit  All rights to the Pokemon Company 
+* 【2024-08-05】[Jonghakseo / chrome\-extension\-boilerplate\-react\-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
 * 【2024-08-04】[emilkowalski / vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React 
 * 【2024-08-04】[Tonejs / Tone js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser 
 * 【2024-08-02】[ssoready / ssoready](https://github.com/ssoready/ssoready) - Open\-source dev tools for enterprise SSO  Ship SAML support this afternoon 
