@@ -2143,6 +2143,7 @@
 
 ## C#
 
+* 【2024-08-06】[jumoog / intro-skipper](https://github.com/jumoog/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
 * 【2024-08-05】[jumoog / intro\-skipper](https://github.com/jumoog/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
 * 【2024-08-05】[0x90d / videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Video Duplicate Finder \- Crossplatform
 * 【2024-08-03】[openai / openai-dotnet](https://github.com/openai/openai-dotnet) - The official .NET library for the OpenAI API
@@ -3626,6 +3627,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-06】[Jigsaw\-Code / outline\-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw  The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management 
 * 【2024-08-05】[electron\-userland / electron\-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 * 【2024-08-05】[keldaanCommunity / pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess) - Pokemon Auto Chess Game  Made by fans for fans  Open source, non profit  All rights to the Pokemon Company 
 * 【2024-08-05】[Jonghakseo / chrome\-extension\-boilerplate\-react\-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
