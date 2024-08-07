@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-08-07】[trailofbits / multiplier](https://github.com/trailofbits/multiplier) - Code auditing productivity multiplier 
+* 【2024-08-07】[bghira / SimpleTuner](https://github.com/bghira/SimpleTuner) - A general fine\-tuning kit geared toward Stable Diffusion 2 1, Stable Diffusion 3, DeepFloyd, and SDXL 
 * 【2024-08-05】[hufrea / byedpi](https://github.com/hufrea/byedpi) - Bypass DPI
 * 【2024-08-04】[xvzc / SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti\-censorship tool written in Go
 * 【2024-08-04】[apache / apisix](https://github.com/apache/apisix) - The Cloud\-Native API Gateway
@@ -1274,6 +1276,7 @@
 
 ## Javascript
 
+* 【2024-08-07】[hackthedev / dcts\-shipping](https://github.com/hackthedev/dcts-shipping) - A Chat Platform like Discord but self\-hostable like TeamSpeak
 * 【2024-08-04】[SadeghHayeri / GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti\-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites 
 * 【2024-08-03】[CanadaHonk / porffor](https://github.com/CanadaHonk/porffor) - A from\-scratch experimental AOT JS engine, written in JS
 * 【2024-08-02】[tailwindlabs / tailwindcss\-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control 
@@ -1561,6 +1564,7 @@
 
 ## Go
 
+* 【2024-08-07】[encoredev / encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform for building distributed systems and event\-driven applications 
 * 【2024-08-02】[KindlingProject / kindling](https://github.com/KindlingProject/kindling) - eBPF\-based Cloud Native Monitoring Tool
 * 【2024-07-29】[cyclops-ui / cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 * 【2024-07-28】[cyclops\-ui / cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
@@ -1761,6 +1765,7 @@
 
 ## C
 
+* 【2024-08-07】[ataradov / usb\-sniffer\-lite](https://github.com/ataradov/usb-sniffer-lite) - A simple USB sniffer based on Raspberry Pi RP2040
 * 【2024-08-05】[pr3y / Bruce](https://github.com/pr3y/Bruce) - Firmware for m5stack Cardputer, StickC and ESP32
 * 【2024-08-03】[asg017 / sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere.
 * 【2024-08-02】[basil00 / Divert](https://github.com/basil00/Divert) - WinDivert: Windows Packet Divert
@@ -2143,6 +2148,7 @@
 
 ## C#
 
+* 【2024-08-07】[GitTools / GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 * 【2024-08-06】[jumoog / intro-skipper](https://github.com/jumoog/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
 * 【2024-08-05】[jumoog / intro\-skipper](https://github.com/jumoog/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
 * 【2024-08-05】[0x90d / videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Video Duplicate Finder \- Crossplatform
@@ -3188,6 +3194,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-07】[lovasoa / SQLpage](https://github.com/lovasoa/SQLpage) - SQL\-only webapp builder, empowering data analysts to build websites and applications quickly
 * 【2024-08-04】[rust-bakery / nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 * 【2024-08-02】[hickory\-dns / hickory\-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
 * 【2024-08-01】[mbecker20 / monitor](https://github.com/mbecker20/monitor) - 🦎 a tool to build and deploy software on many servers 🦎
