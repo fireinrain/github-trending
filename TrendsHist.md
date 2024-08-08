@@ -744,6 +744,7 @@
 
 ## Python
 
+* 【2024-08-08】[hacksider / Deep\-Live\-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one\-click video deepfake with only a single image (uncensored)
 * 【2024-08-05】[McGill\-NLP / llm2vec](https://github.com/McGill-NLP/llm2vec) - Code for 'LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders'
 * 【2024-08-04】[InternLM / lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM\-based agents
 * 【2024-08-02】[pytorch / torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
@@ -3194,6 +3195,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-08】[versotile\-org / verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
+* 【2024-08-08】[tauri-apps / wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
+* 【2024-08-08】[Feel\-ix\-343 / markdown\-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Robust, Minimalist, Unbundled PKM for use with your favorite text\-editor
 * 【2024-08-07】[lovasoa / SQLpage](https://github.com/lovasoa/SQLpage) - SQL\-only webapp builder, empowering data analysts to build websites and applications quickly
 * 【2024-08-04】[rust-bakery / nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 * 【2024-08-02】[hickory\-dns / hickory\-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
