@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-08-09】[hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
+* 【2024-08-09】[nerfstudio\-project / gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
 * 【2024-08-07】[trailofbits / multiplier](https://github.com/trailofbits/multiplier) - Code auditing productivity multiplier 
 * 【2024-08-07】[bghira / SimpleTuner](https://github.com/bghira/SimpleTuner) - A general fine\-tuning kit geared toward Stable Diffusion 2 1, Stable Diffusion 3, DeepFloyd, and SDXL 
 * 【2024-08-05】[hufrea / byedpi](https://github.com/hufrea/byedpi) - Bypass DPI
@@ -744,6 +746,7 @@
 
 ## Python
 
+* 【2024-08-09】[pytorch / rl](https://github.com/pytorch/rl) - A modular, primitive\-first, python\-first PyTorch library for Reinforcement Learning 
 * 【2024-08-08】[hacksider / Deep\-Live\-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one\-click video deepfake with only a single image (uncensored)
 * 【2024-08-05】[McGill\-NLP / llm2vec](https://github.com/McGill-NLP/llm2vec) - Code for 'LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders'
 * 【2024-08-04】[InternLM / lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM\-based agents
@@ -1565,6 +1568,7 @@
 
 ## Go
 
+* 【2024-08-09】[gabriel\-vasile / mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers
 * 【2024-08-07】[encoredev / encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform for building distributed systems and event\-driven applications 
 * 【2024-08-02】[KindlingProject / kindling](https://github.com/KindlingProject/kindling) - eBPF\-based Cloud Native Monitoring Tool
 * 【2024-07-29】[cyclops-ui / cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
@@ -1766,6 +1770,7 @@
 
 ## C
 
+* 【2024-08-09】[openocd\-org / openocd](https://github.com/openocd-org/openocd) - Official OpenOCD Read\-Only Mirror (no pull requests)
 * 【2024-08-07】[ataradov / usb\-sniffer\-lite](https://github.com/ataradov/usb-sniffer-lite) - A simple USB sniffer based on Raspberry Pi RP2040
 * 【2024-08-05】[pr3y / Bruce](https://github.com/pr3y/Bruce) - Firmware for m5stack Cardputer, StickC and ESP32
 * 【2024-08-03】[asg017 / sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere.
@@ -2715,6 +2720,7 @@
 
 ## Unknown
 
+* 【2024-08-09】[microsoft / powerbi\-desktop\-samples](https://github.com/microsoft/powerbi-desktop-samples) - Power BI Desktop sample files for the monthly release  Here you can find the PBIX files used in the monthly release videos 
 * 【2024-07-30】[onceupon / Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 * 【2024-07-29】[miss-mumu / developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 * 【2024-07-25】[onceupon / Bash\-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One\-Liners and terminal tricks for data processing and Linux system maintenance 
@@ -3195,6 +3201,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-09】[tokio\-rs / console](https://github.com/tokio-rs/console) - a debugger for async rust!
+* 【2024-08-09】[vnt\-dev / vnt](https://github.com/vnt-dev/vnt) - An efficient VPN  简便高效的异地组网、内网穿透工具
 * 【2024-08-08】[versotile\-org / verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 * 【2024-08-08】[tauri-apps / wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 * 【2024-08-08】[Feel\-ix\-343 / markdown\-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Robust, Minimalist, Unbundled PKM for use with your favorite text\-editor
@@ -3638,6 +3646,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-09】[certd / certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、更新、续期、部署安装，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
 * 【2024-08-06】[Jigsaw\-Code / outline\-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw  The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management 
 * 【2024-08-05】[electron\-userland / electron\-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 * 【2024-08-05】[keldaanCommunity / pokemonAutoChess](https://github.com/keldaanCommunity/pokemonAutoChess) - Pokemon Auto Chess Game  Made by fans for fans  Open source, non profit  All rights to the Pokemon Company 
