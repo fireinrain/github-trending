@@ -746,6 +746,7 @@
 
 ## Python
 
+* 【2024-08-10】[heshengtao / comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party) - Dify in comfyui is compatible with Omost,ChatTTS,access to Feishu,discord,and adapts to all models with similar openai interfaces, such as ollama, qwen, GLM, deepseek, moonshot,doubao  Adapted to local models such as llama/qwen/GLM,Linkage neo4j KG，Implemented the function of graphRAG Supports a variety of RAG 
 * 【2024-08-09】[pytorch / rl](https://github.com/pytorch/rl) - A modular, primitive\-first, python\-first PyTorch library for Reinforcement Learning 
 * 【2024-08-08】[hacksider / Deep\-Live\-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one\-click video deepfake with only a single image (uncensored)
 * 【2024-08-05】[McGill\-NLP / llm2vec](https://github.com/McGill-NLP/llm2vec) - Code for 'LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders'
@@ -1280,6 +1281,7 @@
 
 ## Javascript
 
+* 【2024-08-10】[cables\-gl / cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content
 * 【2024-08-07】[hackthedev / dcts\-shipping](https://github.com/hackthedev/dcts-shipping) - A Chat Platform like Discord but self\-hostable like TeamSpeak
 * 【2024-08-04】[SadeghHayeri / GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti\-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites 
 * 【2024-08-03】[CanadaHonk / porffor](https://github.com/CanadaHonk/porffor) - A from\-scratch experimental AOT JS engine, written in JS
@@ -2386,6 +2388,7 @@
 
 ## Html
 
+* 【2024-08-10】[seeingtheory / Seeing\-Theory](https://github.com/seeingtheory/Seeing-Theory) - A visual introduction to probability and statistics 
 * 【2024-08-01】[Esri / calcite\-design\-system](https://github.com/Esri/calcite-design-system) - A monorepo containing the packages for Esri's Calcite Design System
 * 【2024-07-29】[a1ex4 / ownfoil](https://github.com/a1ex4/ownfoil) - Lightweight and customizable Tinfoil Shop manager, with automatic saves backup 
 * 【2024-07-26】[riggraz / no\-style\-please](https://github.com/riggraz/no-style-please) - A (nearly) no\-CSS, fast, minimalist Jekyll theme 
@@ -2720,6 +2723,7 @@
 
 ## Unknown
 
+* 【2024-08-10】[joebew42 / study\-path](https://github.com/joebew42/study-path) - An organized learning path on Clean Code, Test\-Driven Development, Legacy Code, Refactoring, Domain\-Driven Design and Microservice Architecture
 * 【2024-08-09】[microsoft / powerbi\-desktop\-samples](https://github.com/microsoft/powerbi-desktop-samples) - Power BI Desktop sample files for the monthly release  Here you can find the PBIX files used in the monthly release videos 
 * 【2024-07-30】[onceupon / Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 * 【2024-07-29】[miss-mumu / developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
@@ -3646,6 +3650,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-10】[Kanaries / GWalkR](https://github.com/Kanaries/GWalkR) - Turn your data frame into a tableau style drag and drop UI interface to build visualization in R 
 * 【2024-08-09】[certd / certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、更新、续期、部署安装，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
 * 【2024-08-06】[Jigsaw\-Code / outline\-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw  The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management 
 * 【2024-08-05】[electron\-userland / electron\-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
