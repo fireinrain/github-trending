@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-08-11】[MahmoudAshraf97 / whisper\-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 * 【2024-08-09】[hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
 * 【2024-08-09】[nerfstudio\-project / gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
 * 【2024-08-07】[trailofbits / multiplier](https://github.com/trailofbits/multiplier) - Code auditing productivity multiplier 
@@ -577,6 +578,7 @@
 
 ## Java
 
+* 【2024-08-11】[spring\-projects / spring\-session](https://github.com/spring-projects/spring-session) - Spring Session
 * 【2024-08-04】[krlvm / PowerTunnel](https://github.com/krlvm/PowerTunnel) - Powerful and extensible proxy server with anti\-censorship functionality
 * 【2024-08-03】[mcastillof / FakeTraveler](https://github.com/mcastillof/FakeTraveler) - Fake where your phone is located (Mock location for Android) 
 * 【2024-08-02】[java\-native\-access / jna](https://github.com/java-native-access/jna) - Java Native Access
@@ -2156,6 +2158,8 @@
 
 ## C#
 
+* 【2024-08-11】[vawser / Smithbox](https://github.com/vawser/Smithbox) - Smithbox is a modding tool for Elden Ring, Armored Core VI, Sekiro, Dark Souls 3, Dark Souls 2, Dark Souls, Bloodborne and Demon's Souls 
+* 【2024-08-11】[arcusmaximus / YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - A tool for creating styled YouTube subtitles
 * 【2024-08-07】[GitTools / GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 * 【2024-08-06】[jumoog / intro-skipper](https://github.com/jumoog/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
 * 【2024-08-05】[jumoog / intro\-skipper](https://github.com/jumoog/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
@@ -3205,6 +3209,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-11】[pop\-os / cosmic\-settings](https://github.com/pop-os/cosmic-settings) - COSMIC Settings
+* 【2024-08-11】[wez / govee2mqtt](https://github.com/wez/govee2mqtt) - Govee2MQTT: Connect Govee lights and devices to Home Assistant
 * 【2024-08-09】[tokio\-rs / console](https://github.com/tokio-rs/console) - a debugger for async rust!
 * 【2024-08-09】[vnt\-dev / vnt](https://github.com/vnt-dev/vnt) - An efficient VPN  简便高效的异地组网、内网穿透工具
 * 【2024-08-08】[versotile\-org / verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
@@ -3650,6 +3656,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-11】[playcanvas / supersplat](https://github.com/playcanvas/supersplat) - 3D Gaussian Splat Editor
+* 【2024-08-11】[toss / es\-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2\-3 times faster and up to 97% smaller—a major upgrade to lodash 
+* 【2024-08-11】[tailwindlabs / headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS 
 * 【2024-08-10】[Kanaries / GWalkR](https://github.com/Kanaries/GWalkR) - Turn your data frame into a tableau style drag and drop UI interface to build visualization in R 
 * 【2024-08-09】[certd / certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、更新、续期、部署安装，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
 * 【2024-08-06】[Jigsaw\-Code / outline\-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw  The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management 
