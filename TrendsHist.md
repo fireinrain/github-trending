@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-08-12】[mbrg / power\-pwn](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
 * 【2024-08-11】[MahmoudAshraf97 / whisper\-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 * 【2024-08-09】[hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
 * 【2024-08-09】[nerfstudio\-project / gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
@@ -748,6 +749,8 @@
 
 ## Python
 
+* 【2024-08-12】[mbrg / power-pwn](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
+* 【2024-08-12】[Dicklesworthstone / llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) - Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections 
 * 【2024-08-10】[heshengtao / comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party) - Dify in comfyui is compatible with Omost,ChatTTS,access to Feishu,discord,and adapts to all models with similar openai interfaces, such as ollama, qwen, GLM, deepseek, moonshot,doubao  Adapted to local models such as llama/qwen/GLM,Linkage neo4j KG，Implemented the function of graphRAG Supports a variety of RAG 
 * 【2024-08-09】[pytorch / rl](https://github.com/pytorch/rl) - A modular, primitive\-first, python\-first PyTorch library for Reinforcement Learning 
 * 【2024-08-08】[hacksider / Deep\-Live\-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one\-click video deepfake with only a single image (uncensored)
@@ -1974,6 +1977,7 @@
 
 ## C++
 
+* 【2024-08-12】[raspberrypi / picotool](https://github.com/raspberrypi/picotool) - 
 * 【2024-08-02】[AdaptiveCpp / AdaptiveCpp](https://github.com/AdaptiveCpp/AdaptiveCpp) - Implementation of SYCL and C++ standard parallelism for CPUs and GPUs from all vendors: The independent, community\-driven compiler for C++\-based heterogeneous programming models  Lets applications adapt themselves to all the hardware in the system \- even at runtime!
 * 【2024-07-31】[vslavik / diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 * 【2024-07-31】[margelo / react\-native\-filament](https://github.com/margelo/react-native-filament) - 🐧 A real\-time physically based 3D rendering engine for React Native
@@ -2392,6 +2396,7 @@
 
 ## Html
 
+* 【2024-08-12】[nature-of-code / noc-book-2](https://github.com/nature-of-code/noc-book-2) - Nature of Code with p5.js and Notion workflow / build system.
 * 【2024-08-10】[seeingtheory / Seeing\-Theory](https://github.com/seeingtheory/Seeing-Theory) - A visual introduction to probability and statistics 
 * 【2024-08-01】[Esri / calcite\-design\-system](https://github.com/Esri/calcite-design-system) - A monorepo containing the packages for Esri's Calcite Design System
 * 【2024-07-29】[a1ex4 / ownfoil](https://github.com/a1ex4/ownfoil) - Lightweight and customizable Tinfoil Shop manager, with automatic saves backup 
@@ -3209,6 +3214,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-12】[pop-os / cosmic-settings](https://github.com/pop-os/cosmic-settings) - COSMIC Settings
+* 【2024-08-12】[FedericoBruzzone / tgt](https://github.com/FedericoBruzzone/tgt) - TUI for Telegram written in Rust 🦀
 * 【2024-08-11】[pop\-os / cosmic\-settings](https://github.com/pop-os/cosmic-settings) - COSMIC Settings
 * 【2024-08-11】[wez / govee2mqtt](https://github.com/wez/govee2mqtt) - Govee2MQTT: Connect Govee lights and devices to Home Assistant
 * 【2024-08-09】[tokio\-rs / console](https://github.com/tokio-rs/console) - a debugger for async rust!
@@ -3656,6 +3663,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-12】[shardeum / shardeum](https://github.com/shardeum/shardeum) - 
+* 【2024-08-12】[Uniswap / v2\-core](https://github.com/Uniswap/v2-core) - 🦄 🦄 Core smart contracts of Uniswap V2
+* 【2024-08-12】[nativewind / nativewind](https://github.com/nativewind/nativewind) - React Native utility\-first universal design system \- powered by Tailwind CSS
 * 【2024-08-11】[playcanvas / supersplat](https://github.com/playcanvas/supersplat) - 3D Gaussian Splat Editor
 * 【2024-08-11】[toss / es\-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2\-3 times faster and up to 97% smaller—a major upgrade to lodash 
 * 【2024-08-11】[tailwindlabs / headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS 
