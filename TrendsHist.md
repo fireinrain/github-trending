@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-08-13】[versotile-org / verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 * 【2024-08-12】[mbrg / power\-pwn](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
 * 【2024-08-11】[MahmoudAshraf97 / whisper\-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 * 【2024-08-09】[hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
@@ -579,6 +580,7 @@
 
 ## Java
 
+* 【2024-08-13】[KingContaria / seedqueue](https://github.com/KingContaria/seedqueue) - 
 * 【2024-08-11】[spring\-projects / spring\-session](https://github.com/spring-projects/spring-session) - Spring Session
 * 【2024-08-04】[krlvm / PowerTunnel](https://github.com/krlvm/PowerTunnel) - Powerful and extensible proxy server with anti\-censorship functionality
 * 【2024-08-03】[mcastillof / FakeTraveler](https://github.com/mcastillof/FakeTraveler) - Fake where your phone is located (Mock location for Android) 
@@ -2396,6 +2398,8 @@
 
 ## Html
 
+* 【2024-08-13】[tomfran / typo](https://github.com/tomfran/typo) - A simple Hugo theme
+* 【2024-08-13】[callummcdougall / ARENA_3 0](https://github.com/callummcdougall/ARENA_3.0) - 
 * 【2024-08-12】[nature-of-code / noc-book-2](https://github.com/nature-of-code/noc-book-2) - Nature of Code with p5.js and Notion workflow / build system.
 * 【2024-08-10】[seeingtheory / Seeing\-Theory](https://github.com/seeingtheory/Seeing-Theory) - A visual introduction to probability and statistics 
 * 【2024-08-01】[Esri / calcite\-design\-system](https://github.com/Esri/calcite-design-system) - A monorepo containing the packages for Esri's Calcite Design System
@@ -3214,6 +3218,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-13】[supabase / pg_replicate](https://github.com/supabase/pg_replicate) - 
 * 【2024-08-12】[pop-os / cosmic-settings](https://github.com/pop-os/cosmic-settings) - COSMIC Settings
 * 【2024-08-12】[FedericoBruzzone / tgt](https://github.com/FedericoBruzzone/tgt) - TUI for Telegram written in Rust 🦀
 * 【2024-08-11】[pop\-os / cosmic\-settings](https://github.com/pop-os/cosmic-settings) - COSMIC Settings
@@ -3663,6 +3668,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-13】[Vinzent03 / obsidian\-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic backup and other advanced features in Obsidian md
 * 【2024-08-12】[shardeum / shardeum](https://github.com/shardeum/shardeum) - 
 * 【2024-08-12】[Uniswap / v2\-core](https://github.com/Uniswap/v2-core) - 🦄 🦄 Core smart contracts of Uniswap V2
 * 【2024-08-12】[nativewind / nativewind](https://github.com/nativewind/nativewind) - React Native utility\-first universal design system \- powered by Tailwind CSS
