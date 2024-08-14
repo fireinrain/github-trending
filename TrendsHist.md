@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-08-14】[ostris / ai\-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts  Mostly Stable Diffusion stuff 
+* 【2024-08-14】[DroidKaigi / conference\-app\-2024](https://github.com/DroidKaigi/conference-app-2024) - The Official Conference App for DroidKaigi 2024
 * 【2024-08-13】[versotile-org / verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 * 【2024-08-12】[mbrg / power\-pwn](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
 * 【2024-08-11】[MahmoudAshraf97 / whisper\-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
@@ -751,6 +753,8 @@
 
 ## Python
 
+* 【2024-08-14】[ostris / ai-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts. Mostly Stable Diffusion stuff.
+* 【2024-08-14】[bitsandbytes\-foundation / bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) - Accessible large language models via k\-bit quantization for PyTorch 
 * 【2024-08-12】[mbrg / power-pwn](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
 * 【2024-08-12】[Dicklesworthstone / llm_aided_ocr](https://github.com/Dicklesworthstone/llm_aided_ocr) - Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections 
 * 【2024-08-10】[heshengtao / comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party) - Dify in comfyui is compatible with Omost,ChatTTS,access to Feishu,discord,and adapts to all models with similar openai interfaces, such as ollama, qwen, GLM, deepseek, moonshot,doubao  Adapted to local models such as llama/qwen/GLM,Linkage neo4j KG，Implemented the function of graphRAG Supports a variety of RAG 
