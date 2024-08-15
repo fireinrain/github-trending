@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-08-15】[DroidKaigi / conference-app-2024](https://github.com/DroidKaigi/conference-app-2024) - The Official Conference App for DroidKaigi 2024
 * 【2024-08-14】[ostris / ai\-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts  Mostly Stable Diffusion stuff 
 * 【2024-08-14】[DroidKaigi / conference\-app\-2024](https://github.com/DroidKaigi/conference-app-2024) - The Official Conference App for DroidKaigi 2024
 * 【2024-08-13】[versotile-org / verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
@@ -753,6 +754,7 @@
 
 ## Python
 
+* 【2024-08-15】[Zipstack / unstract](https://github.com/Zipstack/unstract) - No\-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
 * 【2024-08-14】[ostris / ai-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts. Mostly Stable Diffusion stuff.
 * 【2024-08-14】[bitsandbytes\-foundation / bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) - Accessible large language models via k\-bit quantization for PyTorch 
 * 【2024-08-12】[mbrg / power-pwn](https://github.com/mbrg/power-pwn) - An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform
@@ -1581,6 +1583,7 @@
 
 ## Go
 
+* 【2024-08-15】[kataras / iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework  New, modern and easy to learn  Fast development with Code you control  Unbeatable cost\-performance ratio 🚀
 * 【2024-08-09】[gabriel\-vasile / mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers
 * 【2024-08-07】[encoredev / encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform for building distributed systems and event\-driven applications 
 * 【2024-08-02】[KindlingProject / kindling](https://github.com/KindlingProject/kindling) - eBPF\-based Cloud Native Monitoring Tool
@@ -1983,6 +1986,7 @@
 
 ## C++
 
+* 【2024-08-15】[duckdb / pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB\-powered Postgres for high performance apps & analytics 
 * 【2024-08-12】[raspberrypi / picotool](https://github.com/raspberrypi/picotool) - 
 * 【2024-08-02】[AdaptiveCpp / AdaptiveCpp](https://github.com/AdaptiveCpp/AdaptiveCpp) - Implementation of SYCL and C++ standard parallelism for CPUs and GPUs from all vendors: The independent, community\-driven compiler for C++\-based heterogeneous programming models  Lets applications adapt themselves to all the hardware in the system \- even at runtime!
 * 【2024-07-31】[vslavik / diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
@@ -3222,6 +3226,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-15】[DioxusLabs / blitz](https://github.com/DioxusLabs/blitz) - High performance HTML and CSS renderer powered by WGPU
 * 【2024-08-13】[supabase / pg_replicate](https://github.com/supabase/pg_replicate) - 
 * 【2024-08-12】[pop-os / cosmic-settings](https://github.com/pop-os/cosmic-settings) - COSMIC Settings
 * 【2024-08-12】[FedericoBruzzone / tgt](https://github.com/FedericoBruzzone/tgt) - TUI for Telegram written in Rust 🦀
@@ -3672,6 +3677,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-15】[actions / starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
+* 【2024-08-15】[containers / podman\-desktop](https://github.com/containers/podman-desktop) - Podman Desktop \- A graphical tool for developing on containers and Kubernetes
+* 【2024-08-15】[cheeriojs / cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML 
+* 【2024-08-15】[software\-mansion / react\-native\-gesture\-handler](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native 
+* 【2024-08-15】[sindresorhus / type\-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 * 【2024-08-13】[Vinzent03 / obsidian\-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic backup and other advanced features in Obsidian md
 * 【2024-08-12】[shardeum / shardeum](https://github.com/shardeum/shardeum) - 
 * 【2024-08-12】[Uniswap / v2\-core](https://github.com/Uniswap/v2-core) - 🦄 🦄 Core smart contracts of Uniswap V2
