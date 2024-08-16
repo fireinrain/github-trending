@@ -754,6 +754,8 @@
 
 ## Python
 
+* 【2024-08-16】[sustcsonglin / flash\-linear\-attention](https://github.com/sustcsonglin/flash-linear-attention) - Efficient implementations of state\-of\-the\-art linear attention models in Pytorch and Triton
+* 【2024-08-16】[andrewyng / translation\-agent](https://github.com/andrewyng/translation-agent) - 
 * 【2024-08-15】[Zipstack / unstract](https://github.com/Zipstack/unstract) - No\-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
 * 【2024-08-14】[ostris / ai-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts. Mostly Stable Diffusion stuff.
 * 【2024-08-14】[bitsandbytes\-foundation / bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) - Accessible large language models via k\-bit quantization for PyTorch 
@@ -1583,6 +1585,7 @@
 
 ## Go
 
+* 【2024-08-16】[NVIDIA / dcgm\-exporter](https://github.com/NVIDIA/dcgm-exporter) - NVIDIA GPU metrics exporter for Prometheus leveraging DCGM
 * 【2024-08-15】[kataras / iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework  New, modern and easy to learn  Fast development with Code you control  Unbeatable cost\-performance ratio 🚀
 * 【2024-08-09】[gabriel\-vasile / mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers
 * 【2024-08-07】[encoredev / encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform for building distributed systems and event\-driven applications 
@@ -3677,6 +3680,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-16】[conanbatt / interview\-practice](https://github.com/conanbatt/interview-practice) - A repo for interview practice 
+* 【2024-08-16】[callstack / react\-native\-pager\-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController 
 * 【2024-08-15】[actions / starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 * 【2024-08-15】[containers / podman\-desktop](https://github.com/containers/podman-desktop) - Podman Desktop \- A graphical tool for developing on containers and Kubernetes
 * 【2024-08-15】[cheeriojs / cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML 
