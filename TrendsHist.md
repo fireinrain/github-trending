@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-08-17】[chen08209 / FlClash](https://github.com/chen08209/FlClash) - A multi\-platform proxy client based on ClashMeta,simple and easy to use, open\-source and ad\-free 
 * 【2024-08-15】[DroidKaigi / conference-app-2024](https://github.com/DroidKaigi/conference-app-2024) - The Official Conference App for DroidKaigi 2024
 * 【2024-08-14】[ostris / ai\-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts  Mostly Stable Diffusion stuff 
 * 【2024-08-14】[DroidKaigi / conference\-app\-2024](https://github.com/DroidKaigi/conference-app-2024) - The Official Conference App for DroidKaigi 2024
@@ -583,6 +584,7 @@
 
 ## Java
 
+* 【2024-08-17】[rtm516 / MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast) - A simple Geyser extension that broadcasts the server over Xbox Live 
 * 【2024-08-13】[KingContaria / seedqueue](https://github.com/KingContaria/seedqueue) - 
 * 【2024-08-11】[spring\-projects / spring\-session](https://github.com/spring-projects/spring-session) - Spring Session
 * 【2024-08-04】[krlvm / PowerTunnel](https://github.com/krlvm/PowerTunnel) - Powerful and extensible proxy server with anti\-censorship functionality
@@ -754,6 +756,7 @@
 
 ## Python
 
+* 【2024-08-17】[intelowlproject / IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 * 【2024-08-16】[sustcsonglin / flash\-linear\-attention](https://github.com/sustcsonglin/flash-linear-attention) - Efficient implementations of state\-of\-the\-art linear attention models in Pytorch and Triton
 * 【2024-08-16】[andrewyng / translation\-agent](https://github.com/andrewyng/translation-agent) - 
 * 【2024-08-15】[Zipstack / unstract](https://github.com/Zipstack/unstract) - No\-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
@@ -1296,6 +1299,7 @@
 
 ## Javascript
 
+* 【2024-08-17】[marcelscruz / public\-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 * 【2024-08-10】[cables\-gl / cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content
 * 【2024-08-07】[hackthedev / dcts\-shipping](https://github.com/hackthedev/dcts-shipping) - A Chat Platform like Discord but self\-hostable like TeamSpeak
 * 【2024-08-04】[SadeghHayeri / GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti\-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites 
@@ -2175,6 +2179,7 @@
 
 ## C#
 
+* 【2024-08-17】[ErsatzTV / ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media
 * 【2024-08-11】[vawser / Smithbox](https://github.com/vawser/Smithbox) - Smithbox is a modding tool for Elden Ring, Armored Core VI, Sekiro, Dark Souls 3, Dark Souls 2, Dark Souls, Bloodborne and Demon's Souls 
 * 【2024-08-11】[arcusmaximus / YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - A tool for creating styled YouTube subtitles
 * 【2024-08-07】[GitTools / GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
@@ -2747,6 +2752,7 @@
 
 ## Unknown
 
+* 【2024-08-17】[base\-org / brand\-kit](https://github.com/base-org/brand-kit) - Brand guide and logos for the Base brand 
 * 【2024-08-10】[joebew42 / study\-path](https://github.com/joebew42/study-path) - An organized learning path on Clean Code, Test\-Driven Development, Legacy Code, Refactoring, Domain\-Driven Design and Microservice Architecture
 * 【2024-08-09】[microsoft / powerbi\-desktop\-samples](https://github.com/microsoft/powerbi-desktop-samples) - Power BI Desktop sample files for the monthly release  Here you can find the PBIX files used in the monthly release videos 
 * 【2024-07-30】[onceupon / Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
@@ -3229,6 +3235,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-17】[project\-oak / oak](https://github.com/project-oak/oak) - Meaningful control of data in distributed systems 
 * 【2024-08-15】[DioxusLabs / blitz](https://github.com/DioxusLabs/blitz) - High performance HTML and CSS renderer powered by WGPU
 * 【2024-08-13】[supabase / pg_replicate](https://github.com/supabase/pg_replicate) - 
 * 【2024-08-12】[pop-os / cosmic-settings](https://github.com/pop-os/cosmic-settings) - COSMIC Settings
@@ -3680,6 +3687,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-17】[ajayyy / SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+* 【2024-08-17】[containers / podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
+* 【2024-08-17】[apollographql / apollo\-server](https://github.com/apollographql/apollo-server) - 🌍  Spec\-compliant and production ready JavaScript GraphQL server that lets you develop in a schema\-first way  Built for Express, Connect, Hapi, Koa, and more 
 * 【2024-08-16】[conanbatt / interview\-practice](https://github.com/conanbatt/interview-practice) - A repo for interview practice 
 * 【2024-08-16】[callstack / react\-native\-pager\-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController 
 * 【2024-08-15】[actions / starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
