@@ -756,6 +756,7 @@
 
 ## Python
 
+* 【2024-08-18】[opendatalab / labelU](https://github.com/opendatalab/labelU) - Data annotation toolbox supports image, audio and video data 
 * 【2024-08-17】[intelowlproject / IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 * 【2024-08-16】[sustcsonglin / flash\-linear\-attention](https://github.com/sustcsonglin/flash-linear-attention) - Efficient implementations of state\-of\-the\-art linear attention models in Pytorch and Triton
 * 【2024-08-16】[andrewyng / translation\-agent](https://github.com/andrewyng/translation-agent) - 
@@ -1589,6 +1590,7 @@
 
 ## Go
 
+* 【2024-08-18】[erigontech / erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier https://erigon gitbook io
 * 【2024-08-16】[NVIDIA / dcgm\-exporter](https://github.com/NVIDIA/dcgm-exporter) - NVIDIA GPU metrics exporter for Prometheus leveraging DCGM
 * 【2024-08-15】[kataras / iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework  New, modern and easy to learn  Fast development with Code you control  Unbeatable cost\-performance ratio 🚀
 * 【2024-08-09】[gabriel\-vasile / mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers
@@ -1793,6 +1795,7 @@
 
 ## C
 
+* 【2024-08-18】[Wren6991 / PicoDVI](https://github.com/Wren6991/PicoDVI) - Bitbanged DVI on the RP2040 Microcontroller
 * 【2024-08-09】[openocd\-org / openocd](https://github.com/openocd-org/openocd) - Official OpenOCD Read\-Only Mirror (no pull requests)
 * 【2024-08-07】[ataradov / usb\-sniffer\-lite](https://github.com/ataradov/usb-sniffer-lite) - A simple USB sniffer based on Raspberry Pi RP2040
 * 【2024-08-05】[pr3y / Bruce](https://github.com/pr3y/Bruce) - Firmware for m5stack Cardputer, StickC and ESP32
@@ -2179,6 +2182,8 @@
 
 ## C#
 
+* 【2024-08-18】[DigitalRuby / IPBan](https://github.com/DigitalRuby/IPBan) - Since 2011, IPBan is the worlds most trusted, free security software to block hackers and botnets  With both Windows and Linux support, IPBan has your dedicated or cloud server protected  Upgrade to IPBan Pro today and get a discount  Learn more at ↓
+* 【2024-08-18】[NuGet / NuGet.Client](https://github.com/NuGet/NuGet.Client) - Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on https://github.com/nuget/home/issues)
 * 【2024-08-17】[ErsatzTV / ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media
 * 【2024-08-11】[vawser / Smithbox](https://github.com/vawser/Smithbox) - Smithbox is a modding tool for Elden Ring, Armored Core VI, Sekiro, Dark Souls 3, Dark Souls 2, Dark Souls, Bloodborne and Demon's Souls 
 * 【2024-08-11】[arcusmaximus / YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - A tool for creating styled YouTube subtitles
@@ -2414,6 +2419,7 @@
 
 ## Html
 
+* 【2024-08-18】[tc39 / proposal\-decimal](https://github.com/tc39/proposal-decimal) - Built\-in exact decimal numbers for JavaScript
 * 【2024-08-13】[tomfran / typo](https://github.com/tomfran/typo) - A simple Hugo theme
 * 【2024-08-13】[callummcdougall / ARENA_3 0](https://github.com/callummcdougall/ARENA_3.0) - 
 * 【2024-08-12】[nature-of-code / noc-book-2](https://github.com/nature-of-code/noc-book-2) - Nature of Code with p5.js and Notion workflow / build system.
@@ -2752,6 +2758,7 @@
 
 ## Unknown
 
+* 【2024-08-18】[yolain / ComfyUI\-Yolain\-Workflows](https://github.com/yolain/ComfyUI-Yolain-Workflows) - Some awesome comfyui workflows in here, and they are built using the comfyui\-easy\-use node package 
 * 【2024-08-17】[base\-org / brand\-kit](https://github.com/base-org/brand-kit) - Brand guide and logos for the Base brand 
 * 【2024-08-10】[joebew42 / study\-path](https://github.com/joebew42/study-path) - An organized learning path on Clean Code, Test\-Driven Development, Legacy Code, Refactoring, Domain\-Driven Design and Microservice Architecture
 * 【2024-08-09】[microsoft / powerbi\-desktop\-samples](https://github.com/microsoft/powerbi-desktop-samples) - Power BI Desktop sample files for the monthly release  Here you can find the PBIX files used in the monthly release videos 
@@ -3235,6 +3242,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-18】[axodotdev / cargo\-dist](https://github.com/axodotdev/cargo-dist) - 📦 shippable application packaging
 * 【2024-08-17】[project\-oak / oak](https://github.com/project-oak/oak) - Meaningful control of data in distributed systems 
 * 【2024-08-15】[DioxusLabs / blitz](https://github.com/DioxusLabs/blitz) - High performance HTML and CSS renderer powered by WGPU
 * 【2024-08-13】[supabase / pg_replicate](https://github.com/supabase/pg_replicate) - 
@@ -3687,6 +3695,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-18】[tonkeeper / tonkeeper\-web](https://github.com/tonkeeper/tonkeeper-web) - Tonkeeper Web is a multi\-platform open\-source non\-custodial TON crypto wallet and gateway to blockchain dApps
+* 【2024-08-18】[tutao / tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices 
+* 【2024-08-18】[JoshuaKGoldberg / create\-typescript\-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart\-friendly TypeScript template with comprehensive, configurable, opinionated tooling  💝
 * 【2024-08-17】[ajayyy / SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 * 【2024-08-17】[containers / podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
 * 【2024-08-17】[apollographql / apollo\-server](https://github.com/apollographql/apollo-server) - 🌍  Spec\-compliant and production ready JavaScript GraphQL server that lets you develop in a schema\-first way  Built for Express, Connect, Hapi, Koa, and more 
