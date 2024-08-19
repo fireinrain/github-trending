@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-08-19】[toss / es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
+* 【2024-08-19】[OpenBB\-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere 
 * 【2024-08-17】[chen08209 / FlClash](https://github.com/chen08209/FlClash) - A multi\-platform proxy client based on ClashMeta,simple and easy to use, open\-source and ad\-free 
 * 【2024-08-15】[DroidKaigi / conference-app-2024](https://github.com/DroidKaigi/conference-app-2024) - The Official Conference App for DroidKaigi 2024
 * 【2024-08-14】[ostris / ai\-toolkit](https://github.com/ostris/ai-toolkit) - Various AI scripts  Mostly Stable Diffusion stuff 
@@ -584,6 +586,7 @@
 
 ## Java
 
+* 【2024-08-19】[jplag / JPlag](https://github.com/jplag/JPlag) - State\-of\-the\-Art Software Plagiarism & Collusion Detection
 * 【2024-08-17】[rtm516 / MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast) - A simple Geyser extension that broadcasts the server over Xbox Live 
 * 【2024-08-13】[KingContaria / seedqueue](https://github.com/KingContaria/seedqueue) - 
 * 【2024-08-11】[spring\-projects / spring\-session](https://github.com/spring-projects/spring-session) - Spring Session
@@ -756,6 +759,8 @@
 
 ## Python
 
+* 【2024-08-19】[OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
+* 【2024-08-19】[ZhengPeng7 / BiRefNet](https://github.com/ZhengPeng7/BiRefNet) - [CAAI AIR'24] Bilateral Reference for High\-Resolution Dichotomous Image Segmentation
 * 【2024-08-18】[opendatalab / labelU](https://github.com/opendatalab/labelU) - Data annotation toolbox supports image, audio and video data 
 * 【2024-08-17】[intelowlproject / IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 * 【2024-08-16】[sustcsonglin / flash\-linear\-attention](https://github.com/sustcsonglin/flash-linear-attention) - Efficient implementations of state\-of\-the\-art linear attention models in Pytorch and Triton
@@ -1300,6 +1305,8 @@
 
 ## Javascript
 
+* 【2024-08-19】[TiddlyWiki / TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self\-contained JavaScript wiki for the browser, Node js, AWS Lambda etc 
+* 【2024-08-19】[KilledByAPixel / LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a fast HTML5 game engine with many features and no dependencies  🚂 Choo\-Choo!
 * 【2024-08-17】[marcelscruz / public\-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 * 【2024-08-10】[cables\-gl / cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content
 * 【2024-08-07】[hackthedev / dcts\-shipping](https://github.com/hackthedev/dcts-shipping) - A Chat Platform like Discord but self\-hostable like TeamSpeak
@@ -1590,6 +1597,7 @@
 
 ## Go
 
+* 【2024-08-19】[rusq / slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges 
 * 【2024-08-18】[erigontech / erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier https://erigon gitbook io
 * 【2024-08-16】[NVIDIA / dcgm\-exporter](https://github.com/NVIDIA/dcgm-exporter) - NVIDIA GPU metrics exporter for Prometheus leveraging DCGM
 * 【2024-08-15】[kataras / iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework  New, modern and easy to learn  Fast development with Code you control  Unbeatable cost\-performance ratio 🚀
@@ -1996,6 +2004,7 @@
 
 ## C++
 
+* 【2024-08-19】[PlatformLab / NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf\-like API 
 * 【2024-08-15】[duckdb / pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB\-powered Postgres for high performance apps & analytics 
 * 【2024-08-12】[raspberrypi / picotool](https://github.com/raspberrypi/picotool) - 
 * 【2024-08-02】[AdaptiveCpp / AdaptiveCpp](https://github.com/AdaptiveCpp/AdaptiveCpp) - Implementation of SYCL and C++ standard parallelism for CPUs and GPUs from all vendors: The independent, community\-driven compiler for C++\-based heterogeneous programming models  Lets applications adapt themselves to all the hardware in the system \- even at runtime!
@@ -3242,6 +3251,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-19】[eythaann / Seelen\-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11 with a windows tiling manager included 
+* 【2024-08-19】[fujiapple852 / trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 * 【2024-08-18】[axodotdev / cargo\-dist](https://github.com/axodotdev/cargo-dist) - 📦 shippable application packaging
 * 【2024-08-17】[project\-oak / oak](https://github.com/project-oak/oak) - Meaningful control of data in distributed systems 
 * 【2024-08-15】[DioxusLabs / blitz](https://github.com/DioxusLabs/blitz) - High performance HTML and CSS renderer powered by WGPU
@@ -3695,6 +3706,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-19】[clerk / javascript](https://github.com/clerk/javascript) - Official Javascript repository for Clerk authentication
 * 【2024-08-18】[tonkeeper / tonkeeper\-web](https://github.com/tonkeeper/tonkeeper-web) - Tonkeeper Web is a multi\-platform open\-source non\-custodial TON crypto wallet and gateway to blockchain dApps
 * 【2024-08-18】[tutao / tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices 
 * 【2024-08-18】[JoshuaKGoldberg / create\-typescript\-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart\-friendly TypeScript template with comprehensive, configurable, opinionated tooling  💝
