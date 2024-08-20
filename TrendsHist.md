@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-08-20】[SorellaLabs / brontes](https://github.com/SorellaLabs/brontes) - A blazingly fast general purpose blockchain analytics engine specialized in systematic mev detection
 * 【2024-08-19】[toss / es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 * 【2024-08-19】[OpenBB\-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere 
 * 【2024-08-17】[chen08209 / FlClash](https://github.com/chen08209/FlClash) - A multi\-platform proxy client based on ClashMeta,simple and easy to use, open\-source and ad\-free 
@@ -586,6 +587,9 @@
 
 ## Java
 
+* 【2024-08-20】[PBH\-BTN / PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)
+* 【2024-08-20】[REAndroid / APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor \- aapt/aapt2 independent
+* 【2024-08-20】[gahogg / Leetcode\-Solutions](https://github.com/gahogg/Leetcode-Solutions) - The repository for all of the solutions to the Leetcode problems solved on my YouTube, Instagram and TikTok
 * 【2024-08-19】[jplag / JPlag](https://github.com/jplag/JPlag) - State\-of\-the\-Art Software Plagiarism & Collusion Detection
 * 【2024-08-17】[rtm516 / MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast) - A simple Geyser extension that broadcasts the server over Xbox Live 
 * 【2024-08-13】[KingContaria / seedqueue](https://github.com/KingContaria/seedqueue) - 
@@ -759,6 +763,7 @@
 
 ## Python
 
+* 【2024-08-20】[tornadoweb / tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed 
 * 【2024-08-19】[OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 * 【2024-08-19】[ZhengPeng7 / BiRefNet](https://github.com/ZhengPeng7/BiRefNet) - [CAAI AIR'24] Bilateral Reference for High\-Resolution Dichotomous Image Segmentation
 * 【2024-08-18】[opendatalab / labelU](https://github.com/opendatalab/labelU) - Data annotation toolbox supports image, audio and video data 
@@ -2004,6 +2009,7 @@
 
 ## C++
 
+* 【2024-08-20】[snake-4 / Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant) - A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.
 * 【2024-08-19】[PlatformLab / NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf\-like API 
 * 【2024-08-15】[duckdb / pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB\-powered Postgres for high performance apps & analytics 
 * 【2024-08-12】[raspberrypi / picotool](https://github.com/raspberrypi/picotool) - 
@@ -2191,6 +2197,7 @@
 
 ## C#
 
+* 【2024-08-20】[RaidMax / IW4M\-Admin](https://github.com/RaidMax/IW4M-Admin) - Complete administration tool for IW4x, Pluto T6, Pluto IW5, Pluto T5, Pluto T4, H1\-Mod, CoD4x, IW6x, TeknoMW3, and most Call of Duty® dedicated servers 
 * 【2024-08-18】[DigitalRuby / IPBan](https://github.com/DigitalRuby/IPBan) - Since 2011, IPBan is the worlds most trusted, free security software to block hackers and botnets  With both Windows and Linux support, IPBan has your dedicated or cloud server protected  Upgrade to IPBan Pro today and get a discount  Learn more at ↓
 * 【2024-08-18】[NuGet / NuGet.Client](https://github.com/NuGet/NuGet.Client) - Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on https://github.com/nuget/home/issues)
 * 【2024-08-17】[ErsatzTV / ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media
@@ -3251,6 +3258,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-20】[rayon-rs / rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
+* 【2024-08-20】[eythaann / Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11 with a windows tiling manager included.
 * 【2024-08-19】[eythaann / Seelen\-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11 with a windows tiling manager included 
 * 【2024-08-19】[fujiapple852 / trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 * 【2024-08-18】[axodotdev / cargo\-dist](https://github.com/axodotdev/cargo-dist) - 📦 shippable application packaging
@@ -3706,6 +3715,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-20】[shadcn\-ui / taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next js 13 
+* 【2024-08-20】[mxkaske / mxkaske dev](https://github.com/mxkaske/mxkaske.dev) - 
 * 【2024-08-19】[clerk / javascript](https://github.com/clerk/javascript) - Official Javascript repository for Clerk authentication
 * 【2024-08-18】[tonkeeper / tonkeeper\-web](https://github.com/tonkeeper/tonkeeper-web) - Tonkeeper Web is a multi\-platform open\-source non\-custodial TON crypto wallet and gateway to blockchain dApps
 * 【2024-08-18】[tutao / tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices 
