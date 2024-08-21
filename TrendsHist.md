@@ -587,6 +587,7 @@
 
 ## Java
 
+* 【2024-08-21】[DImuthuUpe / AndroidPdfViewer](https://github.com/DImuthuUpe/AndroidPdfViewer) - Android view for displaying PDFs rendered with PdfiumAndroid
 * 【2024-08-20】[PBH\-BTN / PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)
 * 【2024-08-20】[REAndroid / APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor \- aapt/aapt2 independent
 * 【2024-08-20】[gahogg / Leetcode\-Solutions](https://github.com/gahogg/Leetcode-Solutions) - The repository for all of the solutions to the Leetcode problems solved on my YouTube, Instagram and TikTok
@@ -1808,6 +1809,7 @@
 
 ## C
 
+* 【2024-08-21】[unbit / uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
 * 【2024-08-18】[Wren6991 / PicoDVI](https://github.com/Wren6991/PicoDVI) - Bitbanged DVI on the RP2040 Microcontroller
 * 【2024-08-09】[openocd\-org / openocd](https://github.com/openocd-org/openocd) - Official OpenOCD Read\-Only Mirror (no pull requests)
 * 【2024-08-07】[ataradov / usb\-sniffer\-lite](https://github.com/ataradov/usb-sniffer-lite) - A simple USB sniffer based on Raspberry Pi RP2040
@@ -2009,6 +2011,7 @@
 
 ## C++
 
+* 【2024-08-21】[chrxh / alien](https://github.com/chrxh/alien) - ALIEN is a CUDA\-powered artificial life simulation program 
 * 【2024-08-20】[snake-4 / Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant) - A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.
 * 【2024-08-19】[PlatformLab / NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf\-like API 
 * 【2024-08-15】[duckdb / pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB\-powered Postgres for high performance apps & analytics 
@@ -3715,6 +3718,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-21】[captbaritone / webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 * 【2024-08-20】[shadcn\-ui / taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next js 13 
 * 【2024-08-20】[mxkaske / mxkaske dev](https://github.com/mxkaske/mxkaske.dev) - 
 * 【2024-08-19】[clerk / javascript](https://github.com/clerk/javascript) - Official Javascript repository for Clerk authentication
