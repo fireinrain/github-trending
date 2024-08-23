@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-08-23】[microsoft / Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook) - This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks.
+* 【2024-08-23】[All\-Hands\-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 * 【2024-08-20】[SorellaLabs / brontes](https://github.com/SorellaLabs/brontes) - A blazingly fast general purpose blockchain analytics engine specialized in systematic mev detection
 * 【2024-08-19】[toss / es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 * 【2024-08-19】[OpenBB\-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere 
@@ -765,6 +767,7 @@
 
 ## Python
 
+* 【2024-08-23】[All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 * 【2024-08-22】[pymupdf / PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents 
 * 【2024-08-22】[asavinov / intelligent\-trading\-bot](https://github.com/asavinov/intelligent-trading-bot) - Intelligent Trading Bot: Automatically generating signals and trading based on machine learning and feature engineering
 * 【2024-08-22】[NVlabs / VILA](https://github.com/NVlabs/VILA) - VILA \- a multi\-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)
@@ -1315,6 +1318,7 @@
 
 ## Javascript
 
+* 【2024-08-23】[mermaid\-js / mermaid\-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 * 【2024-08-22】[bluewave\-labs / bluewave\-uptime](https://github.com/bluewave-labs/bluewave-uptime) - BlueWave Uptime Monitor application
 * 【2024-08-19】[TiddlyWiki / TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self\-contained JavaScript wiki for the browser, Node js, AWS Lambda etc 
 * 【2024-08-19】[KilledByAPixel / LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a fast HTML5 game engine with many features and no dependencies  🚂 Choo\-Choo!
@@ -2018,6 +2022,7 @@
 
 ## C++
 
+* 【2024-08-23】[ros\-controls / ros2_controllers](https://github.com/ros-controls/ros2_controllers) - Generic robotic controllers to accompany ros2_control
 * 【2024-08-21】[chrxh / alien](https://github.com/chrxh/alien) - ALIEN is a CUDA\-powered artificial life simulation program 
 * 【2024-08-20】[snake-4 / Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant) - A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.
 * 【2024-08-19】[PlatformLab / NanoLog](https://github.com/PlatformLab/NanoLog) - Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf\-like API 
@@ -2207,6 +2212,8 @@
 
 ## C#
 
+* 【2024-08-23】[wixtoolset / wix](https://github.com/wixtoolset/wix) - WiX Toolset Code
+* 【2024-08-23】[NickvisionApps / Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 * 【2024-08-22】[berichan / ACNHMobileSpawner](https://github.com/berichan/ACNHMobileSpawner) - Animal Crossing New Horizons real\-time multi\-tool built in Unity 
 * 【2024-08-20】[RaidMax / IW4M\-Admin](https://github.com/RaidMax/IW4M-Admin) - Complete administration tool for IW4x, Pluto T6, Pluto IW5, Pluto T5, Pluto T4, H1\-Mod, CoD4x, IW6x, TeknoMW3, and most Call of Duty® dedicated servers 
 * 【2024-08-18】[DigitalRuby / IPBan](https://github.com/DigitalRuby/IPBan) - Since 2011, IPBan is the worlds most trusted, free security software to block hackers and botnets  With both Windows and Linux support, IPBan has your dedicated or cloud server protected  Upgrade to IPBan Pro today and get a discount  Learn more at ↓
@@ -3727,6 +3734,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-23】[PlasmoHQ / plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 * 【2024-08-22】[mattpocock / total\-typescript\-monorepo](https://github.com/mattpocock/total-typescript-monorepo) - The home of all Matt's internal tooling
 * 【2024-08-21】[captbaritone / webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 * 【2024-08-20】[shadcn\-ui / taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next js 13 
