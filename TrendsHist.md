@@ -767,6 +767,7 @@
 
 ## Python
 
+* 【2024-08-24】[SylphAI\-Inc / AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The “PyTorch” library to auto\-optimize any LLM tasks 
 * 【2024-08-23】[All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 * 【2024-08-22】[pymupdf / PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents 
 * 【2024-08-22】[asavinov / intelligent\-trading\-bot](https://github.com/asavinov/intelligent-trading-bot) - Intelligent Trading Bot: Automatically generating signals and trading based on machine learning and feature engineering
@@ -1318,6 +1319,7 @@
 
 ## Javascript
 
+* 【2024-08-24】[micromatch / micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library  Faster, drop\-in replacement to minimatch and multimatch  Used by square, webpack, babel core, yarn, jest, ract\-native, taro, bulma, browser\-sync, stylelint, nyc, ava, and many others! Follow micromatch's author: https://github com/jonschlinkert
 * 【2024-08-23】[mermaid\-js / mermaid\-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 * 【2024-08-22】[bluewave\-labs / bluewave\-uptime](https://github.com/bluewave-labs/bluewave-uptime) - BlueWave Uptime Monitor application
 * 【2024-08-19】[TiddlyWiki / TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self\-contained JavaScript wiki for the browser, Node js, AWS Lambda etc 
@@ -1820,6 +1822,7 @@
 
 ## C
 
+* 【2024-08-24】[open\-telemetry / opentelemetry\-go\-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) - OpenTelemetry Auto Instrumentation using eBPF
 * 【2024-08-21】[unbit / uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
 * 【2024-08-18】[Wren6991 / PicoDVI](https://github.com/Wren6991/PicoDVI) - Bitbanged DVI on the RP2040 Microcontroller
 * 【2024-08-09】[openocd\-org / openocd](https://github.com/openocd-org/openocd) - Official OpenOCD Read\-Only Mirror (no pull requests)
@@ -2453,6 +2456,7 @@
 
 ## Html
 
+* 【2024-08-24】[CommunityPro / portfolio\-html](https://github.com/CommunityPro/portfolio-html) - 🌍 Open source portfolio template built with plain Html, CSS and JavaScript for developers to create their portfolio website
 * 【2024-08-18】[tc39 / proposal\-decimal](https://github.com/tc39/proposal-decimal) - Built\-in exact decimal numbers for JavaScript
 * 【2024-08-13】[tomfran / typo](https://github.com/tomfran/typo) - A simple Hugo theme
 * 【2024-08-13】[callummcdougall / ARENA_3 0](https://github.com/callummcdougall/ARENA_3.0) - 
@@ -3734,6 +3738,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-24】[sourcegraph / cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code 
+* 【2024-08-24】[Jigsaw\-Code / outline\-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw  Outline Manager makes it easy to create your own VPN server  Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet 
 * 【2024-08-23】[PlasmoHQ / plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 * 【2024-08-22】[mattpocock / total\-typescript\-monorepo](https://github.com/mattpocock/total-typescript-monorepo) - The home of all Matt's internal tooling
 * 【2024-08-21】[captbaritone / webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
