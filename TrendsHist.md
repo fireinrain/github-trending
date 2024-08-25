@@ -589,6 +589,7 @@
 
 ## Java
 
+* 【2024-08-25】[nfcgate / nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
 * 【2024-08-22】[spring\-projects / spring\-integration](https://github.com/spring-projects/spring-integration) - Spring Integration provides an extension of the Spring programming model to support the well\-known Enterprise Integration Patterns (EIP)
 * 【2024-08-21】[DImuthuUpe / AndroidPdfViewer](https://github.com/DImuthuUpe/AndroidPdfViewer) - Android view for displaying PDFs rendered with PdfiumAndroid
 * 【2024-08-20】[PBH\-BTN / PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)
@@ -767,6 +768,8 @@
 
 ## Python
 
+* 【2024-08-25】[Lightning\-AI / LitServe](https://github.com/Lightning-AI/LitServe) - High\-throughput serving engine for AI models  Easy to use  Flexible  Enterprise scale 
+* 【2024-08-25】[bobbyiliev / 101\-linux\-commands\-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) - 101 Linux commands Open\-source eBook
 * 【2024-08-24】[SylphAI\-Inc / AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The “PyTorch” library to auto\-optimize any LLM tasks 
 * 【2024-08-23】[All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 * 【2024-08-22】[pymupdf / PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents 
@@ -2025,6 +2028,7 @@
 
 ## C++
 
+* 【2024-08-25】[srsran / srsRAN_4G](https://github.com/srsran/srsRAN_4G) - Open source SDR 4G software suite from Software Radio Systems (SRS) https://docs srsran com/projects/4g
 * 【2024-08-23】[ros\-controls / ros2_controllers](https://github.com/ros-controls/ros2_controllers) - Generic robotic controllers to accompany ros2_control
 * 【2024-08-21】[chrxh / alien](https://github.com/chrxh/alien) - ALIEN is a CUDA\-powered artificial life simulation program 
 * 【2024-08-20】[snake-4 / Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant) - A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.
@@ -2456,6 +2460,7 @@
 
 ## Html
 
+* 【2024-08-25】[CommunityPro / portfolio-html](https://github.com/CommunityPro/portfolio-html) - 🌍 Open source portfolio template built with plain Html, CSS and JavaScript for developers to create their portfolio website
 * 【2024-08-24】[CommunityPro / portfolio\-html](https://github.com/CommunityPro/portfolio-html) - 🌍 Open source portfolio template built with plain Html, CSS and JavaScript for developers to create their portfolio website
 * 【2024-08-18】[tc39 / proposal\-decimal](https://github.com/tc39/proposal-decimal) - Built\-in exact decimal numbers for JavaScript
 * 【2024-08-13】[tomfran / typo](https://github.com/tomfran/typo) - A simple Hugo theme
@@ -3280,6 +3285,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-25】[gakonst / ethers-rs](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers
 * 【2024-08-22】[firstbatchxyz / dkn\-compute\-node](https://github.com/firstbatchxyz/dkn-compute-node) - Compute Node of Dria Knowledge Network 
 * 【2024-08-20】[rayon-rs / rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
 * 【2024-08-20】[eythaann / Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11 with a windows tiling manager included.
@@ -3738,6 +3744,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-25】[mebjas / html5-qrcode](https://github.com/mebjas/html5-qrcode) - A cross platform HTML5 QR code reader. See end to end implementation at: https://scanapp.org
+* 【2024-08-25】[anthropics / anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) - Access to Anthropic's safety-first language model APIs
 * 【2024-08-24】[sourcegraph / cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code 
 * 【2024-08-24】[Jigsaw\-Code / outline\-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw  Outline Manager makes it easy to create your own VPN server  Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet 
 * 【2024-08-23】[PlasmoHQ / plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
