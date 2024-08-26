@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-08-26】[Lightning-AI / LitServe](https://github.com/Lightning-AI/LitServe) - Lightning-fast serving engine for AI models. Flexible. Easy. Enterprise-scale.
 * 【2024-08-23】[microsoft / Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook) - This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks.
 * 【2024-08-23】[All\-Hands\-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 * 【2024-08-20】[SorellaLabs / brontes](https://github.com/SorellaLabs/brontes) - A blazingly fast general purpose blockchain analytics engine specialized in systematic mev detection
@@ -768,6 +769,7 @@
 
 ## Python
 
+* 【2024-08-26】[google / vizier](https://github.com/google/vizier) - Python\-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service 
 * 【2024-08-25】[Lightning\-AI / LitServe](https://github.com/Lightning-AI/LitServe) - High\-throughput serving engine for AI models  Easy to use  Flexible  Enterprise scale 
 * 【2024-08-25】[bobbyiliev / 101\-linux\-commands\-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) - 101 Linux commands Open\-source eBook
 * 【2024-08-24】[SylphAI\-Inc / AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The “PyTorch” library to auto\-optimize any LLM tasks 
@@ -1617,6 +1619,7 @@
 
 ## Go
 
+* 【2024-08-26】[rabilrbl / jiotv_go](https://github.com/rabilrbl/jiotv_go) - Unlock the magic of JioTV across all your devices, without the need for the JioTV App  Crafted with love in Golang for a delightful blend of speed and efficiency! 🌟✨
 * 【2024-08-22】[sourcegraph / sourcegraph\-public\-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 * 【2024-08-22】[adnanh / webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 * 【2024-08-19】[rusq / slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges 
@@ -2028,6 +2031,8 @@
 
 ## C++
 
+* 【2024-08-26】[dpjudas / SurrealEngine](https://github.com/dpjudas/SurrealEngine) - Unreal Tournament Engine Reimplementation
+* 【2024-08-26】[nisargjhaveri / WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) - Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi 
 * 【2024-08-25】[srsran / srsRAN_4G](https://github.com/srsran/srsRAN_4G) - Open source SDR 4G software suite from Software Radio Systems (SRS) https://docs srsran com/projects/4g
 * 【2024-08-23】[ros\-controls / ros2_controllers](https://github.com/ros-controls/ros2_controllers) - Generic robotic controllers to accompany ros2_control
 * 【2024-08-21】[chrxh / alien](https://github.com/chrxh/alien) - ALIEN is a CUDA\-powered artificial life simulation program 
@@ -2219,6 +2224,7 @@
 
 ## C#
 
+* 【2024-08-26】[mxgmn / MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
 * 【2024-08-23】[wixtoolset / wix](https://github.com/wixtoolset/wix) - WiX Toolset Code
 * 【2024-08-23】[NickvisionApps / Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 * 【2024-08-22】[berichan / ACNHMobileSpawner](https://github.com/berichan/ACNHMobileSpawner) - Animal Crossing New Horizons real\-time multi\-tool built in Unity 
@@ -3285,6 +3291,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-26】[beac0n / ruroco](https://github.com/beac0n/ruroco) - Ruroco is a tool that lets you execute commands on a server by sending UDP packets  The commands are configured on the server side, so the client does not define what is going to be executed, it only picks from existing commands 
 * 【2024-08-25】[gakonst / ethers-rs](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers
 * 【2024-08-22】[firstbatchxyz / dkn\-compute\-node](https://github.com/firstbatchxyz/dkn-compute-node) - Compute Node of Dria Knowledge Network 
 * 【2024-08-20】[rayon-rs / rayon](https://github.com/rayon-rs/rayon) - Rayon: A data parallelism library for Rust
@@ -3744,6 +3751,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-26】[stonith404 / pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 * 【2024-08-25】[mebjas / html5-qrcode](https://github.com/mebjas/html5-qrcode) - A cross platform HTML5 QR code reader. See end to end implementation at: https://scanapp.org
 * 【2024-08-25】[anthropics / anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) - Access to Anthropic's safety-first language model APIs
 * 【2024-08-24】[sourcegraph / cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code 
