@@ -590,6 +590,7 @@
 
 ## Java
 
+* 【2024-08-27】[PBH-BTN / PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)
 * 【2024-08-25】[nfcgate / nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
 * 【2024-08-22】[spring\-projects / spring\-integration](https://github.com/spring-projects/spring-integration) - Spring Integration provides an extension of the Spring programming model to support the well\-known Enterprise Integration Patterns (EIP)
 * 【2024-08-21】[DImuthuUpe / AndroidPdfViewer](https://github.com/DImuthuUpe/AndroidPdfViewer) - Android view for displaying PDFs rendered with PdfiumAndroid
@@ -769,6 +770,8 @@
 
 ## Python
 
+* 【2024-08-27】[PromtEngineer / Verbi](https://github.com/PromtEngineer/Verbi) - A modular voice assistant application for experimenting with state\-of\-the\-art transcription, response generation, and text\-to\-speech models  Supports OpenAI, Groq, Elevanlabs, CartesiaAI, and Deepgram APIs, plus local models via Ollama  Ideal for research and development in voice technology 
+* 【2024-08-27】[SylphAI-Inc / AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The “PyTorch” library to auto-optimize any LLM tasks.
 * 【2024-08-26】[google / vizier](https://github.com/google/vizier) - Python\-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service 
 * 【2024-08-25】[Lightning\-AI / LitServe](https://github.com/Lightning-AI/LitServe) - High\-throughput serving engine for AI models  Easy to use  Flexible  Enterprise scale 
 * 【2024-08-25】[bobbyiliev / 101\-linux\-commands\-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) - 101 Linux commands Open\-source eBook
@@ -3291,6 +3294,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-27】[ratatui / ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 * 【2024-08-26】[beac0n / ruroco](https://github.com/beac0n/ruroco) - Ruroco is a tool that lets you execute commands on a server by sending UDP packets  The commands are configured on the server side, so the client does not define what is going to be executed, it only picks from existing commands 
 * 【2024-08-25】[gakonst / ethers-rs](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers
 * 【2024-08-22】[firstbatchxyz / dkn\-compute\-node](https://github.com/firstbatchxyz/dkn-compute-node) - Compute Node of Dria Knowledge Network 
