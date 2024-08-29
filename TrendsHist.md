@@ -771,6 +771,7 @@
 
 ## Python
 
+* 【2024-08-29】[THUDM / GLM\-4](https://github.com/THUDM/GLM-4) - GLM\-4 series: Open Multilingual Multimodal Chat LMs \| 开源多语言多模态对话模型
 * 【2024-08-28】[NUS\-HPC\-AI\-Lab / VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) - VideoSys: An easy and efficient system for video generation
 * 【2024-08-27】[PromtEngineer / Verbi](https://github.com/PromtEngineer/Verbi) - A modular voice assistant application for experimenting with state\-of\-the\-art transcription, response generation, and text\-to\-speech models  Supports OpenAI, Groq, Elevanlabs, CartesiaAI, and Deepgram APIs, plus local models via Ollama  Ideal for research and development in voice technology 
 * 【2024-08-27】[SylphAI-Inc / AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The “PyTorch” library to auto-optimize any LLM tasks.
@@ -1625,6 +1626,7 @@
 
 ## Go
 
+* 【2024-08-29】[DataDog / dd-trace-go](https://github.com/DataDog/dd-trace-go) - Datadog Go Library including APM tracing, profiling, and security monitoring.
 * 【2024-08-26】[rabilrbl / jiotv_go](https://github.com/rabilrbl/jiotv_go) - Unlock the magic of JioTV across all your devices, without the need for the JioTV App  Crafted with love in Golang for a delightful blend of speed and efficiency! 🌟✨
 * 【2024-08-22】[sourcegraph / sourcegraph\-public\-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 * 【2024-08-22】[adnanh / webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -3299,6 +3301,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-29】[DataDog / lading](https://github.com/DataDog/lading) - A suite of data generation and load testing tools
+* 【2024-08-29】[DataDog / libdatadog](https://github.com/DataDog/libdatadog) - Datadog shared rust\-based library  For now only used in other products (e g  Ruby or PHP libraries) 
 * 【2024-08-27】[ratatui / ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 * 【2024-08-26】[beac0n / ruroco](https://github.com/beac0n/ruroco) - Ruroco is a tool that lets you execute commands on a server by sending UDP packets  The commands are configured on the server side, so the client does not define what is going to be executed, it only picks from existing commands 
 * 【2024-08-25】[gakonst / ethers-rs](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers
@@ -3760,6 +3764,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-29】[DataDog / browser\-sdk](https://github.com/DataDog/browser-sdk) - Datadog Browser SDK
+* 【2024-08-29】[pmndrs / jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
+* 【2024-08-29】[DouyinFE / semi\-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library  🎨 Provide more than 3000+ Design Tokens, easy to build your design system  Make Semi Design to Any Design  🧑🏻‍💻 Design to Code in one click
 * 【2024-08-28】[run-llama / LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS) - LlamaIndex in TypeScript
 * 【2024-08-26】[stonith404 / pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
 * 【2024-08-25】[mebjas / html5-qrcode](https://github.com/mebjas/html5-qrcode) - A cross platform HTML5 QR code reader. See end to end implementation at: https://scanapp.org
