@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-08-30】[Cinnamon / kotaemon](https://github.com/Cinnamon/kotaemon) - An open\-source RAG\-based tool for chatting with your documents 
+* 【2024-08-30】[dokku / dokku](https://github.com/dokku/dokku) - A docker\-powered PaaS that helps you build and manage the lifecycle of applications
 * 【2024-08-28】[khcrysalis / Feather](https://github.com/khcrysalis/Feather) - Feather is a free on\-device iOS application manager/installer built with UIKit for quality 
 * 【2024-08-26】[Lightning-AI / LitServe](https://github.com/Lightning-AI/LitServe) - Lightning-fast serving engine for AI models. Flexible. Easy. Enterprise-scale.
 * 【2024-08-23】[microsoft / Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook) - This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks.
@@ -771,6 +773,7 @@
 
 ## Python
 
+* 【2024-08-30】[andrewyng / translation-agent](https://github.com/andrewyng/translation-agent) - 
 * 【2024-08-29】[THUDM / GLM\-4](https://github.com/THUDM/GLM-4) - GLM\-4 series: Open Multilingual Multimodal Chat LMs \| 开源多语言多模态对话模型
 * 【2024-08-28】[NUS\-HPC\-AI\-Lab / VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) - VideoSys: An easy and efficient system for video generation
 * 【2024-08-27】[PromtEngineer / Verbi](https://github.com/PromtEngineer/Verbi) - A modular voice assistant application for experimenting with state\-of\-the\-art transcription, response generation, and text\-to\-speech models  Supports OpenAI, Groq, Elevanlabs, CartesiaAI, and Deepgram APIs, plus local models via Ollama  Ideal for research and development in voice technology 
@@ -1330,6 +1333,8 @@
 
 ## Javascript
 
+* 【2024-08-30】[remarkjs / react\-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
+* 【2024-08-30】[evgeny-nadymov / telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
 * 【2024-08-28】[evgeny\-nadymov / telegram\-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
 * 【2024-08-24】[micromatch / micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library  Faster, drop\-in replacement to minimatch and multimatch  Used by square, webpack, babel core, yarn, jest, ract\-native, taro, bulma, browser\-sync, stylelint, nyc, ava, and many others! Follow micromatch's author: https://github com/jonschlinkert
 * 【2024-08-23】[mermaid\-js / mermaid\-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
@@ -2039,6 +2044,7 @@
 
 ## C++
 
+* 【2024-08-30】[colmap / glomap](https://github.com/colmap/glomap) - GLOMAP \- Global Structured\-from\-Motion Revisited
 * 【2024-08-28】[unitreerobotics / unitree_ros](https://github.com/unitreerobotics/unitree_ros) - 
 * 【2024-08-26】[dpjudas / SurrealEngine](https://github.com/dpjudas/SurrealEngine) - Unreal Tournament Engine Reimplementation
 * 【2024-08-26】[nisargjhaveri / WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) - Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi 
@@ -2233,6 +2239,9 @@
 
 ## C#
 
+* 【2024-08-30】[gusmanb / logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
+* 【2024-08-30】[AElfProject / AElf](https://github.com/AElfProject/AElf) - An AI\-enhanced cloud\-native layer\-1 blockchain network 
+* 【2024-08-30】[Azure / azure\-sdk\-tools](https://github.com/Azure/azure-sdk-tools) - Tools repository leveraged by the Azure SDK team 
 * 【2024-08-28】[ExcelDataReader / ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C\# for reading Microsoft Excel files
 * 【2024-08-26】[mxgmn / MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
 * 【2024-08-23】[wixtoolset / wix](https://github.com/wixtoolset/wix) - WiX Toolset Code
@@ -2817,6 +2826,7 @@
 
 ## Unknown
 
+* 【2024-08-30】[dailydotdev / daily](https://github.com/dailydotdev/daily) - daily dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 * 【2024-08-18】[yolain / ComfyUI\-Yolain\-Workflows](https://github.com/yolain/ComfyUI-Yolain-Workflows) - Some awesome comfyui workflows in here, and they are built using the comfyui\-easy\-use node package 
 * 【2024-08-17】[base\-org / brand\-kit](https://github.com/base-org/brand-kit) - Brand guide and logos for the Base brand 
 * 【2024-08-10】[joebew42 / study\-path](https://github.com/joebew42/study-path) - An organized learning path on Clean Code, Test\-Driven Development, Legacy Code, Refactoring, Domain\-Driven Design and Microservice Architecture
@@ -3301,6 +3311,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-30】[a\-b\-street / abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
+* 【2024-08-30】[spaceandtimelabs / sxt\-proof\-of\-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql) - Space and Time \| Proof of SQL
 * 【2024-08-29】[DataDog / lading](https://github.com/DataDog/lading) - A suite of data generation and load testing tools
 * 【2024-08-29】[DataDog / libdatadog](https://github.com/DataDog/libdatadog) - Datadog shared rust\-based library  For now only used in other products (e g  Ruby or PHP libraries) 
 * 【2024-08-27】[ratatui / ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
@@ -3764,6 +3776,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-30】[apollographql / apollo-client](https://github.com/apollographql/apollo-client) - 🚀  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
+* 【2024-08-30】[software\-mansion / react\-native\-screens](https://github.com/software-mansion/react-native-screens) - Native navigation primitives for your React Native app 
 * 【2024-08-29】[DataDog / browser\-sdk](https://github.com/DataDog/browser-sdk) - Datadog Browser SDK
 * 【2024-08-29】[pmndrs / jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 * 【2024-08-29】[DouyinFE / semi\-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library  🎨 Provide more than 3000+ Design Tokens, easy to build your design system  Make Semi Design to Any Design  🧑🏻‍💻 Design to Code in one click
