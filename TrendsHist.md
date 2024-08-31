@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-08-31】[frappe / frappe_docker](https://github.com/frappe/frappe_docker) - Docker images for production and development setups of the Frappe framework and ERPNext
+* 【2024-08-31】[datawhalechina / leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 * 【2024-08-30】[Cinnamon / kotaemon](https://github.com/Cinnamon/kotaemon) - An open\-source RAG\-based tool for chatting with your documents 
 * 【2024-08-30】[dokku / dokku](https://github.com/dokku/dokku) - A docker\-powered PaaS that helps you build and manage the lifecycle of applications
 * 【2024-08-28】[khcrysalis / Feather](https://github.com/khcrysalis/Feather) - Feather is a free on\-device iOS application manager/installer built with UIKit for quality 
@@ -593,6 +595,7 @@
 
 ## Java
 
+* 【2024-08-31】[in28minutes / JavaInterviewQuestionsAndAnswers](https://github.com/in28minutes/JavaInterviewQuestionsAndAnswers) - Java Interview Questions and Answers
 * 【2024-08-27】[PBH-BTN / PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)
 * 【2024-08-25】[nfcgate / nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
 * 【2024-08-22】[spring\-projects / spring\-integration](https://github.com/spring-projects/spring-integration) - Spring Integration provides an extension of the Spring programming model to support the well\-known Enterprise Integration Patterns (EIP)
@@ -773,6 +776,7 @@
 
 ## Python
 
+* 【2024-08-31】[AgentOps-AI / agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
 * 【2024-08-30】[andrewyng / translation-agent](https://github.com/andrewyng/translation-agent) - 
 * 【2024-08-29】[THUDM / GLM\-4](https://github.com/THUDM/GLM-4) - GLM\-4 series: Open Multilingual Multimodal Chat LMs \| 开源多语言多模态对话模型
 * 【2024-08-28】[NUS\-HPC\-AI\-Lab / VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) - VideoSys: An easy and efficient system for video generation
@@ -1631,6 +1635,9 @@
 
 ## Go
 
+* 【2024-08-31】[opentofu / registry](https://github.com/opentofu/registry) - The all\-new opentofu org registry!
+* 【2024-08-31】[gotify / server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real\-time per WebSocket  (Includes a sleek web\-ui)
+* 【2024-08-31】[langgenius / dify\-sandbox](https://github.com/langgenius/dify-sandbox) - A lightweight, fast, and secure code execution environment that supports multiple programming languages
 * 【2024-08-29】[DataDog / dd-trace-go](https://github.com/DataDog/dd-trace-go) - Datadog Go Library including APM tracing, profiling, and security monitoring.
 * 【2024-08-26】[rabilrbl / jiotv_go](https://github.com/rabilrbl/jiotv_go) - Unlock the magic of JioTV across all your devices, without the need for the JioTV App  Crafted with love in Golang for a delightful blend of speed and efficiency! 🌟✨
 * 【2024-08-22】[sourcegraph / sourcegraph\-public\-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
@@ -2239,6 +2246,7 @@
 
 ## C#
 
+* 【2024-08-31】[ElectronNET / Electron NET](https://github.com/ElectronNET/Electron.NET) - Build cross platform desktop apps with ASP NET Core (Razor Pages, MVC, Blazor) 
 * 【2024-08-30】[gusmanb / logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
 * 【2024-08-30】[AElfProject / AElf](https://github.com/AElfProject/AElf) - An AI\-enhanced cloud\-native layer\-1 blockchain network 
 * 【2024-08-30】[Azure / azure\-sdk\-tools](https://github.com/Azure/azure-sdk-tools) - Tools repository leveraged by the Azure SDK team 
@@ -2826,6 +2834,7 @@
 
 ## Unknown
 
+* 【2024-08-31】[anitabi / anitabi cn\-document](https://github.com/anitabi/anitabi.cn-document) - 动画巡礼文档
 * 【2024-08-30】[dailydotdev / daily](https://github.com/dailydotdev/daily) - daily dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 * 【2024-08-18】[yolain / ComfyUI\-Yolain\-Workflows](https://github.com/yolain/ComfyUI-Yolain-Workflows) - Some awesome comfyui workflows in here, and they are built using the comfyui\-easy\-use node package 
 * 【2024-08-17】[base\-org / brand\-kit](https://github.com/base-org/brand-kit) - Brand guide and logos for the Base brand 
@@ -3311,6 +3320,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-08-31】[AppFlowy\-IO / AppFlowy\-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - AppFlowy is an open\-source alternative to Notion  You are in charge of your data and customizations  Built with Flutter and Rust 
+* 【2024-08-31】[queer / boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files 
 * 【2024-08-30】[a\-b\-street / abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
 * 【2024-08-30】[spaceandtimelabs / sxt\-proof\-of\-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql) - Space and Time \| Proof of SQL
 * 【2024-08-29】[DataDog / lading](https://github.com/DataDog/lading) - A suite of data generation and load testing tools
@@ -3776,6 +3787,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-08-31】[web\-infra\-dev / rsbuild](https://github.com/web-infra-dev/rsbuild) - The Rspack\-based build tool  It's fast, out\-of\-the\-box and extensible 
 * 【2024-08-30】[apollographql / apollo-client](https://github.com/apollographql/apollo-client) - 🚀  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 * 【2024-08-30】[software\-mansion / react\-native\-screens](https://github.com/software-mansion/react-native-screens) - Native navigation primitives for your React Native app 
 * 【2024-08-29】[DataDog / browser\-sdk](https://github.com/DataDog/browser-sdk) - Datadog Browser SDK
