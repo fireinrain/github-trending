@@ -595,6 +595,7 @@
 
 ## Java
 
+* 【2024-09-01】[pig-mesh / excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - 本项目旨在为用户提供一个便捷的 Excel 导出解决方案。基于阿里巴巴的 EasyExcel 库，结合 Spring Boot 框架，封装并优化了 Excel 文件的导出流程，帮助开发者更高效地实现数据导出功能。
 * 【2024-08-31】[in28minutes / JavaInterviewQuestionsAndAnswers](https://github.com/in28minutes/JavaInterviewQuestionsAndAnswers) - Java Interview Questions and Answers
 * 【2024-08-27】[PBH-BTN / PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)
 * 【2024-08-25】[nfcgate / nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
@@ -776,6 +777,8 @@
 
 ## Python
 
+* 【2024-09-01】[scikit\-image / scikit\-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
+* 【2024-09-01】[Zeyi\-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools  一个轻量级的AI证件照制作算法。
 * 【2024-08-31】[AgentOps-AI / agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
 * 【2024-08-30】[andrewyng / translation-agent](https://github.com/andrewyng/translation-agent) - 
 * 【2024-08-29】[THUDM / GLM\-4](https://github.com/THUDM/GLM-4) - GLM\-4 series: Open Multilingual Multimodal Chat LMs \| 开源多语言多模态对话模型
@@ -1635,6 +1638,8 @@
 
 ## Go
 
+* 【2024-09-01】[NVIDIA / dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter) - NVIDIA GPU metrics exporter for Prometheus leveraging DCGM
+* 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 * 【2024-08-31】[opentofu / registry](https://github.com/opentofu/registry) - The all\-new opentofu org registry!
 * 【2024-08-31】[gotify / server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real\-time per WebSocket  (Includes a sleek web\-ui)
 * 【2024-08-31】[langgenius / dify\-sandbox](https://github.com/langgenius/dify-sandbox) - A lightweight, fast, and secure code execution environment that supports multiple programming languages
@@ -3320,6 +3325,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-09-01】[AppFlowy-IO / AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+* 【2024-09-01】[libnyanpasu / clash\-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆
+* 【2024-09-01】[spaceandtimelabs / sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql) - Space and Time | Proof of SQL
 * 【2024-08-31】[AppFlowy\-IO / AppFlowy\-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - AppFlowy is an open\-source alternative to Notion  You are in charge of your data and customizations  Built with Flutter and Rust 
 * 【2024-08-31】[queer / boxxy](https://github.com/queer/boxxy) - boxxy puts bad Linux applications in a box with only their files 
 * 【2024-08-30】[a\-b\-street / abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
@@ -3787,6 +3795,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-01】[jehna / humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
+* 【2024-09-01】[electron\-react\-boilerplate / electron\-react\-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross\-Platform Apps
+* 【2024-09-01】[gitroomhq / postiz\-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀
+* 【2024-09-01】[RSSNext / Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
+* 【2024-09-01】[actions / toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions 
 * 【2024-08-31】[web\-infra\-dev / rsbuild](https://github.com/web-infra-dev/rsbuild) - The Rspack\-based build tool  It's fast, out\-of\-the\-box and extensible 
 * 【2024-08-30】[apollographql / apollo-client](https://github.com/apollographql/apollo-client) - 🚀  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 * 【2024-08-30】[software\-mansion / react\-native\-screens](https://github.com/software-mansion/react-native-screens) - Native navigation primitives for your React Native app 
