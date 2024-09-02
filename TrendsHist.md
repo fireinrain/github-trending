@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-09-02】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
+* 【2024-09-02】[gitroomhq / postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀
 * 【2024-08-31】[frappe / frappe_docker](https://github.com/frappe/frappe_docker) - Docker images for production and development setups of the Frappe framework and ERPNext
 * 【2024-08-31】[datawhalechina / leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 * 【2024-08-30】[Cinnamon / kotaemon](https://github.com/Cinnamon/kotaemon) - An open\-source RAG\-based tool for chatting with your documents 
@@ -595,6 +597,7 @@
 
 ## Java
 
+* 【2024-09-02】[Wynntils / Wynntils](https://github.com/Wynntils/Wynntils) - Wynntils (Artemis) is a rewrite of Wynntils in 1 21 using Architectury, to support Fabric and Forge 
 * 【2024-09-01】[pig-mesh / excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - 本项目旨在为用户提供一个便捷的 Excel 导出解决方案。基于阿里巴巴的 EasyExcel 库，结合 Spring Boot 框架，封装并优化了 Excel 文件的导出流程，帮助开发者更高效地实现数据导出功能。
 * 【2024-08-31】[in28minutes / JavaInterviewQuestionsAndAnswers](https://github.com/in28minutes/JavaInterviewQuestionsAndAnswers) - Java Interview Questions and Answers
 * 【2024-08-27】[PBH-BTN / PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)
@@ -1340,6 +1343,7 @@
 
 ## Javascript
 
+* 【2024-09-02】[github / relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard <time> element.
 * 【2024-08-30】[remarkjs / react\-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 * 【2024-08-30】[evgeny-nadymov / telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
 * 【2024-08-28】[evgeny\-nadymov / telegram\-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
@@ -1638,6 +1642,7 @@
 
 ## Go
 
+* 【2024-09-02】[oapi\-codegen / oapi\-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 * 【2024-09-01】[NVIDIA / dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter) - NVIDIA GPU metrics exporter for Prometheus leveraging DCGM
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 * 【2024-08-31】[opentofu / registry](https://github.com/opentofu/registry) - The all\-new opentofu org registry!
@@ -1853,6 +1858,7 @@
 
 ## C
 
+* 【2024-09-02】[libsdl\-org / SDL_image](https://github.com/libsdl-org/SDL_image) - Image decoding for many popular formats for Simple Directmedia Layer 
 * 【2024-08-24】[open\-telemetry / opentelemetry\-go\-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) - OpenTelemetry Auto Instrumentation using eBPF
 * 【2024-08-21】[unbit / uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
 * 【2024-08-18】[Wren6991 / PicoDVI](https://github.com/Wren6991/PicoDVI) - Bitbanged DVI on the RP2040 Microcontroller
@@ -2056,6 +2062,7 @@
 
 ## C++
 
+* 【2024-09-02】[DistroAV / DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS\-NDI): NewTek NDI integration for OBS Studio
 * 【2024-08-30】[colmap / glomap](https://github.com/colmap/glomap) - GLOMAP \- Global Structured\-from\-Motion Revisited
 * 【2024-08-28】[unitreerobotics / unitree_ros](https://github.com/unitreerobotics/unitree_ros) - 
 * 【2024-08-26】[dpjudas / SurrealEngine](https://github.com/dpjudas/SurrealEngine) - Unreal Tournament Engine Reimplementation
@@ -2251,6 +2258,7 @@
 
 ## C#
 
+* 【2024-09-02】[microsoft / PSRule](https://github.com/microsoft/PSRule) - Validate infrastructure as code (IaC) and objects using PowerShell rules 
 * 【2024-08-31】[ElectronNET / Electron NET](https://github.com/ElectronNET/Electron.NET) - Build cross platform desktop apps with ASP NET Core (Razor Pages, MVC, Blazor) 
 * 【2024-08-30】[gusmanb / logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
 * 【2024-08-30】[AElfProject / AElf](https://github.com/AElfProject/AElf) - An AI\-enhanced cloud\-native layer\-1 blockchain network 
@@ -2498,6 +2506,7 @@
 
 ## Html
 
+* 【2024-09-02】[jdecked / twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone 
 * 【2024-08-25】[CommunityPro / portfolio-html](https://github.com/CommunityPro/portfolio-html) - 🌍 Open source portfolio template built with plain Html, CSS and JavaScript for developers to create their portfolio website
 * 【2024-08-24】[CommunityPro / portfolio\-html](https://github.com/CommunityPro/portfolio-html) - 🌍 Open source portfolio template built with plain Html, CSS and JavaScript for developers to create their portfolio website
 * 【2024-08-18】[tc39 / proposal\-decimal](https://github.com/tc39/proposal-decimal) - Built\-in exact decimal numbers for JavaScript
@@ -3325,6 +3334,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-09-02】[napi\-rs / napi\-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node js add\-ons in Rust via Node\-API
+* 【2024-09-02】[hatoo / oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation 
 * 【2024-09-01】[AppFlowy-IO / AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 * 【2024-09-01】[libnyanpasu / clash\-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆
 * 【2024-09-01】[spaceandtimelabs / sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql) - Space and Time | Proof of SQL
@@ -3795,6 +3806,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-02】[bluesky\-social / feed\-generator](https://github.com/bluesky-social/feed-generator) - ATProto Feed Generator Starter Kit
 * 【2024-09-01】[jehna / humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 * 【2024-09-01】[electron\-react\-boilerplate / electron\-react\-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross\-Platform Apps
 * 【2024-09-01】[gitroomhq / postiz\-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀
