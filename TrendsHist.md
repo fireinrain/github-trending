@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-09-03】[MLSysOps / MLE\-agent](https://github.com/MLSysOps/MLE-agent) - 🤖 MLE\-Agent: Your intelligent companion for seamless AI engineering and research  🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported  🎆 Code RAG
+* 【2024-09-03】[graviraja / MLOps\-Basics](https://github.com/graviraja/MLOps-Basics) - 
 * 【2024-09-02】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 * 【2024-09-02】[gitroomhq / postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀
 * 【2024-08-31】[frappe / frappe_docker](https://github.com/frappe/frappe_docker) - Docker images for production and development setups of the Frappe framework and ERPNext
@@ -597,6 +599,7 @@
 
 ## Java
 
+* 【2024-09-03】[Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
 * 【2024-09-02】[Wynntils / Wynntils](https://github.com/Wynntils/Wynntils) - Wynntils (Artemis) is a rewrite of Wynntils in 1 21 using Architectury, to support Fabric and Forge 
 * 【2024-09-01】[pig-mesh / excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - 本项目旨在为用户提供一个便捷的 Excel 导出解决方案。基于阿里巴巴的 EasyExcel 库，结合 Spring Boot 框架，封装并优化了 Excel 文件的导出流程，帮助开发者更高效地实现数据导出功能。
 * 【2024-08-31】[in28minutes / JavaInterviewQuestionsAndAnswers](https://github.com/in28minutes/JavaInterviewQuestionsAndAnswers) - Java Interview Questions and Answers
@@ -780,6 +783,10 @@
 
 ## Python
 
+* 【2024-09-03】[MLSysOps / MLE-agent](https://github.com/MLSysOps/MLE-agent) - 🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. 🎆 Code RAG
+* 【2024-09-03】[Recol / DLSS\-Updater](https://github.com/Recol/DLSS-Updater) - What if you could update all the games that are detected on your system?
+* 【2024-09-03】[hanxi / xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt\-dlp 下载。
+* 【2024-09-03】[dromara / domain\-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System 
 * 【2024-09-01】[scikit\-image / scikit\-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
 * 【2024-09-01】[Zeyi\-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools  一个轻量级的AI证件照制作算法。
 * 【2024-08-31】[AgentOps-AI / agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
@@ -1343,6 +1350,7 @@
 
 ## Javascript
 
+* 【2024-09-03】[xnx3 / translate](https://github.com/xnx3/translate) - Two lines of js realize automatic html translation  No need to change the page, no language configuration file, no API key, SEO friendly!
 * 【2024-09-02】[github / relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard <time> element.
 * 【2024-08-30】[remarkjs / react\-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 * 【2024-08-30】[evgeny-nadymov / telegram-react](https://github.com/evgeny-nadymov/telegram-react) - Experimental Telegram web client with tdlib, webassembly and react js under the hood
@@ -3334,6 +3342,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-09-03】[libnyanpasu / clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆
 * 【2024-09-02】[napi\-rs / napi\-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node js add\-ons in Rust via Node\-API
 * 【2024-09-02】[hatoo / oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation 
 * 【2024-09-01】[AppFlowy-IO / AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -3806,6 +3815,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-03】[shadcn-ui / taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
+* 【2024-09-03】[bluesky-social / feed-generator](https://github.com/bluesky-social/feed-generator) - ATProto Feed Generator Starter Kit
 * 【2024-09-02】[bluesky\-social / feed\-generator](https://github.com/bluesky-social/feed-generator) - ATProto Feed Generator Starter Kit
 * 【2024-09-01】[jehna / humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 * 【2024-09-01】[electron\-react\-boilerplate / electron\-react\-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross\-Platform Apps
