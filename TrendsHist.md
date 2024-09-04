@@ -599,6 +599,7 @@
 
 ## Java
 
+* 【2024-09-04】[irsdl / IIS\-ShortName\-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) - latest version of scanners for IIS short filename (8 3) disclosure vulnerability
 * 【2024-09-03】[Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
 * 【2024-09-02】[Wynntils / Wynntils](https://github.com/Wynntils/Wynntils) - Wynntils (Artemis) is a rewrite of Wynntils in 1 21 using Architectury, to support Fabric and Forge 
 * 【2024-09-01】[pig-mesh / excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - 本项目旨在为用户提供一个便捷的 Excel 导出解决方案。基于阿里巴巴的 EasyExcel 库，结合 Spring Boot 框架，封装并优化了 Excel 文件的导出流程，帮助开发者更高效地实现数据导出功能。
@@ -783,6 +784,7 @@
 
 ## Python
 
+* 【2024-09-04】[dromara / domain-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
 * 【2024-09-03】[MLSysOps / MLE-agent](https://github.com/MLSysOps/MLE-agent) - 🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. 🎆 Code RAG
 * 【2024-09-03】[Recol / DLSS\-Updater](https://github.com/Recol/DLSS-Updater) - What if you could update all the games that are detected on your system?
 * 【2024-09-03】[hanxi / xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt\-dlp 下载。
@@ -1350,6 +1352,7 @@
 
 ## Javascript
 
+* 【2024-09-04】[iam\-veeramalla / observability\-zero\-to\-hero](https://github.com/iam-veeramalla/observability-zero-to-hero) - [WIP]: Repo for learning observability
 * 【2024-09-03】[xnx3 / translate](https://github.com/xnx3/translate) - Two lines of js realize automatic html translation  No need to change the page, no language configuration file, no API key, SEO friendly!
 * 【2024-09-02】[github / relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard <time> element.
 * 【2024-08-30】[remarkjs / react\-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
@@ -1650,6 +1653,7 @@
 
 ## Go
 
+* 【2024-09-04】[NVIDIA / nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) - Build and run containers leveraging NVIDIA GPUs
 * 【2024-09-02】[oapi\-codegen / oapi\-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 * 【2024-09-01】[NVIDIA / dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter) - NVIDIA GPU metrics exporter for Prometheus leveraging DCGM
 * 【2024-09-01】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
@@ -1866,6 +1870,8 @@
 
 ## C
 
+* 【2024-09-04】[coop\-deluxe / sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) - An official continuation of https://github com/djoslin0/sm64ex\-coop on sm64coopdx for the enhancements and progress it already has 
+* 【2024-09-04】[WiringPi / WiringPi](https://github.com/WiringPi/WiringPi) - The arguably fastest GPIO Library for the Raspberry Pi
 * 【2024-09-02】[libsdl\-org / SDL_image](https://github.com/libsdl-org/SDL_image) - Image decoding for many popular formats for Simple Directmedia Layer 
 * 【2024-08-24】[open\-telemetry / opentelemetry\-go\-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) - OpenTelemetry Auto Instrumentation using eBPF
 * 【2024-08-21】[unbit / uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
@@ -2070,6 +2076,7 @@
 
 ## C++
 
+* 【2024-09-04】[LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 * 【2024-09-02】[DistroAV / DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS\-NDI): NewTek NDI integration for OBS Studio
 * 【2024-08-30】[colmap / glomap](https://github.com/colmap/glomap) - GLOMAP \- Global Structured\-from\-Motion Revisited
 * 【2024-08-28】[unitreerobotics / unitree_ros](https://github.com/unitreerobotics/unitree_ros) - 
@@ -2266,6 +2273,7 @@
 
 ## C#
 
+* 【2024-09-04】[Open\-Industry\-Project / Open\-Industry\-Project](https://github.com/Open-Industry-Project/Open-Industry-Project) - Free and open\-source warehouse/manufacturing simulation 
 * 【2024-09-02】[microsoft / PSRule](https://github.com/microsoft/PSRule) - Validate infrastructure as code (IaC) and objects using PowerShell rules 
 * 【2024-08-31】[ElectronNET / Electron NET](https://github.com/ElectronNET/Electron.NET) - Build cross platform desktop apps with ASP NET Core (Razor Pages, MVC, Blazor) 
 * 【2024-08-30】[gusmanb / logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
@@ -3342,6 +3350,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-09-04】[hrkfdn / ncspot](https://github.com/hrkfdn/ncspot) - Cross\-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes 
+* 【2024-09-04】[rusqlite / rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
 * 【2024-09-03】[libnyanpasu / clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆
 * 【2024-09-02】[napi\-rs / napi\-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node js add\-ons in Rust via Node\-API
 * 【2024-09-02】[hatoo / oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation 
