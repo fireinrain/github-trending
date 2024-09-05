@@ -1,5 +1,8 @@
 ## All language
 
+* 【2024-09-05】[graviraja / MLOps-Basics](https://github.com/graviraja/MLOps-Basics) - 
+* 【2024-09-05】[PaddlePaddle / PaddleHelix](https://github.com/PaddlePaddle/PaddleHelix) - Bio\-Computing Platform Featuring Large\-Scale Representation Learning and Multi\-Task Deep Learning “螺旋桨”生物计算工具集
+* 【2024-09-05】[Freika / dawarich](https://github.com/Freika/dawarich) - Self\-hosted alternative to Google Location History (Google Maps Timeline)
 * 【2024-09-03】[MLSysOps / MLE\-agent](https://github.com/MLSysOps/MLE-agent) - 🤖 MLE\-Agent: Your intelligent companion for seamless AI engineering and research  🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported  🎆 Code RAG
 * 【2024-09-03】[graviraja / MLOps\-Basics](https://github.com/graviraja/MLOps-Basics) - 
 * 【2024-09-02】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
@@ -784,6 +787,9 @@
 
 ## Python
 
+* 【2024-09-05】[spyder\-ide / spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder \- The Scientific Python Development Environment
+* 【2024-09-05】[nerfstudio-project / gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
+* 【2024-09-05】[mvt\-project / mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise 
 * 【2024-09-04】[dromara / domain-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
 * 【2024-09-03】[MLSysOps / MLE-agent](https://github.com/MLSysOps/MLE-agent) - 🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. 🎆 Code RAG
 * 【2024-09-03】[Recol / DLSS\-Updater](https://github.com/Recol/DLSS-Updater) - What if you could update all the games that are detected on your system?
@@ -1352,6 +1358,7 @@
 
 ## Javascript
 
+* 【2024-09-05】[iam-veeramalla / observability-zero-to-hero](https://github.com/iam-veeramalla/observability-zero-to-hero) - [WIP]: Repo for learning observability
 * 【2024-09-04】[iam\-veeramalla / observability\-zero\-to\-hero](https://github.com/iam-veeramalla/observability-zero-to-hero) - [WIP]: Repo for learning observability
 * 【2024-09-03】[xnx3 / translate](https://github.com/xnx3/translate) - Two lines of js realize automatic html translation  No need to change the page, no language configuration file, no API key, SEO friendly!
 * 【2024-09-02】[github / relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard <time> element.
