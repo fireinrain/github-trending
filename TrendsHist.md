@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-09-06】[odygrd / quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C++ Logging Library
 * 【2024-09-05】[graviraja / MLOps-Basics](https://github.com/graviraja/MLOps-Basics) - 
 * 【2024-09-05】[PaddlePaddle / PaddleHelix](https://github.com/PaddlePaddle/PaddleHelix) - Bio\-Computing Platform Featuring Large\-Scale Representation Learning and Multi\-Task Deep Learning “螺旋桨”生物计算工具集
 * 【2024-09-05】[Freika / dawarich](https://github.com/Freika/dawarich) - Self\-hosted alternative to Google Location History (Google Maps Timeline)
@@ -787,6 +788,7 @@
 
 ## Python
 
+* 【2024-09-06】[axolotl\-ai\-cloud / axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 * 【2024-09-05】[spyder\-ide / spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder \- The Scientific Python Development Environment
 * 【2024-09-05】[nerfstudio-project / gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
 * 【2024-09-05】[mvt\-project / mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise 
@@ -2529,6 +2531,8 @@
 
 ## Html
 
+* 【2024-09-06】[callummcdougall / ARENA_3.0](https://github.com/callummcdougall/ARENA_3.0) - 
+* 【2024-09-06】[horilla\-opensource / horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR software 
 * 【2024-09-02】[jdecked / twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone 
 * 【2024-08-25】[CommunityPro / portfolio-html](https://github.com/CommunityPro/portfolio-html) - 🌍 Open source portfolio template built with plain Html, CSS and JavaScript for developers to create their portfolio website
 * 【2024-08-24】[CommunityPro / portfolio\-html](https://github.com/CommunityPro/portfolio-html) - 🌍 Open source portfolio template built with plain Html, CSS and JavaScript for developers to create their portfolio website
@@ -3357,6 +3361,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-09-06】[infinyon / fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly  Alternative to Kafka + Flink in one 
+* 【2024-09-06】[elijah\-potter / harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
+* 【2024-09-06】[rsadsb / adsb_deku](https://github.com/rsadsb/adsb_deku) - ✈️Rust ADS\-B decoder + tui radar application
 * 【2024-09-04】[hrkfdn / ncspot](https://github.com/hrkfdn/ncspot) - Cross\-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes 
 * 【2024-09-04】[rusqlite / rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
 * 【2024-09-03】[libnyanpasu / clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆
@@ -3832,6 +3839,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-06】[atinux / nuxt\-auth\-utils](https://github.com/atinux/nuxt-auth-utils) - Minimal Auth module for Nuxt 3 
 * 【2024-09-03】[shadcn-ui / taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 * 【2024-09-03】[bluesky-social / feed-generator](https://github.com/bluesky-social/feed-generator) - ATProto Feed Generator Starter Kit
 * 【2024-09-02】[bluesky\-social / feed\-generator](https://github.com/bluesky-social/feed-generator) - ATProto Feed Generator Starter Kit
