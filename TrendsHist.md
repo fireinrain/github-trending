@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-09-07】[autowarefoundation / autoware](https://github.com/autowarefoundation/autoware) - Autoware \- the world's leading open\-source software project for autonomous driving
 * 【2024-09-06】[odygrd / quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C++ Logging Library
 * 【2024-09-05】[graviraja / MLOps-Basics](https://github.com/graviraja/MLOps-Basics) - 
 * 【2024-09-05】[PaddlePaddle / PaddleHelix](https://github.com/PaddlePaddle/PaddleHelix) - Bio\-Computing Platform Featuring Large\-Scale Representation Learning and Multi\-Task Deep Learning “螺旋桨”生物计算工具集
@@ -603,6 +604,7 @@
 
 ## Java
 
+* 【2024-09-07】[OpenBAS\-Platform / openbas](https://github.com/OpenBAS-Platform/openbas) - Open Breach and Attack Simulation Platform
 * 【2024-09-04】[irsdl / IIS\-ShortName\-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) - latest version of scanners for IIS short filename (8 3) disclosure vulnerability
 * 【2024-09-03】[Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
 * 【2024-09-02】[Wynntils / Wynntils](https://github.com/Wynntils/Wynntils) - Wynntils (Artemis) is a rewrite of Wynntils in 1 21 using Architectury, to support Fabric and Forge 
@@ -788,6 +790,7 @@
 
 ## Python
 
+* 【2024-09-07】[polarsource / polar](https://github.com/polarsource/polar) - Polar is the best funding & monetization platform for developers  From first donation to IPO 
 * 【2024-09-06】[axolotl\-ai\-cloud / axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 * 【2024-09-05】[spyder\-ide / spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder \- The Scientific Python Development Environment
 * 【2024-09-05】[nerfstudio-project / gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
@@ -1360,6 +1363,8 @@
 
 ## Javascript
 
+* 【2024-09-07】[stripe\-samples / accept\-a\-payment](https://github.com/stripe-samples/accept-a-payment) - Learn how to accept a payment from customers around the world with a variety of payment methods 
+* 【2024-09-07】[dromara / skyeye](https://github.com/dromara/skyeye) - 智能办公OA系统[SpringBoot2\-快速开发平台]，适用于医院，学校，中小型企业等机构的管理。Activiti5 22+动态表单实现零java代码即可做到复杂业务的流程实施，同时包含文件在线操作、日志、考勤、CRM、ERP进销存、项目、拖拽式生成问卷、日程、笔记、计划、行政等多种复杂业务功能。同时，可进行授权二开。
 * 【2024-09-05】[iam-veeramalla / observability-zero-to-hero](https://github.com/iam-veeramalla/observability-zero-to-hero) - [WIP]: Repo for learning observability
 * 【2024-09-04】[iam\-veeramalla / observability\-zero\-to\-hero](https://github.com/iam-veeramalla/observability-zero-to-hero) - [WIP]: Repo for learning observability
 * 【2024-09-03】[xnx3 / translate](https://github.com/xnx3/translate) - Two lines of js realize automatic html translation  No need to change the page, no language configuration file, no API key, SEO friendly!
@@ -1879,6 +1884,7 @@
 
 ## C
 
+* 【2024-09-07】[sz3 / cfc](https://github.com/sz3/cfc) - Demo/test android app for libcimbar  Copy files over the cell phone camera!
 * 【2024-09-04】[coop\-deluxe / sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) - An official continuation of https://github com/djoslin0/sm64ex\-coop on sm64coopdx for the enhancements and progress it already has 
 * 【2024-09-04】[WiringPi / WiringPi](https://github.com/WiringPi/WiringPi) - The arguably fastest GPIO Library for the Raspberry Pi
 * 【2024-09-02】[libsdl\-org / SDL_image](https://github.com/libsdl-org/SDL_image) - Image decoding for many popular formats for Simple Directmedia Layer 
@@ -2085,6 +2091,8 @@
 
 ## C++
 
+* 【2024-09-07】[sz3 / libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color\-icon\-matrix barcodes
+* 【2024-09-07】[RWKV / rwkv cpp](https://github.com/RWKV/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
 * 【2024-09-04】[LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 * 【2024-09-02】[DistroAV / DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS\-NDI): NewTek NDI integration for OBS Studio
 * 【2024-08-30】[colmap / glomap](https://github.com/colmap/glomap) - GLOMAP \- Global Structured\-from\-Motion Revisited
@@ -3361,6 +3369,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-09-07】[elijah-potter / harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
+* 【2024-09-07】[postgresml / pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support 
 * 【2024-09-06】[infinyon / fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly  Alternative to Kafka + Flink in one 
 * 【2024-09-06】[elijah\-potter / harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
 * 【2024-09-06】[rsadsb / adsb_deku](https://github.com/rsadsb/adsb_deku) - ✈️Rust ADS\-B decoder + tui radar application
@@ -3839,6 +3849,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-07】[redwoodjs / redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 * 【2024-09-06】[atinux / nuxt\-auth\-utils](https://github.com/atinux/nuxt-auth-utils) - Minimal Auth module for Nuxt 3 
 * 【2024-09-03】[shadcn-ui / taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 * 【2024-09-03】[bluesky-social / feed-generator](https://github.com/bluesky-social/feed-generator) - ATProto Feed Generator Starter Kit
