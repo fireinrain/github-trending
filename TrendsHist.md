@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-09-08】[ChrisTitusTech / linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox \- Linutil is a distro\-agnostic toolbox designed to simplify everyday Linux tasks 
 * 【2024-09-07】[autowarefoundation / autoware](https://github.com/autowarefoundation/autoware) - Autoware \- the world's leading open\-source software project for autonomous driving
 * 【2024-09-06】[odygrd / quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C++ Logging Library
 * 【2024-09-05】[graviraja / MLOps-Basics](https://github.com/graviraja/MLOps-Basics) - 
@@ -604,6 +605,7 @@
 
 ## Java
 
+* 【2024-09-08】[OpenBAS-Platform / openbas](https://github.com/OpenBAS-Platform/openbas) - Open Breach and Attack Simulation Platform
 * 【2024-09-07】[OpenBAS\-Platform / openbas](https://github.com/OpenBAS-Platform/openbas) - Open Breach and Attack Simulation Platform
 * 【2024-09-04】[irsdl / IIS\-ShortName\-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) - latest version of scanners for IIS short filename (8 3) disclosure vulnerability
 * 【2024-09-03】[Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
@@ -2290,6 +2292,7 @@
 
 ## C#
 
+* 【2024-09-08】[Pik\-4 / HsMod](https://github.com/Pik-4/HsMod) - Hearthstone Modify Based on BepInEx
 * 【2024-09-04】[Open\-Industry\-Project / Open\-Industry\-Project](https://github.com/Open-Industry-Project/Open-Industry-Project) - Free and open\-source warehouse/manufacturing simulation 
 * 【2024-09-02】[microsoft / PSRule](https://github.com/microsoft/PSRule) - Validate infrastructure as code (IaC) and objects using PowerShell rules 
 * 【2024-08-31】[ElectronNET / Electron NET](https://github.com/ElectronNET/Electron.NET) - Build cross platform desktop apps with ASP NET Core (Razor Pages, MVC, Blazor) 
@@ -3369,6 +3372,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-09-08】[rust-lang / rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 * 【2024-09-07】[elijah-potter / harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
 * 【2024-09-07】[postgresml / pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support 
 * 【2024-09-06】[infinyon / fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly  Alternative to Kafka + Flink in one 
@@ -3849,6 +3853,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-08】[langchain\-ai / langgraphjs](https://github.com/langchain-ai/langgraphjs) - ⚡ Build language agents as graphs ⚡
+* 【2024-09-08】[oldj / SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+* 【2024-09-08】[cloudflare / serverless\-registry](https://github.com/cloudflare/serverless-registry) - A Docker registry backed by Workers and R2 
 * 【2024-09-07】[redwoodjs / redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 * 【2024-09-06】[atinux / nuxt\-auth\-utils](https://github.com/atinux/nuxt-auth-utils) - Minimal Auth module for Nuxt 3 
 * 【2024-09-03】[shadcn-ui / taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
