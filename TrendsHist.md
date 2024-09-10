@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-09-10】[HiEventsDev / Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform for concerts conferences and everything in between🎟️
 * 【2024-09-09】[afadil / wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 * 【2024-09-09】[HiEventsDev / Hi Events](https://github.com/HiEventsDev/Hi.Events) - Open\-source event management and ticket selling platform 🎟️
 * 【2024-09-08】[ChrisTitusTech / linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox \- Linutil is a distro\-agnostic toolbox designed to simplify everyday Linux tasks 
@@ -1675,6 +1676,7 @@
 
 ## Go
 
+* 【2024-09-10】[arduino / arduino\-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 * 【2024-09-04】[NVIDIA / nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) - Build and run containers leveraging NVIDIA GPUs
 * 【2024-09-02】[oapi\-codegen / oapi\-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 * 【2024-09-01】[NVIDIA / dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter) - NVIDIA GPU metrics exporter for Prometheus leveraging DCGM
@@ -3381,6 +3383,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-09-10】[mbecker20 / komodo](https://github.com/mbecker20/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 * 【2024-09-08】[rust-lang / rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 * 【2024-09-07】[elijah-potter / harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
 * 【2024-09-07】[postgresml / pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support 
@@ -3862,6 +3865,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-10】[panaverse / learn-nextjs](https://github.com/panaverse/learn-nextjs) - Learn Modern Full Stack Web 2 and Web 3 Development using Typescript, Next.js 13 Apps, Tailwind CSS, Shadcn UI, Neon, Drizzle ORM, and Sanity
 * 【2024-09-09】[Uniswap / v3-core](https://github.com/Uniswap/v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
 * 【2024-09-09】[panaverse / learn\-nextjs](https://github.com/panaverse/learn-nextjs) - Learn Modern Full Stack Web 2 and Web 3 Development using Typescript, Next js 13 Apps, Tailwind CSS, Shadcn UI, Neon, Drizzle ORM, and Sanity
 * 【2024-09-09】[run-llama / create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
