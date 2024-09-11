@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-09-11】[josephburnett / jd](https://github.com/josephburnett/jd) - JSON diff and patch
 * 【2024-09-10】[HiEventsDev / Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform for concerts conferences and everything in between🎟️
 * 【2024-09-09】[afadil / wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 * 【2024-09-09】[HiEventsDev / Hi Events](https://github.com/HiEventsDev/Hi.Events) - Open\-source event management and ticket selling platform 🎟️
@@ -2301,6 +2302,7 @@
 
 ## C#
 
+* 【2024-09-11】[microsoftgraph / group\-membership\-management](https://github.com/microsoftgraph/group-membership-management) - Group Membership Management (GMM) is a service that dynamically manages the membership of AAD Groups  Groups managed by GMM can have their membership defined using existing AAD Groups and/or custom membership sources 
 * 【2024-09-09】[nesrak1 / UABEA](https://github.com/nesrak1/UABEA) - c\# uabe for newer versions of unity
 * 【2024-09-08】[Pik\-4 / HsMod](https://github.com/Pik-4/HsMod) - Hearthstone Modify Based on BepInEx
 * 【2024-09-04】[Open\-Industry\-Project / Open\-Industry\-Project](https://github.com/Open-Industry-Project/Open-Industry-Project) - Free and open\-source warehouse/manufacturing simulation 
@@ -3383,6 +3385,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-09-11】[WGUNDERWOOD / tex\-fmt](https://github.com/WGUNDERWOOD/tex-fmt) - An extremely fast LaTeX formatter written in Rust
+* 【2024-09-11】[mtkennerly / ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
 * 【2024-09-10】[mbecker20 / komodo](https://github.com/mbecker20/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 * 【2024-09-08】[rust-lang / rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.
 * 【2024-09-07】[elijah-potter / harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
