@@ -796,6 +796,7 @@
 
 ## Python
 
+* 【2024-09-13】[runhey / OnmyojiAutoScript](https://github.com/runhey/OnmyojiAutoScript) - Onmyoji Auto Script \| 阴阳师脚本
 * 【2024-09-12】[run\-llama / llama_deploy](https://github.com/run-llama/llama_deploy) - 
 * 【2024-09-12】[DataDog / integrations\-core](https://github.com/DataDog/integrations-core) - Core integrations of the Datadog Agent
 * 【2024-09-09】[simonw / datasette](https://github.com/simonw/datasette) - An open source multi\-tool for exploring and publishing data
@@ -1373,6 +1374,7 @@
 
 ## Javascript
 
+* 【2024-09-13】[rabbitmq / rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 * 【2024-09-12】[rabbitmq / rabbitmq\-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built\-in) plugins
 * 【2024-09-09】[lyfe00011 / whatsapp\-bot](https://github.com/lyfe00011/whatsapp-bot) - A whatsapp bot based on baileys
 * 【2024-09-09】[bitfocus / companion](https://github.com/bitfocus/companion) - Bitfocus Companion enables the reasonably priced Elgato Streamdeck and other controllers to be a professional shotbox surface for an increasing amount of different presentation switchers, video playback software and broadcast equipment 
@@ -2107,6 +2109,7 @@
 
 ## C++
 
+* 【2024-09-13】[turing-machines / mentals-ai](https://github.com/turing-machines/mentals-ai) - 🍓🍓🍓 Agents in Markdown syntax (loops, memory and tools included).
 * 【2024-09-12】[turing\-machines / mentals\-ai](https://github.com/turing-machines/mentals-ai) - 🍓🍓🍓 Agents in Markdown syntax (loops, memory and tools included) 
 * 【2024-09-09】[openblack / openblack](https://github.com/openblack/openblack) - openblack is an open\-source game engine that supports playing Black & White (2001) 
 * 【2024-09-07】[sz3 / libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color\-icon\-matrix barcodes
@@ -2560,6 +2563,7 @@
 
 ## Html
 
+* 【2024-09-13】[opulo\-inc / lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine 
 * 【2024-09-09】[ONDC\-Official / verification\-logs](https://github.com/ONDC-Official/verification-logs) - ONDC Pre\-production issue & discussion board
 * 【2024-09-06】[callummcdougall / ARENA_3.0](https://github.com/callummcdougall/ARENA_3.0) - 
 * 【2024-09-06】[horilla\-opensource / horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR software 
@@ -2905,6 +2909,7 @@
 
 ## Unknown
 
+* 【2024-09-13】[gmelodie / awesome\-wordlists](https://github.com/gmelodie/awesome-wordlists) - A curated list wordlists for bruteforcing and fuzzing
 * 【2024-08-31】[anitabi / anitabi cn\-document](https://github.com/anitabi/anitabi.cn-document) - 动画巡礼文档
 * 【2024-08-30】[dailydotdev / daily](https://github.com/dailydotdev/daily) - daily dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 * 【2024-08-18】[yolain / ComfyUI\-Yolain\-Workflows](https://github.com/yolain/ComfyUI-Yolain-Workflows) - Some awesome comfyui workflows in here, and they are built using the comfyui\-easy\-use node package 
@@ -3876,6 +3881,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-13】[video\-dev / hls js](https://github.com/video-dev/hls.js) - HLS js is a JavaScript library that plays HLS in browsers with support for MSE 
 * 【2024-09-10】[panaverse / learn-nextjs](https://github.com/panaverse/learn-nextjs) - Learn Modern Full Stack Web 2 and Web 3 Development using Typescript, Next.js 13 Apps, Tailwind CSS, Shadcn UI, Neon, Drizzle ORM, and Sanity
 * 【2024-09-09】[Uniswap / v3-core](https://github.com/Uniswap/v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
 * 【2024-09-09】[panaverse / learn\-nextjs](https://github.com/panaverse/learn-nextjs) - Learn Modern Full Stack Web 2 and Web 3 Development using Typescript, Next js 13 Apps, Tailwind CSS, Shadcn UI, Neon, Drizzle ORM, and Sanity
