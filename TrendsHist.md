@@ -609,6 +609,7 @@
 
 ## Java
 
+* 【2024-09-14】[unitycatalog / unitycatalog](https://github.com/unitycatalog/unitycatalog) - Open, Multi\-modal Catalog for Data & AI
 * 【2024-09-08】[OpenBAS-Platform / openbas](https://github.com/OpenBAS-Platform/openbas) - Open Breach and Attack Simulation Platform
 * 【2024-09-07】[OpenBAS\-Platform / openbas](https://github.com/OpenBAS-Platform/openbas) - Open Breach and Attack Simulation Platform
 * 【2024-09-04】[irsdl / IIS\-ShortName\-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) - latest version of scanners for IIS short filename (8 3) disclosure vulnerability
@@ -796,6 +797,8 @@
 
 ## Python
 
+* 【2024-09-14】[Future\-House / paper\-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations
+* 【2024-09-14】[open\-compass / VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open\-source evaluation toolkit of large vision\-language models (LVLMs), support ~100 VLMs, 40+ benchmarks
 * 【2024-09-13】[runhey / OnmyojiAutoScript](https://github.com/runhey/OnmyojiAutoScript) - Onmyoji Auto Script \| 阴阳师脚本
 * 【2024-09-12】[run\-llama / llama_deploy](https://github.com/run-llama/llama_deploy) - 
 * 【2024-09-12】[DataDog / integrations\-core](https://github.com/DataDog/integrations-core) - Core integrations of the Datadog Agent
@@ -1902,6 +1905,7 @@
 
 ## C
 
+* 【2024-09-14】[libssh2 / libssh2](https://github.com/libssh2/libssh2) - the SSH library
 * 【2024-09-07】[sz3 / cfc](https://github.com/sz3/cfc) - Demo/test android app for libcimbar  Copy files over the cell phone camera!
 * 【2024-09-04】[coop\-deluxe / sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) - An official continuation of https://github com/djoslin0/sm64ex\-coop on sm64coopdx for the enhancements and progress it already has 
 * 【2024-09-04】[WiringPi / WiringPi](https://github.com/WiringPi/WiringPi) - The arguably fastest GPIO Library for the Raspberry Pi
@@ -2109,6 +2113,7 @@
 
 ## C++
 
+* 【2024-09-14】[symless / synergy](https://github.com/symless/synergy) - Synergy lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux 
 * 【2024-09-13】[turing-machines / mentals-ai](https://github.com/turing-machines/mentals-ai) - 🍓🍓🍓 Agents in Markdown syntax (loops, memory and tools included).
 * 【2024-09-12】[turing\-machines / mentals\-ai](https://github.com/turing-machines/mentals-ai) - 🍓🍓🍓 Agents in Markdown syntax (loops, memory and tools included) 
 * 【2024-09-09】[openblack / openblack](https://github.com/openblack/openblack) - openblack is an open\-source game engine that supports playing Black & White (2001) 
@@ -3396,6 +3401,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-09-14】[orhun / binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 * 【2024-09-12】[esp\-rs / esp\-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
 * 【2024-09-11】[WGUNDERWOOD / tex\-fmt](https://github.com/WGUNDERWOOD/tex-fmt) - An extremely fast LaTeX formatter written in Rust
 * 【2024-09-11】[mtkennerly / ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves
