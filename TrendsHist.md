@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-09-15】[Future-House / paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations
 * 【2024-09-11】[josephburnett / jd](https://github.com/josephburnett/jd) - JSON diff and patch
 * 【2024-09-10】[HiEventsDev / Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform for concerts conferences and everything in between🎟️
 * 【2024-09-09】[afadil / wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
@@ -1377,6 +1378,8 @@
 
 ## Javascript
 
+* 【2024-09-15】[cmliu / CF\-Workers\-docker io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
+* 【2024-09-15】[SAP / openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise\-ready web applications, responsive to all devices, running on almost any browser of your choice 
 * 【2024-09-13】[rabbitmq / rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 * 【2024-09-12】[rabbitmq / rabbitmq\-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built\-in) plugins
 * 【2024-09-09】[lyfe00011 / whatsapp\-bot](https://github.com/lyfe00011/whatsapp-bot) - A whatsapp bot based on baileys
@@ -2316,6 +2319,7 @@
 
 ## C#
 
+* 【2024-09-15】[netwrix / pingcastle](https://github.com/netwrix/pingcastle) - PingCastle \- Get Active Directory Security at 80% in 20% of the time
 * 【2024-09-11】[microsoftgraph / group\-membership\-management](https://github.com/microsoftgraph/group-membership-management) - Group Membership Management (GMM) is a service that dynamically manages the membership of AAD Groups  Groups managed by GMM can have their membership defined using existing AAD Groups and/or custom membership sources 
 * 【2024-09-09】[nesrak1 / UABEA](https://github.com/nesrak1/UABEA) - c\# uabe for newer versions of unity
 * 【2024-09-08】[Pik\-4 / HsMod](https://github.com/Pik-4/HsMod) - Hearthstone Modify Based on BepInEx
@@ -2914,6 +2918,7 @@
 
 ## Unknown
 
+* 【2024-09-15】[oz123 / awesome\-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things  Inspired by all the other awesome\-    projects out there 
 * 【2024-09-13】[gmelodie / awesome\-wordlists](https://github.com/gmelodie/awesome-wordlists) - A curated list wordlists for bruteforcing and fuzzing
 * 【2024-08-31】[anitabi / anitabi cn\-document](https://github.com/anitabi/anitabi.cn-document) - 动画巡礼文档
 * 【2024-08-30】[dailydotdev / daily](https://github.com/dailydotdev/daily) - daily dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
@@ -3887,6 +3892,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-15】[triggerdotdev / jsonhero\-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open\-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed  🚀  Built with 💜 by the Trigger dev team 
+* 【2024-09-15】[glideapps / quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 * 【2024-09-13】[video\-dev / hls js](https://github.com/video-dev/hls.js) - HLS js is a JavaScript library that plays HLS in browsers with support for MSE 
 * 【2024-09-10】[panaverse / learn-nextjs](https://github.com/panaverse/learn-nextjs) - Learn Modern Full Stack Web 2 and Web 3 Development using Typescript, Next.js 13 Apps, Tailwind CSS, Shadcn UI, Neon, Drizzle ORM, and Sanity
 * 【2024-09-09】[Uniswap / v3-core](https://github.com/Uniswap/v3-core) - 🦄 🦄 🦄 Core smart contracts of Uniswap v3
