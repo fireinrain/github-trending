@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-09-16】[frdel / agent\-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 * 【2024-09-15】[Future-House / paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations
 * 【2024-09-11】[josephburnett / jd](https://github.com/josephburnett/jd) - JSON diff and patch
 * 【2024-09-10】[HiEventsDev / Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticket selling platform for concerts conferences and everything in between🎟️
@@ -798,6 +799,7 @@
 
 ## Python
 
+* 【2024-09-16】[frdel / agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 * 【2024-09-14】[Future\-House / paper\-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations
 * 【2024-09-14】[open\-compass / VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open\-source evaluation toolkit of large vision\-language models (LVLMs), support ~100 VLMs, 40+ benchmarks
 * 【2024-09-13】[runhey / OnmyojiAutoScript](https://github.com/runhey/OnmyojiAutoScript) - Onmyoji Auto Script \| 阴阳师脚本
@@ -1378,6 +1380,7 @@
 
 ## Javascript
 
+* 【2024-09-16】[cmliu / CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
 * 【2024-09-15】[cmliu / CF\-Workers\-docker io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
 * 【2024-09-15】[SAP / openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise\-ready web applications, responsive to all devices, running on almost any browser of your choice 
 * 【2024-09-13】[rabbitmq / rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
@@ -1688,6 +1691,7 @@
 
 ## Go
 
+* 【2024-09-16】[golang / example](https://github.com/golang/example) - Go example projects
 * 【2024-09-12】[openziti / ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti  Here you will find the executables for a fully zero trust, application embedded, programmable network @openziti
 * 【2024-09-12】[oapi-codegen / oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 * 【2024-09-10】[arduino / arduino\-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
@@ -2918,6 +2922,7 @@
 
 ## Unknown
 
+* 【2024-09-16】[oz123 / awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 * 【2024-09-15】[oz123 / awesome\-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things  Inspired by all the other awesome\-    projects out there 
 * 【2024-09-13】[gmelodie / awesome\-wordlists](https://github.com/gmelodie/awesome-wordlists) - A curated list wordlists for bruteforcing and fuzzing
 * 【2024-08-31】[anitabi / anitabi cn\-document](https://github.com/anitabi/anitabi.cn-document) - 动画巡礼文档
@@ -3406,6 +3411,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-09-16】[kwai / blaze](https://github.com/kwai/blaze) - Blazing\-fast query execution engine speaks Apache Spark language and has Arrow\-DataFusion at its core 
+* 【2024-09-16】[salvo\-rs / salvo](https://github.com/salvo-rs/salvo) - A powerful web framework built with a simplified design 
+* 【2024-09-16】[mattwparas / steel](https://github.com/mattwparas/steel) - An embedded scheme interpreter in Rust
 * 【2024-09-14】[orhun / binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 * 【2024-09-12】[esp\-rs / esp\-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
 * 【2024-09-11】[WGUNDERWOOD / tex\-fmt](https://github.com/WGUNDERWOOD/tex-fmt) - An extremely fast LaTeX formatter written in Rust
@@ -3892,6 +3900,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-16】[aws\-amplify / amplify\-ui](https://github.com/aws-amplify/amplify-ui) - Amplify UI is a collection of accessible, themeable, performant React (and more!) components that can connect directly to the cloud 
+* 【2024-09-16】[edmundhung / conform](https://github.com/edmundhung/conform) - A type\-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next js 
+* 【2024-09-16】[pyoncord / Bunny](https://github.com/pyoncord/Bunny) - A client mod for Discord mobile, fork of Vendetta
 * 【2024-09-15】[triggerdotdev / jsonhero\-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open\-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed  🚀  Built with 💜 by the Trigger dev team 
 * 【2024-09-15】[glideapps / quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 * 【2024-09-13】[video\-dev / hls js](https://github.com/video-dev/hls.js) - HLS js is a JavaScript library that plays HLS in browsers with support for MSE 
