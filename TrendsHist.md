@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-09-17】[krayin / laravel\-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management 
 * 【2024-09-16】[frdel / agent\-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 * 【2024-09-15】[Future-House / paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations
 * 【2024-09-11】[josephburnett / jd](https://github.com/josephburnett/jd) - JSON diff and patch
@@ -611,6 +612,7 @@
 
 ## Java
 
+* 【2024-09-17】[gahogg / Leetcode-Solutions](https://github.com/gahogg/Leetcode-Solutions) - The repository for all of the solutions to the Leetcode problems solved on my YouTube, Instagram and TikTok
 * 【2024-09-14】[unitycatalog / unitycatalog](https://github.com/unitycatalog/unitycatalog) - Open, Multi\-modal Catalog for Data & AI
 * 【2024-09-08】[OpenBAS-Platform / openbas](https://github.com/OpenBAS-Platform/openbas) - Open Breach and Attack Simulation Platform
 * 【2024-09-07】[OpenBAS\-Platform / openbas](https://github.com/OpenBAS-Platform/openbas) - Open Breach and Attack Simulation Platform
@@ -799,6 +801,8 @@
 
 ## Python
 
+* 【2024-09-17】[CadQuery / cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
+* 【2024-09-17】[ai\-to\-ai / Auto\-Gmail\-Creator](https://github.com/ai-to-ai/Auto-Gmail-Creator) - Open Source Bulk Auto Gmail Creator Bot with Selenium & Seleniumwire ( Python )  Feel free to contact me with Django/Flask, ML, AI, GPT, Automation, Scraping 
 * 【2024-09-16】[frdel / agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 * 【2024-09-14】[Future\-House / paper\-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations
 * 【2024-09-14】[open\-compass / VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open\-source evaluation toolkit of large vision\-language models (LVLMs), support ~100 VLMs, 40+ benchmarks
@@ -2120,6 +2124,7 @@
 
 ## C++
 
+* 【2024-09-17】[mrousavy / nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
 * 【2024-09-14】[symless / synergy](https://github.com/symless/synergy) - Synergy lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux 
 * 【2024-09-13】[turing-machines / mentals-ai](https://github.com/turing-machines/mentals-ai) - 🍓🍓🍓 Agents in Markdown syntax (loops, memory and tools included).
 * 【2024-09-12】[turing\-machines / mentals\-ai](https://github.com/turing-machines/mentals-ai) - 🍓🍓🍓 Agents in Markdown syntax (loops, memory and tools included) 
@@ -3900,6 +3905,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-17】[tonkeeper / tonkeeper-web](https://github.com/tonkeeper/tonkeeper-web) - Tonkeeper Web is a multi-platform open-source non-custodial TON crypto wallet and gateway to blockchain dApps
 * 【2024-09-16】[aws\-amplify / amplify\-ui](https://github.com/aws-amplify/amplify-ui) - Amplify UI is a collection of accessible, themeable, performant React (and more!) components that can connect directly to the cloud 
 * 【2024-09-16】[edmundhung / conform](https://github.com/edmundhung/conform) - A type\-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next js 
 * 【2024-09-16】[pyoncord / Bunny](https://github.com/pyoncord/Bunny) - A client mod for Discord mobile, fork of Vendetta
