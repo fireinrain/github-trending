@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-09-18】[krayin / laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
 * 【2024-09-17】[krayin / laravel\-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management 
 * 【2024-09-16】[frdel / agent\-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 * 【2024-09-15】[Future-House / paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations
@@ -2927,6 +2928,7 @@
 
 ## Unknown
 
+* 【2024-09-18】[ouckah / Summer2025\-Internships](https://github.com/ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-09-16】[oz123 / awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 * 【2024-09-15】[oz123 / awesome\-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things  Inspired by all the other awesome\-    projects out there 
 * 【2024-09-13】[gmelodie / awesome\-wordlists](https://github.com/gmelodie/awesome-wordlists) - A curated list wordlists for bruteforcing and fuzzing
@@ -3416,6 +3418,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-09-18】[salvo-rs / salvo](https://github.com/salvo-rs/salvo) - A powerful web framework built with a simplified design.
 * 【2024-09-16】[kwai / blaze](https://github.com/kwai/blaze) - Blazing\-fast query execution engine speaks Apache Spark language and has Arrow\-DataFusion at its core 
 * 【2024-09-16】[salvo\-rs / salvo](https://github.com/salvo-rs/salvo) - A powerful web framework built with a simplified design 
 * 【2024-09-16】[mattwparas / steel](https://github.com/mattwparas/steel) - An embedded scheme interpreter in Rust
@@ -3905,6 +3908,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-18】[aws-amplify / amplify-ui](https://github.com/aws-amplify/amplify-ui) - Amplify UI is a collection of accessible, themeable, performant React (and more!) components that can connect directly to the cloud.
+* 【2024-09-18】[BuilderIO / micro\-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 * 【2024-09-17】[tonkeeper / tonkeeper-web](https://github.com/tonkeeper/tonkeeper-web) - Tonkeeper Web is a multi-platform open-source non-custodial TON crypto wallet and gateway to blockchain dApps
 * 【2024-09-16】[aws\-amplify / amplify\-ui](https://github.com/aws-amplify/amplify-ui) - Amplify UI is a collection of accessible, themeable, performant React (and more!) components that can connect directly to the cloud 
 * 【2024-09-16】[edmundhung / conform](https://github.com/edmundhung/conform) - A type\-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next js 
