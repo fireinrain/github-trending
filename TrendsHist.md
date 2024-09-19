@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-09-19】[tungbq / devops\-basics](https://github.com/tungbq/devops-basics) - 🚀 Practical and document place for DevOps toolchain
 * 【2024-09-18】[krayin / laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
 * 【2024-09-17】[krayin / laravel\-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management 
 * 【2024-09-16】[frdel / agent\-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
@@ -1696,6 +1697,7 @@
 
 ## Go
 
+* 【2024-09-19】[jetify-com / devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 * 【2024-09-16】[golang / example](https://github.com/golang/example) - Go example projects
 * 【2024-09-12】[openziti / ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti  Here you will find the executables for a fully zero trust, application embedded, programmable network @openziti
 * 【2024-09-12】[oapi-codegen / oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
@@ -2125,6 +2127,7 @@
 
 ## C++
 
+* 【2024-09-19】[zufuliu / notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light\-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto\-completion and API list for many programming languages and documents, bundled with file browser plugin matepath 
 * 【2024-09-17】[mrousavy / nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
 * 【2024-09-14】[symless / synergy](https://github.com/symless/synergy) - Synergy lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux 
 * 【2024-09-13】[turing-machines / mentals-ai](https://github.com/turing-machines/mentals-ai) - 🍓🍓🍓 Agents in Markdown syntax (loops, memory and tools included).
@@ -3908,6 +3911,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-19】[gridstack / gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
+* 【2024-09-19】[reduxjs / redux-toolkit](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
+* 【2024-09-19】[aws / aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
 * 【2024-09-18】[aws-amplify / amplify-ui](https://github.com/aws-amplify/amplify-ui) - Amplify UI is a collection of accessible, themeable, performant React (and more!) components that can connect directly to the cloud.
 * 【2024-09-18】[BuilderIO / micro\-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 * 【2024-09-17】[tonkeeper / tonkeeper-web](https://github.com/tonkeeper/tonkeeper-web) - Tonkeeper Web is a multi-platform open-source non-custodial TON crypto wallet and gateway to blockchain dApps
