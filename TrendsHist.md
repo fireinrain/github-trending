@@ -615,6 +615,7 @@
 
 ## Java
 
+* 【2024-09-21】[comet\-ml / opik](https://github.com/comet-ml/opik) - Open\-source end\-to\-end LLM Development Platform
 * 【2024-09-17】[gahogg / Leetcode-Solutions](https://github.com/gahogg/Leetcode-Solutions) - The repository for all of the solutions to the Leetcode problems solved on my YouTube, Instagram and TikTok
 * 【2024-09-14】[unitycatalog / unitycatalog](https://github.com/unitycatalog/unitycatalog) - Open, Multi\-modal Catalog for Data & AI
 * 【2024-09-08】[OpenBAS-Platform / openbas](https://github.com/OpenBAS-Platform/openbas) - Open Breach and Attack Simulation Platform
@@ -804,6 +805,8 @@
 
 ## Python
 
+* 【2024-09-21】[rspeer / wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages 
+* 【2024-09-21】[ctripcorp / flybirds](https://github.com/ctripcorp/flybirds) - 基于自然语言的，跨端跨框架 BDD UI 自动化测试方案，BDD testing, Python style, Present by Trip Flight
 * 【2024-09-17】[CadQuery / cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
 * 【2024-09-17】[ai\-to\-ai / Auto\-Gmail\-Creator](https://github.com/ai-to-ai/Auto-Gmail-Creator) - Open Source Bulk Auto Gmail Creator Bot with Selenium & Seleniumwire ( Python )  Feel free to contact me with Django/Flask, ML, AI, GPT, Automation, Scraping 
 * 【2024-09-16】[frdel / agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
@@ -1387,6 +1390,7 @@
 
 ## Javascript
 
+* 【2024-09-21】[Unitech / pm2](https://github.com/Unitech/pm2) - Node js Production Process Manager with a built\-in Load Balancer 
 * 【2024-09-16】[cmliu / CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
 * 【2024-09-15】[cmliu / CF\-Workers\-docker io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
 * 【2024-09-15】[SAP / openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise\-ready web applications, responsive to all devices, running on almost any browser of your choice 
@@ -3915,6 +3919,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-21】[kangfenmao / cherry\-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
 * 【2024-09-20】[salesforce / tough\-cookie](https://github.com/salesforce/tough-cookie) - RFC6265 Cookies and CookieJar for Node js
 * 【2024-09-20】[JedWatson / react\-select](https://github.com/JedWatson/react-select) - The Select Component for React js
 * 【2024-09-19】[gridstack / gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
