@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-09-22】[QwenLM / Qwen2 5](https://github.com/QwenLM/Qwen2.5) - Qwen2 5 is the large language model series developed by Qwen team, Alibaba Cloud 
 * 【2024-09-20】[achristmascarl / rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 * 【2024-09-19】[tungbq / devops\-basics](https://github.com/tungbq/devops-basics) - 🚀 Practical and document place for DevOps toolchain
 * 【2024-09-18】[krayin / laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
@@ -1390,6 +1391,7 @@
 
 ## Javascript
 
+* 【2024-09-22】[lyfe00011 / whatsapp-bot](https://github.com/lyfe00011/whatsapp-bot) - A whatsapp bot based on baileys
 * 【2024-09-21】[Unitech / pm2](https://github.com/Unitech/pm2) - Node js Production Process Manager with a built\-in Load Balancer 
 * 【2024-09-16】[cmliu / CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
 * 【2024-09-15】[cmliu / CF\-Workers\-docker io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
@@ -2338,6 +2340,7 @@
 
 ## C#
 
+* 【2024-09-22】[thomhurst / TUnit](https://github.com/thomhurst/TUnit) - A modern, fast and flexible  NET testing framework
 * 【2024-09-15】[netwrix / pingcastle](https://github.com/netwrix/pingcastle) - PingCastle \- Get Active Directory Security at 80% in 20% of the time
 * 【2024-09-11】[microsoftgraph / group\-membership\-management](https://github.com/microsoftgraph/group-membership-management) - Group Membership Management (GMM) is a service that dynamically manages the membership of AAD Groups  Groups managed by GMM can have their membership defined using existing AAD Groups and/or custom membership sources 
 * 【2024-09-09】[nesrak1 / UABEA](https://github.com/nesrak1/UABEA) - c\# uabe for newer versions of unity
@@ -2591,6 +2594,7 @@
 
 ## Html
 
+* 【2024-09-22】[git / git\-scm com](https://github.com/git/git-scm.com) - The git\-scm com website  Note that this repository is only for the website; issues with git itself should go to https://git\-scm com/community 
 * 【2024-09-13】[opulo\-inc / lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine 
 * 【2024-09-09】[ONDC\-Official / verification\-logs](https://github.com/ONDC-Official/verification-logs) - ONDC Pre\-production issue & discussion board
 * 【2024-09-06】[callummcdougall / ARENA_3.0](https://github.com/callummcdougall/ARENA_3.0) - 
@@ -3427,6 +3431,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-09-22】[mediar\-ai / screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard  Works with Ollama  Alternative to Rewind ai  Open  Secure  You own your data  Rust 
+* 【2024-09-22】[tokio-rs / prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 * 【2024-09-20】[tokio\-rs / prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 * 【2024-09-20】[phiresky / ripgrep\-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E\-Books, Office documents, zip, tar gz, etc 
 * 【2024-09-18】[salvo-rs / salvo](https://github.com/salvo-rs/salvo) - A powerful web framework built with a simplified design.
@@ -3919,6 +3925,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-22】[reown\-com / appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
+* 【2024-09-22】[kangfenmao / cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
 * 【2024-09-21】[kangfenmao / cherry\-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
 * 【2024-09-20】[salesforce / tough\-cookie](https://github.com/salesforce/tough-cookie) - RFC6265 Cookies and CookieJar for Node js
 * 【2024-09-20】[JedWatson / react\-select](https://github.com/JedWatson/react-select) - The Select Component for React js
