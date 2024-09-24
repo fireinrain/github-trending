@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-09-24】[n8n-io / self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 * 【2024-09-23】[SharifiZarchi / Introduction_to_Machine_Learning](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) - دوره‌ی مقدمه‌ای بر یادگیری ماشین، برای دانشجویان
 * 【2024-09-22】[QwenLM / Qwen2 5](https://github.com/QwenLM/Qwen2.5) - Qwen2 5 is the large language model series developed by Qwen team, Alibaba Cloud 
 * 【2024-09-20】[achristmascarl / rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
@@ -807,6 +808,7 @@
 
 ## Python
 
+* 【2024-09-24】[LibraHp / GetQzonehistory](https://github.com/LibraHp/GetQzonehistory) - 获取QQ空间发布的历史说说
 * 【2024-09-21】[rspeer / wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages 
 * 【2024-09-21】[ctripcorp / flybirds](https://github.com/ctripcorp/flybirds) - 基于自然语言的，跨端跨框架 BDD UI 自动化测试方案，BDD testing, Python style, Present by Trip Flight
 * 【2024-09-17】[CadQuery / cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
@@ -1706,6 +1708,7 @@
 
 ## Go
 
+* 【2024-09-24】[mikestefanello / pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full\-stack web development starter kit in Go
 * 【2024-09-23】[konstructio / kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
 * 【2024-09-19】[jetify-com / devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
 * 【2024-09-16】[golang / example](https://github.com/golang/example) - Go example projects
@@ -2345,6 +2348,7 @@
 
 ## C#
 
+* 【2024-09-24】[HotCakeX / Harden\-Windows\-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation \| Always up\-to\-date and works with the latest build of Windows \| Provides tools and Guides for Personal, Enterprise, Government and Military security levels \| Read The Rationale https://github com/HotCakeX/Harden\-Windows\-Security/blob/main/Rationale md
 * 【2024-09-22】[thomhurst / TUnit](https://github.com/thomhurst/TUnit) - A modern, fast and flexible  NET testing framework
 * 【2024-09-15】[netwrix / pingcastle](https://github.com/netwrix/pingcastle) - PingCastle \- Get Active Directory Security at 80% in 20% of the time
 * 【2024-09-11】[microsoftgraph / group\-membership\-management](https://github.com/microsoftgraph/group-membership-management) - Group Membership Management (GMM) is a service that dynamically manages the membership of AAD Groups  Groups managed by GMM can have their membership defined using existing AAD Groups and/or custom membership sources 
@@ -2946,6 +2950,7 @@
 
 ## Unknown
 
+* 【2024-09-24】[GEIGEIGEIST / TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column\-staggered split keyboard  It meant to be used with a SEEED XIAO BLE or RP2040
 * 【2024-09-23】[n8n\-io / self\-hosted\-ai\-starter\-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self\-hosted AI Starter Kit is an open\-source template that quickly sets up a local AI environment  Curated by n8n, it provides essential tools for creating secure, self\-hosted AI workflows 
 * 【2024-09-18】[ouckah / Summer2025\-Internships](https://github.com/ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-09-16】[oz123 / awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
@@ -3437,6 +3442,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-09-24】[mediar-ai / screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
+* 【2024-09-24】[kyclark / command\-line\-rust](https://github.com/kyclark/command-line-rust) - Code for Command\-Line Rust (O'Reilly, 2022, ISBN 9781098109417) https://learning oreilly com/library/view/command\-line\-rust/9781098109424/
 * 【2024-09-23】[squidowl / halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 * 【2024-09-23】[model\-checking / kani](https://github.com/model-checking/kani) - Kani Rust Verifier
 * 【2024-09-22】[mediar\-ai / screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard  Works with Ollama  Alternative to Rewind ai  Open  Secure  You own your data  Rust 
@@ -3933,6 +3940,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-24】[mickasmt / next\-saas\-stripe\-starter](https://github.com/mickasmt/next-saas-stripe-starter) - Open\-source SaaS Starter with User Roles & Admin Panel  Built using Next js 14, Prisma, Neon, Auth js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions 
 * 【2024-09-22】[reown\-com / appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
 * 【2024-09-22】[kangfenmao / cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
 * 【2024-09-21】[kangfenmao / cherry\-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
