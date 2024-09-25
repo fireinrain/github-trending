@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-09-25】[srush / GPU\-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles  Learn CUDA 
 * 【2024-09-24】[n8n-io / self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 * 【2024-09-23】[SharifiZarchi / Introduction_to_Machine_Learning](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) - دوره‌ی مقدمه‌ای بر یادگیری ماشین، برای دانشجویان
 * 【2024-09-22】[QwenLM / Qwen2 5](https://github.com/QwenLM/Qwen2.5) - Qwen2 5 is the large language model series developed by Qwen team, Alibaba Cloud 
@@ -618,6 +619,7 @@
 
 ## Java
 
+* 【2024-09-25】[CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI\-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more 
 * 【2024-09-21】[comet\-ml / opik](https://github.com/comet-ml/opik) - Open\-source end\-to\-end LLM Development Platform
 * 【2024-09-17】[gahogg / Leetcode-Solutions](https://github.com/gahogg/Leetcode-Solutions) - The repository for all of the solutions to the Leetcode problems solved on my YouTube, Instagram and TikTok
 * 【2024-09-14】[unitycatalog / unitycatalog](https://github.com/unitycatalog/unitycatalog) - Open, Multi\-modal Catalog for Data & AI
@@ -1394,6 +1396,7 @@
 
 ## Javascript
 
+* 【2024-09-25】[chrishubert / whatsapp\-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp\-web js library, providing an easy\-to\-use interface to interact with the WhatsApp Web platform 
 * 【2024-09-23】[Neet-Nestor / Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 * 【2024-09-22】[lyfe00011 / whatsapp-bot](https://github.com/lyfe00011/whatsapp-bot) - A whatsapp bot based on baileys
 * 【2024-09-21】[Unitech / pm2](https://github.com/Unitech/pm2) - Node js Production Process Manager with a built\-in Load Balancer 
@@ -1932,6 +1935,7 @@
 
 ## C
 
+* 【2024-09-25】[cnlohr / rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
 * 【2024-09-23】[TechUnRestricted / WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) - 🖥 Windows Bootable USB creator for macOS  🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements  👾 UEFI & Legacy Support
 * 【2024-09-20】[klonyyy / MCUViewer](https://github.com/klonyyy/MCUViewer) - Real\-time embedded variable & trace viewer
 * 【2024-09-14】[libssh2 / libssh2](https://github.com/libssh2/libssh2) - the SSH library
@@ -2348,6 +2352,7 @@
 
 ## C#
 
+* 【2024-09-25】[HotCakeX / Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
 * 【2024-09-24】[HotCakeX / Harden\-Windows\-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation \| Always up\-to\-date and works with the latest build of Windows \| Provides tools and Guides for Personal, Enterprise, Government and Military security levels \| Read The Rationale https://github com/HotCakeX/Harden\-Windows\-Security/blob/main/Rationale md
 * 【2024-09-22】[thomhurst / TUnit](https://github.com/thomhurst/TUnit) - A modern, fast and flexible  NET testing framework
 * 【2024-09-15】[netwrix / pingcastle](https://github.com/netwrix/pingcastle) - PingCastle \- Get Active Directory Security at 80% in 20% of the time
@@ -2950,6 +2955,7 @@
 
 ## Unknown
 
+* 【2024-09-25】[ouckah / Summer2025-Internships](https://github.com/ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-09-24】[GEIGEIGEIST / TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column\-staggered split keyboard  It meant to be used with a SEEED XIAO BLE or RP2040
 * 【2024-09-23】[n8n\-io / self\-hosted\-ai\-starter\-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self\-hosted AI Starter Kit is an open\-source template that quickly sets up a local AI environment  Curated by n8n, it provides essential tools for creating secure, self\-hosted AI workflows 
 * 【2024-09-18】[ouckah / Summer2025\-Internships](https://github.com/ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
@@ -3940,6 +3946,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-25】[mickasmt / next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - Open-source SaaS Starter with User Roles & Admin Panel. Built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions.
+* 【2024-09-25】[tensorflow / tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 * 【2024-09-24】[mickasmt / next\-saas\-stripe\-starter](https://github.com/mickasmt/next-saas-stripe-starter) - Open\-source SaaS Starter with User Roles & Admin Panel  Built using Next js 14, Prisma, Neon, Auth js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions 
 * 【2024-09-22】[reown\-com / appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
 * 【2024-09-22】[kangfenmao / cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
