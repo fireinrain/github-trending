@@ -1,5 +1,8 @@
 ## All language
 
+* 【2024-09-26】[srush / GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
+* 【2024-09-26】[wgh136 / PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources 
+* 【2024-09-26】[microsoft / azurelinux](https://github.com/microsoft/azurelinux) - Linux OS for Azure 1P services and edge appliances
 * 【2024-09-25】[srush / GPU\-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles  Learn CUDA 
 * 【2024-09-24】[n8n-io / self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 * 【2024-09-23】[SharifiZarchi / Introduction_to_Machine_Learning](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) - دوره‌ی مقدمه‌ای بر یادگیری ماشین، برای دانشجویان
@@ -810,6 +813,8 @@
 
 ## Python
 
+* 【2024-09-26】[bitsandbytes-foundation / bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) - Accessible large language models via k-bit quantization for PyTorch.
+* 【2024-09-26】[microsoft / RD\-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models  We are committed to automate these high\-value generic R&D processes through our open source R&D automation tool RD\-Agent, which let AI drive data\-driven AI 
 * 【2024-09-24】[LibraHp / GetQzonehistory](https://github.com/LibraHp/GetQzonehistory) - 获取QQ空间发布的历史说说
 * 【2024-09-21】[rspeer / wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages 
 * 【2024-09-21】[ctripcorp / flybirds](https://github.com/ctripcorp/flybirds) - 基于自然语言的，跨端跨框架 BDD UI 自动化测试方案，BDD testing, Python style, Present by Trip Flight
@@ -1396,6 +1401,7 @@
 
 ## Javascript
 
+* 【2024-09-26】[chrishubert / whatsapp-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform.
 * 【2024-09-25】[chrishubert / whatsapp\-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp\-web js library, providing an easy\-to\-use interface to interact with the WhatsApp Web platform 
 * 【2024-09-23】[Neet-Nestor / Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 * 【2024-09-22】[lyfe00011 / whatsapp-bot](https://github.com/lyfe00011/whatsapp-bot) - A whatsapp bot based on baileys
@@ -2608,6 +2614,7 @@
 
 ## Html
 
+* 【2024-09-26】[ONDC-Official / verification-logs](https://github.com/ONDC-Official/verification-logs) - ONDC Pre-production issue & discussion board
 * 【2024-09-22】[git / git\-scm com](https://github.com/git/git-scm.com) - The git\-scm com website  Note that this repository is only for the website; issues with git itself should go to https://git\-scm com/community 
 * 【2024-09-13】[opulo\-inc / lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine 
 * 【2024-09-09】[ONDC\-Official / verification\-logs](https://github.com/ONDC-Official/verification-logs) - ONDC Pre\-production issue & discussion board
@@ -3946,6 +3953,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-26】[panoratech / Panora](https://github.com/panoratech/Panora) - One API to connect your data sources to your LLMs
 * 【2024-09-25】[mickasmt / next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - Open-source SaaS Starter with User Roles & Admin Panel. Built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions.
 * 【2024-09-25】[tensorflow / tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 * 【2024-09-24】[mickasmt / next\-saas\-stripe\-starter](https://github.com/mickasmt/next-saas-stripe-starter) - Open\-source SaaS Starter with User Roles & Admin Panel  Built using Next js 14, Prisma, Neon, Auth js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions 
