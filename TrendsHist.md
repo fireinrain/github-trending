@@ -1,5 +1,8 @@
 ## All language
 
+* 【2024-09-27】[meta\-llama / llama\-stack](https://github.com/meta-llama/llama-stack) - Model components of the Llama Stack APIs
+* 【2024-09-27】[hyperknot / openfreemap](https://github.com/hyperknot/openfreemap) - Free and open\-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
+* 【2024-09-27】[meta\-llama / llama\-stack\-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
 * 【2024-09-26】[srush / GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
 * 【2024-09-26】[wgh136 / PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources 
 * 【2024-09-26】[microsoft / azurelinux](https://github.com/microsoft/azurelinux) - Linux OS for Azure 1P services and edge appliances
@@ -622,6 +625,8 @@
 
 ## Java
 
+* 【2024-09-27】[apache / parquet\-java](https://github.com/apache/parquet-java) - Apache Parquet Java
+* 【2024-09-27】[FasterXML / jackson\-core](https://github.com/FasterXML/jackson-core) - Core part of Jackson that defines Streaming API as well as basic shared abstractions
 * 【2024-09-25】[CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI\-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more 
 * 【2024-09-21】[comet\-ml / opik](https://github.com/comet-ml/opik) - Open\-source end\-to\-end LLM Development Platform
 * 【2024-09-17】[gahogg / Leetcode-Solutions](https://github.com/gahogg/Leetcode-Solutions) - The repository for all of the solutions to the Leetcode problems solved on my YouTube, Instagram and TikTok
@@ -813,6 +818,8 @@
 
 ## Python
 
+* 【2024-09-27】[meta-llama / llama-stack](https://github.com/meta-llama/llama-stack) - Model components of the Llama Stack APIs
+* 【2024-09-27】[meta-llama / llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
 * 【2024-09-26】[bitsandbytes-foundation / bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) - Accessible large language models via k-bit quantization for PyTorch.
 * 【2024-09-26】[microsoft / RD\-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models  We are committed to automate these high\-value generic R&D processes through our open source R&D automation tool RD\-Agent, which let AI drive data\-driven AI 
 * 【2024-09-24】[LibraHp / GetQzonehistory](https://github.com/LibraHp/GetQzonehistory) - 获取QQ空间发布的历史说说
@@ -1401,6 +1408,7 @@
 
 ## Javascript
 
+* 【2024-09-27】[ThePansmith / Monifactory](https://github.com/ThePansmith/Monifactory) - A Modern Remaster of Nomifactory
 * 【2024-09-26】[chrishubert / whatsapp-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform.
 * 【2024-09-25】[chrishubert / whatsapp\-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp\-web js library, providing an easy\-to\-use interface to interact with the WhatsApp Web platform 
 * 【2024-09-23】[Neet-Nestor / Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
@@ -1717,6 +1725,7 @@
 
 ## Go
 
+* 【2024-09-27】[hemilabs / heminetwork](https://github.com/hemilabs/heminetwork) - The hemi network core daemons 
 * 【2024-09-24】[mikestefanello / pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full\-stack web development starter kit in Go
 * 【2024-09-23】[konstructio / kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
 * 【2024-09-19】[jetify-com / devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
@@ -2152,6 +2161,7 @@
 
 ## C++
 
+* 【2024-09-27】[ksnip / ksnip](https://github.com/ksnip/ksnip) - ksnip the cross\-platform screenshot and annotation tool
 * 【2024-09-23】[DarthTon / Xenos](https://github.com/DarthTon/Xenos) - Windows dll injector
 * 【2024-09-19】[zufuliu / notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light\-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto\-completion and API list for many programming languages and documents, bundled with file browser plugin matepath 
 * 【2024-09-17】[mrousavy / nitro](https://github.com/mrousavy/nitro) - 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI
@@ -3455,6 +3465,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-09-27】[linera\-io / linera\-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
 * 【2024-09-24】[mediar-ai / screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 * 【2024-09-24】[kyclark / command\-line\-rust](https://github.com/kyclark/command-line-rust) - Code for Command\-Line Rust (O'Reilly, 2022, ISBN 9781098109417) https://learning oreilly com/library/view/command\-line\-rust/9781098109424/
 * 【2024-09-23】[squidowl / halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
@@ -3953,6 +3964,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-27】[stripe / stripe\-node](https://github.com/stripe/stripe-node) - Node js library for the Stripe API 
+* 【2024-09-27】[penrose / penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text 
+* 【2024-09-27】[Yonom / assistant\-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat 💬 🚀
+* 【2024-09-27】[WalletConnect / walletconnect\-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
+* 【2024-09-27】[redis / node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 * 【2024-09-26】[panoratech / Panora](https://github.com/panoratech/Panora) - One API to connect your data sources to your LLMs
 * 【2024-09-25】[mickasmt / next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - Open-source SaaS Starter with User Roles & Admin Panel. Built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions.
 * 【2024-09-25】[tensorflow / tensorboard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
