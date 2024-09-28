@@ -1,5 +1,10 @@
 ## All language
 
+* 【2024-09-28】[Yonom / assistant-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat 💬 🚀
+* 【2024-09-28】[src\-d / hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history 
+* 【2024-09-28】[statamic / cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
+* 【2024-09-28】[meta\-llama / llama\-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models 
+* 【2024-09-28】[Pik-4 / HsMod](https://github.com/Pik-4/HsMod) - Hearthstone Modify Based on BepInEx
 * 【2024-09-27】[meta\-llama / llama\-stack](https://github.com/meta-llama/llama-stack) - Model components of the Llama Stack APIs
 * 【2024-09-27】[hyperknot / openfreemap](https://github.com/hyperknot/openfreemap) - Free and open\-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
 * 【2024-09-27】[meta\-llama / llama\-stack\-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
@@ -818,6 +823,8 @@
 
 ## Python
 
+* 【2024-09-28】[meta-llama / llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
+* 【2024-09-28】[microsoft / RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automate these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which let AI drive data-driven AI.
 * 【2024-09-27】[meta-llama / llama-stack](https://github.com/meta-llama/llama-stack) - Model components of the Llama Stack APIs
 * 【2024-09-27】[meta-llama / llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
 * 【2024-09-26】[bitsandbytes-foundation / bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) - Accessible large language models via k-bit quantization for PyTorch.
@@ -1725,6 +1732,7 @@
 
 ## Go
 
+* 【2024-09-28】[src-d / hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 * 【2024-09-27】[hemilabs / heminetwork](https://github.com/hemilabs/heminetwork) - The hemi network core daemons 
 * 【2024-09-24】[mikestefanello / pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full\-stack web development starter kit in Go
 * 【2024-09-23】[konstructio / kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
@@ -2972,6 +2980,7 @@
 
 ## Unknown
 
+* 【2024-09-28】[mahseema / awesome\-ai\-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 * 【2024-09-25】[ouckah / Summer2025-Internships](https://github.com/ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-09-24】[GEIGEIGEIST / TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column\-staggered split keyboard  It meant to be used with a SEEED XIAO BLE or RP2040
 * 【2024-09-23】[n8n\-io / self\-hosted\-ai\-starter\-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self\-hosted AI Starter Kit is an open\-source template that quickly sets up a local AI environment  Curated by n8n, it provides essential tools for creating secure, self\-hosted AI workflows 
@@ -3964,6 +3973,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-28】[WalletConnect / walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 * 【2024-09-27】[stripe / stripe\-node](https://github.com/stripe/stripe-node) - Node js library for the Stripe API 
 * 【2024-09-27】[penrose / penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text 
 * 【2024-09-27】[Yonom / assistant\-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat 💬 🚀
