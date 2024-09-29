@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-09-29】[exo\-explore / exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+* 【2024-09-29】[nikitabobko / AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3\-like tiling window manager for macOS
 * 【2024-09-28】[Yonom / assistant-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat 💬 🚀
 * 【2024-09-28】[src\-d / hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history 
 * 【2024-09-28】[statamic / cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
@@ -823,6 +825,10 @@
 
 ## Python
 
+* 【2024-09-29】[exo-explore / exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+* 【2024-09-29】[pytorch / ao](https://github.com/pytorch/ao) - PyTorch native quantization and sparsity for training and inference
+* 【2024-09-29】[google\-research / circuit_training](https://github.com/google-research/circuit_training) - 
+* 【2024-09-29】[make\-all / tuya\-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
 * 【2024-09-28】[meta-llama / llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
 * 【2024-09-28】[microsoft / RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automate these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which let AI drive data-driven AI.
 * 【2024-09-27】[meta-llama / llama-stack](https://github.com/meta-llama/llama-stack) - Model components of the Llama Stack APIs
@@ -1958,6 +1964,8 @@
 
 ## C
 
+* 【2024-09-29】[orangeduck / Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
+* 【2024-09-29】[OpenPrinting / cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 * 【2024-09-25】[cnlohr / rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
 * 【2024-09-23】[TechUnRestricted / WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) - 🖥 Windows Bootable USB creator for macOS  🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements  👾 UEFI & Legacy Support
 * 【2024-09-20】[klonyyy / MCUViewer](https://github.com/klonyyy/MCUViewer) - Real\-time embedded variable & trace viewer
@@ -2632,6 +2640,7 @@
 
 ## Html
 
+* 【2024-09-29】[steveseguin / vdo ninja](https://github.com/steveseguin/vdo.ninja) - VDO Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC 
 * 【2024-09-26】[ONDC-Official / verification-logs](https://github.com/ONDC-Official/verification-logs) - ONDC Pre-production issue & discussion board
 * 【2024-09-22】[git / git\-scm com](https://github.com/git/git-scm.com) - The git\-scm com website  Note that this repository is only for the website; issues with git itself should go to https://git\-scm com/community 
 * 【2024-09-13】[opulo\-inc / lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine 
@@ -2980,6 +2989,7 @@
 
 ## Unknown
 
+* 【2024-09-29】[chiphuyen / dmls-book](https://github.com/chiphuyen/dmls-book) - Summaries and resources for Designing Machine Learning Systems book (Chip Huyen, O'Reilly 2022)
 * 【2024-09-28】[mahseema / awesome\-ai\-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 * 【2024-09-25】[ouckah / Summer2025-Internships](https://github.com/ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-09-24】[GEIGEIGEIST / TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column\-staggered split keyboard  It meant to be used with a SEEED XIAO BLE or RP2040
@@ -3973,6 +3983,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-29】[wxt\-dev / wxt](https://github.com/wxt-dev/wxt) - ⚡ Next\-gen Web Extension Framework
 * 【2024-09-28】[WalletConnect / walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 * 【2024-09-27】[stripe / stripe\-node](https://github.com/stripe/stripe-node) - Node js library for the Stripe API 
 * 【2024-09-27】[penrose / penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text 
