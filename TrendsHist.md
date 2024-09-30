@@ -825,6 +825,8 @@
 
 ## Python
 
+* 【2024-09-30】[google-research / circuit_training](https://github.com/google-research/circuit_training) - 
+* 【2024-09-30】[make-all / tuya-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
 * 【2024-09-29】[exo-explore / exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 * 【2024-09-29】[pytorch / ao](https://github.com/pytorch/ao) - PyTorch native quantization and sparsity for training and inference
 * 【2024-09-29】[google\-research / circuit_training](https://github.com/google-research/circuit_training) - 
@@ -1964,6 +1966,7 @@
 
 ## C
 
+* 【2024-09-30】[OpenPrinting / cups\-browsed](https://github.com/OpenPrinting/cups-browsed) - 
 * 【2024-09-29】[orangeduck / Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
 * 【2024-09-29】[OpenPrinting / cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 * 【2024-09-25】[cnlohr / rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
@@ -2384,6 +2387,7 @@
 
 ## C#
 
+* 【2024-09-30】[HearthSim / Hearthstone\-Deck\-Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker) - A deck tracker and deck manager for Hearthstone on Windows
 * 【2024-09-25】[HotCakeX / Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
 * 【2024-09-24】[HotCakeX / Harden\-Windows\-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation \| Always up\-to\-date and works with the latest build of Windows \| Provides tools and Guides for Personal, Enterprise, Government and Military security levels \| Read The Rationale https://github com/HotCakeX/Harden\-Windows\-Security/blob/main/Rationale md
 * 【2024-09-22】[thomhurst / TUnit](https://github.com/thomhurst/TUnit) - A modern, fast and flexible  NET testing framework
@@ -3983,6 +3987,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-09-30】[hanydd / BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili com, ported from the SponsorBlock
 * 【2024-09-29】[wxt\-dev / wxt](https://github.com/wxt-dev/wxt) - ⚡ Next\-gen Web Extension Framework
 * 【2024-09-28】[WalletConnect / walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
 * 【2024-09-27】[stripe / stripe\-node](https://github.com/stripe/stripe-node) - Node js library for the Stripe API 
