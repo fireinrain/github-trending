@@ -632,6 +632,8 @@
 
 ## Java
 
+* 【2024-10-02】[nageoffer / 12306](https://github.com/nageoffer/12306) - 🔥 官方推荐 🔥 大学春招、秋招、应届项目，SpringBoot3 + Java17 + SpringCloud Alibaba + Vue3 等技术架构，完成高仿铁路 12306 用户 + 抢票 + 订单 + 支付服务，帮助学生主打就业的项目。
+* 【2024-10-02】[kafbat / kafka\-ui](https://github.com/kafbat/kafka-ui) - Open\-Source Web UI for managing Apache Kafka clusters
 * 【2024-10-01】[comet-ml / opik](https://github.com/comet-ml/opik) - Open-source end-to-end LLM Development Platform
 * 【2024-09-27】[apache / parquet\-java](https://github.com/apache/parquet-java) - Apache Parquet Java
 * 【2024-09-27】[FasterXML / jackson\-core](https://github.com/FasterXML/jackson-core) - Core part of Jackson that defines Streaming API as well as basic shared abstractions
@@ -1425,6 +1427,7 @@
 
 ## Javascript
 
+* 【2024-10-02】[fineanmol / Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024) - Make your first Pull Request on Hacktoberfest 2024  Don't forget to spread love and if you like give us a ⭐️
 * 【2024-09-27】[ThePansmith / Monifactory](https://github.com/ThePansmith/Monifactory) - A Modern Remaster of Nomifactory
 * 【2024-09-26】[chrishubert / whatsapp-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform.
 * 【2024-09-25】[chrishubert / whatsapp\-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp\-web js library, providing an easy\-to\-use interface to interact with the WhatsApp Web platform 
@@ -2183,6 +2186,8 @@
 
 ## C++
 
+* 【2024-10-02】[rakshasa / rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
+* 【2024-10-02】[zenustech / zeno](https://github.com/zenustech/zeno) - ZEn NOde system \- a simulation & rendering engine in nodes
 * 【2024-10-01】[getml / reflect\-cpp](https://github.com/getml/reflect-cpp) - A C++20 library for fast serialization, deserialization and validation using reflection  Supports JSON, BSON, CBOR, flexbuffers, msgpack, TOML, XML, YAML / msgpack org[C++20]
 * 【2024-09-27】[ksnip / ksnip](https://github.com/ksnip/ksnip) - ksnip the cross\-platform screenshot and annotation tool
 * 【2024-09-23】[DarthTon / Xenos](https://github.com/DarthTon/Xenos) - Windows dll injector
@@ -3493,6 +3498,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-10-02】[eclipse-iceoryx / iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication in pure Rust
+* 【2024-10-02】[feldera / feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
 * 【2024-10-01】[eclipse\-iceoryx / iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ \- true zero\-copy inter\-process\-communication in pure Rust
 * 【2024-09-27】[linera\-io / linera\-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
 * 【2024-09-24】[mediar-ai / screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
@@ -3993,6 +4000,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-10-02】[mbnuqw / sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar 
 * 【2024-09-30】[hanydd / BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili com, ported from the SponsorBlock
 * 【2024-09-29】[wxt\-dev / wxt](https://github.com/wxt-dev/wxt) - ⚡ Next\-gen Web Extension Framework
 * 【2024-09-28】[WalletConnect / walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo) - WalletConnect Monorepo
