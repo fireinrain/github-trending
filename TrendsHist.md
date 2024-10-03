@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-10-03】[github\-linguist / linguist](https://github.com/github-linguist/linguist) - Language Savant  If your repository's language is being reported incorrectly, send us a pull request!
 * 【2024-09-29】[exo\-explore / exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 * 【2024-09-29】[nikitabobko / AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3\-like tiling window manager for macOS
 * 【2024-09-28】[Yonom / assistant-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat 💬 🚀
@@ -1427,6 +1428,7 @@
 
 ## Javascript
 
+* 【2024-10-03】[software\-mansion / radon\-ide](https://github.com/software-mansion/radon-ide) - VSCode extension that turns your editor into a fully fledged IDE for React Native and Expo 
 * 【2024-10-02】[fineanmol / Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024) - Make your first Pull Request on Hacktoberfest 2024  Don't forget to spread love and if you like give us a ⭐️
 * 【2024-09-27】[ThePansmith / Monifactory](https://github.com/ThePansmith/Monifactory) - A Modern Remaster of Nomifactory
 * 【2024-09-26】[chrishubert / whatsapp-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform.
@@ -1745,6 +1747,8 @@
 
 ## Go
 
+* 【2024-10-03】[peer\-calls / peer\-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
+* 【2024-10-03】[sensepost / gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness \- a golang, web screenshot utility using Chrome Headless
 * 【2024-09-28】[src-d / hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 * 【2024-09-27】[hemilabs / heminetwork](https://github.com/hemilabs/heminetwork) - The hemi network core daemons 
 * 【2024-09-24】[mikestefanello / pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full\-stack web development starter kit in Go
@@ -1971,6 +1975,7 @@
 
 ## C
 
+* 【2024-10-03】[BasedHardware / omi](https://github.com/BasedHardware/omi) - AI wearables
 * 【2024-10-01】[Autossh / autossh](https://github.com/Autossh/autossh) - Automatically restart SSH sessions and tunnels
 * 【2024-09-30】[OpenPrinting / cups\-browsed](https://github.com/OpenPrinting/cups-browsed) - 
 * 【2024-09-29】[orangeduck / Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
@@ -2186,6 +2191,7 @@
 
 ## C++
 
+* 【2024-10-03】[oneapi\-src / level\-zero](https://github.com/oneapi-src/level-zero) - oneAPI Level Zero Specification Headers and Loader
 * 【2024-10-02】[rakshasa / rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 * 【2024-10-02】[zenustech / zeno](https://github.com/zenustech/zeno) - ZEn NOde system \- a simulation & rendering engine in nodes
 * 【2024-10-01】[getml / reflect\-cpp](https://github.com/getml/reflect-cpp) - A C++20 library for fast serialization, deserialization and validation using reflection  Supports JSON, BSON, CBOR, flexbuffers, msgpack, TOML, XML, YAML / msgpack org[C++20]
@@ -2654,6 +2660,7 @@
 
 ## Html
 
+* 【2024-10-03】[maximevaillancourt / digital\-garden\-jekyll\-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 * 【2024-09-29】[steveseguin / vdo ninja](https://github.com/steveseguin/vdo.ninja) - VDO Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC 
 * 【2024-09-26】[ONDC-Official / verification-logs](https://github.com/ONDC-Official/verification-logs) - ONDC Pre-production issue & discussion board
 * 【2024-09-22】[git / git\-scm com](https://github.com/git/git-scm.com) - The git\-scm com website  Note that this repository is only for the website; issues with git itself should go to https://git\-scm com/community 
@@ -3498,6 +3505,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-10-03】[phiresky / ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 * 【2024-10-02】[eclipse-iceoryx / iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication in pure Rust
 * 【2024-10-02】[feldera / feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
 * 【2024-10-01】[eclipse\-iceoryx / iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ \- true zero\-copy inter\-process\-communication in pure Rust
@@ -4000,6 +4008,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-10-03】[backstage / community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage
 * 【2024-10-02】[mbnuqw / sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar 
 * 【2024-09-30】[hanydd / BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili com, ported from the SponsorBlock
 * 【2024-09-29】[wxt\-dev / wxt](https://github.com/wxt-dev/wxt) - ⚡ Next\-gen Web Extension Framework
