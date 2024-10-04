@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-10-04】[XengShi / materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
+* 【2024-10-04】[simplex\-chat / simplex\-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX \- the first messaging network operating without user identifiers of any kind \- 100% private by design! iOS, Android and desktop apps 📱!
 * 【2024-10-03】[github\-linguist / linguist](https://github.com/github-linguist/linguist) - Language Savant  If your repository's language is being reported incorrectly, send us a pull request!
 * 【2024-09-29】[exo\-explore / exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 * 【2024-09-29】[nikitabobko / AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3\-like tiling window manager for macOS
@@ -829,6 +831,8 @@
 
 ## Python
 
+* 【2024-10-04】[fedirz / faster\-whisper\-server](https://github.com/fedirz/faster-whisper-server) - 
+* 【2024-10-04】[lightly\-ai / lightly](https://github.com/lightly-ai/lightly) - A python library for self\-supervised learning on images 
 * 【2024-10-01】[google / langfun](https://github.com/google/langfun) - OO for LLMs
 * 【2024-09-30】[google-research / circuit_training](https://github.com/google-research/circuit_training) - 
 * 【2024-09-30】[make-all / tuya-local](https://github.com/make-all/tuya-local) - Local support for Tuya devices in Home Assistant
@@ -1975,6 +1979,7 @@
 
 ## C
 
+* 【2024-10-04】[pygame-community / pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
 * 【2024-10-03】[BasedHardware / omi](https://github.com/BasedHardware/omi) - AI wearables
 * 【2024-10-01】[Autossh / autossh](https://github.com/Autossh/autossh) - Automatically restart SSH sessions and tunnels
 * 【2024-09-30】[OpenPrinting / cups\-browsed](https://github.com/OpenPrinting/cups-browsed) - 
@@ -2191,6 +2196,7 @@
 
 ## C++
 
+* 【2024-10-04】[deskflow / deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux 
 * 【2024-10-03】[oneapi\-src / level\-zero](https://github.com/oneapi-src/level-zero) - oneAPI Level Zero Specification Headers and Loader
 * 【2024-10-02】[rakshasa / rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 * 【2024-10-02】[zenustech / zeno](https://github.com/zenustech/zeno) - ZEn NOde system \- a simulation & rendering engine in nodes
@@ -2660,6 +2666,7 @@
 
 ## Html
 
+* 【2024-10-04】[tushargupta1504 / Medical\-Website](https://github.com/tushargupta1504/Medical-Website) - Very basic project for the beginner''s
 * 【2024-10-03】[maximevaillancourt / digital\-garden\-jekyll\-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 * 【2024-09-29】[steveseguin / vdo ninja](https://github.com/steveseguin/vdo.ninja) - VDO Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC 
 * 【2024-09-26】[ONDC-Official / verification-logs](https://github.com/ONDC-Official/verification-logs) - ONDC Pre-production issue & discussion board
@@ -3010,6 +3017,8 @@
 
 ## Unknown
 
+* 【2024-10-04】[searxng / searxng\-docker](https://github.com/searxng/searxng-docker) - The docker\-compose files for setting up a SearXNG instance with docker 
+* 【2024-10-04】[northwesternfintech / 2025QuantInternships](https://github.com/northwesternfintech/2025QuantInternships) - Public quant internship repository, maintained by NUFT but available for everyone 
 * 【2024-09-29】[chiphuyen / dmls-book](https://github.com/chiphuyen/dmls-book) - Summaries and resources for Designing Machine Learning Systems book (Chip Huyen, O'Reilly 2022)
 * 【2024-09-28】[mahseema / awesome\-ai\-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 * 【2024-09-25】[ouckah / Summer2025-Internships](https://github.com/ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
