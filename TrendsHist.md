@@ -635,6 +635,7 @@
 
 ## Java
 
+* 【2024-10-05】[eclipse-jkube / jkube](https://github.com/eclipse-jkube/jkube) - Build and Deploy java applications on Kubernetes
 * 【2024-10-02】[nageoffer / 12306](https://github.com/nageoffer/12306) - 🔥 官方推荐 🔥 大学春招、秋招、应届项目，SpringBoot3 + Java17 + SpringCloud Alibaba + Vue3 等技术架构，完成高仿铁路 12306 用户 + 抢票 + 订单 + 支付服务，帮助学生主打就业的项目。
 * 【2024-10-02】[kafbat / kafka\-ui](https://github.com/kafbat/kafka-ui) - Open\-Source Web UI for managing Apache Kafka clusters
 * 【2024-10-01】[comet-ml / opik](https://github.com/comet-ml/opik) - Open-source end-to-end LLM Development Platform
@@ -831,6 +832,7 @@
 
 ## Python
 
+* 【2024-10-05】[laramies / theHarvester](https://github.com/laramies/theHarvester) - E\-mails, subdomains and names Harvester \- OSINT
 * 【2024-10-04】[fedirz / faster\-whisper\-server](https://github.com/fedirz/faster-whisper-server) - 
 * 【2024-10-04】[lightly\-ai / lightly](https://github.com/lightly-ai/lightly) - A python library for self\-supervised learning on images 
 * 【2024-10-01】[google / langfun](https://github.com/google/langfun) - OO for LLMs
@@ -2666,6 +2668,7 @@
 
 ## Html
 
+* 【2024-10-05】[tushargupta1504 / Medical-Website](https://github.com/tushargupta1504/Medical-Website) - Very basic project for the beginner''s
 * 【2024-10-04】[tushargupta1504 / Medical\-Website](https://github.com/tushargupta1504/Medical-Website) - Very basic project for the beginner''s
 * 【2024-10-03】[maximevaillancourt / digital\-garden\-jekyll\-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 * 【2024-09-29】[steveseguin / vdo ninja](https://github.com/steveseguin/vdo.ninja) - VDO Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC 
@@ -3514,6 +3517,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-10-05】[linera-io / linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
 * 【2024-10-03】[phiresky / ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 * 【2024-10-02】[eclipse-iceoryx / iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication in pure Rust
 * 【2024-10-02】[feldera / feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
@@ -4017,6 +4021,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-10-05】[actions / github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 * 【2024-10-03】[backstage / community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage
 * 【2024-10-02】[mbnuqw / sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar 
 * 【2024-09-30】[hanydd / BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili com, ported from the SponsorBlock
