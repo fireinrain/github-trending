@@ -635,6 +635,7 @@
 
 ## Java
 
+* 【2024-10-06】[DhanushNehru / Hacktoberfest2024](https://github.com/DhanushNehru/Hacktoberfest2024) - Hacktoberfest 2024 OPEN FIRST Pull Request \- SUPPORT OPEN SOURCE \- Don't forget to spread love and if you like give us a ⭐️
 * 【2024-10-05】[eclipse-jkube / jkube](https://github.com/eclipse-jkube/jkube) - Build and Deploy java applications on Kubernetes
 * 【2024-10-02】[nageoffer / 12306](https://github.com/nageoffer/12306) - 🔥 官方推荐 🔥 大学春招、秋招、应届项目，SpringBoot3 + Java17 + SpringCloud Alibaba + Vue3 等技术架构，完成高仿铁路 12306 用户 + 抢票 + 订单 + 支付服务，帮助学生主打就业的项目。
 * 【2024-10-02】[kafbat / kafka\-ui](https://github.com/kafbat/kafka-ui) - Open\-Source Web UI for managing Apache Kafka clusters
@@ -832,6 +833,9 @@
 
 ## Python
 
+* 【2024-10-06】[alandtse / alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API 
+* 【2024-10-06】[fedirz / faster-whisper-server](https://github.com/fedirz/faster-whisper-server) - 
+* 【2024-10-06】[infobyte / faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
 * 【2024-10-05】[laramies / theHarvester](https://github.com/laramies/theHarvester) - E\-mails, subdomains and names Harvester \- OSINT
 * 【2024-10-04】[fedirz / faster\-whisper\-server](https://github.com/fedirz/faster-whisper-server) - 
 * 【2024-10-04】[lightly\-ai / lightly](https://github.com/lightly-ai/lightly) - A python library for self\-supervised learning on images 
@@ -1434,6 +1438,7 @@
 
 ## Javascript
 
+* 【2024-10-06】[inertiajs / inertia](https://github.com/inertiajs/inertia) - Inertia js lets you quickly build modern single\-page React, Vue and Svelte apps using classic server\-side routing and controllers 
 * 【2024-10-03】[software\-mansion / radon\-ide](https://github.com/software-mansion/radon-ide) - VSCode extension that turns your editor into a fully fledged IDE for React Native and Expo 
 * 【2024-10-02】[fineanmol / Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024) - Make your first Pull Request on Hacktoberfest 2024  Don't forget to spread love and if you like give us a ⭐️
 * 【2024-09-27】[ThePansmith / Monifactory](https://github.com/ThePansmith/Monifactory) - A Modern Remaster of Nomifactory
@@ -2668,6 +2673,9 @@
 
 ## Html
 
+* 【2024-10-06】[iamrahulmahato / master\-web\-development](https://github.com/iamrahulmahato/master-web-development) - Learn to code by building projects 
+* 【2024-10-06】[continuedev / amplified dev](https://github.com/continuedev/amplified.dev) - 🔊 We believe in a future where developers are amplified, not automated
+* 【2024-10-06】[DharshiBalasubramaniyam / ice\-cream\-parlour\-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website) - This is a responsive user\-friendly online ice cream store website using HTML, CSS and Vanilla JavaScript 
 * 【2024-10-05】[tushargupta1504 / Medical-Website](https://github.com/tushargupta1504/Medical-Website) - Very basic project for the beginner''s
 * 【2024-10-04】[tushargupta1504 / Medical\-Website](https://github.com/tushargupta1504/Medical-Website) - Very basic project for the beginner''s
 * 【2024-10-03】[maximevaillancourt / digital\-garden\-jekyll\-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
@@ -4021,6 +4029,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-10-06】[vitabaks / postgresql_cluster](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High\-Availability Cluster (based on Patroni)  Automating with Ansible 
 * 【2024-10-05】[actions / github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 * 【2024-10-03】[backstage / community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage
 * 【2024-10-02】[mbnuqw / sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar 
