@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-10-07】[onejs / one](https://github.com/onejs/one) - ❶ One is a new React framework that makes cross\-platform simple  Target web and native with just Vite 
+* 【2024-10-07】[ErikBjare / gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision 
 * 【2024-10-04】[XengShi / materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
 * 【2024-10-04】[simplex\-chat / simplex\-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX \- the first messaging network operating without user identifiers of any kind \- 100% private by design! iOS, Android and desktop apps 📱!
 * 【2024-10-03】[github\-linguist / linguist](https://github.com/github-linguist/linguist) - Language Savant  If your repository's language is being reported incorrectly, send us a pull request!
@@ -635,6 +637,8 @@
 
 ## Java
 
+* 【2024-10-07】[kafbat / kafka-ui](https://github.com/kafbat/kafka-ui) - Open-Source Web UI for managing Apache Kafka clusters
+* 【2024-10-07】[xwiki / xwiki-platform](https://github.com/xwiki/xwiki-platform) - The XWiki platform
 * 【2024-10-06】[DhanushNehru / Hacktoberfest2024](https://github.com/DhanushNehru/Hacktoberfest2024) - Hacktoberfest 2024 OPEN FIRST Pull Request \- SUPPORT OPEN SOURCE \- Don't forget to spread love and if you like give us a ⭐️
 * 【2024-10-05】[eclipse-jkube / jkube](https://github.com/eclipse-jkube/jkube) - Build and Deploy java applications on Kubernetes
 * 【2024-10-02】[nageoffer / 12306](https://github.com/nageoffer/12306) - 🔥 官方推荐 🔥 大学春招、秋招、应届项目，SpringBoot3 + Java17 + SpringCloud Alibaba + Vue3 等技术架构，完成高仿铁路 12306 用户 + 抢票 + 订单 + 支付服务，帮助学生主打就业的项目。
@@ -833,6 +837,8 @@
 
 ## Python
 
+* 【2024-10-07】[karpathy / build\-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
+* 【2024-10-07】[AlfredoUen / JableTV](https://github.com/AlfredoUen/JableTV) - Jable TV Download (GUI tool)
 * 【2024-10-06】[alandtse / alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API 
 * 【2024-10-06】[fedirz / faster-whisper-server](https://github.com/fedirz/faster-whisper-server) - 
 * 【2024-10-06】[infobyte / faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
@@ -1758,6 +1764,7 @@
 
 ## Go
 
+* 【2024-10-07】[chainflag / eth\-faucet](https://github.com/chainflag/eth-faucet) - Ether faucet server built with Go and Svelte 
 * 【2024-10-03】[peer\-calls / peer\-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
 * 【2024-10-03】[sensepost / gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness \- a golang, web screenshot utility using Chrome Headless
 * 【2024-09-28】[src-d / hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
@@ -2203,6 +2210,7 @@
 
 ## C++
 
+* 【2024-10-07】[multitheftauto / mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
 * 【2024-10-04】[deskflow / deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux 
 * 【2024-10-03】[oneapi\-src / level\-zero](https://github.com/oneapi-src/level-zero) - oneAPI Level Zero Specification Headers and Loader
 * 【2024-10-02】[rakshasa / rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
@@ -2673,6 +2681,7 @@
 
 ## Html
 
+* 【2024-10-07】[iamrahulmahato / master-web-development](https://github.com/iamrahulmahato/master-web-development) - Learn to code by building projects.
 * 【2024-10-06】[iamrahulmahato / master\-web\-development](https://github.com/iamrahulmahato/master-web-development) - Learn to code by building projects 
 * 【2024-10-06】[continuedev / amplified dev](https://github.com/continuedev/amplified.dev) - 🔊 We believe in a future where developers are amplified, not automated
 * 【2024-10-06】[DharshiBalasubramaniyam / ice\-cream\-parlour\-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website) - This is a responsive user\-friendly online ice cream store website using HTML, CSS and Vanilla JavaScript 
@@ -4029,6 +4038,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-10-07】[adrianhajdin / healthcare](https://github.com/adrianhajdin/healthcare) - Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications 
 * 【2024-10-06】[vitabaks / postgresql_cluster](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High\-Availability Cluster (based on Patroni)  Automating with Ansible 
 * 【2024-10-05】[actions / github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 * 【2024-10-03】[backstage / community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage
