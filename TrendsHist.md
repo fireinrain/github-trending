@@ -837,6 +837,8 @@
 
 ## Python
 
+* 【2024-10-08】[KruxAI / ragbuilder](https://github.com/KruxAI/ragbuilder) - A toolkit to create optimal Production\-ready RAG setup for your data
+* 【2024-10-08】[Open\-Wine\-Components / umu\-launcher](https://github.com/Open-Wine-Components/umu-launcher) - 
 * 【2024-10-07】[karpathy / build\-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
 * 【2024-10-07】[AlfredoUen / JableTV](https://github.com/AlfredoUen/JableTV) - Jable TV Download (GUI tool)
 * 【2024-10-06】[alandtse / alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API 
@@ -1764,6 +1766,8 @@
 
 ## Go
 
+* 【2024-10-08】[chainflag / eth-faucet](https://github.com/chainflag/eth-faucet) - Ether faucet server built with Go and Svelte.
+* 【2024-10-08】[Forceu / Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload  AWS S3 supported 
 * 【2024-10-07】[chainflag / eth\-faucet](https://github.com/chainflag/eth-faucet) - Ether faucet server built with Go and Svelte 
 * 【2024-10-03】[peer\-calls / peer\-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
 * 【2024-10-03】[sensepost / gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness \- a golang, web screenshot utility using Chrome Headless
@@ -1993,6 +1997,7 @@
 
 ## C
 
+* 【2024-10-08】[morrownr / 8821au\-20210708](https://github.com/morrownr/8821au-20210708) - Linux Driver for USB WiFi Adapters that are based on the RTL8811AU and RTL8821AU Chipsets \- v5 12 5 2
 * 【2024-10-04】[pygame-community / pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
 * 【2024-10-03】[BasedHardware / omi](https://github.com/BasedHardware/omi) - AI wearables
 * 【2024-10-01】[Autossh / autossh](https://github.com/Autossh/autossh) - Automatically restart SSH sessions and tunnels
@@ -2681,6 +2686,8 @@
 
 ## Html
 
+* 【2024-10-08】[Its\-Aman\-Yadav / Community\-Site](https://github.com/Its-Aman-Yadav/Community-Site) - This is open source village community site
+* 【2024-10-08】[DharshiBalasubramaniyam / ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website) - This is a responsive user-friendly online ice cream store website using HTML, CSS and Vanilla JavaScript.
 * 【2024-10-07】[iamrahulmahato / master-web-development](https://github.com/iamrahulmahato/master-web-development) - Learn to code by building projects.
 * 【2024-10-06】[iamrahulmahato / master\-web\-development](https://github.com/iamrahulmahato/master-web-development) - Learn to code by building projects 
 * 【2024-10-06】[continuedev / amplified dev](https://github.com/continuedev/amplified.dev) - 🔊 We believe in a future where developers are amplified, not automated
