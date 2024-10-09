@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-10-09】[zotero\-chinese / styles](https://github.com/zotero-chinese/styles) - 中文 CSL 样式
 * 【2024-10-07】[onejs / one](https://github.com/onejs/one) - ❶ One is a new React framework that makes cross\-platform simple  Target web and native with just Vite 
 * 【2024-10-07】[ErikBjare / gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision 
 * 【2024-10-04】[XengShi / materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
@@ -837,6 +838,7 @@
 
 ## Python
 
+* 【2024-10-09】[julep-ai / julep](https://github.com/julep-ai/julep) - API for building multi-step agent workflows. (An orchestrator for AI agents and workflows.)
 * 【2024-10-08】[KruxAI / ragbuilder](https://github.com/KruxAI/ragbuilder) - A toolkit to create optimal Production\-ready RAG setup for your data
 * 【2024-10-08】[Open\-Wine\-Components / umu\-launcher](https://github.com/Open-Wine-Components/umu-launcher) - 
 * 【2024-10-07】[karpathy / build\-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
@@ -1997,6 +1999,8 @@
 
 ## C
 
+* 【2024-10-09】[openresty / openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
+* 【2024-10-09】[cage\-kiosk / cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
 * 【2024-10-08】[morrownr / 8821au\-20210708](https://github.com/morrownr/8821au-20210708) - Linux Driver for USB WiFi Adapters that are based on the RTL8811AU and RTL8821AU Chipsets \- v5 12 5 2
 * 【2024-10-04】[pygame-community / pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
 * 【2024-10-03】[BasedHardware / omi](https://github.com/BasedHardware/omi) - AI wearables
@@ -2215,6 +2219,7 @@
 
 ## C++
 
+* 【2024-10-09】[dalathegreat / Battery-Emulator](https://github.com/dalathegreat/Battery-Emulator) - This software enables EV battery packs to be used for stationary storage in combination with solar inverters.
 * 【2024-10-07】[multitheftauto / mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
 * 【2024-10-04】[deskflow / deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux 
 * 【2024-10-03】[oneapi\-src / level\-zero](https://github.com/oneapi-src/level-zero) - oneAPI Level Zero Specification Headers and Loader
@@ -2428,6 +2433,8 @@
 
 ## C#
 
+* 【2024-10-09】[PKBeam / AMWin\-RP](https://github.com/PKBeam/AMWin-RP) - A Discord Rich Presence client for Apple Music's native Windows app 
+* 【2024-10-09】[microsoft / dev\-proxy](https://github.com/microsoft/dev-proxy) - Dev Proxy is an API simulator that helps you effortlessly test your app beyond the happy path 
 * 【2024-10-01】[mcmonkeyprojects / SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web\-User\-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility 
 * 【2024-09-30】[HearthSim / Hearthstone\-Deck\-Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker) - A deck tracker and deck manager for Hearthstone on Windows
 * 【2024-09-25】[HotCakeX / Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
@@ -3541,6 +3548,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-10-09】[o2sh / onefetch](https://github.com/o2sh/onefetch) - Command\-line Git information tool
+* 【2024-10-09】[n0\-computer / iroh](https://github.com/n0-computer/iroh) - A toolkit for building distributed applications
 * 【2024-10-05】[linera-io / linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
 * 【2024-10-03】[phiresky / ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 * 【2024-10-02】[eclipse-iceoryx / iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication in pure Rust
@@ -4045,6 +4054,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-10-09】[lucia\-auth / lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 * 【2024-10-07】[adrianhajdin / healthcare](https://github.com/adrianhajdin/healthcare) - Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications 
 * 【2024-10-06】[vitabaks / postgresql_cluster](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High\-Availability Cluster (based on Patroni)  Automating with Ansible 
 * 【2024-10-05】[actions / github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
