@@ -3051,6 +3051,7 @@
 
 ## Unknown
 
+* 【2024-10-10】[stackblitz / webcontainer\-core](https://github.com/stackblitz/webcontainer-core) - Dev environments  In your web app 
 * 【2024-10-04】[searxng / searxng\-docker](https://github.com/searxng/searxng-docker) - The docker\-compose files for setting up a SearXNG instance with docker 
 * 【2024-10-04】[northwesternfintech / 2025QuantInternships](https://github.com/northwesternfintech/2025QuantInternships) - Public quant internship repository, maintained by NUFT but available for everyone 
 * 【2024-09-29】[chiphuyen / dmls-book](https://github.com/chiphuyen/dmls-book) - Summaries and resources for Designing Machine Learning Systems book (Chip Huyen, O'Reilly 2022)
@@ -4054,6 +4055,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-10-10】[lucia-auth / lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 * 【2024-10-09】[lucia\-auth / lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 * 【2024-10-07】[adrianhajdin / healthcare](https://github.com/adrianhajdin/healthcare) - Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications 
 * 【2024-10-06】[vitabaks / postgresql_cluster](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High\-Availability Cluster (based on Patroni)  Automating with Ansible 
