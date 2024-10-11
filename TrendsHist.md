@@ -1,5 +1,8 @@
 ## All language
 
+* 【2024-10-11】[clinebot / cline](https://github.com/clinebot/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way 
+* 【2024-10-11】[hcengineering / huly\-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
+* 【2024-10-11】[zotero-chinese / styles](https://github.com/zotero-chinese/styles) - 中文 CSL 样式
 * 【2024-10-09】[zotero\-chinese / styles](https://github.com/zotero-chinese/styles) - 中文 CSL 样式
 * 【2024-10-07】[onejs / one](https://github.com/onejs/one) - ❶ One is a new React framework that makes cross\-platform simple  Target web and native with just Vite 
 * 【2024-10-07】[ErikBjare / gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision 
@@ -838,6 +841,8 @@
 
 ## Python
 
+* 【2024-10-11】[modelscope / ms\-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full\-parameter to finetune 350+ LLMs or 100+ MLLMs  (LLM: Qwen2 5, Llama3 2, GLM4, Internlm2 5, Yi1 5, Mistral, Baichuan2, DeepSeek, Gemma2,    ; MLLM: Qwen2\-VL, Qwen2\-Audio, Llama3 2\-Vision, Llava, InternVL2, MiniCPM\-V\-2 6, GLM4v, Xcomposer2 5, Yi\-VL, DeepSeek\-VL, Phi3 5\-Vision,    )
+* 【2024-10-11】[THUDM / GLM-4](https://github.com/THUDM/GLM-4) - GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型
 * 【2024-10-09】[julep-ai / julep](https://github.com/julep-ai/julep) - API for building multi-step agent workflows. (An orchestrator for AI agents and workflows.)
 * 【2024-10-08】[KruxAI / ragbuilder](https://github.com/KruxAI/ragbuilder) - A toolkit to create optimal Production\-ready RAG setup for your data
 * 【2024-10-08】[Open\-Wine\-Components / umu\-launcher](https://github.com/Open-Wine-Components/umu-launcher) - 
@@ -1448,6 +1453,7 @@
 
 ## Javascript
 
+* 【2024-10-11】[revoltchat / self\-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker 
 * 【2024-10-06】[inertiajs / inertia](https://github.com/inertiajs/inertia) - Inertia js lets you quickly build modern single\-page React, Vue and Svelte apps using classic server\-side routing and controllers 
 * 【2024-10-03】[software\-mansion / radon\-ide](https://github.com/software-mansion/radon-ide) - VSCode extension that turns your editor into a fully fledged IDE for React Native and Expo 
 * 【2024-10-02】[fineanmol / Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024) - Make your first Pull Request on Hacktoberfest 2024  Don't forget to spread love and if you like give us a ⭐️
@@ -2433,6 +2439,7 @@
 
 ## C#
 
+* 【2024-10-11】[microsoft / DacFx](https://github.com/microsoft/DacFx) - DacFx, SqlPackage, and other SQL development libraries enable declarative database development and database portability across SQL versions and environments  Share feedback here on dacpacs, bacpacs, and SQL projects 
 * 【2024-10-09】[PKBeam / AMWin\-RP](https://github.com/PKBeam/AMWin-RP) - A Discord Rich Presence client for Apple Music's native Windows app 
 * 【2024-10-09】[microsoft / dev\-proxy](https://github.com/microsoft/dev-proxy) - Dev Proxy is an API simulator that helps you effortlessly test your app beyond the happy path 
 * 【2024-10-01】[mcmonkeyprojects / SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web\-User\-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility 
@@ -2693,6 +2700,7 @@
 
 ## Html
 
+* 【2024-10-11】[tc39 / proposal\-structs](https://github.com/tc39/proposal-structs) - JavaScript Structs: Fixed Layout Objects
 * 【2024-10-08】[Its\-Aman\-Yadav / Community\-Site](https://github.com/Its-Aman-Yadav/Community-Site) - This is open source village community site
 * 【2024-10-08】[DharshiBalasubramaniyam / ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website) - This is a responsive user-friendly online ice cream store website using HTML, CSS and Vanilla JavaScript.
 * 【2024-10-07】[iamrahulmahato / master-web-development](https://github.com/iamrahulmahato/master-web-development) - Learn to code by building projects.
@@ -3549,6 +3557,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-10-11】[serenity\-rs / serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API 
+* 【2024-10-11】[revoltchat / backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services 
 * 【2024-10-09】[o2sh / onefetch](https://github.com/o2sh/onefetch) - Command\-line Git information tool
 * 【2024-10-09】[n0\-computer / iroh](https://github.com/n0-computer/iroh) - A toolkit for building distributed applications
 * 【2024-10-05】[linera-io / linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
@@ -4055,6 +4065,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-10-11】[revoltchat / desktop](https://github.com/revoltchat/desktop) - Revolt Desktop App
 * 【2024-10-10】[lucia-auth / lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 * 【2024-10-09】[lucia\-auth / lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 * 【2024-10-07】[adrianhajdin / healthcare](https://github.com/adrianhajdin/healthcare) - Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications 
