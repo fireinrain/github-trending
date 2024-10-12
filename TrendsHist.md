@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-10-12】[hcengineering / huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
 * 【2024-10-11】[clinebot / cline](https://github.com/clinebot/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way 
 * 【2024-10-11】[hcengineering / huly\-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
 * 【2024-10-11】[zotero-chinese / styles](https://github.com/zotero-chinese/styles) - 中文 CSL 样式
@@ -2700,6 +2701,8 @@
 
 ## Html
 
+* 【2024-10-12】[tc39 / proposal-structs](https://github.com/tc39/proposal-structs) - JavaScript Structs: Fixed Layout Objects
+* 【2024-10-12】[hugo\-sid / hugo\-blog\-awesome](https://github.com/hugo-sid/hugo-blog-awesome) - Fast, minimal blog with dark mode support 
 * 【2024-10-11】[tc39 / proposal\-structs](https://github.com/tc39/proposal-structs) - JavaScript Structs: Fixed Layout Objects
 * 【2024-10-08】[Its\-Aman\-Yadav / Community\-Site](https://github.com/Its-Aman-Yadav/Community-Site) - This is open source village community site
 * 【2024-10-08】[DharshiBalasubramaniyam / ice-cream-parlour-website](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website) - This is a responsive user-friendly online ice cream store website using HTML, CSS and Vanilla JavaScript.
