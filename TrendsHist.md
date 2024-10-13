@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-10-13】[cline / cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way 
 * 【2024-10-12】[hcengineering / huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
 * 【2024-10-11】[clinebot / cline](https://github.com/clinebot/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way 
 * 【2024-10-11】[hcengineering / huly\-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
@@ -1454,6 +1455,7 @@
 
 ## Javascript
 
+* 【2024-10-13】[sindresorhus / eslint\-plugin\-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 * 【2024-10-11】[revoltchat / self\-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker 
 * 【2024-10-06】[inertiajs / inertia](https://github.com/inertiajs/inertia) - Inertia js lets you quickly build modern single\-page React, Vue and Svelte apps using classic server\-side routing and controllers 
 * 【2024-10-03】[software\-mansion / radon\-ide](https://github.com/software-mansion/radon-ide) - VSCode extension that turns your editor into a fully fledged IDE for React Native and Expo 
@@ -2006,6 +2008,7 @@
 
 ## C
 
+* 【2024-10-13】[rspamd / rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system 
 * 【2024-10-09】[openresty / openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 * 【2024-10-09】[cage\-kiosk / cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
 * 【2024-10-08】[morrownr / 8821au\-20210708](https://github.com/morrownr/8821au-20210708) - Linux Driver for USB WiFi Adapters that are based on the RTL8811AU and RTL8821AU Chipsets \- v5 12 5 2
@@ -2440,6 +2443,8 @@
 
 ## C#
 
+* 【2024-10-13】[HearthSim / Hearthstone-Deck-Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker) - A deck tracker and deck manager for Hearthstone on Windows
+* 【2024-10-13】[apache / arrow\-adbc](https://github.com/apache/arrow-adbc) - Database connectivity API standard and libraries for Apache Arrow
 * 【2024-10-11】[microsoft / DacFx](https://github.com/microsoft/DacFx) - DacFx, SqlPackage, and other SQL development libraries enable declarative database development and database portability across SQL versions and environments  Share feedback here on dacpacs, bacpacs, and SQL projects 
 * 【2024-10-09】[PKBeam / AMWin\-RP](https://github.com/PKBeam/AMWin-RP) - A Discord Rich Presence client for Apple Music's native Windows app 
 * 【2024-10-09】[microsoft / dev\-proxy](https://github.com/microsoft/dev-proxy) - Dev Proxy is an API simulator that helps you effortlessly test your app beyond the happy path 
@@ -2701,6 +2706,7 @@
 
 ## Html
 
+* 【2024-10-13】[tc39 / proposal\-import\-attributes](https://github.com/tc39/proposal-import-attributes) - Proposal for syntax to import ES modules with assertions
 * 【2024-10-12】[tc39 / proposal-structs](https://github.com/tc39/proposal-structs) - JavaScript Structs: Fixed Layout Objects
 * 【2024-10-12】[hugo\-sid / hugo\-blog\-awesome](https://github.com/hugo-sid/hugo-blog-awesome) - Fast, minimal blog with dark mode support 
 * 【2024-10-11】[tc39 / proposal\-structs](https://github.com/tc39/proposal-structs) - JavaScript Structs: Fixed Layout Objects
@@ -3560,6 +3566,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-10-13】[golemcloud / golem](https://github.com/golemcloud/golem) - Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems 
+* 【2024-10-13】[AsahiLinux / muvm](https://github.com/AsahiLinux/muvm) - muvm \- run programs from your system in a microVM
 * 【2024-10-11】[serenity\-rs / serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API 
 * 【2024-10-11】[revoltchat / backend](https://github.com/revoltchat/backend) - Monorepo for Revolt backend services 
 * 【2024-10-09】[o2sh / onefetch](https://github.com/o2sh/onefetch) - Command\-line Git information tool
@@ -4068,6 +4076,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-10-13】[molvqingtai / WebChat](https://github.com/molvqingtai/WebChat) - 💬 Chat with anyone on any website 
+* 【2024-10-13】[latitude\-dev / latitude\-llm](https://github.com/latitude-dev/latitude-llm) - Work in progress
 * 【2024-10-11】[revoltchat / desktop](https://github.com/revoltchat/desktop) - Revolt Desktop App
 * 【2024-10-10】[lucia-auth / lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 * 【2024-10-09】[lucia\-auth / lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
