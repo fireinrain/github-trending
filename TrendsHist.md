@@ -1777,6 +1777,8 @@
 
 ## Go
 
+* 【2024-10-14】[Project\-HAMi / HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware
+* 【2024-10-14】[henrygd / beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts 
 * 【2024-10-08】[chainflag / eth-faucet](https://github.com/chainflag/eth-faucet) - Ether faucet server built with Go and Svelte.
 * 【2024-10-08】[Forceu / Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload  AWS S3 supported 
 * 【2024-10-07】[chainflag / eth\-faucet](https://github.com/chainflag/eth-faucet) - Ether faucet server built with Go and Svelte 
@@ -3566,6 +3568,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-10-14】[samuel\-vitorino / lm rs](https://github.com/samuel-vitorino/lm.rs) - Minimal LLM inference in Rust
+* 【2024-10-14】[geph\-official / geph4\-client](https://github.com/geph-official/geph4-client) - Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering 
 * 【2024-10-13】[golemcloud / golem](https://github.com/golemcloud/golem) - Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems 
 * 【2024-10-13】[AsahiLinux / muvm](https://github.com/AsahiLinux/muvm) - muvm \- run programs from your system in a microVM
 * 【2024-10-11】[serenity\-rs / serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API 
@@ -4076,6 +4080,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-10-14】[latitude-dev / latitude-llm](https://github.com/latitude-dev/latitude-llm) - Work in progress
+* 【2024-10-14】[trungvose / angular\-spotify](https://github.com/trungvose/angular-spotify) - Spotify client built with Angular 15, Nx Workspace, ngrx, TailwindCSS and ng\-zorro
 * 【2024-10-13】[molvqingtai / WebChat](https://github.com/molvqingtai/WebChat) - 💬 Chat with anyone on any website 
 * 【2024-10-13】[latitude\-dev / latitude\-llm](https://github.com/latitude-dev/latitude-llm) - Work in progress
 * 【2024-10-11】[revoltchat / desktop](https://github.com/revoltchat/desktop) - Revolt Desktop App
