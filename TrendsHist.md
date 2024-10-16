@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-10-16】[openai / swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi\-agent orchestration  Managed by OpenAI Solution team 
 * 【2024-10-13】[cline / cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way 
 * 【2024-10-12】[hcengineering / huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
 * 【2024-10-11】[clinebot / cline](https://github.com/clinebot/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way 
@@ -843,6 +844,7 @@
 
 ## Python
 
+* 【2024-10-16】[TEN\-framework / TEN\-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is the world’s first real\-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities 
 * 【2024-10-11】[modelscope / ms\-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full\-parameter to finetune 350+ LLMs or 100+ MLLMs  (LLM: Qwen2 5, Llama3 2, GLM4, Internlm2 5, Yi1 5, Mistral, Baichuan2, DeepSeek, Gemma2,    ; MLLM: Qwen2\-VL, Qwen2\-Audio, Llama3 2\-Vision, Llava, InternVL2, MiniCPM\-V\-2 6, GLM4v, Xcomposer2 5, Yi\-VL, DeepSeek\-VL, Phi3 5\-Vision,    )
 * 【2024-10-11】[THUDM / GLM-4](https://github.com/THUDM/GLM-4) - GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型
 * 【2024-10-09】[julep-ai / julep](https://github.com/julep-ai/julep) - API for building multi-step agent workflows. (An orchestrator for AI agents and workflows.)
@@ -1455,6 +1457,7 @@
 
 ## Javascript
 
+* 【2024-10-16】[chaxus / ran](https://github.com/chaxus/ran) - web components library, machine learning, function library and so on 
 * 【2024-10-13】[sindresorhus / eslint\-plugin\-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 * 【2024-10-11】[revoltchat / self\-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker 
 * 【2024-10-06】[inertiajs / inertia](https://github.com/inertiajs/inertia) - Inertia js lets you quickly build modern single\-page React, Vue and Svelte apps using classic server\-side routing and controllers 
@@ -1777,6 +1780,7 @@
 
 ## Go
 
+* 【2024-10-16】[Project-HAMi / HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware
 * 【2024-10-14】[Project\-HAMi / HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware
 * 【2024-10-14】[henrygd / beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts 
 * 【2024-10-08】[chainflag / eth-faucet](https://github.com/chainflag/eth-faucet) - Ether faucet server built with Go and Svelte.
@@ -2010,6 +2014,7 @@
 
 ## C
 
+* 【2024-10-16】[Yowkees / keyball](https://github.com/Yowkees/keyball) - keyball is split keyboard has 100% track ball
 * 【2024-10-13】[rspamd / rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system 
 * 【2024-10-09】[openresty / openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 * 【2024-10-09】[cage\-kiosk / cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
@@ -2231,6 +2236,7 @@
 
 ## C++
 
+* 【2024-10-16】[OSGeo / PROJ](https://github.com/OSGeo/PROJ) - PROJ \- Cartographic Projections and Coordinate Transformations Library
 * 【2024-10-09】[dalathegreat / Battery-Emulator](https://github.com/dalathegreat/Battery-Emulator) - This software enables EV battery packs to be used for stationary storage in combination with solar inverters.
 * 【2024-10-07】[multitheftauto / mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
 * 【2024-10-04】[deskflow / deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux 
@@ -2708,6 +2714,7 @@
 
 ## Html
 
+* 【2024-10-16】[Gyanthakur / Dev_Profiles](https://github.com/Gyanthakur/Dev_Profiles) - 
 * 【2024-10-13】[tc39 / proposal\-import\-attributes](https://github.com/tc39/proposal-import-attributes) - Proposal for syntax to import ES modules with assertions
 * 【2024-10-12】[tc39 / proposal-structs](https://github.com/tc39/proposal-structs) - JavaScript Structs: Fixed Layout Objects
 * 【2024-10-12】[hugo\-sid / hugo\-blog\-awesome](https://github.com/hugo-sid/hugo-blog-awesome) - Fast, minimal blog with dark mode support 
@@ -3070,6 +3077,7 @@
 
 ## Unknown
 
+* 【2024-10-16】[enochtangg / quick\-SQL\-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them 
 * 【2024-10-10】[stackblitz / webcontainer\-core](https://github.com/stackblitz/webcontainer-core) - Dev environments  In your web app 
 * 【2024-10-04】[searxng / searxng\-docker](https://github.com/searxng/searxng-docker) - The docker\-compose files for setting up a SearXNG instance with docker 
 * 【2024-10-04】[northwesternfintech / 2025QuantInternships](https://github.com/northwesternfintech/2025QuantInternships) - Public quant internship repository, maintained by NUFT but available for everyone 
@@ -3568,6 +3576,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-10-16】[katanemo / arch](https://github.com/katanemo/arch) - Arch is an intelligent prompt gateway  Engineered with (fast) LLMs for the secure handling, robust observability, and seamless integration of prompts with APIs \- all outside business logic  Built by the core contributors of Envoy proxy, on Envoy 
 * 【2024-10-14】[samuel\-vitorino / lm rs](https://github.com/samuel-vitorino/lm.rs) - Minimal LLM inference in Rust
 * 【2024-10-14】[geph\-official / geph4\-client](https://github.com/geph-official/geph4-client) - Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering 
 * 【2024-10-13】[golemcloud / golem](https://github.com/golemcloud/golem) - Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems 
@@ -4080,6 +4089,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-10-16】[keystonejs / keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node js — built with GraphQL and React
+* 【2024-10-16】[edwinhern / express\-typescript\-2024](https://github.com/edwinhern/express-typescript-2024) - Express + TypeScript + Boilerplate for Web / API App
+* 【2024-10-16】[Shopify / flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
 * 【2024-10-14】[latitude-dev / latitude-llm](https://github.com/latitude-dev/latitude-llm) - Work in progress
 * 【2024-10-14】[trungvose / angular\-spotify](https://github.com/trungvose/angular-spotify) - Spotify client built with Angular 15, Nx Workspace, ngrx, TailwindCSS and ng\-zorro
 * 【2024-10-13】[molvqingtai / WebChat](https://github.com/molvqingtai/WebChat) - 💬 Chat with anyone on any website 
