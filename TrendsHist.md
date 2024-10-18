@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-10-18】[fingerprintjs / fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library 
 * 【2024-10-16】[openai / swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi\-agent orchestration  Managed by OpenAI Solution team 
 * 【2024-10-13】[cline / cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way 
 * 【2024-10-12】[hcengineering / huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
@@ -644,6 +645,7 @@
 
 ## Java
 
+* 【2024-10-18】[eclipse\-platform / eclipse platform ui](https://github.com/eclipse-platform/eclipse.platform.ui) - Eclipse Platform
 * 【2024-10-07】[kafbat / kafka-ui](https://github.com/kafbat/kafka-ui) - Open-Source Web UI for managing Apache Kafka clusters
 * 【2024-10-07】[xwiki / xwiki-platform](https://github.com/xwiki/xwiki-platform) - The XWiki platform
 * 【2024-10-06】[DhanushNehru / Hacktoberfest2024](https://github.com/DhanushNehru/Hacktoberfest2024) - Hacktoberfest 2024 OPEN FIRST Pull Request \- SUPPORT OPEN SOURCE \- Don't forget to spread love and if you like give us a ⭐️
@@ -844,6 +846,7 @@
 
 ## Python
 
+* 【2024-10-18】[yakami129 / VirtualWife](https://github.com/yakami129/VirtualWife) - VirtualWife是一个虚拟数字人项目，支持B站直播，支持openai、ollama
 * 【2024-10-16】[TEN\-framework / TEN\-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is the world’s first real\-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities 
 * 【2024-10-11】[modelscope / ms\-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full\-parameter to finetune 350+ LLMs or 100+ MLLMs  (LLM: Qwen2 5, Llama3 2, GLM4, Internlm2 5, Yi1 5, Mistral, Baichuan2, DeepSeek, Gemma2,    ; MLLM: Qwen2\-VL, Qwen2\-Audio, Llama3 2\-Vision, Llava, InternVL2, MiniCPM\-V\-2 6, GLM4v, Xcomposer2 5, Yi\-VL, DeepSeek\-VL, Phi3 5\-Vision,    )
 * 【2024-10-11】[THUDM / GLM-4](https://github.com/THUDM/GLM-4) - GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型
@@ -2014,6 +2017,9 @@
 
 ## C
 
+* 【2024-10-18】[espressif / esp\-iot\-solution](https://github.com/espressif/esp-iot-solution) - Espressif IoT Library  IoT Device Drivers, Documentations And Solutions 
+* 【2024-10-18】[CodeWithHarry / The\-Ultimate\-C\-Programming\-Course](https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course) - This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry
+* 【2024-10-18】[xicodomingues / francinette](https://github.com/xicodomingues/francinette) - An easy to use testing framework for the 42 projects
 * 【2024-10-16】[Yowkees / keyball](https://github.com/Yowkees/keyball) - keyball is split keyboard has 100% track ball
 * 【2024-10-13】[rspamd / rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system 
 * 【2024-10-09】[openresty / openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
@@ -2451,6 +2457,7 @@
 
 ## C#
 
+* 【2024-10-18】[bloxstraplabs / bloxstrap](https://github.com/bloxstraplabs/bloxstrap) - An alternative bootstrapper for Roblox with a bunch of extra features 
 * 【2024-10-13】[HearthSim / Hearthstone-Deck-Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker) - A deck tracker and deck manager for Hearthstone on Windows
 * 【2024-10-13】[apache / arrow\-adbc](https://github.com/apache/arrow-adbc) - Database connectivity API standard and libraries for Apache Arrow
 * 【2024-10-11】[microsoft / DacFx](https://github.com/microsoft/DacFx) - DacFx, SqlPackage, and other SQL development libraries enable declarative database development and database portability across SQL versions and environments  Share feedback here on dacpacs, bacpacs, and SQL projects 
@@ -3576,6 +3583,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-10-18】[asterinas / asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general\-purpose OS kernel, written in Rust and providing Linux\-compatible ABI 
+* 【2024-10-18】[gosub\-io / gosub\-engine](https://github.com/gosub-io/gosub-engine) - Our main browser engine repository 
+* 【2024-10-18】[Myriad\-Dreamin / tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst] 
 * 【2024-10-16】[katanemo / arch](https://github.com/katanemo/arch) - Arch is an intelligent prompt gateway  Engineered with (fast) LLMs for the secure handling, robust observability, and seamless integration of prompts with APIs \- all outside business logic  Built by the core contributors of Envoy proxy, on Envoy 
 * 【2024-10-14】[samuel\-vitorino / lm rs](https://github.com/samuel-vitorino/lm.rs) - Minimal LLM inference in Rust
 * 【2024-10-14】[geph\-official / geph4\-client](https://github.com/geph-official/geph4-client) - Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering 
