@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-10-20】[facebookresearch / co\-tracker](https://github.com/facebookresearch/co-tracker) - CoTracker is a model for tracking any point (pixel) on a video 
+* 【2024-10-20】[mirai\-mamori / Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩、轻松上手、体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日多语言）A Colorful, Easy\-to\-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura  Support Simplified Chinese, Traditional Chinese, English and Japanese languages)
 * 【2024-10-18】[fingerprintjs / fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library 
 * 【2024-10-16】[openai / swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi\-agent orchestration  Managed by OpenAI Solution team 
 * 【2024-10-13】[cline / cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way 
@@ -645,6 +647,7 @@
 
 ## Java
 
+* 【2024-10-20】[adorsys / keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 * 【2024-10-19】[adorsys / keycloak\-config\-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON\-formatted configuration files into Keycloak \- Configuration as Code for Keycloak 
 * 【2024-10-18】[eclipse\-platform / eclipse platform ui](https://github.com/eclipse-platform/eclipse.platform.ui) - Eclipse Platform
 * 【2024-10-07】[kafbat / kafka-ui](https://github.com/kafbat/kafka-ui) - Open-Source Web UI for managing Apache Kafka clusters
@@ -1462,6 +1465,7 @@
 
 ## Javascript
 
+* 【2024-10-20】[huggingface / transformers js](https://github.com/huggingface/transformers.js) - State\-of\-the\-art Machine Learning for the web  Run 🤗 Transformers directly in your browser, with no need for a server!
 * 【2024-10-16】[chaxus / ran](https://github.com/chaxus/ran) - web components library, machine learning, function library and so on 
 * 【2024-10-13】[sindresorhus / eslint\-plugin\-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 * 【2024-10-11】[revoltchat / self\-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker 
@@ -3588,6 +3592,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-10-20】[glzr\-io / zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross\-platform taskbars, desktop widgets, and popups 
 * 【2024-10-19】[microsoft / openvmm](https://github.com/microsoft/openvmm) - Home of OpenVMM and OpenHCL 
 * 【2024-10-18】[asterinas / asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general\-purpose OS kernel, written in Rust and providing Linux\-compatible ABI 
 * 【2024-10-18】[gosub\-io / gosub\-engine](https://github.com/gosub-io/gosub-engine) - Our main browser engine repository 
@@ -4105,6 +4110,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-10-20】[kimlimjustin / xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 * 【2024-10-19】[electron-userland / electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 * 【2024-10-16】[keystonejs / keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node js — built with GraphQL and React
 * 【2024-10-16】[edwinhern / express\-typescript\-2024](https://github.com/edwinhern/express-typescript-2024) - Express + TypeScript + Boilerplate for Web / API App
