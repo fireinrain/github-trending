@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-10-23】[chrislgarry / Apollo\-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules 
 * 【2024-10-22】[getomni\-ai / zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt\-4o\-mini
 * 【2024-10-22】[facebookresearch / co-tracker](https://github.com/facebookresearch/co-tracker) - CoTracker is a model for tracking any point (pixel) on a video.
 * 【2024-10-21】[solana\-developers / program\-examples](https://github.com/solana-developers/program-examples) - A repository of Solana program examples
@@ -651,6 +652,8 @@
 
 ## Java
 
+* 【2024-10-23】[Catfriend1 / syncthing\-android](https://github.com/Catfriend1/syncthing-android) - Syncthing\-Fork \- A Syncthing Wrapper for Android 
+* 【2024-10-23】[akhilkammila / leetcode\-screenshotter](https://github.com/akhilkammila/leetcode-screenshotter) - screenshots leetcode editorials and problems
 * 【2024-10-22】[SoLegendary / reignofnether](https://github.com/SoLegendary/reignofnether) - 
 * 【2024-10-22】[VanceVagell / kv4p\-ht](https://github.com/VanceVagell/kv4p-ht) - Open source handheld ham radio project KV4P\-HT
 * 【2024-10-20】[adorsys / keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
@@ -1474,6 +1477,7 @@
 
 ## Javascript
 
+* 【2024-10-23】[torinmb / mediapipe\-touchdesigner](https://github.com/torinmb/mediapipe-touchdesigner) - GPU Accelerated MediaPipe Plugin for TouchDesigner
 * 【2024-10-21】[PranshulGG / WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 * 【2024-10-20】[huggingface / transformers js](https://github.com/huggingface/transformers.js) - State\-of\-the\-art Machine Learning for the web  Run 🤗 Transformers directly in your browser, with no need for a server!
 * 【2024-10-16】[chaxus / ran](https://github.com/chaxus/ran) - web components library, machine learning, function library and so on 
@@ -2035,6 +2039,7 @@
 
 ## C
 
+* 【2024-10-23】[samtools / bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools  See installation instructions and other documentation here http://samtools github io/bcftools/howtos/install html
 * 【2024-10-18】[espressif / esp\-iot\-solution](https://github.com/espressif/esp-iot-solution) - Espressif IoT Library  IoT Device Drivers, Documentations And Solutions 
 * 【2024-10-18】[CodeWithHarry / The\-Ultimate\-C\-Programming\-Course](https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course) - This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry
 * 【2024-10-18】[xicodomingues / francinette](https://github.com/xicodomingues/francinette) - An easy to use testing framework for the 42 projects
@@ -2260,6 +2265,7 @@
 
 ## C++
 
+* 【2024-10-23】[microsoft / T\-MAC](https://github.com/microsoft/T-MAC) - Low\-bit LLM inference on CPU with lookup table
 * 【2024-10-19】[shader\-slang / slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
 * 【2024-10-16】[OSGeo / PROJ](https://github.com/OSGeo/PROJ) - PROJ \- Cartographic Projections and Coordinate Transformations Library
 * 【2024-10-09】[dalathegreat / Battery-Emulator](https://github.com/dalathegreat/Battery-Emulator) - This software enables EV battery packs to be used for stationary storage in combination with solar inverters.
@@ -2476,6 +2482,7 @@
 
 ## C#
 
+* 【2024-10-23】[Suprcode / Crystal](https://github.com/Suprcode/Crystal) - Legend of Mir 2 \- Official Public Crystal Source
 * 【2024-10-22】[codeproject / CodeProject AI\-Server](https://github.com/codeproject/CodeProject.AI-Server) - CodeProject AI Server is a self contained service that software developers can include in, and distribute with, their applications in order to augment their apps with the power of AI 
 * 【2024-10-22】[Macro\-Deck\-App / Macro\-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck transforms your phone, tablet, or any device equipped with a modern internet browser into an efficient remote macro pad  With this tool, you can execute single or multi\-step actions seamlessly with just a single tap 
 * 【2024-10-18】[bloxstraplabs / bloxstrap](https://github.com/bloxstraplabs/bloxstrap) - An alternative bootstrapper for Roblox with a bunch of extra features 
@@ -3108,6 +3115,8 @@
 
 ## Unknown
 
+* 【2024-10-23】[Cryakl / Ultimate\-RAT\-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, samples of 400+ classic/modern trojan builders including screenshots 
+* 【2024-10-23】[SkipToTheEndpoint / OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) - Community\-driven baseline to accelerate Intune adoption and learning 
 * 【2024-10-21】[AZeC4 / TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 * 【2024-10-16】[enochtangg / quick\-SQL\-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet) - A quick reminder of all SQL queries and examples on how to use them 
 * 【2024-10-10】[stackblitz / webcontainer\-core](https://github.com/stackblitz/webcontainer-core) - Dev environments  In your web app 
@@ -3608,6 +3617,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-10-23】[drasi-project / drasi-platform](https://github.com/drasi-project/drasi-platform) - 
+* 【2024-10-23】[rust-bitcoin / rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - Rust Bitcoin library
 * 【2024-10-22】[drasi\-project / drasi\-platform](https://github.com/drasi-project/drasi-platform) - 
 * 【2024-10-21】[glzr-io / zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 * 【2024-10-21】[Myriad-Dreamin / tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
@@ -4130,6 +4141,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-10-23】[mui / toolpad](https://github.com/mui/toolpad) - Toolpad: Full stack components and low\-code builder for dashboards and internal apps 
 * 【2024-10-22】[google / wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient 
 * 【2024-10-21】[solana-developers / program-examples](https://github.com/solana-developers/program-examples) - A repository of Solana program examples
 * 【2024-10-21】[e2b-dev / fragments](https://github.com/e2b-dev/fragments) - Open-source Next.js template for building apps that are fully generated by AI. By E2B.
