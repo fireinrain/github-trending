@@ -652,6 +652,7 @@
 
 ## Java
 
+* 【2024-10-24】[Catfriend1 / syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 * 【2024-10-23】[Catfriend1 / syncthing\-android](https://github.com/Catfriend1/syncthing-android) - Syncthing\-Fork \- A Syncthing Wrapper for Android 
 * 【2024-10-23】[akhilkammila / leetcode\-screenshotter](https://github.com/akhilkammila/leetcode-screenshotter) - screenshots leetcode editorials and problems
 * 【2024-10-22】[SoLegendary / reignofnether](https://github.com/SoLegendary/reignofnether) - 
@@ -859,6 +860,7 @@
 
 ## Python
 
+* 【2024-10-24】[ucbepic / docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM\-powered data processing and ETL
 * 【2024-10-22】[getomni-ai / zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
 * 【2024-10-21】[qxresearch / qxresearch\-event\-1](https://github.com/qxresearch/qxresearch-event-1) - Python hands on tutorial with 50+ Python Application (10 lines of code) By @xiaowuc2
 * 【2024-10-21】[yjh0410 / PyTorch_YOLOv1](https://github.com/yjh0410/PyTorch_YOLOv1) - A new version of YOLOv1
@@ -1477,6 +1479,7 @@
 
 ## Javascript
 
+* 【2024-10-24】[huggingface / transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 * 【2024-10-23】[torinmb / mediapipe\-touchdesigner](https://github.com/torinmb/mediapipe-touchdesigner) - GPU Accelerated MediaPipe Plugin for TouchDesigner
 * 【2024-10-21】[PranshulGG / WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
 * 【2024-10-20】[huggingface / transformers js](https://github.com/huggingface/transformers.js) - State\-of\-the\-art Machine Learning for the web  Run 🤗 Transformers directly in your browser, with no need for a server!
@@ -2265,6 +2268,7 @@
 
 ## C++
 
+* 【2024-10-24】[Livox-SDK / livox_ros_driver2](https://github.com/Livox-SDK/livox_ros_driver2) - Livox device driver under Ros(Compatible with ros and ros2), support Lidar HAP and Mid-360.
 * 【2024-10-23】[microsoft / T\-MAC](https://github.com/microsoft/T-MAC) - Low\-bit LLM inference on CPU with lookup table
 * 【2024-10-19】[shader\-slang / slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
 * 【2024-10-16】[OSGeo / PROJ](https://github.com/OSGeo/PROJ) - PROJ \- Cartographic Projections and Coordinate Transformations Library
@@ -2482,6 +2486,7 @@
 
 ## C#
 
+* 【2024-10-24】[codeproject / CodeProject.AI-Server](https://github.com/codeproject/CodeProject.AI-Server) - CodeProject.AI Server is a self contained service that software developers can include in, and distribute with, their applications in order to augment their apps with the power of AI.
 * 【2024-10-23】[Suprcode / Crystal](https://github.com/Suprcode/Crystal) - Legend of Mir 2 \- Official Public Crystal Source
 * 【2024-10-22】[codeproject / CodeProject AI\-Server](https://github.com/codeproject/CodeProject.AI-Server) - CodeProject AI Server is a self contained service that software developers can include in, and distribute with, their applications in order to augment their apps with the power of AI 
 * 【2024-10-22】[Macro\-Deck\-App / Macro\-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck transforms your phone, tablet, or any device equipped with a modern internet browser into an efficient remote macro pad  With this tool, you can execute single or multi\-step actions seamlessly with just a single tap 
@@ -2749,6 +2754,7 @@
 
 ## Html
 
+* 【2024-10-24】[hugo-fixit / FixIt](https://github.com/hugo-fixit/FixIt) - 🔧 A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 * 【2024-10-22】[vishanurag / Canvas\-Editor](https://github.com/vishanurag/Canvas-Editor) - This is a simple web project that is made with an aim to learn about canvas element of html  Now, this project is open to all of the amazing contributors 
 * 【2024-10-22】[hugo\-fixit / FixIt](https://github.com/hugo-fixit/FixIt) - 🔧 A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 * 【2024-10-19】[horilla-opensource / horilla](https://github.com/horilla-opensource/horilla) - Horilla is a free and open source HR software.
@@ -3617,6 +3623,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-10-24】[GitoxideLabs / gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+* 【2024-10-24】[hyperlane\-xyz / hyperlane\-monorepo](https://github.com/hyperlane-xyz/hyperlane-monorepo) - The home for Hyperlane core contracts, sdk packages, and other infrastructure
+* 【2024-10-24】[Amjad50 / plastic](https://github.com/Amjad50/plastic) - NES emulator in rust with egui and TUI
 * 【2024-10-23】[drasi-project / drasi-platform](https://github.com/drasi-project/drasi-platform) - 
 * 【2024-10-23】[rust-bitcoin / rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - Rust Bitcoin library
 * 【2024-10-22】[drasi\-project / drasi\-platform](https://github.com/drasi-project/drasi-platform) - 
@@ -4141,6 +4150,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-10-24】[yamadashy / repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI\-friendly file  Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini 
 * 【2024-10-23】[mui / toolpad](https://github.com/mui/toolpad) - Toolpad: Full stack components and low\-code builder for dashboards and internal apps 
 * 【2024-10-22】[google / wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient 
 * 【2024-10-21】[solana-developers / program-examples](https://github.com/solana-developers/program-examples) - A repository of Solana program examples
