@@ -652,6 +652,7 @@
 
 ## Java
 
+* 【2024-10-25】[eclipse\-jdtls / eclipse jdt ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
 * 【2024-10-24】[Catfriend1 / syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 * 【2024-10-23】[Catfriend1 / syncthing\-android](https://github.com/Catfriend1/syncthing-android) - Syncthing\-Fork \- A Syncthing Wrapper for Android 
 * 【2024-10-23】[akhilkammila / leetcode\-screenshotter](https://github.com/akhilkammila/leetcode-screenshotter) - screenshots leetcode editorials and problems
@@ -2042,6 +2043,7 @@
 
 ## C
 
+* 【2024-10-25】[HDFGroup / hdf5](https://github.com/HDFGroup/hdf5) - Official HDF5® Library Repository
 * 【2024-10-23】[samtools / bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools  See installation instructions and other documentation here http://samtools github io/bcftools/howtos/install html
 * 【2024-10-18】[espressif / esp\-iot\-solution](https://github.com/espressif/esp-iot-solution) - Espressif IoT Library  IoT Device Drivers, Documentations And Solutions 
 * 【2024-10-18】[CodeWithHarry / The\-Ultimate\-C\-Programming\-Course](https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course) - This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry
@@ -2268,6 +2270,7 @@
 
 ## C++
 
+* 【2024-10-25】[hiyohiyo / CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
 * 【2024-10-24】[Livox-SDK / livox_ros_driver2](https://github.com/Livox-SDK/livox_ros_driver2) - Livox device driver under Ros(Compatible with ros and ros2), support Lidar HAP and Mid-360.
 * 【2024-10-23】[microsoft / T\-MAC](https://github.com/microsoft/T-MAC) - Low\-bit LLM inference on CPU with lookup table
 * 【2024-10-19】[shader\-slang / slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
@@ -2754,6 +2757,7 @@
 
 ## Html
 
+* 【2024-10-25】[steveseguin / vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 * 【2024-10-24】[hugo-fixit / FixIt](https://github.com/hugo-fixit/FixIt) - 🔧 A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 * 【2024-10-22】[vishanurag / Canvas\-Editor](https://github.com/vishanurag/Canvas-Editor) - This is a simple web project that is made with an aim to learn about canvas element of html  Now, this project is open to all of the amazing contributors 
 * 【2024-10-22】[hugo\-fixit / FixIt](https://github.com/hugo-fixit/FixIt) - 🔧 A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
