@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-10-26】[dittofeed / dittofeed](https://github.com/dittofeed/dittofeed) - Open\-source customer engagement  Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
+* 【2024-10-26】[vfsfitvnm / ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music 
 * 【2024-10-23】[chrislgarry / Apollo\-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules 
 * 【2024-10-22】[getomni\-ai / zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt\-4o\-mini
 * 【2024-10-22】[facebookresearch / co-tracker](https://github.com/facebookresearch/co-tracker) - CoTracker is a model for tracking any point (pixel) on a video.
@@ -861,6 +863,8 @@
 
 ## Python
 
+* 【2024-10-26】[sergree / matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
+* 【2024-10-26】[pyvista / pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 * 【2024-10-24】[ucbepic / docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM\-powered data processing and ETL
 * 【2024-10-22】[getomni-ai / zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
 * 【2024-10-21】[qxresearch / qxresearch\-event\-1](https://github.com/qxresearch/qxresearch-event-1) - Python hands on tutorial with 50+ Python Application (10 lines of code) By @xiaowuc2
@@ -1480,6 +1484,9 @@
 
 ## Javascript
 
+* 【2024-10-26】[code-charity / youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰180+ options & clever features 📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
+* 【2024-10-26】[GSSoC24 / Postman\-Challenge](https://github.com/GSSoC24/Postman-Challenge) - This is the all in one place for documentation help regarding the postman challenge 
+* 【2024-10-26】[ai\-shifu / ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 * 【2024-10-24】[huggingface / transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 * 【2024-10-23】[torinmb / mediapipe\-touchdesigner](https://github.com/torinmb/mediapipe-touchdesigner) - GPU Accelerated MediaPipe Plugin for TouchDesigner
 * 【2024-10-21】[PranshulGG / WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
@@ -1807,6 +1814,7 @@
 
 ## Go
 
+* 【2024-10-26】[hacdias / webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server 
 * 【2024-10-22】[lucaslorentz / caddy\-docker\-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 * 【2024-10-19】[GreenmaskIO / greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization and synthetic data generation tool
 * 【2024-10-16】[Project-HAMi / HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous AI Computing Virtualization Middleware
@@ -2757,6 +2765,7 @@
 
 ## Html
 
+* 【2024-10-26】[ANSHIKA\-26 / WordWise](https://github.com/ANSHIKA-26/WordWise) - Blogging website
 * 【2024-10-25】[steveseguin / vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 * 【2024-10-24】[hugo-fixit / FixIt](https://github.com/hugo-fixit/FixIt) - 🔧 A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 * 【2024-10-22】[vishanurag / Canvas\-Editor](https://github.com/vishanurag/Canvas-Editor) - This is a simple web project that is made with an aim to learn about canvas element of html  Now, this project is open to all of the amazing contributors 
@@ -4154,6 +4163,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-10-26】[mattermost\-community / focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self\-hosted alternative to Trello, Notion, and Asana 
 * 【2024-10-24】[yamadashy / repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI\-friendly file  Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini 
 * 【2024-10-23】[mui / toolpad](https://github.com/mui/toolpad) - Toolpad: Full stack components and low\-code builder for dashboards and internal apps 
 * 【2024-10-22】[google / wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient 
