@@ -1484,6 +1484,7 @@
 
 ## Javascript
 
+* 【2024-10-27】[GSSoC24 / Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge) - This is the all in one place for documentation help regarding the postman challenge.
 * 【2024-10-26】[code-charity / youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰180+ options & clever features 📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
 * 【2024-10-26】[GSSoC24 / Postman\-Challenge](https://github.com/GSSoC24/Postman-Challenge) - This is the all in one place for documentation help regarding the postman challenge 
 * 【2024-10-26】[ai\-shifu / ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
@@ -1814,6 +1815,7 @@
 
 ## Go
 
+* 【2024-10-27】[thomaspoignant / go\-feature\-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self\-hosted feature flag solution 100% Open Source  🎛️
 * 【2024-10-26】[hacdias / webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server 
 * 【2024-10-22】[lucaslorentz / caddy\-docker\-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 * 【2024-10-19】[GreenmaskIO / greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization and synthetic data generation tool
@@ -2765,6 +2767,7 @@
 
 ## Html
 
+* 【2024-10-27】[openfoodfacts / openfoodfacts\-server](https://github.com/openfoodfacts/openfoodfacts-server) - Open Food Facts database, API server and web interface \- 🐪🦋 Perl, CSS and JS coders welcome 😊 For helping in Python, see Robotoff or taxonomy\-editor
 * 【2024-10-26】[ANSHIKA\-26 / WordWise](https://github.com/ANSHIKA-26/WordWise) - Blogging website
 * 【2024-10-25】[steveseguin / vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 * 【2024-10-24】[hugo-fixit / FixIt](https://github.com/hugo-fixit/FixIt) - 🔧 A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
@@ -3636,6 +3639,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-10-27】[girlbossceo / conduwuit](https://github.com/girlbossceo/conduwuit) - a very cool, featureful fork of conduit
 * 【2024-10-24】[GitoxideLabs / gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 * 【2024-10-24】[hyperlane\-xyz / hyperlane\-monorepo](https://github.com/hyperlane-xyz/hyperlane-monorepo) - The home for Hyperlane core contracts, sdk packages, and other infrastructure
 * 【2024-10-24】[Amjad50 / plastic](https://github.com/Amjad50/plastic) - NES emulator in rust with egui and TUI
@@ -4163,6 +4167,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-10-27】[web-infra-dev / rsbuild](https://github.com/web-infra-dev/rsbuild) - The Rspack-based build tool. It's fast, out-of-the-box and extensible.
+* 【2024-10-27】[guopenghui / obsidian\-language\-learner](https://github.com/guopenghui/obsidian-language-learner) - 
 * 【2024-10-26】[mattermost\-community / focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self\-hosted alternative to Trello, Notion, and Asana 
 * 【2024-10-24】[yamadashy / repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI\-friendly file  Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini 
 * 【2024-10-23】[mui / toolpad](https://github.com/mui/toolpad) - Toolpad: Full stack components and low\-code builder for dashboards and internal apps 
