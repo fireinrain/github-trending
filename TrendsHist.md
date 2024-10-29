@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-10-29】[ai16z / eliza](https://github.com/ai16z/eliza) - Conversational Agent for Twitter and Discord
 * 【2024-10-26】[dittofeed / dittofeed](https://github.com/dittofeed/dittofeed) - Open\-source customer engagement  Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
 * 【2024-10-26】[vfsfitvnm / ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music 
 * 【2024-10-23】[chrislgarry / Apollo\-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules 
@@ -654,6 +655,7 @@
 
 ## Java
 
+* 【2024-10-29】[CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro\-stutter
 * 【2024-10-25】[eclipse\-jdtls / eclipse jdt ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
 * 【2024-10-24】[Catfriend1 / syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 * 【2024-10-23】[Catfriend1 / syncthing\-android](https://github.com/Catfriend1/syncthing-android) - Syncthing\-Fork \- A Syncthing Wrapper for Android 
@@ -2060,6 +2062,7 @@
 
 ## C
 
+* 【2024-10-29】[eadmaster / pcrown](https://github.com/eadmaster/pcrown) - Princess Crown Translation Project Unofficial Redux
 * 【2024-10-25】[HDFGroup / hdf5](https://github.com/HDFGroup/hdf5) - Official HDF5® Library Repository
 * 【2024-10-23】[samtools / bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools  See installation instructions and other documentation here http://samtools github io/bcftools/howtos/install html
 * 【2024-10-18】[espressif / esp\-iot\-solution](https://github.com/espressif/esp-iot-solution) - Espressif IoT Library  IoT Device Drivers, Documentations And Solutions 
@@ -4177,6 +4180,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-10-29】[Jas-SinghFSU / HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel) - A Bar/Panel for Hyprland with extensive customizability.
 * 【2024-10-28】[Jas\-SinghFSU / HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel) - A Bar/Panel for Hyprland with extensive customizability 
 * 【2024-10-28】[sipeed / NanoKVM](https://github.com/sipeed/NanoKVM) - NanoKVM: Affordable, Multifunctional, Nano RISC\-V IP\-KVM
 * 【2024-10-28】[guopenghui / obsidian-language-learner](https://github.com/guopenghui/obsidian-language-learner) - 
