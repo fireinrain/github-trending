@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-10-30】[naver / mast3r](https://github.com/naver/mast3r) - Grounding Image Matching in 3D with MASt3R
 * 【2024-10-29】[ai16z / eliza](https://github.com/ai16z/eliza) - Conversational Agent for Twitter and Discord
 * 【2024-10-26】[dittofeed / dittofeed](https://github.com/dittofeed/dittofeed) - Open\-source customer engagement  Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
 * 【2024-10-26】[vfsfitvnm / ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music 
@@ -865,6 +866,7 @@
 
 ## Python
 
+* 【2024-10-30】[PokeAPI / pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
 * 【2024-10-28】[R3gm / SoniTranslate](https://github.com/R3gm/SoniTranslate) - Synchronized Translation for Videos  Video dubbing
 * 【2024-10-28】[permitio / opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real\-time updates on top of Policy Agents (OPA, Cedar,    )
 * 【2024-10-28】[THUDM / AutoWebGLM](https://github.com/THUDM/AutoWebGLM) - An LLM\-based Web Navigating Agent (KDD'24)
@@ -1821,6 +1823,7 @@
 
 ## Go
 
+* 【2024-10-30】[jozu-ai / kitops](https://github.com/jozu-ai/kitops) - Securely share and store AI/ML projects as OCI artifacts in your container registry.
 * 【2024-10-28】[thomaspoignant / go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 * 【2024-10-28】[jozu\-ai / kitops](https://github.com/jozu-ai/kitops) - Securely share and store AI/ML projects as OCI artifacts in your container registry 
 * 【2024-10-28】[maddalax / htmgo](https://github.com/maddalax/htmgo) - htmgo \- build simple and scalable systems with go + htmx
@@ -2062,6 +2065,7 @@
 
 ## C
 
+* 【2024-10-30】[antirez / load81](https://github.com/antirez/load81) - SDL based Lua programming environment for kids similar to Codea
 * 【2024-10-29】[eadmaster / pcrown](https://github.com/eadmaster/pcrown) - Princess Crown Translation Project Unofficial Redux
 * 【2024-10-25】[HDFGroup / hdf5](https://github.com/HDFGroup/hdf5) - Official HDF5® Library Repository
 * 【2024-10-23】[samtools / bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools  See installation instructions and other documentation here http://samtools github io/bcftools/howtos/install html
@@ -2290,6 +2294,7 @@
 
 ## C++
 
+* 【2024-10-30】[hku\-mars / FAST\-LIVO](https://github.com/hku-mars/FAST-LIVO) - A Fast and Tightly\-coupled Sparse\-Direct LiDAR\-Inertial\-Visual Odometry (LIVO) 
 * 【2024-10-28】[HuskyDG / magic_overlayfs](https://github.com/HuskyDG/magic_overlayfs) - Make system partition become read\-write (it is also possible without Magisk)
 * 【2024-10-28】[CookiePLMonster / SilentPatch](https://github.com/CookiePLMonster/SilentPatch) - SilentPatch for GTA III, Vice City, and San Andreas
 * 【2024-10-25】[hiyohiyo / CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
@@ -2511,6 +2516,7 @@
 
 ## C#
 
+* 【2024-10-30】[Macro-Deck-App / Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck transforms your phone, tablet, or any device equipped with a modern internet browser into an efficient remote macro pad. With this tool, you can execute single or multi-step actions seamlessly with just a single tap.
 * 【2024-10-24】[codeproject / CodeProject.AI-Server](https://github.com/codeproject/CodeProject.AI-Server) - CodeProject.AI Server is a self contained service that software developers can include in, and distribute with, their applications in order to augment their apps with the power of AI.
 * 【2024-10-23】[Suprcode / Crystal](https://github.com/Suprcode/Crystal) - Legend of Mir 2 \- Official Public Crystal Source
 * 【2024-10-22】[codeproject / CodeProject AI\-Server](https://github.com/codeproject/CodeProject.AI-Server) - CodeProject AI Server is a self contained service that software developers can include in, and distribute with, their applications in order to augment their apps with the power of AI 
@@ -3651,6 +3657,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-10-30】[unionlabs / union](https://github.com/unionlabs/union) - The trust\-minimized, zero\-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance 
+* 【2024-10-30】[databendlabs / databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜  Modern alternative to Snowflake  Cost\-effective and simple for massive\-scale analytics  https://databend com
 * 【2024-10-28】[kube\-rs / kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime
 * 【2024-10-27】[girlbossceo / conduwuit](https://github.com/girlbossceo/conduwuit) - a very cool, featureful fork of conduit
 * 【2024-10-24】[GitoxideLabs / gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
@@ -4180,6 +4188,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-10-30】[tolgee / tolgee\-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web\-based localization platform
+* 【2024-10-30】[photoview / photoview](https://github.com/photoview/photoview) - Photo gallery for self\-hosted personal servers
+* 【2024-10-30】[fynnfluegge / rocketnotes](https://github.com/fynnfluegge/rocketnotes) - LLM\-powered Markdown editor
+* 【2024-10-30】[ethereum / remix-project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
 * 【2024-10-29】[Jas-SinghFSU / HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel) - A Bar/Panel for Hyprland with extensive customizability.
 * 【2024-10-28】[Jas\-SinghFSU / HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel) - A Bar/Panel for Hyprland with extensive customizability 
 * 【2024-10-28】[sipeed / NanoKVM](https://github.com/sipeed/NanoKVM) - NanoKVM: Affordable, Multifunctional, Nano RISC\-V IP\-KVM
