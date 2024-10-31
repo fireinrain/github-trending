@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-10-31】[Spooks4576 / Ghost_ESP](https://github.com/Spooks4576/Ghost_ESP) - Ghost ESP is a ESP32 Firmware that Revolutionizes the way we use ESP32 devices in a Pen Testing aspect
 * 【2024-10-30】[naver / mast3r](https://github.com/naver/mast3r) - Grounding Image Matching in 3D with MASt3R
 * 【2024-10-29】[ai16z / eliza](https://github.com/ai16z/eliza) - Conversational Agent for Twitter and Discord
 * 【2024-10-26】[dittofeed / dittofeed](https://github.com/dittofeed/dittofeed) - Open\-source customer engagement  Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
@@ -656,6 +657,7 @@
 
 ## Java
 
+* 【2024-10-31】[qaiu / netdisk\-fast\-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/QQ邮箱中转站/小飞机盘/亿方云/123云盘等  预览地址 https://lz qaiu top
 * 【2024-10-29】[CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro\-stutter
 * 【2024-10-25】[eclipse\-jdtls / eclipse jdt ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
 * 【2024-10-24】[Catfriend1 / syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
@@ -1491,6 +1493,8 @@
 
 ## Javascript
 
+* 【2024-10-31】[poloclub / transformer\-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
+* 【2024-10-31】[medic / cht\-core](https://github.com/medic/cht-core) - The CHT Core Framework makes it faster to build responsive, offline\-first digital health apps that equip health workers to provide better care in their communities  It is a central resource of the Community Health Toolkit 
 * 【2024-10-28】[dotnet / eShopSupport](https://github.com/dotnet/eShopSupport) - A reference  NET application using AI for a customer support ticketing system
 * 【2024-10-27】[GSSoC24 / Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge) - This is the all in one place for documentation help regarding the postman challenge.
 * 【2024-10-26】[code-charity / youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰180+ options & clever features 📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
@@ -2065,6 +2069,7 @@
 
 ## C
 
+* 【2024-10-31】[imbushuo / mac\-precision\-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
 * 【2024-10-30】[antirez / load81](https://github.com/antirez/load81) - SDL based Lua programming environment for kids similar to Codea
 * 【2024-10-29】[eadmaster / pcrown](https://github.com/eadmaster/pcrown) - Princess Crown Translation Project Unofficial Redux
 * 【2024-10-25】[HDFGroup / hdf5](https://github.com/HDFGroup/hdf5) - Official HDF5® Library Repository
@@ -2294,6 +2299,8 @@
 
 ## C++
 
+* 【2024-10-31】[tenstorrent / tt\-metal](https://github.com/tenstorrent/tt-metal) - 🤘 TT\-NN operator library, and TT\-Metalium low level kernel programming model 
+* 【2024-10-31】[shader-slang / slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
 * 【2024-10-30】[hku\-mars / FAST\-LIVO](https://github.com/hku-mars/FAST-LIVO) - A Fast and Tightly\-coupled Sparse\-Direct LiDAR\-Inertial\-Visual Odometry (LIVO) 
 * 【2024-10-28】[HuskyDG / magic_overlayfs](https://github.com/HuskyDG/magic_overlayfs) - Make system partition become read\-write (it is also possible without Magisk)
 * 【2024-10-28】[CookiePLMonster / SilentPatch](https://github.com/CookiePLMonster/SilentPatch) - SilentPatch for GTA III, Vice City, and San Andreas
@@ -2516,6 +2523,7 @@
 
 ## C#
 
+* 【2024-10-31】[frankodoom / CountryData Net](https://github.com/frankodoom/CountryData.Net) - An offline crossplatform  NET library for getting Global Country , iso3166 Short\-code and Region Data
 * 【2024-10-30】[Macro-Deck-App / Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck transforms your phone, tablet, or any device equipped with a modern internet browser into an efficient remote macro pad. With this tool, you can execute single or multi-step actions seamlessly with just a single tap.
 * 【2024-10-24】[codeproject / CodeProject.AI-Server](https://github.com/codeproject/CodeProject.AI-Server) - CodeProject.AI Server is a self contained service that software developers can include in, and distribute with, their applications in order to augment their apps with the power of AI.
 * 【2024-10-23】[Suprcode / Crystal](https://github.com/Suprcode/Crystal) - Legend of Mir 2 \- Official Public Crystal Source
