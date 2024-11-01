@@ -657,6 +657,7 @@
 
 ## Java
 
+* 【2024-11-01】[qaiu / netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/QQ邮箱中转站/小飞机盘/亿方云/123云盘等. 预览地址 https://lz.qaiu.top
 * 【2024-10-31】[qaiu / netdisk\-fast\-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/QQ邮箱中转站/小飞机盘/亿方云/123云盘等  预览地址 https://lz qaiu top
 * 【2024-10-29】[CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro\-stutter
 * 【2024-10-25】[eclipse\-jdtls / eclipse jdt ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
@@ -868,6 +869,8 @@
 
 ## Python
 
+* 【2024-11-01】[timescale / pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
+* 【2024-11-01】[homebrewltd / ichigo](https://github.com/homebrewltd/ichigo) - Llama3 1 learns to Listen
 * 【2024-10-30】[PokeAPI / pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
 * 【2024-10-28】[R3gm / SoniTranslate](https://github.com/R3gm/SoniTranslate) - Synchronized Translation for Videos  Video dubbing
 * 【2024-10-28】[permitio / opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real\-time updates on top of Policy Agents (OPA, Cedar,    )
@@ -1493,6 +1496,7 @@
 
 ## Javascript
 
+* 【2024-11-01】[poloclub / transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 * 【2024-10-31】[poloclub / transformer\-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 * 【2024-10-31】[medic / cht\-core](https://github.com/medic/cht-core) - The CHT Core Framework makes it faster to build responsive, offline\-first digital health apps that equip health workers to provide better care in their communities  It is a central resource of the Community Health Toolkit 
 * 【2024-10-28】[dotnet / eShopSupport](https://github.com/dotnet/eShopSupport) - A reference  NET application using AI for a customer support ticketing system
@@ -2069,6 +2073,7 @@
 
 ## C
 
+* 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains \- a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy  Supported auth\-types: "user/pass" for SOCKS4/5, "basic" for HTTP 
 * 【2024-10-31】[imbushuo / mac\-precision\-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
 * 【2024-10-30】[antirez / load81](https://github.com/antirez/load81) - SDL based Lua programming environment for kids similar to Codea
 * 【2024-10-29】[eadmaster / pcrown](https://github.com/eadmaster/pcrown) - Princess Crown Translation Project Unofficial Redux
@@ -2299,6 +2304,7 @@
 
 ## C++
 
+* 【2024-11-01】[mortennobel / cpp\-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 * 【2024-10-31】[tenstorrent / tt\-metal](https://github.com/tenstorrent/tt-metal) - 🤘 TT\-NN operator library, and TT\-Metalium low level kernel programming model 
 * 【2024-10-31】[shader-slang / slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
 * 【2024-10-30】[hku\-mars / FAST\-LIVO](https://github.com/hku-mars/FAST-LIVO) - A Fast and Tightly\-coupled Sparse\-Direct LiDAR\-Inertial\-Visual Odometry (LIVO) 
