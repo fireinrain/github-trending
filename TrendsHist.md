@@ -1,5 +1,8 @@
 ## All language
 
+* 【2024-11-02】[microsoft / genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
+* 【2024-11-02】[getmaxun / maxun](https://github.com/getmaxun/maxun) - Free, open\-source no\-code web data extraction platform  Build custom robots to automate data scraping [In Beta]
+* 【2024-11-02】[GeostatsGuy / DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython) - Python interactive dashboards for learning data science
 * 【2024-10-31】[Spooks4576 / Ghost_ESP](https://github.com/Spooks4576/Ghost_ESP) - Ghost ESP is a ESP32 Firmware that Revolutionizes the way we use ESP32 devices in a Pen Testing aspect
 * 【2024-10-30】[naver / mast3r](https://github.com/naver/mast3r) - Grounding Image Matching in 3D with MASt3R
 * 【2024-10-29】[ai16z / eliza](https://github.com/ai16z/eliza) - Conversational Agent for Twitter and Discord
@@ -2799,6 +2802,7 @@
 
 ## Html
 
+* 【2024-11-02】[QuivrHQ / MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs 
 * 【2024-10-27】[openfoodfacts / openfoodfacts\-server](https://github.com/openfoodfacts/openfoodfacts-server) - Open Food Facts database, API server and web interface \- 🐪🦋 Perl, CSS and JS coders welcome 😊 For helping in Python, see Robotoff or taxonomy\-editor
 * 【2024-10-26】[ANSHIKA\-26 / WordWise](https://github.com/ANSHIKA-26/WordWise) - Blogging website
 * 【2024-10-25】[steveseguin / vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
@@ -3169,6 +3173,8 @@
 
 ## Unknown
 
+* 【2024-11-02】[elevenlabs / elevenlabs\-examples](https://github.com/elevenlabs/elevenlabs-examples) - 
+* 【2024-11-02】[0x4D31 / awesome\-threat\-detection](https://github.com/0x4D31/awesome-threat-detection) - ✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️
 * 【2024-10-23】[Cryakl / Ultimate\-RAT\-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, samples of 400+ classic/modern trojan builders including screenshots 
 * 【2024-10-23】[SkipToTheEndpoint / OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) - Community\-driven baseline to accelerate Intune adoption and learning 
 * 【2024-10-21】[AZeC4 / TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
@@ -3671,6 +3677,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-11-02】[Snowiiii / Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers 
 * 【2024-10-30】[unionlabs / union](https://github.com/unionlabs/union) - The trust\-minimized, zero\-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance 
 * 【2024-10-30】[databendlabs / databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜  Modern alternative to Snowflake  Cost\-effective and simple for massive\-scale analytics  https://databend com
 * 【2024-10-28】[kube\-rs / kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime
