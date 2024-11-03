@@ -1499,6 +1499,7 @@
 
 ## Javascript
 
+* 【2024-11-03】[SnapDrop / snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 * 【2024-11-01】[poloclub / transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 * 【2024-10-31】[poloclub / transformer\-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 * 【2024-10-31】[medic / cht\-core](https://github.com/medic/cht-core) - The CHT Core Framework makes it faster to build responsive, offline\-first digital health apps that equip health workers to provide better care in their communities  It is a central resource of the Community Health Toolkit 
@@ -3173,6 +3174,8 @@
 
 ## Unknown
 
+* 【2024-11-03】[elevenlabs / elevenlabs-examples](https://github.com/elevenlabs/elevenlabs-examples) - 
+* 【2024-11-03】[0x4D31 / awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - ✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️
 * 【2024-11-02】[elevenlabs / elevenlabs\-examples](https://github.com/elevenlabs/elevenlabs-examples) - 
 * 【2024-11-02】[0x4D31 / awesome\-threat\-detection](https://github.com/0x4D31/awesome-threat-detection) - ✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️
 * 【2024-10-23】[Cryakl / Ultimate\-RAT\-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, samples of 400+ classic/modern trojan builders including screenshots 
@@ -4209,6 +4212,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-11-03】[yamadashy / repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI\-friendly file  Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini 
+* 【2024-11-03】[vadimdemedes / ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command\-line apps
+* 【2024-11-03】[Nutlope / llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3 1 405B
+* 【2024-11-03】[browserbase / stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility 
+* 【2024-11-03】[mx-space / kami](https://github.com/mx-space/kami) - 🍰 Kami is mx-space's web frontend theme. Colorful, flat, cute and comfortable.
 * 【2024-10-30】[tolgee / tolgee\-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web\-based localization platform
 * 【2024-10-30】[photoview / photoview](https://github.com/photoview/photoview) - Photo gallery for self\-hosted personal servers
 * 【2024-10-30】[fynnfluegge / rocketnotes](https://github.com/fynnfluegge/rocketnotes) - LLM\-powered Markdown editor
