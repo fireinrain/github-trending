@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-11-05】[mirai-mamori / Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩、轻松上手、体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日多语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Traditional Chinese, English and Japanese languages)
 * 【2024-11-04】[DS4SD / docling](https://github.com/DS4SD/docling) - Get your docs ready for gen AI
 * 【2024-11-02】[microsoft / genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 * 【2024-11-02】[getmaxun / maxun](https://github.com/getmaxun/maxun) - Free, open\-source no\-code web data extraction platform  Build custom robots to automate data scraping [In Beta]
@@ -661,6 +662,7 @@
 
 ## Java
 
+* 【2024-11-05】[MehVahdJukaar / Supplementaries](https://github.com/MehVahdJukaar/Supplementaries) - 
 * 【2024-11-04】[MovTery / ZalithLauncher](https://github.com/MovTery/ZalithLauncher) - Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices 
 * 【2024-11-01】[qaiu / netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/QQ邮箱中转站/小飞机盘/亿方云/123云盘等. 预览地址 https://lz.qaiu.top
 * 【2024-10-31】[qaiu / netdisk\-fast\-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/QQ邮箱中转站/小飞机盘/亿方云/123云盘等  预览地址 https://lz qaiu top
@@ -1501,6 +1503,8 @@
 
 ## Javascript
 
+* 【2024-11-05】[Azgaar / Fantasy\-Map\-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
+* 【2024-11-05】[jesse\-ai / jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 * 【2024-11-03】[SnapDrop / snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 * 【2024-11-01】[poloclub / transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 * 【2024-10-31】[poloclub / transformer\-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
@@ -2311,6 +2315,8 @@
 
 ## C++
 
+* 【2024-11-05】[unum\-cloud / usearch](https://github.com/unum-cloud/usearch) - Fast Open\-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective\-C, Swift, C\#, GoLang, and Wolfram 🔍
+* 【2024-11-05】[lailongwei / llbc](https://github.com/lailongwei/llbc) - 一个简洁、高效、跨平台、多语言支持的服务端开发框架，面向Service及Component，底层c++实现。
 * 【2024-11-01】[mortennobel / cpp\-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
 * 【2024-10-31】[tenstorrent / tt\-metal](https://github.com/tenstorrent/tt-metal) - 🤘 TT\-NN operator library, and TT\-Metalium low level kernel programming model 
 * 【2024-10-31】[shader-slang / slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
@@ -2536,6 +2542,7 @@
 
 ## C#
 
+* 【2024-11-05】[DanielKote / Foreman2](https://github.com/DanielKote/Foreman2) - Visual planning tool for Factorio
 * 【2024-11-04】[angularsen / UnitsNet](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better 
 * 【2024-10-31】[frankodoom / CountryData Net](https://github.com/frankodoom/CountryData.Net) - An offline crossplatform  NET library for getting Global Country , iso3166 Short\-code and Region Data
 * 【2024-10-30】[Macro-Deck-App / Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck transforms your phone, tablet, or any device equipped with a modern internet browser into an efficient remote macro pad. With this tool, you can execute single or multi-step actions seamlessly with just a single tap.
@@ -3685,6 +3692,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-11-05】[modrinth / code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
 * 【2024-11-02】[Snowiiii / Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers 
 * 【2024-10-30】[unionlabs / union](https://github.com/unionlabs/union) - The trust\-minimized, zero\-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance 
 * 【2024-10-30】[databendlabs / databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜  Modern alternative to Snowflake  Cost\-effective and simple for massive\-scale analytics  https://databend com
@@ -4217,6 +4225,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-11-05】[ItsRiprod / DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
+* 【2024-11-05】[raidendotai / openv0](https://github.com/raidendotai/openv0) - AI generated UI components
 * 【2024-11-03】[yamadashy / repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI\-friendly file  Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini 
 * 【2024-11-03】[vadimdemedes / ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command\-line apps
 * 【2024-11-03】[Nutlope / llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3 1 405B
