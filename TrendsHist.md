@@ -876,6 +876,7 @@
 
 ## Python
 
+* 【2024-11-06】[TencentBlueKing / blueking\-paas](https://github.com/TencentBlueKing/blueking-paas) - 蓝鲸智云PaaS平台是一个开放式的开发平台，让开发者可以方便快捷地创建、开发、部署和管理 SaaS 应用。它提供了完善的前后台开发框架、服务总线（ESB）、API Gateway、调度引擎、公共组件 等服务。旨在帮助用户快速、低成本的构建免运维运营系统与支撑工具。
 * 【2024-11-01】[timescale / pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 * 【2024-11-01】[homebrewltd / ichigo](https://github.com/homebrewltd/ichigo) - Llama3 1 learns to Listen
 * 【2024-10-30】[PokeAPI / pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
@@ -1503,6 +1504,7 @@
 
 ## Javascript
 
+* 【2024-11-06】[frappe / lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
 * 【2024-11-05】[Azgaar / Fantasy\-Map\-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
 * 【2024-11-05】[jesse\-ai / jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 * 【2024-11-03】[SnapDrop / snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
@@ -3186,6 +3188,7 @@
 
 ## Unknown
 
+* 【2024-11-06】[ChristosChristofidis / awesome\-deep\-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities 
 * 【2024-11-03】[elevenlabs / elevenlabs-examples](https://github.com/elevenlabs/elevenlabs-examples) - 
 * 【2024-11-03】[0x4D31 / awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - ✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️
 * 【2024-11-02】[elevenlabs / elevenlabs\-examples](https://github.com/elevenlabs/elevenlabs-examples) - 
@@ -4225,6 +4228,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-11-06】[zmh\-program / chatnio](https://github.com/zmh-program/chatnio) - 🚀 Next Generation AI One\-Stop Internationalization Solution  🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
+* 【2024-11-06】[haydenbleasel / next\-forge](https://github.com/haydenbleasel/next-forge) - Production\-grade Turborepo template for Next js apps 
 * 【2024-11-05】[ItsRiprod / DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
 * 【2024-11-05】[raidendotai / openv0](https://github.com/raidendotai/openv0) - AI generated UI components
 * 【2024-11-03】[yamadashy / repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI\-friendly file  Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini 
