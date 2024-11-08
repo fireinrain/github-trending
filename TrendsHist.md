@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-11-08】[zmh-program / chatnio](https://github.com/zmh-program/chatnio) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
 * 【2024-11-07】[haydenbleasel / next-forge](https://github.com/haydenbleasel/next-forge) - Production-grade Turborepo template for Next.js apps.
 * 【2024-11-07】[iterative / datachain](https://github.com/iterative/datachain) - AI\-data warehouse to enrich, transform and analyze data from cloud storages
 * 【2024-11-05】[mirai-mamori / Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩、轻松上手、体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日多语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Traditional Chinese, English and Japanese languages)
@@ -3191,6 +3192,7 @@
 
 ## Unknown
 
+* 【2024-11-08】[dbt-labs / jaffle-shop-classic](https://github.com/dbt-labs/jaffle-shop-classic) - A self-contained dbt project for testing purposes
 * 【2024-11-07】[microsoft / powerbi-desktop-samples](https://github.com/microsoft/powerbi-desktop-samples) - Power BI Desktop sample files for the monthly release. Here you can find the PBIX files used in the monthly release videos.
 * 【2024-11-06】[ChristosChristofidis / awesome\-deep\-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities 
 * 【2024-11-03】[elevenlabs / elevenlabs-examples](https://github.com/elevenlabs/elevenlabs-examples) - 
@@ -4232,6 +4234,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-11-08】[Kiranism / next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter with Nextjs14 and shadcn ui
+* 【2024-11-08】[elie222 / inbox\-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast 
+* 【2024-11-08】[beekeeper\-studio / beekeeper\-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more  Linux, MacOS, and Windows 
 * 【2024-11-06】[zmh\-program / chatnio](https://github.com/zmh-program/chatnio) - 🚀 Next Generation AI One\-Stop Internationalization Solution  🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
 * 【2024-11-06】[haydenbleasel / next\-forge](https://github.com/haydenbleasel/next-forge) - Production\-grade Turborepo template for Next js apps 
 * 【2024-11-05】[ItsRiprod / DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
