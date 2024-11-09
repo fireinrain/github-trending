@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-11-09】[chengzhongxue / halo\-theme\-hao](https://github.com/chengzhongxue/halo-theme-hao) - 
 * 【2024-11-08】[zmh-program / chatnio](https://github.com/zmh-program/chatnio) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
 * 【2024-11-07】[haydenbleasel / next-forge](https://github.com/haydenbleasel/next-forge) - Production-grade Turborepo template for Next.js apps.
 * 【2024-11-07】[iterative / datachain](https://github.com/iterative/datachain) - AI\-data warehouse to enrich, transform and analyze data from cloud storages
@@ -880,6 +881,8 @@
 
 ## Python
 
+* 【2024-11-09】[letta\-ai / letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory 
+* 【2024-11-09】[NVIDIA / TransformerEngine](https://github.com/NVIDIA/TransformerEngine) - A library for accelerating Transformer models on NVIDIA GPUs, including using 8\-bit floating point (FP8) precision on Hopper and Ada GPUs, to provide better performance with lower memory utilization in both training and inference 
 * 【2024-11-06】[TencentBlueKing / blueking\-paas](https://github.com/TencentBlueKing/blueking-paas) - 蓝鲸智云PaaS平台是一个开放式的开发平台，让开发者可以方便快捷地创建、开发、部署和管理 SaaS 应用。它提供了完善的前后台开发框架、服务总线（ESB）、API Gateway、调度引擎、公共组件 等服务。旨在帮助用户快速、低成本的构建免运维运营系统与支撑工具。
 * 【2024-11-01】[timescale / pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 * 【2024-11-01】[homebrewltd / ichigo](https://github.com/homebrewltd/ichigo) - Llama3 1 learns to Listen
@@ -3701,6 +3704,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-11-09】[dtolnay / thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
+* 【2024-11-09】[vadimcn / codelldb](https://github.com/vadimcn/codelldb) - A native debugger extension for VSCode based on LLDB
 * 【2024-11-05】[modrinth / code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
 * 【2024-11-02】[Snowiiii / Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers 
 * 【2024-10-30】[unionlabs / union](https://github.com/unionlabs/union) - The trust\-minimized, zero\-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance 
@@ -4234,6 +4239,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-11-09】[clidey / whodb](https://github.com/clidey/whodb) - A lightweight next\-gen data explorer \- Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface
 * 【2024-11-08】[Kiranism / next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter with Nextjs14 and shadcn ui
 * 【2024-11-08】[elie222 / inbox\-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast 
 * 【2024-11-08】[beekeeper\-studio / beekeeper\-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more  Linux, MacOS, and Windows 
