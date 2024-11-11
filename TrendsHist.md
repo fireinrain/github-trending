@@ -666,6 +666,7 @@
 
 ## Java
 
+* 【2024-11-11】[Dar9586 / NClientV2](https://github.com/Dar9586/NClientV2) - An unofficial NHentai android client
 * 【2024-11-10】[opensource4you / astraea](https://github.com/opensource4you/astraea) - 釋放kafka的無限潛能
 * 【2024-11-07】[binarywang / WxJava](https://github.com/binarywang/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
 * 【2024-11-05】[MehVahdJukaar / Supplementaries](https://github.com/MehVahdJukaar/Supplementaries) - 
@@ -882,6 +883,8 @@
 
 ## Python
 
+* 【2024-11-11】[opendatalab / PDF\-Extract\-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High\-Quality PDF Content Extraction
+* 【2024-11-11】[projectmesa / mesa](https://github.com/projectmesa/mesa) - Mesa is an open\-source Python library for agent\-based modeling, ideal for simulating complex systems and exploring emergent behaviors 
 * 【2024-11-10】[letta-ai / letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory.
 * 【2024-11-10】[google\-gemini / generative\-ai\-python](https://github.com/google-gemini/generative-ai-python) - The official Python library for the Google Gemini API
 * 【2024-11-09】[letta\-ai / letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory 
@@ -1514,6 +1517,7 @@
 
 ## Javascript
 
+* 【2024-11-11】[muxinc / media\-elements](https://github.com/muxinc/media-elements) - A collection of HTMLMediaElement compatible elements and add\-ons
 * 【2024-11-06】[frappe / lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
 * 【2024-11-05】[Azgaar / Fantasy\-Map\-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
 * 【2024-11-05】[jesse\-ai / jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
@@ -1853,6 +1857,8 @@
 
 ## Go
 
+* 【2024-11-11】[helm\-unittest / helm\-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin 
+* 【2024-11-11】[JohannesKaufmann / html\-to\-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown  Even works with entire websites and can be extended through rules 
 * 【2024-11-04】[MightyMoud / sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS 
 * 【2024-10-30】[jozu-ai / kitops](https://github.com/jozu-ai/kitops) - Securely share and store AI/ML projects as OCI artifacts in your container registry.
 * 【2024-10-28】[thomaspoignant / go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
@@ -3708,6 +3714,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-11-11】[mxsm / rocketmq\-rust](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ Rust implementation  Faster, safer, and with lower memory usage 
+* 【2024-11-11】[paradigmxyz / solar](https://github.com/paradigmxyz/solar) - Blazingly fast, modular and contributor friendly Solidity compiler, written in Rust
 * 【2024-11-10】[bheisler / criterion rs](https://github.com/bheisler/criterion.rs) - Statistics\-driven benchmarking library for Rust
 * 【2024-11-09】[dtolnay / thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
 * 【2024-11-09】[vadimcn / codelldb](https://github.com/vadimcn/codelldb) - A native debugger extension for VSCode based on LLDB
@@ -4244,6 +4252,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-11-11】[requestly / requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests  It has now developed into an open\-source alternative to Charles Proxy and Telerik Fiddler that works directly in browsers without VPN and proxy Issues  It is used by more than 200,000+ front\-end developers and 11,000+ companies worldwide 
+* 【2024-11-11】[TypeStrong / typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects 
 * 【2024-11-10】[software-mansion / react-native-screens](https://github.com/software-mansion/react-native-screens) - Native navigation primitives for your React Native app.
 * 【2024-11-09】[clidey / whodb](https://github.com/clidey/whodb) - A lightweight next\-gen data explorer \- Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface
 * 【2024-11-08】[Kiranism / next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter with Nextjs14 and shadcn ui
