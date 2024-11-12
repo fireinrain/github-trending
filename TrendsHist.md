@@ -883,6 +883,7 @@
 
 ## Python
 
+* 【2024-11-12】[darrenburns / posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal 
 * 【2024-11-11】[opendatalab / PDF\-Extract\-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High\-Quality PDF Content Extraction
 * 【2024-11-11】[projectmesa / mesa](https://github.com/projectmesa/mesa) - Mesa is an open\-source Python library for agent\-based modeling, ideal for simulating complex systems and exploring emergent behaviors 
 * 【2024-11-10】[letta-ai / letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory.
@@ -1857,6 +1858,7 @@
 
 ## Go
 
+* 【2024-11-12】[JohannesKaufmann / html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 * 【2024-11-11】[helm\-unittest / helm\-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin 
 * 【2024-11-11】[JohannesKaufmann / html\-to\-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown  Even works with entire websites and can be extended through rules 
 * 【2024-11-04】[MightyMoud / sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS 
@@ -2334,6 +2336,7 @@
 
 ## C++
 
+* 【2024-11-12】[NASA\-SW\-VnV / ikos](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation 
 * 【2024-11-05】[unum\-cloud / usearch](https://github.com/unum-cloud/usearch) - Fast Open\-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective\-C, Swift, C\#, GoLang, and Wolfram 🔍
 * 【2024-11-05】[lailongwei / llbc](https://github.com/lailongwei/llbc) - 一个简洁、高效、跨平台、多语言支持的服务端开发框架，面向Service及Component，底层c++实现。
 * 【2024-11-01】[mortennobel / cpp\-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
@@ -2561,6 +2564,7 @@
 
 ## C#
 
+* 【2024-11-12】[countincognito / Zametek ProjectPlan](https://github.com/countincognito/Zametek.ProjectPlan) - A basic desktop alternative to Microsoft Project to help automate project design 
 * 【2024-11-05】[DanielKote / Foreman2](https://github.com/DanielKote/Foreman2) - Visual planning tool for Factorio
 * 【2024-11-04】[angularsen / UnitsNet](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better 
 * 【2024-10-31】[frankodoom / CountryData Net](https://github.com/frankodoom/CountryData.Net) - An offline crossplatform  NET library for getting Global Country , iso3166 Short\-code and Region Data
@@ -4252,6 +4256,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-11-12】[mlc\-ai / web\-llm\-chat](https://github.com/mlc-ai/web-llm-chat) - Chat with AI large language models running natively in your browser  Enjoy private, server\-free, seamless AI conversations 
 * 【2024-11-11】[requestly / requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests  It has now developed into an open\-source alternative to Charles Proxy and Telerik Fiddler that works directly in browsers without VPN and proxy Issues  It is used by more than 200,000+ front\-end developers and 11,000+ companies worldwide 
 * 【2024-11-11】[TypeStrong / typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects 
 * 【2024-11-10】[software-mansion / react-native-screens](https://github.com/software-mansion/react-native-screens) - Native navigation primitives for your React Native app.
