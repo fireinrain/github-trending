@@ -1,5 +1,8 @@
 ## All language
 
+* 【2024-11-14】[microsoft / TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM\-powered multiagent persona simulation for imagination enhancement and business insights 
+* 【2024-11-14】[QwenLM / Qwen2 5\-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - Qwen2 5\-Coder is the code version of Qwen2 5, the large language model series developed by Qwen team, Alibaba Cloud 
+* 【2024-11-14】[Huanshere / VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix\-level subtitle cutting, translation, alignment, and even dubbing \- one\-click fully automated AI video subtitle team \| Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 * 【2024-11-13】[microsoft / vscode\-ai\-toolkit](https://github.com/microsoft/vscode-ai-toolkit) - 
 * 【2024-11-09】[chengzhongxue / halo\-theme\-hao](https://github.com/chengzhongxue/halo-theme-hao) - 
 * 【2024-11-08】[zmh-program / chatnio](https://github.com/zmh-program/chatnio) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
@@ -885,6 +888,7 @@
 
 ## Python
 
+* 【2024-11-14】[QwenLM / Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.
 * 【2024-11-13】[dockur / macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container 
 * 【2024-11-13】[axolotl-ai-cloud / axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 * 【2024-11-13】[home\-assistant / supervisor](https://github.com/home-assistant/supervisor) - 🏡 Home Assistant Supervisor
@@ -3216,6 +3220,7 @@
 
 ## Unknown
 
+* 【2024-11-14】[gantFDT / icraft](https://github.com/gantFDT/icraft) - iCraft Editor \- Help you easily create excellent 3D architecture diagrams
 * 【2024-11-13】[microsoft / vscode-ai-toolkit](https://github.com/microsoft/vscode-ai-toolkit) - 
 * 【2024-11-08】[dbt-labs / jaffle-shop-classic](https://github.com/dbt-labs/jaffle-shop-classic) - A self-contained dbt project for testing purposes
 * 【2024-11-07】[microsoft / powerbi-desktop-samples](https://github.com/microsoft/powerbi-desktop-samples) - Power BI Desktop sample files for the monthly release. Here you can find the PBIX files used in the monthly release videos.
@@ -4264,6 +4269,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-11-14】[posva / pinia\-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Pinia
+* 【2024-11-14】[aws\-amplify / amplify\-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services 
+* 【2024-11-14】[motiondivision / motion](https://github.com/motiondivision/motion) - Open source, production\-ready animation and gesture library for React
+* 【2024-11-14】[bubkoo / html\-to\-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG 
 * 【2024-11-12】[mlc\-ai / web\-llm\-chat](https://github.com/mlc-ai/web-llm-chat) - Chat with AI large language models running natively in your browser  Enjoy private, server\-free, seamless AI conversations 
 * 【2024-11-11】[requestly / requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests  It has now developed into an open\-source alternative to Charles Proxy and Telerik Fiddler that works directly in browsers without VPN and proxy Issues  It is used by more than 200,000+ front\-end developers and 11,000+ companies worldwide 
 * 【2024-11-11】[TypeStrong / typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects 
