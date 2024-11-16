@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-11-16】[bluesky\-social / pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
 * 【2024-11-14】[microsoft / TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM\-powered multiagent persona simulation for imagination enhancement and business insights 
 * 【2024-11-14】[QwenLM / Qwen2 5\-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - Qwen2 5\-Coder is the code version of Qwen2 5, the large language model series developed by Qwen team, Alibaba Cloud 
 * 【2024-11-14】[Huanshere / VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix\-level subtitle cutting, translation, alignment, and even dubbing \- one\-click fully automated AI video subtitle team \| Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
@@ -889,6 +890,7 @@
 
 ## Python
 
+* 【2024-11-16】[g0ldyy / comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid search add\-on 
 * 【2024-11-15】[aigc\-apps / EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - 📺 An End\-to\-End Solution for High\-Resolution and Long Video Generation Based on Transformer Diffusion
 * 【2024-11-14】[QwenLM / Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.
 * 【2024-11-13】[dockur / macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container 
@@ -1529,6 +1531,7 @@
 
 ## Javascript
 
+* 【2024-11-16】[lucahammer / tweetXer](https://github.com/lucahammer/tweetXer) - Delete all your Tweets for free
 * 【2024-11-15】[InternLM / MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM\-based Multi\-agent Framework of Web Search Engine (like Perplexity ai Pro and SearchGPT)
 * 【2024-11-11】[muxinc / media\-elements](https://github.com/muxinc/media-elements) - A collection of HTMLMediaElement compatible elements and add\-ons
 * 【2024-11-06】[frappe / lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
@@ -1870,6 +1873,7 @@
 
 ## Go
 
+* 【2024-11-16】[openai / openai\-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
 * 【2024-11-12】[JohannesKaufmann / html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 * 【2024-11-11】[helm\-unittest / helm\-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin 
 * 【2024-11-11】[JohannesKaufmann / html\-to\-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown  Even works with entire websites and can be extended through rules 
@@ -2116,6 +2120,7 @@
 
 ## C
 
+* 【2024-11-16】[soedinglab / MMseqs2](https://github.com/soedinglab/MMseqs2) - MMseqs2: ultra fast and sensitive search and clustering suite
 * 【2024-11-15】[eclipse\-mosquitto / mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto \- An open source MQTT broker
 * 【2024-11-13】[pvvx / THB2](https://github.com/pvvx/THB2) - Custom firmware for Tuya devices on the PHY622x2 chipset
 * 【2024-11-10】[Cateners / tiny_computer](https://github.com/Cateners/tiny_computer) - Click\-to\-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled  No termux required 
@@ -2350,6 +2355,7 @@
 
 ## C++
 
+* 【2024-11-16】[cra\-ros\-pkg / robot_localization](https://github.com/cra-ros-pkg/robot_localization) - robot_localization is a package of nonlinear state estimation nodes  The package was developed by Charles River Analytics, Inc  Please ask questions on answers ros org 
 * 【2024-11-13】[NASA-SW-VnV / ikos](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation.
 * 【2024-11-12】[NASA\-SW\-VnV / ikos](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation 
 * 【2024-11-05】[unum\-cloud / usearch](https://github.com/unum-cloud/usearch) - Fast Open\-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective\-C, Swift, C\#, GoLang, and Wolfram 🔍
@@ -2853,6 +2859,7 @@
 
 ## Html
 
+* 【2024-11-16】[vasturiano / globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
 * 【2024-11-04】[department\-of\-veterans\-affairs / vets\-design\-system\-documentation](https://github.com/department-of-veterans-affairs/vets-design-system-documentation) - Repository for design va gov website
 * 【2024-11-02】[QuivrHQ / MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs 
 * 【2024-10-27】[openfoodfacts / openfoodfacts\-server](https://github.com/openfoodfacts/openfoodfacts-server) - Open Food Facts database, API server and web interface \- 🐪🦋 Perl, CSS and JS coders welcome 😊 For helping in Python, see Robotoff or taxonomy\-editor
@@ -3225,6 +3232,7 @@
 
 ## Unknown
 
+* 【2024-11-16】[langchain\-ai / langgraph\-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally 
 * 【2024-11-15】[stackblitz / webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
 * 【2024-11-14】[gantFDT / icraft](https://github.com/gantFDT/icraft) - iCraft Editor \- Help you easily create excellent 3D architecture diagrams
 * 【2024-11-13】[microsoft / vscode-ai-toolkit](https://github.com/microsoft/vscode-ai-toolkit) - 
@@ -4277,6 +4285,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-11-16】[ntegrals / aura\-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser  An AI voice assistant optimized for low latency responses 
 * 【2024-11-15】[visgl / react-google-maps](https://github.com/visgl/react-google-maps) - React components and hooks for the Google Maps JavaScript API
 * 【2024-11-14】[posva / pinia\-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Pinia
 * 【2024-11-14】[aws\-amplify / amplify\-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services 
