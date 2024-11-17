@@ -890,6 +890,8 @@
 
 ## Python
 
+* 【2024-11-17】[fixie\-ai / ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real\-time voice
+* 【2024-11-17】[apache / polaris](https://github.com/apache/polaris) - Apache Polaris, the interoperable, open source catalog for Apache Iceberg
 * 【2024-11-16】[g0ldyy / comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid search add\-on 
 * 【2024-11-15】[aigc\-apps / EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - 📺 An End\-to\-End Solution for High\-Resolution and Long Video Generation Based on Transformer Diffusion
 * 【2024-11-14】[QwenLM / Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.
@@ -1873,6 +1875,7 @@
 
 ## Go
 
+* 【2024-11-17】[ethereum\-optimism / supersim](https://github.com/ethereum-optimism/supersim) - Local Multi\-L2 Development Environment
 * 【2024-11-16】[openai / openai\-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
 * 【2024-11-12】[JohannesKaufmann / html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 * 【2024-11-11】[helm\-unittest / helm\-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin 
@@ -2120,6 +2123,7 @@
 
 ## C
 
+* 【2024-11-17】[eclipse-mosquitto / mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 * 【2024-11-16】[soedinglab / MMseqs2](https://github.com/soedinglab/MMseqs2) - MMseqs2: ultra fast and sensitive search and clustering suite
 * 【2024-11-15】[eclipse\-mosquitto / mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto \- An open source MQTT broker
 * 【2024-11-13】[pvvx / THB2](https://github.com/pvvx/THB2) - Custom firmware for Tuya devices on the PHY622x2 chipset
@@ -2355,6 +2359,8 @@
 
 ## C++
 
+* 【2024-11-17】[daijro / camoufox](https://github.com/daijro/camoufox) - 🦊 Anti\-detect browser
+* 【2024-11-17】[microsoft / BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1\-bit LLMs
 * 【2024-11-16】[cra\-ros\-pkg / robot_localization](https://github.com/cra-ros-pkg/robot_localization) - robot_localization is a package of nonlinear state estimation nodes  The package was developed by Charles River Analytics, Inc  Please ask questions on answers ros org 
 * 【2024-11-13】[NASA-SW-VnV / ikos](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation.
 * 【2024-11-12】[NASA\-SW\-VnV / ikos](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation 
@@ -2859,6 +2865,7 @@
 
 ## Html
 
+* 【2024-11-17】[Blobby\-Boi / ExtHang3r](https://github.com/Blobby-Boi/ExtHang3r) - An exploit that allows ChromeOS users to kill extensions after the LTMEAT patch 
 * 【2024-11-16】[vasturiano / globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
 * 【2024-11-04】[department\-of\-veterans\-affairs / vets\-design\-system\-documentation](https://github.com/department-of-veterans-affairs/vets-design-system-documentation) - Repository for design va gov website
 * 【2024-11-02】[QuivrHQ / MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs 
