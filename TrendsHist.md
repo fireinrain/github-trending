@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-11-18】[docusealco / docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative  Create, fill, and sign digital documents ✍️
 * 【2024-11-16】[bluesky\-social / pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
 * 【2024-11-14】[microsoft / TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM\-powered multiagent persona simulation for imagination enhancement and business insights 
 * 【2024-11-14】[QwenLM / Qwen2 5\-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - Qwen2 5\-Coder is the code version of Qwen2 5, the large language model series developed by Qwen team, Alibaba Cloud 
@@ -671,6 +672,7 @@
 
 ## Java
 
+* 【2024-11-18】[smithy-lang / smithy](https://github.com/smithy-lang/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
 * 【2024-11-15】[smithy\-lang / smithy](https://github.com/smithy-lang/smithy) - Smithy is a protocol\-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language 
 * 【2024-11-13】[xdsopl / robot36](https://github.com/xdsopl/robot36) - Decode SSTV encoded audio signals to images
 * 【2024-11-11】[Dar9586 / NClientV2](https://github.com/Dar9586/NClientV2) - An unofficial NHentai android client
@@ -890,6 +892,8 @@
 
 ## Python
 
+* 【2024-11-18】[NexaAI / nexa\-sdk](https://github.com/NexaAI/nexa-sdk) - Nexa SDK is a comprehensive toolkit for supporting ONNX and GGML models  It supports text generation, image generation, vision\-language models (VLM), auto\-speech\-recognition (ASR), and text\-to\-speech (TTS) capabilities 
+* 【2024-11-18】[NVIDIA / garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 * 【2024-11-17】[fixie\-ai / ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real\-time voice
 * 【2024-11-17】[apache / polaris](https://github.com/apache/polaris) - Apache Polaris, the interoperable, open source catalog for Apache Iceberg
 * 【2024-11-16】[g0ldyy / comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid search add\-on 
@@ -1875,6 +1879,7 @@
 
 ## Go
 
+* 【2024-11-18】[jesusprubio / up](https://github.com/jesusprubio/up) - 📶 Troubleshoot problems with your Internet connection
 * 【2024-11-17】[ethereum\-optimism / supersim](https://github.com/ethereum-optimism/supersim) - Local Multi\-L2 Development Environment
 * 【2024-11-16】[openai / openai\-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
 * 【2024-11-12】[JohannesKaufmann / html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
@@ -3239,6 +3244,7 @@
 
 ## Unknown
 
+* 【2024-11-18】[fishttp / awesome\-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
 * 【2024-11-16】[langchain\-ai / langgraph\-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally 
 * 【2024-11-15】[stackblitz / webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
 * 【2024-11-14】[gantFDT / icraft](https://github.com/gantFDT/icraft) - iCraft Editor \- Help you easily create excellent 3D architecture diagrams
@@ -4292,6 +4298,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-11-18】[Comfy\-Org / ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - Official front\-end implementation of ComfyUI
 * 【2024-11-16】[ntegrals / aura\-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser  An AI voice assistant optimized for low latency responses 
 * 【2024-11-15】[visgl / react-google-maps](https://github.com/visgl/react-google-maps) - React components and hooks for the Google Maps JavaScript API
 * 【2024-11-14】[posva / pinia\-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Pinia
