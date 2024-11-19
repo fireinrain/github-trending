@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-11-19】[olimorris / codecompanion nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI\-powered coding, seamlessly in Neovim  Supports Anthropic, Copilot, Gemini, Ollama, OpenAI and xAI LLMs
 * 【2024-11-18】[docusealco / docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative  Create, fill, and sign digital documents ✍️
 * 【2024-11-16】[bluesky\-social / pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
 * 【2024-11-14】[microsoft / TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM\-powered multiagent persona simulation for imagination enhancement and business insights 
@@ -892,6 +893,10 @@
 
 ## Python
 
+* 【2024-11-19】[NexaAI / nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Nexa SDK is a comprehensive toolkit for supporting ONNX and GGML models. It supports text generation, image generation, vision-language models (VLM), auto-speech-recognition (ASR), and text-to-speech (TTS) capabilities.
+* 【2024-11-19】[fixie-ai / ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
+* 【2024-11-19】[openwrt\-xiaomi / xmir\-patcher](https://github.com/openwrt-xiaomi/xmir-patcher) - Firmware patcher for Xiaomi routers
+* 【2024-11-19】[pyro\-ppl / numpyro](https://github.com/pyro-ppl/numpyro) - Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation to GPU/TPU/CPU 
 * 【2024-11-18】[NexaAI / nexa\-sdk](https://github.com/NexaAI/nexa-sdk) - Nexa SDK is a comprehensive toolkit for supporting ONNX and GGML models  It supports text generation, image generation, vision\-language models (VLM), auto\-speech\-recognition (ASR), and text\-to\-speech (TTS) capabilities 
 * 【2024-11-18】[NVIDIA / garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 * 【2024-11-17】[fixie\-ai / ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real\-time voice
@@ -1537,6 +1542,7 @@
 
 ## Javascript
 
+* 【2024-11-19】[metowolf / vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 \- 优化 iOS/Android 来电、信息界面体验
 * 【2024-11-16】[lucahammer / tweetXer](https://github.com/lucahammer/tweetXer) - Delete all your Tweets for free
 * 【2024-11-15】[InternLM / MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM\-based Multi\-agent Framework of Web Search Engine (like Perplexity ai Pro and SearchGPT)
 * 【2024-11-11】[muxinc / media\-elements](https://github.com/muxinc/media-elements) - A collection of HTMLMediaElement compatible elements and add\-ons
@@ -2128,6 +2134,7 @@
 
 ## C
 
+* 【2024-11-19】[libsndfile / libsndfile](https://github.com/libsndfile/libsndfile) - A C library for reading and writing sound files containing sampled audio data 
 * 【2024-11-17】[eclipse-mosquitto / mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 * 【2024-11-16】[soedinglab / MMseqs2](https://github.com/soedinglab/MMseqs2) - MMseqs2: ultra fast and sensitive search and clustering suite
 * 【2024-11-15】[eclipse\-mosquitto / mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto \- An open source MQTT broker
@@ -2364,6 +2371,7 @@
 
 ## C++
 
+* 【2024-11-19】[crawl / crawl](https://github.com/crawl/crawl) - Dungeon Crawl: Stone Soup official repository
 * 【2024-11-17】[daijro / camoufox](https://github.com/daijro/camoufox) - 🦊 Anti\-detect browser
 * 【2024-11-17】[microsoft / BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1\-bit LLMs
 * 【2024-11-16】[cra\-ros\-pkg / robot_localization](https://github.com/cra-ros-pkg/robot_localization) - robot_localization is a package of nonlinear state estimation nodes  The package was developed by Charles River Analytics, Inc  Please ask questions on answers ros org 
@@ -2596,6 +2604,7 @@
 
 ## C#
 
+* 【2024-11-19】[ncalc / ncalc](https://github.com/ncalc/ncalc) - NCalc is a fast and lightweight expression evaluator library for  NET, designed for flexibility and high performance  It supports a wide range of mathematical and logical operations 
 * 【2024-11-15】[CommunityToolkit / Aspire](https://github.com/CommunityToolkit/Aspire) - A community project with additional components and extensions for  NET Aspire
 * 【2024-11-12】[countincognito / Zametek ProjectPlan](https://github.com/countincognito/Zametek.ProjectPlan) - A basic desktop alternative to Microsoft Project to help automate project design 
 * 【2024-11-05】[DanielKote / Foreman2](https://github.com/DanielKote/Foreman2) - Visual planning tool for Factorio
@@ -3244,6 +3253,8 @@
 
 ## Unknown
 
+* 【2024-11-19】[CSS\-Next / css\-next](https://github.com/CSS-Next/css-next) - Admin repo for meetings, charter, and action items for the CSS\-Next community group, a part of the w3c 
+* 【2024-11-19】[searxng / searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
 * 【2024-11-18】[fishttp / awesome\-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
 * 【2024-11-16】[langchain\-ai / langgraph\-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally 
 * 【2024-11-15】[stackblitz / webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
@@ -4298,6 +4309,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-11-19】[rckprtr / pumpdotfun\-sdk](https://github.com/rckprtr/pumpdotfun-sdk) - PumpDotFun SDK
 * 【2024-11-18】[Comfy\-Org / ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - Official front\-end implementation of ComfyUI
 * 【2024-11-16】[ntegrals / aura\-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser  An AI voice assistant optimized for low latency responses 
 * 【2024-11-15】[visgl / react-google-maps](https://github.com/visgl/react-google-maps) - React components and hooks for the Google Maps JavaScript API
