@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-11-20】[arkohut / pensieve](https://github.com/arkohut/pensieve) - A passive recording project allows you to have complete control over your data  一个完全由你掌控数据的「被动记录」项目。
+* 【2024-11-20】[awslabs / multi\-agent\-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 * 【2024-11-19】[olimorris / codecompanion nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI\-powered coding, seamlessly in Neovim  Supports Anthropic, Copilot, Gemini, Ollama, OpenAI and xAI LLMs
 * 【2024-11-18】[docusealco / docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative  Create, fill, and sign digital documents ✍️
 * 【2024-11-16】[bluesky\-social / pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
@@ -673,6 +675,7 @@
 
 ## Java
 
+* 【2024-11-20】[iterate\-ch / cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows 
 * 【2024-11-18】[smithy-lang / smithy](https://github.com/smithy-lang/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
 * 【2024-11-15】[smithy\-lang / smithy](https://github.com/smithy-lang/smithy) - Smithy is a protocol\-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language 
 * 【2024-11-13】[xdsopl / robot36](https://github.com/xdsopl/robot36) - Decode SSTV encoded audio signals to images
@@ -893,6 +896,11 @@
 
 ## Python
 
+* 【2024-11-20】[gusye1234 / nano\-graphrag](https://github.com/gusye1234/nano-graphrag) - A simple, easy\-to\-hack GraphRAG implementation
+* 【2024-11-20】[DrewThomasson / ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generates an audiobook with chapters and ebook metadata using Calibre and Xtts from Coqui tts, and with optional voice cloning, and supports multiple languages
+* 【2024-11-20】[PacktPublishing / LLM\-Engineers\-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices
+* 【2024-11-20】[Peterande / D\-FINE](https://github.com/Peterande/D-FINE) - D\-FINE: Redefine Regression Task of DETRs as Fine\-grained Distribution Refinement 💥💥💥
+* 【2024-11-20】[RockChinQ / LangBot](https://github.com/RockChinQ/LangBot) - 原名 QChatGPT ；😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 \| 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、dify 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
 * 【2024-11-19】[NexaAI / nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Nexa SDK is a comprehensive toolkit for supporting ONNX and GGML models. It supports text generation, image generation, vision-language models (VLM), auto-speech-recognition (ASR), and text-to-speech (TTS) capabilities.
 * 【2024-11-19】[fixie-ai / ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 * 【2024-11-19】[openwrt\-xiaomi / xmir\-patcher](https://github.com/openwrt-xiaomi/xmir-patcher) - Firmware patcher for Xiaomi routers
@@ -2134,6 +2142,7 @@
 
 ## C
 
+* 【2024-11-20】[oracle / bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto\-tune Linux systems
 * 【2024-11-19】[libsndfile / libsndfile](https://github.com/libsndfile/libsndfile) - A C library for reading and writing sound files containing sampled audio data 
 * 【2024-11-17】[eclipse-mosquitto / mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
 * 【2024-11-16】[soedinglab / MMseqs2](https://github.com/soedinglab/MMseqs2) - MMseqs2: ultra fast and sensitive search and clustering suite
@@ -2371,6 +2380,7 @@
 
 ## C++
 
+* 【2024-11-20】[fritzing / fritzing\-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 * 【2024-11-19】[crawl / crawl](https://github.com/crawl/crawl) - Dungeon Crawl: Stone Soup official repository
 * 【2024-11-17】[daijro / camoufox](https://github.com/daijro/camoufox) - 🦊 Anti\-detect browser
 * 【2024-11-17】[microsoft / BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1\-bit LLMs
@@ -2604,6 +2614,8 @@
 
 ## C#
 
+* 【2024-11-20】[npgsql / efcore pg](https://github.com/npgsql/efcore.pg) - Entity Framework Core provider for PostgreSQL
+* 【2024-11-20】[stephanstapel / ZUGFeRD\-csharp](https://github.com/stephanstapel/ZUGFeRD-csharp) - C\# assembly for creating and reading ZUGFeRD invoices
 * 【2024-11-19】[ncalc / ncalc](https://github.com/ncalc/ncalc) - NCalc is a fast and lightweight expression evaluator library for  NET, designed for flexibility and high performance  It supports a wide range of mathematical and logical operations 
 * 【2024-11-15】[CommunityToolkit / Aspire](https://github.com/CommunityToolkit/Aspire) - A community project with additional components and extensions for  NET Aspire
 * 【2024-11-12】[countincognito / Zametek ProjectPlan](https://github.com/countincognito/Zametek.ProjectPlan) - A basic desktop alternative to Microsoft Project to help automate project design 
@@ -3253,6 +3265,7 @@
 
 ## Unknown
 
+* 【2024-11-20】[CSS-Next / css-next](https://github.com/CSS-Next/css-next) - Admin repo for meetings, charter, and action items for the CSS-Next community group, a part of the w3c.
 * 【2024-11-19】[CSS\-Next / css\-next](https://github.com/CSS-Next/css-next) - Admin repo for meetings, charter, and action items for the CSS\-Next community group, a part of the w3c 
 * 【2024-11-19】[searxng / searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
 * 【2024-11-18】[fishttp / awesome\-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
@@ -3769,6 +3782,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-11-20】[rpcpool / yellowstone\-grpc](https://github.com/rpcpool/yellowstone-grpc) - solana geyser grpc service
 * 【2024-11-15】[tensorzero / tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models 
 * 【2024-11-15】[ArthurBrussee / brush](https://github.com/ArthurBrussee/brush) - 3D Reconstruction for all
 * 【2024-11-11】[mxsm / rocketmq\-rust](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ Rust implementation  Faster, safer, and with lower memory usage 
@@ -4309,6 +4323,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-11-20】[awslabs / multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+* 【2024-11-20】[primer / react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 * 【2024-11-19】[rckprtr / pumpdotfun\-sdk](https://github.com/rckprtr/pumpdotfun-sdk) - PumpDotFun SDK
 * 【2024-11-18】[Comfy\-Org / ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - Official front\-end implementation of ComfyUI
 * 【2024-11-16】[ntegrals / aura\-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser  An AI voice assistant optimized for low latency responses 
