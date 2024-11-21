@@ -1893,6 +1893,7 @@
 
 ## Go
 
+* 【2024-11-21】[hugomd / ascii\-live](https://github.com/hugomd/ascii-live) - An extension to parrot live, with support for more animations! http://ascii live
 * 【2024-11-18】[jesusprubio / up](https://github.com/jesusprubio/up) - 📶 Troubleshoot problems with your Internet connection
 * 【2024-11-17】[ethereum\-optimism / supersim](https://github.com/ethereum-optimism/supersim) - Local Multi\-L2 Development Environment
 * 【2024-11-16】[openai / openai\-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
@@ -2142,6 +2143,7 @@
 
 ## C
 
+* 【2024-11-21】[simd\-everywhere / simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them 
 * 【2024-11-20】[oracle / bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto\-tune Linux systems
 * 【2024-11-19】[libsndfile / libsndfile](https://github.com/libsndfile/libsndfile) - A C library for reading and writing sound files containing sampled audio data 
 * 【2024-11-17】[eclipse-mosquitto / mosquitto](https://github.com/eclipse-mosquitto/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
@@ -2614,6 +2616,8 @@
 
 ## C#
 
+* 【2024-11-21】[efcore / EFCore NamingConventions](https://github.com/efcore/EFCore.NamingConventions) - Entity Framework Core plugin to apply naming conventions to table and column names (e g  snake_case)
+* 【2024-11-21】[greenshot / greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows \- Report bugs & features go here: https://greenshot atlassian net or look for information on:
 * 【2024-11-20】[npgsql / efcore pg](https://github.com/npgsql/efcore.pg) - Entity Framework Core provider for PostgreSQL
 * 【2024-11-20】[stephanstapel / ZUGFeRD\-csharp](https://github.com/stephanstapel/ZUGFeRD-csharp) - C\# assembly for creating and reading ZUGFeRD invoices
 * 【2024-11-19】[ncalc / ncalc](https://github.com/ncalc/ncalc) - NCalc is a fast and lightweight expression evaluator library for  NET, designed for flexibility and high performance  It supports a wide range of mathematical and logical operations 
@@ -2891,6 +2895,7 @@
 
 ## Html
 
+* 【2024-11-21】[Blobby-Boi / ExtHang3r](https://github.com/Blobby-Boi/ExtHang3r) - An exploit that allows ChromeOS users to kill extensions after the LTMEAT patch.
 * 【2024-11-17】[Blobby\-Boi / ExtHang3r](https://github.com/Blobby-Boi/ExtHang3r) - An exploit that allows ChromeOS users to kill extensions after the LTMEAT patch 
 * 【2024-11-16】[vasturiano / globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
 * 【2024-11-04】[department\-of\-veterans\-affairs / vets\-design\-system\-documentation](https://github.com/department-of-veterans-affairs/vets-design-system-documentation) - Repository for design va gov website
@@ -3782,6 +3787,11 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-11-21】[apache / iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg
+* 【2024-11-21】[epi052 / feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust 
+* 【2024-11-21】[mxsm / rocketmq-rust](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ Rust🦀 implementation. Faster, safer, and with lower memory usage.
+* 【2024-11-21】[trynova / nova](https://github.com/trynova/nova) - JS engine lolz
+* 【2024-11-21】[nix\-rust / nix](https://github.com/nix-rust/nix) - Rust friendly bindings to *nix APIs
 * 【2024-11-20】[rpcpool / yellowstone\-grpc](https://github.com/rpcpool/yellowstone-grpc) - solana geyser grpc service
 * 【2024-11-15】[tensorzero / tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models 
 * 【2024-11-15】[ArthurBrussee / brush](https://github.com/ArthurBrussee/brush) - 3D Reconstruction for all
@@ -4323,6 +4333,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-11-21】[sanity-io / sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
+* 【2024-11-21】[ntegrals / aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.
 * 【2024-11-20】[awslabs / multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 * 【2024-11-20】[primer / react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 * 【2024-11-19】[rckprtr / pumpdotfun\-sdk](https://github.com/rckprtr/pumpdotfun-sdk) - PumpDotFun SDK
