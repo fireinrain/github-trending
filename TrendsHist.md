@@ -896,6 +896,7 @@
 
 ## Python
 
+* 【2024-11-23】[encode / starlette](https://github.com/encode/starlette) - The little ASGI framework that shines  🌟
 * 【2024-11-22】[NVIDIA / bionemo\-framework](https://github.com/NVIDIA/bionemo-framework) - BioNeMo Framework: For building and adapting AI models in drug discovery at scale
 * 【2024-11-22】[TEN-framework / TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.
 * 【2024-11-20】[gusye1234 / nano\-graphrag](https://github.com/gusye1234/nano-graphrag) - A simple, easy\-to\-hack GraphRAG implementation
@@ -2618,6 +2619,7 @@
 
 ## C#
 
+* 【2024-11-23】[dotnet / Scaffolding](https://github.com/dotnet/Scaffolding) - Code generators to speed up development 
 * 【2024-11-22】[NimblePros / eShopOnWeb](https://github.com/NimblePros/eShopOnWeb) - Sample ASP NET Core 9 0 reference application, powered by Microsoft, demonstrating a domain\-centric application architecture with monolithic deployment model  Download the eBook PDF from docs folder 
 * 【2024-11-21】[efcore / EFCore NamingConventions](https://github.com/efcore/EFCore.NamingConventions) - Entity Framework Core plugin to apply naming conventions to table and column names (e g  snake_case)
 * 【2024-11-21】[greenshot / greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows \- Report bugs & features go here: https://greenshot atlassian net or look for information on:
@@ -3273,6 +3275,7 @@
 
 ## Unknown
 
+* 【2024-11-23】[svcvit / Awesome\-Dify\-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows 
 * 【2024-11-20】[CSS-Next / css-next](https://github.com/CSS-Next/css-next) - Admin repo for meetings, charter, and action items for the CSS-Next community group, a part of the w3c.
 * 【2024-11-19】[CSS\-Next / css\-next](https://github.com/CSS-Next/css-next) - Admin repo for meetings, charter, and action items for the CSS\-Next community group, a part of the w3c 
 * 【2024-11-19】[searxng / searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
@@ -3790,6 +3793,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-11-23】[lakehq / sail](https://github.com/lakehq/sail) - LakeSail's computation framework with a mission to unify stream processing, batch processing, and compute\-intensive (AI) workloads 
 * 【2024-11-21】[apache / iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg
 * 【2024-11-21】[epi052 / feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust 
 * 【2024-11-21】[mxsm / rocketmq-rust](https://github.com/mxsm/rocketmq-rust) - 🚀Apache RocketMQ Rust🦀 implementation. Faster, safer, and with lower memory usage.
