@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-11-24】[black\-forest\-labs / flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX 1 models
 * 【2024-11-20】[arkohut / pensieve](https://github.com/arkohut/pensieve) - A passive recording project allows you to have complete control over your data  一个完全由你掌控数据的「被动记录」项目。
 * 【2024-11-20】[awslabs / multi\-agent\-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 * 【2024-11-19】[olimorris / codecompanion nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI\-powered coding, seamlessly in Neovim  Supports Anthropic, Copilot, Gemini, Ollama, OpenAI and xAI LLMs
@@ -896,6 +897,7 @@
 
 ## Python
 
+* 【2024-11-24】[black-forest-labs / flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 * 【2024-11-23】[encode / starlette](https://github.com/encode/starlette) - The little ASGI framework that shines  🌟
 * 【2024-11-22】[NVIDIA / bionemo\-framework](https://github.com/NVIDIA/bionemo-framework) - BioNeMo Framework: For building and adapting AI models in drug discovery at scale
 * 【2024-11-22】[TEN-framework / TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.
@@ -2146,6 +2148,7 @@
 
 ## C
 
+* 【2024-11-24】[quickjs\-ng / quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine
 * 【2024-11-21】[simd\-everywhere / simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them 
 * 【2024-11-20】[oracle / bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto\-tune Linux systems
 * 【2024-11-19】[libsndfile / libsndfile](https://github.com/libsndfile/libsndfile) - A C library for reading and writing sound files containing sampled audio data 
@@ -2385,6 +2388,7 @@
 
 ## C++
 
+* 【2024-11-24】[rl\-tools / rl\-tools](https://github.com/rl-tools/rl-tools) - The Fastest Deep Reinforcement Learning Library
 * 【2024-11-20】[fritzing / fritzing\-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 * 【2024-11-19】[crawl / crawl](https://github.com/crawl/crawl) - Dungeon Crawl: Stone Soup official repository
 * 【2024-11-17】[daijro / camoufox](https://github.com/daijro/camoufox) - 🦊 Anti\-detect browser
@@ -2619,6 +2623,7 @@
 
 ## C#
 
+* 【2024-11-24】[efcore / EFCore.NamingConventions](https://github.com/efcore/EFCore.NamingConventions) - Entity Framework Core plugin to apply naming conventions to table and column names (e.g. snake_case)
 * 【2024-11-23】[dotnet / Scaffolding](https://github.com/dotnet/Scaffolding) - Code generators to speed up development 
 * 【2024-11-22】[NimblePros / eShopOnWeb](https://github.com/NimblePros/eShopOnWeb) - Sample ASP NET Core 9 0 reference application, powered by Microsoft, demonstrating a domain\-centric application architecture with monolithic deployment model  Download the eBook PDF from docs folder 
 * 【2024-11-21】[efcore / EFCore NamingConventions](https://github.com/efcore/EFCore.NamingConventions) - Entity Framework Core plugin to apply naming conventions to table and column names (e g  snake_case)
@@ -3275,6 +3280,8 @@
 
 ## Unknown
 
+* 【2024-11-24】[deepseek\-ai / DeepSeek\-Coder\-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek\-Coder\-V2: Breaking the Barrier of Closed\-Source Models in Code Intelligence
+* 【2024-11-24】[svcvit / Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 * 【2024-11-23】[svcvit / Awesome\-Dify\-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows 
 * 【2024-11-20】[CSS-Next / css-next](https://github.com/CSS-Next/css-next) - Admin repo for meetings, charter, and action items for the CSS-Next community group, a part of the w3c.
 * 【2024-11-19】[CSS\-Next / css\-next](https://github.com/CSS-Next/css-next) - Admin repo for meetings, charter, and action items for the CSS\-Next community group, a part of the w3c 
@@ -4340,6 +4347,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-11-24】[mastra\-ai / mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework 
+* 【2024-11-24】[remotion-dev / remotion](https://github.com/remotion-dev/remotion) - 🎥 Make videos programmatically with React
+* 【2024-11-24】[textbus / textbus](https://github.com/textbus/textbus) - Textbus 是一个组件化的、数据驱动的富文本框架，支持在线协同编辑，拥有非常好的扩展性和可定制性，可使用 Viewfly、Vue 或 React 直接渲染富文本，是构建复杂富文本的不二之选！
 * 【2024-11-22】[ngrx / platform](https://github.com/ngrx/platform) - Reactive State for Angular
 * 【2024-11-21】[sanity-io / sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 * 【2024-11-21】[ntegrals / aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.
