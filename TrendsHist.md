@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-11-25】[pingcap / autoflow](https://github.com/pingcap/autoflow) - pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage  Demo: https://tidb ai
 * 【2024-11-24】[black\-forest\-labs / flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX 1 models
 * 【2024-11-20】[arkohut / pensieve](https://github.com/arkohut/pensieve) - A passive recording project allows you to have complete control over your data  一个完全由你掌控数据的「被动记录」项目。
 * 【2024-11-20】[awslabs / multi\-agent\-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
@@ -1555,6 +1556,7 @@
 
 ## Javascript
 
+* 【2024-11-25】[7Sageer / sublink\-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
 * 【2024-11-19】[metowolf / vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 \- 优化 iOS/Android 来电、信息界面体验
 * 【2024-11-16】[lucahammer / tweetXer](https://github.com/lucahammer/tweetXer) - Delete all your Tweets for free
 * 【2024-11-15】[InternLM / MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM\-based Multi\-agent Framework of Web Search Engine (like Perplexity ai Pro and SearchGPT)
@@ -2148,6 +2150,7 @@
 
 ## C
 
+* 【2024-11-25】[apache / cloudberry](https://github.com/apache/cloudberry) - One advanced and mature open\-source MPP (Massively Parallel Processing) database  Open source alternative to Greenplum Database 
 * 【2024-11-24】[quickjs\-ng / quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine
 * 【2024-11-21】[simd\-everywhere / simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them 
 * 【2024-11-20】[oracle / bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto\-tune Linux systems
@@ -2623,6 +2626,7 @@
 
 ## C#
 
+* 【2024-11-25】[Andrewthe13th / Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera) - Scans Genshin Impact characters, artifacts, and weapons from the game window into a JSON file 
 * 【2024-11-24】[efcore / EFCore.NamingConventions](https://github.com/efcore/EFCore.NamingConventions) - Entity Framework Core plugin to apply naming conventions to table and column names (e.g. snake_case)
 * 【2024-11-23】[dotnet / Scaffolding](https://github.com/dotnet/Scaffolding) - Code generators to speed up development 
 * 【2024-11-22】[NimblePros / eShopOnWeb](https://github.com/NimblePros/eShopOnWeb) - Sample ASP NET Core 9 0 reference application, powered by Microsoft, demonstrating a domain\-centric application architecture with monolithic deployment model  Download the eBook PDF from docs folder 
@@ -3280,6 +3284,7 @@
 
 ## Unknown
 
+* 【2024-11-25】[mahseema / awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 * 【2024-11-24】[deepseek\-ai / DeepSeek\-Coder\-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek\-Coder\-V2: Breaking the Barrier of Closed\-Source Models in Code Intelligence
 * 【2024-11-24】[svcvit / Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
 * 【2024-11-23】[svcvit / Awesome\-Dify\-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows 
@@ -3800,6 +3805,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-11-25】[yobix\-ai / extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction  Written in Rust with bindings for many languages 
 * 【2024-11-23】[lakehq / sail](https://github.com/lakehq/sail) - LakeSail's computation framework with a mission to unify stream processing, batch processing, and compute\-intensive (AI) workloads 
 * 【2024-11-21】[apache / iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg
 * 【2024-11-21】[epi052 / feroxbuster](https://github.com/epi052/feroxbuster) - A fast, simple, recursive content discovery tool written in Rust 
@@ -4347,6 +4353,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-11-25】[ant\-design / x](https://github.com/ant-design/x) - The ready\-made partner for building Copilot applications 🤖
+* 【2024-11-25】[mastra-ai / mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
 * 【2024-11-24】[mastra\-ai / mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework 
 * 【2024-11-24】[remotion-dev / remotion](https://github.com/remotion-dev/remotion) - 🎥 Make videos programmatically with React
 * 【2024-11-24】[textbus / textbus](https://github.com/textbus/textbus) - Textbus 是一个组件化的、数据驱动的富文本框架，支持在线协同编辑，拥有非常好的扩展性和可定制性，可使用 Viewfly、Vue 或 React 直接渲染富文本，是构建复杂富文本的不二之选！
