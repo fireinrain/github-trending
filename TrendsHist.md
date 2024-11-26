@@ -677,6 +677,7 @@
 
 ## Java
 
+* 【2024-11-26】[GregTechCEu / GregTech\-Modern](https://github.com/GregTechCEu/GregTech-Modern) - GregTech CE Unofficial for modern versions
 * 【2024-11-20】[iterate\-ch / cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows 
 * 【2024-11-18】[smithy-lang / smithy](https://github.com/smithy-lang/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
 * 【2024-11-15】[smithy\-lang / smithy](https://github.com/smithy-lang/smithy) - Smithy is a protocol\-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language 
@@ -898,6 +899,7 @@
 
 ## Python
 
+* 【2024-11-26】[Guovin / IPTV](https://github.com/Guovin/IPTV) - 📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 \| IPTV live TV source update tool
 * 【2024-11-24】[black-forest-labs / flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 * 【2024-11-23】[encode / starlette](https://github.com/encode/starlette) - The little ASGI framework that shines  🌟
 * 【2024-11-22】[NVIDIA / bionemo\-framework](https://github.com/NVIDIA/bionemo-framework) - BioNeMo Framework: For building and adapting AI models in drug discovery at scale
@@ -2150,6 +2152,7 @@
 
 ## C
 
+* 【2024-11-26】[Ysurac / openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 * 【2024-11-25】[apache / cloudberry](https://github.com/apache/cloudberry) - One advanced and mature open\-source MPP (Massively Parallel Processing) database  Open source alternative to Greenplum Database 
 * 【2024-11-24】[quickjs\-ng / quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine
 * 【2024-11-21】[simd\-everywhere / simde](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them 
@@ -3805,6 +3808,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-11-26】[tokio-rs / mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust.
+* 【2024-11-26】[trumank / repak](https://github.com/trumank/repak) - Unreal Engine  pak file library and CLI in rust
 * 【2024-11-25】[yobix\-ai / extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction  Written in Rust with bindings for many languages 
 * 【2024-11-23】[lakehq / sail](https://github.com/lakehq/sail) - LakeSail's computation framework with a mission to unify stream processing, batch processing, and compute\-intensive (AI) workloads 
 * 【2024-11-21】[apache / iceberg-rust](https://github.com/apache/iceberg-rust) - Apache Iceberg
@@ -4353,6 +4358,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-11-26】[codestoryai / aide](https://github.com/codestoryai/aide) - The open\-source AI\-native IDE
+* 【2024-11-26】[ant-design / x](https://github.com/ant-design/x) - Craft AI-driven interfaces effortlessly 🤖
 * 【2024-11-25】[ant\-design / x](https://github.com/ant-design/x) - The ready\-made partner for building Copilot applications 🤖
 * 【2024-11-25】[mastra-ai / mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework.
 * 【2024-11-24】[mastra\-ai / mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI framework 
