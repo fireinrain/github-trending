@@ -1902,6 +1902,7 @@
 
 ## Go
 
+* 【2024-11-27】[sqshq / sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting  Configured with a simple YAML file 
 * 【2024-11-21】[hugomd / ascii\-live](https://github.com/hugomd/ascii-live) - An extension to parrot live, with support for more animations! http://ascii live
 * 【2024-11-18】[jesusprubio / up](https://github.com/jesusprubio/up) - 📶 Troubleshoot problems with your Internet connection
 * 【2024-11-17】[ethereum\-optimism / supersim](https://github.com/ethereum-optimism/supersim) - Local Multi\-L2 Development Environment
@@ -2629,6 +2630,7 @@
 
 ## C#
 
+* 【2024-11-27】[dotnet / ai-samples](https://github.com/dotnet/ai-samples) - 
 * 【2024-11-25】[Andrewthe13th / Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera) - Scans Genshin Impact characters, artifacts, and weapons from the game window into a JSON file 
 * 【2024-11-24】[efcore / EFCore.NamingConventions](https://github.com/efcore/EFCore.NamingConventions) - Entity Framework Core plugin to apply naming conventions to table and column names (e.g. snake_case)
 * 【2024-11-23】[dotnet / Scaffolding](https://github.com/dotnet/Scaffolding) - Code generators to speed up development 
@@ -3287,6 +3289,7 @@
 
 ## Unknown
 
+* 【2024-11-27】[futurice / ios\-good\-practices](https://github.com/futurice/ios-good-practices) - Good ideas for iOS development, by Futurice developers 
 * 【2024-11-25】[mahseema / awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 * 【2024-11-24】[deepseek\-ai / DeepSeek\-Coder\-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek\-Coder\-V2: Breaking the Barrier of Closed\-Source Models in Code Intelligence
 * 【2024-11-24】[svcvit / Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
@@ -4358,6 +4361,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-11-27】[a\-ghorbani / pocketpal\-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone 
 * 【2024-11-26】[codestoryai / aide](https://github.com/codestoryai/aide) - The open\-source AI\-native IDE
 * 【2024-11-26】[ant-design / x](https://github.com/ant-design/x) - Craft AI-driven interfaces effortlessly 🤖
 * 【2024-11-25】[ant\-design / x](https://github.com/ant-design/x) - The ready\-made partner for building Copilot applications 🤖
