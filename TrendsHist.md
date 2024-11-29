@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-11-29】[myhhub / stock](https://github.com/myhhub/stock) - stock股票 获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
 * 【2024-11-28】[andrewyng / aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
 * 【2024-11-25】[pingcap / autoflow](https://github.com/pingcap/autoflow) - pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage  Demo: https://tidb ai
 * 【2024-11-24】[black\-forest\-labs / flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX 1 models
@@ -900,6 +901,7 @@
 
 ## Python
 
+* 【2024-11-29】[Guovin / iptv\-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 \| IPTV live TV source update tool
 * 【2024-11-28】[Abacatinhos / agenda\-tech\-brasil](https://github.com/Abacatinhos/agenda-tech-brasil) - Lista de eventos tech que acontecem no Brasil
 * 【2024-11-26】[Guovin / IPTV](https://github.com/Guovin/IPTV) - 📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 \| IPTV live TV source update tool
 * 【2024-11-24】[black-forest-labs / flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
@@ -2156,6 +2158,7 @@
 
 ## C
 
+* 【2024-11-29】[hengyoush / kyanos](https://github.com/hengyoush/kyanos) - Visualize the time packets spend in the kernel, watch & analyze in command line 
 * 【2024-11-26】[Ysurac / openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 * 【2024-11-25】[apache / cloudberry](https://github.com/apache/cloudberry) - One advanced and mature open\-source MPP (Massively Parallel Processing) database  Open source alternative to Greenplum Database 
 * 【2024-11-24】[quickjs\-ng / quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine
@@ -3294,6 +3297,7 @@
 
 ## Unknown
 
+* 【2024-11-29】[skills / github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 * 【2024-11-28】[skills / github\-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages 
 * 【2024-11-27】[futurice / ios\-good\-practices](https://github.com/futurice/ios-good-practices) - Good ideas for iOS development, by Futurice developers 
 * 【2024-11-25】[mahseema / awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
@@ -4370,6 +4374,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-11-29】[astriaai / headshots\-starter](https://github.com/astriaai/headshots-starter) - 
 * 【2024-11-28】[CorentinTh / enclosed](https://github.com/CorentinTh/enclosed) - Minimalistic web app designed for sending private and secure notes 
 * 【2024-11-28】[thkruz / keeptrack space](https://github.com/thkruz/keeptrack.space) - 🌎📡 TypeScript Astrodynamics Software for Non\-Engineers  3D Visualization of satellite data and the sensors that track them 
 * 【2024-11-27】[a\-ghorbani / pocketpal\-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone 
