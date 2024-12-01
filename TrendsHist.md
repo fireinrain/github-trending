@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-12-01】[QwenLM / Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 * 【2024-11-30】[SimonCropp / Delta](https://github.com/SimonCropp/Delta) - An approach to implementing a 304 Not Modified leveraging SqlServer change tracking
 * 【2024-11-29】[myhhub / stock](https://github.com/myhhub/stock) - stock股票 获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
 * 【2024-11-28】[andrewyng / aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
@@ -1569,6 +1570,7 @@
 
 ## Javascript
 
+* 【2024-12-01】[xanderfrangos / twinkle\-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 * 【2024-11-30】[besuper / TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
 * 【2024-11-28】[gnmyt / Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
 * 【2024-11-25】[7Sageer / sublink\-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
@@ -1915,6 +1917,7 @@
 
 ## Go
 
+* 【2024-12-01】[nezhahq / nezha](https://github.com/nezhahq/nezha) - Self\-hosted, lightweight server and website monitoring and O&M tool
 * 【2024-11-27】[sqshq / sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting  Configured with a simple YAML file 
 * 【2024-11-21】[hugomd / ascii\-live](https://github.com/hugomd/ascii-live) - An extension to parrot live, with support for more animations! http://ascii live
 * 【2024-11-18】[jesusprubio / up](https://github.com/jesusprubio/up) - 📶 Troubleshoot problems with your Internet connection
@@ -2410,6 +2413,8 @@
 
 ## C++
 
+* 【2024-12-01】[LANDrop / LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN 
+* 【2024-12-01】[elalish / manifold](https://github.com/elalish/manifold) - Geometry library for topological robustness
 * 【2024-11-28】[PerformanC / ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk 
 * 【2024-11-24】[rl\-tools / rl\-tools](https://github.com/rl-tools/rl-tools) - The Fastest Deep Reinforcement Learning Library
 * 【2024-11-20】[fritzing / fritzing\-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
@@ -3306,6 +3311,7 @@
 
 ## Unknown
 
+* 【2024-12-01】[NeoVertex1 / SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents 
 * 【2024-11-29】[skills / github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 * 【2024-11-28】[skills / github\-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages 
 * 【2024-11-27】[futurice / ios\-good\-practices](https://github.com/futurice/ios-good-practices) - Good ideas for iOS development, by Futurice developers 
@@ -3830,6 +3836,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-12-01】[rust\-cli / config\-rs](https://github.com/rust-cli/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12\-factor applications) 
 * 【2024-11-28】[GuillaumeGomez / sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross\-platform library to fetch system information
 * 【2024-11-28】[rust\-lang / libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
 * 【2024-11-28】[rpcpool / yellowstone-grpc](https://github.com/rpcpool/yellowstone-grpc) - solana geyser grpc service
@@ -4383,6 +4390,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-12-01】[reown-com / appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
+* 【2024-12-01】[JackySoft / marsview](https://github.com/JackySoft/marsview) - Marsview 是一款中后台方向的低代码可视化搭建平台，开发者可以在平台上创建项目、页面和组件，支持事件交互、接口调用、数据联动和逻辑编排等，开发者还可通过微服务快速集成到自己的业务系统中。 Marsview is a low code visualization platform for middle and backend direction, supporting event interaction, interface calling, data linkage, and logical orchestration 
+* 【2024-12-01】[Comfy-Org / ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - Official front-end implementation of ComfyUI
 * 【2024-11-30】[Comfy\-Org / desktop](https://github.com/Comfy-Org/desktop) - The desktop app for ComfyUI 
 * 【2024-11-30】[TanStack / virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 * 【2024-11-30】[ant\-design / ant\-design\-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
