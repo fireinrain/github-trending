@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-12-02】[moshstudio / TAICHI\-flet](https://github.com/moshstudio/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
 * 【2024-12-01】[QwenLM / Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 * 【2024-11-30】[SimonCropp / Delta](https://github.com/SimonCropp/Delta) - An approach to implementing a 304 Not Modified leveraging SqlServer change tracking
 * 【2024-11-29】[myhhub / stock](https://github.com/myhhub/stock) - stock股票 获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
@@ -906,6 +907,9 @@
 
 ## Python
 
+* 【2024-12-02】[Agenta\-AI / agenta](https://github.com/Agenta-AI/agenta) - The open\-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place 
+* 【2024-12-02】[t41372 / Open\-LLM\-VTuber](https://github.com/t41372/Open-LLM-VTuber) - Talk to any LLM with hands\-free voice interaction, voice interruption, Live2D taking face, and long\-term memory running locally across platforms
+* 【2024-12-02】[moshstudio / TAICHI-flet](https://github.com/moshstudio/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
 * 【2024-11-30】[Guovin / iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool
 * 【2024-11-30】[automatic\-ripping\-machine / automatic\-ripping\-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 * 【2024-11-30】[icloud\-photos\-downloader / icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command\-line tool to download photos from iCloud
@@ -1917,6 +1921,7 @@
 
 ## Go
 
+* 【2024-12-02】[sysadminsmedia / homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 * 【2024-12-01】[nezhahq / nezha](https://github.com/nezhahq/nezha) - Self\-hosted, lightweight server and website monitoring and O&M tool
 * 【2024-11-27】[sqshq / sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting  Configured with a simple YAML file 
 * 【2024-11-21】[hugomd / ascii\-live](https://github.com/hugomd/ascii-live) - An extension to parrot live, with support for more animations! http://ascii live
@@ -2169,6 +2174,7 @@
 
 ## C
 
+* 【2024-12-02】[ashvardanian / SimSIMD](https://github.com/ashvardanian/SimSIMD) - Up to 200x Faster Dot Products & Similarity Metrics — for Python, Rust, C, JS, and Swift, supporting f64, f32, f16 real & complex, i8, and bit vectors using SIMD for both AVX2, AVX\-512, NEON, SVE, & SVE2 📐
 * 【2024-11-30】[espressif / esp-iot-solution](https://github.com/espressif/esp-iot-solution) - Espressif IoT Library. IoT Device Drivers, Documentations and Solutions.
 * 【2024-11-29】[hengyoush / kyanos](https://github.com/hengyoush/kyanos) - Visualize the time packets spend in the kernel, watch & analyze in command line 
 * 【2024-11-26】[Ysurac / openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
@@ -3311,6 +3317,7 @@
 
 ## Unknown
 
+* 【2024-12-02】[carpedm20 / awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 * 【2024-12-01】[NeoVertex1 / SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents 
 * 【2024-11-29】[skills / github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 * 【2024-11-28】[skills / github\-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages 
@@ -3836,6 +3843,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-12-02】[mTvare6 / hello\-world rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
 * 【2024-12-01】[rust\-cli / config\-rs](https://github.com/rust-cli/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12\-factor applications) 
 * 【2024-11-28】[GuillaumeGomez / sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross\-platform library to fetch system information
 * 【2024-11-28】[rust\-lang / libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
@@ -4390,6 +4398,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-12-02】[juicyllama / llana](https://github.com/juicyllama/llana) - API Wrapper for Databases \- Llana is a no\-code API wrapper that exposes a REST API for any database within minutes  No longer spend time building APIs, just connect your database and start using the API  Open source, free to use, and no vendor lock\-in 
+* 【2024-12-02】[sct / overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 * 【2024-12-01】[reown-com / appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
 * 【2024-12-01】[JackySoft / marsview](https://github.com/JackySoft/marsview) - Marsview 是一款中后台方向的低代码可视化搭建平台，开发者可以在平台上创建项目、页面和组件，支持事件交互、接口调用、数据联动和逻辑编排等，开发者还可通过微服务快速集成到自己的业务系统中。 Marsview is a low code visualization platform for middle and backend direction, supporting event interaction, interface calling, data linkage, and logical orchestration 
 * 【2024-12-01】[Comfy-Org / ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) - Official front-end implementation of ComfyUI
