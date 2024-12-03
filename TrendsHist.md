@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-12-03】[anthropics / prompt\-eng\-interactive\-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 * 【2024-12-02】[moshstudio / TAICHI\-flet](https://github.com/moshstudio/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
 * 【2024-12-01】[QwenLM / Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 * 【2024-11-30】[SimonCropp / Delta](https://github.com/SimonCropp/Delta) - An approach to implementing a 304 Not Modified leveraging SqlServer change tracking
@@ -682,6 +683,7 @@
 
 ## Java
 
+* 【2024-12-03】[xoureldeen / Vectras\-VM\-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 * 【2024-11-30】[freeplane / freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management  Develop, organize and communicate your ideas and knowledge in the most effective way 
 * 【2024-11-30】[react\-native\-share / react\-native\-share](https://github.com/react-native-share/react-native-share) - Social share, sending simple data to other apps 
 * 【2024-11-30】[valkey\-io / valkey\-glide](https://github.com/valkey-io/valkey-glide) - An open source Valkey client library that supports Valkey and Redis open source 6 2, 7 0 and 7 2  Valkey GLIDE is designed for reliability, optimized performance, and high\-availability, for Valkey and Redis OSS based applications  GLIDE is a multi language client library, written in Rust with programming language bindings, such as Java and Python
@@ -907,6 +909,8 @@
 
 ## Python
 
+* 【2024-12-03】[Agenta-AI / agenta](https://github.com/Agenta-AI/agenta) - The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place.
+* 【2024-12-03】[superlinear\-ai / raglite](https://github.com/superlinear-ai/raglite) - 🥤 RAGLite is a Python toolkit for Retrieval\-Augmented Generation (RAG) with PostgreSQL or SQLite
 * 【2024-12-02】[Agenta\-AI / agenta](https://github.com/Agenta-AI/agenta) - The open\-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place 
 * 【2024-12-02】[t41372 / Open\-LLM\-VTuber](https://github.com/t41372/Open-LLM-VTuber) - Talk to any LLM with hands\-free voice interaction, voice interruption, Live2D taking face, and long\-term memory running locally across platforms
 * 【2024-12-02】[moshstudio / TAICHI-flet](https://github.com/moshstudio/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
@@ -2419,6 +2423,7 @@
 
 ## C++
 
+* 【2024-12-03】[jpudysz / react\-native\-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
 * 【2024-12-01】[LANDrop / LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN 
 * 【2024-12-01】[elalish / manifold](https://github.com/elalish/manifold) - Geometry library for topological robustness
 * 【2024-11-28】[PerformanC / ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk 
@@ -4398,6 +4403,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-12-03】[aidenybai / react\-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
+* 【2024-12-03】[Koenkk / zigbee2mqtt io](https://github.com/Koenkk/zigbee2mqtt.io) - 📘 Zigbee2mqtt documentation
 * 【2024-12-02】[juicyllama / llana](https://github.com/juicyllama/llana) - API Wrapper for Databases \- Llana is a no\-code API wrapper that exposes a REST API for any database within minutes  No longer spend time building APIs, just connect your database and start using the API  Open source, free to use, and no vendor lock\-in 
 * 【2024-12-02】[sct / overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem
 * 【2024-12-01】[reown-com / appkit](https://github.com/reown-com/appkit) - The full stack toolkit to build onchain app UX
