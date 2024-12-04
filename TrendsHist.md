@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-12-04】[anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 * 【2024-12-03】[anthropics / prompt\-eng\-interactive\-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 * 【2024-12-02】[moshstudio / TAICHI\-flet](https://github.com/moshstudio/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
 * 【2024-12-01】[QwenLM / Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
@@ -1578,6 +1579,7 @@
 
 ## Javascript
 
+* 【2024-12-04】[LedgerHQ / ledger\-live](https://github.com/LedgerHQ/ledger-live) - Mono\-repository for packages related to Ledger Live and its JavaScript ecosystem 
 * 【2024-12-01】[xanderfrangos / twinkle\-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 * 【2024-11-30】[besuper / TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
 * 【2024-11-28】[gnmyt / Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
@@ -3848,6 +3850,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-12-04】[Automattic / harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
 * 【2024-12-02】[mTvare6 / hello\-world rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
 * 【2024-12-01】[rust\-cli / config\-rs](https://github.com/rust-cli/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12\-factor applications) 
 * 【2024-11-28】[GuillaumeGomez / sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross\-platform library to fetch system information
