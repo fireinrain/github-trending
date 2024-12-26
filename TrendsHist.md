@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-12-26】[anti\-work / shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
+* 【2024-12-26】[OpenSPG / KAG](https://github.com/OpenSPG/KAG) - KAG is a logical form\-guided reasoning and retrieval framework based on OpenSPG engine and LLMs  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases  It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model 
 * 【2024-12-04】[anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 * 【2024-12-03】[anthropics / prompt\-eng\-interactive\-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 * 【2024-12-02】[moshstudio / TAICHI\-flet](https://github.com/moshstudio/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
@@ -910,6 +912,7 @@
 
 ## Python
 
+* 【2024-12-26】[microsoft / PromptWizard](https://github.com/microsoft/PromptWizard) - Task\-Aware Agent\-driven Prompt Optimization Framework
 * 【2024-12-03】[Agenta-AI / agenta](https://github.com/Agenta-AI/agenta) - The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place.
 * 【2024-12-03】[superlinear\-ai / raglite](https://github.com/superlinear-ai/raglite) - 🥤 RAGLite is a Python toolkit for Retrieval\-Augmented Generation (RAG) with PostgreSQL or SQLite
 * 【2024-12-02】[Agenta\-AI / agenta](https://github.com/Agenta-AI/agenta) - The open\-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place 
@@ -2180,6 +2183,8 @@
 
 ## C
 
+* 【2024-12-26】[nicbarker / clay](https://github.com/nicbarker/clay) - High performance UI layout library in C 
+* 【2024-12-26】[libsdl\-org / SDL_ttf](https://github.com/libsdl-org/SDL_ttf) - Support for TrueType ( ttf) font files with Simple Directmedia Layer 
 * 【2024-12-02】[ashvardanian / SimSIMD](https://github.com/ashvardanian/SimSIMD) - Up to 200x Faster Dot Products & Similarity Metrics — for Python, Rust, C, JS, and Swift, supporting f64, f32, f16 real & complex, i8, and bit vectors using SIMD for both AVX2, AVX\-512, NEON, SVE, & SVE2 📐
 * 【2024-11-30】[espressif / esp-iot-solution](https://github.com/espressif/esp-iot-solution) - Espressif IoT Library. IoT Device Drivers, Documentations and Solutions.
 * 【2024-11-29】[hengyoush / kyanos](https://github.com/hengyoush/kyanos) - Visualize the time packets spend in the kernel, watch & analyze in command line 
@@ -2425,6 +2430,7 @@
 
 ## C++
 
+* 【2024-12-26】[shadps4\-emu / shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 * 【2024-12-03】[jpudysz / react\-native\-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
 * 【2024-12-01】[LANDrop / LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN 
 * 【2024-12-01】[elalish / manifold](https://github.com/elalish/manifold) - Geometry library for topological robustness
@@ -2949,6 +2955,8 @@
 
 ## Html
 
+* 【2024-12-26】[web\-infra\-dev / midscene](https://github.com/web-infra-dev/midscene) - An AI\-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language 
+* 【2024-12-26】[wttdotm / traffic_cam_photobooth](https://github.com/wttdotm/traffic_cam_photobooth) - The repository for www TrafficCamPhotobooth com
 * 【2024-11-21】[Blobby-Boi / ExtHang3r](https://github.com/Blobby-Boi/ExtHang3r) - An exploit that allows ChromeOS users to kill extensions after the LTMEAT patch.
 * 【2024-11-17】[Blobby\-Boi / ExtHang3r](https://github.com/Blobby-Boi/ExtHang3r) - An exploit that allows ChromeOS users to kill extensions after the LTMEAT patch 
 * 【2024-11-16】[vasturiano / globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
@@ -3324,6 +3332,7 @@
 
 ## Unknown
 
+* 【2024-12-26】[lowercase78 / V2RayN\-PRO](https://github.com/lowercase78/V2RayN-PRO) - v2rayN\-Pro
 * 【2024-12-02】[carpedm20 / awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 * 【2024-12-01】[NeoVertex1 / SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents 
 * 【2024-11-29】[skills / github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
@@ -4406,6 +4415,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-12-26】[anti-work / shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
+* 【2024-12-26】[stackblitz / bolt new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full\-stack web applications
+* 【2024-12-26】[tolgee / tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
 * 【2024-12-03】[aidenybai / react\-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 * 【2024-12-03】[Koenkk / zigbee2mqtt io](https://github.com/Koenkk/zigbee2mqtt.io) - 📘 Zigbee2mqtt documentation
 * 【2024-12-02】[juicyllama / llana](https://github.com/juicyllama/llana) - API Wrapper for Databases \- Llana is a no\-code API wrapper that exposes a REST API for any database within minutes  No longer spend time building APIs, just connect your database and start using the API  Open source, free to use, and no vendor lock\-in 
