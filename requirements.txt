@@ -2,6 +2,6 @@ pyquery~=2.0.0
 requests~=2.31.0
 python-telegram-bot~=20.8
 SQLAlchemy~=2.0.22
-fake_useragent
+fake_useragent~=1.5.0
 pytz~=2023.3.post1
 aiohttp~=3.9.3
