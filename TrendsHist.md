@@ -912,6 +912,8 @@
 
 ## Python
 
+* 【2024-12-27】[freqtrade / freqtrade\-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
+* 【2024-12-27】[lipku / LiveTalking](https://github.com/lipku/LiveTalking) - Real time interactive streaming digital human
 * 【2024-12-26】[microsoft / PromptWizard](https://github.com/microsoft/PromptWizard) - Task\-Aware Agent\-driven Prompt Optimization Framework
 * 【2024-12-03】[Agenta-AI / agenta](https://github.com/Agenta-AI/agenta) - The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place.
 * 【2024-12-03】[superlinear\-ai / raglite](https://github.com/superlinear-ai/raglite) - 🥤 RAGLite is a Python toolkit for Retrieval\-Augmented Generation (RAG) with PostgreSQL or SQLite
@@ -1582,6 +1584,7 @@
 
 ## Javascript
 
+* 【2024-12-27】[moshang\-ax / lottery](https://github.com/moshang-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
 * 【2024-12-04】[LedgerHQ / ledger\-live](https://github.com/LedgerHQ/ledger-live) - Mono\-repository for packages related to Ledger Live and its JavaScript ecosystem 
 * 【2024-12-01】[xanderfrangos / twinkle\-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 * 【2024-11-30】[besuper / TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
@@ -2430,6 +2433,7 @@
 
 ## C++
 
+* 【2024-12-27】[shadps4-emu / shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 * 【2024-12-26】[shadps4\-emu / shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 * 【2024-12-03】[jpudysz / react\-native\-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
 * 【2024-12-01】[LANDrop / LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN 
@@ -2955,6 +2959,7 @@
 
 ## Html
 
+* 【2024-12-27】[web-infra-dev / midscene](https://github.com/web-infra-dev/midscene) - An AI-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language.
 * 【2024-12-26】[web\-infra\-dev / midscene](https://github.com/web-infra-dev/midscene) - An AI\-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language 
 * 【2024-12-26】[wttdotm / traffic_cam_photobooth](https://github.com/wttdotm/traffic_cam_photobooth) - The repository for www TrafficCamPhotobooth com
 * 【2024-11-21】[Blobby-Boi / ExtHang3r](https://github.com/Blobby-Boi/ExtHang3r) - An exploit that allows ChromeOS users to kill extensions after the LTMEAT patch.
@@ -3332,6 +3337,7 @@
 
 ## Unknown
 
+* 【2024-12-27】[PatrickJS / awesome\-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome  cursorrules files
 * 【2024-12-26】[lowercase78 / V2RayN\-PRO](https://github.com/lowercase78/V2RayN-PRO) - v2rayN\-Pro
 * 【2024-12-02】[carpedm20 / awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 * 【2024-12-01】[NeoVertex1 / SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents 
@@ -3859,6 +3865,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-12-27】[mfontanini / presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 * 【2024-12-04】[Automattic / harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
 * 【2024-12-02】[mTvare6 / hello\-world rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
 * 【2024-12-01】[rust\-cli / config\-rs](https://github.com/rust-cli/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12\-factor applications) 
