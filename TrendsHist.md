@@ -912,6 +912,9 @@
 
 ## Python
 
+* 【2024-12-28】[open-compass / VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large vision-language models (LVLMs), support 160+ VLMs, 50+ benchmarks
+* 【2024-12-28】[linyqh / NarratoAI](https://github.com/linyqh/NarratoAI) - 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click 
+* 【2024-12-28】[modelcontextprotocol / python\-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 * 【2024-12-27】[freqtrade / freqtrade\-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
 * 【2024-12-27】[lipku / LiveTalking](https://github.com/lipku/LiveTalking) - Real time interactive streaming digital human
 * 【2024-12-26】[microsoft / PromptWizard](https://github.com/microsoft/PromptWizard) - Task\-Aware Agent\-driven Prompt Optimization Framework
@@ -1584,6 +1587,7 @@
 
 ## Javascript
 
+* 【2024-12-28】[ruby / setup\-ruby](https://github.com/ruby/setup-ruby) - An action to download a prebuilt Ruby and add it to the PATH in 5 seconds
 * 【2024-12-27】[moshang\-ax / lottery](https://github.com/moshang-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
 * 【2024-12-04】[LedgerHQ / ledger\-live](https://github.com/LedgerHQ/ledger-live) - Mono\-repository for packages related to Ledger Live and its JavaScript ecosystem 
 * 【2024-12-01】[xanderfrangos / twinkle\-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
@@ -1933,6 +1937,7 @@
 
 ## Go
 
+* 【2024-12-28】[cashapp / cloner](https://github.com/cashapp/cloner) - 
 * 【2024-12-02】[sysadminsmedia / homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 * 【2024-12-01】[nezhahq / nezha](https://github.com/nezhahq/nezha) - Self\-hosted, lightweight server and website monitoring and O&M tool
 * 【2024-11-27】[sqshq / sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting  Configured with a simple YAML file 
@@ -2186,6 +2191,9 @@
 
 ## C
 
+* 【2024-12-28】[rusefi / rusefi](https://github.com/rusefi/rusefi) - rusefi \- GPL internal combustion engine control unit
+* 【2024-12-28】[78 / xiaozhi\-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
+* 【2024-12-28】[RamonUnch / AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
 * 【2024-12-26】[nicbarker / clay](https://github.com/nicbarker/clay) - High performance UI layout library in C 
 * 【2024-12-26】[libsdl\-org / SDL_ttf](https://github.com/libsdl-org/SDL_ttf) - Support for TrueType ( ttf) font files with Simple Directmedia Layer 
 * 【2024-12-02】[ashvardanian / SimSIMD](https://github.com/ashvardanian/SimSIMD) - Up to 200x Faster Dot Products & Similarity Metrics — for Python, Rust, C, JS, and Swift, supporting f64, f32, f16 real & complex, i8, and bit vectors using SIMD for both AVX2, AVX\-512, NEON, SVE, & SVE2 📐
@@ -4422,6 +4430,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-12-28】[zaidmukaddam / miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI\-powered search engine that helps you find information on the internet  Powered by Vercel AI SDK! Search with models like GPT\-4o mini, GPT\-4o and Claude 3 5 Sonnet(New)!
 * 【2024-12-26】[anti-work / shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
 * 【2024-12-26】[stackblitz / bolt new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full\-stack web applications
 * 【2024-12-26】[tolgee / tolgee-platform](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform
