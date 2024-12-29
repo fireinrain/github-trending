@@ -1,5 +1,6 @@
 ## All language
 
+* 【2024-12-29】[mbadolato / iTerm2\-Color\-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2  Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more
 * 【2024-12-26】[anti\-work / shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
 * 【2024-12-26】[OpenSPG / KAG](https://github.com/OpenSPG/KAG) - KAG is a logical form\-guided reasoning and retrieval framework based on OpenSPG engine and LLMs  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases  It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model 
 * 【2024-12-04】[anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
@@ -686,6 +687,7 @@
 
 ## Java
 
+* 【2024-12-29】[bisq-network / bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
 * 【2024-12-03】[xoureldeen / Vectras\-VM\-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 * 【2024-11-30】[freeplane / freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management  Develop, organize and communicate your ideas and knowledge in the most effective way 
 * 【2024-11-30】[react\-native\-share / react\-native\-share](https://github.com/react-native-share/react-native-share) - Social share, sending simple data to other apps 
@@ -1587,6 +1589,8 @@
 
 ## Javascript
 
+* 【2024-12-29】[moshang-ax / lottery](https://github.com/moshang-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
+* 【2024-12-29】[dexie / Dexie js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 * 【2024-12-28】[ruby / setup\-ruby](https://github.com/ruby/setup-ruby) - An action to download a prebuilt Ruby and add it to the PATH in 5 seconds
 * 【2024-12-27】[moshang\-ax / lottery](https://github.com/moshang-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
 * 【2024-12-04】[LedgerHQ / ledger\-live](https://github.com/LedgerHQ/ledger-live) - Mono\-repository for packages related to Ledger Live and its JavaScript ecosystem 
@@ -1937,6 +1941,7 @@
 
 ## Go
 
+* 【2024-12-29】[gin\-gonic / examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin 
 * 【2024-12-28】[cashapp / cloner](https://github.com/cashapp/cloner) - 
 * 【2024-12-02】[sysadminsmedia / homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
 * 【2024-12-01】[nezhahq / nezha](https://github.com/nezhahq/nezha) - Self\-hosted, lightweight server and website monitoring and O&M tool
@@ -2191,6 +2196,7 @@
 
 ## C
 
+* 【2024-12-29】[78 / xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
 * 【2024-12-28】[rusefi / rusefi](https://github.com/rusefi/rusefi) - rusefi \- GPL internal combustion engine control unit
 * 【2024-12-28】[78 / xiaozhi\-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
 * 【2024-12-28】[RamonUnch / AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
@@ -2967,6 +2973,7 @@
 
 ## Html
 
+* 【2024-12-29】[mostafa\-kheibary / tehran\-metro\-data](https://github.com/mostafa-kheibary/tehran-metro-data) - Tehran metro station data as graph in json format
 * 【2024-12-27】[web-infra-dev / midscene](https://github.com/web-infra-dev/midscene) - An AI-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language.
 * 【2024-12-26】[web\-infra\-dev / midscene](https://github.com/web-infra-dev/midscene) - An AI\-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language 
 * 【2024-12-26】[wttdotm / traffic_cam_photobooth](https://github.com/wttdotm/traffic_cam_photobooth) - The repository for www TrafficCamPhotobooth com
@@ -3345,6 +3352,9 @@
 
 ## Unknown
 
+* 【2024-12-29】[deepseek-ai / DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
+* 【2024-12-29】[shadps4\-emu / shadps4\-game\-compatibility](https://github.com/shadps4-emu/shadps4-game-compatibility) - Shadps4 game compatibility
+* 【2024-12-29】[deepseek\-ai / awesome\-deepseek\-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 
 * 【2024-12-27】[PatrickJS / awesome\-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome  cursorrules files
 * 【2024-12-26】[lowercase78 / V2RayN\-PRO](https://github.com/lowercase78/V2RayN-PRO) - v2rayN\-Pro
 * 【2024-12-02】[carpedm20 / awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
@@ -3873,6 +3883,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-12-29】[jj\-vcs / jj](https://github.com/jj-vcs/jj) - A Git\-compatible VCS that is both simple and powerful
 * 【2024-12-27】[mfontanini / presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 * 【2024-12-04】[Automattic / harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
 * 【2024-12-02】[mTvare6 / hello\-world rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
