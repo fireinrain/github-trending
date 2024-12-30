@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-12-30】[mbadolato / iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more
+* 【2024-12-30】[elizaOS / eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 * 【2024-12-29】[mbadolato / iTerm2\-Color\-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2  Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more
 * 【2024-12-26】[anti\-work / shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
 * 【2024-12-26】[OpenSPG / KAG](https://github.com/OpenSPG/KAG) - KAG is a logical form\-guided reasoning and retrieval framework based on OpenSPG engine and LLMs  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases  It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model 
@@ -687,6 +689,7 @@
 
 ## Java
 
+* 【2024-12-30】[CellularPrivacy / Android\-IMSI\-Catcher\-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI\-Catcher, StingRay and silent SMS!
 * 【2024-12-29】[bisq-network / bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
 * 【2024-12-03】[xoureldeen / Vectras\-VM\-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 * 【2024-11-30】[freeplane / freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management  Develop, organize and communicate your ideas and knowledge in the most effective way 
@@ -914,6 +917,7 @@
 
 ## Python
 
+* 【2024-12-30】[jingyaogong / minimind](https://github.com/jingyaogong/minimind) - 「大模型」3小时完全从0训练26M的小参数GPT，个人显卡即可推理训练！
 * 【2024-12-28】[open-compass / VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large vision-language models (LVLMs), support 160+ VLMs, 50+ benchmarks
 * 【2024-12-28】[linyqh / NarratoAI](https://github.com/linyqh/NarratoAI) - 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click 
 * 【2024-12-28】[modelcontextprotocol / python\-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
@@ -1589,6 +1593,8 @@
 
 ## Javascript
 
+* 【2024-12-30】[viarotel\-org / escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron 
+* 【2024-12-30】[amarullz / AnimeTV](https://github.com/amarullz/AnimeTV) - Watch Anime in Your AndroidTV
 * 【2024-12-29】[moshang-ax / lottery](https://github.com/moshang-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
 * 【2024-12-29】[dexie / Dexie js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 * 【2024-12-28】[ruby / setup\-ruby](https://github.com/ruby/setup-ruby) - An action to download a prebuilt Ruby and add it to the PATH in 5 seconds
@@ -1941,6 +1947,8 @@
 
 ## Go
 
+* 【2024-12-30】[cadence\-workflow / cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long\-running business logic in a scalable and resilient way 
+* 【2024-12-30】[qdm12 / ddns\-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
 * 【2024-12-29】[gin\-gonic / examples](https://github.com/gin-gonic/examples) - A repository to host examples and tutorials for Gin 
 * 【2024-12-28】[cashapp / cloner](https://github.com/cashapp/cloner) - 
 * 【2024-12-02】[sysadminsmedia / homebox](https://github.com/sysadminsmedia/homebox) - A continuation of HomeBox the inventory and organization system built for the Home User
@@ -2196,6 +2204,8 @@
 
 ## C
 
+* 【2024-12-30】[TA\-Lib / ta\-lib](https://github.com/TA-Lib/ta-lib) - TA\-Lib (Core C Library)
+* 【2024-12-30】[skot / ESP\-Miner](https://github.com/skot/ESP-Miner) - A bitcoin ASIC miner for the ESP32
 * 【2024-12-29】[78 / xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
 * 【2024-12-28】[rusefi / rusefi](https://github.com/rusefi/rusefi) - rusefi \- GPL internal combustion engine control unit
 * 【2024-12-28】[78 / xiaozhi\-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
@@ -2688,6 +2698,7 @@
 
 ## C#
 
+* 【2024-12-30】[msasanmh / DNSveil](https://github.com/msasanmh/DNSveil) - A DNS Client Supporting DNSCrypt, Anonymized DNSCrypt, DoH, DoT, UDP And TCP 
 * 【2024-11-28】[fluentcms / FluentCMS](https://github.com/fluentcms/FluentCMS) - ASP NET Core Blazor Content Management System (CMS)
 * 【2024-11-27】[dotnet / ai-samples](https://github.com/dotnet/ai-samples) - 
 * 【2024-11-25】[Andrewthe13th / Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera) - Scans Genshin Impact characters, artifacts, and weapons from the game window into a JSON file 
@@ -2973,6 +2984,7 @@
 
 ## Html
 
+* 【2024-12-30】[mostafa-kheibary / tehran-metro-data](https://github.com/mostafa-kheibary/tehran-metro-data) - Tehran metro station data as graph in json format
 * 【2024-12-29】[mostafa\-kheibary / tehran\-metro\-data](https://github.com/mostafa-kheibary/tehran-metro-data) - Tehran metro station data as graph in json format
 * 【2024-12-27】[web-infra-dev / midscene](https://github.com/web-infra-dev/midscene) - An AI-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language.
 * 【2024-12-26】[web\-infra\-dev / midscene](https://github.com/web-infra-dev/midscene) - An AI\-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language 
@@ -3352,6 +3364,7 @@
 
 ## Unknown
 
+* 【2024-12-30】[deepseek-ai / awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 
 * 【2024-12-29】[deepseek-ai / DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 * 【2024-12-29】[shadps4\-emu / shadps4\-game\-compatibility](https://github.com/shadps4-emu/shadps4-game-compatibility) - Shadps4 game compatibility
 * 【2024-12-29】[deepseek\-ai / awesome\-deepseek\-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 
@@ -3883,6 +3896,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2024-12-30】[jj-vcs / jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 * 【2024-12-29】[jj\-vcs / jj](https://github.com/jj-vcs/jj) - A Git\-compatible VCS that is both simple and powerful
 * 【2024-12-27】[mfontanini / presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 * 【2024-12-04】[Automattic / harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
@@ -4441,6 +4455,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-12-30】[elizaOS / agent\-twitter\-client](https://github.com/elizaOS/agent-twitter-client) - A Twitter client for agents\-\- no API key necessary
 * 【2024-12-28】[zaidmukaddam / miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI\-powered search engine that helps you find information on the internet  Powered by Vercel AI SDK! Search with models like GPT\-4o mini, GPT\-4o and Claude 3 5 Sonnet(New)!
 * 【2024-12-26】[anti-work / shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
 * 【2024-12-26】[stackblitz / bolt new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full\-stack web applications
