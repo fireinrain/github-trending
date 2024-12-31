@@ -1,5 +1,7 @@
 ## All language
 
+* 【2024-12-31】[mikage\-emu / mikage\-dev](https://github.com/mikage-emu/mikage-dev) - Mikage Developer Edition
+* 【2024-12-31】[0xPlaygrounds / rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
 * 【2024-12-30】[mbadolato / iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more
 * 【2024-12-30】[elizaOS / eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 * 【2024-12-29】[mbadolato / iTerm2\-Color\-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2  Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more
@@ -689,6 +691,7 @@
 
 ## Java
 
+* 【2024-12-31】[xoureldeen / Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 * 【2024-12-30】[CellularPrivacy / Android\-IMSI\-Catcher\-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI\-Catcher, StingRay and silent SMS!
 * 【2024-12-29】[bisq-network / bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
 * 【2024-12-03】[xoureldeen / Vectras\-VM\-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
@@ -1593,6 +1596,8 @@
 
 ## Javascript
 
+* 【2024-12-31】[notwaldorf / emoji\-translate](https://github.com/notwaldorf/emoji-translate) - 📚 Translate text to ✨emoji ✨!
+* 【2024-12-31】[bluewave\-labs / checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open\-source, self\-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real\-time with beautiful visualizations 
 * 【2024-12-30】[viarotel\-org / escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron 
 * 【2024-12-30】[amarullz / AnimeTV](https://github.com/amarullz/AnimeTV) - Watch Anime in Your AndroidTV
 * 【2024-12-29】[moshang-ax / lottery](https://github.com/moshang-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
@@ -2204,6 +2209,7 @@
 
 ## C
 
+* 【2024-12-31】[toniebox\-reverse\-engineering / teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) - teddyCloud is an open source server replacement for the Boxine Cloud
 * 【2024-12-30】[TA\-Lib / ta\-lib](https://github.com/TA-Lib/ta-lib) - TA\-Lib (Core C Library)
 * 【2024-12-30】[skot / ESP\-Miner](https://github.com/skot/ESP-Miner) - A bitcoin ASIC miner for the ESP32
 * 【2024-12-29】[78 / xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
@@ -2457,6 +2463,7 @@
 
 ## C++
 
+* 【2024-12-31】[mikage-emu / mikage-dev](https://github.com/mikage-emu/mikage-dev) - Mikage Developer Edition
 * 【2024-12-27】[shadps4-emu / shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 * 【2024-12-26】[shadps4\-emu / shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 * 【2024-12-03】[jpudysz / react\-native\-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
@@ -2984,6 +2991,7 @@
 
 ## Html
 
+* 【2024-12-31】[e2b\-dev / E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 * 【2024-12-30】[mostafa-kheibary / tehran-metro-data](https://github.com/mostafa-kheibary/tehran-metro-data) - Tehran metro station data as graph in json format
 * 【2024-12-29】[mostafa\-kheibary / tehran\-metro\-data](https://github.com/mostafa-kheibary/tehran-metro-data) - Tehran metro station data as graph in json format
 * 【2024-12-27】[web-infra-dev / midscene](https://github.com/web-infra-dev/midscene) - An AI-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language.
@@ -3364,6 +3372,8 @@
 
 ## Unknown
 
+* 【2024-12-31】[PatrickJS / awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
+* 【2024-12-31】[tycrek / degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products  Privacy tips, tricks, and links 
 * 【2024-12-30】[deepseek-ai / awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 
 * 【2024-12-29】[deepseek-ai / DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 * 【2024-12-29】[shadps4\-emu / shadps4\-game\-compatibility](https://github.com/shadps4-emu/shadps4-game-compatibility) - Shadps4 game compatibility
@@ -4455,6 +4465,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2024-12-31】[elizaOS / agent-twitter-client](https://github.com/elizaOS/agent-twitter-client) - A Twitter client for agents-- no API key necessary
+* 【2024-12-31】[Comfy-Org / desktop](https://github.com/Comfy-Org/desktop) - The desktop app for ComfyUI.
+* 【2024-12-31】[Vali\-98 / ChatterUI](https://github.com/Vali-98/ChatterUI) - Simple frontend for LLMs built in react\-native 
 * 【2024-12-30】[elizaOS / agent\-twitter\-client](https://github.com/elizaOS/agent-twitter-client) - A Twitter client for agents\-\- no API key necessary
 * 【2024-12-28】[zaidmukaddam / miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI\-powered search engine that helps you find information on the internet  Powered by Vercel AI SDK! Search with models like GPT\-4o mini, GPT\-4o and Claude 3 5 Sonnet(New)!
 * 【2024-12-26】[anti-work / shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
