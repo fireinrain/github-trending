@@ -691,6 +691,8 @@
 
 ## Java
 
+* 【2025-01-01】[alibaba / spring\-ai\-alibaba](https://github.com/alibaba/spring-ai-alibaba) - An Application Framework for Java Developers
+* 【2025-01-01】[youngyangyang04 / RPC\-Java](https://github.com/youngyangyang04/RPC-Java) - 【代码随想录知识星球】项目分享\-手撕RPC框架🔥
 * 【2024-12-31】[xoureldeen / Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 * 【2024-12-30】[CellularPrivacy / Android\-IMSI\-Catcher\-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI\-Catcher, StingRay and silent SMS!
 * 【2024-12-29】[bisq-network / bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
@@ -920,6 +922,8 @@
 
 ## Python
 
+* 【2025-01-01】[neuraloperator / neuraloperator](https://github.com/neuraloperator/neuraloperator) - Learning in infinite dimension with neural operators 
+* 【2025-01-01】[crewAIInc / crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - A collection of examples that show how to use CrewAI framework to automate workflows.
 * 【2024-12-30】[jingyaogong / minimind](https://github.com/jingyaogong/minimind) - 「大模型」3小时完全从0训练26M的小参数GPT，个人显卡即可推理训练！
 * 【2024-12-28】[open-compass / VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large vision-language models (LVLMs), support 160+ VLMs, 50+ benchmarks
 * 【2024-12-28】[linyqh / NarratoAI](https://github.com/linyqh/NarratoAI) - 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click 
@@ -1596,6 +1600,8 @@
 
 ## Javascript
 
+* 【2025-01-01】[notwaldorf / emoji-translate](https://github.com/notwaldorf/emoji-translate) - 📚 Translate text to ✨emoji ✨!
+* 【2025-01-01】[bluewave-labs / checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 * 【2024-12-31】[notwaldorf / emoji\-translate](https://github.com/notwaldorf/emoji-translate) - 📚 Translate text to ✨emoji ✨!
 * 【2024-12-31】[bluewave\-labs / checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open\-source, self\-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real\-time with beautiful visualizations 
 * 【2024-12-30】[viarotel\-org / escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron 
@@ -2209,6 +2215,8 @@
 
 ## C
 
+* 【2025-01-01】[KreitinnSoftware / MiceWine\-Application](https://github.com/KreitinnSoftware/MiceWine-Application) - MiceWine is a project that aims to run Windows applications and games on Android smartphones 
+* 【2025-01-01】[bmorcelli / M5Stick\-Launcher](https://github.com/bmorcelli/M5Stick-Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
 * 【2024-12-31】[toniebox\-reverse\-engineering / teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) - teddyCloud is an open source server replacement for the Boxine Cloud
 * 【2024-12-30】[TA\-Lib / ta\-lib](https://github.com/TA-Lib/ta-lib) - TA\-Lib (Core C Library)
 * 【2024-12-30】[skot / ESP\-Miner](https://github.com/skot/ESP-Miner) - A bitcoin ASIC miner for the ESP32
@@ -2463,6 +2471,8 @@
 
 ## C++
 
+* 【2025-01-01】[NVIDIA / DALI](https://github.com/NVIDIA/DALI) - A GPU\-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications 
+* 【2025-01-01】[casadi / casadi](https://github.com/casadi/casadi) - CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix\-valued computational graphs  It supports self\-contained C\-code generation and interfaces state\-of\-the\-art codes such as SUNDIALS, IPOPT etc  It can be used from C++, Python or Matlab/Octave 
 * 【2024-12-31】[mikage-emu / mikage-dev](https://github.com/mikage-emu/mikage-dev) - Mikage Developer Edition
 * 【2024-12-27】[shadps4-emu / shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 * 【2024-12-26】[shadps4\-emu / shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
@@ -2705,6 +2715,7 @@
 
 ## C#
 
+* 【2025-01-01】[tylercamp / palcalc](https://github.com/tylercamp/palcalc) - 
 * 【2024-12-30】[msasanmh / DNSveil](https://github.com/msasanmh/DNSveil) - A DNS Client Supporting DNSCrypt, Anonymized DNSCrypt, DoH, DoT, UDP And TCP 
 * 【2024-11-28】[fluentcms / FluentCMS](https://github.com/fluentcms/FluentCMS) - ASP NET Core Blazor Content Management System (CMS)
 * 【2024-11-27】[dotnet / ai-samples](https://github.com/dotnet/ai-samples) - 
@@ -2991,6 +3002,7 @@
 
 ## Html
 
+* 【2025-01-01】[gehaxelt / phuzz](https://github.com/gehaxelt/phuzz) - 
 * 【2024-12-31】[e2b\-dev / E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 * 【2024-12-30】[mostafa-kheibary / tehran-metro-data](https://github.com/mostafa-kheibary/tehran-metro-data) - Tehran metro station data as graph in json format
 * 【2024-12-29】[mostafa\-kheibary / tehran\-metro\-data](https://github.com/mostafa-kheibary/tehran-metro-data) - Tehran metro station data as graph in json format
@@ -3906,6 +3918,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-01-01】[louis\-e / arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail 
 * 【2024-12-30】[jj-vcs / jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 * 【2024-12-29】[jj\-vcs / jj](https://github.com/jj-vcs/jj) - A Git\-compatible VCS that is both simple and powerful
 * 【2024-12-27】[mfontanini / presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -4465,6 +4478,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-01】[docmost / docmost](https://github.com/docmost/docmost) - Docmost is an open\-source collaborative wiki and documentation software  It is an open\-source alternative to Confluence and Notion 
 * 【2024-12-31】[elizaOS / agent-twitter-client](https://github.com/elizaOS/agent-twitter-client) - A Twitter client for agents-- no API key necessary
 * 【2024-12-31】[Comfy-Org / desktop](https://github.com/Comfy-Org/desktop) - The desktop app for ComfyUI.
 * 【2024-12-31】[Vali\-98 / ChatterUI](https://github.com/Vali-98/ChatterUI) - Simple frontend for LLMs built in react\-native 
