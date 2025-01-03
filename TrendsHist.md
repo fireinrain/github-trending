@@ -924,6 +924,7 @@
 
 ## Python
 
+* 【2025-01-03】[feder\-cr / Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process  Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way 
 * 【2025-01-02】[facebookresearch / Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy\-to\-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends 
 * 【2025-01-01】[neuraloperator / neuraloperator](https://github.com/neuraloperator/neuraloperator) - Learning in infinite dimension with neural operators 
 * 【2025-01-01】[crewAIInc / crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - A collection of examples that show how to use CrewAI framework to automate workflows.
@@ -1963,6 +1964,8 @@
 
 ## Go
 
+* 【2025-01-03】[StackExchange / dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
+* 【2025-01-03】[tnb-labs / panel](https://github.com/tnb-labs/panel) - 企业级服务器运维管理面板。简单轻量，高效运维。
 * 【2025-01-02】[tnb\-labs / panel](https://github.com/tnb-labs/panel) - 企业级服务器运维管理面板。简单轻量，高效运维。
 * 【2024-12-30】[cadence\-workflow / cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long\-running business logic in a scalable and resilient way 
 * 【2024-12-30】[qdm12 / ddns\-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
@@ -3011,6 +3014,7 @@
 
 ## Html
 
+* 【2025-01-03】[miaoermua / CatWrt](https://github.com/miaoermua/CatWrt) - 🌠 客制化 OpenWrt 智能网关
 * 【2025-01-01】[gehaxelt / phuzz](https://github.com/gehaxelt/phuzz) - 
 * 【2024-12-31】[e2b\-dev / E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 * 【2024-12-30】[mostafa-kheibary / tehran-metro-data](https://github.com/mostafa-kheibary/tehran-metro-data) - Tehran metro station data as graph in json format
@@ -3393,6 +3397,7 @@
 
 ## Unknown
 
+* 【2025-01-03】[matildaexp / remote\-latam](https://github.com/matildaexp/remote-latam) - A curated collection of US and high\-income country tech job opportunities open to Latin American professionals
 * 【2025-01-02】[hijkzzz / Awesome\-LLM\-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques 
 * 【2024-12-31】[PatrickJS / awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 * 【2024-12-31】[tycrek / degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products  Privacy tips, tricks, and links 
@@ -3928,6 +3933,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-01-03】[katanemo / archgw](https://github.com/katanemo/archgw) - Arch is an intelligent gateway for agents  Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs \- outside business logic  Built by the core contributors of Envoy proxy, on Envoy 
 * 【2025-01-02】[louis-e / arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
 * 【2025-01-02】[Canop / broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy org/broot
 * 【2025-01-01】[louis\-e / arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail 
@@ -4490,6 +4496,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-03】[stackblitz / bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
 * 【2025-01-02】[modelcontextprotocol / typescript\-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
 * 【2025-01-01】[docmost / docmost](https://github.com/docmost/docmost) - Docmost is an open\-source collaborative wiki and documentation software  It is an open\-source alternative to Confluence and Notion 
 * 【2024-12-31】[elizaOS / agent-twitter-client](https://github.com/elizaOS/agent-twitter-client) - A Twitter client for agents-- no API key necessary
