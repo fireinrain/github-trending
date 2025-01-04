@@ -924,6 +924,7 @@
 
 ## Python
 
+* 【2025-01-04】[feder-cr / Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 * 【2025-01-03】[feder\-cr / Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process  Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way 
 * 【2025-01-02】[facebookresearch / Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy\-to\-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends 
 * 【2025-01-01】[neuraloperator / neuraloperator](https://github.com/neuraloperator/neuraloperator) - Learning in infinite dimension with neural operators 
@@ -2481,6 +2482,7 @@
 
 ## C++
 
+* 【2025-01-04】[Open\-Cascade\-SAS / OCCT](https://github.com/Open-Cascade-SAS/OCCT) - Open CASCADE Technology (OCCT) is an open\-source software development platform for 3D CAD, CAM, CAE 
 * 【2025-01-01】[NVIDIA / DALI](https://github.com/NVIDIA/DALI) - A GPU\-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications 
 * 【2025-01-01】[casadi / casadi](https://github.com/casadi/casadi) - CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix\-valued computational graphs  It supports self\-contained C\-code generation and interfaces state\-of\-the\-art codes such as SUNDIALS, IPOPT etc  It can be used from C++, Python or Matlab/Octave 
 * 【2024-12-31】[mikage-emu / mikage-dev](https://github.com/mikage-emu/mikage-dev) - Mikage Developer Edition
@@ -3014,6 +3016,7 @@
 
 ## Html
 
+* 【2025-01-04】[alufers / mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse\-engineer REST APIs via capturing traffic
 * 【2025-01-03】[miaoermua / CatWrt](https://github.com/miaoermua/CatWrt) - 🌠 客制化 OpenWrt 智能网关
 * 【2025-01-01】[gehaxelt / phuzz](https://github.com/gehaxelt/phuzz) - 
 * 【2024-12-31】[e2b\-dev / E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
@@ -4496,6 +4499,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-04】[VisActor / VTable](https://github.com/VisActor/VTable) - VTable is not just a high\-performance multidimensional data analysis table, but also a grid artist that creates art between rows and columns 
+* 【2025-01-04】[microsoft / code\-push\-server](https://github.com/microsoft/code-push-server) - Standalone CodePush server from App Center
+* 【2025-01-04】[bytedance / IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 * 【2025-01-03】[stackblitz / bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
 * 【2025-01-02】[modelcontextprotocol / typescript\-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
 * 【2025-01-01】[docmost / docmost](https://github.com/docmost/docmost) - Docmost is an open\-source collaborative wiki and documentation software  It is an open\-source alternative to Confluence and Notion 
