@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-01-05】[OpenXiangShan / XiangShan](https://github.com/OpenXiangShan/XiangShan) - Open\-source high\-performance RISC\-V processor
 * 【2025-01-02】[bytedance / monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
 * 【2025-01-02】[Byaidu / PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats \- 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 * 【2024-12-31】[mikage\-emu / mikage\-dev](https://github.com/mikage-emu/mikage-dev) - Mikage Developer Edition
@@ -693,6 +694,7 @@
 
 ## Java
 
+* 【2025-01-05】[weizhiqiang1995 / erp\-pro](https://github.com/weizhiqiang1995/erp-pro) - 基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的多租户ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。
 * 【2025-01-01】[alibaba / spring\-ai\-alibaba](https://github.com/alibaba/spring-ai-alibaba) - An Application Framework for Java Developers
 * 【2025-01-01】[youngyangyang04 / RPC\-Java](https://github.com/youngyangyang04/RPC-Java) - 【代码随想录知识星球】项目分享\-手撕RPC框架🔥
 * 【2024-12-31】[xoureldeen / Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
@@ -2482,6 +2484,7 @@
 
 ## C++
 
+* 【2025-01-05】[uxlfoundation / oneTBB](https://github.com/uxlfoundation/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
 * 【2025-01-04】[Open\-Cascade\-SAS / OCCT](https://github.com/Open-Cascade-SAS/OCCT) - Open CASCADE Technology (OCCT) is an open\-source software development platform for 3D CAD, CAM, CAE 
 * 【2025-01-01】[NVIDIA / DALI](https://github.com/NVIDIA/DALI) - A GPU\-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications 
 * 【2025-01-01】[casadi / casadi](https://github.com/casadi/casadi) - CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix\-valued computational graphs  It supports self\-contained C\-code generation and interfaces state\-of\-the\-art codes such as SUNDIALS, IPOPT etc  It can be used from C++, Python or Matlab/Octave 
@@ -3400,6 +3403,7 @@
 
 ## Unknown
 
+* 【2025-01-05】[rothgar / awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 * 【2025-01-03】[matildaexp / remote\-latam](https://github.com/matildaexp/remote-latam) - A curated collection of US and high\-income country tech job opportunities open to Latin American professionals
 * 【2025-01-02】[hijkzzz / Awesome\-LLM\-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques 
 * 【2024-12-31】[PatrickJS / awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
@@ -3936,6 +3940,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-01-05】[tursodatabase / limbo](https://github.com/tursodatabase/limbo) - Limbo is a work\-in\-progress, in\-process OLTP database management system, compatible with SQLite 
+* 【2025-01-05】[n0-computer / iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 * 【2025-01-03】[katanemo / archgw](https://github.com/katanemo/archgw) - Arch is an intelligent gateway for agents  Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs \- outside business logic  Built by the core contributors of Envoy proxy, on Envoy 
 * 【2025-01-02】[louis-e / arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
 * 【2025-01-02】[Canop / broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy org/broot
@@ -4499,6 +4505,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-05】[KittyCAD / modeling\-app](https://github.com/KittyCAD/modeling-app) - The KittyCAD modeling app 
+* 【2025-01-05】[microsoft / code-push-server](https://github.com/microsoft/code-push-server) - Standalone CodePush server from App Center
+* 【2025-01-05】[aidenybai / react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 * 【2025-01-04】[VisActor / VTable](https://github.com/VisActor/VTable) - VTable is not just a high\-performance multidimensional data analysis table, but also a grid artist that creates art between rows and columns 
 * 【2025-01-04】[microsoft / code\-push\-server](https://github.com/microsoft/code-push-server) - Standalone CodePush server from App Center
 * 【2025-01-04】[bytedance / IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
