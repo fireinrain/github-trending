@@ -926,6 +926,8 @@
 
 ## Python
 
+* 【2025-01-06】[NVIDIA / nv\-ingest](https://github.com/NVIDIA/nv-ingest) - NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems 
+* 【2025-01-06】[sunnypilot / sunnypilot](https://github.com/sunnypilot/sunnypilot) - sunnypilot is an open source driver assistance system  sunnypilot offers the user a unique driving experience for over 290 supported car makes and models with modified behaviors of driving assist engagements  sunnypilot complies with comma ai's safety rules as accurately as possible 
 * 【2025-01-04】[feder-cr / Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 * 【2025-01-03】[feder\-cr / Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process  Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way 
 * 【2025-01-02】[facebookresearch / Kats](https://github.com/facebookresearch/Kats) - Kats, a kit to analyze time series data, a lightweight, easy\-to\-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends 
@@ -2227,6 +2229,9 @@
 
 ## C
 
+* 【2025-01-06】[Encryqed / Dumper-7](https://github.com/Encryqed/Dumper-7) - Unreal Engine SDK Generator
+* 【2025-01-06】[s\-macke / VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
+* 【2025-01-06】[Waujito / youtubeUnblock](https://github.com/Waujito/youtubeUnblock) - Bypasses Deep Packet Inspection (DPI) systems that rely on SNI
 * 【2025-01-02】[KreitinnSoftware / MiceWine-Application](https://github.com/KreitinnSoftware/MiceWine-Application) - MiceWine is a project that aims to run Windows applications and games on Android smartphones.
 * 【2025-01-01】[KreitinnSoftware / MiceWine\-Application](https://github.com/KreitinnSoftware/MiceWine-Application) - MiceWine is a project that aims to run Windows applications and games on Android smartphones 
 * 【2025-01-01】[bmorcelli / M5Stick\-Launcher](https://github.com/bmorcelli/M5Stick-Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
@@ -2484,6 +2489,7 @@
 
 ## C++
 
+* 【2025-01-06】[losehu / uv\-k5\-firmware\-custom](https://github.com/losehu/uv-k5-firmware-custom) - 全功能泉盛UV\-K5/K6固件 Quansheng UV\-K5/K6 Firmware
 * 【2025-01-05】[uxlfoundation / oneTBB](https://github.com/uxlfoundation/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
 * 【2025-01-04】[Open\-Cascade\-SAS / OCCT](https://github.com/Open-Cascade-SAS/OCCT) - Open CASCADE Technology (OCCT) is an open\-source software development platform for 3D CAD, CAM, CAE 
 * 【2025-01-01】[NVIDIA / DALI](https://github.com/NVIDIA/DALI) - A GPU\-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications 
@@ -3403,6 +3409,7 @@
 
 ## Unknown
 
+* 【2025-01-06】[jamesroutley / write\-a\-hash\-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C
 * 【2025-01-05】[rothgar / awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 * 【2025-01-03】[matildaexp / remote\-latam](https://github.com/matildaexp/remote-latam) - A curated collection of US and high\-income country tech job opportunities open to Latin American professionals
 * 【2025-01-02】[hijkzzz / Awesome\-LLM\-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques 
@@ -4505,6 +4512,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-06】[boardgameio / boardgame io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn\-Based Games
+* 【2025-01-06】[langchain\-ai / open\-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs 
+* 【2025-01-06】[OneKeyHQ / app\-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions 
 * 【2025-01-05】[KittyCAD / modeling\-app](https://github.com/KittyCAD/modeling-app) - The KittyCAD modeling app 
 * 【2025-01-05】[microsoft / code-push-server](https://github.com/microsoft/code-push-server) - Standalone CodePush server from App Center
 * 【2025-01-05】[aidenybai / react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
