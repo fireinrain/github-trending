@@ -926,6 +926,7 @@
 
 ## Python
 
+* 【2025-01-07】[NVIDIA / nv-ingest](https://github.com/NVIDIA/nv-ingest) - NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems.
 * 【2025-01-06】[NVIDIA / nv\-ingest](https://github.com/NVIDIA/nv-ingest) - NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems 
 * 【2025-01-06】[sunnypilot / sunnypilot](https://github.com/sunnypilot/sunnypilot) - sunnypilot is an open source driver assistance system  sunnypilot offers the user a unique driving experience for over 290 supported car makes and models with modified behaviors of driving assist engagements  sunnypilot complies with comma ai's safety rules as accurately as possible 
 * 【2025-01-04】[feder-cr / Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
@@ -2229,6 +2230,8 @@
 
 ## C
 
+* 【2025-01-07】[TypesettingTools / Aegisub](https://github.com/TypesettingTools/Aegisub) - Cross\-platform advanced subtitle editor
+* 【2025-01-07】[quickjs-ng / quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine
 * 【2025-01-06】[Encryqed / Dumper-7](https://github.com/Encryqed/Dumper-7) - Unreal Engine SDK Generator
 * 【2025-01-06】[s\-macke / VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
 * 【2025-01-06】[Waujito / youtubeUnblock](https://github.com/Waujito/youtubeUnblock) - Bypasses Deep Packet Inspection (DPI) systems that rely on SNI
@@ -2489,6 +2492,8 @@
 
 ## C++
 
+* 【2025-01-07】[momo5502 / emulator](https://github.com/momo5502/emulator) - 🪅 Windows User Space Emulator
+* 【2025-01-07】[LibreCAD / LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross\-platform 2D CAD program written in C++17  It can read DXF/DWG files and can write DXF/PDF/SVG files  It supports point/line/circle/ellipse/parabola/spline primitives  The user interface is highly customizable, and has dozens of translations 
 * 【2025-01-06】[losehu / uv\-k5\-firmware\-custom](https://github.com/losehu/uv-k5-firmware-custom) - 全功能泉盛UV\-K5/K6固件 Quansheng UV\-K5/K6 Firmware
 * 【2025-01-05】[uxlfoundation / oneTBB](https://github.com/uxlfoundation/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
 * 【2025-01-04】[Open\-Cascade\-SAS / OCCT](https://github.com/Open-Cascade-SAS/OCCT) - Open CASCADE Technology (OCCT) is an open\-source software development platform for 3D CAD, CAM, CAE 
@@ -2736,6 +2741,7 @@
 
 ## C#
 
+* 【2025-01-07】[antonioCoco / RunasCs](https://github.com/antonioCoco/RunasCs) - RunasCs \- Csharp and open version of windows builtin runas exe
 * 【2025-01-02】[NoelFB / Celeste](https://github.com/NoelFB/Celeste) - Celeste Bugs & Issue Tracker + some Source Code
 * 【2025-01-02】[neo\-project / neo](https://github.com/neo-project/neo) - NEO Smart Economy
 * 【2025-01-01】[tylercamp / palcalc](https://github.com/tylercamp/palcalc) - 
@@ -4512,6 +4518,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-07】[BuilderIO / micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
+* 【2025-01-07】[ohcnetwork / care_fe](https://github.com/ohcnetwork/care_fe) - Care is a Digital Public Good enabling TeleICU & Decentralised Administration of Healthcare Capacity across States 
+* 【2025-01-07】[av / harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command 
+* 【2025-01-07】[Koenkk / zigbee2mqtt.io](https://github.com/Koenkk/zigbee2mqtt.io) - 📘 Zigbee2mqtt documentation
 * 【2025-01-06】[boardgameio / boardgame io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn\-Based Games
 * 【2025-01-06】[langchain\-ai / open\-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs 
 * 【2025-01-06】[OneKeyHQ / app\-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions 
