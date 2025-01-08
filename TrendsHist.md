@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-01-08】[zigbee2mqtt / hassio\-zigbee2mqtt](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt) - Official Zigbee2MQTT Home Assistant add\-on
+* 【2025-01-08】[rectorphp / rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5 3+ code
 * 【2025-01-05】[OpenXiangShan / XiangShan](https://github.com/OpenXiangShan/XiangShan) - Open\-source high\-performance RISC\-V processor
 * 【2025-01-02】[bytedance / monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
 * 【2025-01-02】[Byaidu / PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats \- 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
@@ -694,6 +696,7 @@
 
 ## Java
 
+* 【2025-01-08】[CodePhiliaX / fastexcel](https://github.com/CodePhiliaX/fastexcel) - easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具
 * 【2025-01-05】[weizhiqiang1995 / erp\-pro](https://github.com/weizhiqiang1995/erp-pro) - 基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的多租户ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。
 * 【2025-01-01】[alibaba / spring\-ai\-alibaba](https://github.com/alibaba/spring-ai-alibaba) - An Application Framework for Java Developers
 * 【2025-01-01】[youngyangyang04 / RPC\-Java](https://github.com/youngyangyang04/RPC-Java) - 【代码随想录知识星球】项目分享\-手撕RPC框架🔥
@@ -1610,6 +1613,7 @@
 
 ## Javascript
 
+* 【2025-01-08】[openai / openai\-realtime\-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 * 【2025-01-02】[viarotel-org / escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron.
 * 【2025-01-02】[GoogleChrome / workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 * 【2025-01-01】[notwaldorf / emoji-translate](https://github.com/notwaldorf/emoji-translate) - 📚 Translate text to ✨emoji ✨!
@@ -2230,6 +2234,7 @@
 
 ## C
 
+* 【2025-01-08】[zjutjh / zjut\-icicles](https://github.com/zjutjh/zjut-icicles) - 浙江工业大学课程攻略共享计划
 * 【2025-01-07】[TypesettingTools / Aegisub](https://github.com/TypesettingTools/Aegisub) - Cross\-platform advanced subtitle editor
 * 【2025-01-07】[quickjs-ng / quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine
 * 【2025-01-06】[Encryqed / Dumper-7](https://github.com/Encryqed/Dumper-7) - Unreal Engine SDK Generator
@@ -2492,6 +2497,7 @@
 
 ## C++
 
+* 【2025-01-08】[srsran / srsRAN_Project](https://github.com/srsran/srsRAN_Project) - Open source O\-RAN 5G CU/DU solution from Software Radio Systems (SRS) https://docs srsran com/projects/project
 * 【2025-01-07】[momo5502 / emulator](https://github.com/momo5502/emulator) - 🪅 Windows User Space Emulator
 * 【2025-01-07】[LibreCAD / LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross\-platform 2D CAD program written in C++17  It can read DXF/DWG files and can write DXF/PDF/SVG files  It supports point/line/circle/ellipse/parabola/spline primitives  The user interface is highly customizable, and has dozens of translations 
 * 【2025-01-06】[losehu / uv\-k5\-firmware\-custom](https://github.com/losehu/uv-k5-firmware-custom) - 全功能泉盛UV\-K5/K6固件 Quansheng UV\-K5/K6 Firmware
@@ -3953,6 +3959,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-01-08】[woodruffw / zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions
 * 【2025-01-05】[tursodatabase / limbo](https://github.com/tursodatabase/limbo) - Limbo is a work\-in\-progress, in\-process OLTP database management system, compatible with SQLite 
 * 【2025-01-05】[n0-computer / iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 * 【2025-01-03】[katanemo / archgw](https://github.com/katanemo/archgw) - Arch is an intelligent gateway for agents  Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs \- outside business logic  Built by the core contributors of Envoy proxy, on Envoy 
@@ -4518,6 +4525,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-08】[theajack / disable\-devtool](https://github.com/theajack/disable-devtool) - Disable web developer tools from the f12 button, right\-click and browser menu
 * 【2025-01-07】[BuilderIO / micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 * 【2025-01-07】[ohcnetwork / care_fe](https://github.com/ohcnetwork/care_fe) - Care is a Digital Public Good enabling TeleICU & Decentralised Administration of Healthcare Capacity across States 
 * 【2025-01-07】[av / harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command 
