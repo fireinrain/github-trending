@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-01-09】[inkonchain / docs](https://github.com/inkonchain/docs) - Ink Documentation
+* 【2025-01-09】[inkonchain / node](https://github.com/inkonchain/node) - How to run an Ink Node
 * 【2025-01-08】[zigbee2mqtt / hassio\-zigbee2mqtt](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt) - Official Zigbee2MQTT Home Assistant add\-on
 * 【2025-01-08】[rectorphp / rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5 3+ code
 * 【2025-01-05】[OpenXiangShan / XiangShan](https://github.com/OpenXiangShan/XiangShan) - Open\-source high\-performance RISC\-V processor
@@ -929,6 +931,7 @@
 
 ## Python
 
+* 【2025-01-09】[huggingface / picotron](https://github.com/huggingface/picotron) - Minimalistic 4D\-parallelism distributed training framework for education purpose
 * 【2025-01-07】[NVIDIA / nv-ingest](https://github.com/NVIDIA/nv-ingest) - NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems.
 * 【2025-01-06】[NVIDIA / nv\-ingest](https://github.com/NVIDIA/nv-ingest) - NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems 
 * 【2025-01-06】[sunnypilot / sunnypilot](https://github.com/sunnypilot/sunnypilot) - sunnypilot is an open source driver assistance system  sunnypilot offers the user a unique driving experience for over 290 supported car makes and models with modified behaviors of driving assist engagements  sunnypilot complies with comma ai's safety rules as accurately as possible 
@@ -1613,6 +1616,7 @@
 
 ## Javascript
 
+* 【2025-01-09】[openai / openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 * 【2025-01-08】[openai / openai\-realtime\-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 * 【2025-01-02】[viarotel-org / escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron.
 * 【2025-01-02】[GoogleChrome / workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
@@ -1974,6 +1978,7 @@
 
 ## Go
 
+* 【2025-01-09】[apache / answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales  Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer 
 * 【2025-01-03】[StackExchange / dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 * 【2025-01-03】[tnb-labs / panel](https://github.com/tnb-labs/panel) - 企业级服务器运维管理面板。简单轻量，高效运维。
 * 【2025-01-02】[tnb\-labs / panel](https://github.com/tnb-labs/panel) - 企业级服务器运维管理面板。简单轻量，高效运维。
@@ -2234,6 +2239,7 @@
 
 ## C
 
+* 【2025-01-09】[ericstoneking / 42](https://github.com/ericstoneking/42) - Simulation for spacecraft attitude control system analysis and design
 * 【2025-01-08】[zjutjh / zjut\-icicles](https://github.com/zjutjh/zjut-icicles) - 浙江工业大学课程攻略共享计划
 * 【2025-01-07】[TypesettingTools / Aegisub](https://github.com/TypesettingTools/Aegisub) - Cross\-platform advanced subtitle editor
 * 【2025-01-07】[quickjs-ng / quickjs](https://github.com/quickjs-ng/quickjs) - QuickJS, the Next Generation: a mighty JavaScript engine
@@ -3037,6 +3043,9 @@
 
 ## Html
 
+* 【2025-01-09】[kha\-white / mokuro](https://github.com/kha-white/mokuro) - Read Japanese manga inside browser with selectable text 
+* 【2025-01-09】[e2b-dev / E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+* 【2025-01-09】[dhairyagothi / 100_days_100_web_project](https://github.com/dhairyagothi/100_days_100_web_project) - This repository contains 100 web projects from basic to intermediate using html css and js Please star the repo before start working on it
 * 【2025-01-04】[alufers / mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse\-engineer REST APIs via capturing traffic
 * 【2025-01-03】[miaoermua / CatWrt](https://github.com/miaoermua/CatWrt) - 🌠 客制化 OpenWrt 智能网关
 * 【2025-01-01】[gehaxelt / phuzz](https://github.com/gehaxelt/phuzz) - 
@@ -3421,6 +3430,8 @@
 
 ## Unknown
 
+* 【2025-01-09】[langchain-ai / langgraph-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally.
+* 【2025-01-09】[jaywcjlove / docker\-tutorial](https://github.com/jaywcjlove/docker-tutorial) - 🐳 Docker入门学习笔记
 * 【2025-01-06】[jamesroutley / write\-a\-hash\-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C
 * 【2025-01-05】[rothgar / awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 * 【2025-01-03】[matildaexp / remote\-latam](https://github.com/matildaexp/remote-latam) - A curated collection of US and high\-income country tech job opportunities open to Latin American professionals
@@ -3959,6 +3970,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-01-09】[ekzhang / bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 * 【2025-01-08】[woodruffw / zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions
 * 【2025-01-05】[tursodatabase / limbo](https://github.com/tursodatabase/limbo) - Limbo is a work\-in\-progress, in\-process OLTP database management system, compatible with SQLite 
 * 【2025-01-05】[n0-computer / iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
