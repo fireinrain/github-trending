@@ -1616,6 +1616,7 @@
 
 ## Javascript
 
+* 【2025-01-10】[LedgerHQ / ledger-live](https://github.com/LedgerHQ/ledger-live) - Mono-repository for packages related to Ledger Live and its JavaScript ecosystem.
 * 【2025-01-09】[openai / openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 * 【2025-01-08】[openai / openai\-realtime\-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 * 【2025-01-02】[viarotel-org / escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron.
@@ -2239,6 +2240,7 @@
 
 ## C
 
+* 【2025-01-10】[HarbourMasters / Starship](https://github.com/HarbourMasters/Starship) - SF64 PC Port
 * 【2025-01-09】[ericstoneking / 42](https://github.com/ericstoneking/42) - Simulation for spacecraft attitude control system analysis and design
 * 【2025-01-08】[zjutjh / zjut\-icicles](https://github.com/zjutjh/zjut-icicles) - 浙江工业大学课程攻略共享计划
 * 【2025-01-07】[TypesettingTools / Aegisub](https://github.com/TypesettingTools/Aegisub) - Cross\-platform advanced subtitle editor
@@ -2753,6 +2755,7 @@
 
 ## C#
 
+* 【2025-01-10】[stephanstapel / ZUGFeRD-csharp](https://github.com/stephanstapel/ZUGFeRD-csharp) - C# assembly for creating and reading ZUGFeRD invoices
 * 【2025-01-07】[antonioCoco / RunasCs](https://github.com/antonioCoco/RunasCs) - RunasCs \- Csharp and open version of windows builtin runas exe
 * 【2025-01-02】[NoelFB / Celeste](https://github.com/NoelFB/Celeste) - Celeste Bugs & Issue Tracker + some Source Code
 * 【2025-01-02】[neo\-project / neo](https://github.com/neo-project/neo) - NEO Smart Economy
@@ -3043,6 +3046,7 @@
 
 ## Html
 
+* 【2025-01-10】[Anjaliavv51 / Retro](https://github.com/Anjaliavv51/Retro) - Explore the vintage look!
 * 【2025-01-09】[kha\-white / mokuro](https://github.com/kha-white/mokuro) - Read Japanese manga inside browser with selectable text 
 * 【2025-01-09】[e2b-dev / E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 * 【2025-01-09】[dhairyagothi / 100_days_100_web_project](https://github.com/dhairyagothi/100_days_100_web_project) - This repository contains 100 web projects from basic to intermediate using html css and js Please star the repo before start working on it
@@ -3430,6 +3434,7 @@
 
 ## Unknown
 
+* 【2025-01-10】[microsoft / aitour\-repo\-principal\-list](https://github.com/microsoft/aitour-repo-principal-list) - 
 * 【2025-01-09】[langchain-ai / langgraph-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally.
 * 【2025-01-09】[jaywcjlove / docker\-tutorial](https://github.com/jaywcjlove/docker-tutorial) - 🐳 Docker入门学习笔记
 * 【2025-01-06】[jamesroutley / write\-a\-hash\-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C
