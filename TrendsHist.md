@@ -1619,6 +1619,8 @@
 
 ## Javascript
 
+* 【2025-01-12】[huggingface / transformers js\-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers js demos and example applications
+* 【2025-01-12】[thedevs\-network / kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener 
 * 【2025-01-10】[LedgerHQ / ledger-live](https://github.com/LedgerHQ/ledger-live) - Mono-repository for packages related to Ledger Live and its JavaScript ecosystem.
 * 【2025-01-09】[openai / openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 * 【2025-01-08】[openai / openai\-realtime\-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
@@ -2509,6 +2511,7 @@
 
 ## C++
 
+* 【2025-01-12】[Livox\-SDK / Livox\-SDK2](https://github.com/Livox-SDK/Livox-SDK2) - Drivers for receiving LiDAR data and controlling lidar, support Lidar HAP and Mid\-360 
 * 【2025-01-08】[srsran / srsRAN_Project](https://github.com/srsran/srsRAN_Project) - Open source O\-RAN 5G CU/DU solution from Software Radio Systems (SRS) https://docs srsran com/projects/project
 * 【2025-01-07】[momo5502 / emulator](https://github.com/momo5502/emulator) - 🪅 Windows User Space Emulator
 * 【2025-01-07】[LibreCAD / LibreCAD](https://github.com/LibreCAD/LibreCAD) - LibreCAD is a cross\-platform 2D CAD program written in C++17  It can read DXF/DWG files and can write DXF/PDF/SVG files  It supports point/line/circle/ellipse/parabola/spline primitives  The user interface is highly customizable, and has dozens of translations 
@@ -3438,6 +3441,8 @@
 
 ## Unknown
 
+* 【2025-01-12】[hijkzzz / Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.
+* 【2025-01-12】[openebs / openebs](https://github.com/openebs/openebs) - Most popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes 
 * 【2025-01-10】[microsoft / aitour\-repo\-principal\-list](https://github.com/microsoft/aitour-repo-principal-list) - 
 * 【2025-01-09】[langchain-ai / langgraph-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally.
 * 【2025-01-09】[jaywcjlove / docker\-tutorial](https://github.com/jaywcjlove/docker-tutorial) - 🐳 Docker入门学习笔记
@@ -3979,6 +3984,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-01-12】[alexpasmantier / television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised
 * 【2025-01-09】[ekzhang / bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 * 【2025-01-08】[woodruffw / zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions
 * 【2025-01-05】[tursodatabase / limbo](https://github.com/tursodatabase/limbo) - Limbo is a work\-in\-progress, in\-process OLTP database management system, compatible with SQLite 
@@ -4546,6 +4552,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-12】[leerob / next\-saas\-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next js, Postgres, Stripe, and shadcn/ui 
 * 【2025-01-08】[theajack / disable\-devtool](https://github.com/theajack/disable-devtool) - Disable web developer tools from the f12 button, right\-click and browser menu
 * 【2025-01-07】[BuilderIO / micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 * 【2025-01-07】[ohcnetwork / care_fe](https://github.com/ohcnetwork/care_fe) - Care is a Digital Public Good enabling TeleICU & Decentralised Administration of Healthcare Capacity across States 
