@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-01-13】[leerob / next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 * 【2025-01-09】[inkonchain / docs](https://github.com/inkonchain/docs) - Ink Documentation
 * 【2025-01-09】[inkonchain / node](https://github.com/inkonchain/node) - How to run an Ink Node
 * 【2025-01-08】[zigbee2mqtt / hassio\-zigbee2mqtt](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt) - Official Zigbee2MQTT Home Assistant add\-on
@@ -698,6 +699,7 @@
 
 ## Java
 
+* 【2025-01-13】[chainbase\-labs / manuscript\-core](https://github.com/chainbase-labs/manuscript-core) - 
 * 【2025-01-08】[CodePhiliaX / fastexcel](https://github.com/CodePhiliaX/fastexcel) - easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具
 * 【2025-01-05】[weizhiqiang1995 / erp\-pro](https://github.com/weizhiqiang1995/erp-pro) - 基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的多租户ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。
 * 【2025-01-01】[alibaba / spring\-ai\-alibaba](https://github.com/alibaba/spring-ai-alibaba) - An Application Framework for Java Developers
@@ -931,6 +933,8 @@
 
 ## Python
 
+* 【2025-01-13】[NVlabs / Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High\-Resolution Image Synthesis with Linear Diffusion Transformer
+* 【2025-01-13】[beetbox / beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 * 【2025-01-11】[apple / ml\-depth\-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second 
 * 【2025-01-11】[PriorLabs / TabPFN](https://github.com/PriorLabs/TabPFN) - ⚡ TabPFN: Foundation Model for Tabular Data ⚡
 * 【2025-01-11】[enarjord / passivbot](https://github.com/enarjord/passivbot) - Trading bot running on Bybit, Bitget, OKX, GateIO, Binance and Hyperliquid
@@ -1619,6 +1623,8 @@
 
 ## Javascript
 
+* 【2025-01-13】[huggingface / transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
+* 【2025-01-13】[dexie / Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 * 【2025-01-12】[huggingface / transformers js\-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers js demos and example applications
 * 【2025-01-12】[thedevs\-network / kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener 
 * 【2025-01-10】[LedgerHQ / ledger-live](https://github.com/LedgerHQ/ledger-live) - Mono-repository for packages related to Ledger Live and its JavaScript ecosystem.
@@ -1984,6 +1990,8 @@
 
 ## Go
 
+* 【2025-01-13】[dlvhdr / gh\-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
+* 【2025-01-13】[icereed / paperless\-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless\-ngx \- Document Digitalization powered by AI
 * 【2025-01-09】[apache / answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales  Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer 
 * 【2025-01-03】[StackExchange / dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 * 【2025-01-03】[tnb-labs / panel](https://github.com/tnb-labs/panel) - 企业级服务器运维管理面板。简单轻量，高效运维。
@@ -3053,6 +3061,7 @@
 
 ## Html
 
+* 【2025-01-13】[PaulJerimy / SecCertRoadmapHTML](https://github.com/PaulJerimy/SecCertRoadmapHTML) - Security Certification Roadmap HTML5/CSS3 version
 * 【2025-01-10】[Anjaliavv51 / Retro](https://github.com/Anjaliavv51/Retro) - Explore the vintage look!
 * 【2025-01-09】[kha\-white / mokuro](https://github.com/kha-white/mokuro) - Read Japanese manga inside browser with selectable text 
 * 【2025-01-09】[e2b-dev / E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
@@ -3441,6 +3450,7 @@
 
 ## Unknown
 
+* 【2025-01-13】[Cryakl / Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
 * 【2025-01-12】[hijkzzz / Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.
 * 【2025-01-12】[openebs / openebs](https://github.com/openebs/openebs) - Most popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes 
 * 【2025-01-10】[microsoft / aitour\-repo\-principal\-list](https://github.com/microsoft/aitour-repo-principal-list) - 
@@ -3984,6 +3994,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-01-13】[piotrostr / listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
+* 【2025-01-13】[esp-rs / esp-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
+* 【2025-01-13】[pop\-os / cosmic\-comp](https://github.com/pop-os/cosmic-comp) - Compositor for the COSMIC desktop environment
 * 【2025-01-12】[alexpasmantier / television](https://github.com/alexpasmantier/television) - The revolution will (not) be televised
 * 【2025-01-09】[ekzhang / bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 * 【2025-01-08】[woodruffw / zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions
