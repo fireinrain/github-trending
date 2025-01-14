@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-01-14】[JoshuaC215 / agent\-service\-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
+* 【2025-01-14】[kevmo314 / scuda](https://github.com/kevmo314/scuda) - SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU\-only machines 
+* 【2025-01-14】[mylinuxforwork / dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland \- An advanced and full\-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions 
 * 【2025-01-13】[leerob / next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 * 【2025-01-09】[inkonchain / docs](https://github.com/inkonchain/docs) - Ink Documentation
 * 【2025-01-09】[inkonchain / node](https://github.com/inkonchain/node) - How to run an Ink Node
@@ -933,6 +936,8 @@
 
 ## Python
 
+* 【2025-01-14】[JoshuaC215 / agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
+* 【2025-01-14】[nautechsystems / nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high\-performance algorithmic trading platform and event\-driven backtester
 * 【2025-01-13】[NVlabs / Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High\-Resolution Image Synthesis with Linear Diffusion Transformer
 * 【2025-01-13】[beetbox / beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 * 【2025-01-11】[apple / ml\-depth\-pro](https://github.com/apple/ml-depth-pro) - Depth Pro: Sharp Monocular Metric Depth in Less Than a Second 
@@ -1990,6 +1995,8 @@
 
 ## Go
 
+* 【2025-01-14】[openai / openai-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
+* 【2025-01-14】[yusing / go\-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration
 * 【2025-01-13】[dlvhdr / gh\-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 * 【2025-01-13】[icereed / paperless\-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless\-ngx \- Document Digitalization powered by AI
 * 【2025-01-09】[apache / answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales  Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer 
@@ -3061,6 +3068,7 @@
 
 ## Html
 
+* 【2025-01-14】[opulo-inc / lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine.
 * 【2025-01-13】[PaulJerimy / SecCertRoadmapHTML](https://github.com/PaulJerimy/SecCertRoadmapHTML) - Security Certification Roadmap HTML5/CSS3 version
 * 【2025-01-10】[Anjaliavv51 / Retro](https://github.com/Anjaliavv51/Retro) - Explore the vintage look!
 * 【2025-01-09】[kha\-white / mokuro](https://github.com/kha-white/mokuro) - Read Japanese manga inside browser with selectable text 
@@ -4565,6 +4573,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-14】[mathuo / dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager  Supports Vanilla TypeScript, React and Vue 
+* 【2025-01-14】[runtipi / runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self\-hosted apps  ✨
 * 【2025-01-12】[leerob / next\-saas\-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next js, Postgres, Stripe, and shadcn/ui 
 * 【2025-01-08】[theajack / disable\-devtool](https://github.com/theajack/disable-devtool) - Disable web developer tools from the f12 button, right\-click and browser menu
 * 【2025-01-07】[BuilderIO / micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
