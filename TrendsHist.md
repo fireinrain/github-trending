@@ -936,6 +936,7 @@
 
 ## Python
 
+* 【2025-01-15】[KoljaB / RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low\-latency speech\-to\-text library with advanced voice activity detection, wake word activation and instant transcription 
 * 【2025-01-14】[JoshuaC215 / agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
 * 【2025-01-14】[nautechsystems / nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high\-performance algorithmic trading platform and event\-driven backtester
 * 【2025-01-13】[NVlabs / Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High\-Resolution Image Synthesis with Linear Diffusion Transformer
@@ -1628,6 +1629,7 @@
 
 ## Javascript
 
+* 【2025-01-15】[i\-am\-shodan / USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers 
 * 【2025-01-13】[huggingface / transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
 * 【2025-01-13】[dexie / Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 * 【2025-01-12】[huggingface / transformers js\-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers js demos and example applications
@@ -3068,6 +3070,7 @@
 
 ## Html
 
+* 【2025-01-15】[IBM / data\-prep\-kit](https://github.com/IBM/data-prep-kit) - Open source project for data preparation of LLM application builders
 * 【2025-01-14】[opulo-inc / lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine.
 * 【2025-01-13】[PaulJerimy / SecCertRoadmapHTML](https://github.com/PaulJerimy/SecCertRoadmapHTML) - Security Certification Roadmap HTML5/CSS3 version
 * 【2025-01-10】[Anjaliavv51 / Retro](https://github.com/Anjaliavv51/Retro) - Explore the vintage look!
