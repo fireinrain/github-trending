@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-01-16】[spree / spree](https://github.com/spree/spree) - An open source eCommerce platform giving you full control and customizability  Modular and API\-first  Multi\-vendor, multi\-tenant, multi\-store, multi\-currency, multi\-language  Built using Ruby on Rails  Developed by @vendo\-dev
 * 【2025-01-14】[JoshuaC215 / agent\-service\-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
 * 【2025-01-14】[kevmo314 / scuda](https://github.com/kevmo314/scuda) - SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU\-only machines 
 * 【2025-01-14】[mylinuxforwork / dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland \- An advanced and full\-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions 
@@ -936,6 +937,7 @@
 
 ## Python
 
+* 【2025-01-16】[OpenBMB / MiniCPM\-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM\-o 2 6: A GPT\-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone
 * 【2025-01-15】[KoljaB / RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low\-latency speech\-to\-text library with advanced voice activity detection, wake word activation and instant transcription 
 * 【2025-01-14】[JoshuaC215 / agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
 * 【2025-01-14】[nautechsystems / nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high\-performance algorithmic trading platform and event\-driven backtester
@@ -2779,6 +2781,7 @@
 
 ## C#
 
+* 【2025-01-16】[npgsql / efcore.pg](https://github.com/npgsql/efcore.pg) - Entity Framework Core provider for PostgreSQL
 * 【2025-01-10】[stephanstapel / ZUGFeRD-csharp](https://github.com/stephanstapel/ZUGFeRD-csharp) - C# assembly for creating and reading ZUGFeRD invoices
 * 【2025-01-07】[antonioCoco / RunasCs](https://github.com/antonioCoco/RunasCs) - RunasCs \- Csharp and open version of windows builtin runas exe
 * 【2025-01-02】[NoelFB / Celeste](https://github.com/NoelFB/Celeste) - Celeste Bugs & Issue Tracker + some Source Code
@@ -4005,6 +4008,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-01-16】[sarah\-quinones / faer\-rs](https://github.com/sarah-quinones/faer-rs) - Linear algebra foundation for the Rust programming language
+* 【2025-01-16】[readysettech / readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire\-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput  Under the hood, ReadySet caches the results of cached select statements and incrementally updates these results over time as the underlying data changes 
 * 【2025-01-13】[piotrostr / listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
 * 【2025-01-13】[esp-rs / esp-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
 * 【2025-01-13】[pop\-os / cosmic\-comp](https://github.com/pop-os/cosmic-comp) - Compositor for the COSMIC desktop environment
@@ -4576,6 +4581,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-16】[gristlabs / grist\-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets 
+* 【2025-01-16】[mattermost-community / focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 * 【2025-01-14】[mathuo / dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager  Supports Vanilla TypeScript, React and Vue 
 * 【2025-01-14】[runtipi / runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self\-hosted apps  ✨
 * 【2025-01-12】[leerob / next\-saas\-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next js, Postgres, Stripe, and shadcn/ui 
