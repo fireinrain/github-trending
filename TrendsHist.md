@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-01-17】[OpenBMB / MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone
+* 【2025-01-17】[pixelfed / pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing  For Everyone 
 * 【2025-01-16】[spree / spree](https://github.com/spree/spree) - An open source eCommerce platform giving you full control and customizability  Modular and API\-first  Multi\-vendor, multi\-tenant, multi\-store, multi\-currency, multi\-language  Built using Ruby on Rails  Developed by @vendo\-dev
 * 【2025-01-14】[JoshuaC215 / agent\-service\-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
 * 【2025-01-14】[kevmo314 / scuda](https://github.com/kevmo314/scuda) - SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU\-only machines 
@@ -937,6 +939,10 @@
 
 ## Python
 
+* 【2025-01-17】[AmberSahdev / Open\-Interface](https://github.com/AmberSahdev/Open-Interface) - Control Any Computer Using LLMs 
+* 【2025-01-17】[instructor\-ai / instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
+* 【2025-01-17】[qhjqhj00 / MemoRAG](https://github.com/qhjqhj00/MemoRAG) - Empowering RAG with a memory\-based data interface for all\-purpose applications!
+* 【2025-01-17】[ansible / ansible\-lint](https://github.com/ansible/ansible-lint) - ansible\-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
 * 【2025-01-16】[OpenBMB / MiniCPM\-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM\-o 2 6: A GPT\-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone
 * 【2025-01-15】[KoljaB / RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low\-latency speech\-to\-text library with advanced voice activity detection, wake word activation and instant transcription 
 * 【2025-01-14】[JoshuaC215 / agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
@@ -1631,6 +1637,8 @@
 
 ## Javascript
 
+* 【2025-01-17】[software-mansion / radon-ide](https://github.com/software-mansion/radon-ide) - VSCode/Cursor extension that turns your editor into a full featured IDE for React Native and Expo.
+* 【2025-01-17】[pixelfed / pixelfed\-rn](https://github.com/pixelfed/pixelfed-rn) - Pixelfed mobile app
 * 【2025-01-15】[i\-am\-shodan / USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers 
 * 【2025-01-13】[huggingface / transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
 * 【2025-01-13】[dexie / Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
@@ -2264,6 +2272,7 @@
 
 ## C
 
+* 【2025-01-17】[open-telemetry / opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) - OpenTelemetry Auto Instrumentation using eBPF
 * 【2025-01-11】[riscv\-software\-src / opensbi](https://github.com/riscv-software-src/opensbi) - RISC\-V Open Source Supervisor Binary Interface
 * 【2025-01-10】[HarbourMasters / Starship](https://github.com/HarbourMasters/Starship) - SF64 PC Port
 * 【2025-01-09】[ericstoneking / 42](https://github.com/ericstoneking/42) - Simulation for spacecraft attitude control system analysis and design
@@ -2530,6 +2539,8 @@
 
 ## C++
 
+* 【2025-01-17】[GuijiAI / duix ai](https://github.com/GuijiAI/duix.ai) - 
+* 【2025-01-17】[windirstat / windirstat](https://github.com/windirstat/windirstat) - WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows
 * 【2025-01-12】[Livox\-SDK / Livox\-SDK2](https://github.com/Livox-SDK/Livox-SDK2) - Drivers for receiving LiDAR data and controlling lidar, support Lidar HAP and Mid\-360 
 * 【2025-01-08】[srsran / srsRAN_Project](https://github.com/srsran/srsRAN_Project) - Open source O\-RAN 5G CU/DU solution from Software Radio Systems (SRS) https://docs srsran com/projects/project
 * 【2025-01-07】[momo5502 / emulator](https://github.com/momo5502/emulator) - 🪅 Windows User Space Emulator
@@ -2781,6 +2792,8 @@
 
 ## C#
 
+* 【2025-01-17】[shouldly / shouldly](https://github.com/shouldly/shouldly) - Should testing for  NET—the way assertions should be!
+* 【2025-01-17】[googlesamples / unity\-jar\-resolver](https://github.com/googlesamples/unity-jar-resolver) - Unity plugin which resolves Android & iOS dependencies and performs version management
 * 【2025-01-16】[npgsql / efcore.pg](https://github.com/npgsql/efcore.pg) - Entity Framework Core provider for PostgreSQL
 * 【2025-01-10】[stephanstapel / ZUGFeRD-csharp](https://github.com/stephanstapel/ZUGFeRD-csharp) - C# assembly for creating and reading ZUGFeRD invoices
 * 【2025-01-07】[antonioCoco / RunasCs](https://github.com/antonioCoco/RunasCs) - RunasCs \- Csharp and open version of windows builtin runas exe
@@ -3073,6 +3086,7 @@
 
 ## Html
 
+* 【2025-01-17】[Born2Root / Fast\-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points 
 * 【2025-01-15】[IBM / data\-prep\-kit](https://github.com/IBM/data-prep-kit) - Open source project for data preparation of LLM application builders
 * 【2025-01-14】[opulo-inc / lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine.
 * 【2025-01-13】[PaulJerimy / SecCertRoadmapHTML](https://github.com/PaulJerimy/SecCertRoadmapHTML) - Security Certification Roadmap HTML5/CSS3 version
@@ -3464,6 +3478,7 @@
 
 ## Unknown
 
+* 【2025-01-17】[GAIR\-NLP / O1\-Journey](https://github.com/GAIR-NLP/O1-Journey) - O1 Replication Journey
 * 【2025-01-13】[Cryakl / Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
 * 【2025-01-12】[hijkzzz / Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.
 * 【2025-01-12】[openebs / openebs](https://github.com/openebs/openebs) - Most popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes 
@@ -4581,6 +4596,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-17】[podman\-desktop / podman\-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers  Get an intuitive and user\-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop 
+* 【2025-01-17】[microsoft / vscode\-extension\-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API 
 * 【2025-01-16】[gristlabs / grist\-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets 
 * 【2025-01-16】[mattermost-community / focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 * 【2025-01-14】[mathuo / dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager  Supports Vanilla TypeScript, React and Vue 
