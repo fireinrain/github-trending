@@ -3478,6 +3478,7 @@
 
 ## Unknown
 
+* 【2025-01-18】[fishttp / awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
 * 【2025-01-17】[GAIR\-NLP / O1\-Journey](https://github.com/GAIR-NLP/O1-Journey) - O1 Replication Journey
 * 【2025-01-13】[Cryakl / Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
 * 【2025-01-12】[hijkzzz / Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.
@@ -4023,6 +4024,10 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-01-18】[cessen / ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts 
+* 【2025-01-18】[eclipse\-zenoh / zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in\-use, data at rest and computations  It carefully blends traditional pub/sub with geo\-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks 
+* 【2025-01-18】[AFLplusplus / LibAFL](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library \- Slot your Fuzzer together in Rust! Scales across cores and machines  For Windows, Android, MacOS, Linux, no_std,    
+* 【2025-01-18】[nymtech / nym\-vpn\-client](https://github.com/nymtech/nym-vpn-client) - The NymVPN client apps for desktop and mobile
 * 【2025-01-16】[sarah\-quinones / faer\-rs](https://github.com/sarah-quinones/faer-rs) - Linear algebra foundation for the Rust programming language
 * 【2025-01-16】[readysettech / readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire\-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput  Under the hood, ReadySet caches the results of cached select statements and incrementally updates these results over time as the underlying data changes 
 * 【2025-01-13】[piotrostr / listen](https://github.com/piotrostr/listen) - Solana Swiss Army Knife
@@ -4596,6 +4601,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-18】[frontio\-ai / heroui](https://github.com/frontio-ai/heroui) - 🚀 Beautiful, fast and modern React UI library  (Previously NextUI)
 * 【2025-01-17】[podman\-desktop / podman\-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers  Get an intuitive and user\-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop 
 * 【2025-01-17】[microsoft / vscode\-extension\-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API 
 * 【2025-01-16】[gristlabs / grist\-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets 
