@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-01-21】[koreader / koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 * 【2025-01-20】[frappe / helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software
 * 【2025-01-20】[emcie\-co / parlant](https://github.com/emcie-co/parlant) - The behavior guidance framework for customer\-facing LLM agents
 * 【2025-01-19】[linuxserver / docker\-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments 
@@ -708,6 +709,7 @@
 
 ## Java
 
+* 【2025-01-21】[apache / ozone](https://github.com/apache/ozone) - Scalable, reliable, distributed storage system optimized for data analytics and object store workloads 
 * 【2025-01-20】[oliexdev / openScale](https://github.com/oliexdev/openScale) - Open\-source weight and body metrics tracker, with support for Bluetooth scales
 * 【2025-01-20】[AsamK / signal\-cli](https://github.com/AsamK/signal-cli) - signal\-cli provides an unofficial commandline, JSON\-RPC and dbus interface for the Signal messenger 
 * 【2025-01-19】[scottyab / rootbeer](https://github.com/scottyab/rootbeer) - Simple to use root checking Android library and sample app
@@ -945,6 +947,7 @@
 
 ## Python
 
+* 【2025-01-21】[enoch3712 / ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM\-style interaction for flexible and powerful document workflows 
 * 【2025-01-20】[emcie-co / parlant](https://github.com/emcie-co/parlant) - The behavior guidance framework for customer-facing LLM agents
 * 【2025-01-19】[databrickslabs / dqx](https://github.com/databrickslabs/dqx) - Databricks framework to validate Data Quality of pySpark DataFrames
 * 【2025-01-19】[evolutionaryscale / esm](https://github.com/evolutionaryscale/esm) - 
@@ -1648,6 +1651,7 @@
 
 ## Javascript
 
+* 【2025-01-21】[jesse-ai / jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 * 【2025-01-20】[bluewave\-labs / Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open\-source, self\-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real\-time with beautiful visualizations 
 * 【2025-01-19】[tengbao / vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 * 【2025-01-19】[ruby / setup-ruby](https://github.com/ruby/setup-ruby) - An action to download a prebuilt Ruby and add it to the PATH in 5 seconds
@@ -2021,6 +2025,7 @@
 
 ## Go
 
+* 【2025-01-21】[google / osv\-scalibr](https://github.com/google/osv-scalibr) - 
 * 【2025-01-20】[stonith404 / pocket\-id](https://github.com/stonith404/pocket-id) - A simple and easy\-to\-use OIDC provider that allows users to authenticate with their passkeys to your services 
 * 【2025-01-14】[openai / openai-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
 * 【2025-01-14】[yusing / go\-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration
@@ -2287,6 +2292,8 @@
 
 ## C
 
+* 【2025-01-21】[i486 / VxKex](https://github.com/i486/VxKex) - Windows 7 API Extensions
+* 【2025-01-21】[networkupstools / nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository  UPS management protocol Informational RFC 9271 published by IETF at https://www rfc\-editor org/info/rfc9271 Please star NUT on GitHub, this helps with sponsorships!
 * 【2025-01-20】[YTEC\-info / CH341A\-Softwares](https://github.com/YTEC-info/CH341A-Softwares) - CH341A Softwares (Windows, Linux, Mac and Android)
 * 【2025-01-17】[open-telemetry / opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) - OpenTelemetry Auto Instrumentation using eBPF
 * 【2025-01-11】[riscv\-software\-src / opensbi](https://github.com/riscv-software-src/opensbi) - RISC\-V Open Source Supervisor Binary Interface
@@ -2555,6 +2562,7 @@
 
 ## C++
 
+* 【2025-01-21】[TDesktop\-x64 / tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
 * 【2025-01-20】[Detanup01 / gbe_fork](https://github.com/Detanup01/gbe_fork) - Fork of https://gitlab com/Mr_Goldberg/goldberg_emulator
 * 【2025-01-20】[aliyun / SimAI](https://github.com/aliyun/SimAI) - 
 * 【2025-01-19】[cifertech / nRFBox](https://github.com/cifertech/nRFBox) - All\-in\-One Gadget for Dominating BLE and 2 4GHz Networks
@@ -4628,6 +4636,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-21】[tonybaloney / vscode\-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
+* 【2025-01-21】[microsoft / vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
+* 【2025-01-21】[al1abb / invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next js, Typescript, and Shadcn
 * 【2025-01-19】[langwatch / langwatch](https://github.com/langwatch/langwatch) - The ultimate LLM Ops platform \- Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨
 * 【2025-01-19】[microsoft / vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 * 【2025-01-18】[frontio\-ai / heroui](https://github.com/frontio-ai/heroui) - 🚀 Beautiful, fast and modern React UI library  (Previously NextUI)
