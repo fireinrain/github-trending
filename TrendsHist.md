@@ -709,6 +709,7 @@
 
 ## Java
 
+* 【2025-01-22】[alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) - An Application Framework for Java Developers
 * 【2025-01-21】[apache / ozone](https://github.com/apache/ozone) - Scalable, reliable, distributed storage system optimized for data analytics and object store workloads 
 * 【2025-01-20】[oliexdev / openScale](https://github.com/oliexdev/openScale) - Open\-source weight and body metrics tracker, with support for Bluetooth scales
 * 【2025-01-20】[AsamK / signal\-cli](https://github.com/AsamK/signal-cli) - signal\-cli provides an unofficial commandline, JSON\-RPC and dbus interface for the Signal messenger 
@@ -1651,6 +1652,7 @@
 
 ## Javascript
 
+* 【2025-01-22】[bluewave-labs / Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 * 【2025-01-21】[jesse-ai / jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 * 【2025-01-20】[bluewave\-labs / Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open\-source, self\-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real\-time with beautiful visualizations 
 * 【2025-01-19】[tengbao / vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
@@ -2292,6 +2294,8 @@
 
 ## C
 
+* 【2025-01-22】[nuta / operating\-system\-in\-1000\-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines 
+* 【2025-01-22】[am32\-firmware / AM32](https://github.com/am32-firmware/AM32) - 
 * 【2025-01-21】[i486 / VxKex](https://github.com/i486/VxKex) - Windows 7 API Extensions
 * 【2025-01-21】[networkupstools / nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository  UPS management protocol Informational RFC 9271 published by IETF at https://www rfc\-editor org/info/rfc9271 Please star NUT on GitHub, this helps with sponsorships!
 * 【2025-01-20】[YTEC\-info / CH341A\-Softwares](https://github.com/YTEC-info/CH341A-Softwares) - CH341A Softwares (Windows, Linux, Mac and Android)
@@ -2819,6 +2823,7 @@
 
 ## C#
 
+* 【2025-01-22】[odedshimon / BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
 * 【2025-01-20】[builtbybel / Flyby11](https://github.com/builtbybel/Flyby11) - Windows 11 Upgrading Assistant
 * 【2025-01-17】[shouldly / shouldly](https://github.com/shouldly/shouldly) - Should testing for  NET—the way assertions should be!
 * 【2025-01-17】[googlesamples / unity\-jar\-resolver](https://github.com/googlesamples/unity-jar-resolver) - Unity plugin which resolves Android & iOS dependencies and performs version management
@@ -3114,6 +3119,8 @@
 
 ## Html
 
+* 【2025-01-22】[Born2Root / Fast-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.
+* 【2025-01-22】[OCA / pos](https://github.com/OCA/pos) - 
 * 【2025-01-20】[xlang\-ai / Spider2](https://github.com/xlang-ai/Spider2) - Spider 2 0: Evaluating Language Models on Real\-World Enterprise Text\-to\-SQL Workflows
 * 【2025-01-19】[platzi / git\-github](https://github.com/platzi/git-github) - Repositorio del Curso de Git y GitHub
 * 【2025-01-17】[Born2Root / Fast\-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points 
@@ -4636,6 +4643,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-22】[codexu / note\-gen](https://github.com/codexu/note-gen) - 一款专注于记录和写作的跨端 AI 笔记
 * 【2025-01-21】[tonybaloney / vscode\-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 * 【2025-01-21】[microsoft / vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
 * 【2025-01-21】[al1abb / invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next js, Typescript, and Shadcn
