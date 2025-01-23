@@ -1652,6 +1652,7 @@
 
 ## Javascript
 
+* 【2025-01-23】[koaning / drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Jupyter 
 * 【2025-01-22】[bluewave-labs / Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 * 【2025-01-21】[jesse-ai / jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 * 【2025-01-20】[bluewave\-labs / Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open\-source, self\-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real\-time with beautiful visualizations 
@@ -2294,6 +2295,7 @@
 
 ## C
 
+* 【2025-01-23】[oxters168 / Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android
 * 【2025-01-22】[nuta / operating\-system\-in\-1000\-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines 
 * 【2025-01-22】[am32\-firmware / AM32](https://github.com/am32-firmware/AM32) - 
 * 【2025-01-21】[i486 / VxKex](https://github.com/i486/VxKex) - Windows 7 API Extensions
@@ -2566,6 +2568,7 @@
 
 ## C++
 
+* 【2025-01-23】[moudey / Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 * 【2025-01-21】[TDesktop\-x64 / tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
 * 【2025-01-20】[Detanup01 / gbe_fork](https://github.com/Detanup01/gbe_fork) - Fork of https://gitlab com/Mr_Goldberg/goldberg_emulator
 * 【2025-01-20】[aliyun / SimAI](https://github.com/aliyun/SimAI) - 
@@ -2823,6 +2826,7 @@
 
 ## C#
 
+* 【2025-01-23】[dnnsoftware / Dnn Platform](https://github.com/dnnsoftware/Dnn.Platform) - DNN (formerly DotNetNuke) is the leading open source web content management platform (CMS) in the Microsoft ecosystem 
 * 【2025-01-22】[odedshimon / BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
 * 【2025-01-20】[builtbybel / Flyby11](https://github.com/builtbybel/Flyby11) - Windows 11 Upgrading Assistant
 * 【2025-01-17】[shouldly / shouldly](https://github.com/shouldly/shouldly) - Should testing for  NET—the way assertions should be!
