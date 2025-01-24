@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-01-24】[deepseek\-ai / DeepSeek\-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers
 * 【2025-01-21】[koreader / koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 * 【2025-01-20】[frappe / helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software
 * 【2025-01-20】[emcie\-co / parlant](https://github.com/emcie-co/parlant) - The behavior guidance framework for customer\-facing LLM agents
@@ -948,6 +949,7 @@
 
 ## Python
 
+* 【2025-01-24】[6tail / lunar\-python](https://github.com/6tail/lunar-python) - 日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar 
 * 【2025-01-21】[enoch3712 / ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM\-style interaction for flexible and powerful document workflows 
 * 【2025-01-20】[emcie-co / parlant](https://github.com/emcie-co/parlant) - The behavior guidance framework for customer-facing LLM agents
 * 【2025-01-19】[databrickslabs / dqx](https://github.com/databrickslabs/dqx) - Databricks framework to validate Data Quality of pySpark DataFrames
@@ -2028,6 +2030,7 @@
 
 ## Go
 
+* 【2025-01-24】[ethereum\-optimism / superchain\-registry](https://github.com/ethereum-optimism/superchain-registry) - An index of chains which serves as the source of truth for who’s in the Superchain Ecosystem
 * 【2025-01-21】[google / osv\-scalibr](https://github.com/google/osv-scalibr) - 
 * 【2025-01-20】[stonith404 / pocket\-id](https://github.com/stonith404/pocket-id) - A simple and easy\-to\-use OIDC provider that allows users to authenticate with their passkeys to your services 
 * 【2025-01-14】[openai / openai-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
@@ -2295,6 +2298,7 @@
 
 ## C
 
+* 【2025-01-24】[am32-firmware / AM32](https://github.com/am32-firmware/AM32) - 
 * 【2025-01-23】[oxters168 / Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android
 * 【2025-01-22】[nuta / operating\-system\-in\-1000\-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines 
 * 【2025-01-22】[am32\-firmware / AM32](https://github.com/am32-firmware/AM32) - 
@@ -3519,6 +3523,7 @@
 
 ## Unknown
 
+* 【2025-01-24】[mercari / ml\-system\-design\-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
 * 【2025-01-18】[fishttp / awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
 * 【2025-01-17】[GAIR\-NLP / O1\-Journey](https://github.com/GAIR-NLP/O1-Journey) - O1 Replication Journey
 * 【2025-01-13】[Cryakl / Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
@@ -4647,6 +4652,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-24】[huggingface / huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face Hub API
 * 【2025-01-22】[codexu / note\-gen](https://github.com/codexu/note-gen) - 一款专注于记录和写作的跨端 AI 笔记
 * 【2025-01-21】[tonybaloney / vscode\-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 * 【2025-01-21】[microsoft / vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
