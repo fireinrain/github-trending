@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-01-25】[nextjs / saas\-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next js, Postgres, Stripe, and shadcn/ui 
+* 【2025-01-25】[patchy631 / ai\-engineering\-hub](https://github.com/patchy631/ai-engineering-hub) - 
 * 【2025-01-24】[deepseek\-ai / DeepSeek\-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers
 * 【2025-01-21】[koreader / koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 * 【2025-01-20】[frappe / helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software
@@ -949,6 +951,7 @@
 
 ## Python
 
+* 【2025-01-25】[DepthAnything / Depth\-Anything\-V2](https://github.com/DepthAnything/Depth-Anything-V2) - [NeurIPS 2024] Depth Anything V2  A More Capable Foundation Model for Monocular Depth Estimation
 * 【2025-01-24】[6tail / lunar\-python](https://github.com/6tail/lunar-python) - 日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar 
 * 【2025-01-21】[enoch3712 / ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM\-style interaction for flexible and powerful document workflows 
 * 【2025-01-20】[emcie-co / parlant](https://github.com/emcie-co/parlant) - The behavior guidance framework for customer-facing LLM agents
@@ -1654,6 +1657,7 @@
 
 ## Javascript
 
+* 【2025-01-25】[thedevs-network / kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 * 【2025-01-23】[koaning / drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Jupyter 
 * 【2025-01-22】[bluewave-labs / Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 * 【2025-01-21】[jesse-ai / jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
@@ -2030,6 +2034,7 @@
 
 ## Go
 
+* 【2025-01-25】[ethereum-optimism / superchain-registry](https://github.com/ethereum-optimism/superchain-registry) - An index of chains which serves as the source of truth for who’s in the Superchain Ecosystem
 * 【2025-01-24】[ethereum\-optimism / superchain\-registry](https://github.com/ethereum-optimism/superchain-registry) - An index of chains which serves as the source of truth for who’s in the Superchain Ecosystem
 * 【2025-01-21】[google / osv\-scalibr](https://github.com/google/osv-scalibr) - 
 * 【2025-01-20】[stonith404 / pocket\-id](https://github.com/stonith404/pocket-id) - A simple and easy\-to\-use OIDC provider that allows users to authenticate with their passkeys to your services 
@@ -2572,6 +2577,7 @@
 
 ## C++
 
+* 【2025-01-25】[cdozdil / OptiScaler](https://github.com/cdozdil/OptiScaler) - OptiScaler is middleware that enables various upscaling technologies in DLSS2\-only games  It allows non\-Nvidia users to use upscaling by applying DLSS2 inputs to XeSS, FSR2, or FSR3 
 * 【2025-01-23】[moudey / Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 * 【2025-01-21】[TDesktop\-x64 / tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
 * 【2025-01-20】[Detanup01 / gbe_fork](https://github.com/Detanup01/gbe_fork) - Fork of https://gitlab com/Mr_Goldberg/goldberg_emulator
@@ -4070,6 +4076,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-01-25】[RustAudio / cpal](https://github.com/RustAudio/cpal) - Cross\-platform audio I/O library in pure Rust
 * 【2025-01-20】[nymtech / nym-vpn-client](https://github.com/nymtech/nym-vpn-client) - The NymVPN client apps for desktop and mobile
 * 【2025-01-19】[commonwarexyz / monorepo](https://github.com/commonwarexyz/monorepo) - Commonware Library Primitives and Examples
 * 【2025-01-19】[chrivers / bifrost](https://github.com/chrivers/bifrost) - Hue Bridge Emulator
@@ -4652,6 +4659,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-25】[nextjs / saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
+* 【2025-01-25】[zaidmukaddam / scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI\-powered search engine that helps you find information on the internet  Powered by Vercel AI SDK! Search with models like Grok 2 0 
+* 【2025-01-25】[satnaing / shadcn\-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite 
 * 【2025-01-24】[huggingface / huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face Hub API
 * 【2025-01-22】[codexu / note\-gen](https://github.com/codexu/note-gen) - 一款专注于记录和写作的跨端 AI 笔记
 * 【2025-01-21】[tonybaloney / vscode\-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
