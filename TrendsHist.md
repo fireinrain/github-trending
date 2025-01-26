@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-01-26】[lightpanda\-io / browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
+* 【2025-01-26】[yassinebenaid / bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries 
 * 【2025-01-25】[nextjs / saas\-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next js, Postgres, Stripe, and shadcn/ui 
 * 【2025-01-25】[patchy631 / ai\-engineering\-hub](https://github.com/patchy631/ai-engineering-hub) - 
 * 【2025-01-24】[deepseek\-ai / DeepSeek\-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers
@@ -712,6 +714,7 @@
 
 ## Java
 
+* 【2025-01-26】[aeron\-io / aeron](https://github.com/aeron-io/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 * 【2025-01-22】[alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) - An Application Framework for Java Developers
 * 【2025-01-21】[apache / ozone](https://github.com/apache/ozone) - Scalable, reliable, distributed storage system optimized for data analytics and object store workloads 
 * 【2025-01-20】[oliexdev / openScale](https://github.com/oliexdev/openScale) - Open\-source weight and body metrics tracker, with support for Bluetooth scales
@@ -951,6 +954,8 @@
 
 ## Python
 
+* 【2025-01-26】[THUDM / CogAgent](https://github.com/THUDM/CogAgent) - An open\-sourced end\-to\-end VLM\-based GUI Agent
+* 【2025-01-26】[kyutai\-labs / moshi](https://github.com/kyutai-labs/moshi) - 
 * 【2025-01-25】[DepthAnything / Depth\-Anything\-V2](https://github.com/DepthAnything/Depth-Anything-V2) - [NeurIPS 2024] Depth Anything V2  A More Capable Foundation Model for Monocular Depth Estimation
 * 【2025-01-24】[6tail / lunar\-python](https://github.com/6tail/lunar-python) - 日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar 
 * 【2025-01-21】[enoch3712 / ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM\-style interaction for flexible and powerful document workflows 
@@ -1657,6 +1662,7 @@
 
 ## Javascript
 
+* 【2025-01-26】[XRPLF / xrpl\-dev\-portal](https://github.com/XRPLF/xrpl-dev-portal) - Source code for xrpl org including developer documentation
 * 【2025-01-25】[thedevs-network / kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 * 【2025-01-23】[koaning / drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Jupyter 
 * 【2025-01-22】[bluewave-labs / Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
@@ -2034,6 +2040,7 @@
 
 ## Go
 
+* 【2025-01-26】[mk6i / retro\-aim\-server](https://github.com/mk6i/retro-aim-server) - Open\-source instant messaging server that makes classic AIM and ICQ clients work again 
 * 【2025-01-25】[ethereum-optimism / superchain-registry](https://github.com/ethereum-optimism/superchain-registry) - An index of chains which serves as the source of truth for who’s in the Superchain Ecosystem
 * 【2025-01-24】[ethereum\-optimism / superchain\-registry](https://github.com/ethereum-optimism/superchain-registry) - An index of chains which serves as the source of truth for who’s in the Superchain Ecosystem
 * 【2025-01-21】[google / osv\-scalibr](https://github.com/google/osv-scalibr) - 
@@ -2303,6 +2310,9 @@
 
 ## C
 
+* 【2025-01-26】[RealNeGate / Cuik](https://github.com/RealNeGate/Cuik) - A Modern C11 compiler (STILL EARLY)
+* 【2025-01-26】[nuta / operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines.
+* 【2025-01-26】[RMerl / asuswrt\-merlin ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 * 【2025-01-24】[am32-firmware / AM32](https://github.com/am32-firmware/AM32) - 
 * 【2025-01-23】[oxters168 / Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android
 * 【2025-01-22】[nuta / operating\-system\-in\-1000\-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines 
@@ -2836,6 +2846,7 @@
 
 ## C#
 
+* 【2025-01-26】[ivanpaulovich / clean\-architecture\-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - 🌀 Clean Architecture with  NET6, C\#10 and React+Redux  Use cases as central organizing structure, completely testable, decoupled from frameworks
 * 【2025-01-23】[dnnsoftware / Dnn Platform](https://github.com/dnnsoftware/Dnn.Platform) - DNN (formerly DotNetNuke) is the leading open source web content management platform (CMS) in the Microsoft ecosystem 
 * 【2025-01-22】[odedshimon / BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
 * 【2025-01-20】[builtbybel / Flyby11](https://github.com/builtbybel/Flyby11) - Windows 11 Upgrading Assistant
@@ -3133,6 +3144,8 @@
 
 ## Html
 
+* 【2025-01-26】[18F / handbook](https://github.com/18F/handbook) - The home of policies and guidelines that make up TTS 
+* 【2025-01-26】[valiantlynx / ollama\-docker](https://github.com/valiantlynx/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
 * 【2025-01-22】[Born2Root / Fast-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.
 * 【2025-01-22】[OCA / pos](https://github.com/OCA/pos) - 
 * 【2025-01-20】[xlang\-ai / Spider2](https://github.com/xlang-ai/Spider2) - Spider 2 0: Evaluating Language Models on Real\-World Enterprise Text\-to\-SQL Workflows
@@ -3529,6 +3542,7 @@
 
 ## Unknown
 
+* 【2025-01-26】[jlopp / physical\-bitcoin\-attacks](https://github.com/jlopp/physical-bitcoin-attacks) - A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace 
 * 【2025-01-24】[mercari / ml\-system\-design\-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
 * 【2025-01-18】[fishttp / awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
 * 【2025-01-17】[GAIR\-NLP / O1\-Journey](https://github.com/GAIR-NLP/O1-Journey) - O1 Replication Journey
@@ -4076,6 +4090,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-01-26】[raydium\-io / raydium\-clmm](https://github.com/raydium-io/raydium-clmm) - Open\-Source Concentrated Liquidity Market Maker
 * 【2025-01-25】[RustAudio / cpal](https://github.com/RustAudio/cpal) - Cross\-platform audio I/O library in pure Rust
 * 【2025-01-20】[nymtech / nym-vpn-client](https://github.com/nymtech/nym-vpn-client) - The NymVPN client apps for desktop and mobile
 * 【2025-01-19】[commonwarexyz / monorepo](https://github.com/commonwarexyz/monorepo) - Commonware Library Primitives and Examples
@@ -4659,6 +4674,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-26】[satnaing / shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 * 【2025-01-25】[nextjs / saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 * 【2025-01-25】[zaidmukaddam / scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI\-powered search engine that helps you find information on the internet  Powered by Vercel AI SDK! Search with models like Grok 2 0 
 * 【2025-01-25】[satnaing / shadcn\-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite 
