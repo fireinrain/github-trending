@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-01-27】[onlook\-dev / onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers  Design directly in your live React app and publish your changes to code 
+* 【2025-01-27】[lightpanda-io / browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 * 【2025-01-26】[lightpanda\-io / browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 * 【2025-01-26】[yassinebenaid / bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries 
 * 【2025-01-25】[nextjs / saas\-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next js, Postgres, Stripe, and shadcn/ui 
@@ -714,6 +716,7 @@
 
 ## Java
 
+* 【2025-01-27】[PurpurMC / Purpur](https://github.com/PurpurMC/Purpur) - Purpur is a drop\-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features 
 * 【2025-01-26】[aeron\-io / aeron](https://github.com/aeron-io/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 * 【2025-01-22】[alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) - An Application Framework for Java Developers
 * 【2025-01-21】[apache / ozone](https://github.com/apache/ozone) - Scalable, reliable, distributed storage system optimized for data analytics and object store workloads 
@@ -954,6 +957,7 @@
 
 ## Python
 
+* 【2025-01-27】[kyutai-labs / moshi](https://github.com/kyutai-labs/moshi) - 
 * 【2025-01-26】[THUDM / CogAgent](https://github.com/THUDM/CogAgent) - An open\-sourced end\-to\-end VLM\-based GUI Agent
 * 【2025-01-26】[kyutai\-labs / moshi](https://github.com/kyutai-labs/moshi) - 
 * 【2025-01-25】[DepthAnything / Depth\-Anything\-V2](https://github.com/DepthAnything/Depth-Anything-V2) - [NeurIPS 2024] Depth Anything V2  A More Capable Foundation Model for Monocular Depth Estimation
@@ -1662,6 +1666,8 @@
 
 ## Javascript
 
+* 【2025-01-27】[i-am-shodan / USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
+* 【2025-01-27】[violentmonkey / violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers  It works on browsers with WebExtensions support 
 * 【2025-01-26】[XRPLF / xrpl\-dev\-portal](https://github.com/XRPLF/xrpl-dev-portal) - Source code for xrpl org including developer documentation
 * 【2025-01-25】[thedevs-network / kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 * 【2025-01-23】[koaning / drawdata](https://github.com/koaning/drawdata) - Draw datasets from within Jupyter 
@@ -2040,6 +2046,7 @@
 
 ## Go
 
+* 【2025-01-27】[mk6i / retro-aim-server](https://github.com/mk6i/retro-aim-server) - Open-source instant messaging server that makes classic AIM and ICQ clients work again.
 * 【2025-01-26】[mk6i / retro\-aim\-server](https://github.com/mk6i/retro-aim-server) - Open\-source instant messaging server that makes classic AIM and ICQ clients work again 
 * 【2025-01-25】[ethereum-optimism / superchain-registry](https://github.com/ethereum-optimism/superchain-registry) - An index of chains which serves as the source of truth for who’s in the Superchain Ecosystem
 * 【2025-01-24】[ethereum\-optimism / superchain\-registry](https://github.com/ethereum-optimism/superchain-registry) - An index of chains which serves as the source of truth for who’s in the Superchain Ecosystem
@@ -2310,6 +2317,7 @@
 
 ## C
 
+* 【2025-01-27】[da\-luce / astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required  ✨🪐
 * 【2025-01-26】[RealNeGate / Cuik](https://github.com/RealNeGate/Cuik) - A Modern C11 compiler (STILL EARLY)
 * 【2025-01-26】[nuta / operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines.
 * 【2025-01-26】[RMerl / asuswrt\-merlin ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
@@ -3144,6 +3152,8 @@
 
 ## Html
 
+* 【2025-01-27】[platzi / git-github](https://github.com/platzi/git-github) - Repositorio del Curso de Git y GitHub
+* 【2025-01-27】[hanwenguo / hugo\-theme\-nostyleplease](https://github.com/hanwenguo/hugo-theme-nostyleplease) - a (nearly) no\-CSS, fast, minimalist Hugo theme ported from riggraz/no\-style\-please 
 * 【2025-01-26】[18F / handbook](https://github.com/18F/handbook) - The home of policies and guidelines that make up TTS 
 * 【2025-01-26】[valiantlynx / ollama\-docker](https://github.com/valiantlynx/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
 * 【2025-01-22】[Born2Root / Fast-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.
@@ -3542,6 +3552,7 @@
 
 ## Unknown
 
+* 【2025-01-27】[jlopp / physical-bitcoin-attacks](https://github.com/jlopp/physical-bitcoin-attacks) - A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace.
 * 【2025-01-26】[jlopp / physical\-bitcoin\-attacks](https://github.com/jlopp/physical-bitcoin-attacks) - A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace 
 * 【2025-01-24】[mercari / ml\-system\-design\-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
 * 【2025-01-18】[fishttp / awesome-bluesky](https://github.com/fishttp/awesome-bluesky) - A list of all known tools available for the Bluesky platform
@@ -4090,6 +4101,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-01-27】[raydium\-io / raydium\-amm](https://github.com/raydium-io/raydium-amm) - Constant product AMM integrated with the OpenBook CLOB
+* 【2025-01-27】[davidlattimore / wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux
+* 【2025-01-27】[raydium-io / raydium-clmm](https://github.com/raydium-io/raydium-clmm) - Open-Source Concentrated Liquidity Market Maker
 * 【2025-01-26】[raydium\-io / raydium\-clmm](https://github.com/raydium-io/raydium-clmm) - Open\-Source Concentrated Liquidity Market Maker
 * 【2025-01-25】[RustAudio / cpal](https://github.com/RustAudio/cpal) - Cross\-platform audio I/O library in pure Rust
 * 【2025-01-20】[nymtech / nym-vpn-client](https://github.com/nymtech/nym-vpn-client) - The NymVPN client apps for desktop and mobile
@@ -4674,6 +4688,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-27】[onlook-dev / onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
 * 【2025-01-26】[satnaing / shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 * 【2025-01-25】[nextjs / saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 * 【2025-01-25】[zaidmukaddam / scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI\-powered search engine that helps you find information on the internet  Powered by Vercel AI SDK! Search with models like Grok 2 0 
