@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-01-28】[deepseek-ai / DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers
 * 【2025-01-27】[onlook\-dev / onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers  Design directly in your live React app and publish your changes to code 
 * 【2025-01-27】[lightpanda-io / browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 * 【2025-01-26】[lightpanda\-io / browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
@@ -716,6 +717,8 @@
 
 ## Java
 
+* 【2025-01-28】[chainbase-labs / manuscript-core](https://github.com/chainbase-labs/manuscript-core) - Manuscript is a revolutionary blockchain data streaming framework. With Manuscript, you can seamlessly integrate on-chain and off-chain data into target data storage for unrestricted querying and analysis
+* 【2025-01-28】[anonfaded / FadCam](https://github.com/anonfaded/FadCam) - Seamless background video recorder for Android – ad\-free and open\-source, with customizable options 
 * 【2025-01-27】[PurpurMC / Purpur](https://github.com/PurpurMC/Purpur) - Purpur is a drop\-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features 
 * 【2025-01-26】[aeron\-io / aeron](https://github.com/aeron-io/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 * 【2025-01-22】[alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) - An Application Framework for Java Developers
@@ -957,6 +960,7 @@
 
 ## Python
 
+* 【2025-01-28】[aigc-apps / EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - 📺 An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion
 * 【2025-01-27】[kyutai-labs / moshi](https://github.com/kyutai-labs/moshi) - 
 * 【2025-01-26】[THUDM / CogAgent](https://github.com/THUDM/CogAgent) - An open\-sourced end\-to\-end VLM\-based GUI Agent
 * 【2025-01-26】[kyutai\-labs / moshi](https://github.com/kyutai-labs/moshi) - 
@@ -1666,6 +1670,8 @@
 
 ## Javascript
 
+* 【2025-01-28】[IQEngine / WebFFT](https://github.com/IQEngine/WebFFT) - The Fastest Fourier Transform on the Web!
+* 【2025-01-28】[bosichong / PrimarySchoolMathematics](https://github.com/bosichong/PrimarySchoolMathematics) - 孩子上小学一年级了，加减乘除的口算就要开始练习了，估计老师肯定会让家长出题，所以提前准备一下，利用Python开发了一套自动生成小学生口算题的小应用。而且今天是程序员节，撸200行代码庆祝一下。：）
 * 【2025-01-27】[i-am-shodan / USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
 * 【2025-01-27】[violentmonkey / violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers  It works on browsers with WebExtensions support 
 * 【2025-01-26】[XRPLF / xrpl\-dev\-portal](https://github.com/XRPLF/xrpl-dev-portal) - Source code for xrpl org including developer documentation
@@ -2046,6 +2052,8 @@
 
 ## Go
 
+* 【2025-01-28】[nevalang / neva](https://github.com/nevalang/neva) - 🌊 Next\-generation programming language that solves programmers' problems
+* 【2025-01-28】[garethgeorge / backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup 
 * 【2025-01-27】[mk6i / retro-aim-server](https://github.com/mk6i/retro-aim-server) - Open-source instant messaging server that makes classic AIM and ICQ clients work again.
 * 【2025-01-26】[mk6i / retro\-aim\-server](https://github.com/mk6i/retro-aim-server) - Open\-source instant messaging server that makes classic AIM and ICQ clients work again 
 * 【2025-01-25】[ethereum-optimism / superchain-registry](https://github.com/ethereum-optimism/superchain-registry) - An index of chains which serves as the source of truth for who’s in the Superchain Ecosystem
@@ -2317,6 +2325,7 @@
 
 ## C
 
+* 【2025-01-28】[TA-Lib / ta-lib](https://github.com/TA-Lib/ta-lib) - TA-Lib (Core C Library)
 * 【2025-01-27】[da\-luce / astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required  ✨🪐
 * 【2025-01-26】[RealNeGate / Cuik](https://github.com/RealNeGate/Cuik) - A Modern C11 compiler (STILL EARLY)
 * 【2025-01-26】[nuta / operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines.
@@ -2854,6 +2863,7 @@
 
 ## C#
 
+* 【2025-01-28】[Sidekick\-Poe / Sidekick](https://github.com/Sidekick-Poe/Sidekick) - The main repository for the Sidekick project, a companion trade tool for Path of Exile and Path of Exile 2 
 * 【2025-01-26】[ivanpaulovich / clean\-architecture\-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - 🌀 Clean Architecture with  NET6, C\#10 and React+Redux  Use cases as central organizing structure, completely testable, decoupled from frameworks
 * 【2025-01-23】[dnnsoftware / Dnn Platform](https://github.com/dnnsoftware/Dnn.Platform) - DNN (formerly DotNetNuke) is the leading open source web content management platform (CMS) in the Microsoft ecosystem 
 * 【2025-01-22】[odedshimon / BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
@@ -3152,6 +3162,8 @@
 
 ## Html
 
+* 【2025-01-28】[valiantlynx / ollama-docker](https://github.com/valiantlynx/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
+* 【2025-01-28】[hanwenguo / hugo-theme-nostyleplease](https://github.com/hanwenguo/hugo-theme-nostyleplease) - a (nearly) no-CSS, fast, minimalist Hugo theme ported from riggraz/no-style-please.
 * 【2025-01-27】[platzi / git-github](https://github.com/platzi/git-github) - Repositorio del Curso de Git y GitHub
 * 【2025-01-27】[hanwenguo / hugo\-theme\-nostyleplease](https://github.com/hanwenguo/hugo-theme-nostyleplease) - a (nearly) no\-CSS, fast, minimalist Hugo theme ported from riggraz/no\-style\-please 
 * 【2025-01-26】[18F / handbook](https://github.com/18F/handbook) - The home of policies and guidelines that make up TTS 
@@ -4688,6 +4700,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-28】[Nutlope / blinkshot](https://github.com/Nutlope/blinkshot) - A realtime AI image generator
+* 【2025-01-28】[a-ghorbani / pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
 * 【2025-01-27】[onlook-dev / onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
 * 【2025-01-26】[satnaing / shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 * 【2025-01-25】[nextjs / saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
