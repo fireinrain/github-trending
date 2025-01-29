@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-01-29】[deepseek\-ai / Janus](https://github.com/deepseek-ai/Janus) - Janus\-Series: Unified Multimodal Understanding and Generation Models
 * 【2025-01-28】[deepseek-ai / DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers
 * 【2025-01-27】[onlook\-dev / onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers  Design directly in your live React app and publish your changes to code 
 * 【2025-01-27】[lightpanda-io / browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
@@ -717,6 +718,7 @@
 
 ## Java
 
+* 【2025-01-29】[wso2 / product\-is](https://github.com/wso2/product-is) - Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below 
 * 【2025-01-28】[chainbase-labs / manuscript-core](https://github.com/chainbase-labs/manuscript-core) - Manuscript is a revolutionary blockchain data streaming framework. With Manuscript, you can seamlessly integrate on-chain and off-chain data into target data storage for unrestricted querying and analysis
 * 【2025-01-28】[anonfaded / FadCam](https://github.com/anonfaded/FadCam) - Seamless background video recorder for Android – ad\-free and open\-source, with customizable options 
 * 【2025-01-27】[PurpurMC / Purpur](https://github.com/PurpurMC/Purpur) - Purpur is a drop\-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features 
@@ -960,6 +962,8 @@
 
 ## Python
 
+* 【2025-01-29】[deepseek-ai / Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
+* 【2025-01-29】[fylein / fyle\-interview\-intern\-backend](https://github.com/fylein/fyle-interview-intern-backend) - 
 * 【2025-01-28】[aigc-apps / EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - 📺 An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion
 * 【2025-01-27】[kyutai-labs / moshi](https://github.com/kyutai-labs/moshi) - 
 * 【2025-01-26】[THUDM / CogAgent](https://github.com/THUDM/CogAgent) - An open\-sourced end\-to\-end VLM\-based GUI Agent
@@ -2604,6 +2608,7 @@
 
 ## C++
 
+* 【2025-01-29】[tenstorrent / tt-metal](https://github.com/tenstorrent/tt-metal) - 🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.
 * 【2025-01-25】[cdozdil / OptiScaler](https://github.com/cdozdil/OptiScaler) - OptiScaler is middleware that enables various upscaling technologies in DLSS2\-only games  It allows non\-Nvidia users to use upscaling by applying DLSS2 inputs to XeSS, FSR2, or FSR3 
 * 【2025-01-23】[moudey / Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 * 【2025-01-21】[TDesktop\-x64 / tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
@@ -2863,6 +2868,7 @@
 
 ## C#
 
+* 【2025-01-29】[ElectronNET / Electron.NET](https://github.com/ElectronNET/Electron.NET) - Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
 * 【2025-01-28】[Sidekick\-Poe / Sidekick](https://github.com/Sidekick-Poe/Sidekick) - The main repository for the Sidekick project, a companion trade tool for Path of Exile and Path of Exile 2 
 * 【2025-01-26】[ivanpaulovich / clean\-architecture\-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - 🌀 Clean Architecture with  NET6, C\#10 and React+Redux  Use cases as central organizing structure, completely testable, decoupled from frameworks
 * 【2025-01-23】[dnnsoftware / Dnn Platform](https://github.com/dnnsoftware/Dnn.Platform) - DNN (formerly DotNetNuke) is the leading open source web content management platform (CMS) in the Microsoft ecosystem 
@@ -3162,6 +3168,7 @@
 
 ## Html
 
+* 【2025-01-29】[nginx / documentation](https://github.com/nginx/documentation) - Public source for docs nginx com
 * 【2025-01-28】[valiantlynx / ollama-docker](https://github.com/valiantlynx/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
 * 【2025-01-28】[hanwenguo / hugo-theme-nostyleplease](https://github.com/hanwenguo/hugo-theme-nostyleplease) - a (nearly) no-CSS, fast, minimalist Hugo theme ported from riggraz/no-style-please.
 * 【2025-01-27】[platzi / git-github](https://github.com/platzi/git-github) - Repositorio del Curso de Git y GitHub
@@ -4113,6 +4120,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-01-29】[noir\-lang / noir](https://github.com/noir-lang/noir) - Noir is a domain specific language for zero knowledge proofs
 * 【2025-01-27】[raydium\-io / raydium\-amm](https://github.com/raydium-io/raydium-amm) - Constant product AMM integrated with the OpenBook CLOB
 * 【2025-01-27】[davidlattimore / wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux
 * 【2025-01-27】[raydium-io / raydium-clmm](https://github.com/raydium-io/raydium-clmm) - Open-Source Concentrated Liquidity Market Maker
@@ -4700,6 +4708,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-29】[podman-desktop / podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
+* 【2025-01-29】[ruilisi / fortune\-sheet](https://github.com/ruilisi/fortune-sheet) - A drop\-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
 * 【2025-01-28】[Nutlope / blinkshot](https://github.com/Nutlope/blinkshot) - A realtime AI image generator
 * 【2025-01-28】[a-ghorbani / pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
 * 【2025-01-27】[onlook-dev / onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
