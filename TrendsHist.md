@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-01-30】[QwenLM / Qwen2 5\-VL](https://github.com/QwenLM/Qwen2.5-VL) - Qwen2 5\-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud 
+* 【2025-01-30】[deepseek\-ai / ESFT](https://github.com/deepseek-ai/ESFT) - Expert Specialized Fine\-Tuning
 * 【2025-01-29】[deepseek\-ai / Janus](https://github.com/deepseek-ai/Janus) - Janus\-Series: Unified Multimodal Understanding and Generation Models
 * 【2025-01-28】[deepseek-ai / DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM) - DeepSeek LLM: Let there be answers
 * 【2025-01-27】[onlook\-dev / onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers  Design directly in your live React app and publish your changes to code 
@@ -718,6 +720,7 @@
 
 ## Java
 
+* 【2025-01-30】[infinispan / infinispan](https://github.com/infinispan/infinispan) - Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store 
 * 【2025-01-29】[wso2 / product\-is](https://github.com/wso2/product-is) - Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below 
 * 【2025-01-28】[chainbase-labs / manuscript-core](https://github.com/chainbase-labs/manuscript-core) - Manuscript is a revolutionary blockchain data streaming framework. With Manuscript, you can seamlessly integrate on-chain and off-chain data into target data storage for unrestricted querying and analysis
 * 【2025-01-28】[anonfaded / FadCam](https://github.com/anonfaded/FadCam) - Seamless background video recorder for Android – ad\-free and open\-source, with customizable options 
@@ -962,6 +965,7 @@
 
 ## Python
 
+* 【2025-01-30】[deepseek-ai / ESFT](https://github.com/deepseek-ai/ESFT) - Expert Specialized Fine-Tuning
 * 【2025-01-29】[deepseek-ai / Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
 * 【2025-01-29】[fylein / fyle\-interview\-intern\-backend](https://github.com/fylein/fyle-interview-intern-backend) - 
 * 【2025-01-28】[aigc-apps / EasyAnimate](https://github.com/aigc-apps/EasyAnimate) - 📺 An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion
@@ -1674,6 +1678,7 @@
 
 ## Javascript
 
+* 【2025-01-30】[DeepLifeStudio / DeepSeekAI](https://github.com/DeepLifeStudio/DeepSeekAI) - Browser extension for invoking the DeepSeek AI large model 
 * 【2025-01-28】[IQEngine / WebFFT](https://github.com/IQEngine/WebFFT) - The Fastest Fourier Transform on the Web!
 * 【2025-01-28】[bosichong / PrimarySchoolMathematics](https://github.com/bosichong/PrimarySchoolMathematics) - 孩子上小学一年级了，加减乘除的口算就要开始练习了，估计老师肯定会让家长出题，所以提前准备一下，利用Python开发了一套自动生成小学生口算题的小应用。而且今天是程序员节，撸200行代码庆祝一下。：）
 * 【2025-01-27】[i-am-shodan / USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
@@ -2056,6 +2061,8 @@
 
 ## Go
 
+* 【2025-01-30】[ekristen / aws\-nuke](https://github.com/ekristen/aws-nuke) - Remove all the resources from an AWS account
+* 【2025-01-30】[yusing / go-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration
 * 【2025-01-28】[nevalang / neva](https://github.com/nevalang/neva) - 🌊 Next\-generation programming language that solves programmers' problems
 * 【2025-01-28】[garethgeorge / backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup 
 * 【2025-01-27】[mk6i / retro-aim-server](https://github.com/mk6i/retro-aim-server) - Open-source instant messaging server that makes classic AIM and ICQ clients work again.
@@ -2608,6 +2615,8 @@
 
 ## C++
 
+* 【2025-01-30】[stephenberry / glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++
+* 【2025-01-30】[intel / openvino-plugins-ai-audacity](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI-enabled effects, generators, and analyzers for Audacity®.
 * 【2025-01-29】[tenstorrent / tt-metal](https://github.com/tenstorrent/tt-metal) - 🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.
 * 【2025-01-25】[cdozdil / OptiScaler](https://github.com/cdozdil/OptiScaler) - OptiScaler is middleware that enables various upscaling technologies in DLSS2\-only games  It allows non\-Nvidia users to use upscaling by applying DLSS2 inputs to XeSS, FSR2, or FSR3 
 * 【2025-01-23】[moudey / Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
@@ -3168,6 +3177,7 @@
 
 ## Html
 
+* 【2025-01-30】[IBM / data-prep-kit](https://github.com/IBM/data-prep-kit) - Open source project for data preparation of LLM application builders
 * 【2025-01-29】[nginx / documentation](https://github.com/nginx/documentation) - Public source for docs nginx com
 * 【2025-01-28】[valiantlynx / ollama-docker](https://github.com/valiantlynx/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
 * 【2025-01-28】[hanwenguo / hugo-theme-nostyleplease](https://github.com/hanwenguo/hugo-theme-nostyleplease) - a (nearly) no-CSS, fast, minimalist Hugo theme ported from riggraz/no-style-please.
@@ -3571,6 +3581,7 @@
 
 ## Unknown
 
+* 【2025-01-30】[may215 / awesome\-termux\-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
 * 【2025-01-27】[jlopp / physical-bitcoin-attacks](https://github.com/jlopp/physical-bitcoin-attacks) - A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace.
 * 【2025-01-26】[jlopp / physical\-bitcoin\-attacks](https://github.com/jlopp/physical-bitcoin-attacks) - A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace 
 * 【2025-01-24】[mercari / ml\-system\-design\-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
@@ -4120,6 +4131,11 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-01-30】[block / goose](https://github.com/block/goose) - an open\-source, extensible AI agent that goes beyond code suggestions \- install, execute, edit, and test with any LLM
+* 【2025-01-30】[Rust-GPU / Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
+* 【2025-01-30】[sampsyo / bril](https://github.com/sampsyo/bril) - an educational compiler intermediate representation
+* 【2025-01-30】[bionic-gpt / bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
+* 【2025-01-30】[hickory-dns / hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
 * 【2025-01-29】[noir\-lang / noir](https://github.com/noir-lang/noir) - Noir is a domain specific language for zero knowledge proofs
 * 【2025-01-27】[raydium\-io / raydium\-amm](https://github.com/raydium-io/raydium-amm) - Constant product AMM integrated with the OpenBook CLOB
 * 【2025-01-27】[davidlattimore / wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux
@@ -4708,6 +4724,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-30】[Abstract\-Foundation / examples](https://github.com/Abstract-Foundation/examples) - Cloneable starter templates & example repos to help kickstart your next project on Abstract 
 * 【2025-01-29】[podman-desktop / podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 * 【2025-01-29】[ruilisi / fortune\-sheet](https://github.com/ruilisi/fortune-sheet) - A drop\-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
 * 【2025-01-28】[Nutlope / blinkshot](https://github.com/Nutlope/blinkshot) - A realtime AI image generator
