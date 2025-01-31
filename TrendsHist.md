@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-01-31】[aws\-samples / amazon\-bedrock\-samples](https://github.com/aws-samples/amazon-bedrock-samples) - This repository contains examples for customers to get started using the Amazon Bedrock Service  This contains examples for all available foundational models
+* 【2025-01-31】[QwenLM / Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) - Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 * 【2025-01-30】[QwenLM / Qwen2 5\-VL](https://github.com/QwenLM/Qwen2.5-VL) - Qwen2 5\-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud 
 * 【2025-01-30】[deepseek\-ai / ESFT](https://github.com/deepseek-ai/ESFT) - Expert Specialized Fine\-Tuning
 * 【2025-01-29】[deepseek\-ai / Janus](https://github.com/deepseek-ai/Janus) - Janus\-Series: Unified Multimodal Understanding and Generation Models
@@ -720,6 +722,7 @@
 
 ## Java
 
+* 【2025-01-31】[aeron-io / aeron](https://github.com/aeron-io/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 * 【2025-01-30】[infinispan / infinispan](https://github.com/infinispan/infinispan) - Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store 
 * 【2025-01-29】[wso2 / product\-is](https://github.com/wso2/product-is) - Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below 
 * 【2025-01-28】[chainbase-labs / manuscript-core](https://github.com/chainbase-labs/manuscript-core) - Manuscript is a revolutionary blockchain data streaming framework. With Manuscript, you can seamlessly integrate on-chain and off-chain data into target data storage for unrestricted querying and analysis
@@ -965,6 +968,7 @@
 
 ## Python
 
+* 【2025-01-31】[aws\-samples / bedrock\-access\-gateway](https://github.com/aws-samples/bedrock-access-gateway) - OpenAI\-Compatible RESTful APIs for Amazon Bedrock
 * 【2025-01-30】[deepseek-ai / ESFT](https://github.com/deepseek-ai/ESFT) - Expert Specialized Fine-Tuning
 * 【2025-01-29】[deepseek-ai / Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
 * 【2025-01-29】[fylein / fyle\-interview\-intern\-backend](https://github.com/fylein/fyle-interview-intern-backend) - 
@@ -2061,6 +2065,8 @@
 
 ## Go
 
+* 【2025-01-31】[centrifugal / centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real\-time messaging server in a language\-agnostic way  Self\-hosted alternative to Pubnub, Pusher, Ably  Set up once and forever 
+* 【2025-01-31】[stonith404 / pocket-id](https://github.com/stonith404/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 * 【2025-01-30】[ekristen / aws\-nuke](https://github.com/ekristen/aws-nuke) - Remove all the resources from an AWS account
 * 【2025-01-30】[yusing / go-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration
 * 【2025-01-28】[nevalang / neva](https://github.com/nevalang/neva) - 🌊 Next\-generation programming language that solves programmers' problems
@@ -2336,6 +2342,7 @@
 
 ## C
 
+* 【2025-01-31】[pebble\-dev / RebbleOS](https://github.com/pebble-dev/RebbleOS) - open source operating system for low\-power smartwatches
 * 【2025-01-28】[TA-Lib / ta-lib](https://github.com/TA-Lib/ta-lib) - TA-Lib (Core C Library)
 * 【2025-01-27】[da\-luce / astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required  ✨🪐
 * 【2025-01-26】[RealNeGate / Cuik](https://github.com/RealNeGate/Cuik) - A Modern C11 compiler (STILL EARLY)
@@ -2615,6 +2622,7 @@
 
 ## C++
 
+* 【2025-01-31】[ClassicOldSong / Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork \- The easiest way to stream with the native resolution of your client device
 * 【2025-01-30】[stephenberry / glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++
 * 【2025-01-30】[intel / openvino-plugins-ai-audacity](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI-enabled effects, generators, and analyzers for Audacity®.
 * 【2025-01-29】[tenstorrent / tt-metal](https://github.com/tenstorrent/tt-metal) - 🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.
@@ -4131,6 +4139,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-01-31】[rust\-random / rand](https://github.com/rust-random/rand) - A Rust library for random number generation 
 * 【2025-01-30】[block / goose](https://github.com/block/goose) - an open\-source, extensible AI agent that goes beyond code suggestions \- install, execute, edit, and test with any LLM
 * 【2025-01-30】[Rust-GPU / Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 * 【2025-01-30】[sampsyo / bril](https://github.com/sampsyo/bril) - an educational compiler intermediate representation
@@ -4724,6 +4733,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-01-31】[thirdweb-dev / js](https://github.com/thirdweb-dev/js) - Best in class web3 SDKs for Browser, Node and Mobile apps
 * 【2025-01-30】[Abstract\-Foundation / examples](https://github.com/Abstract-Foundation/examples) - Cloneable starter templates & example repos to help kickstart your next project on Abstract 
 * 【2025-01-29】[podman-desktop / podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 * 【2025-01-29】[ruilisi / fortune\-sheet](https://github.com/ruilisi/fortune-sheet) - A drop\-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
