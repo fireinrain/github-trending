@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-02-01】[jef / streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
+* 【2025-02-01】[google / meridian](https://github.com/google/meridian) - Meridian is an MMM framework that enables advertisers to set up and run their own in\-house models 
 * 【2025-01-31】[aws\-samples / amazon\-bedrock\-samples](https://github.com/aws-samples/amazon-bedrock-samples) - This repository contains examples for customers to get started using the Amazon Bedrock Service  This contains examples for all available foundational models
 * 【2025-01-31】[QwenLM / Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) - Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 * 【2025-01-30】[QwenLM / Qwen2 5\-VL](https://github.com/QwenLM/Qwen2.5-VL) - Qwen2 5\-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud 
@@ -968,6 +970,8 @@
 
 ## Python
 
+* 【2025-02-01】[QwenLM / Qwen2 5\-Math](https://github.com/QwenLM/Qwen2.5-Math) - A series of math\-specific large language models of our Qwen2 series 
+* 【2025-02-01】[volcengine / verl](https://github.com/volcengine/verl) - veRL: Volcano Engine Reinforcement Learning for LLM
 * 【2025-01-31】[aws\-samples / bedrock\-access\-gateway](https://github.com/aws-samples/bedrock-access-gateway) - OpenAI\-Compatible RESTful APIs for Amazon Bedrock
 * 【2025-01-30】[deepseek-ai / ESFT](https://github.com/deepseek-ai/ESFT) - Expert Specialized Fine-Tuning
 * 【2025-01-29】[deepseek-ai / Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
@@ -2342,6 +2346,7 @@
 
 ## C
 
+* 【2025-02-01】[skot / ESP-Miner](https://github.com/skot/ESP-Miner) - A bitcoin ASIC miner for the ESP32
 * 【2025-01-31】[pebble\-dev / RebbleOS](https://github.com/pebble-dev/RebbleOS) - open source operating system for low\-power smartwatches
 * 【2025-01-28】[TA-Lib / ta-lib](https://github.com/TA-Lib/ta-lib) - TA-Lib (Core C Library)
 * 【2025-01-27】[da\-luce / astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required  ✨🪐
@@ -3185,6 +3190,8 @@
 
 ## Html
 
+* 【2025-02-01】[jflaherty / ptrtut13](https://github.com/jflaherty/ptrtut13) - A TUTORIAL ON POINTERS AND ARRAYS IN C
+* 【2025-02-01】[xmldom / xmldom](https://github.com/xmldom/xmldom) - A pure JavaScript W3C standard\-based (XML DOM Level 2 Core)  DOMParser  and  XMLSerializer  module 
 * 【2025-01-30】[IBM / data-prep-kit](https://github.com/IBM/data-prep-kit) - Open source project for data preparation of LLM application builders
 * 【2025-01-29】[nginx / documentation](https://github.com/nginx/documentation) - Public source for docs nginx com
 * 【2025-01-28】[valiantlynx / ollama-docker](https://github.com/valiantlynx/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
@@ -4139,6 +4146,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-02-01】[noir-lang / noir](https://github.com/noir-lang/noir) - Noir is a domain specific language for zero knowledge proofs
 * 【2025-01-31】[rust\-random / rand](https://github.com/rust-random/rand) - A Rust library for random number generation 
 * 【2025-01-30】[block / goose](https://github.com/block/goose) - an open\-source, extensible AI agent that goes beyond code suggestions \- install, execute, edit, and test with any LLM
 * 【2025-01-30】[Rust-GPU / Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
@@ -4733,6 +4741,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-01】[fuma\-nama / fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next js 
 * 【2025-01-31】[thirdweb-dev / js](https://github.com/thirdweb-dev/js) - Best in class web3 SDKs for Browser, Node and Mobile apps
 * 【2025-01-30】[Abstract\-Foundation / examples](https://github.com/Abstract-Foundation/examples) - Cloneable starter templates & example repos to help kickstart your next project on Abstract 
 * 【2025-01-29】[podman-desktop / podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
