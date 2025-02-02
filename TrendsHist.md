@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-02-02】[oumi\-ai / oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state\-of\-the\-art foundation models, end\-to\-end 
+* 【2025-02-02】[containers / ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring 
 * 【2025-02-01】[jef / streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
 * 【2025-02-01】[google / meridian](https://github.com/google/meridian) - Meridian is an MMM framework that enables advertisers to set up and run their own in\-house models 
 * 【2025-01-31】[aws\-samples / amazon\-bedrock\-samples](https://github.com/aws-samples/amazon-bedrock-samples) - This repository contains examples for customers to get started using the Amazon Bedrock Service  This contains examples for all available foundational models
@@ -970,6 +972,7 @@
 
 ## Python
 
+* 【2025-02-02】[oumi-ai / oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state-of-the-art foundation models, end-to-end.
 * 【2025-02-01】[QwenLM / Qwen2 5\-Math](https://github.com/QwenLM/Qwen2.5-Math) - A series of math\-specific large language models of our Qwen2 series 
 * 【2025-02-01】[volcengine / verl](https://github.com/volcengine/verl) - veRL: Volcano Engine Reinforcement Learning for LLM
 * 【2025-01-31】[aws\-samples / bedrock\-access\-gateway](https://github.com/aws-samples/bedrock-access-gateway) - OpenAI\-Compatible RESTful APIs for Amazon Bedrock
@@ -1686,6 +1689,7 @@
 
 ## Javascript
 
+* 【2025-02-02】[shipshapecode / shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 * 【2025-01-30】[DeepLifeStudio / DeepSeekAI](https://github.com/DeepLifeStudio/DeepSeekAI) - Browser extension for invoking the DeepSeek AI large model 
 * 【2025-01-28】[IQEngine / WebFFT](https://github.com/IQEngine/WebFFT) - The Fastest Fourier Transform on the Web!
 * 【2025-01-28】[bosichong / PrimarySchoolMathematics](https://github.com/bosichong/PrimarySchoolMathematics) - 孩子上小学一年级了，加减乘除的口算就要开始练习了，估计老师肯定会让家长出题，所以提前准备一下，利用Python开发了一套自动生成小学生口算题的小应用。而且今天是程序员节，撸200行代码庆祝一下。：）
@@ -2627,6 +2631,7 @@
 
 ## C++
 
+* 【2025-02-02】[KhronosGroup / Vulkan\-ValidationLayers](https://github.com/KhronosGroup/Vulkan-ValidationLayers) - Vulkan Validation Layers (VVL)
 * 【2025-01-31】[ClassicOldSong / Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork \- The easiest way to stream with the native resolution of your client device
 * 【2025-01-30】[stephenberry / glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++
 * 【2025-01-30】[intel / openvino-plugins-ai-audacity](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI-enabled effects, generators, and analyzers for Audacity®.
@@ -3190,6 +3195,7 @@
 
 ## Html
 
+* 【2025-02-02】[uswds / uswds\-site](https://github.com/uswds/uswds-site) - USWDS website and documentation
 * 【2025-02-01】[jflaherty / ptrtut13](https://github.com/jflaherty/ptrtut13) - A TUTORIAL ON POINTERS AND ARRAYS IN C
 * 【2025-02-01】[xmldom / xmldom](https://github.com/xmldom/xmldom) - A pure JavaScript W3C standard\-based (XML DOM Level 2 Core)  DOMParser  and  XMLSerializer  module 
 * 【2025-01-30】[IBM / data-prep-kit](https://github.com/IBM/data-prep-kit) - Open source project for data preparation of LLM application builders
@@ -4146,6 +4152,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-02-02】[rust-random / rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 * 【2025-02-01】[noir-lang / noir](https://github.com/noir-lang/noir) - Noir is a domain specific language for zero knowledge proofs
 * 【2025-01-31】[rust\-random / rand](https://github.com/rust-random/rand) - A Rust library for random number generation 
 * 【2025-01-30】[block / goose](https://github.com/block/goose) - an open\-source, extensible AI agent that goes beyond code suggestions \- install, execute, edit, and test with any LLM
@@ -4741,6 +4748,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-02】[upstash / jstack](https://github.com/upstash/jstack) - Build seriously fast, lightweight and end\-to\-end typesafe Next js apps
+* 【2025-02-02】[wxt-dev / wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
+* 【2025-02-02】[jordan\-dalby / ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node js
 * 【2025-02-01】[fuma\-nama / fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next js 
 * 【2025-01-31】[thirdweb-dev / js](https://github.com/thirdweb-dev/js) - Best in class web3 SDKs for Browser, Node and Mobile apps
 * 【2025-01-30】[Abstract\-Foundation / examples](https://github.com/Abstract-Foundation/examples) - Cloneable starter templates & example repos to help kickstart your next project on Abstract 
