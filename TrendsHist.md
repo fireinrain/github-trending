@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-02-03】[solidtime\-io / solidtime](https://github.com/solidtime-io/solidtime) - Modern open\-source time\-tracking app
+* 【2025-02-03】[coinbase / agentkit](https://github.com/coinbase/agentkit) - 
+* 【2025-02-03】[HITsz\-TMG / FilmAgent](https://github.com/HITsz-TMG/FilmAgent) - Resources of our paper "FilmAgent: A Multi\-Agent Framework for End\-to\-End Film Automation in Virtual 3D Spaces"  New versions in the making!
 * 【2025-02-02】[oumi\-ai / oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state\-of\-the\-art foundation models, end\-to\-end 
 * 【2025-02-02】[containers / ramalama](https://github.com/containers/ramalama) - The goal of RamaLama is to make working with AI boring 
 * 【2025-02-01】[jef / streetmerchant](https://github.com/jef/streetmerchant) - 🤖 The world's easiest, most powerful stock checker
@@ -972,6 +975,8 @@
 
 ## Python
 
+* 【2025-02-03】[HITsz-TMG / FilmAgent](https://github.com/HITsz-TMG/FilmAgent) - Resources of our paper "FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces". New versions in the making!
+* 【2025-02-03】[lllyasviel / Paints\-UNDO](https://github.com/lllyasviel/Paints-UNDO) - Understand Human Behavior to Align True Needs
 * 【2025-02-02】[oumi-ai / oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state-of-the-art foundation models, end-to-end.
 * 【2025-02-01】[QwenLM / Qwen2 5\-Math](https://github.com/QwenLM/Qwen2.5-Math) - A series of math\-specific large language models of our Qwen2 series 
 * 【2025-02-01】[volcengine / verl](https://github.com/volcengine/verl) - veRL: Volcano Engine Reinforcement Learning for LLM
@@ -4152,6 +4157,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-02-03】[raydium-io / raydium-amm](https://github.com/raydium-io/raydium-amm) - Constant product AMM integrated with the OpenBook CLOB
 * 【2025-02-02】[rust-random / rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 * 【2025-02-01】[noir-lang / noir](https://github.com/noir-lang/noir) - Noir is a domain specific language for zero knowledge proofs
 * 【2025-01-31】[rust\-random / rand](https://github.com/rust-random/rand) - A Rust library for random number generation 
@@ -4748,6 +4754,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-03】[ChatGPTNextWeb / NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant  Support: Web \| iOS \| MacOS \| Android \| Linux \| Windows
+* 【2025-02-03】[lmstudio\-ai / lmstudio js](https://github.com/lmstudio-ai/lmstudio.js) - 👾 LM Studio TypeScript SDK (pre\-release public alpha)
 * 【2025-02-02】[upstash / jstack](https://github.com/upstash/jstack) - Build seriously fast, lightweight and end\-to\-end typesafe Next js apps
 * 【2025-02-02】[wxt-dev / wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 * 【2025-02-02】[jordan\-dalby / ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node js
