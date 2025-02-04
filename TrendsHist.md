@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-02-04】[TencentCloud / tencentcloud\-sdk\-nodejs](https://github.com/TencentCloud/tencentcloud-sdk-nodejs) - Tencent Cloud API 3 0 SDK for NodeJS
 * 【2025-02-03】[solidtime\-io / solidtime](https://github.com/solidtime-io/solidtime) - Modern open\-source time\-tracking app
 * 【2025-02-03】[coinbase / agentkit](https://github.com/coinbase/agentkit) - 
 * 【2025-02-03】[HITsz\-TMG / FilmAgent](https://github.com/HITsz-TMG/FilmAgent) - Resources of our paper "FilmAgent: A Multi\-Agent Framework for End\-to\-End Film Automation in Virtual 3D Spaces"  New versions in the making!
@@ -975,6 +976,8 @@
 
 ## Python
 
+* 【2025-02-04】[agno\-agi / agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi\-modal Agents
+* 【2025-02-04】[Blaizzy / mlx\-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX\-VLM is a package for inference and fine\-tuning of Vision Language Models (VLMs) on your Mac using MLX 
 * 【2025-02-03】[HITsz-TMG / FilmAgent](https://github.com/HITsz-TMG/FilmAgent) - Resources of our paper "FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces". New versions in the making!
 * 【2025-02-03】[lllyasviel / Paints\-UNDO](https://github.com/lllyasviel/Paints-UNDO) - Understand Human Behavior to Align True Needs
 * 【2025-02-02】[oumi-ai / oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state-of-the-art foundation models, end-to-end.
@@ -2078,6 +2081,7 @@
 
 ## Go
 
+* 【2025-02-04】[starfederation / datastar](https://github.com/starfederation/datastar) - The hypermedia framework 
 * 【2025-01-31】[centrifugal / centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real\-time messaging server in a language\-agnostic way  Self\-hosted alternative to Pubnub, Pusher, Ably  Set up once and forever 
 * 【2025-01-31】[stonith404 / pocket-id](https://github.com/stonith404/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 * 【2025-01-30】[ekristen / aws\-nuke](https://github.com/ekristen/aws-nuke) - Remove all the resources from an AWS account
@@ -2355,6 +2359,7 @@
 
 ## C
 
+* 【2025-02-04】[da-luce / astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 * 【2025-02-01】[skot / ESP-Miner](https://github.com/skot/ESP-Miner) - A bitcoin ASIC miner for the ESP32
 * 【2025-01-31】[pebble\-dev / RebbleOS](https://github.com/pebble-dev/RebbleOS) - open source operating system for low\-power smartwatches
 * 【2025-01-28】[TA-Lib / ta-lib](https://github.com/TA-Lib/ta-lib) - TA-Lib (Core C Library)
@@ -2900,6 +2905,8 @@
 
 ## C#
 
+* 【2025-02-04】[timschneeb / GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
+* 【2025-02-04】[InvisibleManVPN / InvisibleMan\-XRayClient](https://github.com/InvisibleManVPN/InvisibleMan-XRayClient) - A client for xray core
 * 【2025-01-29】[ElectronNET / Electron.NET](https://github.com/ElectronNET/Electron.NET) - Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
 * 【2025-01-28】[Sidekick\-Poe / Sidekick](https://github.com/Sidekick-Poe/Sidekick) - The main repository for the Sidekick project, a companion trade tool for Path of Exile and Path of Exile 2 
 * 【2025-01-26】[ivanpaulovich / clean\-architecture\-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - 🌀 Clean Architecture with  NET6, C\#10 and React+Redux  Use cases as central organizing structure, completely testable, decoupled from frameworks
@@ -4754,6 +4761,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-04】[TencentCloud / tencentcloud-sdk-nodejs](https://github.com/TencentCloud/tencentcloud-sdk-nodejs) - Tencent Cloud API 3.0 SDK for NodeJS
+* 【2025-02-04】[transformerlab / transformerlab\-app](https://github.com/transformerlab/transformerlab-app) - Open Source Application for Advanced LLM Engineering: interact, train, fine\-tune, and evaluate large language models on your own computer 
 * 【2025-02-03】[ChatGPTNextWeb / NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant  Support: Web \| iOS \| MacOS \| Android \| Linux \| Windows
 * 【2025-02-03】[lmstudio\-ai / lmstudio js](https://github.com/lmstudio-ai/lmstudio.js) - 👾 LM Studio TypeScript SDK (pre\-release public alpha)
 * 【2025-02-02】[upstash / jstack](https://github.com/upstash/jstack) - Build seriously fast, lightweight and end\-to\-end typesafe Next js apps
