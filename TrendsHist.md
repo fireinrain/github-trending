@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-02-05】[solidtime-io / solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
+* 【2025-02-05】[folke / snacks nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 * 【2025-02-04】[TencentCloud / tencentcloud\-sdk\-nodejs](https://github.com/TencentCloud/tencentcloud-sdk-nodejs) - Tencent Cloud API 3 0 SDK for NodeJS
 * 【2025-02-03】[solidtime\-io / solidtime](https://github.com/solidtime-io/solidtime) - Modern open\-source time\-tracking app
 * 【2025-02-03】[coinbase / agentkit](https://github.com/coinbase/agentkit) - 
@@ -976,6 +978,8 @@
 
 ## Python
 
+* 【2025-02-05】[agno-agi / agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
+* 【2025-02-05】[tcgoetz / GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks 
 * 【2025-02-04】[agno\-agi / agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi\-modal Agents
 * 【2025-02-04】[Blaizzy / mlx\-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX\-VLM is a package for inference and fine\-tuning of Vision Language Models (VLMs) on your Mac using MLX 
 * 【2025-02-03】[HITsz-TMG / FilmAgent](https://github.com/HITsz-TMG/FilmAgent) - Resources of our paper "FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces". New versions in the making!
@@ -1697,6 +1701,7 @@
 
 ## Javascript
 
+* 【2025-02-05】[Lumon\-Industries / Macrodata\-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement
 * 【2025-02-02】[shipshapecode / shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 * 【2025-01-30】[DeepLifeStudio / DeepSeekAI](https://github.com/DeepLifeStudio/DeepSeekAI) - Browser extension for invoking the DeepSeek AI large model 
 * 【2025-01-28】[IQEngine / WebFFT](https://github.com/IQEngine/WebFFT) - The Fastest Fourier Transform on the Web!
@@ -2359,6 +2364,7 @@
 
 ## C
 
+* 【2025-02-05】[StuckAtPrototype / Racer](https://github.com/StuckAtPrototype/Racer) - 
 * 【2025-02-04】[da-luce / astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 * 【2025-02-01】[skot / ESP-Miner](https://github.com/skot/ESP-Miner) - A bitcoin ASIC miner for the ESP32
 * 【2025-01-31】[pebble\-dev / RebbleOS](https://github.com/pebble-dev/RebbleOS) - open source operating system for low\-power smartwatches
@@ -2641,6 +2647,8 @@
 
 ## C++
 
+* 【2025-02-05】[mkckr0 / audio\-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer  (You needn't buy a new speaker😄 )
+* 【2025-02-05】[steveicarus / iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog
 * 【2025-02-02】[KhronosGroup / Vulkan\-ValidationLayers](https://github.com/KhronosGroup/Vulkan-ValidationLayers) - Vulkan Validation Layers (VVL)
 * 【2025-01-31】[ClassicOldSong / Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork \- The easiest way to stream with the native resolution of your client device
 * 【2025-01-30】[stephenberry / glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++
@@ -2905,6 +2913,7 @@
 
 ## C#
 
+* 【2025-02-05】[dnnsoftware / Dnn.Platform](https://github.com/dnnsoftware/Dnn.Platform) - DNN (formerly DotNetNuke) is the leading open source web content management platform (CMS) in the Microsoft ecosystem.
 * 【2025-02-04】[timschneeb / GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
 * 【2025-02-04】[InvisibleManVPN / InvisibleMan\-XRayClient](https://github.com/InvisibleManVPN/InvisibleMan-XRayClient) - A client for xray core
 * 【2025-01-29】[ElectronNET / Electron.NET](https://github.com/ElectronNET/Electron.NET) - Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
@@ -4761,6 +4770,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-05】[mnfst / manifest](https://github.com/mnfst/manifest) - The 1\-file micro\-backend  ⭐ to support the project !
+* 【2025-02-05】[transformerlab / transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Application for Advanced LLM Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
+* 【2025-02-05】[2004Scape / Server](https://github.com/2004Scape/Server) - RuneScape 2 emulation (remake)
 * 【2025-02-04】[TencentCloud / tencentcloud-sdk-nodejs](https://github.com/TencentCloud/tencentcloud-sdk-nodejs) - Tencent Cloud API 3.0 SDK for NodeJS
 * 【2025-02-04】[transformerlab / transformerlab\-app](https://github.com/transformerlab/transformerlab-app) - Open Source Application for Advanced LLM Engineering: interact, train, fine\-tune, and evaluate large language models on your own computer 
 * 【2025-02-03】[ChatGPTNextWeb / NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant  Support: Web \| iOS \| MacOS \| Android \| Linux \| Windows
