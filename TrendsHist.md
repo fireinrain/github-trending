@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-02-06】[monasticacademy / httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
+* 【2025-02-06】[elastic / integrations](https://github.com/elastic/integrations) - 
 * 【2025-02-05】[solidtime-io / solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 * 【2025-02-05】[folke / snacks nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 * 【2025-02-04】[TencentCloud / tencentcloud\-sdk\-nodejs](https://github.com/TencentCloud/tencentcloud-sdk-nodejs) - Tencent Cloud API 3 0 SDK for NodeJS
@@ -978,6 +980,7 @@
 
 ## Python
 
+* 【2025-02-06】[real\-stanford / diffusion_policy](https://github.com/real-stanford/diffusion_policy) - [RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion
 * 【2025-02-05】[agno-agi / agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
 * 【2025-02-05】[tcgoetz / GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks 
 * 【2025-02-04】[agno\-agi / agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi\-modal Agents
@@ -2364,6 +2367,7 @@
 
 ## C
 
+* 【2025-02-06】[CodeWithHarry / The-Ultimate-C-Programming-Course](https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course) - This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry
 * 【2025-02-05】[StuckAtPrototype / Racer](https://github.com/StuckAtPrototype/Racer) - 
 * 【2025-02-04】[da-luce / astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 * 【2025-02-01】[skot / ESP-Miner](https://github.com/skot/ESP-Miner) - A bitcoin ASIC miner for the ESP32
@@ -4770,6 +4774,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-06】[useplunk / plunk](https://github.com/useplunk/plunk) - The Open\-Source Email Platform
 * 【2025-02-05】[mnfst / manifest](https://github.com/mnfst/manifest) - The 1\-file micro\-backend  ⭐ to support the project !
 * 【2025-02-05】[transformerlab / transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Application for Advanced LLM Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
 * 【2025-02-05】[2004Scape / Server](https://github.com/2004Scape/Server) - RuneScape 2 emulation (remake)
