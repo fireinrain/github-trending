@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-02-07】[Physical\-Intelligence / openpi](https://github.com/Physical-Intelligence/openpi) - 
 * 【2025-02-06】[monasticacademy / httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 * 【2025-02-06】[elastic / integrations](https://github.com/elastic/integrations) - 
 * 【2025-02-05】[solidtime-io / solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
@@ -980,6 +981,8 @@
 
 ## Python
 
+* 【2025-02-07】[Physical-Intelligence / openpi](https://github.com/Physical-Intelligence/openpi) - 
+* 【2025-02-07】[modelscope / ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to finetune 450+ LLMs (Qwen2.5, InternLM3, GLM4, Llama3.3, Mistral, Yi1.5, Baichuan2, DeepSeek-R1, ...) and 150+ MLLMs (Qwen2.5-VL, Qwen2-Audio, Llama3.2-Vision, Llava, InternVL2.5, MiniCPM-V-2.6, GLM4v, Xcomposer2.5, Yi-VL, DeepSeek-VL2, Phi3.5-Vision, GOT-OCR2, ...).
 * 【2025-02-06】[real\-stanford / diffusion_policy](https://github.com/real-stanford/diffusion_policy) - [RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion
 * 【2025-02-05】[agno-agi / agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
 * 【2025-02-05】[tcgoetz / GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks 
@@ -2367,6 +2370,7 @@
 
 ## C
 
+* 【2025-02-07】[mstorsjo / llvm\-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw\-w64 toolchain
 * 【2025-02-06】[CodeWithHarry / The-Ultimate-C-Programming-Course](https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course) - This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry
 * 【2025-02-05】[StuckAtPrototype / Racer](https://github.com/StuckAtPrototype/Racer) - 
 * 【2025-02-04】[da-luce / astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
@@ -3220,6 +3224,8 @@
 
 ## Html
 
+* 【2025-02-07】[7h30th3r0n3 / Evil\-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) - Evil\-M5Project is an innovative tool developed for ethical testing and exploration of WiFi networks  It's compatible with Cardputer, Atoms3, Fire, core2  You can scan, monitor, and interact with WiFi networks in a controlled environment  This project is designed for educational purposes, aiding in understanding network security and vulnerabilities 
+* 【2025-02-07】[xlang-ai / Spider2](https://github.com/xlang-ai/Spider2) - [ICLR 2025] Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows
 * 【2025-02-02】[uswds / uswds\-site](https://github.com/uswds/uswds-site) - USWDS website and documentation
 * 【2025-02-01】[jflaherty / ptrtut13](https://github.com/jflaherty/ptrtut13) - A TUTORIAL ON POINTERS AND ARRAYS IN C
 * 【2025-02-01】[xmldom / xmldom](https://github.com/xmldom/xmldom) - A pure JavaScript W3C standard\-based (XML DOM Level 2 Core)  DOMParser  and  XMLSerializer  module 
@@ -3627,6 +3633,7 @@
 
 ## Unknown
 
+* 【2025-02-07】[koobzaar / lol\-skins](https://github.com/koobzaar/lol-skins) - [⭐] A community\-maintained repository featuring all 7,669 official League of Legends skins and chromas models as custom skins 
 * 【2025-01-30】[may215 / awesome\-termux\-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
 * 【2025-01-27】[jlopp / physical-bitcoin-attacks](https://github.com/jlopp/physical-bitcoin-attacks) - A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace.
 * 【2025-01-26】[jlopp / physical\-bitcoin\-attacks](https://github.com/jlopp/physical-bitcoin-attacks) - A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace 
