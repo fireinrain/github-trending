@@ -981,6 +981,7 @@
 
 ## Python
 
+* 【2025-02-08】[roboflow / maestro](https://github.com/roboflow/maestro) - streamline the fine\-tuning process for multimodal models: PaliGemma, Florence\-2, and Qwen2\-VL
 * 【2025-02-07】[Physical-Intelligence / openpi](https://github.com/Physical-Intelligence/openpi) - 
 * 【2025-02-07】[modelscope / ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to finetune 450+ LLMs (Qwen2.5, InternLM3, GLM4, Llama3.3, Mistral, Yi1.5, Baichuan2, DeepSeek-R1, ...) and 150+ MLLMs (Qwen2.5-VL, Qwen2-Audio, Llama3.2-Vision, Llava, InternVL2.5, MiniCPM-V-2.6, GLM4v, Xcomposer2.5, Yi-VL, DeepSeek-VL2, Phi3.5-Vision, GOT-OCR2, ...).
 * 【2025-02-06】[real\-stanford / diffusion_policy](https://github.com/real-stanford/diffusion_policy) - [RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion
@@ -2655,6 +2656,7 @@
 
 ## C++
 
+* 【2025-02-08】[dwhinham / mt32\-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT\-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth 
 * 【2025-02-05】[mkckr0 / audio\-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer  (You needn't buy a new speaker😄 )
 * 【2025-02-05】[steveicarus / iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog
 * 【2025-02-02】[KhronosGroup / Vulkan\-ValidationLayers](https://github.com/KhronosGroup/Vulkan-ValidationLayers) - Vulkan Validation Layers (VVL)
@@ -2921,6 +2923,7 @@
 
 ## C#
 
+* 【2025-02-08】[dotnet / yarp](https://github.com/dotnet/yarp) - A toolkit for developing high\-performance HTTP reverse proxy applications 
 * 【2025-02-05】[dnnsoftware / Dnn.Platform](https://github.com/dnnsoftware/Dnn.Platform) - DNN (formerly DotNetNuke) is the leading open source web content management platform (CMS) in the Microsoft ecosystem.
 * 【2025-02-04】[timschneeb / GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
 * 【2025-02-04】[InvisibleManVPN / InvisibleMan\-XRayClient](https://github.com/InvisibleManVPN/InvisibleMan-XRayClient) - A client for xray core
@@ -3224,6 +3227,7 @@
 
 ## Html
 
+* 【2025-02-08】[7h30th3r0n3 / Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) - Evil-M5Project is an innovative tool developed for ethical testing and exploration of WiFi networks. It's compatible with Cardputer, Atoms3, Fire, core2. You can scan, monitor, and interact with WiFi networks in a controlled environment. This project is designed for educational purposes, aiding in understanding network security and vulnerabilities.
 * 【2025-02-07】[7h30th3r0n3 / Evil\-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) - Evil\-M5Project is an innovative tool developed for ethical testing and exploration of WiFi networks  It's compatible with Cardputer, Atoms3, Fire, core2  You can scan, monitor, and interact with WiFi networks in a controlled environment  This project is designed for educational purposes, aiding in understanding network security and vulnerabilities 
 * 【2025-02-07】[xlang-ai / Spider2](https://github.com/xlang-ai/Spider2) - [ICLR 2025] Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows
 * 【2025-02-02】[uswds / uswds\-site](https://github.com/uswds/uswds-site) - USWDS website and documentation
@@ -4184,6 +4188,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-02-08】[agersant / polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device 
+* 【2025-02-08】[lumina\-ai\-inc / chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision model based document ingestion
 * 【2025-02-03】[raydium-io / raydium-amm](https://github.com/raydium-io/raydium-amm) - Constant product AMM integrated with the OpenBook CLOB
 * 【2025-02-02】[rust-random / rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 * 【2025-02-01】[noir-lang / noir](https://github.com/noir-lang/noir) - Noir is a domain specific language for zero knowledge proofs
@@ -4781,6 +4787,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-08】[ant-design / ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
+* 【2025-02-08】[refly\-ai / refly](https://github.com/refly-ai/refly) - Refly is an open\-source AI\-native creation engine  Its intuitive free\-form canvas interface combines multi\-threaded dialogues, AI knowledge base integration, chrome extension clip & save, contextual memory, intelligent search, WYSIWYG AI editor and more, empowering you to effortlessly transform ideas into production\-ready content 
+* 【2025-02-08】[aws\-samples / well\-architected\-iac\-analyzer](https://github.com/aws-samples/well-architected-iac-analyzer) - 
 * 【2025-02-06】[useplunk / plunk](https://github.com/useplunk/plunk) - The Open\-Source Email Platform
 * 【2025-02-05】[mnfst / manifest](https://github.com/mnfst/manifest) - The 1\-file micro\-backend  ⭐ to support the project !
 * 【2025-02-05】[transformerlab / transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Application for Advanced LLM Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
