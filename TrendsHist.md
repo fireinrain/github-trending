@@ -2093,6 +2093,8 @@
 
 ## Go
 
+* 【2025-02-09】[fastenhealth / fasten\-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open\-source, self\-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
+* 【2025-02-09】[dlvhdr / gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 * 【2025-02-04】[starfederation / datastar](https://github.com/starfederation/datastar) - The hypermedia framework 
 * 【2025-01-31】[centrifugal / centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real\-time messaging server in a language\-agnostic way  Self\-hosted alternative to Pubnub, Pusher, Ably  Set up once and forever 
 * 【2025-01-31】[stonith404 / pocket-id](https://github.com/stonith404/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
@@ -2371,6 +2373,7 @@
 
 ## C
 
+* 【2025-02-09】[eclipse\-paho / paho mqtt c](https://github.com/eclipse-paho/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS  API documentation: https://eclipse\-paho github io/paho mqtt c/
 * 【2025-02-07】[mstorsjo / llvm\-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw\-w64 toolchain
 * 【2025-02-06】[CodeWithHarry / The-Ultimate-C-Programming-Course](https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course) - This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry
 * 【2025-02-05】[StuckAtPrototype / Racer](https://github.com/StuckAtPrototype/Racer) - 
@@ -2656,6 +2659,7 @@
 
 ## C++
 
+* 【2025-02-09】[mlc\-ai / xgrammar](https://github.com/mlc-ai/xgrammar) - Efficient, Flexible and Portable Structured Generation
 * 【2025-02-08】[dwhinham / mt32\-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT\-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth 
 * 【2025-02-05】[mkckr0 / audio\-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer  (You needn't buy a new speaker😄 )
 * 【2025-02-05】[steveicarus / iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog
@@ -3227,6 +3231,7 @@
 
 ## Html
 
+* 【2025-02-09】[n8n\-io / n8n\-docs](https://github.com/n8n-io/n8n-docs) - Documentation for n8n, a fair\-code licensed automation tool with a free community edition and powerful enterprise options  Build AI functionality into your workflows 
 * 【2025-02-08】[7h30th3r0n3 / Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) - Evil-M5Project is an innovative tool developed for ethical testing and exploration of WiFi networks. It's compatible with Cardputer, Atoms3, Fire, core2. You can scan, monitor, and interact with WiFi networks in a controlled environment. This project is designed for educational purposes, aiding in understanding network security and vulnerabilities.
 * 【2025-02-07】[7h30th3r0n3 / Evil\-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) - Evil\-M5Project is an innovative tool developed for ethical testing and exploration of WiFi networks  It's compatible with Cardputer, Atoms3, Fire, core2  You can scan, monitor, and interact with WiFi networks in a controlled environment  This project is designed for educational purposes, aiding in understanding network security and vulnerabilities 
 * 【2025-02-07】[xlang-ai / Spider2](https://github.com/xlang-ai/Spider2) - [ICLR 2025] Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows
@@ -4188,6 +4193,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-02-09】[lumina-ai-inc / chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision model based document ingestion
 * 【2025-02-08】[agersant / polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device 
 * 【2025-02-08】[lumina\-ai\-inc / chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision model based document ingestion
 * 【2025-02-03】[raydium-io / raydium-amm](https://github.com/raydium-io/raydium-amm) - Constant product AMM integrated with the OpenBook CLOB
