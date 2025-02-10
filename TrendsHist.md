@@ -981,6 +981,9 @@
 
 ## Python
 
+* 【2025-02-10】[potpie\-ai / potpie](https://github.com/potpie-ai/potpie) - Prompt\-To\-Agent : Create custom engineering agents for your codebase
+* 【2025-02-10】[pydantic / pydantic\-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs
+* 【2025-02-10】[iscyy / ultralyticsPro](https://github.com/iscyy/ultralyticsPro) - 🔥🔥🔥 专注于YOLO11，YOLOv8、YOLOv10、RT\-DETR、YOLOv7、YOLOv5改进模型，Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀
 * 【2025-02-08】[roboflow / maestro](https://github.com/roboflow/maestro) - streamline the fine\-tuning process for multimodal models: PaliGemma, Florence\-2, and Qwen2\-VL
 * 【2025-02-07】[Physical-Intelligence / openpi](https://github.com/Physical-Intelligence/openpi) - 
 * 【2025-02-07】[modelscope / ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to finetune 450+ LLMs (Qwen2.5, InternLM3, GLM4, Llama3.3, Mistral, Yi1.5, Baichuan2, DeepSeek-R1, ...) and 150+ MLLMs (Qwen2.5-VL, Qwen2-Audio, Llama3.2-Vision, Llava, InternVL2.5, MiniCPM-V-2.6, GLM4v, Xcomposer2.5, Yi-VL, DeepSeek-VL2, Phi3.5-Vision, GOT-OCR2, ...).
@@ -2093,6 +2096,8 @@
 
 ## Go
 
+* 【2025-02-10】[mayswind / ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight personal bookkeeping app hosted by yourself 
+* 【2025-02-10】[fastenhealth / fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
 * 【2025-02-09】[fastenhealth / fasten\-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open\-source, self\-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
 * 【2025-02-09】[dlvhdr / gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 * 【2025-02-04】[starfederation / datastar](https://github.com/starfederation/datastar) - The hypermedia framework 
@@ -2927,6 +2932,7 @@
 
 ## C#
 
+* 【2025-02-10】[SergeyTeplyakov / ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) - Set of roslyn-based analyzers for catching common C# errors (inspired by Google's error-prone)
 * 【2025-02-08】[dotnet / yarp](https://github.com/dotnet/yarp) - A toolkit for developing high\-performance HTTP reverse proxy applications 
 * 【2025-02-05】[dnnsoftware / Dnn.Platform](https://github.com/dnnsoftware/Dnn.Platform) - DNN (formerly DotNetNuke) is the leading open source web content management platform (CMS) in the Microsoft ecosystem.
 * 【2025-02-04】[timschneeb / GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
@@ -4793,6 +4799,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-10】[microsoft / data\-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 * 【2025-02-08】[ant-design / ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 * 【2025-02-08】[refly\-ai / refly](https://github.com/refly-ai/refly) - Refly is an open\-source AI\-native creation engine  Its intuitive free\-form canvas interface combines multi\-threaded dialogues, AI knowledge base integration, chrome extension clip & save, contextual memory, intelligent search, WYSIWYG AI editor and more, empowering you to effortlessly transform ideas into production\-ready content 
 * 【2025-02-08】[aws\-samples / well\-architected\-iac\-analyzer](https://github.com/aws-samples/well-architected-iac-analyzer) - 
