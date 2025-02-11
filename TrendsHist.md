@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-02-11】[potpie-ai / potpie](https://github.com/potpie-ai/potpie) - Prompt-To-Agent : Create custom engineering agents for your codebase
+* 【2025-02-11】[browser\-use / browser\-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+* 【2025-02-11】[T8RIN / ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation  It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 * 【2025-02-07】[Physical\-Intelligence / openpi](https://github.com/Physical-Intelligence/openpi) - 
 * 【2025-02-06】[monasticacademy / httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 * 【2025-02-06】[elastic / integrations](https://github.com/elastic/integrations) - 
@@ -735,6 +738,7 @@
 
 ## Java
 
+* 【2025-02-11】[DP\-Hridayan / aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 * 【2025-01-31】[aeron-io / aeron](https://github.com/aeron-io/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 * 【2025-01-30】[infinispan / infinispan](https://github.com/infinispan/infinispan) - Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store 
 * 【2025-01-29】[wso2 / product\-is](https://github.com/wso2/product-is) - Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below 
@@ -981,6 +985,9 @@
 
 ## Python
 
+* 【2025-02-11】[browser-use / browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+* 【2025-02-11】[homarr\-labs / dashboard\-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons 
+* 【2025-02-11】[SWivid / F5\-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5\-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 * 【2025-02-10】[potpie\-ai / potpie](https://github.com/potpie-ai/potpie) - Prompt\-To\-Agent : Create custom engineering agents for your codebase
 * 【2025-02-10】[pydantic / pydantic\-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs
 * 【2025-02-10】[iscyy / ultralyticsPro](https://github.com/iscyy/ultralyticsPro) - 🔥🔥🔥 专注于YOLO11，YOLOv8、YOLOv10、RT\-DETR、YOLOv7、YOLOv5改进模型，Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀
@@ -1711,6 +1718,7 @@
 
 ## Javascript
 
+* 【2025-02-11】[ftde0 / yt2009](https://github.com/ftde0/yt2009) - 2009 youtube frontend 
 * 【2025-02-05】[Lumon\-Industries / Macrodata\-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement
 * 【2025-02-02】[shipshapecode / shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 * 【2025-01-30】[DeepLifeStudio / DeepSeekAI](https://github.com/DeepLifeStudio/DeepSeekAI) - Browser extension for invoking the DeepSeek AI large model 
@@ -2096,6 +2104,7 @@
 
 ## Go
 
+* 【2025-02-11】[turbot / tailpipe](https://github.com/turbot/tailpipe) - select * from logs; Tailpipe is an open source SIEM for instant log insights, powered by DuckDB  Analyze millions of events in seconds, right from your terminal 
 * 【2025-02-10】[mayswind / ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight personal bookkeeping app hosted by yourself 
 * 【2025-02-10】[fastenhealth / fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
 * 【2025-02-09】[fastenhealth / fasten\-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open\-source, self\-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
@@ -2932,6 +2941,7 @@
 
 ## C#
 
+* 【2025-02-11】[w4po / ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) - 🚀 Supercharge Windows 11's File Explorer: Auto\-convert windows to tabs, duplicate tabs, reopen closed ones, and more!
 * 【2025-02-10】[SergeyTeplyakov / ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) - Set of roslyn-based analyzers for catching common C# errors (inspired by Google's error-prone)
 * 【2025-02-08】[dotnet / yarp](https://github.com/dotnet/yarp) - A toolkit for developing high\-performance HTTP reverse proxy applications 
 * 【2025-02-05】[dnnsoftware / Dnn.Platform](https://github.com/dnnsoftware/Dnn.Platform) - DNN (formerly DotNetNuke) is the leading open source web content management platform (CMS) in the Microsoft ecosystem.
@@ -3648,6 +3658,7 @@
 
 ## Unknown
 
+* 【2025-02-11】[gunnarmorling / awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - An Awesome List of Open-Source Data Engineering Projects
 * 【2025-02-07】[koobzaar / lol\-skins](https://github.com/koobzaar/lol-skins) - [⭐] A community\-maintained repository featuring all 7,669 official League of Legends skins and chromas models as custom skins 
 * 【2025-01-30】[may215 / awesome\-termux\-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
 * 【2025-01-27】[jlopp / physical-bitcoin-attacks](https://github.com/jlopp/physical-bitcoin-attacks) - A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace.
@@ -4199,6 +4210,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-02-11】[moghtech / komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 * 【2025-02-09】[lumina-ai-inc / chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision model based document ingestion
 * 【2025-02-08】[agersant / polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device 
 * 【2025-02-08】[lumina\-ai\-inc / chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision model based document ingestion
@@ -4799,6 +4811,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-11】[microsoft / data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
+* 【2025-02-11】[willswire / unifi\-ddns](https://github.com/willswire/unifi-ddns) - Cloudflare DDNS (Dynamic DNS) support for UniFi OS
+* 【2025-02-11】[Nutlope / logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
 * 【2025-02-10】[microsoft / data\-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 * 【2025-02-08】[ant-design / ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 * 【2025-02-08】[refly\-ai / refly](https://github.com/refly-ai/refly) - Refly is an open\-source AI\-native creation engine  Its intuitive free\-form canvas interface combines multi\-threaded dialogues, AI knowledge base integration, chrome extension clip & save, contextual memory, intelligent search, WYSIWYG AI editor and more, empowering you to effortlessly transform ideas into production\-ready content 
