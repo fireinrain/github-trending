@@ -985,6 +985,7 @@
 
 ## Python
 
+* 【2025-02-12】[Genesis\-Embodied\-AI / Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general\-purpose robotics & embodied AI learning 
 * 【2025-02-11】[browser-use / browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 * 【2025-02-11】[homarr\-labs / dashboard\-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons 
 * 【2025-02-11】[SWivid / F5\-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5\-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
@@ -2673,6 +2674,8 @@
 
 ## C++
 
+* 【2025-02-12】[ripose\-jp / Memento](https://github.com/ripose-jp/Memento) - An mpv\-based video player for studying Japanese
+* 【2025-02-12】[qpdf / qpdf](https://github.com/qpdf/qpdf) - qpdf: A content\-preserving PDF document transformer
 * 【2025-02-09】[mlc\-ai / xgrammar](https://github.com/mlc-ai/xgrammar) - Efficient, Flexible and Portable Structured Generation
 * 【2025-02-08】[dwhinham / mt32\-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT\-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth 
 * 【2025-02-05】[mkckr0 / audio\-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer  (You needn't buy a new speaker😄 )
@@ -2941,6 +2944,7 @@
 
 ## C#
 
+* 【2025-02-12】[Oliveriver / 5d\-diplomacy\-with\-multiverse\-time\-travel](https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel) - 5D Diplomacy With Multiverse Time Travel
 * 【2025-02-11】[w4po / ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) - 🚀 Supercharge Windows 11's File Explorer: Auto\-convert windows to tabs, duplicate tabs, reopen closed ones, and more!
 * 【2025-02-10】[SergeyTeplyakov / ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) - Set of roslyn-based analyzers for catching common C# errors (inspired by Google's error-prone)
 * 【2025-02-08】[dotnet / yarp](https://github.com/dotnet/yarp) - A toolkit for developing high\-performance HTTP reverse proxy applications 
@@ -4811,6 +4815,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-12】[liam\-hq / liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy\-to\-read ER diagrams from your database 
+* 【2025-02-12】[arikchakma / maily to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients 
 * 【2025-02-11】[microsoft / data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 * 【2025-02-11】[willswire / unifi\-ddns](https://github.com/willswire/unifi-ddns) - Cloudflare DDNS (Dynamic DNS) support for UniFi OS
 * 【2025-02-11】[Nutlope / logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
