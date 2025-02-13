@@ -1,5 +1,10 @@
 ## All language
 
+* 【2025-02-13】[landing-ai / vision-agent](https://github.com/landing-ai/vision-agent) - Vision agent
+* 【2025-02-13】[Oliveriver / 5d-diplomacy-with-multiverse-time-travel](https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel) - 5D Diplomacy With Multiverse Time Travel
+* 【2025-02-13】[MystenLabs / walrus\-docs](https://github.com/MystenLabs/walrus-docs) - Documentation and examples for the Walrus decentralized storage system
+* 【2025-02-13】[datawhalechina / llm\-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+* 【2025-02-13】[antonputra / tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials
 * 【2025-02-11】[potpie-ai / potpie](https://github.com/potpie-ai/potpie) - Prompt-To-Agent : Create custom engineering agents for your codebase
 * 【2025-02-11】[browser\-use / browser\-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 * 【2025-02-11】[T8RIN / ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation  It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
@@ -985,6 +990,9 @@
 
 ## Python
 
+* 【2025-02-13】[WEIFENG2333 / VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 \| VideoCaptioner \- 基于 LLM 的智能字幕助手 \- 视频字幕生成、断句、校正、字幕翻译全流程处理！\- A powered tool for easy and efficient video subtitling 
+* 【2025-02-13】[greghesp / ha\-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers
+* 【2025-02-13】[DataDog / integrations-core](https://github.com/DataDog/integrations-core) - Core integrations of the Datadog Agent
 * 【2025-02-12】[Genesis\-Embodied\-AI / Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general\-purpose robotics & embodied AI learning 
 * 【2025-02-11】[browser-use / browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 * 【2025-02-11】[homarr\-labs / dashboard\-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons 
@@ -2674,6 +2682,7 @@
 
 ## C++
 
+* 【2025-02-13】[Open-Cascade-SAS / OCCT](https://github.com/Open-Cascade-SAS/OCCT) - Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 * 【2025-02-12】[ripose\-jp / Memento](https://github.com/ripose-jp/Memento) - An mpv\-based video player for studying Japanese
 * 【2025-02-12】[qpdf / qpdf](https://github.com/qpdf/qpdf) - qpdf: A content\-preserving PDF document transformer
 * 【2025-02-09】[mlc\-ai / xgrammar](https://github.com/mlc-ai/xgrammar) - Efficient, Flexible and Portable Structured Generation
@@ -3251,6 +3260,7 @@
 
 ## Html
 
+* 【2025-02-13】[SuperSimpleDev / html\-css\-course](https://github.com/SuperSimpleDev/html-css-course) - Watch the course: https://youtu be/G3e\-cpL7ofc
 * 【2025-02-09】[n8n\-io / n8n\-docs](https://github.com/n8n-io/n8n-docs) - Documentation for n8n, a fair\-code licensed automation tool with a free community edition and powerful enterprise options  Build AI functionality into your workflows 
 * 【2025-02-08】[7h30th3r0n3 / Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) - Evil-M5Project is an innovative tool developed for ethical testing and exploration of WiFi networks. It's compatible with Cardputer, Atoms3, Fire, core2. You can scan, monitor, and interact with WiFi networks in a controlled environment. This project is designed for educational purposes, aiding in understanding network security and vulnerabilities.
 * 【2025-02-07】[7h30th3r0n3 / Evil\-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) - Evil\-M5Project is an innovative tool developed for ethical testing and exploration of WiFi networks  It's compatible with Cardputer, Atoms3, Fire, core2  You can scan, monitor, and interact with WiFi networks in a controlled environment  This project is designed for educational purposes, aiding in understanding network security and vulnerabilities 
@@ -4214,6 +4224,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-02-13】[n0\-computer / sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh
 * 【2025-02-11】[moghtech / komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 * 【2025-02-09】[lumina-ai-inc / chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision model based document ingestion
 * 【2025-02-08】[agersant / polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device 
