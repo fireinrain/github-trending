@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-02-14】[datawhalechina / llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+* 【2025-02-14】[RexanWONG / text\-behind\-image](https://github.com/RexanWONG/text-behind-image) - https://textbehindimage rexanwong xyz \- create text behind image designs easily
 * 【2025-02-13】[landing-ai / vision-agent](https://github.com/landing-ai/vision-agent) - Vision agent
 * 【2025-02-13】[Oliveriver / 5d-diplomacy-with-multiverse-time-travel](https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel) - 5D Diplomacy With Multiverse Time Travel
 * 【2025-02-13】[MystenLabs / walrus\-docs](https://github.com/MystenLabs/walrus-docs) - Documentation and examples for the Walrus decentralized storage system
@@ -990,6 +992,8 @@
 
 ## Python
 
+* 【2025-02-14】[sinaptik\-ai / pandas\-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet)  PandasAI makes data analysis conversational using LLMs and RAG 
+* 【2025-02-14】[fpgmaas / cookiecutter\-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
 * 【2025-02-13】[WEIFENG2333 / VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 \| VideoCaptioner \- 基于 LLM 的智能字幕助手 \- 视频字幕生成、断句、校正、字幕翻译全流程处理！\- A powered tool for easy and efficient video subtitling 
 * 【2025-02-13】[greghesp / ha\-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers
 * 【2025-02-13】[DataDog / integrations-core](https://github.com/DataDog/integrations-core) - Core integrations of the Datadog Agent
@@ -2113,6 +2117,7 @@
 
 ## Go
 
+* 【2025-02-14】[MartialBE / one\-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one\-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 * 【2025-02-11】[turbot / tailpipe](https://github.com/turbot/tailpipe) - select * from logs; Tailpipe is an open source SIEM for instant log insights, powered by DuckDB  Analyze millions of events in seconds, right from your terminal 
 * 【2025-02-10】[mayswind / ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight personal bookkeeping app hosted by yourself 
 * 【2025-02-10】[fastenhealth / fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
@@ -3260,6 +3265,8 @@
 
 ## Html
 
+* 【2025-02-14】[microsoft / markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown 
+* 【2025-02-14】[CodeKageHQ / Ask\-out\-your\-Valentine](https://github.com/CodeKageHQ/Ask-out-your-Valentine) - A playful and interactive web experience for asking someone to be your Valentine, featuring charming GIFs and dynamic responses to 'Yes' and 'No' answers  Built with HTML, Tailwind CSS, and a sprinkle of JavaScript for interactivity 
 * 【2025-02-13】[SuperSimpleDev / html\-css\-course](https://github.com/SuperSimpleDev/html-css-course) - Watch the course: https://youtu be/G3e\-cpL7ofc
 * 【2025-02-09】[n8n\-io / n8n\-docs](https://github.com/n8n-io/n8n-docs) - Documentation for n8n, a fair\-code licensed automation tool with a free community edition and powerful enterprise options  Build AI functionality into your workflows 
 * 【2025-02-08】[7h30th3r0n3 / Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) - Evil-M5Project is an innovative tool developed for ethical testing and exploration of WiFi networks. It's compatible with Cardputer, Atoms3, Fire, core2. You can scan, monitor, and interact with WiFi networks in a controlled environment. This project is designed for educational purposes, aiding in understanding network security and vulnerabilities.
@@ -4224,6 +4231,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-02-14】[bytecodealliance / rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX\-ish APIs
 * 【2025-02-13】[n0\-computer / sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh
 * 【2025-02-11】[moghtech / komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 * 【2025-02-09】[lumina-ai-inc / chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision model based document ingestion
@@ -4826,6 +4834,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-14】[RexanWONG / text-behind-image](https://github.com/RexanWONG/text-behind-image) - https://textbehindimage.rexanwong.xyz - create text behind image designs easily
+* 【2025-02-14】[DouyinFE / semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design. 🧑🏻‍💻 Design to Code in one click
 * 【2025-02-12】[liam\-hq / liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy\-to\-read ER diagrams from your database 
 * 【2025-02-12】[arikchakma / maily to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients 
 * 【2025-02-11】[microsoft / data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
