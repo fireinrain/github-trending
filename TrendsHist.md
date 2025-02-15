@@ -745,6 +745,7 @@
 
 ## Java
 
+* 【2025-02-15】[apache / streampark](https://github.com/apache/streampark) - Make stream processing easier! Easy\-to\-use streaming application development framework and operation platform 
 * 【2025-02-11】[DP\-Hridayan / aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 * 【2025-01-31】[aeron-io / aeron](https://github.com/aeron-io/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 * 【2025-01-30】[infinispan / infinispan](https://github.com/infinispan/infinispan) - Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store 
@@ -992,6 +993,7 @@
 
 ## Python
 
+* 【2025-02-15】[dlt\-hub / dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
 * 【2025-02-14】[sinaptik\-ai / pandas\-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet)  PandasAI makes data analysis conversational using LLMs and RAG 
 * 【2025-02-14】[fpgmaas / cookiecutter\-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
 * 【2025-02-13】[WEIFENG2333 / VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 \| VideoCaptioner \- 基于 LLM 的智能字幕助手 \- 视频字幕生成、断句、校正、字幕翻译全流程处理！\- A powered tool for easy and efficient video subtitling 
@@ -2117,6 +2119,7 @@
 
 ## Go
 
+* 【2025-02-15】[MartialBE / one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 * 【2025-02-14】[MartialBE / one\-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one\-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 * 【2025-02-11】[turbot / tailpipe](https://github.com/turbot/tailpipe) - select * from logs; Tailpipe is an open source SIEM for instant log insights, powered by DuckDB  Analyze millions of events in seconds, right from your terminal 
 * 【2025-02-10】[mayswind / ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight personal bookkeeping app hosted by yourself 
@@ -2958,6 +2961,8 @@
 
 ## C#
 
+* 【2025-02-15】[slskd / slskd](https://github.com/slskd/slskd) - A modern client\-server application for the Soulseek file sharing network 
+* 【2025-02-15】[googlesamples / unity-jar-resolver](https://github.com/googlesamples/unity-jar-resolver) - Unity plugin which resolves Android & iOS dependencies and performs version management
 * 【2025-02-12】[Oliveriver / 5d\-diplomacy\-with\-multiverse\-time\-travel](https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel) - 5D Diplomacy With Multiverse Time Travel
 * 【2025-02-11】[w4po / ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) - 🚀 Supercharge Windows 11's File Explorer: Auto\-convert windows to tabs, duplicate tabs, reopen closed ones, and more!
 * 【2025-02-10】[SergeyTeplyakov / ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) - Set of roslyn-based analyzers for catching common C# errors (inspired by Google's error-prone)
@@ -3265,6 +3270,7 @@
 
 ## Html
 
+* 【2025-02-15】[CodeKageHQ / Ask-out-your-Valentine](https://github.com/CodeKageHQ/Ask-out-your-Valentine) - A playful and interactive web experience for asking someone to be your Valentine, featuring charming GIFs and dynamic responses to 'Yes' and 'No' answers. Built with HTML, Tailwind CSS, and a sprinkle of JavaScript for interactivity.
 * 【2025-02-14】[microsoft / markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown 
 * 【2025-02-14】[CodeKageHQ / Ask\-out\-your\-Valentine](https://github.com/CodeKageHQ/Ask-out-your-Valentine) - A playful and interactive web experience for asking someone to be your Valentine, featuring charming GIFs and dynamic responses to 'Yes' and 'No' answers  Built with HTML, Tailwind CSS, and a sprinkle of JavaScript for interactivity 
 * 【2025-02-13】[SuperSimpleDev / html\-css\-course](https://github.com/SuperSimpleDev/html-css-course) - Watch the course: https://youtu be/G3e\-cpL7ofc
@@ -4231,6 +4237,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-02-15】[ouch\-org / ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
+* 【2025-02-15】[inko\-lang / inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence
 * 【2025-02-14】[bytecodealliance / rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX\-ish APIs
 * 【2025-02-13】[n0\-computer / sendme](https://github.com/n0-computer/sendme) - A tool to send files and directories, based on iroh
 * 【2025-02-11】[moghtech / komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
@@ -4834,6 +4842,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-15】[langchain-ai / open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
 * 【2025-02-14】[RexanWONG / text-behind-image](https://github.com/RexanWONG/text-behind-image) - https://textbehindimage.rexanwong.xyz - create text behind image designs easily
 * 【2025-02-14】[DouyinFE / semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design. 🧑🏻‍💻 Design to Code in one click
 * 【2025-02-12】[liam\-hq / liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy\-to\-read ER diagrams from your database 
