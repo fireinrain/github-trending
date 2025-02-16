@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-02-16】[souzatharsis / podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 * 【2025-02-14】[datawhalechina / llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 * 【2025-02-14】[RexanWONG / text\-behind\-image](https://github.com/RexanWONG/text-behind-image) - https://textbehindimage rexanwong xyz \- create text behind image designs easily
 * 【2025-02-13】[landing-ai / vision-agent](https://github.com/landing-ai/vision-agent) - Vision agent
@@ -2119,6 +2120,7 @@
 
 ## Go
 
+* 【2025-02-16】[kubernetes\-sigs / lws](https://github.com/kubernetes-sigs/lws) - LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
 * 【2025-02-15】[MartialBE / one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 * 【2025-02-14】[MartialBE / one\-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one\-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 * 【2025-02-11】[turbot / tailpipe](https://github.com/turbot/tailpipe) - select * from logs; Tailpipe is an open source SIEM for instant log insights, powered by DuckDB  Analyze millions of events in seconds, right from your terminal 
@@ -2690,6 +2692,7 @@
 
 ## C++
 
+* 【2025-02-16】[mlc-ai / xgrammar](https://github.com/mlc-ai/xgrammar) - Efficient, Flexible and Portable Structured Generation
 * 【2025-02-13】[Open-Cascade-SAS / OCCT](https://github.com/Open-Cascade-SAS/OCCT) - Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 * 【2025-02-12】[ripose\-jp / Memento](https://github.com/ripose-jp/Memento) - An mpv\-based video player for studying Japanese
 * 【2025-02-12】[qpdf / qpdf](https://github.com/qpdf/qpdf) - qpdf: A content\-preserving PDF document transformer
@@ -3270,6 +3273,8 @@
 
 ## Html
 
+* 【2025-02-16】[mlfoundations / evalchemy](https://github.com/mlfoundations/evalchemy) - Automatic Evals for LLMs
+* 【2025-02-16】[lm\-rebooter / NuggetsBooklet](https://github.com/lm-rebooter/NuggetsBooklet) - 掘金小册
 * 【2025-02-15】[CodeKageHQ / Ask-out-your-Valentine](https://github.com/CodeKageHQ/Ask-out-your-Valentine) - A playful and interactive web experience for asking someone to be your Valentine, featuring charming GIFs and dynamic responses to 'Yes' and 'No' answers. Built with HTML, Tailwind CSS, and a sprinkle of JavaScript for interactivity.
 * 【2025-02-14】[microsoft / markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown 
 * 【2025-02-14】[CodeKageHQ / Ask\-out\-your\-Valentine](https://github.com/CodeKageHQ/Ask-out-your-Valentine) - A playful and interactive web experience for asking someone to be your Valentine, featuring charming GIFs and dynamic responses to 'Yes' and 'No' answers  Built with HTML, Tailwind CSS, and a sprinkle of JavaScript for interactivity 
@@ -4237,6 +4242,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-02-16】[cordx56 / rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 * 【2025-02-15】[ouch\-org / ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 * 【2025-02-15】[inko\-lang / inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence
 * 【2025-02-14】[bytecodealliance / rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX\-ish APIs
@@ -4842,6 +4848,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-16】[buxuku / video\-subtitle\-master](https://github.com/buxuku/video-subtitle-master) - 批量为视频或者音频生成字幕，并可批量将字幕翻译成其它语言。这是一个客户端工具, 跨平台支持 mac 和 windows 系统, 支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务
+* 【2025-02-16】[eez\-open / studio](https://github.com/eez-open/studio) - Cross\-platform low\-code GUI and automation
 * 【2025-02-15】[langchain-ai / open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
 * 【2025-02-14】[RexanWONG / text-behind-image](https://github.com/RexanWONG/text-behind-image) - https://textbehindimage.rexanwong.xyz - create text behind image designs easily
 * 【2025-02-14】[DouyinFE / semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design. 🧑🏻‍💻 Design to Code in one click
