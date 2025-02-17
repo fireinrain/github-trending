@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-02-17】[microsoft / OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
+* 【2025-02-17】[mongodb\-developer / GenAI\-Showcase](https://github.com/mongodb-developer/GenAI-Showcase) - GenAI Cookbook
 * 【2025-02-16】[souzatharsis / podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 * 【2025-02-14】[datawhalechina / llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 * 【2025-02-14】[RexanWONG / text\-behind\-image](https://github.com/RexanWONG/text-behind-image) - https://textbehindimage rexanwong xyz \- create text behind image designs easily
@@ -746,6 +748,7 @@
 
 ## Java
 
+* 【2025-02-17】[GregTechCEu / GregTech-Modern](https://github.com/GregTechCEu/GregTech-Modern) - GregTech CE Unofficial for modern versions
 * 【2025-02-15】[apache / streampark](https://github.com/apache/streampark) - Make stream processing easier! Easy\-to\-use streaming application development framework and operation platform 
 * 【2025-02-11】[DP\-Hridayan / aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 * 【2025-01-31】[aeron-io / aeron](https://github.com/aeron-io/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
@@ -994,6 +997,7 @@
 
 ## Python
 
+* 【2025-02-17】[opendatalab / PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 * 【2025-02-15】[dlt\-hub / dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
 * 【2025-02-14】[sinaptik\-ai / pandas\-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet)  PandasAI makes data analysis conversational using LLMs and RAG 
 * 【2025-02-14】[fpgmaas / cookiecutter\-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
@@ -1734,6 +1738,7 @@
 
 ## Javascript
 
+* 【2025-02-17】[enatega / food\-delivery\-multivendor](https://github.com/enatega/food-delivery-multivendor) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system  For more information, visit the Enatega product page: 🚀🛒📦🌐
 * 【2025-02-11】[ftde0 / yt2009](https://github.com/ftde0/yt2009) - 2009 youtube frontend 
 * 【2025-02-05】[Lumon\-Industries / Macrodata\-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement
 * 【2025-02-02】[shipshapecode / shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
@@ -2692,6 +2697,7 @@
 
 ## C++
 
+* 【2025-02-17】[ggml\-org / llama cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 * 【2025-02-16】[mlc-ai / xgrammar](https://github.com/mlc-ai/xgrammar) - Efficient, Flexible and Portable Structured Generation
 * 【2025-02-13】[Open-Cascade-SAS / OCCT](https://github.com/Open-Cascade-SAS/OCCT) - Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 * 【2025-02-12】[ripose\-jp / Memento](https://github.com/ripose-jp/Memento) - An mpv\-based video player for studying Japanese
@@ -2964,6 +2970,7 @@
 
 ## C#
 
+* 【2025-02-17】[2394425147 / astrodx](https://github.com/2394425147/astrodx) - 
 * 【2025-02-15】[slskd / slskd](https://github.com/slskd/slskd) - A modern client\-server application for the Soulseek file sharing network 
 * 【2025-02-15】[googlesamples / unity-jar-resolver](https://github.com/googlesamples/unity-jar-resolver) - Unity plugin which resolves Android & iOS dependencies and performs version management
 * 【2025-02-12】[Oliveriver / 5d\-diplomacy\-with\-multiverse\-time\-travel](https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel) - 5D Diplomacy With Multiverse Time Travel
@@ -3273,6 +3280,7 @@
 
 ## Html
 
+* 【2025-02-17】[usds / website](https://github.com/usds/website) - 
 * 【2025-02-16】[mlfoundations / evalchemy](https://github.com/mlfoundations/evalchemy) - Automatic Evals for LLMs
 * 【2025-02-16】[lm\-rebooter / NuggetsBooklet](https://github.com/lm-rebooter/NuggetsBooklet) - 掘金小册
 * 【2025-02-15】[CodeKageHQ / Ask-out-your-Valentine](https://github.com/CodeKageHQ/Ask-out-your-Valentine) - A playful and interactive web experience for asking someone to be your Valentine, featuring charming GIFs and dynamic responses to 'Yes' and 'No' answers. Built with HTML, Tailwind CSS, and a sprinkle of JavaScript for interactivity.
@@ -4848,6 +4856,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-17】[assistant\-ui / assistant\-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
 * 【2025-02-16】[buxuku / video\-subtitle\-master](https://github.com/buxuku/video-subtitle-master) - 批量为视频或者音频生成字幕，并可批量将字幕翻译成其它语言。这是一个客户端工具, 跨平台支持 mac 和 windows 系统, 支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务
 * 【2025-02-16】[eez\-open / studio](https://github.com/eez-open/studio) - Cross\-platform low\-code GUI and automation
 * 【2025-02-15】[langchain-ai / open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
