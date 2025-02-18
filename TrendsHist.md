@@ -997,6 +997,7 @@
 
 ## Python
 
+* 【2025-02-18】[cocktailpeanut / fluxgym](https://github.com/cocktailpeanut/fluxgym) - Dead simple FLUX LoRA training UI with LOW VRAM support
 * 【2025-02-17】[opendatalab / PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 * 【2025-02-15】[dlt\-hub / dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
 * 【2025-02-14】[sinaptik\-ai / pandas\-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet)  PandasAI makes data analysis conversational using LLMs and RAG 
@@ -2125,6 +2126,8 @@
 
 ## Go
 
+* 【2025-02-18】[qdm12 / ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
+* 【2025-02-18】[lucaslorentz / caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 * 【2025-02-16】[kubernetes\-sigs / lws](https://github.com/kubernetes-sigs/lws) - LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
 * 【2025-02-15】[MartialBE / one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 * 【2025-02-14】[MartialBE / one\-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one\-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
@@ -2411,6 +2414,7 @@
 
 ## C
 
+* 【2025-02-18】[libsdl-org / SDL_image](https://github.com/libsdl-org/SDL_image) - Image decoding for many popular formats for Simple Directmedia Layer.
 * 【2025-02-09】[eclipse\-paho / paho mqtt c](https://github.com/eclipse-paho/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS  API documentation: https://eclipse\-paho github io/paho mqtt c/
 * 【2025-02-07】[mstorsjo / llvm\-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw\-w64 toolchain
 * 【2025-02-06】[CodeWithHarry / The-Ultimate-C-Programming-Course](https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course) - This is the C language code and supplement material for the Ultimate C language Course on CodeWithHarry
@@ -4856,6 +4860,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-18】[fuma-nama / fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
+* 【2025-02-18】[xynehq / xyne](https://github.com/xynehq/xyne) - AI\-first Search & Answer Engine for work  Open\-source alternative to Glean 
 * 【2025-02-17】[assistant\-ui / assistant\-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
 * 【2025-02-16】[buxuku / video\-subtitle\-master](https://github.com/buxuku/video-subtitle-master) - 批量为视频或者音频生成字幕，并可批量将字幕翻译成其它语言。这是一个客户端工具, 跨平台支持 mac 和 windows 系统, 支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务
 * 【2025-02-16】[eez\-open / studio](https://github.com/eez-open/studio) - Cross\-platform low\-code GUI and automation
