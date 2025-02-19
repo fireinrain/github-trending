@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-02-19】[folke / snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 * 【2025-02-17】[microsoft / OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 * 【2025-02-17】[mongodb\-developer / GenAI\-Showcase](https://github.com/mongodb-developer/GenAI-Showcase) - GenAI Cookbook
 * 【2025-02-16】[souzatharsis / podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
@@ -1739,6 +1740,7 @@
 
 ## Javascript
 
+* 【2025-02-19】[damianeickhoff / HaCasa](https://github.com/damianeickhoff/HaCasa) - Custom theme and cards for Home Assistant
 * 【2025-02-17】[enatega / food\-delivery\-multivendor](https://github.com/enatega/food-delivery-multivendor) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system  For more information, visit the Enatega product page: 🚀🛒📦🌐
 * 【2025-02-11】[ftde0 / yt2009](https://github.com/ftde0/yt2009) - 2009 youtube frontend 
 * 【2025-02-05】[Lumon\-Industries / Macrodata\-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement
@@ -3284,6 +3286,7 @@
 
 ## Html
 
+* 【2025-02-19】[hackingthemarkets / interactive\-brokers\-web\-api](https://github.com/hackingthemarkets/interactive-brokers-web-api) - A docker container and flask app for use with the Interactive Brokers Web API 1 0
 * 【2025-02-17】[usds / website](https://github.com/usds/website) - 
 * 【2025-02-16】[mlfoundations / evalchemy](https://github.com/mlfoundations/evalchemy) - Automatic Evals for LLMs
 * 【2025-02-16】[lm\-rebooter / NuggetsBooklet](https://github.com/lm-rebooter/NuggetsBooklet) - 掘金小册
@@ -3702,6 +3705,7 @@
 
 ## Unknown
 
+* 【2025-02-19】[icon11\-community / Folder11](https://github.com/icon11-community/Folder11) - Windows 11\-like custom directory icon 
 * 【2025-02-11】[gunnarmorling / awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - An Awesome List of Open-Source Data Engineering Projects
 * 【2025-02-07】[koobzaar / lol\-skins](https://github.com/koobzaar/lol-skins) - [⭐] A community\-maintained repository featuring all 7,669 official League of Legends skins and chromas models as custom skins 
 * 【2025-01-30】[may215 / awesome\-termux\-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
@@ -4254,6 +4258,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-02-19】[visioncortex / vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 * 【2025-02-16】[cordx56 / rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 * 【2025-02-15】[ouch\-org / ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 * 【2025-02-15】[inko\-lang / inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence
@@ -4860,6 +4865,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-19】[assistant-ui / assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
+* 【2025-02-19】[unovue / motion\-vue](https://github.com/unovue/motion-vue) - A animation library for Vue
 * 【2025-02-18】[fuma-nama / fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
 * 【2025-02-18】[xynehq / xyne](https://github.com/xynehq/xyne) - AI\-first Search & Answer Engine for work  Open\-source alternative to Glean 
 * 【2025-02-17】[assistant\-ui / assistant\-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
