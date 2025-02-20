@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-02-20】[golang\-standards / project\-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 * 【2025-02-19】[folke / snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 * 【2025-02-17】[microsoft / OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 * 【2025-02-17】[mongodb\-developer / GenAI\-Showcase](https://github.com/mongodb-developer/GenAI-Showcase) - GenAI Cookbook
@@ -749,6 +750,8 @@
 
 ## Java
 
+* 【2025-02-20】[dependency\-check / DependencyCheck](https://github.com/dependency-check/DependencyCheck) - OWASP dependency\-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies 
+* 【2025-02-20】[continew\-org / continew\-admin](https://github.com/continew-org/continew-admin) - 🔥Almost最佳后端规范🔥持续迭代优化的前后端分离中后台管理系统框架，开箱即用，持续提供舒适的开发体验。当前采用技术栈：Spring Boot3（Java17）、Vue3 & Arco Design、TS、Vite5 、Sa\-Token、MyBatis Plus、Redisson、JetCache、Jackson、Spring Doc、JustAuth、Easy Excel、Crane4j、Liquibase、Hutool 等。
 * 【2025-02-17】[GregTechCEu / GregTech-Modern](https://github.com/GregTechCEu/GregTech-Modern) - GregTech CE Unofficial for modern versions
 * 【2025-02-15】[apache / streampark](https://github.com/apache/streampark) - Make stream processing easier! Easy\-to\-use streaming application development framework and operation platform 
 * 【2025-02-11】[DP\-Hridayan / aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
@@ -998,6 +1001,7 @@
 
 ## Python
 
+* 【2025-02-20】[getzep / graphiti](https://github.com/getzep/graphiti) - Build and query dynamic, temporally\-aware Knowledge Graphs
 * 【2025-02-18】[cocktailpeanut / fluxgym](https://github.com/cocktailpeanut/fluxgym) - Dead simple FLUX LoRA training UI with LOW VRAM support
 * 【2025-02-17】[opendatalab / PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 * 【2025-02-15】[dlt\-hub / dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
@@ -4865,6 +4869,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-20】[refly-ai / refly](https://github.com/refly-ai/refly) - 🎨 Refly is an open-source AI-native creation engine. Its intuitive free-form canvas interface combines multi-threaded dialogues, AI knowledge base integration, chrome extension clip & save, contextual memory, intelligent search, WYSIWYG AI editor and more, empowering you to effortlessly transform ideas into production-ready content.
+* 【2025-02-20】[MotooriKashin / Bilibili-Old](https://github.com/MotooriKashin/Bilibili-Old) - 恢复旧版Bilibili页面，为了那些念旧的人。
 * 【2025-02-19】[assistant-ui / assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
 * 【2025-02-19】[unovue / motion\-vue](https://github.com/unovue/motion-vue) - A animation library for Vue
 * 【2025-02-18】[fuma-nama / fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
