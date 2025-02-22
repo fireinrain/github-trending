@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-02-22】[sinaptik-ai / pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
+* 【2025-02-22】[fastapi / full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+* 【2025-02-22】[mountain\-loop / yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client  Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 * 【2025-02-21】[nexus\-xyz / network\-api](https://github.com/nexus-xyz/network-api) - High\-performance interface for supplying compute to the Nexus network 
 * 【2025-02-21】[treetrum / amazon\-kindle\-bulk\-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Designed for downloading your Kindle eBooks in a more automated fashion than is typically permitted, this tool allows you to create backup copies of the books you've already purchased 
 * 【2025-02-20】[golang\-standards / project\-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -1004,6 +1007,7 @@
 
 ## Python
 
+* 【2025-02-22】[microsoft / PIKE\-RAG](https://github.com/microsoft/PIKE-RAG) - PIKE\-RAG: sPecIalized KnowledgE and Rationale Augmented Generation
 * 【2025-02-21】[fastapi / fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 * 【2025-02-20】[getzep / graphiti](https://github.com/getzep/graphiti) - Build and query dynamic, temporally\-aware Knowledge Graphs
 * 【2025-02-18】[cocktailpeanut / fluxgym](https://github.com/cocktailpeanut/fluxgym) - Dead simple FLUX LoRA training UI with LOW VRAM support
@@ -2138,6 +2142,7 @@
 
 ## Go
 
+* 【2025-02-22】[subtrace / subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers
 * 【2025-02-18】[qdm12 / ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
 * 【2025-02-18】[lucaslorentz / caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 * 【2025-02-16】[kubernetes\-sigs / lws](https://github.com/kubernetes-sigs/lws) - LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
@@ -3297,6 +3302,7 @@
 
 ## Html
 
+* 【2025-02-22】[SuperSimpleDev / html-css-course](https://github.com/SuperSimpleDev/html-css-course) - Watch the course: https://youtu.be/G3e-cpL7ofc
 * 【2025-02-19】[hackingthemarkets / interactive\-brokers\-web\-api](https://github.com/hackingthemarkets/interactive-brokers-web-api) - A docker container and flask app for use with the Interactive Brokers Web API 1 0
 * 【2025-02-17】[usds / website](https://github.com/usds/website) - 
 * 【2025-02-16】[mlfoundations / evalchemy](https://github.com/mlfoundations/evalchemy) - Automatic Evals for LLMs
@@ -4269,6 +4275,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-02-22】[kunai\-project / kunai](https://github.com/kunai-project/kunai) - Threat\-hunting tool for Linux
+* 【2025-02-22】[oxidecomputer / typify](https://github.com/oxidecomputer/typify) - compiler from JSON Schema into idiomatic Rust types
 * 【2025-02-21】[nexus-xyz / network-api](https://github.com/nexus-xyz/network-api) - High-performance interface for supplying compute to the Nexus network.
 * 【2025-02-19】[visioncortex / vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 * 【2025-02-16】[cordx56 / rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
@@ -4877,6 +4885,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-22】[mountain-loop / yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+* 【2025-02-22】[elie222 / inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
+* 【2025-02-22】[aws\-samples / aws\-genai\-llm\-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - A modular and comprehensive solution to deploy a Multi\-LLM and Multi\-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere, Mistral) using AWS CDK on AWS
 * 【2025-02-21】[treetrum / amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Designed for downloading your Kindle eBooks in a more automated fashion than is typically permitted, this tool allows you to create backup copies of the books you've already purchased.
 * 【2025-02-21】[jetkvm / kvm](https://github.com/jetkvm/kvm) - JetKVM \- Control any computer remotely
 * 【2025-02-21】[fastapi / full\-stack\-fastapi\-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template  Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more 
