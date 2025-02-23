@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-02-23】[koide3 / glim](https://github.com/koide3/glim) - GLIM: versatile and extensible range\-based 3D localization and mapping framework
 * 【2025-02-22】[sinaptik-ai / pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 * 【2025-02-22】[fastapi / full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 * 【2025-02-22】[mountain\-loop / yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client  Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
@@ -1007,6 +1008,7 @@
 
 ## Python
 
+* 【2025-02-23】[fastapi / sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness 
 * 【2025-02-22】[microsoft / PIKE\-RAG](https://github.com/microsoft/PIKE-RAG) - PIKE\-RAG: sPecIalized KnowledgE and Rationale Augmented Generation
 * 【2025-02-21】[fastapi / fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 * 【2025-02-20】[getzep / graphiti](https://github.com/getzep/graphiti) - Build and query dynamic, temporally\-aware Knowledge Graphs
@@ -2992,6 +2994,9 @@
 
 ## C#
 
+* 【2025-02-23】[alexhiggins732 / IdentityServer8](https://github.com/alexhiggins732/IdentityServer8) - DotNet 8, Identity, OpenID Connect and OAuth 2 0 Framework for ASP NET Core Identity Server 8
+* 【2025-02-23】[OpenRakis / Spice86](https://github.com/OpenRakis/Spice86) - Reverse engineer and rewrite real mode DOS programs!
+* 【2025-02-23】[dotnet / macios](https://github.com/dotnet/macios) -  NET for iOS, Mac Catalyst, macOS, and tvOS provide open\-source bindings of the Apple SDKs for use with  NET managed languages such as C\#
 * 【2025-02-17】[2394425147 / astrodx](https://github.com/2394425147/astrodx) - 
 * 【2025-02-15】[slskd / slskd](https://github.com/slskd/slskd) - A modern client\-server application for the Soulseek file sharing network 
 * 【2025-02-15】[googlesamples / unity-jar-resolver](https://github.com/googlesamples/unity-jar-resolver) - Unity plugin which resolves Android & iOS dependencies and performs version management
@@ -3302,6 +3307,7 @@
 
 ## Html
 
+* 【2025-02-23】[givanz / Vvveb](https://github.com/givanz/Vvveb) - Powerful and easy to use cms to build websites, blogs or ecommerce stores 
 * 【2025-02-22】[SuperSimpleDev / html-css-course](https://github.com/SuperSimpleDev/html-css-course) - Watch the course: https://youtu.be/G3e-cpL7ofc
 * 【2025-02-19】[hackingthemarkets / interactive\-brokers\-web\-api](https://github.com/hackingthemarkets/interactive-brokers-web-api) - A docker container and flask app for use with the Interactive Brokers Web API 1 0
 * 【2025-02-17】[usds / website](https://github.com/usds/website) - 
@@ -4275,6 +4281,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-02-23】[kunai-project / kunai](https://github.com/kunai-project/kunai) - Threat-hunting tool for Linux
+* 【2025-02-23】[cot\-rs / cot](https://github.com/cot-rs/cot) - The Rust web framework for lazy developers 
+* 【2025-02-23】[lox\-space / lox](https://github.com/lox-space/lox) - Oxidized Astrodynamics
 * 【2025-02-22】[kunai\-project / kunai](https://github.com/kunai-project/kunai) - Threat\-hunting tool for Linux
 * 【2025-02-22】[oxidecomputer / typify](https://github.com/oxidecomputer/typify) - compiler from JSON Schema into idiomatic Rust types
 * 【2025-02-21】[nexus-xyz / network-api](https://github.com/nexus-xyz/network-api) - High-performance interface for supplying compute to the Nexus network.
