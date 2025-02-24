@@ -1008,6 +1008,7 @@
 
 ## Python
 
+* 【2025-02-24】[icloud-photos-downloader / icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 * 【2025-02-23】[fastapi / sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness 
 * 【2025-02-22】[microsoft / PIKE\-RAG](https://github.com/microsoft/PIKE-RAG) - PIKE\-RAG: sPecIalized KnowledgE and Rationale Augmented Generation
 * 【2025-02-21】[fastapi / fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -2144,6 +2145,7 @@
 
 ## Go
 
+* 【2025-02-24】[uber / kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 * 【2025-02-22】[subtrace / subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers
 * 【2025-02-18】[qdm12 / ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
 * 【2025-02-18】[lucaslorentz / caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
@@ -2433,6 +2435,7 @@
 
 ## C
 
+* 【2025-02-24】[stlink\-org / stlink](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset
 * 【2025-02-21】[ghaerr / elks](https://github.com/ghaerr/elks) - Embeddable Linux Kernel Subset \- Linux for 8086
 * 【2025-02-18】[libsdl-org / SDL_image](https://github.com/libsdl-org/SDL_image) - Image decoding for many popular formats for Simple Directmedia Layer.
 * 【2025-02-09】[eclipse\-paho / paho mqtt c](https://github.com/eclipse-paho/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS  API documentation: https://eclipse\-paho github io/paho mqtt c/
@@ -2721,6 +2724,7 @@
 
 ## C++
 
+* 【2025-02-24】[mausimus / ShaderGlass](https://github.com/mausimus/ShaderGlass) - Overlay for running GPU shaders on top of Windows desktop
 * 【2025-02-17】[ggml\-org / llama cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 * 【2025-02-16】[mlc-ai / xgrammar](https://github.com/mlc-ai/xgrammar) - Efficient, Flexible and Portable Structured Generation
 * 【2025-02-13】[Open-Cascade-SAS / OCCT](https://github.com/Open-Cascade-SAS/OCCT) - Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
@@ -4281,6 +4285,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-02-24】[cot-rs / cot](https://github.com/cot-rs/cot) - The Rust web framework for lazy developers.
 * 【2025-02-23】[kunai-project / kunai](https://github.com/kunai-project/kunai) - Threat-hunting tool for Linux
 * 【2025-02-23】[cot\-rs / cot](https://github.com/cot-rs/cot) - The Rust web framework for lazy developers 
 * 【2025-02-23】[lox\-space / lox](https://github.com/lox-space/lox) - Oxidized Astrodynamics
@@ -4894,6 +4899,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-24】[base / web](https://github.com/base/web) - 
 * 【2025-02-22】[mountain-loop / yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 * 【2025-02-22】[elie222 / inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 * 【2025-02-22】[aws\-samples / aws\-genai\-llm\-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - A modular and comprehensive solution to deploy a Multi\-LLM and Multi\-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere, Mistral) using AWS CDK on AWS
