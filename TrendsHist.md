@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-02-25】[vllm\-project / aibrix](https://github.com/vllm-project/aibrix) - Cost\-efficient and pluggable Infrastructure components for GenAI inference
+* 【2025-02-25】[Flowseal / zapret\-discord\-youtube](https://github.com/Flowseal/zapret-discord-youtube) - 
+* 【2025-02-25】[langchain\-ai / open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
 * 【2025-02-23】[koide3 / glim](https://github.com/koide3/glim) - GLIM: versatile and extensible range\-based 3D localization and mapping framework
 * 【2025-02-22】[sinaptik-ai / pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
 * 【2025-02-22】[fastapi / full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
@@ -1008,6 +1011,7 @@
 
 ## Python
 
+* 【2025-02-25】[crossbario / autobahn\-testsuite](https://github.com/crossbario/autobahn-testsuite) - Autobahn WebSocket protocol testsuite
 * 【2025-02-24】[icloud-photos-downloader / icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 * 【2025-02-23】[fastapi / sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness 
 * 【2025-02-22】[microsoft / PIKE\-RAG](https://github.com/microsoft/PIKE-RAG) - PIKE\-RAG: sPecIalized KnowledgE and Rationale Augmented Generation
@@ -1755,6 +1759,8 @@
 
 ## Javascript
 
+* 【2025-02-25】[steveseguin / social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
+* 【2025-02-25】[devlikeapro / waha](https://github.com/devlikeapro/waha) - WAHA \- WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
 * 【2025-02-21】[DavidHDev / react\-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces 
 * 【2025-02-21】[tailwindlabs / tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 * 【2025-02-19】[damianeickhoff / HaCasa](https://github.com/damianeickhoff/HaCasa) - Custom theme and cards for Home Assistant
@@ -2145,6 +2151,8 @@
 
 ## Go
 
+* 【2025-02-25】[AvaProtocol / EigenLayer\-AVS](https://github.com/AvaProtocol/EigenLayer-AVS) - AvaProtocol Ethereum Automation Build on EigenLayer
+* 【2025-02-25】[googleapis / genai\-toolbox](https://github.com/googleapis/genai-toolbox) - Gen AI Toolbox for Databases is an open source server that makes it easier to build Gen AI tools for interacting with databases 
 * 【2025-02-24】[uber / kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 * 【2025-02-22】[subtrace / subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers
 * 【2025-02-18】[qdm12 / ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
@@ -3732,6 +3740,7 @@
 
 ## Unknown
 
+* 【2025-02-25】[ZitaoTech / Hackberry\-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
 * 【2025-02-19】[icon11\-community / Folder11](https://github.com/icon11-community/Folder11) - Windows 11\-like custom directory icon 
 * 【2025-02-11】[gunnarmorling / awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - An Awesome List of Open-Source Data Engineering Projects
 * 【2025-02-07】[koobzaar / lol\-skins](https://github.com/koobzaar/lol-skins) - [⭐] A community\-maintained repository featuring all 7,669 official League of Legends skins and chromas models as custom skins 
@@ -4899,6 +4908,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-25】[Helicone / helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform  One line of code to monitor, evaluate, and experiment  YC W23 🍓
 * 【2025-02-24】[base / web](https://github.com/base/web) - 
 * 【2025-02-22】[mountain-loop / yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 * 【2025-02-22】[elie222 / inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
