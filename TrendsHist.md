@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-02-26】[vllm-project / aibrix](https://github.com/vllm-project/aibrix) - Cost-efficient and pluggable Infrastructure components for GenAI inference
+* 【2025-02-26】[NirDiamant / GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced  It serves as a comprehensive guide for building intelligent, interactive AI systems 
 * 【2025-02-25】[vllm\-project / aibrix](https://github.com/vllm-project/aibrix) - Cost\-efficient and pluggable Infrastructure components for GenAI inference
 * 【2025-02-25】[Flowseal / zapret\-discord\-youtube](https://github.com/Flowseal/zapret-discord-youtube) - 
 * 【2025-02-25】[langchain\-ai / open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
@@ -1011,6 +1013,8 @@
 
 ## Python
 
+* 【2025-02-26】[fla\-org / flash\-linear\-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state\-of\-the\-art linear attention models in Torch and Triton
+* 【2025-02-26】[Upsonic / Upsonic](https://github.com/Upsonic/Upsonic) - Most Reliable AI Agent Framework
 * 【2025-02-25】[crossbario / autobahn\-testsuite](https://github.com/crossbario/autobahn-testsuite) - Autobahn WebSocket protocol testsuite
 * 【2025-02-24】[icloud-photos-downloader / icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 * 【2025-02-23】[fastapi / sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness 
@@ -1759,6 +1763,7 @@
 
 ## Javascript
 
+* 【2025-02-26】[pollinations / pollinations](https://github.com/pollinations/pollinations) - Free Open\-Source Image and Text Generation
 * 【2025-02-25】[steveseguin / social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 * 【2025-02-25】[devlikeapro / waha](https://github.com/devlikeapro/waha) - WAHA \- WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
 * 【2025-02-21】[DavidHDev / react\-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces 
@@ -2732,6 +2737,7 @@
 
 ## C++
 
+* 【2025-02-26】[ggml-org / llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 * 【2025-02-24】[mausimus / ShaderGlass](https://github.com/mausimus/ShaderGlass) - Overlay for running GPU shaders on top of Windows desktop
 * 【2025-02-17】[ggml\-org / llama cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 * 【2025-02-16】[mlc-ai / xgrammar](https://github.com/mlc-ai/xgrammar) - Efficient, Flexible and Portable Structured Generation
@@ -3006,6 +3012,7 @@
 
 ## C#
 
+* 【2025-02-26】[microsoft / ai\-dev\-gallery](https://github.com/microsoft/ai-dev-gallery) - An open\-source project for Windows developers to learn how to add AI with local models and APIs to Windows apps 
 * 【2025-02-23】[alexhiggins732 / IdentityServer8](https://github.com/alexhiggins732/IdentityServer8) - DotNet 8, Identity, OpenID Connect and OAuth 2 0 Framework for ASP NET Core Identity Server 8
 * 【2025-02-23】[OpenRakis / Spice86](https://github.com/OpenRakis/Spice86) - Reverse engineer and rewrite real mode DOS programs!
 * 【2025-02-23】[dotnet / macios](https://github.com/dotnet/macios) -  NET for iOS, Mac Catalyst, macOS, and tvOS provide open\-source bindings of the Apple SDKs for use with  NET managed languages such as C\#
@@ -4294,6 +4301,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-02-26】[yshavit / mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
 * 【2025-02-24】[cot-rs / cot](https://github.com/cot-rs/cot) - The Rust web framework for lazy developers.
 * 【2025-02-23】[kunai-project / kunai](https://github.com/kunai-project/kunai) - Threat-hunting tool for Linux
 * 【2025-02-23】[cot\-rs / cot](https://github.com/cot-rs/cot) - The Rust web framework for lazy developers 
@@ -4908,6 +4916,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-02-26】[safe-global / safe-smart-account](https://github.com/safe-global/safe-smart-account) - Safe allows secure management of blockchain assets.
+* 【2025-02-26】[PySpur\-Dev / pyspur](https://github.com/PySpur-Dev/pyspur) - AI Agent Builder in Python
 * 【2025-02-25】[Helicone / helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform  One line of code to monitor, evaluate, and experiment  YC W23 🍓
 * 【2025-02-24】[base / web](https://github.com/base/web) - 
 * 【2025-02-22】[mountain-loop / yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
