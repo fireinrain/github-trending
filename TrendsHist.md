@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-02-28】[allenai / olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
+* 【2025-02-28】[freddyaboulton / fastrtc](https://github.com/freddyaboulton/fastrtc) - The python library for real\-time communication
 * 【2025-02-26】[vllm-project / aibrix](https://github.com/vllm-project/aibrix) - Cost-efficient and pluggable Infrastructure components for GenAI inference
 * 【2025-02-26】[NirDiamant / GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced  It serves as a comprehensive guide for building intelligent, interactive AI systems 
 * 【2025-02-25】[vllm\-project / aibrix](https://github.com/vllm-project/aibrix) - Cost\-efficient and pluggable Infrastructure components for GenAI inference
@@ -3755,6 +3757,7 @@
 
 ## Unknown
 
+* 【2025-02-28】[microsoft / vscode\-copilot\-release](https://github.com/microsoft/vscode-copilot-release) - Feedback on GitHub Copilot Chat UX in Visual Studio Code 
 * 【2025-02-25】[ZitaoTech / Hackberry\-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
 * 【2025-02-19】[icon11\-community / Folder11](https://github.com/icon11-community/Folder11) - Windows 11\-like custom directory icon 
 * 【2025-02-11】[gunnarmorling / awesome-opensource-data-engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - An Awesome List of Open-Source Data Engineering Projects
@@ -4309,6 +4312,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-02-28】[gauge\-sh / tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally \- ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust
 * 【2025-02-27】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU\-accelerated cross\-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 * 【2025-02-26】[yshavit / mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
 * 【2025-02-24】[cot-rs / cot](https://github.com/cot-rs/cot) - The Rust web framework for lazy developers.
