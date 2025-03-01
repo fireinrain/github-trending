@@ -763,6 +763,7 @@
 
 ## Java
 
+* 【2025-03-01】[noties / Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
 * 【2025-02-27】[TyCoding / langchat](https://github.com/TyCoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
 * 【2025-02-21】[continew-org / continew-admin](https://github.com/continew-org/continew-admin) - 🔥Almost最佳后端规范🔥持续迭代优化的前后端分离中后台管理系统框架，开箱即用，持续提供舒适的开发体验。当前采用技术栈：Spring Boot3（Java17）、Vue3 & Arco Design、TS、Vite5 、Sa-Token、MyBatis Plus、Redisson、JetCache、Jackson、Spring Doc、JustAuth、Easy Excel、Crane4j、Liquibase、Hutool 等。
 * 【2025-02-20】[dependency\-check / DependencyCheck](https://github.com/dependency-check/DependencyCheck) - OWASP dependency\-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies 
@@ -1016,6 +1017,7 @@
 
 ## Python
 
+* 【2025-03-01】[HKUDS / LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval\-Augmented Generation"
 * 【2025-02-26】[fla\-org / flash\-linear\-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state\-of\-the\-art linear attention models in Torch and Triton
 * 【2025-02-26】[Upsonic / Upsonic](https://github.com/Upsonic/Upsonic) - Most Reliable AI Agent Framework
 * 【2025-02-25】[crossbario / autobahn\-testsuite](https://github.com/crossbario/autobahn-testsuite) - Autobahn WebSocket protocol testsuite
@@ -3020,6 +3022,7 @@
 
 ## C#
 
+* 【2025-03-01】[neo-project / neo](https://github.com/neo-project/neo) - NEO Smart Economy
 * 【2025-02-27】[Unity\-Technologies / ProjectAuditor](https://github.com/Unity-Technologies/ProjectAuditor) - Project Auditor is an experimental static analysis tool for Unity Projects 
 * 【2025-02-26】[microsoft / ai\-dev\-gallery](https://github.com/microsoft/ai-dev-gallery) - An open\-source project for Windows developers to learn how to add AI with local models and APIs to Windows apps 
 * 【2025-02-23】[alexhiggins732 / IdentityServer8](https://github.com/alexhiggins732/IdentityServer8) - DotNet 8, Identity, OpenID Connect and OAuth 2 0 Framework for ASP NET Core Identity Server 8
@@ -3757,6 +3760,9 @@
 
 ## Unknown
 
+* 【2025-03-01】[punkpeye / awesome\-mcp\-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers 
+* 【2025-03-01】[amusi / CVPR2025\-Papers\-with\-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
+* 【2025-03-01】[microsoft / vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) - Feedback on GitHub Copilot Chat UX in Visual Studio Code.
 * 【2025-02-28】[microsoft / vscode\-copilot\-release](https://github.com/microsoft/vscode-copilot-release) - Feedback on GitHub Copilot Chat UX in Visual Studio Code 
 * 【2025-02-25】[ZitaoTech / Hackberry\-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
 * 【2025-02-19】[icon11\-community / Folder11](https://github.com/icon11-community/Folder11) - Windows 11\-like custom directory icon 
@@ -4312,6 +4318,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-03-01】[gauge-sh / tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust
+* 【2025-03-01】[michidk / vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers
 * 【2025-02-28】[gauge\-sh / tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally \- ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust
 * 【2025-02-27】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU\-accelerated cross\-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 * 【2025-02-26】[yshavit / mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
@@ -4929,6 +4937,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-03-01】[date\-fns / date\-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 * 【2025-02-27】[anthropics / anthropic\-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 * 【2025-02-26】[safe-global / safe-smart-account](https://github.com/safe-global/safe-smart-account) - Safe allows secure management of blockchain assets.
 * 【2025-02-26】[PySpur\-Dev / pyspur](https://github.com/PySpur-Dev/pyspur) - AI Agent Builder in Python
