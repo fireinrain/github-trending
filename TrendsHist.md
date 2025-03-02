@@ -1017,6 +1017,8 @@
 
 ## Python
 
+* 【2025-03-02】[onyx\-dot\-app / onyx](https://github.com/onyx-dot-app/onyx) - Gen\-AI Chat for Teams \- Think ChatGPT if it had access to your team's unique knowledge 
+* 【2025-03-02】[LazoCoder / Pokemon\-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes 
 * 【2025-03-01】[HKUDS / LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval\-Augmented Generation"
 * 【2025-02-26】[fla\-org / flash\-linear\-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state\-of\-the\-art linear attention models in Torch and Triton
 * 【2025-02-26】[Upsonic / Upsonic](https://github.com/Upsonic/Upsonic) - Most Reliable AI Agent Framework
@@ -3760,6 +3762,7 @@
 
 ## Unknown
 
+* 【2025-03-02】[punkpeye / awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 * 【2025-03-01】[punkpeye / awesome\-mcp\-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers 
 * 【2025-03-01】[amusi / CVPR2025\-Papers\-with\-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
 * 【2025-03-01】[microsoft / vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) - Feedback on GitHub Copilot Chat UX in Visual Studio Code.
@@ -4937,6 +4940,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-03-02】[subnub / myDrive](https://github.com/subnub/myDrive) - Node js and mongoDB Google Drive Clone
+* 【2025-03-02】[SSShooter / mind\-elixir\-core](https://github.com/SSShooter/mind-elixir-core) - ⚗ Mind Elixir is a JavaScript, framework\-agnostic mind map core 
 * 【2025-03-01】[date\-fns / date\-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 * 【2025-02-27】[anthropics / anthropic\-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 * 【2025-02-26】[safe-global / safe-smart-account](https://github.com/safe-global/safe-smart-account) - Safe allows secure management of blockchain assets.
