@@ -763,6 +763,7 @@
 
 ## Java
 
+* 【2025-03-03】[guardianproject / orbot\-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 * 【2025-03-01】[noties / Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
 * 【2025-02-27】[TyCoding / langchat](https://github.com/TyCoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
 * 【2025-02-21】[continew-org / continew-admin](https://github.com/continew-org/continew-admin) - 🔥Almost最佳后端规范🔥持续迭代优化的前后端分离中后台管理系统框架，开箱即用，持续提供舒适的开发体验。当前采用技术栈：Spring Boot3（Java17）、Vue3 & Arco Design、TS、Vite5 、Sa-Token、MyBatis Plus、Redisson、JetCache、Jackson、Spring Doc、JustAuth、Easy Excel、Crane4j、Liquibase、Hutool 等。
@@ -1017,6 +1018,9 @@
 
 ## Python
 
+* 【2025-03-03】[baihengaead / wifi\-crack\-tool](https://github.com/baihengaead/wifi-crack-tool) - WiFi密码暴力破解工具\-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典
+* 【2025-03-03】[casualsnek / waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
+* 【2025-03-03】[salesforce / Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 * 【2025-03-02】[onyx\-dot\-app / onyx](https://github.com/onyx-dot-app/onyx) - Gen\-AI Chat for Teams \- Think ChatGPT if it had access to your team's unique knowledge 
 * 【2025-03-02】[LazoCoder / Pokemon\-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes 
 * 【2025-03-01】[HKUDS / LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval\-Augmented Generation"
@@ -1770,6 +1774,7 @@
 
 ## Javascript
 
+* 【2025-03-03】[lyfe00011 / levanter](https://github.com/lyfe00011/levanter) - 
 * 【2025-02-27】[cyb3rfox / Aurora\-Incident\-Response](https://github.com/cyb3rfox/Aurora-Incident-Response) - Incident Response Documentation made easy  Developed by Incident Responders for Incident Responders
 * 【2025-02-27】[LimeSurvey / LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open\-source survey platform  A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility 
 * 【2025-02-26】[pollinations / pollinations](https://github.com/pollinations/pollinations) - Free Open\-Source Image and Text Generation
@@ -2165,6 +2170,9 @@
 
 ## Go
 
+* 【2025-03-03】[DeepSourceCorp / globstar](https://github.com/DeepSourceCorp/globstar) - Globstar is a fast, feature\-rich, and open\-source static analysis toolkit for writing and running code checkers  Based on tree\-sitter 
+* 【2025-03-03】[gagliardetto / solana\-go](https://github.com/gagliardetto/solana-go) - Go SDK library and RPC client for the Solana Blockchain
+* 【2025-03-03】[langgenius / dify\-plugin\-daemon](https://github.com/langgenius/dify-plugin-daemon) - 
 * 【2025-02-25】[AvaProtocol / EigenLayer\-AVS](https://github.com/AvaProtocol/EigenLayer-AVS) - AvaProtocol Ethereum Automation Build on EigenLayer
 * 【2025-02-25】[googleapis / genai\-toolbox](https://github.com/googleapis/genai-toolbox) - Gen AI Toolbox for Databases is an open source server that makes it easier to build Gen AI tools for interacting with databases 
 * 【2025-02-24】[uber / kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
@@ -3024,6 +3032,7 @@
 
 ## C#
 
+* 【2025-03-03】[DeltaV\-Station / Delta\-v](https://github.com/DeltaV-Station/Delta-v) - A fork of Space Station 14, embracing a mixture of classic SS13 chaos and experimentation only possible with the new engine
 * 【2025-03-01】[neo-project / neo](https://github.com/neo-project/neo) - NEO Smart Economy
 * 【2025-02-27】[Unity\-Technologies / ProjectAuditor](https://github.com/Unity-Technologies/ProjectAuditor) - Project Auditor is an experimental static analysis tool for Unity Projects 
 * 【2025-02-26】[microsoft / ai\-dev\-gallery](https://github.com/microsoft/ai-dev-gallery) - An open\-source project for Windows developers to learn how to add AI with local models and APIs to Windows apps 
@@ -3762,6 +3771,7 @@
 
 ## Unknown
 
+* 【2025-03-03】[langgenius / dify\-plugins](https://github.com/langgenius/dify-plugins) - All Dify Plugins listed in Dify Marketplace, plus illustrated plugin examples 
 * 【2025-03-02】[punkpeye / awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 * 【2025-03-01】[punkpeye / awesome\-mcp\-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers 
 * 【2025-03-01】[amusi / CVPR2025\-Papers\-with\-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
@@ -4321,6 +4331,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-03-03】[vnt-dev / vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
 * 【2025-03-01】[gauge-sh / tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust
 * 【2025-03-01】[michidk / vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers
 * 【2025-02-28】[gauge\-sh / tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally \- ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust
@@ -4940,6 +4951,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-03-03】[iib0011 / omni\-tools](https://github.com/iib0011/omni-tools) - Collection of handy online tools for everyone
 * 【2025-03-02】[subnub / myDrive](https://github.com/subnub/myDrive) - Node js and mongoDB Google Drive Clone
 * 【2025-03-02】[SSShooter / mind\-elixir\-core](https://github.com/SSShooter/mind-elixir-core) - ⚗ Mind Elixir is a JavaScript, framework\-agnostic mind map core 
 * 【2025-03-01】[date\-fns / date\-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
