@@ -1018,6 +1018,7 @@
 
 ## Python
 
+* 【2025-03-04】[jjleng / copilot\-more](https://github.com/jjleng/copilot-more) - GPT\-4o and Claude\-3 7\-Sonnet APIs for coding 
 * 【2025-03-03】[baihengaead / wifi\-crack\-tool](https://github.com/baihengaead/wifi-crack-tool) - WiFi密码暴力破解工具\-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典
 * 【2025-03-03】[casualsnek / waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
 * 【2025-03-03】[salesforce / Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
@@ -2170,6 +2171,9 @@
 
 ## Go
 
+* 【2025-03-04】[gagliardetto / solana-go](https://github.com/gagliardetto/solana-go) - Go SDK library and RPC client for the Solana Blockchain
+* 【2025-03-04】[langgenius / dify-plugin-daemon](https://github.com/langgenius/dify-plugin-daemon) - 
+* 【2025-03-04】[vinceanalytics / vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
 * 【2025-03-03】[DeepSourceCorp / globstar](https://github.com/DeepSourceCorp/globstar) - Globstar is a fast, feature\-rich, and open\-source static analysis toolkit for writing and running code checkers  Based on tree\-sitter 
 * 【2025-03-03】[gagliardetto / solana\-go](https://github.com/gagliardetto/solana-go) - Go SDK library and RPC client for the Solana Blockchain
 * 【2025-03-03】[langgenius / dify\-plugin\-daemon](https://github.com/langgenius/dify-plugin-daemon) - 
@@ -2756,6 +2760,7 @@
 
 ## C++
 
+* 【2025-03-04】[hedge\-dev / UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation 
 * 【2025-02-27】[ROCm / composable_kernel](https://github.com/ROCm/composable_kernel) - Composable Kernel: Performance Portable Programming Model for Machine Learning Tensor Operators
 * 【2025-02-26】[ggml-org / llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 * 【2025-02-24】[mausimus / ShaderGlass](https://github.com/mausimus/ShaderGlass) - Overlay for running GPU shaders on top of Windows desktop
@@ -3349,6 +3354,9 @@
 
 ## Html
 
+* 【2025-03-04】[TheSuperHackers / GeneralsGamePatch](https://github.com/TheSuperHackers/GeneralsGamePatch) - Community Patch to fix and improve original Generals Zero Hour 1 04
+* 【2025-03-04】[18F / guides](https://github.com/18F/guides) - 18F’s guides equip 18F teams, our partners, other practitioners, lawmakers, and the public with tools and practices to improve public services  They affirm experiences, build confidence, and empower exceptional digital experiences 
+* 【2025-03-04】[18F / 18f gsa gov](https://github.com/18F/18f.gsa.gov) - The 18F website
 * 【2025-02-27】[n8n-io / n8n-docs](https://github.com/n8n-io/n8n-docs) - Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI functionality into your workflows.
 * 【2025-02-23】[givanz / Vvveb](https://github.com/givanz/Vvveb) - Powerful and easy to use cms to build websites, blogs or ecommerce stores 
 * 【2025-02-22】[SuperSimpleDev / html-css-course](https://github.com/SuperSimpleDev/html-css-course) - Watch the course: https://youtu.be/G3e-cpL7ofc
@@ -4331,6 +4339,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-03-04】[ethangreen\-dev / lovely\-injector](https://github.com/ethangreen-dev/lovely-injector) - A runtime lua injector for games built with LÖVE
 * 【2025-03-03】[vnt-dev / vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
 * 【2025-03-01】[gauge-sh / tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust
 * 【2025-03-01】[michidk / vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers
@@ -4951,6 +4960,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-03-04】[langchain\-ai / social\-media\-agent](https://github.com/langchain-ai/social-media-agent) - 📲 An agent for sourcing, curating, and scheduling social media posts with human\-in\-the\-loop 
+* 【2025-03-04】[heyverse / hey](https://github.com/heyverse/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 * 【2025-03-03】[iib0011 / omni\-tools](https://github.com/iib0011/omni-tools) - Collection of handy online tools for everyone
 * 【2025-03-02】[subnub / myDrive](https://github.com/subnub/myDrive) - Node js and mongoDB Google Drive Clone
 * 【2025-03-02】[SSShooter / mind\-elixir\-core](https://github.com/SSShooter/mind-elixir-core) - ⚗ Mind Elixir is a JavaScript, framework\-agnostic mind map core 
