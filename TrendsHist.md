@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-03-05】[hedge-dev / UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
+* 【2025-03-05】[virattt / ai\-hedge\-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
+* 【2025-03-05】[jjleng / copilot-more](https://github.com/jjleng/copilot-more) - GPT-4o and Claude-3.7-Sonnet APIs for coding.
 * 【2025-02-28】[allenai / olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 * 【2025-02-28】[freddyaboulton / fastrtc](https://github.com/freddyaboulton/fastrtc) - The python library for real\-time communication
 * 【2025-02-26】[vllm-project / aibrix](https://github.com/vllm-project/aibrix) - Cost-efficient and pluggable Infrastructure components for GenAI inference
@@ -1018,6 +1021,7 @@
 
 ## Python
 
+* 【2025-03-05】[virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 * 【2025-03-04】[jjleng / copilot\-more](https://github.com/jjleng/copilot-more) - GPT\-4o and Claude\-3 7\-Sonnet APIs for coding 
 * 【2025-03-03】[baihengaead / wifi\-crack\-tool](https://github.com/baihengaead/wifi-crack-tool) - WiFi密码暴力破解工具\-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典
 * 【2025-03-03】[casualsnek / waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
@@ -2171,6 +2175,7 @@
 
 ## Go
 
+* 【2025-03-05】[eksctl-io / eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 * 【2025-03-04】[gagliardetto / solana-go](https://github.com/gagliardetto/solana-go) - Go SDK library and RPC client for the Solana Blockchain
 * 【2025-03-04】[langgenius / dify-plugin-daemon](https://github.com/langgenius/dify-plugin-daemon) - 
 * 【2025-03-04】[vinceanalytics / vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
@@ -3037,6 +3042,7 @@
 
 ## C#
 
+* 【2025-03-05】[hedge\-dev / HedgeModManager](https://github.com/hedge-dev/HedgeModManager) - Multiplatform rewrite of Hedge Mod Manager
 * 【2025-03-03】[DeltaV\-Station / Delta\-v](https://github.com/DeltaV-Station/Delta-v) - A fork of Space Station 14, embracing a mixture of classic SS13 chaos and experimentation only possible with the new engine
 * 【2025-03-01】[neo-project / neo](https://github.com/neo-project/neo) - NEO Smart Economy
 * 【2025-02-27】[Unity\-Technologies / ProjectAuditor](https://github.com/Unity-Technologies/ProjectAuditor) - Project Auditor is an experimental static analysis tool for Unity Projects 
@@ -3779,6 +3785,8 @@
 
 ## Unknown
 
+* 【2025-03-05】[amusi / CVPR2025-Papers-with-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
+* 【2025-03-05】[langgenius / dify-plugins](https://github.com/langgenius/dify-plugins) - All Dify Plugins listed in Dify Marketplace, plus illustrated plugin examples.
 * 【2025-03-03】[langgenius / dify\-plugins](https://github.com/langgenius/dify-plugins) - All Dify Plugins listed in Dify Marketplace, plus illustrated plugin examples 
 * 【2025-03-02】[punkpeye / awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 * 【2025-03-01】[punkpeye / awesome\-mcp\-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers 
@@ -4339,6 +4347,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-03-05】[Azure / azure\-sdk\-for\-rust](https://github.com/Azure/azure-sdk-for-rust) - This repository is for the active development of the Azure SDK for Rust  For consumers of the SDK we recommend visiting Docs rs and looking up the docs for any of libraries in the SDK 
 * 【2025-03-04】[ethangreen\-dev / lovely\-injector](https://github.com/ethangreen-dev/lovely-injector) - A runtime lua injector for games built with LÖVE
 * 【2025-03-03】[vnt-dev / vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
 * 【2025-03-01】[gauge-sh / tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust
@@ -4960,6 +4969,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-03-05】[jyjblrd / Low\-Cost\-Mocap](https://github.com/jyjblrd/Low-Cost-Mocap) - Low cost motion capture system for room scale tracking
+* 【2025-03-05】[vitabaks / autobase](https://github.com/vitabaks/autobase) - Automated database platform for PostgreSQL® \- Your own DBaaS  The open\-source alternative to cloud\-managed databases 
 * 【2025-03-04】[langchain\-ai / social\-media\-agent](https://github.com/langchain-ai/social-media-agent) - 📲 An agent for sourcing, curating, and scheduling social media posts with human\-in\-the\-loop 
 * 【2025-03-04】[heyverse / hey](https://github.com/heyverse/hey) - Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
 * 【2025-03-03】[iib0011 / omni\-tools](https://github.com/iib0011/omni-tools) - Collection of handy online tools for everyone
