@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-03-07】[zigtools / zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
+* 【2025-03-07】[Plachtaa / seed\-vc](https://github.com/Plachtaa/seed-vc) - zero\-shot voice conversion & singing voice conversion, with real\-time support
 * 【2025-03-06】[kubernetes\-sigs / kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 * 【2025-03-06】[TanStack / form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type\-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit 
 * 【2025-03-06】[commixproject / commix](https://github.com/commixproject/commix) - Automated All\-in\-One OS Command Injection Exploitation Tool 
@@ -1025,6 +1027,9 @@
 
 ## Python
 
+* 【2025-03-07】[Plachtaa / seed-vc](https://github.com/Plachtaa/seed-vc) - zero-shot voice conversion & singing voice conversion, with real-time support
+* 【2025-03-07】[THUDM / CogView4](https://github.com/THUDM/CogView4) - CogView4, CogView3\-Plus and CogView3(ECCV 2024)
+* 【2025-03-07】[onyx-dot-app / onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 * 【2025-03-06】[gpustack / gpustack](https://github.com/gpustack/gpustack) - Manage GPU clusters for running AI models
 * 【2025-03-06】[lpiccinelli\-eth / UniDepth](https://github.com/lpiccinelli-eth/UniDepth) - Universal Monocular Metric Depth Estimation
 * 【2025-03-06】[unitreerobotics / unitree_rl_gym](https://github.com/unitreerobotics/unitree_rl_gym) - 
@@ -1786,6 +1791,8 @@
 
 ## Javascript
 
+* 【2025-03-07】[maxi1134 / Home\-Assistant\-Config](https://github.com/maxi1134/Home-Assistant-Config) - This is my Smart\-home Installation repository
+* 【2025-03-07】[microsoft / generative\-ai\-with\-javascript](https://github.com/microsoft/generative-ai-with-javascript) - Join a time\-traveling adventure where you meet history’s legends while learning Generative AI technologies! ✨
 * 【2025-03-03】[lyfe00011 / levanter](https://github.com/lyfe00011/levanter) - 
 * 【2025-02-27】[cyb3rfox / Aurora\-Incident\-Response](https://github.com/cyb3rfox/Aurora-Incident-Response) - Incident Response Documentation made easy  Developed by Incident Responders for Incident Responders
 * 【2025-02-27】[LimeSurvey / LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open\-source survey platform  A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched flexibility 
@@ -3793,6 +3800,9 @@
 
 ## Unknown
 
+* 【2025-03-07】[Zzaphkiel / Seraphine](https://github.com/Zzaphkiel/Seraphine) - 
+* 【2025-03-07】[niXman / mingw\-builds\-binaries](https://github.com/niXman/mingw-builds-binaries) - MinGW\-W64 compiler binaries
+* 【2025-03-07】[dhamaniasad / awesome\-postgres](https://github.com/dhamaniasad/awesome-postgres) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome\-mysql
 * 【2025-03-05】[amusi / CVPR2025-Papers-with-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
 * 【2025-03-05】[langgenius / dify-plugins](https://github.com/langgenius/dify-plugins) - All Dify Plugins listed in Dify Marketplace, plus illustrated plugin examples.
 * 【2025-03-03】[langgenius / dify\-plugins](https://github.com/langgenius/dify-plugins) - All Dify Plugins listed in Dify Marketplace, plus illustrated plugin examples 
