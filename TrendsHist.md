@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-03-08】[EFForg / rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
+* 【2025-03-08】[patchy631 / ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - 
+* 【2025-03-08】[GuijiAI / duix.ai](https://github.com/GuijiAI/duix.ai) - 
 * 【2025-03-07】[zigtools / zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
 * 【2025-03-07】[Plachtaa / seed\-vc](https://github.com/Plachtaa/seed-vc) - zero\-shot voice conversion & singing voice conversion, with real\-time support
 * 【2025-03-06】[kubernetes\-sigs / kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
@@ -772,6 +775,7 @@
 
 ## Java
 
+* 【2025-03-08】[dependency-check / DependencyCheck](https://github.com/dependency-check/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 * 【2025-03-03】[guardianproject / orbot\-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 * 【2025-03-01】[noties / Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
 * 【2025-02-27】[TyCoding / langchat](https://github.com/TyCoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
@@ -1027,6 +1031,7 @@
 
 ## Python
 
+* 【2025-03-08】[Tencent / HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
 * 【2025-03-07】[Plachtaa / seed-vc](https://github.com/Plachtaa/seed-vc) - zero-shot voice conversion & singing voice conversion, with real-time support
 * 【2025-03-07】[THUDM / CogView4](https://github.com/THUDM/CogView4) - CogView4, CogView3\-Plus and CogView3(ECCV 2024)
 * 【2025-03-07】[onyx-dot-app / onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
@@ -1791,6 +1796,7 @@
 
 ## Javascript
 
+* 【2025-03-08】[browserbase / mcp\-server\-browserbase](https://github.com/browserbase/mcp-server-browserbase) - 
 * 【2025-03-07】[maxi1134 / Home\-Assistant\-Config](https://github.com/maxi1134/Home-Assistant-Config) - This is my Smart\-home Installation repository
 * 【2025-03-07】[microsoft / generative\-ai\-with\-javascript](https://github.com/microsoft/generative-ai-with-javascript) - Join a time\-traveling adventure where you meet history’s legends while learning Generative AI technologies! ✨
 * 【2025-03-03】[lyfe00011 / levanter](https://github.com/lyfe00011/levanter) - 
@@ -2189,6 +2195,7 @@
 
 ## Go
 
+* 【2025-03-08】[mostlygeek / llama\-swap](https://github.com/mostlygeek/llama-swap) - transparent proxy server for llama cpp's server to provide automatic model swapping
 * 【2025-03-05】[eksctl-io / eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 * 【2025-03-04】[gagliardetto / solana-go](https://github.com/gagliardetto/solana-go) - Go SDK library and RPC client for the Solana Blockchain
 * 【2025-03-04】[langgenius / dify-plugin-daemon](https://github.com/langgenius/dify-plugin-daemon) - 
@@ -2779,6 +2786,7 @@
 
 ## C++
 
+* 【2025-03-08】[bytedance / flux](https://github.com/bytedance/flux) - A fast communication\-overlapping library for tensor/expert parallelism on GPUs 
 * 【2025-03-04】[hedge\-dev / UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation 
 * 【2025-02-27】[ROCm / composable_kernel](https://github.com/ROCm/composable_kernel) - Composable Kernel: Performance Portable Programming Model for Machine Learning Tensor Operators
 * 【2025-02-26】[ggml-org / llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
@@ -4365,6 +4373,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-03-08】[gopher64 / gopher64](https://github.com/gopher64/gopher64) - N64 emulator written in Rust
 * 【2025-03-05】[Azure / azure\-sdk\-for\-rust](https://github.com/Azure/azure-sdk-for-rust) - This repository is for the active development of the Azure SDK for Rust  For consumers of the SDK we recommend visiting Docs rs and looking up the docs for any of libraries in the SDK 
 * 【2025-03-04】[ethangreen\-dev / lovely\-injector](https://github.com/ethangreen-dev/lovely-injector) - A runtime lua injector for games built with LÖVE
 * 【2025-03-03】[vnt-dev / vnt](https://github.com/vnt-dev/vnt) - An efficient VPN. 简便高效的异地组网、内网穿透工具
@@ -4987,6 +4996,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-03-08】[google-gemini / generative-ai-js](https://github.com/google-gemini/generative-ai-js) - The official Node.js / Typescript library for the Google Gemini API
 * 【2025-03-06】[crimx / ext\-saladict](https://github.com/crimx/ext-saladict) - 🥗 All\-in\-one professional pop\-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching 
 * 【2025-03-06】[JOYCEQL / magic\-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor
 * 【2025-03-06】[ourongxing / newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real\-time and hottest news
