@@ -1033,6 +1033,8 @@
 
 ## Python
 
+* 【2025-03-10】[opengeos / geoai](https://github.com/opengeos/geoai) - GeoAI: Artificial Intelligence for Geospatial Data
+* 【2025-03-10】[lss233 / kirara\-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 \| 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 \| 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI \| 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 \|
 * 【2025-03-09】[Lightricks / ComfyUI\-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) - LTX\-Video Support for ComfyUI
 * 【2025-03-08】[Tencent / HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
 * 【2025-03-07】[Plachtaa / seed-vc](https://github.com/Plachtaa/seed-vc) - zero-shot voice conversion & singing voice conversion, with real-time support
@@ -1799,6 +1801,7 @@
 
 ## Javascript
 
+* 【2025-03-10】[marcelscruz / public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 * 【2025-03-09】[browserbase / mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) - 
 * 【2025-03-08】[browserbase / mcp\-server\-browserbase](https://github.com/browserbase/mcp-server-browserbase) - 
 * 【2025-03-07】[maxi1134 / Home\-Assistant\-Config](https://github.com/maxi1134/Home-Assistant-Config) - This is my Smart\-home Installation repository
@@ -2199,6 +2202,8 @@
 
 ## Go
 
+* 【2025-03-10】[mark3labs / mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+* 【2025-03-10】[e2b\-dev / infra](https://github.com/e2b-dev/infra) - Infrastructure for AI code interpreting that's powering E2B 
 * 【2025-03-09】[mark3labs / mcp\-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools 
 * 【2025-03-09】[usual2970 / certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open\-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire 
 * 【2025-03-09】[googleapis / genai-toolbox](https://github.com/googleapis/genai-toolbox) - Gen AI Toolbox for Databases is an open source server that makes it easier to build Gen AI tools for interacting with databases.
@@ -2502,6 +2507,7 @@
 
 ## C
 
+* 【2025-03-10】[espressif / esp-sr](https://github.com/espressif/esp-sr) - Speech recognition
 * 【2025-02-27】[espressif / esp\-sr](https://github.com/espressif/esp-sr) - Speech recognition
 * 【2025-02-27】[unkyulee / micro\-journal](https://github.com/unkyulee/micro-journal) - 
 * 【2025-02-24】[stlink\-org / stlink](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset
@@ -2793,6 +2799,8 @@
 
 ## C++
 
+* 【2025-03-10】[directvt / vtm](https://github.com/directvt/vtm) - Text\-based desktop environment
+* 【2025-03-10】[diasurgical / DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
 * 【2025-03-08】[bytedance / flux](https://github.com/bytedance/flux) - A fast communication\-overlapping library for tensor/expert parallelism on GPUs 
 * 【2025-03-04】[hedge\-dev / UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation 
 * 【2025-02-27】[ROCm / composable_kernel](https://github.com/ROCm/composable_kernel) - Composable Kernel: Performance Portable Programming Model for Machine Learning Tensor Operators
@@ -3390,6 +3398,7 @@
 
 ## Html
 
+* 【2025-03-10】[ClickHouse / ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 * 【2025-03-09】[OCA / stock\-logistics\-reporting](https://github.com/OCA/stock-logistics-reporting) - Provides Odoo Logistics reporting modules
 * 【2025-03-04】[TheSuperHackers / GeneralsGamePatch](https://github.com/TheSuperHackers/GeneralsGamePatch) - Community Patch to fix and improve original Generals Zero Hour 1 04
 * 【2025-03-04】[18F / guides](https://github.com/18F/guides) - 18F’s guides equip 18F teams, our partners, other practitioners, lawmakers, and the public with tools and practices to improve public services  They affirm experiences, build confidence, and empower exceptional digital experiences 
@@ -4383,6 +4392,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-03-10】[bincode\-org / bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust 
+* 【2025-03-10】[bee-san / RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 * 【2025-03-09】[foyer\-rs / foyer](https://github.com/foyer-rs/foyer) - Hybrid in\-memory and disk cache in Rust
 * 【2025-03-09】[bee\-san / RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 * 【2025-03-08】[gopher64 / gopher64](https://github.com/gopher64/gopher64) - N64 emulator written in Rust
@@ -5008,6 +5019,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-03-10】[takram-design-engineering / three-geospatial](https://github.com/takram-design-engineering/three-geospatial) - Geospatial Rendering in Three.js
 * 【2025-03-09】[executeautomation / mcp\-playwright](https://github.com/executeautomation/mcp-playwright) - Repository contains Playwright Model Context Protocol to automate Browser and APIs
 * 【2025-03-09】[takram\-design\-engineering / three\-geospatial](https://github.com/takram-design-engineering/three-geospatial) - Geospatial Rendering in Three js
 * 【2025-03-09】[anthropics / anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
