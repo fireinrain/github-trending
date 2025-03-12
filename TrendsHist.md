@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-03-12】[yuruotong1 / autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer\-using agents AI\-driven local automation assistant that uses natural language to make computers work by themselves
 * 【2025-03-11】[thalissonvs / pydoll](https://github.com/thalissonvs/pydoll) - Pydoll is a library for automating chromium\-based browsers without a WebDriver, offering realistic interactions  It supports Python's asynchronous features, enhancing performance and enabling event capturing and simultaneous web scraping 
 * 【2025-03-09】[jeecgboot / jimureport](https://github.com/jeecgboot/jimureport) - 「数据可视化工具：报表、大屏、仪表盘」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
 * 【2025-03-08】[EFForg / rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
@@ -777,6 +778,7 @@
 
 ## Java
 
+* 【2025-03-12】[vavr\-io / vavr](https://github.com/vavr-io/vavr) - vʌvr (formerly called Javaslang) is a non\-commercial, non\-profit object\-functional library that runs with Java 8+  It aims to reduce the lines of code and increase code quality 
 * 【2025-03-09】[spring\-projects / spring\-ai\-examples](https://github.com/spring-projects/spring-ai-examples) - 
 * 【2025-03-08】[dependency-check / DependencyCheck](https://github.com/dependency-check/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 * 【2025-03-03】[guardianproject / orbot\-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
@@ -1805,6 +1807,9 @@
 
 ## Javascript
 
+* 【2025-03-12】[mendableai / firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
+* 【2025-03-12】[microsoft / generative-ai-with-javascript](https://github.com/microsoft/generative-ai-with-javascript) - Join a time-traveling adventure where you meet history’s legends while learning Generative AI technologies! ✨
+* 【2025-03-12】[Flux159 / mcp\-server\-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
 * 【2025-03-11】[mendableai / firecrawl\-mcp\-server](https://github.com/mendableai/firecrawl-mcp-server) - Official Firecrawl MCP Server \- Adds powerful web scraping to Cursor, Claude and any other LLM clients 
 * 【2025-03-10】[marcelscruz / public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 * 【2025-03-09】[browserbase / mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) - 
@@ -2207,6 +2212,7 @@
 
 ## Go
 
+* 【2025-03-12】[langgenius / dify-sandbox](https://github.com/langgenius/dify-sandbox) - A lightweight, fast, and secure code execution environment that supports multiple programming languages
 * 【2025-03-10】[mark3labs / mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 * 【2025-03-10】[e2b\-dev / infra](https://github.com/e2b-dev/infra) - Infrastructure for AI code interpreting that's powering E2B 
 * 【2025-03-09】[mark3labs / mcp\-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools 
@@ -3404,6 +3410,7 @@
 
 ## Html
 
+* 【2025-03-12】[allwefantasy / auto\-coder](https://github.com/allwefantasy/auto-coder) - 
 * 【2025-03-10】[ClickHouse / ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 * 【2025-03-09】[OCA / stock\-logistics\-reporting](https://github.com/OCA/stock-logistics-reporting) - Provides Odoo Logistics reporting modules
 * 【2025-03-04】[TheSuperHackers / GeneralsGamePatch](https://github.com/TheSuperHackers/GeneralsGamePatch) - Community Patch to fix and improve original Generals Zero Hour 1 04
@@ -3831,6 +3838,7 @@
 
 ## Unknown
 
+* 【2025-03-12】[appcypher / awesome\-mcp\-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers \- A curated list of Model Context Protocol servers
 * 【2025-03-09】[jujumilk3 / leaked\-system\-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 * 【2025-03-09】[rust\-embedded / awesome\-embedded\-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low\-level development in the Rust programming language
 * 【2025-03-07】[Zzaphkiel / Seraphine](https://github.com/Zzaphkiel/Seraphine) - 
@@ -4398,6 +4406,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-03-12】[bincode-org / bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
+* 【2025-03-12】[paradigmxyz / cryo](https://github.com/paradigmxyz/cryo) - cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes
 * 【2025-03-10】[bincode\-org / bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust 
 * 【2025-03-10】[bee-san / RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 * 【2025-03-09】[foyer\-rs / foyer](https://github.com/foyer-rs/foyer) - Hybrid in\-memory and disk cache in Rust
