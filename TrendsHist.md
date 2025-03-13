@@ -778,6 +778,7 @@
 
 ## Java
 
+* 【2025-03-13】[uyuni\-project / uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni
 * 【2025-03-12】[vavr\-io / vavr](https://github.com/vavr-io/vavr) - vʌvr (formerly called Javaslang) is a non\-commercial, non\-profit object\-functional library that runs with Java 8+  It aims to reduce the lines of code and increase code quality 
 * 【2025-03-09】[spring\-projects / spring\-ai\-examples](https://github.com/spring-projects/spring-ai-examples) - 
 * 【2025-03-08】[dependency-check / DependencyCheck](https://github.com/dependency-check/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
@@ -1807,6 +1808,8 @@
 
 ## Javascript
 
+* 【2025-03-13】[clusterzx / paperless\-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless\-ngx using OpenAI API, Ollama, Deepseek\-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents 
+* 【2025-03-13】[steve02081504 / fount](https://github.com/steve02081504/fount) - AI character architecture/package loader in pure JS with a chat UI
 * 【2025-03-12】[mendableai / firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
 * 【2025-03-12】[microsoft / generative-ai-with-javascript](https://github.com/microsoft/generative-ai-with-javascript) - Join a time-traveling adventure where you meet history’s legends while learning Generative AI technologies! ✨
 * 【2025-03-12】[Flux159 / mcp\-server\-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
@@ -2810,6 +2813,7 @@
 
 ## C++
 
+* 【2025-03-13】[ros-controls / ros2_controllers](https://github.com/ros-controls/ros2_controllers) - Generic robotic controllers to accompany ros2_control
 * 【2025-03-11】[thomasxm / BOAZ_beta](https://github.com/thomasxm/BOAZ_beta) - Multilayered AV/EDR Evasion Framework
 * 【2025-03-10】[directvt / vtm](https://github.com/directvt/vtm) - Text\-based desktop environment
 * 【2025-03-10】[diasurgical / DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
@@ -3410,6 +3414,7 @@
 
 ## Html
 
+* 【2025-03-13】[JackHopkins / factorio\-learning\-environment](https://github.com/JackHopkins/factorio-learning-environment) - A non\-saturating, open\-ended environment for evaluating LLMs in Factorio
 * 【2025-03-12】[allwefantasy / auto\-coder](https://github.com/allwefantasy/auto-coder) - 
 * 【2025-03-10】[ClickHouse / ClickBench](https://github.com/ClickHouse/ClickBench) - ClickBench: a Benchmark For Analytical Databases
 * 【2025-03-09】[OCA / stock\-logistics\-reporting](https://github.com/OCA/stock-logistics-reporting) - Provides Odoo Logistics reporting modules
@@ -3838,6 +3843,7 @@
 
 ## Unknown
 
+* 【2025-03-13】[appcypher / awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 * 【2025-03-12】[appcypher / awesome\-mcp\-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers \- A curated list of Model Context Protocol servers
 * 【2025-03-09】[jujumilk3 / leaked\-system\-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 * 【2025-03-09】[rust\-embedded / awesome\-embedded\-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low\-level development in the Rust programming language
