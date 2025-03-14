@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-03-14】[johnbean393 / Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software  Powered by llama cpp 
+* 【2025-03-14】[JackHopkins / factorio-learning-environment](https://github.com/JackHopkins/factorio-learning-environment) - A non-saturating, open-ended environment for evaluating LLMs in Factorio
 * 【2025-03-12】[yuruotong1 / autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer\-using agents AI\-driven local automation assistant that uses natural language to make computers work by themselves
 * 【2025-03-11】[thalissonvs / pydoll](https://github.com/thalissonvs/pydoll) - Pydoll is a library for automating chromium\-based browsers without a WebDriver, offering realistic interactions  It supports Python's asynchronous features, enhancing performance and enabling event capturing and simultaneous web scraping 
 * 【2025-03-09】[jeecgboot / jimureport](https://github.com/jeecgboot/jimureport) - 「数据可视化工具：报表、大屏、仪表盘」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
@@ -778,6 +780,8 @@
 
 ## Java
 
+* 【2025-03-14】[sleuthkit / autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools  It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer  You can even use it to recover photos from your camera's memory card 
+* 【2025-03-14】[freeok / so\-novel](https://github.com/freeok/so-novel) - 小说下载器 \| 小说下载工具 \| 小说下载神器 \| 免费小说 \| 网络小说 \| 免费下载 \| 网文下载
 * 【2025-03-13】[uyuni\-project / uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni
 * 【2025-03-12】[vavr\-io / vavr](https://github.com/vavr-io/vavr) - vʌvr (formerly called Javaslang) is a non\-commercial, non\-profit object\-functional library that runs with Java 8+  It aims to reduce the lines of code and increase code quality 
 * 【2025-03-09】[spring\-projects / spring\-ai\-examples](https://github.com/spring-projects/spring-ai-examples) - 
@@ -1037,6 +1041,8 @@
 
 ## Python
 
+* 【2025-03-14】[Blaizzy / mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
+* 【2025-03-14】[microsoft / TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25) 
 * 【2025-03-11】[ElectricAlexis / NotaGen](https://github.com/ElectricAlexis/NotaGen) - NotaGen: Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms
 * 【2025-03-11】[kijai / ComfyUI\-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper) - 
 * 【2025-03-11】[lss233 / kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
@@ -4412,6 +4418,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-03-14】[eclipse-zenoh / zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.
 * 【2025-03-12】[bincode-org / bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 * 【2025-03-12】[paradigmxyz / cryo](https://github.com/paradigmxyz/cryo) - cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes
 * 【2025-03-10】[bincode\-org / bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust 
@@ -5041,6 +5048,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-03-14】[Jonghakseo / chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
+* 【2025-03-14】[Zippland / worth\-calculator](https://github.com/Zippland/worth-calculator) - 一个帮你计算当前工作"值不值得"的在线工具
 * 【2025-03-10】[takram-design-engineering / three-geospatial](https://github.com/takram-design-engineering/three-geospatial) - Geospatial Rendering in Three.js
 * 【2025-03-09】[executeautomation / mcp\-playwright](https://github.com/executeautomation/mcp-playwright) - Repository contains Playwright Model Context Protocol to automate Browser and APIs
 * 【2025-03-09】[takram\-design\-engineering / three\-geospatial](https://github.com/takram-design-engineering/three-geospatial) - Geospatial Rendering in Three js
