@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-03-16】[yuaotian / go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+* 【2025-03-16】[nvim\-lualine / lualine nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua 
+* 【2025-03-16】[langchain\-ai / ollama\-deep\-researcher](https://github.com/langchain-ai/ollama-deep-researcher) - Fully local web research and report writing assistant
 * 【2025-03-15】[yuaotian / go\-cursor\-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit  / Too many free trial accounts used on this machine  Please upgrade to pro  We have this limit in place to prevent abuse  Please let us know if you believe this is a mistake 
 * 【2025-03-15】[kern / filepizza](https://github.com/kern/filepizza) - 🍕 Peer\-to\-peer file transfers in your browser
 * 【2025-03-14】[johnbean393 / Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software  Powered by llama cpp 
@@ -782,6 +785,8 @@
 
 ## Java
 
+* 【2025-03-16】[spring-projects / spring-ai-examples](https://github.com/spring-projects/spring-ai-examples) - 
+* 【2025-03-16】[HbmMods / Hbm\-s\-Nuclear\-Tech\-GIT](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT) - A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development 
 * 【2025-03-14】[sleuthkit / autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools  It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer  You can even use it to recover photos from your camera's memory card 
 * 【2025-03-14】[freeok / so\-novel](https://github.com/freeok/so-novel) - 小说下载器 \| 小说下载工具 \| 小说下载神器 \| 免费小说 \| 网络小说 \| 免费下载 \| 网文下载
 * 【2025-03-13】[uyuni\-project / uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni
@@ -1043,6 +1048,11 @@
 
 ## Python
 
+* 【2025-03-16】[langchain-ai / ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher) - Fully local web research and report writing assistant
+* 【2025-03-16】[QiuChenly / InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么
+* 【2025-03-16】[jiji262 / douyin\-downloader](https://github.com/jiji262/douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
+* 【2025-03-16】[tensortrade\-org / tensortrade](https://github.com/tensortrade-org/tensortrade) - An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents 
+* 【2025-03-16】[simular-ai / Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 * 【2025-03-15】[simular\-ai / Agent\-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 * 【2025-03-15】[aws-samples / bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - OpenAI-Compatible RESTful APIs for Amazon Bedrock
 * 【2025-03-14】[Blaizzy / mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
@@ -1818,6 +1828,7 @@
 
 ## Javascript
 
+* 【2025-03-16】[jujumilk3 / leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 * 【2025-03-13】[clusterzx / paperless\-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless\-ngx using OpenAI API, Ollama, Deepseek\-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents 
 * 【2025-03-13】[steve02081504 / fount](https://github.com/steve02081504/fount) - AI character architecture/package loader in pure JS with a chat UI
 * 【2025-03-12】[mendableai / firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
@@ -4424,6 +4435,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-03-16】[PowerShell / DSC](https://github.com/PowerShell/DSC) - This repo is for the DSC v3 project
 * 【2025-03-14】[eclipse-zenoh / zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.
 * 【2025-03-12】[bincode-org / bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
 * 【2025-03-12】[paradigmxyz / cryo](https://github.com/paradigmxyz/cryo) - cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes
@@ -5054,6 +5066,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-03-16】[TriliumNext / Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
 * 【2025-03-15】[beekeeper-studio / beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 * 【2025-03-15】[codexu / note-gen](https://github.com/codexu/note-gen) - 一款专注于记录和写作的跨端 AI 笔记应用。
 * 【2025-03-14】[Jonghakseo / chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
