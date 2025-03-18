@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-03-18】[RIP-Comm / sossoldi](https://github.com/RIP-Comm/sossoldi) - "Sossoldi" is a wealth management / personal finance / Net Worth tracking app, made with Flutter.
 * 【2025-03-17】[ai\-christianson / RA Aid](https://github.com/ai-christianson/RA.Aid) - Develop software autonomously 
 * 【2025-03-17】[RIP\-Comm / sossoldi](https://github.com/RIP-Comm/sossoldi) - "Sossoldi" is a wealth management / personal finance / Net Worth tracking app, made with Flutter 
 * 【2025-03-16】[yuaotian / go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
@@ -787,6 +788,7 @@
 
 ## Java
 
+* 【2025-03-18】[kooritea / fcmfix](https://github.com/kooritea/fcmfix) - [xposed]让fcm唤醒已完全停止的应用
 * 【2025-03-16】[spring-projects / spring-ai-examples](https://github.com/spring-projects/spring-ai-examples) - 
 * 【2025-03-16】[HbmMods / Hbm\-s\-Nuclear\-Tech\-GIT](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT) - A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development 
 * 【2025-03-14】[sleuthkit / autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools  It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer  You can even use it to recover photos from your camera's memory card 
@@ -1050,6 +1052,8 @@
 
 ## Python
 
+* 【2025-03-18】[SWivid / F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
+* 【2025-03-18】[exo-lang / exo](https://github.com/exo-lang/exo) - Exocompilation for productive programming of hardware accelerators
 * 【2025-03-17】[ai-christianson / RA.Aid](https://github.com/ai-christianson/RA.Aid) - Develop software autonomously.
 * 【2025-03-17】[exo\-lang / exo](https://github.com/exo-lang/exo) - Exocompilation for productive programming of hardware accelerators
 * 【2025-03-16】[langchain-ai / ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher) - Fully local web research and report writing assistant
@@ -1832,6 +1836,7 @@
 
 ## Javascript
 
+* 【2025-03-18】[exa\-labs / exa\-mcp\-server](https://github.com/exa-labs/exa-mcp-server) - Claude can perform Web Search \| Exa with MCP (Model Context Protocol)
 * 【2025-03-16】[jujumilk3 / leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 * 【2025-03-13】[clusterzx / paperless\-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless\-ngx using OpenAI API, Ollama, Deepseek\-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents 
 * 【2025-03-13】[steve02081504 / fount](https://github.com/steve02081504/fount) - AI character architecture/package loader in pure JS with a chat UI
@@ -2240,6 +2245,7 @@
 
 ## Go
 
+* 【2025-03-18】[marcopiovanello / yt\-dlp\-web\-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt\-dlp  Designed to be self\-hosted 
 * 【2025-03-12】[langgenius / dify-sandbox](https://github.com/langgenius/dify-sandbox) - A lightweight, fast, and secure code execution environment that supports multiple programming languages
 * 【2025-03-10】[mark3labs / mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 * 【2025-03-10】[e2b\-dev / infra](https://github.com/e2b-dev/infra) - Infrastructure for AI code interpreting that's powering E2B 
@@ -5072,6 +5078,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-03-18】[patruff / ollama\-mcp\-bridge](https://github.com/patruff/ollama-mcp-bridge) - Bridge between Ollama and MCP servers, enabling local LLMs to use Model Context Protocol tools
 * 【2025-03-17】[nanbingxyz / 5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross\-platform desktop AI assistant, MCP client  It compatible with major service providers, supports local knowledge base and tools via model context protocol servers  
 * 【2025-03-16】[TriliumNext / Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
 * 【2025-03-15】[beekeeper-studio / beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
