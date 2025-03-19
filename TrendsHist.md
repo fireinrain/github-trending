@@ -1052,6 +1052,8 @@
 
 ## Python
 
+* 【2025-03-19】[fatihak / InkyPi](https://github.com/fatihak/InkyPi) - E\-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
+* 【2025-03-19】[mvt-project / mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 * 【2025-03-18】[SWivid / F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 * 【2025-03-18】[exo-lang / exo](https://github.com/exo-lang/exo) - Exocompilation for productive programming of hardware accelerators
 * 【2025-03-17】[ai-christianson / RA.Aid](https://github.com/ai-christianson/RA.Aid) - Develop software autonomously.
@@ -1836,6 +1838,8 @@
 
 ## Javascript
 
+* 【2025-03-19】[AntSwordProject / antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross\-platform website management toolkit 
+* 【2025-03-19】[ai-shifu / ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 * 【2025-03-18】[exa\-labs / exa\-mcp\-server](https://github.com/exa-labs/exa-mcp-server) - Claude can perform Web Search \| Exa with MCP (Model Context Protocol)
 * 【2025-03-16】[jujumilk3 / leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 * 【2025-03-13】[clusterzx / paperless\-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless\-ngx using OpenAI API, Ollama, Deepseek\-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents 
@@ -2245,6 +2249,7 @@
 
 ## Go
 
+* 【2025-03-19】[metoro\-io / mcp\-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code  Docs at https://mcpgolang com
 * 【2025-03-18】[marcopiovanello / yt\-dlp\-web\-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt\-dlp  Designed to be self\-hosted 
 * 【2025-03-12】[langgenius / dify-sandbox](https://github.com/langgenius/dify-sandbox) - A lightweight, fast, and secure code execution environment that supports multiple programming languages
 * 【2025-03-10】[mark3labs / mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
@@ -2846,6 +2851,8 @@
 
 ## C++
 
+* 【2025-03-19】[YimMenu / YimMenuV2](https://github.com/YimMenu/YimMenuV2) - Unfinished WIP
+* 【2025-03-19】[Mahdi\-zarei / nekoray](https://github.com/Mahdi-zarei/nekoray) - Qt based cross\-platform GUI proxy configuration manager (backend: sing\-box)
 * 【2025-03-13】[ros-controls / ros2_controllers](https://github.com/ros-controls/ros2_controllers) - Generic robotic controllers to accompany ros2_control
 * 【2025-03-11】[thomasxm / BOAZ_beta](https://github.com/thomasxm/BOAZ_beta) - Multilayered AV/EDR Evasion Framework
 * 【2025-03-10】[directvt / vtm](https://github.com/directvt/vtm) - Text\-based desktop environment
@@ -3128,6 +3135,8 @@
 
 ## C#
 
+* 【2025-03-19】[Cysharp / ZLinq](https://github.com/Cysharp/ZLinq) - Zero allocation LINQ with Span and LINQ to SIMD, LINQ to Tree (FileSystem, Json, GameObject, etc ) for all  NET platforms and Unity 
+* 【2025-03-19】[jxlpzqc / TMSpeech](https://github.com/jxlpzqc/TMSpeech) - 腾讯会议摸鱼工具
 * 【2025-03-15】[DeltaV-Station / Delta-v](https://github.com/DeltaV-Station/Delta-v) - A fork of Space Station 14, embracing a mixture of classic SS13 chaos and experimentation only possible with the new engine
 * 【2025-03-06】[hedge-dev / HedgeModManager](https://github.com/hedge-dev/HedgeModManager) - Multiplatform rewrite of Hedge Mod Manager
 * 【2025-03-05】[hedge\-dev / HedgeModManager](https://github.com/hedge-dev/HedgeModManager) - Multiplatform rewrite of Hedge Mod Manager
@@ -3448,6 +3457,7 @@
 
 ## Html
 
+* 【2025-03-19】[fossology / fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit  As a toolkit you can run license, copyright and export control scans from the command line  As a system, a database and web ui are provided to give you a compliance workflow  License, copyright and export scanners are tools used in the workflow 
 * 【2025-03-17】[OWASP\-BLT / BLT](https://github.com/OWASP-BLT/BLT) - OWASP BLT is a collection of security tools 
 * 【2025-03-13】[JackHopkins / factorio\-learning\-environment](https://github.com/JackHopkins/factorio-learning-environment) - A non\-saturating, open\-ended environment for evaluating LLMs in Factorio
 * 【2025-03-12】[allwefantasy / auto\-coder](https://github.com/allwefantasy/auto-coder) - 
@@ -4447,6 +4457,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-03-19】[aws / amazon\-q\-developer\-cli](https://github.com/aws/amazon-q-developer-cli) - Add autocomplete and AI to your existing terminal on macOS & Linux
+* 【2025-03-19】[0xNineteen / solana\-arbitrage\-bot](https://github.com/0xNineteen/solana-arbitrage-bot) - solana arbitrage bot across multiple spot dexs
+* 【2025-03-19】[smol\-rs / smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 * 【2025-03-16】[PowerShell / DSC](https://github.com/PowerShell/DSC) - This repo is for the DSC v3 project
 * 【2025-03-14】[eclipse-zenoh / zenoh](https://github.com/eclipse-zenoh/zenoh) - zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.
 * 【2025-03-12】[bincode-org / bincode](https://github.com/bincode-org/bincode) - A binary encoder / decoder implementation in Rust.
@@ -5078,6 +5091,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-03-19】[gristlabs / grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 * 【2025-03-18】[patruff / ollama\-mcp\-bridge](https://github.com/patruff/ollama-mcp-bridge) - Bridge between Ollama and MCP servers, enabling local LLMs to use Model Context Protocol tools
 * 【2025-03-17】[nanbingxyz / 5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross\-platform desktop AI assistant, MCP client  It compatible with major service providers, supports local knowledge base and tools via model context protocol servers  
 * 【2025-03-16】[TriliumNext / Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
