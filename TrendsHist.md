@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-03-22】[Flowseal / zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) - 
 * 【2025-03-21】[SakanaAI / AI\-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open\-Ended Scientific Discovery 🧑‍🔬
 * 【2025-03-21】[sinclairtarget / git\-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 * 【2025-03-21】[hotheadhacker / awesome\-selfhost\-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open\-source, self\-hosted projects deployable with Docker and docker\-compose  Your go\-to resource for amazing self\-hostable software 
@@ -792,6 +793,7 @@
 
 ## Java
 
+* 【2025-03-22】[valkey-io / valkey-glide](https://github.com/valkey-io/valkey-glide) - An open source Valkey client library that supports Valkey, and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey and Redis OSS based applications. GLIDE is a multi language client library, written in Rust with programming language bindings, such as Java and Python
 * 【2025-03-21】[ageerle / ruoyi\-ai](https://github.com/ageerle/ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 * 【2025-03-20】[dji\-sdk / Mobile\-SDK\-Android\-V5](https://github.com/dji-sdk/Mobile-SDK-Android-V5) - MSDK V5 Sample
 * 【2025-03-18】[kooritea / fcmfix](https://github.com/kooritea/fcmfix) - [xposed]让fcm唤醒已完全停止的应用
@@ -1058,6 +1060,7 @@
 
 ## Python
 
+* 【2025-03-22】[lastmile\-ai / mcp\-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 * 【2025-03-21】[NVIDIA / physicsnemo](https://github.com/NVIDIA/physicsnemo) - Open\-source deep\-learning framework for building, training, and fine\-tuning deep learning models using state\-of\-the\-art Physics\-ML methods
 * 【2025-03-21】[ShihuaHuang95 / DEIM](https://github.com/ShihuaHuang95/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
 * 【2025-03-20】[bytedance / LatentSync](https://github.com/bytedance/LatentSync) - Taming Stable Diffusion for Lip Sync!
@@ -4480,6 +4483,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-03-22】[googlefonts / fontations](https://github.com/googlefonts/fontations) - Reading and writing font files
 * 【2025-03-20】[icann / icann\-rdap](https://github.com/icann/icann-rdap) - ICANN implementation of the Registry Data Access Protocol (RDAP)
 * 【2025-03-20】[aws / amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - Add autocomplete and AI to your existing terminal on macOS & Linux
 * 【2025-03-20】[bootc\-dev / bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
@@ -5118,6 +5122,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-03-22】[JOYCEQL / magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor
+* 【2025-03-22】[wonderwhy\-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er/ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control
 * 【2025-03-21】[better\-auth / better\-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 * 【2025-03-20】[cloudflare / mcp\-server\-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - 
 * 【2025-03-19】[gristlabs / grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
