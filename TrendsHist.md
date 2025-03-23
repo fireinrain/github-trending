@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-03-23】[mongodb-developer / GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase) - GenAI Cookbook
+* 【2025-03-23】[RSSNext / Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 * 【2025-03-22】[Flowseal / zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) - 
 * 【2025-03-21】[SakanaAI / AI\-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open\-Ended Scientific Discovery 🧑‍🔬
 * 【2025-03-21】[sinclairtarget / git\-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
@@ -793,6 +795,8 @@
 
 ## Java
 
+* 【2025-03-23】[ageerle / ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
+* 【2025-03-23】[uyuni-project / uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni
 * 【2025-03-22】[valkey-io / valkey-glide](https://github.com/valkey-io/valkey-glide) - An open source Valkey client library that supports Valkey, and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey and Redis OSS based applications. GLIDE is a multi language client library, written in Rust with programming language bindings, such as Java and Python
 * 【2025-03-21】[ageerle / ruoyi\-ai](https://github.com/ageerle/ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 * 【2025-03-20】[dji\-sdk / Mobile\-SDK\-Android\-V5](https://github.com/dji-sdk/Mobile-SDK-Android-V5) - MSDK V5 Sample
@@ -2574,6 +2578,7 @@
 
 ## C
 
+* 【2025-03-23】[tuya / TuyaOpen](https://github.com/tuya/TuyaOpen) - Tuya open source AI+IoT development framework for device for T2, T3, T5AI, esp32, esp32c3, ln882h, bk7231n
 * 【2025-03-21】[gozfree / gear\-lib](https://github.com/gozfree/gear-lib) - Gear\-Lib, C library for IOT Embedded Multimedia and Network
 * 【2025-03-17】[lwfinger / rtw88](https://github.com/lwfinger/rtw88) - A backport of the Realtek Wifi 5 drivers from the wireless\-next repo 
 * 【2025-03-15】[open\-quantum\-safe / oqs\-provider](https://github.com/open-quantum-safe/oqs-provider) - OpenSSL 3 provider containing post\-quantum algorithms
@@ -5122,6 +5127,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-03-23】[wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er/ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+* 【2025-03-23】[PySpur-Dev / pyspur](https://github.com/PySpur-Dev/pyspur) - A visual playground for agentic workflows: Iterate over your agents 10x faster
 * 【2025-03-22】[JOYCEQL / magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor
 * 【2025-03-22】[wonderwhy\-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er/ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control
 * 【2025-03-21】[better\-auth / better\-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
