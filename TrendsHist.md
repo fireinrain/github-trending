@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-03-24】[Devolutions / IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
+* 【2025-03-24】[joanrod / star\-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task  Using a vision\-language modeling architecture, StarVector processes both visual and textual inputs to produce high\-quality SVG code with remarkable precision 
+* 【2025-03-24】[microsoft / ai\-agents\-for\-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
 * 【2025-03-23】[mongodb-developer / GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase) - GenAI Cookbook
 * 【2025-03-23】[RSSNext / Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 * 【2025-03-22】[Flowseal / zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) - 
@@ -1064,6 +1067,9 @@
 
 ## Python
 
+* 【2025-03-24】[joanrod / star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
+* 【2025-03-24】[pydantic / pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs
+* 【2025-03-24】[SafeAILab / EAGLE](https://github.com/SafeAILab/EAGLE) - Official Implementation of EAGLE\-1 (ICML'24), EAGLE\-2 (EMNLP'24), and EAGLE\-3 
 * 【2025-03-22】[lastmile\-ai / mcp\-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 * 【2025-03-21】[NVIDIA / physicsnemo](https://github.com/NVIDIA/physicsnemo) - Open\-source deep\-learning framework for building, training, and fine\-tuning deep learning models using state\-of\-the\-art Physics\-ML methods
 * 【2025-03-21】[ShihuaHuang95 / DEIM](https://github.com/ShihuaHuang95/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
@@ -1854,6 +1860,7 @@
 
 ## Javascript
 
+* 【2025-03-24】[pi\-hole / web](https://github.com/pi-hole/web) - Pi\-hole Dashboard for stats and more
 * 【2025-03-21】[NB-Group / NB_Music](https://github.com/NB-Group/NB_Music) - A nearly perfect music player.
 * 【2025-03-20】[NB\-Group / NB_Music](https://github.com/NB-Group/NB_Music) - A nearly perfect music player 
 * 【2025-03-19】[AntSwordProject / antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross\-platform website management toolkit 
@@ -2267,6 +2274,7 @@
 
 ## Go
 
+* 【2025-03-24】[lovelaze / nebula\-sync](https://github.com/lovelaze/nebula-sync) - Synchronize configuration of multiple Pi\-hole v6 x instances 
 * 【2025-03-21】[sinclairtarget / git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 * 【2025-03-21】[cloudwego / eino\-examples](https://github.com/cloudwego/eino-examples) - Examples and demonstrations for using the Eino framework
 * 【2025-03-20】[mark3labs / mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP) 
@@ -2578,6 +2586,7 @@
 
 ## C
 
+* 【2025-03-24】[bitaxeorg / ESP\-Miner](https://github.com/bitaxeorg/ESP-Miner) - A bitcoin ASIC miner for the ESP32
 * 【2025-03-23】[tuya / TuyaOpen](https://github.com/tuya/TuyaOpen) - Tuya open source AI+IoT development framework for device for T2, T3, T5AI, esp32, esp32c3, ln882h, bk7231n
 * 【2025-03-21】[gozfree / gear\-lib](https://github.com/gozfree/gear-lib) - Gear\-Lib, C library for IOT Embedded Multimedia and Network
 * 【2025-03-17】[lwfinger / rtw88](https://github.com/lwfinger/rtw88) - A backport of the Realtek Wifi 5 drivers from the wireless\-next repo 
@@ -2874,6 +2883,7 @@
 
 ## C++
 
+* 【2025-03-24】[FlagBrew / PKSM](https://github.com/FlagBrew/PKSM) - Gen I to GenVIII save manager 
 * 【2025-03-21】[autowarefoundation / autoware_universe](https://github.com/autowarefoundation/autoware_universe) - 
 * 【2025-03-21】[openvinotoolkit / openvino genai](https://github.com/openvinotoolkit/openvino.genai) - Run Generative AI models with simple C++/Python API and using OpenVINO Runtime
 * 【2025-03-19】[YimMenu / YimMenuV2](https://github.com/YimMenu/YimMenuV2) - Unfinished WIP
@@ -3483,6 +3493,7 @@
 
 ## Html
 
+* 【2025-03-24】[openfoodfacts / openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) - Open Food Facts database, API server and web interface - 🐪🦋 Perl, CSS and JS coders welcome 😊 For helping in Python, see Robotoff or taxonomy-editor
 * 【2025-03-21】[hotheadhacker / awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
 * 【2025-03-21】[apache / grails\-core](https://github.com/apache/grails-core) - The Grails Web Application Framework
 * 【2025-03-21】[allwefantasy / auto-coder](https://github.com/allwefantasy/auto-coder) - 
@@ -5127,6 +5138,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-03-24】[better-auth / better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+* 【2025-03-24】[tensorflow / tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 * 【2025-03-23】[wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er/ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 * 【2025-03-23】[PySpur-Dev / pyspur](https://github.com/PySpur-Dev/pyspur) - A visual playground for agentic workflows: Iterate over your agents 10x faster
 * 【2025-03-22】[JOYCEQL / magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor
