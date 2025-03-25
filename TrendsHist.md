@@ -1067,6 +1067,8 @@
 
 ## Python
 
+* 【2025-03-25】[MarkusPfundstein / mcp\-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin
+* 【2025-03-25】[amd / gaia](https://github.com/amd/gaia) - Run LLM Agents on Ryzen AI PCs in Minutes
 * 【2025-03-24】[joanrod / star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
 * 【2025-03-24】[pydantic / pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs
 * 【2025-03-24】[SafeAILab / EAGLE](https://github.com/SafeAILab/EAGLE) - Official Implementation of EAGLE\-1 (ICML'24), EAGLE\-2 (EMNLP'24), and EAGLE\-3 
@@ -1860,6 +1862,7 @@
 
 ## Javascript
 
+* 【2025-03-25】[pi-hole / web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more
 * 【2025-03-24】[pi\-hole / web](https://github.com/pi-hole/web) - Pi\-hole Dashboard for stats and more
 * 【2025-03-21】[NB-Group / NB_Music](https://github.com/NB-Group/NB_Music) - A nearly perfect music player.
 * 【2025-03-20】[NB\-Group / NB_Music](https://github.com/NB-Group/NB_Music) - A nearly perfect music player 
@@ -2586,6 +2589,8 @@
 
 ## C
 
+* 【2025-03-25】[bitaxeorg / ESP-Miner](https://github.com/bitaxeorg/ESP-Miner) - A bitcoin ASIC miner for the ESP32
+* 【2025-03-25】[bootchk / resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis
 * 【2025-03-24】[bitaxeorg / ESP\-Miner](https://github.com/bitaxeorg/ESP-Miner) - A bitcoin ASIC miner for the ESP32
 * 【2025-03-23】[tuya / TuyaOpen](https://github.com/tuya/TuyaOpen) - Tuya open source AI+IoT development framework for device for T2, T3, T5AI, esp32, esp32c3, ln882h, bk7231n
 * 【2025-03-21】[gozfree / gear\-lib](https://github.com/gozfree/gear-lib) - Gear\-Lib, C library for IOT Embedded Multimedia and Network
@@ -3493,6 +3498,7 @@
 
 ## Html
 
+* 【2025-03-25】[m4tinbeigi\-official / freemovie](https://github.com/m4tinbeigi-official/freemovie) - 
 * 【2025-03-24】[openfoodfacts / openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) - Open Food Facts database, API server and web interface - 🐪🦋 Perl, CSS and JS coders welcome 😊 For helping in Python, see Robotoff or taxonomy-editor
 * 【2025-03-21】[hotheadhacker / awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
 * 【2025-03-21】[apache / grails\-core](https://github.com/apache/grails-core) - The Grails Web Application Framework
@@ -3930,6 +3936,7 @@
 
 ## Unknown
 
+* 【2025-03-25】[caido / caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 * 【2025-03-13】[appcypher / awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 * 【2025-03-12】[appcypher / awesome\-mcp\-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers \- A curated list of Model Context Protocol servers
 * 【2025-03-09】[jujumilk3 / leaked\-system\-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
@@ -5138,6 +5145,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-03-25】[web\-infra\-dev / rsdoctor](https://github.com/web-infra-dev/rsdoctor) - A one\-stop build analyzer for Rspack and webpack  Support us with a star ⭐️
 * 【2025-03-24】[better-auth / better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 * 【2025-03-24】[tensorflow / tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 * 【2025-03-23】[wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er/ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
