@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-03-26】[nf-core / modules](https://github.com/nf-core/modules) - Repository to host tool-specific module files for the Nextflow DSL2 community!
 * 【2025-03-24】[Devolutions / IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 * 【2025-03-24】[joanrod / star\-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task  Using a vision\-language modeling architecture, StarVector processes both visual and textual inputs to produce high\-quality SVG code with remarkable precision 
 * 【2025-03-24】[microsoft / ai\-agents\-for\-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
@@ -798,6 +799,7 @@
 
 ## Java
 
+* 【2025-03-26】[freeok / so-novel](https://github.com/freeok/so-novel) - 小说下载器 | 小说下载工具 | 小说下载神器 | 免费小说 | 网络小说 | 免费下载 | 网文下载
 * 【2025-03-23】[ageerle / ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 * 【2025-03-23】[uyuni-project / uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni
 * 【2025-03-22】[valkey-io / valkey-glide](https://github.com/valkey-io/valkey-glide) - An open source Valkey client library that supports Valkey, and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey and Redis OSS based applications. GLIDE is a multi language client library, written in Rust with programming language bindings, such as Java and Python
@@ -1067,6 +1069,8 @@
 
 ## Python
 
+* 【2025-03-26】[mikel\-brostrom / boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
+* 【2025-03-26】[hect0x7 / JMComic\-Crawler\-Python](https://github.com/hect0x7/JMComic-Crawler-Python) - Python API for JMComic \| 提供Python API访问禁漫天堂，同时支持网页端和移动端 \| 禁漫天堂GitHub Actions下载器🚀
 * 【2025-03-25】[MarkusPfundstein / mcp\-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin
 * 【2025-03-25】[amd / gaia](https://github.com/amd/gaia) - Run LLM Agents on Ryzen AI PCs in Minutes
 * 【2025-03-24】[joanrod / star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
@@ -1862,6 +1866,7 @@
 
 ## Javascript
 
+* 【2025-03-26】[prateek\-chaubey / YTPro](https://github.com/prateek-chaubey/YTPro) - All in one YouTube App with downloader , background player , Google Gemini ✨ and many more features 
 * 【2025-03-25】[pi-hole / web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more
 * 【2025-03-24】[pi\-hole / web](https://github.com/pi-hole/web) - Pi\-hole Dashboard for stats and more
 * 【2025-03-21】[NB-Group / NB_Music](https://github.com/NB-Group/NB_Music) - A nearly perfect music player.
@@ -2277,6 +2282,7 @@
 
 ## Go
 
+* 【2025-03-26】[helm-unittest / helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
 * 【2025-03-24】[lovelaze / nebula\-sync](https://github.com/lovelaze/nebula-sync) - Synchronize configuration of multiple Pi\-hole v6 x instances 
 * 【2025-03-21】[sinclairtarget / git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 * 【2025-03-21】[cloudwego / eino\-examples](https://github.com/cloudwego/eino-examples) - Examples and demonstrations for using the Eino framework
@@ -2589,6 +2595,7 @@
 
 ## C
 
+* 【2025-03-26】[GuijiAI / HeyGem ai](https://github.com/GuijiAI/HeyGem.ai) - 
 * 【2025-03-25】[bitaxeorg / ESP-Miner](https://github.com/bitaxeorg/ESP-Miner) - A bitcoin ASIC miner for the ESP32
 * 【2025-03-25】[bootchk / resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis
 * 【2025-03-24】[bitaxeorg / ESP\-Miner](https://github.com/bitaxeorg/ESP-Miner) - A bitcoin ASIC miner for the ESP32
@@ -2888,6 +2895,7 @@
 
 ## C++
 
+* 【2025-03-26】[TarsCloud / Tars](https://github.com/TarsCloud/Tars) - Tars is a high\-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting\-service via flexible schedule 
 * 【2025-03-24】[FlagBrew / PKSM](https://github.com/FlagBrew/PKSM) - Gen I to GenVIII save manager 
 * 【2025-03-21】[autowarefoundation / autoware_universe](https://github.com/autowarefoundation/autoware_universe) - 
 * 【2025-03-21】[openvinotoolkit / openvino genai](https://github.com/openvinotoolkit/openvino.genai) - Run Generative AI models with simple C++/Python API and using OpenVINO Runtime
@@ -4506,6 +4514,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-03-26】[bootc-dev / bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
 * 【2025-03-22】[googlefonts / fontations](https://github.com/googlefonts/fontations) - Reading and writing font files
 * 【2025-03-20】[icann / icann\-rdap](https://github.com/icann/icann-rdap) - ICANN implementation of the Registry Data Access Protocol (RDAP)
 * 【2025-03-20】[aws / amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - Add autocomplete and AI to your existing terminal on macOS & Linux
