@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-03-27】[deepseek\-ai / DeepSeek\-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
+* 【2025-03-27】[Akkudoktor\-EOS / EOS](https://github.com/Akkudoktor-EOS/EOS) - This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices  It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs  Founder Dr  Andreas Schmitz (YouTube @akkudoktor)
 * 【2025-03-26】[nf-core / modules](https://github.com/nf-core/modules) - Repository to host tool-specific module files for the Nextflow DSL2 community!
 * 【2025-03-24】[Devolutions / IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 * 【2025-03-24】[joanrod / star\-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task  Using a vision\-language modeling architecture, StarVector processes both visual and textual inputs to produce high\-quality SVG code with remarkable precision 
@@ -1069,6 +1071,9 @@
 
 ## Python
 
+* 【2025-03-27】[deepseek-ai / DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
+* 【2025-03-27】[Akkudoktor-EOS / EOS](https://github.com/Akkudoktor-EOS/EOS) - This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)
+* 【2025-03-27】[awslabs / amazon\-bedrock\-agent\-samples](https://github.com/awslabs/amazon-bedrock-agent-samples) - Example Jupyter notebooks 📓 and code scripts 💻 for using Amazon Bedrock Agents 🤖 and its functionalities
 * 【2025-03-26】[mikel\-brostrom / boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
 * 【2025-03-26】[hect0x7 / JMComic\-Crawler\-Python](https://github.com/hect0x7/JMComic-Crawler-Python) - Python API for JMComic \| 提供Python API访问禁漫天堂，同时支持网页端和移动端 \| 禁漫天堂GitHub Actions下载器🚀
 * 【2025-03-25】[MarkusPfundstein / mcp\-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin
@@ -2895,6 +2900,7 @@
 
 ## C++
 
+* 【2025-03-27】[ggml\-org / ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
 * 【2025-03-26】[TarsCloud / Tars](https://github.com/TarsCloud/Tars) - Tars is a high\-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting\-service via flexible schedule 
 * 【2025-03-24】[FlagBrew / PKSM](https://github.com/FlagBrew/PKSM) - Gen I to GenVIII save manager 
 * 【2025-03-21】[autowarefoundation / autoware_universe](https://github.com/autowarefoundation/autoware_universe) - 
@@ -5154,6 +5160,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-03-27】[executeautomation / mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+* 【2025-03-27】[wonderwhy\-er / DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+* 【2025-03-27】[supercorp\-ai / supergateway](https://github.com/supercorp-ai/supergateway) - Run MCP stdio servers over SSE and SSE over stdio  AI gateway 
 * 【2025-03-25】[web\-infra\-dev / rsdoctor](https://github.com/web-infra-dev/rsdoctor) - A one\-stop build analyzer for Rspack and webpack  Support us with a star ⭐️
 * 【2025-03-24】[better-auth / better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 * 【2025-03-24】[tensorflow / tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
