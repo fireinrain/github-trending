@@ -2287,6 +2287,7 @@
 
 ## Go
 
+* 【2025-03-28】[kgateway\-dev / kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud\-Native API Gateway and AI Gateway
 * 【2025-03-26】[helm-unittest / helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
 * 【2025-03-24】[lovelaze / nebula\-sync](https://github.com/lovelaze/nebula-sync) - Synchronize configuration of multiple Pi\-hole v6 x instances 
 * 【2025-03-21】[sinclairtarget / git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
@@ -2600,6 +2601,7 @@
 
 ## C
 
+* 【2025-03-28】[espressif / esp\-drone](https://github.com/espressif/esp-drone) - Mini Drone/Quadcopter Firmware for ESP32 and ESP32\-S Series SoCs 
 * 【2025-03-26】[GuijiAI / HeyGem ai](https://github.com/GuijiAI/HeyGem.ai) - 
 * 【2025-03-25】[bitaxeorg / ESP-Miner](https://github.com/bitaxeorg/ESP-Miner) - A bitcoin ASIC miner for the ESP32
 * 【2025-03-25】[bootchk / resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis
@@ -3189,6 +3191,7 @@
 
 ## C#
 
+* 【2025-03-28】[b\-editor / beutl](https://github.com/b-editor/beutl) - Cross\-platform video editing (compositing) software 
 * 【2025-03-21】[kangyu\-california / PersistentWindows](https://github.com/kangyu-california/PersistentWindows) - fork of http://www ninjacrab com/persistent\-windows/ with windows 10 update
 * 【2025-03-19】[Cysharp / ZLinq](https://github.com/Cysharp/ZLinq) - Zero allocation LINQ with Span and LINQ to SIMD, LINQ to Tree (FileSystem, Json, GameObject, etc ) for all  NET platforms and Unity 
 * 【2025-03-19】[jxlpzqc / TMSpeech](https://github.com/jxlpzqc/TMSpeech) - 腾讯会议摸鱼工具
@@ -3512,6 +3515,7 @@
 
 ## Html
 
+* 【2025-03-28】[harvesthq / chosen](https://github.com/harvesthq/chosen) - Deprecated \- Chosen is a library for making long, unwieldy select boxes more friendly 
 * 【2025-03-25】[m4tinbeigi\-official / freemovie](https://github.com/m4tinbeigi-official/freemovie) - 
 * 【2025-03-24】[openfoodfacts / openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) - Open Food Facts database, API server and web interface - 🐪🦋 Perl, CSS and JS coders welcome 😊 For helping in Python, see Robotoff or taxonomy-editor
 * 【2025-03-21】[hotheadhacker / awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
