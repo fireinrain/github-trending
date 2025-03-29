@@ -1071,6 +1071,7 @@
 
 ## Python
 
+* 【2025-03-29】[chengazhen / cursor\-auto\-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 * 【2025-03-27】[deepseek-ai / DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 * 【2025-03-27】[Akkudoktor-EOS / EOS](https://github.com/Akkudoktor-EOS/EOS) - This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)
 * 【2025-03-27】[awslabs / amazon\-bedrock\-agent\-samples](https://github.com/awslabs/amazon-bedrock-agent-samples) - Example Jupyter notebooks 📓 and code scripts 💻 for using Amazon Bedrock Agents 🤖 and its functionalities
@@ -2287,6 +2288,8 @@
 
 ## Go
 
+* 【2025-03-29】[cadence-workflow / cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+* 【2025-03-29】[kgateway-dev / kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway
 * 【2025-03-28】[kgateway\-dev / kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud\-Native API Gateway and AI Gateway
 * 【2025-03-26】[helm-unittest / helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
 * 【2025-03-24】[lovelaze / nebula\-sync](https://github.com/lovelaze/nebula-sync) - Synchronize configuration of multiple Pi\-hole v6 x instances 
@@ -2601,6 +2604,7 @@
 
 ## C
 
+* 【2025-03-29】[zinongli / KeyCopier](https://github.com/zinongli/KeyCopier) - Key Copier App for Flipper Zero
 * 【2025-03-28】[espressif / esp\-drone](https://github.com/espressif/esp-drone) - Mini Drone/Quadcopter Firmware for ESP32 and ESP32\-S Series SoCs 
 * 【2025-03-26】[GuijiAI / HeyGem ai](https://github.com/GuijiAI/HeyGem.ai) - 
 * 【2025-03-25】[bitaxeorg / ESP-Miner](https://github.com/bitaxeorg/ESP-Miner) - A bitcoin ASIC miner for the ESP32
@@ -3191,6 +3195,8 @@
 
 ## C#
 
+* 【2025-03-29】[b-editor / beutl](https://github.com/b-editor/beutl) - Cross-platform video editing (compositing) software.
+* 【2025-03-29】[dexyfex / CodeWalker](https://github.com/dexyfex/CodeWalker) - 
 * 【2025-03-28】[b\-editor / beutl](https://github.com/b-editor/beutl) - Cross\-platform video editing (compositing) software 
 * 【2025-03-21】[kangyu\-california / PersistentWindows](https://github.com/kangyu-california/PersistentWindows) - fork of http://www ninjacrab com/persistent\-windows/ with windows 10 update
 * 【2025-03-19】[Cysharp / ZLinq](https://github.com/Cysharp/ZLinq) - Zero allocation LINQ with Span and LINQ to SIMD, LINQ to Tree (FileSystem, Json, GameObject, etc ) for all  NET platforms and Unity 
@@ -3515,6 +3521,7 @@
 
 ## Html
 
+* 【2025-03-29】[canonical / ubuntu com](https://github.com/canonical/ubuntu.com) - The official website for the Ubuntu operating system
 * 【2025-03-28】[harvesthq / chosen](https://github.com/harvesthq/chosen) - Deprecated \- Chosen is a library for making long, unwieldy select boxes more friendly 
 * 【2025-03-25】[m4tinbeigi\-official / freemovie](https://github.com/m4tinbeigi-official/freemovie) - 
 * 【2025-03-24】[openfoodfacts / openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) - Open Food Facts database, API server and web interface - 🐪🦋 Perl, CSS and JS coders welcome 😊 For helping in Python, see Robotoff or taxonomy-editor
@@ -4524,6 +4531,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-03-29】[medialab / xan](https://github.com/medialab/xan) - The CSV magician
+* 【2025-03-29】[hyperlight\-dev / hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications  It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead 
 * 【2025-03-26】[bootc-dev / bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
 * 【2025-03-22】[googlefonts / fontations](https://github.com/googlefonts/fontations) - Reading and writing font files
 * 【2025-03-20】[icann / icann\-rdap](https://github.com/icann/icann-rdap) - ICANN implementation of the Registry Data Access Protocol (RDAP)
