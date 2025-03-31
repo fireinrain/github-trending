@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-03-31】[ahmedkhaleel2004 / gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
+* 【2025-03-31】[causify-ai / helpers](https://github.com/causify-ai/helpers) - Causify development system
 * 【2025-03-30】[jlowin / fastmcp](https://github.com/jlowin/fastmcp) - The fast, Pythonic way to build Model Context Protocol servers 🚀
 * 【2025-03-30】[MUTED64 / SearchEngineJumpPlus](https://github.com/MUTED64/SearchEngineJumpPlus) - 增强版搜索引擎跳转脚本，优化一些使用体验，Tampermonkey Userscript
 * 【2025-03-27】[deepseek\-ai / DeepSeek\-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
@@ -1073,6 +1075,13 @@
 
 ## Python
 
+* 【2025-03-31】[blazickjp / arxiv\-mcp\-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
+* 【2025-03-31】[basicmachines\-co / basic\-memory](https://github.com/basicmachines-co/basic-memory) - Basic Memory is a knowledge management system that allows you to build a persistent semantic graph from conversations with AI assistants  All knowledge is stored in standard Markdown files on your computer, giving you full control and ownership of your data  Integrates directly with Obsidan md
+* 【2025-03-31】[leminlimez / Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
+* 【2025-03-31】[StructuredLabs / preswald](https://github.com/StructuredLabs/preswald) - Preswald is a framework for building and deploying interactive data apps, internal tools, and dashboards with Python  With one command, you can launch, share, and deploy locally or in the cloud, turning Python scripts into powerful shareable apps 
+* 【2025-03-31】[ok\-oldking / ok\-wuthering\-waves](https://github.com/ok-oldking/ok-wuthering-waves) - 鸣潮 后台自动战斗 自动刷声骸 一键日常 Automation for Wuthering Waves
+* 【2025-03-31】[hinthornw / trustcall](https://github.com/hinthornw/trustcall) - Tenacious tool calling built on LangGraph
+* 【2025-03-31】[aigc-apps / VideoX-Fun](https://github.com/aigc-apps/VideoX-Fun) - 📹 A more flexible framework that can generate videos at any resolution and creates videos from images.
 * 【2025-03-30】[causify\-ai / helpers](https://github.com/causify-ai/helpers) - Causify development system
 * 【2025-03-30】[aigc\-apps / VideoX\-Fun](https://github.com/aigc-apps/VideoX-Fun) - 📹 A more flexible framework that can generate videos at any resolution and creates videos from images 
 * 【2025-03-30】[lastmile-ai / mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
@@ -1878,6 +1887,7 @@
 
 ## Javascript
 
+* 【2025-03-31】[zen-browser / desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
 * 【2025-03-30】[zen\-browser / desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks 
 * 【2025-03-26】[prateek\-chaubey / YTPro](https://github.com/prateek-chaubey/YTPro) - All in one YouTube App with downloader , background player , Google Gemini ✨ and many more features 
 * 【2025-03-25】[pi-hole / web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more
@@ -2295,6 +2305,7 @@
 
 ## Go
 
+* 【2025-03-31】[0xJacky / nginx\-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 * 【2025-03-29】[cadence-workflow / cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 * 【2025-03-29】[kgateway-dev / kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway
 * 【2025-03-28】[kgateway\-dev / kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud\-Native API Gateway and AI Gateway
@@ -2611,6 +2622,7 @@
 
 ## C
 
+* 【2025-03-31】[coop-deluxe / sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) - An official continuation of https://github.com/djoslin0/sm64ex-coop on sm64coopdx for the enhancements and progress it already has.
 * 【2025-03-29】[zinongli / KeyCopier](https://github.com/zinongli/KeyCopier) - Key Copier App for Flipper Zero
 * 【2025-03-28】[espressif / esp\-drone](https://github.com/espressif/esp-drone) - Mini Drone/Quadcopter Firmware for ESP32 and ESP32\-S Series SoCs 
 * 【2025-03-26】[GuijiAI / HeyGem ai](https://github.com/GuijiAI/HeyGem.ai) - 
@@ -2913,6 +2925,8 @@
 
 ## C++
 
+* 【2025-03-31】[hedge\-dev / XenonRecomp](https://github.com/hedge-dev/XenonRecomp) - A tool for recompiling Xbox 360 games to native executables 
+* 【2025-03-31】[apache / incubator\-graphar](https://github.com/apache/incubator-graphar) - An open source, standard data file format for graph data storage and retrieval 
 * 【2025-03-30】[Zackriya\-Solutions / meeting\-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added  Working on adding linux support soon)
 * 【2025-03-27】[ggml\-org / ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
 * 【2025-03-26】[TarsCloud / Tars](https://github.com/TarsCloud/Tars) - Tars is a high\-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting\-service via flexible schedule 
