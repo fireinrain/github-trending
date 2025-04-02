@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-04-02】[hackclub / hcb](https://github.com/hackclub/hcb) - 🏦 The neobank built for nonprofits 
 * 【2025-04-01】[yetone / avante nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 * 【2025-04-01】[supabase\-community / postgres\-language\-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
 * 【2025-03-31】[ahmedkhaleel2004 / gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
@@ -3991,6 +3992,7 @@
 
 ## Unknown
 
+* 【2025-04-02】[Cyfrin / foundry-full-course-cu](https://github.com/Cyfrin/foundry-full-course-cu) - 
 * 【2025-03-25】[caido / caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 * 【2025-03-13】[appcypher / awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 * 【2025-03-12】[appcypher / awesome\-mcp\-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers \- A curated list of Model Context Protocol servers
@@ -4561,6 +4563,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-04-02】[solana\-foundation / anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Sealevel Framework
 * 【2025-04-01】[supabase-community / postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
 * 【2025-03-30】[hyperlight-dev / hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
 * 【2025-03-30】[MystenLabs / walrus](https://github.com/MystenLabs/walrus) - A decentralized blob store using Sui for coordination and governance 
