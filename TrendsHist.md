@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-04-03】[inkonchain / ink\-kit](https://github.com/inkonchain/ink-kit) - Onchain\-focused SDK with ready\-to\-use templates, themes, and magical animated components ✨
+* 【2025-04-03】[chiphuyen / aie\-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers  Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
 * 【2025-04-02】[hackclub / hcb](https://github.com/hackclub/hcb) - 🏦 The neobank built for nonprofits 
 * 【2025-04-01】[yetone / avante nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 * 【2025-04-01】[supabase\-community / postgres\-language\-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
@@ -808,6 +810,7 @@
 
 ## Java
 
+* 【2025-04-03】[Canner / wren-engine](https://github.com/Canner/wren-engine) - 🤖 The Semantic Engine for Model Context Protocol(MCP) Clients and AI Agents 🔥
 * 【2025-04-01】[leck995 / WutheringWavesTool](https://github.com/leck995/WutheringWavesTool) - 鸣潮助手，鸣潮工具集与启动器，主要功能有获取角色信息，解锁帧率，实现库街区签到，游戏时长统计以及抽卡分析(支持国际服账号)。
 * 【2025-04-01】[Canner / wren\-engine](https://github.com/Canner/wren-engine) - 🤖 The Semantic Engine for Model Context Protocol(MCP) Clients and AI Agents 🔥
 * 【2025-03-26】[freeok / so-novel](https://github.com/freeok/so-novel) - 小说下载器 | 小说下载工具 | 小说下载神器 | 免费小说 | 网络小说 | 免费下载 | 网文下载
@@ -1080,6 +1083,8 @@
 
 ## Python
 
+* 【2025-04-03】[dreammis / social\-auto\-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+* 【2025-04-03】[apirrone / Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini) - Making a mini version of the BDX droid  https://discord gg/UtJZsgfQGe
 * 【2025-03-31】[blazickjp / arxiv\-mcp\-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
 * 【2025-03-31】[basicmachines\-co / basic\-memory](https://github.com/basicmachines-co/basic-memory) - Basic Memory is a knowledge management system that allows you to build a persistent semantic graph from conversations with AI assistants  All knowledge is stored in standard Markdown files on your computer, giving you full control and ownership of your data  Integrates directly with Obsidan md
 * 【2025-03-31】[leminlimez / Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
@@ -1892,6 +1897,7 @@
 
 ## Javascript
 
+* 【2025-04-03】[JetBrains / mcp\-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc  Also, works with Android Studio
 * 【2025-03-31】[zen-browser / desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
 * 【2025-03-30】[zen\-browser / desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks 
 * 【2025-03-26】[prateek\-chaubey / YTPro](https://github.com/prateek-chaubey/YTPro) - All in one YouTube App with downloader , background player , Google Gemini ✨ and many more features 
@@ -3552,6 +3558,7 @@
 
 ## Html
 
+* 【2025-04-03】[dwmkerr / hacker\-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists 
 * 【2025-03-29】[canonical / ubuntu com](https://github.com/canonical/ubuntu.com) - The official website for the Ubuntu operating system
 * 【2025-03-28】[harvesthq / chosen](https://github.com/harvesthq/chosen) - Deprecated \- Chosen is a library for making long, unwieldy select boxes more friendly 
 * 【2025-03-25】[m4tinbeigi\-official / freemovie](https://github.com/m4tinbeigi-official/freemovie) - 
@@ -3992,6 +3999,8 @@
 
 ## Unknown
 
+* 【2025-04-03】[SLAM\-Handbook\-contributors / slam\-handbook\-public\-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
+* 【2025-04-03】[wong2 / awesome\-mcp\-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
 * 【2025-04-02】[Cyfrin / foundry-full-course-cu](https://github.com/Cyfrin/foundry-full-course-cu) - 
 * 【2025-03-25】[caido / caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 * 【2025-03-13】[appcypher / awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
@@ -4563,6 +4572,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-04-03】[espanso / espanso](https://github.com/espanso/espanso) - Cross\-platform Text Expander written in Rust
 * 【2025-04-02】[solana\-foundation / anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Sealevel Framework
 * 【2025-04-01】[supabase-community / postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
 * 【2025-03-30】[hyperlight-dev / hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
@@ -5209,6 +5219,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-04-03】[inkonchain / ink-kit](https://github.com/inkonchain/ink-kit) - Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨
+* 【2025-04-03】[aws\-samples / generative\-ai\-use\-cases](https://github.com/aws-samples/generative-ai-use-cases) - Application implementation with business use cases for safely utilizing generative AI in business operations
 * 【2025-04-01】[Zippland / worth-calculator](https://github.com/Zippland/worth-calculator) - Calculating the actual value of your job beyond just salary
 * 【2025-04-01】[iib0011 / omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 * 【2025-04-01】[btjawa / BiliTools](https://github.com/btjawa/BiliTools) - A cross\-platform bilibili toolbox  跨平台哔哩哔哩工具箱，支持视频、音乐、番剧、课程下载……持续更新
