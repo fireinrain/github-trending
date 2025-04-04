@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-04-04】[SLAM-Handbook-contributors / slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
 * 【2025-04-03】[inkonchain / ink\-kit](https://github.com/inkonchain/ink-kit) - Onchain\-focused SDK with ready\-to\-use templates, themes, and magical animated components ✨
 * 【2025-04-03】[chiphuyen / aie\-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers  Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
 * 【2025-04-02】[hackclub / hcb](https://github.com/hackclub/hcb) - 🏦 The neobank built for nonprofits 
@@ -1083,6 +1084,8 @@
 
 ## Python
 
+* 【2025-04-04】[run\-llama / llama_cloud_services](https://github.com/run-llama/llama_cloud_services) - Knowledge Agents and Management in the Cloud
+* 【2025-04-04】[dreammis / social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 * 【2025-04-03】[dreammis / social\-auto\-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 * 【2025-04-03】[apirrone / Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini) - Making a mini version of the BDX droid  https://discord gg/UtJZsgfQGe
 * 【2025-03-31】[blazickjp / arxiv\-mcp\-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
@@ -1897,6 +1900,7 @@
 
 ## Javascript
 
+* 【2025-04-04】[adobe / aem\-guides\-wknd](https://github.com/adobe/aem-guides-wknd) - Tutorial Code companion for Getting Started Developing with AEM Sites WKND Tutorial
 * 【2025-04-03】[JetBrains / mcp\-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc  Also, works with Android Studio
 * 【2025-03-31】[zen-browser / desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
 * 【2025-03-30】[zen\-browser / desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks 
@@ -2633,6 +2637,7 @@
 
 ## C
 
+* 【2025-04-04】[vial\-kb / vial\-qmk](https://github.com/vial-kb/vial-qmk) - QMK fork with Vial\-specific features 
 * 【2025-04-01】[Johannes4Linux / Linux_Driver_Tutorial_legacy](https://github.com/Johannes4Linux/Linux_Driver_Tutorial_legacy) - A Tutorial how to get started with Linux Kernel Modules and Linux Drivers 
 * 【2025-03-31】[coop-deluxe / sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) - An official continuation of https://github.com/djoslin0/sm64ex-coop on sm64coopdx for the enhancements and progress it already has.
 * 【2025-03-29】[zinongli / KeyCopier](https://github.com/zinongli/KeyCopier) - Key Copier App for Flipper Zero
@@ -3558,6 +3563,7 @@
 
 ## Html
 
+* 【2025-04-04】[dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 * 【2025-04-03】[dwmkerr / hacker\-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists 
 * 【2025-03-29】[canonical / ubuntu com](https://github.com/canonical/ubuntu.com) - The official website for the Ubuntu operating system
 * 【2025-03-28】[harvesthq / chosen](https://github.com/harvesthq/chosen) - Deprecated \- Chosen is a library for making long, unwieldy select boxes more friendly 
@@ -5219,6 +5225,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-04-04】[kubernetes\-sigs / headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully\-featured, user\-friendly and extensible
+* 【2025-04-04】[liam-hq / liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
+* 【2025-04-04】[aws-samples / generative-ai-use-cases](https://github.com/aws-samples/generative-ai-use-cases) - Application implementation with business use cases for safely utilizing generative AI in business operations
 * 【2025-04-03】[inkonchain / ink-kit](https://github.com/inkonchain/ink-kit) - Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨
 * 【2025-04-03】[aws\-samples / generative\-ai\-use\-cases](https://github.com/aws-samples/generative-ai-use-cases) - Application implementation with business use cases for safely utilizing generative AI in business operations
 * 【2025-04-01】[Zippland / worth-calculator](https://github.com/Zippland/worth-calculator) - Calculating the actual value of your job beyond just salary
