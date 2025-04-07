@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-04-07】[supabase-community / supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
 * 【2025-04-06】[kubernetes-sigs / headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 * 【2025-04-06】[funstory\-ai / BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 * 【2025-04-05】[browser\-use / web\-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser 
@@ -815,6 +816,7 @@
 
 ## Java
 
+* 【2025-04-07】[NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) - 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅]
 * 【2025-04-06】[openmrs / openmrs\-core](https://github.com/openmrs/openmrs-core) - OpenMRS API and web application code
 * 【2025-04-05】[NotHarshhaa / DevOps\-Projects](https://github.com/NotHarshhaa/DevOps-Projects) - 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅]
 * 【2025-04-03】[Canner / wren-engine](https://github.com/Canner/wren-engine) - 🤖 The Semantic Engine for Model Context Protocol(MCP) Clients and AI Agents 🔥
@@ -1090,6 +1092,9 @@
 
 ## Python
 
+* 【2025-04-07】[stephengpope / no\-code\-architects\-toolkit](https://github.com/stephengpope/no-code-architects-toolkit) - The NCA Toolkit API eliminates monthly subscription fees by consolidating common API functionalities into a single FREE API  Designed for businesses, creators, and developers, it streamlines advanced media processing, including video editing and captioning, image transformations, cloud storage, and Python code execution 
+* 【2025-04-07】[camel\-ai / oasis](https://github.com/camel-ai/oasis) - 🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents  https://oasis camel\-ai org
+* 【2025-04-07】[NVIDIA / cuda-python](https://github.com/NVIDIA/cuda-python) - CUDA Python: Performance meets Productivity
 * 【2025-04-06】[funstory-ai / BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 * 【2025-04-06】[dlt-hub / dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
 * 【2025-04-06】[NVIDIA / cuda\-python](https://github.com/NVIDIA/cuda-python) - CUDA Python: Performance meets Productivity
@@ -2334,6 +2339,8 @@
 
 ## Go
 
+* 【2025-04-07】[Septrum101 / zteOnu](https://github.com/Septrum101/zteOnu) - A tool that can open ZTE onu device factory mode
+* 【2025-04-07】[krillinai / KrillinAI](https://github.com/krillinai/KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional\-grade translations and one\-click full\-process deployment  It can generate content optimized for platforms like YouTube，TikTok, and Shorts  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 * 【2025-04-06】[grafana / mcp\-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
 * 【2025-03-31】[0xJacky / nginx\-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 * 【2025-03-29】[cadence-workflow / cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
@@ -2652,6 +2659,7 @@
 
 ## C
 
+* 【2025-04-07】[vial-kb / vial-qmk](https://github.com/vial-kb/vial-qmk) - QMK fork with Vial-specific features.
 * 【2025-04-06】[InitWare / InitWare](https://github.com/InitWare/InitWare) - The InitWare Suite of Middleware allows you to manage services and system resources as logical entities called units  Its main component is a service management ("init") system 
 * 【2025-04-05】[clockworkpi / PicoCalc](https://github.com/clockworkpi/PicoCalc) - A calculator like nothing you've ever seen before, right?
 * 【2025-04-04】[vial\-kb / vial\-qmk](https://github.com/vial-kb/vial-qmk) - QMK fork with Vial\-specific features 
@@ -2959,6 +2967,8 @@
 
 ## C++
 
+* 【2025-04-07】[kuzudb / kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed  Vector search and full\-text search built in  Implements Cypher 
+* 【2025-04-07】[NVIDIA\-RTX / NVRHI](https://github.com/NVIDIA-RTX/NVRHI) - 
 * 【2025-04-06】[ggml\-org / whisper cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 * 【2025-04-06】[microsoft / DiskANN](https://github.com/microsoft/DiskANN) - Graph\-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search
 * 【2025-04-01】[shdwmtr / millennium](https://github.com/shdwmtr/millennium) - Apply themes/skins/customize Steam® after the 2023\-04\-27 Chromium UI update
@@ -3582,6 +3592,7 @@
 
 ## Html
 
+* 【2025-04-07】[rbuckton / proposal\-enum](https://github.com/rbuckton/proposal-enum) - Proposal for ECMAScript enums
 * 【2025-04-06】[sunnyoggcp / github-slideshow](https://github.com/sunnyoggcp/github-slideshow) - A robot powered training repository 🤖
 * 【2025-04-05】[sunnyoggcp / github\-slideshow](https://github.com/sunnyoggcp/github-slideshow) - A robot powered training repository 🤖
 * 【2025-04-04】[dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
@@ -5247,6 +5258,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-04-07】[laravel / react\-starter\-kit](https://github.com/laravel/react-starter-kit) - 
 * 【2025-04-06】[supabase\-community / supabase\-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
 * 【2025-04-06】[softprops / action\-gh\-release](https://github.com/softprops/action-gh-release) - 📦 GitHub Action for creating GitHub Releases
 * 【2025-04-04】[kubernetes\-sigs / headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully\-featured, user\-friendly and extensible
