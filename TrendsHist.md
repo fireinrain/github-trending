@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-04-08】[meta\-llama / llama\-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine\-Tuning, RAG  We also show you how to solve end to end problems using Llama model family and using them on various provider services
+* 【2025-04-08】[jiji262 / douyin-downloader](https://github.com/jiji262/douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
 * 【2025-04-07】[supabase-community / supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
 * 【2025-04-06】[kubernetes-sigs / headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 * 【2025-04-06】[funstory\-ai / BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
@@ -1092,6 +1094,8 @@
 
 ## Python
 
+* 【2025-04-08】[vllm\-project / llm\-compressor](https://github.com/vllm-project/llm-compressor) - Transformers\-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM
+* 【2025-04-08】[chengazhen / cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 * 【2025-04-07】[stephengpope / no\-code\-architects\-toolkit](https://github.com/stephengpope/no-code-architects-toolkit) - The NCA Toolkit API eliminates monthly subscription fees by consolidating common API functionalities into a single FREE API  Designed for businesses, creators, and developers, it streamlines advanced media processing, including video editing and captioning, image transformations, cloud storage, and Python code execution 
 * 【2025-04-07】[camel\-ai / oasis](https://github.com/camel-ai/oasis) - 🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents  https://oasis camel\-ai org
 * 【2025-04-07】[NVIDIA / cuda-python](https://github.com/NVIDIA/cuda-python) - CUDA Python: Performance meets Productivity
@@ -2339,6 +2343,7 @@
 
 ## Go
 
+* 【2025-04-08】[grafana / mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
 * 【2025-04-07】[Septrum101 / zteOnu](https://github.com/Septrum101/zteOnu) - A tool that can open ZTE onu device factory mode
 * 【2025-04-07】[krillinai / KrillinAI](https://github.com/krillinai/KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional\-grade translations and one\-click full\-process deployment  It can generate content optimized for platforms like YouTube，TikTok, and Shorts  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 * 【2025-04-06】[grafana / mcp\-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
@@ -2659,6 +2664,7 @@
 
 ## C
 
+* 【2025-04-08】[GuijiAI / HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai) - 
 * 【2025-04-07】[vial-kb / vial-qmk](https://github.com/vial-kb/vial-qmk) - QMK fork with Vial-specific features.
 * 【2025-04-06】[InitWare / InitWare](https://github.com/InitWare/InitWare) - The InitWare Suite of Middleware allows you to manage services and system resources as logical entities called units  Its main component is a service management ("init") system 
 * 【2025-04-05】[clockworkpi / PicoCalc](https://github.com/clockworkpi/PicoCalc) - A calculator like nothing you've ever seen before, right?
@@ -4037,6 +4043,7 @@
 
 ## Unknown
 
+* 【2025-04-08】[NeverSinkDev / NeverSink\-Filter\-for\-PoE2](https://github.com/NeverSinkDev/NeverSink-Filter-for-PoE2) - This is a lootfilter for the game "Path of Exile 2"  It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user
 * 【2025-04-03】[SLAM\-Handbook\-contributors / slam\-handbook\-public\-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
 * 【2025-04-03】[wong2 / awesome\-mcp\-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
 * 【2025-04-02】[Cyfrin / foundry-full-course-cu](https://github.com/Cyfrin/foundry-full-course-cu) - 
@@ -4610,6 +4617,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-04-08】[mCaptcha / mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no\-nonsense CAPTCHA system with seamless UX \| Backend component
 * 【2025-04-05】[lusingander / stu](https://github.com/lusingander/stu) - TUI explorer application for Amazon S3 (AWS S3) 🪣
 * 【2025-04-03】[espanso / espanso](https://github.com/espanso/espanso) - Cross\-platform Text Expander written in Rust
 * 【2025-04-02】[solana\-foundation / anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Sealevel Framework
@@ -5258,6 +5266,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-04-08】[punkpeye / fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers 
 * 【2025-04-07】[laravel / react\-starter\-kit](https://github.com/laravel/react-starter-kit) - 
 * 【2025-04-06】[supabase\-community / supabase\-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
 * 【2025-04-06】[softprops / action\-gh\-release](https://github.com/softprops/action-gh-release) - 📦 GitHub Action for creating GitHub Releases
