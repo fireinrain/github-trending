@@ -1,5 +1,9 @@
 ## All language
 
+* 【2025-04-09】[chartdb / chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query 
+* 【2025-04-09】[meta-llama / llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services
+* 【2025-04-09】[redmine / redmine](https://github.com/redmine/redmine) - Mirror of redmine code source \- Official Subversion repository is at https://svn redmine org/redmine \- contact: @vividtone or maeda (at) farend (dot) jp
+* 【2025-04-09】[zhenxun\-org / zhenxun_bot](https://github.com/zhenxun-org/zhenxun_bot) - 基于 Nonebot2 开发，非常可爱的绪山真寻bot
 * 【2025-04-08】[meta\-llama / llama\-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine\-Tuning, RAG  We also show you how to solve end to end problems using Llama model family and using them on various provider services
 * 【2025-04-08】[jiji262 / douyin-downloader](https://github.com/jiji262/douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
 * 【2025-04-07】[supabase-community / supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
@@ -1094,6 +1098,8 @@
 
 ## Python
 
+* 【2025-04-09】[jwohlwend / boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz\-1 biomolecular interaction model
+* 【2025-04-09】[zhenxun-org / zhenxun_bot](https://github.com/zhenxun-org/zhenxun_bot) - 基于 Nonebot2 开发，非常可爱的绪山真寻bot
 * 【2025-04-08】[vllm\-project / llm\-compressor](https://github.com/vllm-project/llm-compressor) - Transformers\-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM
 * 【2025-04-08】[chengazhen / cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 * 【2025-04-07】[stephengpope / no\-code\-architects\-toolkit](https://github.com/stephengpope/no-code-architects-toolkit) - The NCA Toolkit API eliminates monthly subscription fees by consolidating common API functionalities into a single FREE API  Designed for businesses, creators, and developers, it streamlines advanced media processing, including video editing and captioning, image transformations, cloud storage, and Python code execution 
@@ -1922,6 +1928,7 @@
 
 ## Javascript
 
+* 【2025-04-09】[its\-a\-feature / Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi\-platform, red teaming framework
 * 【2025-04-06】[googlecreativelab / chrome\-music\-lab](https://github.com/googlecreativelab/chrome-music-lab) - A collection of experiments for exploring how music works, all built with the Web Audio API 
 * 【2025-04-04】[adobe / aem\-guides\-wknd](https://github.com/adobe/aem-guides-wknd) - Tutorial Code companion for Getting Started Developing with AEM Sites WKND Tutorial
 * 【2025-04-03】[JetBrains / mcp\-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc  Also, works with Android Studio
@@ -2664,6 +2671,7 @@
 
 ## C
 
+* 【2025-04-09】[Xilinx / dma_ip_drivers](https://github.com/Xilinx/dma_ip_drivers) - Xilinx QDMA IP Drivers
 * 【2025-04-08】[GuijiAI / HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai) - 
 * 【2025-04-07】[vial-kb / vial-qmk](https://github.com/vial-kb/vial-qmk) - QMK fork with Vial-specific features.
 * 【2025-04-06】[InitWare / InitWare](https://github.com/InitWare/InitWare) - The InitWare Suite of Middleware allows you to manage services and system resources as logical entities called units  Its main component is a service management ("init") system 
@@ -2973,6 +2981,7 @@
 
 ## C++
 
+* 【2025-04-09】[ggml-org / ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
 * 【2025-04-07】[kuzudb / kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed  Vector search and full\-text search built in  Implements Cypher 
 * 【2025-04-07】[NVIDIA\-RTX / NVRHI](https://github.com/NVIDIA-RTX/NVRHI) - 
 * 【2025-04-06】[ggml\-org / whisper cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -3270,6 +3279,8 @@
 
 ## C#
 
+* 【2025-04-09】[FlorianButz / DynamicWin](https://github.com/FlorianButz/DynamicWin) - A Dynamic Island inspired app for Windows machines 
+* 【2025-04-09】[Ishaan35 / Unity3D\-Mario\-Kart\-Racing\-Game](https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game) - https://www youtube com/watch?v=s_nEniWLLgo  This is a 3D Mario kart game created with the unity game engine with C\#  Kart racer supports items, anti\-gravity mode, computer players, underwater mode, and real\-time shadows and lighting 
 * 【2025-04-01】[BedrockLauncher / BedrockLauncher](https://github.com/BedrockLauncher/BedrockLauncher) - 
 * 【2025-03-30】[PunishXIV / WrathCombo](https://github.com/PunishXIV/WrathCombo) - 
 * 【2025-03-29】[b-editor / beutl](https://github.com/b-editor/beutl) - Cross-platform video editing (compositing) software.
@@ -3598,6 +3609,7 @@
 
 ## Html
 
+* 【2025-04-09】[rbuckton / proposal-enum](https://github.com/rbuckton/proposal-enum) - Proposal for ECMAScript enums
 * 【2025-04-07】[rbuckton / proposal\-enum](https://github.com/rbuckton/proposal-enum) - Proposal for ECMAScript enums
 * 【2025-04-06】[sunnyoggcp / github-slideshow](https://github.com/sunnyoggcp/github-slideshow) - A robot powered training repository 🤖
 * 【2025-04-05】[sunnyoggcp / github\-slideshow](https://github.com/sunnyoggcp/github-slideshow) - A robot powered training repository 🤖
@@ -5266,6 +5278,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-04-09】[OvidijusParsiunas / deep\-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 * 【2025-04-08】[punkpeye / fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers 
 * 【2025-04-07】[laravel / react\-starter\-kit](https://github.com/laravel/react-starter-kit) - 
 * 【2025-04-06】[supabase\-community / supabase\-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
