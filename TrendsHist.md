@@ -1098,6 +1098,7 @@
 
 ## Python
 
+* 【2025-04-10】[marketcalls / openalgo](https://github.com/marketcalls/openalgo) - Open Source Algo Trading Platform for Everyone
 * 【2025-04-09】[jwohlwend / boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz\-1 biomolecular interaction model
 * 【2025-04-09】[zhenxun-org / zhenxun_bot](https://github.com/zhenxun-org/zhenxun_bot) - 基于 Nonebot2 开发，非常可爱的绪山真寻bot
 * 【2025-04-08】[vllm\-project / llm\-compressor](https://github.com/vllm-project/llm-compressor) - Transformers\-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM
@@ -1928,6 +1929,8 @@
 
 ## Javascript
 
+* 【2025-04-10】[jerhadf / linear\-mcp\-server](https://github.com/jerhadf/linear-mcp-server) - A server that integrates Linear's project management system with the Model Context Protocol (MCP) to allow LLMs to interact with Linear 
+* 【2025-04-10】[mermaid-js / mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 * 【2025-04-09】[its\-a\-feature / Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi\-platform, red teaming framework
 * 【2025-04-06】[googlecreativelab / chrome\-music\-lab](https://github.com/googlecreativelab/chrome-music-lab) - A collection of experiments for exploring how music works, all built with the Web Audio API 
 * 【2025-04-04】[adobe / aem\-guides\-wknd](https://github.com/adobe/aem-guides-wknd) - Tutorial Code companion for Getting Started Developing with AEM Sites WKND Tutorial
@@ -2981,6 +2984,7 @@
 
 ## C++
 
+* 【2025-04-10】[ggml-org / whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 * 【2025-04-09】[ggml-org / ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
 * 【2025-04-07】[kuzudb / kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed  Vector search and full\-text search built in  Implements Cypher 
 * 【2025-04-07】[NVIDIA\-RTX / NVRHI](https://github.com/NVIDIA-RTX/NVRHI) - 
@@ -3279,6 +3283,8 @@
 
 ## C#
 
+* 【2025-04-10】[Ishaan35 / Unity3D-Mario-Kart-Racing-Game](https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game) - https://www.youtube.com/watch?v=s_nEniWLLgo. This is a 3D Mario kart game created with the unity game engine with C#. Kart racer supports items, anti-gravity mode, computer players, underwater mode, and real-time shadows and lighting.
+* 【2025-04-10】[pylorak / TinyWall](https://github.com/pylorak/TinyWall) - TinyWall is a free, non\-intrusive, secure\-by\-default firewall for Windows 
 * 【2025-04-09】[FlorianButz / DynamicWin](https://github.com/FlorianButz/DynamicWin) - A Dynamic Island inspired app for Windows machines 
 * 【2025-04-09】[Ishaan35 / Unity3D\-Mario\-Kart\-Racing\-Game](https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game) - https://www youtube com/watch?v=s_nEniWLLgo  This is a 3D Mario kart game created with the unity game engine with C\#  Kart racer supports items, anti\-gravity mode, computer players, underwater mode, and real\-time shadows and lighting 
 * 【2025-04-01】[BedrockLauncher / BedrockLauncher](https://github.com/BedrockLauncher/BedrockLauncher) - 
@@ -4629,6 +4635,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-04-10】[nvim\-neorocks / lux](https://github.com/nvim-neorocks/lux) - A luxurious package manager for Lua
+* 【2025-04-10】[0xlane / wechat\-dump\-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
 * 【2025-04-08】[mCaptcha / mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no\-nonsense CAPTCHA system with seamless UX \| Backend component
 * 【2025-04-05】[lusingander / stu](https://github.com/lusingander/stu) - TUI explorer application for Amazon S3 (AWS S3) 🪣
 * 【2025-04-03】[espanso / espanso](https://github.com/espanso/espanso) - Cross\-platform Text Expander written in Rust
