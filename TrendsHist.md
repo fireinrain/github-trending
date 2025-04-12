@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-04-12】[yeongpin / cursor\-free\-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0 48 x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit  / Too many free trial accounts used on this machine  Please upgrade to pro  We have this limit in place to prevent abuse  Please let us know if you believe this is a mistake 
+* 【2025-04-12】[aws\-samples / amazon\-nova\-samples](https://github.com/aws-samples/amazon-nova-samples) - 
 * 【2025-04-11】[microsoft / ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
 * 【2025-04-09】[chartdb / chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query 
 * 【2025-04-09】[meta-llama / llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services
@@ -1099,6 +1101,9 @@
 
 ## Python
 
+* 【2025-04-12】[yeongpin / cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+* 【2025-04-12】[crestalnetwork / intentkit](https://github.com/crestalnetwork/intentkit) - An open and fair framework for everyone to build AI agents equipped with powerful skills  Launch your agent, improve the world, your wallet, or both!
+* 【2025-04-12】[huggingface / smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in python code 
 * 【2025-04-10】[marketcalls / openalgo](https://github.com/marketcalls/openalgo) - Open Source Algo Trading Platform for Everyone
 * 【2025-04-09】[jwohlwend / boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz\-1 biomolecular interaction model
 * 【2025-04-09】[zhenxun-org / zhenxun_bot](https://github.com/zhenxun-org/zhenxun_bot) - 基于 Nonebot2 开发，非常可爱的绪山真寻bot
@@ -2676,6 +2681,7 @@
 
 ## C
 
+* 【2025-04-12】[stlink-org / stlink](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset
 * 【2025-04-09】[Xilinx / dma_ip_drivers](https://github.com/Xilinx/dma_ip_drivers) - Xilinx QDMA IP Drivers
 * 【2025-04-08】[GuijiAI / HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai) - 
 * 【2025-04-07】[vial-kb / vial-qmk](https://github.com/vial-kb/vial-qmk) - QMK fork with Vial-specific features.
@@ -3286,6 +3292,7 @@
 
 ## C#
 
+* 【2025-04-12】[wisedev\-code / MaIN NET](https://github.com/wisedev-code/MaIN.NET) - NuGet package designed to make LLMs, RAG, and Agents first\-class citizens in  NET
 * 【2025-04-10】[Ishaan35 / Unity3D-Mario-Kart-Racing-Game](https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game) - https://www.youtube.com/watch?v=s_nEniWLLgo. This is a 3D Mario kart game created with the unity game engine with C#. Kart racer supports items, anti-gravity mode, computer players, underwater mode, and real-time shadows and lighting.
 * 【2025-04-10】[pylorak / TinyWall](https://github.com/pylorak/TinyWall) - TinyWall is a free, non\-intrusive, secure\-by\-default firewall for Windows 
 * 【2025-04-09】[FlorianButz / DynamicWin](https://github.com/FlorianButz/DynamicWin) - A Dynamic Island inspired app for Windows machines 
@@ -4065,6 +4072,7 @@
 
 ## Unknown
 
+* 【2025-04-12】[FFmpeg / asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
 * 【2025-04-11】[FFmpeg / asm\-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
 * 【2025-04-08】[NeverSinkDev / NeverSink\-Filter\-for\-PoE2](https://github.com/NeverSinkDev/NeverSink-Filter-for-PoE2) - This is a lootfilter for the game "Path of Exile 2"  It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user
 * 【2025-04-03】[SLAM\-Handbook\-contributors / slam\-handbook\-public\-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
@@ -4640,6 +4648,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-04-12】[orbitinghail / graft](https://github.com/orbitinghail/graft) - Graft is an open\-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline\-first, and distributed applications 
+* 【2025-04-12】[hanatsumi / rakuyomi](https://github.com/hanatsumi/rakuyomi) - A manga reader plugin for KOReader 
 * 【2025-04-10】[nvim\-neorocks / lux](https://github.com/nvim-neorocks/lux) - A luxurious package manager for Lua
 * 【2025-04-10】[0xlane / wechat\-dump\-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
 * 【2025-04-08】[mCaptcha / mCaptcha](https://github.com/mCaptcha/mCaptcha) - A no\-nonsense CAPTCHA system with seamless UX \| Backend component
@@ -5291,6 +5301,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-04-12】[testcontainers / testcontainers\-node](https://github.com/testcontainers/testcontainers-node) - Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container 
+* 【2025-04-12】[wzc520pyfm / ant\-design\-x\-vue](https://github.com/wzc520pyfm/ant-design-x-vue) - Ant Design X For Vue  🔥
+* 【2025-04-12】[google\-gemini / starter\-applets](https://github.com/google-gemini/starter-applets) - Google AI Studio Starter Apps
 * 【2025-04-11】[anultravioletaurora / Jellify](https://github.com/anultravioletaurora/Jellify) - A cross\-platform, free and open source music player for Jellyfin 🪼 Powered by React Native ⚛️
 * 【2025-04-09】[OvidijusParsiunas / deep\-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 * 【2025-04-08】[punkpeye / fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers 
