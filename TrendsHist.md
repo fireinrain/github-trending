@@ -2360,6 +2360,7 @@
 
 ## Go
 
+* 【2025-04-13】[goccy / go\-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
 * 【2025-04-08】[grafana / mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
 * 【2025-04-07】[Septrum101 / zteOnu](https://github.com/Septrum101/zteOnu) - A tool that can open ZTE onu device factory mode
 * 【2025-04-07】[krillinai / KrillinAI](https://github.com/krillinai/KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional\-grade translations and one\-click full\-process deployment  It can generate content optimized for platforms like YouTube，TikTok, and Shorts  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
@@ -2681,6 +2682,7 @@
 
 ## C
 
+* 【2025-04-13】[OpenCPN / OpenCPN](https://github.com/OpenCPN/OpenCPN) - A concise ChartPlotter/Navigator  A cross\-platform ship\-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypoint Autopilot Navigation
 * 【2025-04-12】[stlink-org / stlink](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset
 * 【2025-04-09】[Xilinx / dma_ip_drivers](https://github.com/Xilinx/dma_ip_drivers) - Xilinx QDMA IP Drivers
 * 【2025-04-08】[GuijiAI / HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai) - 
@@ -2992,6 +2994,8 @@
 
 ## C++
 
+* 【2025-04-13】[ezEngine / ezEngine](https://github.com/ezEngine/ezEngine) - An open source C++ game engine 
+* 【2025-04-13】[Zackriya-Solutions / meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)
 * 【2025-04-11】[xtensor\-stack / xtensor](https://github.com/xtensor-stack/xtensor) - C++ tensors with broadcasting and lazy computing
 * 【2025-04-10】[ggml-org / whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 * 【2025-04-09】[ggml-org / ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
@@ -3625,6 +3629,7 @@
 
 ## Html
 
+* 【2025-04-13】[lm-rebooter / NuggetsBooklet](https://github.com/lm-rebooter/NuggetsBooklet) - 掘金小册
 * 【2025-04-11】[deanmalmgren / textract](https://github.com/deanmalmgren/textract) - extract text from any document  no muss  no fuss 
 * 【2025-04-09】[rbuckton / proposal-enum](https://github.com/rbuckton/proposal-enum) - Proposal for ECMAScript enums
 * 【2025-04-07】[rbuckton / proposal\-enum](https://github.com/rbuckton/proposal-enum) - Proposal for ECMAScript enums
@@ -5301,6 +5306,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-04-13】[APTRS / APTRS](https://github.com/APTRS/APTRS) - Automated pentest reporting with custom Word templates, project tracking, and client management tools  Streamline your security workflows effortlessly!
 * 【2025-04-12】[testcontainers / testcontainers\-node](https://github.com/testcontainers/testcontainers-node) - Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container 
 * 【2025-04-12】[wzc520pyfm / ant\-design\-x\-vue](https://github.com/wzc520pyfm/ant-design-x-vue) - Ant Design X For Vue  🔥
 * 【2025-04-12】[google\-gemini / starter\-applets](https://github.com/google-gemini/starter-applets) - Google AI Studio Starter Apps
