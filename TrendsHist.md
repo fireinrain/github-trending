@@ -825,6 +825,9 @@
 
 ## Java
 
+* 【2025-04-15】[data-integrations / wrangler](https://github.com/data-integrations/wrangler) - Wrangler Transform: A DMD system for transforming Big Data
+* 【2025-04-15】[Audiveris / audiveris](https://github.com/Audiveris/audiveris) - Latest generation of Audiveris OMR engine
+* 【2025-04-15】[AugmentOS\-Community / AugmentOS](https://github.com/AugmentOS-Community/AugmentOS) - Smart glasses OS, with dozens of built\-in apps  Users get AI assistant, notifications, translation, screen mirror, captions, and more  Devs get to write 1 app that runs on any pair of smart glases 
 * 【2025-04-14】[data\-integrations / wrangler](https://github.com/data-integrations/wrangler) - Wrangler Transform: A DMD system for transforming Big Data
 * 【2025-04-14】[1024\-lab / smart\-admin](https://github.com/1024-lab/smart-admin) - SmartAdmin国内首个以「高质量代码」为核心，「简洁、高效、安全」快速开发平台；基于SpringBoot2/3 + Sa\-Token + Mybatis\-Plus 和 Vue3 + Vite5 + Ant Design Vue 4 x (同时支持JavaScript和TypeScript双版本)；满足国家三级等保要求、支持登录限制、接口数据国产加解密、高防SQL注入等一系列安全体系。
 * 【2025-04-07】[NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) - 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅]
@@ -1103,6 +1106,7 @@
 
 ## Python
 
+* 【2025-04-15】[jingyaogong / minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」1小时从0训练26M参数的视觉多模态VLM！🌏 Train a 26M-parameter VLM from scratch in just 1 hours!
 * 【2025-04-12】[yeongpin / cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 * 【2025-04-12】[crestalnetwork / intentkit](https://github.com/crestalnetwork/intentkit) - An open and fair framework for everyone to build AI agents equipped with powerful skills  Launch your agent, improve the world, your wallet, or both!
 * 【2025-04-12】[huggingface / smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in python code 
@@ -2996,6 +3000,7 @@
 
 ## C++
 
+* 【2025-04-15】[HanGuo97 / flute](https://github.com/HanGuo97/flute) - Fast Matrix Multiplications for Lookup Table\-Quantized LLMs
 * 【2025-04-13】[ezEngine / ezEngine](https://github.com/ezEngine/ezEngine) - An open source C++ game engine 
 * 【2025-04-13】[Zackriya-Solutions / meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)
 * 【2025-04-11】[xtensor\-stack / xtensor](https://github.com/xtensor-stack/xtensor) - C++ tensors with broadcasting and lazy computing
@@ -4657,6 +4662,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-04-15】[FractalFir / rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - A Rust compiler backend targeting CIL( NET IR) and C 
 * 【2025-04-14】[tuananh / hyper\-mcp](https://github.com/tuananh/hyper-mcp) - A fast, secure MCP server that extends its capabilities through WebAssembly plugins 
 * 【2025-04-12】[orbitinghail / graft](https://github.com/orbitinghail/graft) - Graft is an open\-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline\-first, and distributed applications 
 * 【2025-04-12】[hanatsumi / rakuyomi](https://github.com/hanatsumi/rakuyomi) - A manga reader plugin for KOReader 
