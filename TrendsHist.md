@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-04-16】[jlevy / og\-equity\-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www holloway com/ec
 * 【2025-04-12】[yeongpin / cursor\-free\-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0 48 x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit  / Too many free trial accounts used on this machine  Please upgrade to pro  We have this limit in place to prevent abuse  Please let us know if you believe this is a mistake 
 * 【2025-04-12】[aws\-samples / amazon\-nova\-samples](https://github.com/aws-samples/amazon-nova-samples) - 
 * 【2025-04-11】[microsoft / ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
@@ -1106,6 +1107,8 @@
 
 ## Python
 
+* 【2025-04-16】[AI\-Hypercomputer / RecML](https://github.com/AI-Hypercomputer/RecML) - 
+* 【2025-04-16】[jixiaozhong / Sonic](https://github.com/jixiaozhong/Sonic) - Official implementation of "Sonic: Shifting Focus to Global Audio Perception in Portrait Animation"
 * 【2025-04-15】[jingyaogong / minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」1小时从0训练26M参数的视觉多模态VLM！🌏 Train a 26M-parameter VLM from scratch in just 1 hours!
 * 【2025-04-12】[yeongpin / cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
 * 【2025-04-12】[crestalnetwork / intentkit](https://github.com/crestalnetwork/intentkit) - An open and fair framework for everyone to build AI agents equipped with powerful skills  Launch your agent, improve the world, your wallet, or both!
@@ -4085,6 +4088,8 @@
 
 ## Unknown
 
+* 【2025-04-16】[jlevy / og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
+* 【2025-04-16】[OnePlusOSS / kernel_manifest](https://github.com/OnePlusOSS/kernel_manifest) - 
 * 【2025-04-14】[NeverSinkDev / NeverSink-Filter-for-PoE2](https://github.com/NeverSinkDev/NeverSink-Filter-for-PoE2) - This is a lootfilter for the game "Path of Exile 2". It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user
 * 【2025-04-12】[FFmpeg / asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
 * 【2025-04-11】[FFmpeg / asm\-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
@@ -4662,6 +4667,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-04-16】[hanshuaikang / Nping](https://github.com/hanshuaikang/Nping) - 🏎 Nping mean NB Ping, A Ping Tool in Rust with Real\-Time Data and Visualizations
+* 【2025-04-16】[Rust\-GPU / rust\-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first\-class language and ecosystem for GPU shaders 🚧
+* 【2025-04-16】[sourcefrog / cargo\-mutants](https://github.com/sourcefrog/cargo-mutants) - 🧟 Inject bugs and see if your tests catch them!
 * 【2025-04-15】[FractalFir / rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - A Rust compiler backend targeting CIL( NET IR) and C 
 * 【2025-04-14】[tuananh / hyper\-mcp](https://github.com/tuananh/hyper-mcp) - A fast, secure MCP server that extends its capabilities through WebAssembly plugins 
 * 【2025-04-12】[orbitinghail / graft](https://github.com/orbitinghail/graft) - Graft is an open\-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline\-first, and distributed applications 
