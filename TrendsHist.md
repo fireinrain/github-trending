@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-04-17】[Anxcye / anx\-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e\-book formats, it makes reading smarter and more focused  集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
+* 【2025-04-17】[opf / openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software 
+* 【2025-04-17】[NirDiamant / RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval\-Augmented Generation (RAG) systems  RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses 
 * 【2025-04-16】[jlevy / og\-equity\-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www holloway com/ec
 * 【2025-04-12】[yeongpin / cursor\-free\-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0 48 x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit  / Too many free trial accounts used on this machine  Please upgrade to pro  We have this limit in place to prevent abuse  Please let us know if you believe this is a mistake 
 * 【2025-04-12】[aws\-samples / amazon\-nova\-samples](https://github.com/aws-samples/amazon-nova-samples) - 
@@ -1107,6 +1110,7 @@
 
 ## Python
 
+* 【2025-04-17】[IBM / terratorch](https://github.com/IBM/terratorch) - A Python toolkit for fine\-tuning Geospatial Foundation Models (GFMs) 
 * 【2025-04-16】[AI\-Hypercomputer / RecML](https://github.com/AI-Hypercomputer/RecML) - 
 * 【2025-04-16】[jixiaozhong / Sonic](https://github.com/jixiaozhong/Sonic) - Official implementation of "Sonic: Shifting Focus to Global Audio Perception in Portrait Animation"
 * 【2025-04-15】[jingyaogong / minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」1小时从0训练26M参数的视觉多模态VLM！🌏 Train a 26M-parameter VLM from scratch in just 1 hours!
@@ -1944,6 +1948,7 @@
 
 ## Javascript
 
+* 【2025-04-17】[zombieyang / sd\-ppp](https://github.com/zombieyang/sd-ppp) - Simplify ComfyUI and Connect with Photoshop
 * 【2025-04-11】[goldbergyoni / nodejs\-testing\-best\-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node js testing  Including a super\-comprehensive best practices list and an example app (April 2025)
 * 【2025-04-10】[jerhadf / linear\-mcp\-server](https://github.com/jerhadf/linear-mcp-server) - A server that integrates Linear's project management system with the Model Context Protocol (MCP) to allow LLMs to interact with Linear 
 * 【2025-04-10】[mermaid-js / mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
@@ -2691,6 +2696,7 @@
 
 ## C
 
+* 【2025-04-17】[tsoding / nob h](https://github.com/tsoding/nob.h) - Header only library for writing build recipes in C 
 * 【2025-04-13】[OpenCPN / OpenCPN](https://github.com/OpenCPN/OpenCPN) - A concise ChartPlotter/Navigator  A cross\-platform ship\-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypoint Autopilot Navigation
 * 【2025-04-12】[stlink-org / stlink](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset
 * 【2025-04-09】[Xilinx / dma_ip_drivers](https://github.com/Xilinx/dma_ip_drivers) - Xilinx QDMA IP Drivers
@@ -3639,6 +3645,7 @@
 
 ## Html
 
+* 【2025-04-17】[CVEProject / cve\-schema](https://github.com/CVEProject/cve-schema) - This repository is used for the development of the CVE JSON record format  Releases of the CVE JSON record format will also be published here  This repository is managed by the CVE Quality Working Group 
 * 【2025-04-14】[sidex15 / susfs4ksu\-module](https://github.com/sidex15/susfs4ksu-module) - An addon root hiding service for KernelSU
 * 【2025-04-13】[lm-rebooter / NuggetsBooklet](https://github.com/lm-rebooter/NuggetsBooklet) - 掘金小册
 * 【2025-04-11】[deanmalmgren / textract](https://github.com/deanmalmgren/textract) - extract text from any document  no muss  no fuss 
@@ -5325,6 +5332,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-04-17】[react\-native\-maps / react\-native\-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
 * 【2025-04-14】[voideditor / void](https://github.com/voideditor/void) - 
 * 【2025-04-14】[googleapis / js\-genai](https://github.com/googleapis/js-genai) - TypeScript/JavaScript SDK for Gemini and Vertex AI  [PREVIEW]
 * 【2025-04-13】[APTRS / APTRS](https://github.com/APTRS/APTRS) - Automated pentest reporting with custom Word templates, project tracking, and client management tools  Streamline your security workflows effortlessly!
