@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-04-19】[Anxcye / anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
 * 【2025-04-17】[Anxcye / anx\-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e\-book formats, it makes reading smarter and more focused  集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
 * 【2025-04-17】[opf / openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software 
 * 【2025-04-17】[NirDiamant / RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval\-Augmented Generation (RAG) systems  RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses 
@@ -1111,6 +1112,7 @@
 
 ## Python
 
+* 【2025-04-19】[lmnr\-ai / index](https://github.com/lmnr-ai/index) - SOTA Open\-Source Browser Agent for autonomously performing complex tasks on the web
 * 【2025-04-18】[awslabs / amazon-bedrock-agent-samples](https://github.com/awslabs/amazon-bedrock-agent-samples) - Example Jupyter notebooks 📓 and code scripts 💻 for using Amazon Bedrock Agents 🤖 and its functionalities
 * 【2025-04-17】[IBM / terratorch](https://github.com/IBM/terratorch) - A Python toolkit for fine\-tuning Geospatial Foundation Models (GFMs) 
 * 【2025-04-16】[AI\-Hypercomputer / RecML](https://github.com/AI-Hypercomputer/RecML) - 
@@ -1950,6 +1952,9 @@
 
 ## Javascript
 
+* 【2025-04-19】[gradio\-app / fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real\-time communication
+* 【2025-04-19】[zombieyang / sd-ppp](https://github.com/zombieyang/sd-ppp) - Simplify ComfyUI and Connect with Photoshop
+* 【2025-04-19】[hexgrad / kokoro](https://github.com/hexgrad/kokoro) - https://hf co/hexgrad/Kokoro\-82M
 * 【2025-04-17】[zombieyang / sd\-ppp](https://github.com/zombieyang/sd-ppp) - Simplify ComfyUI and Connect with Photoshop
 * 【2025-04-11】[goldbergyoni / nodejs\-testing\-best\-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node js testing  Including a super\-comprehensive best practices list and an example app (April 2025)
 * 【2025-04-10】[jerhadf / linear\-mcp\-server](https://github.com/jerhadf/linear-mcp-server) - A server that integrates Linear's project management system with the Model Context Protocol (MCP) to allow LLMs to interact with Linear 
@@ -2699,6 +2704,7 @@
 
 ## C
 
+* 【2025-04-19】[marcoroth / herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML\-aware ERB parsing and tooling 
 * 【2025-04-17】[tsoding / nob h](https://github.com/tsoding/nob.h) - Header only library for writing build recipes in C 
 * 【2025-04-13】[OpenCPN / OpenCPN](https://github.com/OpenCPN/OpenCPN) - A concise ChartPlotter/Navigator  A cross\-platform ship\-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypoint Autopilot Navigation
 * 【2025-04-12】[stlink-org / stlink](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset
@@ -3316,6 +3322,8 @@
 
 ## C#
 
+* 【2025-04-19】[BlendLog / MinerSearch](https://github.com/BlendLog/MinerSearch) - Program designed for search and kill silent miners
+* 【2025-04-19】[replaysMike / Binner](https://github.com/replaysMike/Binner) - Open source parts inventory system for makers, electronics hobby, and professional engineers
 * 【2025-04-12】[wisedev\-code / MaIN NET](https://github.com/wisedev-code/MaIN.NET) - NuGet package designed to make LLMs, RAG, and Agents first\-class citizens in  NET
 * 【2025-04-10】[Ishaan35 / Unity3D-Mario-Kart-Racing-Game](https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game) - https://www.youtube.com/watch?v=s_nEniWLLgo. This is a 3D Mario kart game created with the unity game engine with C#. Kart racer supports items, anti-gravity mode, computer players, underwater mode, and real-time shadows and lighting.
 * 【2025-04-10】[pylorak / TinyWall](https://github.com/pylorak/TinyWall) - TinyWall is a free, non\-intrusive, secure\-by\-default firewall for Windows 
@@ -4101,6 +4109,7 @@
 
 ## Unknown
 
+* 【2025-04-19】[darkseal\-org / lol\-skins](https://github.com/darkseal-org/lol-skins) - [⭐] A community\-maintained repository featuring all official League of Legends skins and chromas as custom skin format 
 * 【2025-04-18】[MicrosoftDocs / entra\-docs](https://github.com/MicrosoftDocs/entra-docs) - This is the public repo for Microsoft Entra documentation
 * 【2025-04-16】[jlevy / og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
 * 【2025-04-16】[OnePlusOSS / kernel_manifest](https://github.com/OnePlusOSS/kernel_manifest) - 
@@ -4681,6 +4690,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-04-19】[mufeedvh / pdfrip](https://github.com/mufeedvh/pdfrip) - A multi\-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks 
 * 【2025-04-16】[hanshuaikang / Nping](https://github.com/hanshuaikang/Nping) - 🏎 Nping mean NB Ping, A Ping Tool in Rust with Real\-Time Data and Visualizations
 * 【2025-04-16】[Rust\-GPU / rust\-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first\-class language and ecosystem for GPU shaders 🚧
 * 【2025-04-16】[sourcefrog / cargo\-mutants](https://github.com/sourcefrog/cargo-mutants) - 🧟 Inject bugs and see if your tests catch them!
