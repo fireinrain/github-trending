@@ -1112,6 +1112,9 @@
 
 ## Python
 
+* 【2025-04-20】[kijai / ComfyUI\-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - Various custom nodes for ComfyUI
+* 【2025-04-20】[cyclotruc / gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt\-friendly extract of a codebase
+* 【2025-04-20】[Lightricks / LTX\-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX\-Video
 * 【2025-04-19】[lmnr\-ai / index](https://github.com/lmnr-ai/index) - SOTA Open\-Source Browser Agent for autonomously performing complex tasks on the web
 * 【2025-04-18】[awslabs / amazon-bedrock-agent-samples](https://github.com/awslabs/amazon-bedrock-agent-samples) - Example Jupyter notebooks 📓 and code scripts 💻 for using Amazon Bedrock Agents 🤖 and its functionalities
 * 【2025-04-17】[IBM / terratorch](https://github.com/IBM/terratorch) - A Python toolkit for fine\-tuning Geospatial Foundation Models (GFMs) 
@@ -1952,6 +1955,7 @@
 
 ## Javascript
 
+* 【2025-04-20】[gradio-app / fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 * 【2025-04-19】[gradio\-app / fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real\-time communication
 * 【2025-04-19】[zombieyang / sd-ppp](https://github.com/zombieyang/sd-ppp) - Simplify ComfyUI and Connect with Photoshop
 * 【2025-04-19】[hexgrad / kokoro](https://github.com/hexgrad/kokoro) - https://hf co/hexgrad/Kokoro\-82M
@@ -2381,6 +2385,7 @@
 
 ## Go
 
+* 【2025-04-20】[anthropics / anthropic\-sdk\-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic's safety\-first language model APIs via Go
 * 【2025-04-18】[donknap / dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight panel for docker
 * 【2025-04-13】[goccy / go\-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
 * 【2025-04-08】[grafana / mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
@@ -2704,6 +2709,7 @@
 
 ## C
 
+* 【2025-04-20】[GermanAizek / WinRing0](https://github.com/GermanAizek/WinRing0) - WinRing0 is a hardware access library for Windows 
 * 【2025-04-19】[marcoroth / herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML\-aware ERB parsing and tooling 
 * 【2025-04-17】[tsoding / nob h](https://github.com/tsoding/nob.h) - Header only library for writing build recipes in C 
 * 【2025-04-13】[OpenCPN / OpenCPN](https://github.com/OpenCPN/OpenCPN) - A concise ChartPlotter/Navigator  A cross\-platform ship\-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypoint Autopilot Navigation
@@ -3322,6 +3328,7 @@
 
 ## C#
 
+* 【2025-04-20】[Azure / azure-sdk-tools](https://github.com/Azure/azure-sdk-tools) - Tools repository leveraged by the Azure SDK team.
 * 【2025-04-19】[BlendLog / MinerSearch](https://github.com/BlendLog/MinerSearch) - Program designed for search and kill silent miners
 * 【2025-04-19】[replaysMike / Binner](https://github.com/replaysMike/Binner) - Open source parts inventory system for makers, electronics hobby, and professional engineers
 * 【2025-04-12】[wisedev\-code / MaIN NET](https://github.com/wisedev-code/MaIN.NET) - NuGet package designed to make LLMs, RAG, and Agents first\-class citizens in  NET
@@ -3657,6 +3664,8 @@
 
 ## Html
 
+* 【2025-04-20】[tc39 / proposal-enum](https://github.com/tc39/proposal-enum) - Proposal for ECMAScript enums
+* 【2025-04-20】[sidex15 / susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module) - An addon root hiding service for KernelSU
 * 【2025-04-18】[CVEProject / cve-schema](https://github.com/CVEProject/cve-schema) - This repository is used for the development of the CVE JSON record format. Releases of the CVE JSON record format will also be published here. This repository is managed by the CVE Quality Working Group.
 * 【2025-04-18】[tc39 / proposal\-enum](https://github.com/tc39/proposal-enum) - Proposal for ECMAScript enums
 * 【2025-04-17】[CVEProject / cve\-schema](https://github.com/CVEProject/cve-schema) - This repository is used for the development of the CVE JSON record format  Releases of the CVE JSON record format will also be published here  This repository is managed by the CVE Quality Working Group 
@@ -4690,6 +4699,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-04-20】[tuananh / hyper-mcp](https://github.com/tuananh/hyper-mcp) - A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 * 【2025-04-19】[mufeedvh / pdfrip](https://github.com/mufeedvh/pdfrip) - A multi\-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks 
 * 【2025-04-16】[hanshuaikang / Nping](https://github.com/hanshuaikang/Nping) - 🏎 Nping mean NB Ping, A Ping Tool in Rust with Real\-Time Data and Visualizations
 * 【2025-04-16】[Rust\-GPU / rust\-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first\-class language and ecosystem for GPU shaders 🚧
@@ -5349,6 +5359,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-04-20】[oslook / cursor\-ai\-downloads](https://github.com/oslook/cursor-ai-downloads) - All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version  🚀
 * 【2025-04-18】[heroui\-inc / heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library  (Previously NextUI)
 * 【2025-04-17】[react\-native\-maps / react\-native\-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
 * 【2025-04-14】[voideditor / void](https://github.com/voideditor/void) - 
