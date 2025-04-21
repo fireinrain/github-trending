@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-04-21】[ashvardanian / less_slow cpp](https://github.com/ashvardanian/less_slow.cpp) - Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user\-space IO
 * 【2025-04-19】[Anxcye / anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
 * 【2025-04-17】[Anxcye / anx\-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e\-book formats, it makes reading smarter and more focused  集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
 * 【2025-04-17】[opf / openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software 
@@ -830,6 +831,7 @@
 
 ## Java
 
+* 【2025-04-21】[CatimaLoyalty / Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 * 【2025-04-18】[ClickHouse / clickhouse\-java](https://github.com/ClickHouse/clickhouse-java) - ClickHouse Java Clients & JDBC Driver
 * 【2025-04-15】[data-integrations / wrangler](https://github.com/data-integrations/wrangler) - Wrangler Transform: A DMD system for transforming Big Data
 * 【2025-04-15】[Audiveris / audiveris](https://github.com/Audiveris/audiveris) - Latest generation of Audiveris OMR engine
@@ -1112,6 +1114,7 @@
 
 ## Python
 
+* 【2025-04-21】[robfiras / loco\-mujoco](https://github.com/robfiras/loco-mujoco) - Imitation learning benchmark focusing on complex locomotion tasks using MuJoCo 
 * 【2025-04-20】[kijai / ComfyUI\-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - Various custom nodes for ComfyUI
 * 【2025-04-20】[cyclotruc / gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt\-friendly extract of a codebase
 * 【2025-04-20】[Lightricks / LTX\-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX\-Video
@@ -2709,6 +2712,7 @@
 
 ## C
 
+* 【2025-04-21】[oerg866 / win98\-quickinstall](https://github.com/oerg866/win98-quickinstall) - A framework + installer to (very) quickly install Windows 98 on anything from a 486 up to a modern system
 * 【2025-04-20】[GermanAizek / WinRing0](https://github.com/GermanAizek/WinRing0) - WinRing0 is a hardware access library for Windows 
 * 【2025-04-19】[marcoroth / herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML\-aware ERB parsing and tooling 
 * 【2025-04-17】[tsoding / nob h](https://github.com/tsoding/nob.h) - Header only library for writing build recipes in C 
@@ -3024,6 +3028,7 @@
 
 ## C++
 
+* 【2025-04-21】[ashvardanian / less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
 * 【2025-04-18】[Lizonghang / prima cpp](https://github.com/Lizonghang/prima.cpp) - prima cpp: Speeding up 70B\-scale LLM inference on low\-resource everyday home clusters
 * 【2025-04-15】[HanGuo97 / flute](https://github.com/HanGuo97/flute) - Fast Matrix Multiplications for Lookup Table\-Quantized LLMs
 * 【2025-04-13】[ezEngine / ezEngine](https://github.com/ezEngine/ezEngine) - An open source C++ game engine 
@@ -4699,6 +4704,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-04-21】[orhun / ratzilla](https://github.com/orhun/ratzilla) - Build terminal\-themed web applications with Rust and WebAssembly  Powered by Ratatui 
 * 【2025-04-20】[tuananh / hyper-mcp](https://github.com/tuananh/hyper-mcp) - A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 * 【2025-04-19】[mufeedvh / pdfrip](https://github.com/mufeedvh/pdfrip) - A multi\-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks 
 * 【2025-04-16】[hanshuaikang / Nping](https://github.com/hanshuaikang/Nping) - 🏎 Nping mean NB Ping, A Ping Tool in Rust with Real\-Time Data and Visualizations
@@ -5359,6 +5365,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-04-21】[David\-patrick\-chuks / Instagram\-AI\-Agent](https://github.com/David-patrick-chuks/Instagram-AI-Agent) - Instagram Ai Agent 🌸 is built using Node js and TypeScript 🛠️, designed for seamless job execution 📸  It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟
+* 【2025-04-21】[lingodotdev / lingo dev](https://github.com/lingodotdev/lingo.dev) - ⚡️ Open\-source AI\-powered CLI for web & mobile localization  Bring your own LLM or use Lingo dev\-managed localization engine 
+* 【2025-04-21】[oslook / cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads) - All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version. 🚀
+* 【2025-04-21】[zcaceres / markdownify\-mcp](https://github.com/zcaceres/markdownify-mcp) - A Model Context Protocol server for converting almost anything to Markdown
 * 【2025-04-20】[oslook / cursor\-ai\-downloads](https://github.com/oslook/cursor-ai-downloads) - All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version  🚀
 * 【2025-04-18】[heroui\-inc / heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library  (Previously NextUI)
 * 【2025-04-17】[react\-native\-maps / react\-native\-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
