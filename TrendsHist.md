@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-04-22】[007revad / Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
 * 【2025-04-21】[ashvardanian / less_slow cpp](https://github.com/ashvardanian/less_slow.cpp) - Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user\-space IO
 * 【2025-04-19】[Anxcye / anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
 * 【2025-04-17】[Anxcye / anx\-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e\-book formats, it makes reading smarter and more focused  集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
@@ -831,6 +832,7 @@
 
 ## Java
 
+* 【2025-04-22】[aws\-containers / retail\-store\-sample\-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
 * 【2025-04-21】[CatimaLoyalty / Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 * 【2025-04-18】[ClickHouse / clickhouse\-java](https://github.com/ClickHouse/clickhouse-java) - ClickHouse Java Clients & JDBC Driver
 * 【2025-04-15】[data-integrations / wrangler](https://github.com/data-integrations/wrangler) - Wrangler Transform: A DMD system for transforming Big Data
@@ -2388,6 +2390,7 @@
 
 ## Go
 
+* 【2025-04-22】[ltaoo / wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器
 * 【2025-04-20】[anthropics / anthropic\-sdk\-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic's safety\-first language model APIs via Go
 * 【2025-04-18】[donknap / dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight panel for docker
 * 【2025-04-13】[goccy / go\-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
@@ -4704,6 +4707,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-04-22】[Skxxtz / sherlock](https://github.com/Skxxtz/sherlock) - A versatile application/command launcher for wayland  Built with rust and gtk4
+* 【2025-04-22】[unicode\-org / icu4x](https://github.com/unicode-org/icu4x) - Solving i18n for client\-side and resource\-constrained environments 
 * 【2025-04-21】[orhun / ratzilla](https://github.com/orhun/ratzilla) - Build terminal\-themed web applications with Rust and WebAssembly  Powered by Ratatui 
 * 【2025-04-20】[tuananh / hyper-mcp](https://github.com/tuananh/hyper-mcp) - A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 * 【2025-04-19】[mufeedvh / pdfrip](https://github.com/mufeedvh/pdfrip) - A multi\-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks 
@@ -5365,6 +5370,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-04-22】[David-patrick-chuks / Instagram-AI-Agent](https://github.com/David-patrick-chuks/Instagram-AI-Agent) - Instagram Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟
 * 【2025-04-21】[David\-patrick\-chuks / Instagram\-AI\-Agent](https://github.com/David-patrick-chuks/Instagram-AI-Agent) - Instagram Ai Agent 🌸 is built using Node js and TypeScript 🛠️, designed for seamless job execution 📸  It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟
 * 【2025-04-21】[lingodotdev / lingo dev](https://github.com/lingodotdev/lingo.dev) - ⚡️ Open\-source AI\-powered CLI for web & mobile localization  Bring your own LLM or use Lingo dev\-managed localization engine 
 * 【2025-04-21】[oslook / cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads) - All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version. 🚀
