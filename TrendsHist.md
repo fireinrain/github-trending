@@ -832,6 +832,7 @@
 
 ## Java
 
+* 【2025-04-23】[baomidou / dynamic\-datasource](https://github.com/baomidou/dynamic-datasource) - dynamic datasource for springboot 多数据源 动态数据源 主从分离 读写分离 分布式事务
 * 【2025-04-22】[aws\-containers / retail\-store\-sample\-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
 * 【2025-04-21】[CatimaLoyalty / Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 * 【2025-04-18】[ClickHouse / clickhouse\-java](https://github.com/ClickHouse/clickhouse-java) - ClickHouse Java Clients & JDBC Driver
@@ -2390,6 +2391,7 @@
 
 ## Go
 
+* 【2025-04-23】[cloudwego / eino\-ext](https://github.com/cloudwego/eino-ext) - Various extensions for the Eino framework: https://github com/cloudwego/eino
 * 【2025-04-22】[ltaoo / wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器
 * 【2025-04-20】[anthropics / anthropic\-sdk\-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic's safety\-first language model APIs via Go
 * 【2025-04-18】[donknap / dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight panel for docker
@@ -2715,6 +2717,7 @@
 
 ## C
 
+* 【2025-04-23】[vgmstream / vgmstream](https://github.com/vgmstream/vgmstream) - vgmstream \- A library for playback of various streamed audio formats used in video games 
 * 【2025-04-21】[oerg866 / win98\-quickinstall](https://github.com/oerg866/win98-quickinstall) - A framework + installer to (very) quickly install Windows 98 on anything from a 486 up to a modern system
 * 【2025-04-20】[GermanAizek / WinRing0](https://github.com/GermanAizek/WinRing0) - WinRing0 is a hardware access library for Windows 
 * 【2025-04-19】[marcoroth / herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML\-aware ERB parsing and tooling 
@@ -3031,6 +3034,7 @@
 
 ## C++
 
+* 【2025-04-23】[RCInet / LastEpoch_Mods](https://github.com/RCInet/LastEpoch_Mods) - MelonLoader Mods for LastEpoch
 * 【2025-04-21】[ashvardanian / less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
 * 【2025-04-18】[Lizonghang / prima cpp](https://github.com/Lizonghang/prima.cpp) - prima cpp: Speeding up 70B\-scale LLM inference on low\-resource everyday home clusters
 * 【2025-04-15】[HanGuo97 / flute](https://github.com/HanGuo97/flute) - Fast Matrix Multiplications for Lookup Table\-Quantized LLMs
@@ -4126,6 +4130,7 @@
 
 ## Unknown
 
+* 【2025-04-23】[EmenstaNougat / ESP32\-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) - The ESP32\-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2 4GHz communications  Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended  Ideal for controlled disruption and security testing 
 * 【2025-04-19】[darkseal\-org / lol\-skins](https://github.com/darkseal-org/lol-skins) - [⭐] A community\-maintained repository featuring all official League of Legends skins and chromas as custom skin format 
 * 【2025-04-18】[MicrosoftDocs / entra\-docs](https://github.com/MicrosoftDocs/entra-docs) - This is the public repo for Microsoft Entra documentation
 * 【2025-04-16】[jlevy / og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
@@ -4707,6 +4712,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-04-23】[unicode-org / icu4x](https://github.com/unicode-org/icu4x) - Solving i18n for client-side and resource-constrained environments.
 * 【2025-04-22】[Skxxtz / sherlock](https://github.com/Skxxtz/sherlock) - A versatile application/command launcher for wayland  Built with rust and gtk4
 * 【2025-04-22】[unicode\-org / icu4x](https://github.com/unicode-org/icu4x) - Solving i18n for client\-side and resource\-constrained environments 
 * 【2025-04-21】[orhun / ratzilla](https://github.com/orhun/ratzilla) - Build terminal\-themed web applications with Rust and WebAssembly  Powered by Ratatui 
@@ -5370,6 +5376,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-04-23】[fastrepl / hyprnote](https://github.com/fastrepl/hyprnote) - AI notepad for meetings  Local\-first & Extensible 
 * 【2025-04-22】[David-patrick-chuks / Instagram-AI-Agent](https://github.com/David-patrick-chuks/Instagram-AI-Agent) - Instagram Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟
 * 【2025-04-21】[David\-patrick\-chuks / Instagram\-AI\-Agent](https://github.com/David-patrick-chuks/Instagram-AI-Agent) - Instagram Ai Agent 🌸 is built using Node js and TypeScript 🛠️, designed for seamless job execution 📸  It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟
 * 【2025-04-21】[lingodotdev / lingo dev](https://github.com/lingodotdev/lingo.dev) - ⚡️ Open\-source AI\-powered CLI for web & mobile localization  Bring your own LLM or use Lingo dev\-managed localization engine 
