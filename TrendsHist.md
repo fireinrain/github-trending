@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-04-25】[kortix\-ai / suna](https://github.com/kortix-ai/suna) - Suna \- Open Source Generalist AI Agent
 * 【2025-04-24】[bytedance / UI\-TARS](https://github.com/bytedance/UI-TARS) - 
 * 【2025-04-22】[007revad / Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
 * 【2025-04-21】[ashvardanian / less_slow cpp](https://github.com/ashvardanian/less_slow.cpp) - Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user\-space IO
@@ -833,6 +834,7 @@
 
 ## Java
 
+* 【2025-04-25】[metasfresh / metasfresh](https://github.com/metasfresh/metasfresh) - We do Open Source ERP \- Fast, Flexible & Free Software to scale your Business 
 * 【2025-04-23】[baomidou / dynamic\-datasource](https://github.com/baomidou/dynamic-datasource) - dynamic datasource for springboot 多数据源 动态数据源 主从分离 读写分离 分布式事务
 * 【2025-04-22】[aws\-containers / retail\-store\-sample\-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
 * 【2025-04-21】[CatimaLoyalty / Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
@@ -1118,6 +1120,8 @@
 
 ## Python
 
+* 【2025-04-25】[thunlp / LLMxMapReduce](https://github.com/thunlp/LLMxMapReduce) - 
+* 【2025-04-25】[FunAudioLLM / CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi\-lingual large voice generation model, providing inference, training and deployment full\-stack ability 
 * 【2025-04-24】[bytedance / UI-TARS](https://github.com/bytedance/UI-TARS) - 
 * 【2025-04-24】[D\-Ogi / WatermarkRemover\-AI](https://github.com/D-Ogi/WatermarkRemover-AI) - AI\-Powered Watermark Remover using Florence\-2 and LaMA Models: A Python application leveraging state\-of\-the\-art deep learning models to effectively remove watermarks from images with a user\-friendly PyQt6 interface 
 * 【2025-04-21】[robfiras / loco\-mujoco](https://github.com/robfiras/loco-mujoco) - Imitation learning benchmark focusing on complex locomotion tasks using MuJoCo 
@@ -2395,6 +2399,7 @@
 
 ## Go
 
+* 【2025-04-25】[autokitteh / autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code
 * 【2025-04-24】[spegel\-org / spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror 
 * 【2025-04-23】[cloudwego / eino\-ext](https://github.com/cloudwego/eino-ext) - Various extensions for the Eino framework: https://github com/cloudwego/eino
 * 【2025-04-22】[ltaoo / wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器
@@ -2722,6 +2727,7 @@
 
 ## C
 
+* 【2025-04-25】[microsoft / winfile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements
 * 【2025-04-24】[debevv / nanoMODBUS](https://github.com/debevv/nanoMODBUS) - A compact MODBUS RTU/TCP C library for embedded/microcontrollers
 * 【2025-04-23】[vgmstream / vgmstream](https://github.com/vgmstream/vgmstream) - vgmstream \- A library for playback of various streamed audio formats used in video games 
 * 【2025-04-21】[oerg866 / win98\-quickinstall](https://github.com/oerg866/win98-quickinstall) - A framework + installer to (very) quickly install Windows 98 on anything from a 486 up to a modern system
@@ -3347,6 +3353,7 @@
 
 ## C#
 
+* 【2025-04-25】[microsoft / Generative-AI-for-beginners-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) - Five lessons, learn how to really apply AI to your .NET Applications
 * 【2025-04-24】[microsoft / Generative\-AI\-for\-beginners\-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) - Five lessons, learn how to really apply AI to your  NET Applications
 * 【2025-04-20】[Azure / azure-sdk-tools](https://github.com/Azure/azure-sdk-tools) - Tools repository leveraged by the Azure SDK team.
 * 【2025-04-19】[BlendLog / MinerSearch](https://github.com/BlendLog/MinerSearch) - Program designed for search and kill silent miners
@@ -3684,6 +3691,7 @@
 
 ## Html
 
+* 【2025-04-25】[OCA / partner-contact](https://github.com/OCA/partner-contact) - Odoo Partner and Contact related addons
 * 【2025-04-20】[tc39 / proposal-enum](https://github.com/tc39/proposal-enum) - Proposal for ECMAScript enums
 * 【2025-04-20】[sidex15 / susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module) - An addon root hiding service for KernelSU
 * 【2025-04-18】[CVEProject / cve-schema](https://github.com/CVEProject/cve-schema) - This repository is used for the development of the CVE JSON record format. Releases of the CVE JSON record format will also be published here. This repository is managed by the CVE Quality Working Group.
@@ -4722,6 +4730,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-04-25】[robustmq / robustmq](https://github.com/robustmq/robustmq) - RobustMQ is a next\-generation, high\-performance, cloud\-native, converged message queue that is compatible with multiple mainstream message queuing protocols and has complete Serveless capabilities 
 * 【2025-04-24】[brahmGAN / ganchain\-v2](https://github.com/brahmGAN/ganchain-v2) - This is the rust and substrate code for the GAN chain and its nodes 
 * 【2025-04-23】[unicode-org / icu4x](https://github.com/unicode-org/icu4x) - Solving i18n for client-side and resource-constrained environments.
 * 【2025-04-22】[Skxxtz / sherlock](https://github.com/Skxxtz/sherlock) - A versatile application/command launcher for wayland  Built with rust and gtk4
@@ -5387,6 +5396,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-04-25】[kortix-ai / suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
+* 【2025-04-25】[bytedance / UI\-TARS\-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI\-TARS(Vision\-Language Model) that allows you to control your computer using natural language 
+* 【2025-04-25】[LegendApp / legend\-list](https://github.com/LegendApp/legend-list) - A high\-performance list component for React Native
 * 【2025-04-24】[exa-labs / exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Claude can perform Web Search | Exa with MCP (Model Context Protocol)
 * 【2025-04-24】[vernu / textbee](https://github.com/vernu/textbee) - textbee dev is an opensource and free sms\-gatway for sending SMS messages through API or dashboard web interface 
 * 【2025-04-24】[menloresearch / jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
