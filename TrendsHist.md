@@ -834,6 +834,8 @@
 
 ## Java
 
+* 【2025-04-26】[eclipse / openvsx](https://github.com/eclipse/openvsx) - An open\-source registry for VS Code extensions
+* 【2025-04-26】[msfroh / lucene\-university](https://github.com/msfroh/lucene-university) - Self\-contained worked examples of Apache Lucene features and functionality
 * 【2025-04-25】[metasfresh / metasfresh](https://github.com/metasfresh/metasfresh) - We do Open Source ERP \- Fast, Flexible & Free Software to scale your Business 
 * 【2025-04-23】[baomidou / dynamic\-datasource](https://github.com/baomidou/dynamic-datasource) - dynamic datasource for springboot 多数据源 动态数据源 主从分离 读写分离 分布式事务
 * 【2025-04-22】[aws\-containers / retail\-store\-sample\-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
@@ -1120,6 +1122,7 @@
 
 ## Python
 
+* 【2025-04-26】[potamides / DeTikZify](https://github.com/potamides/DeTikZify) - Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ
 * 【2025-04-25】[thunlp / LLMxMapReduce](https://github.com/thunlp/LLMxMapReduce) - 
 * 【2025-04-25】[FunAudioLLM / CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi\-lingual large voice generation model, providing inference, training and deployment full\-stack ability 
 * 【2025-04-24】[bytedance / UI-TARS](https://github.com/bytedance/UI-TARS) - 
@@ -1968,6 +1971,7 @@
 
 ## Javascript
 
+* 【2025-04-26】[dbt\-labs / docs getdbt com](https://github.com/dbt-labs/docs.getdbt.com) - The code behind docs getdbt com
 * 【2025-04-24】[abhiz123 / todoist\-mcp\-server](https://github.com/abhiz123/todoist-mcp-server) - MCP server for Todoist integration enabling natural language task management with Claude
 * 【2025-04-20】[gradio-app / fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
 * 【2025-04-19】[gradio\-app / fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real\-time communication
@@ -2399,6 +2403,7 @@
 
 ## Go
 
+* 【2025-04-26】[cloudflare / cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 * 【2025-04-25】[autokitteh / autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code
 * 【2025-04-24】[spegel\-org / spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror 
 * 【2025-04-23】[cloudwego / eino\-ext](https://github.com/cloudwego/eino-ext) - Various extensions for the Eino framework: https://github com/cloudwego/eino
@@ -3046,6 +3051,7 @@
 
 ## C++
 
+* 【2025-04-26】[unitreerobotics / unitree_mujoco](https://github.com/unitreerobotics/unitree_mujoco) - 
 * 【2025-04-24】[worawit / blutter](https://github.com/worawit/blutter) - Flutter Mobile Application Reverse Engineering Tool
 * 【2025-04-23】[RCInet / LastEpoch_Mods](https://github.com/RCInet/LastEpoch_Mods) - MelonLoader Mods for LastEpoch
 * 【2025-04-21】[ashvardanian / less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
@@ -3691,6 +3697,8 @@
 
 ## Html
 
+* 【2025-04-26】[john\-friedman / datamule\-python](https://github.com/john-friedman/datamule-python) - A package to work with SEC data  Incorporates datamule endpoints 
+* 【2025-04-26】[apache / grails-core](https://github.com/apache/grails-core) - The Grails Web Application Framework
 * 【2025-04-25】[OCA / partner-contact](https://github.com/OCA/partner-contact) - Odoo Partner and Contact related addons
 * 【2025-04-20】[tc39 / proposal-enum](https://github.com/tc39/proposal-enum) - Proposal for ECMAScript enums
 * 【2025-04-20】[sidex15 / susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module) - An addon root hiding service for KernelSU
@@ -4146,6 +4154,7 @@
 
 ## Unknown
 
+* 【2025-04-26】[EmenstaNougat / ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) - The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing.
 * 【2025-04-24】[TechHutTV / homelab](https://github.com/TechHutTV/homelab) - Homelab stacks, templates, and more fun resources!
 * 【2025-04-24】[wong2 / awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
 * 【2025-04-23】[EmenstaNougat / ESP32\-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) - The ESP32\-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2 4GHz communications  Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended  Ideal for controlled disruption and security testing 
@@ -5396,6 +5405,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-04-26】[LegendApp / legend-list](https://github.com/LegendApp/legend-list) - A high-performance list component for React Native
+* 【2025-04-26】[bytedance / UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
+* 【2025-04-26】[mui / base\-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems  From the creators of Radix, Floating UI, and Material UI 
 * 【2025-04-25】[kortix-ai / suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 * 【2025-04-25】[bytedance / UI\-TARS\-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI\-TARS(Vision\-Language Model) that allows you to control your computer using natural language 
 * 【2025-04-25】[LegendApp / legend\-list](https://github.com/LegendApp/legend-list) - A high\-performance list component for React Native
