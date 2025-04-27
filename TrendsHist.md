@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-04-27】[rowboatlabs / rowboat](https://github.com/rowboatlabs/rowboat) - AI\-powered multi\-agent builder
 * 【2025-04-25】[kortix\-ai / suna](https://github.com/kortix-ai/suna) - Suna \- Open Source Generalist AI Agent
 * 【2025-04-24】[bytedance / UI\-TARS](https://github.com/bytedance/UI-TARS) - 
 * 【2025-04-22】[007revad / Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
@@ -1122,6 +1123,7 @@
 
 ## Python
 
+* 【2025-04-27】[Tencent / Hunyuan3D\-2](https://github.com/Tencent/Hunyuan3D-2) - High\-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models 
 * 【2025-04-26】[potamides / DeTikZify](https://github.com/potamides/DeTikZify) - Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ
 * 【2025-04-25】[thunlp / LLMxMapReduce](https://github.com/thunlp/LLMxMapReduce) - 
 * 【2025-04-25】[FunAudioLLM / CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi\-lingual large voice generation model, providing inference, training and deployment full\-stack ability 
@@ -1971,6 +1973,7 @@
 
 ## Javascript
 
+* 【2025-04-27】[Moustachauve / cookie\-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 * 【2025-04-26】[dbt\-labs / docs getdbt com](https://github.com/dbt-labs/docs.getdbt.com) - The code behind docs getdbt com
 * 【2025-04-24】[abhiz123 / todoist\-mcp\-server](https://github.com/abhiz123/todoist-mcp-server) - MCP server for Todoist integration enabling natural language task management with Claude
 * 【2025-04-20】[gradio-app / fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
@@ -2732,6 +2735,7 @@
 
 ## C
 
+* 【2025-04-27】[open-quantum-safe / oqs-provider](https://github.com/open-quantum-safe/oqs-provider) - OpenSSL 3 provider containing post-quantum algorithms
 * 【2025-04-25】[microsoft / winfile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements
 * 【2025-04-24】[debevv / nanoMODBUS](https://github.com/debevv/nanoMODBUS) - A compact MODBUS RTU/TCP C library for embedded/microcontrollers
 * 【2025-04-23】[vgmstream / vgmstream](https://github.com/vgmstream/vgmstream) - vgmstream \- A library for playback of various streamed audio formats used in video games 
@@ -3051,6 +3055,8 @@
 
 ## C++
 
+* 【2025-04-27】[intel / pcm](https://github.com/intel/pcm) - Intel® Performance Counter Monitor (Intel® PCM)
+* 【2025-04-27】[ETLCPP / etl](https://github.com/ETLCPP/etl) - Embedded Template Library
 * 【2025-04-26】[unitreerobotics / unitree_mujoco](https://github.com/unitreerobotics/unitree_mujoco) - 
 * 【2025-04-24】[worawit / blutter](https://github.com/worawit/blutter) - Flutter Mobile Application Reverse Engineering Tool
 * 【2025-04-23】[RCInet / LastEpoch_Mods](https://github.com/RCInet/LastEpoch_Mods) - MelonLoader Mods for LastEpoch
@@ -3359,6 +3365,7 @@
 
 ## C#
 
+* 【2025-04-27】[microsoft / ai-dev-gallery](https://github.com/microsoft/ai-dev-gallery) - An open-source project for Windows developers to learn how to add AI with local models and APIs to Windows apps.
 * 【2025-04-25】[microsoft / Generative-AI-for-beginners-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) - Five lessons, learn how to really apply AI to your .NET Applications
 * 【2025-04-24】[microsoft / Generative\-AI\-for\-beginners\-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) - Five lessons, learn how to really apply AI to your  NET Applications
 * 【2025-04-20】[Azure / azure-sdk-tools](https://github.com/Azure/azure-sdk-tools) - Tools repository leveraged by the Azure SDK team.
@@ -3697,6 +3704,7 @@
 
 ## Html
 
+* 【2025-04-27】[john-friedman / datamule-python](https://github.com/john-friedman/datamule-python) - A package to work with SEC data. Incorporates datamule endpoints.
 * 【2025-04-26】[john\-friedman / datamule\-python](https://github.com/john-friedman/datamule-python) - A package to work with SEC data  Incorporates datamule endpoints 
 * 【2025-04-26】[apache / grails-core](https://github.com/apache/grails-core) - The Grails Web Application Framework
 * 【2025-04-25】[OCA / partner-contact](https://github.com/OCA/partner-contact) - Odoo Partner and Contact related addons
@@ -4154,6 +4162,7 @@
 
 ## Unknown
 
+* 【2025-04-27】[ZJU\-LLMs / Foundations\-of\-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - 
 * 【2025-04-26】[EmenstaNougat / ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) - The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing.
 * 【2025-04-24】[TechHutTV / homelab](https://github.com/TechHutTV/homelab) - Homelab stacks, templates, and more fun resources!
 * 【2025-04-24】[wong2 / awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
@@ -5405,6 +5414,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-04-27】[MODSetter / SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily), Slack, Linear, Notion, YouTube, GitHub and more 
 * 【2025-04-26】[LegendApp / legend-list](https://github.com/LegendApp/legend-list) - A high-performance list component for React Native
 * 【2025-04-26】[bytedance / UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
 * 【2025-04-26】[mui / base\-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems  From the creators of Radix, Floating UI, and Material UI 
