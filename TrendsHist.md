@@ -1126,6 +1126,7 @@
 
 ## Python
 
+* 【2025-04-29】[Blaizzy / mlx\-audio](https://github.com/Blaizzy/mlx-audio) - A text\-to\-speech (TTS) and Speech\-to\-Speech (STS) library built on Apple's MLX framework, providing efficient speech synthesis on Apple Silicon 
 * 【2025-04-28】[Tencent / Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2) - High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
 * 【2025-04-27】[Tencent / Hunyuan3D\-2](https://github.com/Tencent/Hunyuan3D-2) - High\-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models 
 * 【2025-04-26】[potamides / DeTikZify](https://github.com/potamides/DeTikZify) - Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ
@@ -1977,6 +1978,9 @@
 
 ## Javascript
 
+* 【2025-04-29】[cv\-cat / Spider_XHS](https://github.com/cv-cat/Spider_XHS) - 小红书爬虫数据采集，小红书全域运营解决方案
+* 【2025-04-29】[hmjz100 / LinkSwift](https://github.com/hmjz100/LinkSwift) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，自用，去推广，无需输入“暗号”即可使用，甚至比原版还要好用！
+* 【2025-04-29】[tavily-ai / tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - 
 * 【2025-04-28】[tavily\-ai / tavily\-mcp](https://github.com/tavily-ai/tavily-mcp) - 
 * 【2025-04-28】[Moustachauve / cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 * 【2025-04-27】[Moustachauve / cookie\-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
@@ -2412,6 +2416,7 @@
 
 ## Go
 
+* 【2025-04-29】[metoro-io / mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
 * 【2025-04-28】[GoogleCloudPlatform / kubectl\-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
 * 【2025-04-28】[pterodactyl / wings](https://github.com/pterodactyl/wings) - The server control plane for Pterodactyl Panel  Written from the ground\-up with security, speed, and stability in mind 
 * 【2025-04-28】[go\-vikunja / vikunja](https://github.com/go-vikunja/vikunja) - The to\-do app to organize your life 
@@ -3374,6 +3379,7 @@
 
 ## C#
 
+* 【2025-04-29】[intro\-skipper / intro\-skipper](https://github.com/intro-skipper/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
 * 【2025-04-28】[Goob\-Station / Goob\-Station](https://github.com/Goob-Station/Goob-Station) - Wizden, but more random 
 * 【2025-04-27】[microsoft / ai-dev-gallery](https://github.com/microsoft/ai-dev-gallery) - An open-source project for Windows developers to learn how to add AI with local models and APIs to Windows apps.
 * 【2025-04-25】[microsoft / Generative-AI-for-beginners-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) - Five lessons, learn how to really apply AI to your .NET Applications
@@ -3714,6 +3720,7 @@
 
 ## Html
 
+* 【2025-04-29】[EmptyLibra / Configure\-Xray\-with\-VLESS\-Reality\-on\-VPS\-server](https://github.com/EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server) - Подробная инструкция (как в pdf, так и в md формате) о настройке своего совбственного Xray\-VPS\-сервера (с протоколом VLESS XTLS\-Reality через панель 3x\-ui), а также настройке клиентских приложений (ПК и телефон)
 * 【2025-04-27】[john-friedman / datamule-python](https://github.com/john-friedman/datamule-python) - A package to work with SEC data. Incorporates datamule endpoints.
 * 【2025-04-26】[john\-friedman / datamule\-python](https://github.com/john-friedman/datamule-python) - A package to work with SEC data  Incorporates datamule endpoints 
 * 【2025-04-26】[apache / grails-core](https://github.com/apache/grails-core) - The Grails Web Application Framework
@@ -4172,6 +4179,7 @@
 
 ## Unknown
 
+* 【2025-04-29】[TianxingChen / Embodied\-AI\-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied\-AI\-Guide
 * 【2025-04-28】[proxifly / free\-proxy\-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
 * 【2025-04-28】[darkseal-org / lol-skins](https://github.com/darkseal-org/lol-skins) - [⭐] A community-maintained repository featuring all official League of Legends skins and chromas as custom skin format.
 * 【2025-04-27】[ZJU\-LLMs / Foundations\-of\-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - 
@@ -5427,6 +5435,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-04-29】[aradzie / keybr com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed 
 * 【2025-04-28】[homarr-labs / dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 * 【2025-04-27】[MODSetter / SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily), Slack, Linear, Notion, YouTube, GitHub and more 
 * 【2025-04-26】[LegendApp / legend-list](https://github.com/LegendApp/legend-list) - A high-performance list component for React Native
