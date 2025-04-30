@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-04-30】[carykh / jes](https://github.com/carykh/jes) - Jelly Evolution Simulator
 * 【2025-04-27】[rowboatlabs / rowboat](https://github.com/rowboatlabs/rowboat) - AI\-powered multi\-agent builder
 * 【2025-04-25】[kortix\-ai / suna](https://github.com/kortix-ai/suna) - Suna \- Open Source Generalist AI Agent
 * 【2025-04-24】[bytedance / UI\-TARS](https://github.com/bytedance/UI-TARS) - 
@@ -2416,6 +2417,9 @@
 
 ## Go
 
+* 【2025-04-30】[goccy / go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
+* 【2025-04-30】[GoogleCloudPlatform / kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
+* 【2025-04-30】[Tencent / AI\-Infra\-Guard](https://github.com/Tencent/AI-Infra-Guard) - A comprehensive, intelligent, easy\-to\-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool 
 * 【2025-04-29】[metoro-io / mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
 * 【2025-04-28】[GoogleCloudPlatform / kubectl\-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
 * 【2025-04-28】[pterodactyl / wings](https://github.com/pterodactyl/wings) - The server control plane for Pterodactyl Panel  Written from the ground\-up with security, speed, and stability in mind 
@@ -3720,6 +3724,7 @@
 
 ## Html
 
+* 【2025-04-30】[EmptyLibra / Configure-Xray-with-VLESS-Reality-on-VPS-server](https://github.com/EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server) - Подробная инструкция (как в pdf, так и в md формате) о настройке своего совбственного Xray-VPS-сервера (с протоколом VLESS XTLS-Reality через панель 3x-ui), а также настройке клиентских приложений (ПК и телефон)
 * 【2025-04-29】[EmptyLibra / Configure\-Xray\-with\-VLESS\-Reality\-on\-VPS\-server](https://github.com/EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server) - Подробная инструкция (как в pdf, так и в md формате) о настройке своего совбственного Xray\-VPS\-сервера (с протоколом VLESS XTLS\-Reality через панель 3x\-ui), а также настройке клиентских приложений (ПК и телефон)
 * 【2025-04-27】[john-friedman / datamule-python](https://github.com/john-friedman/datamule-python) - A package to work with SEC data. Incorporates datamule endpoints.
 * 【2025-04-26】[john\-friedman / datamule\-python](https://github.com/john-friedman/datamule-python) - A package to work with SEC data  Incorporates datamule endpoints 
@@ -4179,6 +4184,7 @@
 
 ## Unknown
 
+* 【2025-04-30】[hhhrrrttt222111 / Ethical\-Hacking\-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools) - Complete Listing and Usage of Tools used for Ethical Hacking
 * 【2025-04-29】[TianxingChen / Embodied\-AI\-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied\-AI\-Guide
 * 【2025-04-28】[proxifly / free\-proxy\-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
 * 【2025-04-28】[darkseal-org / lol-skins](https://github.com/darkseal-org/lol-skins) - [⭐] A community-maintained repository featuring all official League of Legends skins and chromas as custom skin format.
@@ -4768,6 +4774,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-04-30】[rust-lang / libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
+* 【2025-04-30】[solana-foundation / anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Sealevel Framework
 * 【2025-04-28】[brahmGAN / ganchain-v2](https://github.com/brahmGAN/ganchain-v2) - This is the rust and substrate code for the GAN chain and its nodes.
 * 【2025-04-25】[robustmq / robustmq](https://github.com/robustmq/robustmq) - RobustMQ is a next\-generation, high\-performance, cloud\-native, converged message queue that is compatible with multiple mainstream message queuing protocols and has complete Serveless capabilities 
 * 【2025-04-24】[brahmGAN / ganchain\-v2](https://github.com/brahmGAN/ganchain-v2) - This is the rust and substrate code for the GAN chain and its nodes 
