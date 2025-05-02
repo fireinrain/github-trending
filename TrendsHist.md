@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-05-02】[TheRobotStudio / SO\-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100
 * 【2025-05-01】[QwenLM / Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud 
 * 【2025-04-30】[carykh / jes](https://github.com/carykh/jes) - Jelly Evolution Simulator
 * 【2025-04-27】[rowboatlabs / rowboat](https://github.com/rowboatlabs/rowboat) - AI\-powered multi\-agent builder
@@ -1129,6 +1130,8 @@
 
 ## Python
 
+* 【2025-05-02】[aipotheosis-labs / aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
+* 【2025-05-02】[stephengpope / no-code-architects-toolkit](https://github.com/stephengpope/no-code-architects-toolkit) - The NCA Toolkit API eliminates monthly subscription fees by consolidating common API functionalities into a single FREE API. Designed for businesses, creators, and developers, it streamlines advanced media processing, including video editing and captioning, image transformations, cloud storage, and Python code execution.
 * 【2025-05-01】[vllm\-project / vllm\-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Ascend
 * 【2025-05-01】[aipotheosis\-labs / aci](https://github.com/aipotheosis-labs/aci) - ACI dev is the open source platform that connects your AI agents to 600+ tool integrations with multi\-tenant auth, granular permissions, and access through direct function calling or a unified MCP server 
 * 【2025-04-29】[Blaizzy / mlx\-audio](https://github.com/Blaizzy/mlx-audio) - A text\-to\-speech (TTS) and Speech\-to\-Speech (STS) library built on Apple's MLX framework, providing efficient speech synthesis on Apple Silicon 
@@ -1983,6 +1986,9 @@
 
 ## Javascript
 
+* 【2025-05-02】[muyoou / st\-memory\-enhancement](https://github.com/muyoou/st-memory-enhancement) - SillyTavern酒馆的长期记忆增强插件
+* 【2025-05-02】[json\-schema\-org / json\-schema\-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
+* 【2025-05-02】[department\-of\-veterans\-affairs / vets\-website](https://github.com/department-of-veterans-affairs/vets-website) - Frontend for VA gov
 * 【2025-05-01】[cv-cat / Spider_XHS](https://github.com/cv-cat/Spider_XHS) - 小红书爬虫数据采集，小红书全域运营解决方案
 * 【2025-04-29】[cv\-cat / Spider_XHS](https://github.com/cv-cat/Spider_XHS) - 小红书爬虫数据采集，小红书全域运营解决方案
 * 【2025-04-29】[hmjz100 / LinkSwift](https://github.com/hmjz100/LinkSwift) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，自用，去推广，无需输入“暗号”即可使用，甚至比原版还要好用！
@@ -2422,6 +2428,8 @@
 
 ## Go
 
+* 【2025-05-02】[ibnaleem / gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
+* 【2025-05-02】[Tencent / AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool.
 * 【2025-04-30】[goccy / go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
 * 【2025-04-30】[GoogleCloudPlatform / kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
 * 【2025-04-30】[Tencent / AI\-Infra\-Guard](https://github.com/Tencent/AI-Infra-Guard) - A comprehensive, intelligent, easy\-to\-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool 
@@ -3079,6 +3087,7 @@
 
 ## C++
 
+* 【2025-05-02】[ramensoftware / windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk net/
 * 【2025-05-01】[MuShibo / Micro\-Wheeled_leg\-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
 * 【2025-04-27】[intel / pcm](https://github.com/intel/pcm) - Intel® Performance Counter Monitor (Intel® PCM)
 * 【2025-04-27】[ETLCPP / etl](https://github.com/ETLCPP/etl) - Embedded Template Library
@@ -5451,6 +5460,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-05-02】[redwoodjs / sdk](https://github.com/redwoodjs/sdk) - A React Framework for Cloudflare 
 * 【2025-05-01】[robertpiosik / gemini\-coder](https://github.com/robertpiosik/gemini-coder) - Non\-agentic 100% free & open source coding tool for AI\-assisted programming 
 * 【2025-04-29】[aradzie / keybr com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed 
 * 【2025-04-28】[homarr-labs / dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
