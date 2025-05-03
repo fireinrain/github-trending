@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-05-03】[wonderwhy-er / DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+* 【2025-05-03】[cloudflare / agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
+* 【2025-05-03】[TheRobotStudio / SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100
 * 【2025-05-02】[TheRobotStudio / SO\-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100
 * 【2025-05-01】[QwenLM / Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud 
 * 【2025-04-30】[carykh / jes](https://github.com/carykh/jes) - Jelly Evolution Simulator
@@ -1130,6 +1133,7 @@
 
 ## Python
 
+* 【2025-05-03】[coleam00 / ottomator-agents](https://github.com/coleam00/ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
 * 【2025-05-02】[aipotheosis-labs / aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
 * 【2025-05-02】[stephengpope / no-code-architects-toolkit](https://github.com/stephengpope/no-code-architects-toolkit) - The NCA Toolkit API eliminates monthly subscription fees by consolidating common API functionalities into a single FREE API. Designed for businesses, creators, and developers, it streamlines advanced media processing, including video editing and captioning, image transformations, cloud storage, and Python code execution.
 * 【2025-05-01】[vllm\-project / vllm\-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Ascend
@@ -1986,6 +1990,7 @@
 
 ## Javascript
 
+* 【2025-05-03】[ubuntu / gnome\-shell\-extension\-appindicator](https://github.com/ubuntu/gnome-shell-extension-appindicator) - Adds KStatusNotifierItem support to the Shell
 * 【2025-05-02】[muyoou / st\-memory\-enhancement](https://github.com/muyoou/st-memory-enhancement) - SillyTavern酒馆的长期记忆增强插件
 * 【2025-05-02】[json\-schema\-org / json\-schema\-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
 * 【2025-05-02】[department\-of\-veterans\-affairs / vets\-website](https://github.com/department-of-veterans-affairs/vets-website) - Frontend for VA gov
@@ -3087,6 +3092,7 @@
 
 ## C++
 
+* 【2025-05-03】[jeremy\-rifkin / cpptrace](https://github.com/jeremy-rifkin/cpptrace) - Simple, portable, and self\-contained stacktrace library for C++11 and newer
 * 【2025-05-02】[ramensoftware / windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk net/
 * 【2025-05-01】[MuShibo / Micro\-Wheeled_leg\-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
 * 【2025-04-27】[intel / pcm](https://github.com/intel/pcm) - Intel® Performance Counter Monitor (Intel® PCM)
@@ -3399,6 +3405,8 @@
 
 ## C#
 
+* 【2025-05-03】[meysamhadeli / monolith\-to\-cloud\-architecture](https://github.com/meysamhadeli/monolith-to-cloud-architecture) - A practical architecture styles for migrating from monolith to modern cloud native application with the latest technologies and architectures like Vertical Slice Architecture, Event Sourcing, CQRS, DDD, gRpc, MongoDB, RabbitMq, and Masstransit in  Net 9 
+* 【2025-05-03】[SpaceTimee / Sheas\-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
 * 【2025-04-29】[intro\-skipper / intro\-skipper](https://github.com/intro-skipper/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
 * 【2025-04-28】[Goob\-Station / Goob\-Station](https://github.com/Goob-Station/Goob-Station) - Wizden, but more random 
 * 【2025-04-27】[microsoft / ai-dev-gallery](https://github.com/microsoft/ai-dev-gallery) - An open-source project for Windows developers to learn how to add AI with local models and APIs to Windows apps.
@@ -3740,6 +3748,7 @@
 
 ## Html
 
+* 【2025-05-03】[EltonChou / TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Download twitter media with only one\-click 
 * 【2025-05-01】[dendianugerah / reubah](https://github.com/dendianugerah/reubah) - a web\-based tool for processing images and converting documents with a simple interface
 * 【2025-04-30】[EmptyLibra / Configure-Xray-with-VLESS-Reality-on-VPS-server](https://github.com/EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server) - Подробная инструкция (как в pdf, так и в md формате) о настройке своего совбственного Xray-VPS-сервера (с протоколом VLESS XTLS-Reality через панель 3x-ui), а также настройке клиентских приложений (ПК и телефон)
 * 【2025-04-29】[EmptyLibra / Configure\-Xray\-with\-VLESS\-Reality\-on\-VPS\-server](https://github.com/EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server) - Подробная инструкция (как в pdf, так и в md формате) о настройке своего совбственного Xray\-VPS\-сервера (с протоколом VLESS XTLS\-Reality через панель 3x\-ui), а также настройке клиентских приложений (ПК и телефон)
@@ -5460,6 +5469,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-05-03】[Viren070 / AIOStreams](https://github.com/Viren070/AIOStreams) - Combine all your streams into one addon and display them with consistent formatting, sorting, and filtering
 * 【2025-05-02】[redwoodjs / sdk](https://github.com/redwoodjs/sdk) - A React Framework for Cloudflare 
 * 【2025-05-01】[robertpiosik / gemini\-coder](https://github.com/robertpiosik/gemini-coder) - Non\-agentic 100% free & open source coding tool for AI\-assisted programming 
 * 【2025-04-29】[aradzie / keybr com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed 
