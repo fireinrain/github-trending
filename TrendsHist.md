@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-05-04】[Mail\-0 / Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first  Join the discord: https://discord gg/0email
 * 【2025-05-03】[wonderwhy-er / DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 * 【2025-05-03】[cloudflare / agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
 * 【2025-05-03】[TheRobotStudio / SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100
@@ -841,6 +842,7 @@
 
 ## Java
 
+* 【2025-05-04】[HbmMods / Hbm-s-Nuclear-Tech-GIT](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT) - A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development.
 * 【2025-05-01】[lavalink\-devs / youtube\-source](https://github.com/lavalink-devs/youtube-source) - A rewritten YouTube source manager for Lavaplayer 
 * 【2025-04-28】[oasisfeng / island](https://github.com/oasisfeng/island) - Island for Android
 * 【2025-04-28】[littlehorse\-enterprises / littlehorse](https://github.com/littlehorse-enterprises/littlehorse) - LittleHorse Kernel: Open\-Source Platform for Distributed Applications 
@@ -1133,6 +1135,7 @@
 
 ## Python
 
+* 【2025-05-04】[DachunKai / Ev\-DeblurVSR](https://github.com/DachunKai/Ev-DeblurVSR) - [AAAI 2025] Event\-Enhanced Blurry Video Super\-Resolution
 * 【2025-05-03】[coleam00 / ottomator-agents](https://github.com/coleam00/ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
 * 【2025-05-02】[aipotheosis-labs / aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
 * 【2025-05-02】[stephengpope / no-code-architects-toolkit](https://github.com/stephengpope/no-code-architects-toolkit) - The NCA Toolkit API eliminates monthly subscription fees by consolidating common API functionalities into a single FREE API. Designed for businesses, creators, and developers, it streamlines advanced media processing, including video editing and captioning, image transformations, cloud storage, and Python code execution.
@@ -3092,6 +3095,7 @@
 
 ## C++
 
+* 【2025-05-04】[ikawrakow / ik_llama cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama cpp fork with additional SOTA quants and improved performance
 * 【2025-05-03】[jeremy\-rifkin / cpptrace](https://github.com/jeremy-rifkin/cpptrace) - Simple, portable, and self\-contained stacktrace library for C++11 and newer
 * 【2025-05-02】[ramensoftware / windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk net/
 * 【2025-05-01】[MuShibo / Micro\-Wheeled_leg\-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
@@ -5469,6 +5473,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-05-04】[Mail-0 / Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 * 【2025-05-03】[Viren070 / AIOStreams](https://github.com/Viren070/AIOStreams) - Combine all your streams into one addon and display them with consistent formatting, sorting, and filtering
 * 【2025-05-02】[redwoodjs / sdk](https://github.com/redwoodjs/sdk) - A React Framework for Cloudflare 
 * 【2025-05-01】[robertpiosik / gemini\-coder](https://github.com/robertpiosik/gemini-coder) - Non\-agentic 100% free & open source coding tool for AI\-assisted programming 
