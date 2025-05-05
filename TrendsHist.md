@@ -1993,6 +1993,7 @@
 
 ## Javascript
 
+* 【2025-05-05】[ilyhalight / voice\-over\-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
 * 【2025-05-03】[ubuntu / gnome\-shell\-extension\-appindicator](https://github.com/ubuntu/gnome-shell-extension-appindicator) - Adds KStatusNotifierItem support to the Shell
 * 【2025-05-02】[muyoou / st\-memory\-enhancement](https://github.com/muyoou/st-memory-enhancement) - SillyTavern酒馆的长期记忆增强插件
 * 【2025-05-02】[json\-schema\-org / json\-schema\-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
@@ -2436,6 +2437,8 @@
 
 ## Go
 
+* 【2025-05-05】[googleapis / go\-genai](https://github.com/googleapis/go-genai) - Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications 
+* 【2025-05-05】[blacktop / ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 * 【2025-05-02】[ibnaleem / gosearch](https://github.com/ibnaleem/gosearch) - 🔍 Search anyone's digital footprint across 300+ websites
 * 【2025-05-02】[Tencent / AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool.
 * 【2025-04-30】[goccy / go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
@@ -2774,6 +2777,7 @@
 
 ## C
 
+* 【2025-05-05】[medusalix / xone](https://github.com/medusalix/xone) - Linux kernel driver for Xbox One and Xbox Series X\|S accessories
 * 【2025-05-01】[torvalds / uemacs](https://github.com/torvalds/uemacs) - Random version of microemacs with my private modificatons
 * 【2025-04-27】[open-quantum-safe / oqs-provider](https://github.com/open-quantum-safe/oqs-provider) - OpenSSL 3 provider containing post-quantum algorithms
 * 【2025-04-25】[microsoft / winfile](https://github.com/microsoft/winfile) - Original Windows File Manager (winfile) with enhancements
