@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-05-07】[awslabs / agent\-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+* 【2025-05-07】[huggingface / agents\-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course 
 * 【2025-05-04】[Mail\-0 / Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first  Join the discord: https://discord gg/0email
 * 【2025-05-03】[wonderwhy-er / DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 * 【2025-05-03】[cloudflare / agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
@@ -1135,6 +1137,12 @@
 
 ## Python
 
+* 【2025-05-07】[awslabs / agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+* 【2025-05-07】[Capsize\-Games / airunner](https://github.com/Capsize-Games/airunner) - Privacy focused, local\-first, multi\-modal inference engine and agent platform for running LLMs, image generation, speech processing, and tool\-based automation
+* 【2025-05-07】[HarrisonKramer / optiland](https://github.com/HarrisonKramer/optiland) - Comprehensive optical design, optimization, and analysis in Python, including GPU\-accelerated and differentiable ray tracing via PyTorch 
+* 【2025-05-07】[ag2ai / ag2](https://github.com/ag2ai/ag2) - AG2 (formerly AutoGen): The Open\-Source AgentOS  Join us at: https://discord gg/pAbnFJrkgZ
+* 【2025-05-07】[snailyp / gemini\-balance](https://github.com/snailyp/gemini-balance) - gemini轮询代理服务
+* 【2025-05-07】[netbox\-community / devicetype\-library](https://github.com/netbox-community/devicetype-library) - A collection of community\-sourced DeviceType definitions for import to NetBox
 * 【2025-05-06】[trycua / cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer\-Use AI Agents 
 * 【2025-05-04】[DachunKai / Ev\-DeblurVSR](https://github.com/DachunKai/Ev-DeblurVSR) - [AAAI 2025] Event\-Enhanced Blurry Video Super\-Resolution
 * 【2025-05-03】[coleam00 / ottomator-agents](https://github.com/coleam00/ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
@@ -1994,6 +2002,7 @@
 
 ## Javascript
 
+* 【2025-05-07】[igrigorik / videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome)
 * 【2025-05-06】[serverless\-dns / serverless\-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly io
 * 【2025-05-06】[git\-tips / tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks 
 * 【2025-05-05】[ilyhalight / voice\-over\-translation](https://github.com/ilyhalight/voice-over-translation) - Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры
@@ -2440,6 +2449,7 @@
 
 ## Go
 
+* 【2025-05-07】[gabe565 / ascii\-movie](https://github.com/gabe565/ascii-movie) - Star Wars SSH + Telnet server written in Go 
 * 【2025-05-06】[0xJacky / nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 * 【2025-05-06】[openp2p-cn / openp2p](https://github.com/openp2p-cn/openp2p) - OpenP2P is a lightweight P2P sharing network. Support Cone,Symmetric(NAT1-NAT4),UPNP,IPv6,both UDP&TCP punch. NAT travelsal, sdwan.(P2P内网穿透，组网，联机)
 * 【2025-05-05】[googleapis / go\-genai](https://github.com/googleapis/go-genai) - Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications 
@@ -3104,6 +3114,7 @@
 
 ## C++
 
+* 【2025-05-07】[conservation\-laws / ryujin](https://github.com/conservation-laws/ryujin) - High\-performance high\-order finite element solver for hyperbolic conservation equations
 * 【2025-05-04】[ikawrakow / ik_llama cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama cpp fork with additional SOTA quants and improved performance
 * 【2025-05-03】[jeremy\-rifkin / cpptrace](https://github.com/jeremy-rifkin/cpptrace) - Simple, portable, and self\-contained stacktrace library for C++11 and newer
 * 【2025-05-02】[ramensoftware / windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk net/
@@ -3762,6 +3773,8 @@
 
 ## Html
 
+* 【2025-05-07】[docker / labs-ai-tools-for-devs](https://github.com/docker/labs-ai-tools-for-devs) - Your trusted home for discovering MCP tools – seamlessly integrated into Docker
+* 【2025-05-07】[Blobby\-Boi / ExtPrint3r](https://github.com/Blobby-Boi/ExtPrint3r) - An exploit that allows ChromeOS users to kill extensions by printing iframes  The successor to ExtHang3r 
 * 【2025-05-03】[EltonChou / TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Download twitter media with only one\-click 
 * 【2025-05-01】[dendianugerah / reubah](https://github.com/dendianugerah/reubah) - a web\-based tool for processing images and converting documents with a simple interface
 * 【2025-04-30】[EmptyLibra / Configure-Xray-with-VLESS-Reality-on-VPS-server](https://github.com/EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server) - Подробная инструкция (как в pdf, так и в md формате) о настройке своего совбственного Xray-VPS-сервера (с протоколом VLESS XTLS-Reality через панель 3x-ui), а также настройке клиентских приложений (ПК и телефон)
@@ -4814,6 +4827,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-05-07】[kaspanet / rusty\-kaspa](https://github.com/kaspanet/rusty-kaspa) - Kaspa full\-node reference implementation and related libraries in the Rust programming language
 * 【2025-04-30】[rust-lang / libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
 * 【2025-04-30】[solana-foundation / anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Sealevel Framework
 * 【2025-04-28】[brahmGAN / ganchain-v2](https://github.com/brahmGAN/ganchain-v2) - This is the rust and substrate code for the GAN chain and its nodes.
@@ -5483,6 +5497,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-05-07】[dzhng / deep\-research](https://github.com/dzhng/deep-research) - An AI\-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models  The goal of this repo is to provide the simplest implementation of a deep research agent \- e g  an agent that can refine its research direction overtime and deep dive into a topic 
 * 【2025-05-04】[Mail-0 / Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 * 【2025-05-03】[Viren070 / AIOStreams](https://github.com/Viren070/AIOStreams) - Combine all your streams into one addon and display them with consistent formatting, sorting, and filtering
 * 【2025-05-02】[redwoodjs / sdk](https://github.com/redwoodjs/sdk) - A React Framework for Cloudflare 
