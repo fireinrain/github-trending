@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-05-08】[evroon / bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
+* 【2025-05-08】[huggingface / agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 * 【2025-05-07】[awslabs / agent\-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 * 【2025-05-07】[huggingface / agents\-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course 
 * 【2025-05-04】[Mail\-0 / Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first  Join the discord: https://discord gg/0email
@@ -1137,6 +1139,8 @@
 
 ## Python
 
+* 【2025-05-08】[Lightricks / LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video
+* 【2025-05-08】[run-llama / llama_cloud_services](https://github.com/run-llama/llama_cloud_services) - Knowledge Agents and Management in the Cloud
 * 【2025-05-07】[awslabs / agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 * 【2025-05-07】[Capsize\-Games / airunner](https://github.com/Capsize-Games/airunner) - Privacy focused, local\-first, multi\-modal inference engine and agent platform for running LLMs, image generation, speech processing, and tool\-based automation
 * 【2025-05-07】[HarrisonKramer / optiland](https://github.com/HarrisonKramer/optiland) - Comprehensive optical design, optimization, and analysis in Python, including GPU\-accelerated and differentiable ray tracing via PyTorch 
@@ -2002,6 +2006,8 @@
 
 ## Javascript
 
+* 【2025-05-08】[modelcontextprotocol / servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+* 【2025-05-08】[GeoNode / geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data 
 * 【2025-05-07】[igrigorik / videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome)
 * 【2025-05-06】[serverless\-dns / serverless\-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly io
 * 【2025-05-06】[git\-tips / tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks 
@@ -2449,6 +2455,8 @@
 
 ## Go
 
+* 【2025-05-08】[rzane / docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
+* 【2025-05-08】[mailru / easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang 
 * 【2025-05-07】[gabe565 / ascii\-movie](https://github.com/gabe565/ascii-movie) - Star Wars SSH + Telnet server written in Go 
 * 【2025-05-06】[0xJacky / nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 * 【2025-05-06】[openp2p-cn / openp2p](https://github.com/openp2p-cn/openp2p) - OpenP2P is a lightweight P2P sharing network. Support Cone,Symmetric(NAT1-NAT4),UPNP,IPv6,both UDP&TCP punch. NAT travelsal, sdwan.(P2P内网穿透，组网，联机)
@@ -3429,6 +3437,7 @@
 
 ## C#
 
+* 【2025-05-08】[kurrent\-io / KurrentDB](https://github.com/kurrent-io/KurrentDB) - EventStoreDB, the event\-native database  Designed for Event Sourcing, Event\-Driven, and Microservices architectures
 * 【2025-05-06】[Goob-Station / Goob-Station](https://github.com/Goob-Station/Goob-Station) - Wizden, but more random.
 * 【2025-05-03】[meysamhadeli / monolith\-to\-cloud\-architecture](https://github.com/meysamhadeli/monolith-to-cloud-architecture) - A practical architecture styles for migrating from monolith to modern cloud native application with the latest technologies and architectures like Vertical Slice Architecture, Event Sourcing, CQRS, DDD, gRpc, MongoDB, RabbitMq, and Masstransit in  Net 9 
 * 【2025-05-03】[SpaceTimee / Sheas\-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
@@ -4237,6 +4246,7 @@
 
 ## Unknown
 
+* 【2025-05-08】[ZJU-LLMs / Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - 
 * 【2025-04-30】[hhhrrrttt222111 / Ethical\-Hacking\-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools) - Complete Listing and Usage of Tools used for Ethical Hacking
 * 【2025-04-29】[TianxingChen / Embodied\-AI\-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied\-AI\-Guide
 * 【2025-04-28】[proxifly / free\-proxy\-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
@@ -5497,6 +5507,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-05-08】[sammwyy / MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open\-source network stresser tool but it's Hatsune Miku
 * 【2025-05-07】[dzhng / deep\-research](https://github.com/dzhng/deep-research) - An AI\-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models  The goal of this repo is to provide the simplest implementation of a deep research agent \- e g  an agent that can refine its research direction overtime and deep dive into a topic 
 * 【2025-05-04】[Mail-0 / Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 * 【2025-05-03】[Viren070 / AIOStreams](https://github.com/Viren070/AIOStreams) - Combine all your streams into one addon and display them with consistent formatting, sorting, and filtering
