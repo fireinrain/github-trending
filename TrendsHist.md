@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-05-09】[Blaizzy / mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 * 【2025-05-08】[evroon / bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 * 【2025-05-08】[huggingface / agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 * 【2025-05-07】[awslabs / agent\-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
@@ -846,6 +847,7 @@
 
 ## Java
 
+* 【2025-05-09】[modelcontextprotocol / java\-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients  Maintained in collaboration with Spring AI
 * 【2025-05-04】[HbmMods / Hbm-s-Nuclear-Tech-GIT](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT) - A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development.
 * 【2025-05-01】[lavalink\-devs / youtube\-source](https://github.com/lavalink-devs/youtube-source) - A rewritten YouTube source manager for Lavaplayer 
 * 【2025-04-28】[oasisfeng / island](https://github.com/oasisfeng/island) - Island for Android
@@ -1139,6 +1141,7 @@
 
 ## Python
 
+* 【2025-05-09】[Lightricks / ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) - LTX-Video Support for ComfyUI
 * 【2025-05-08】[Lightricks / LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video
 * 【2025-05-08】[run-llama / llama_cloud_services](https://github.com/run-llama/llama_cloud_services) - Knowledge Agents and Management in the Cloud
 * 【2025-05-07】[awslabs / agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
@@ -2006,6 +2009,7 @@
 
 ## Javascript
 
+* 【2025-05-09】[webpack / webpack\-dev\-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app  Updates the browser on changes  Documentation https://webpack js org/configuration/dev\-server/ 
 * 【2025-05-08】[modelcontextprotocol / servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 * 【2025-05-08】[GeoNode / geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data 
 * 【2025-05-07】[igrigorik / videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome)
@@ -2455,6 +2459,7 @@
 
 ## Go
 
+* 【2025-05-09】[hookdeck / outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure
 * 【2025-05-08】[rzane / docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 * 【2025-05-08】[mailru / easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang 
 * 【2025-05-07】[gabe565 / ascii\-movie](https://github.com/gabe565/ascii-movie) - Star Wars SSH + Telnet server written in Go 
@@ -3122,6 +3127,8 @@
 
 ## C++
 
+* 【2025-05-09】[mohsenph69 / Godot\-MTerrain\-plugin](https://github.com/mohsenph69/Godot-MTerrain-plugin) - A GDExtension plugin which give godot the ability to produce highly optimized Terrain for Open world games
+* 【2025-05-09】[MuShibo / Micro-Wheeled_leg-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
 * 【2025-05-07】[conservation\-laws / ryujin](https://github.com/conservation-laws/ryujin) - High\-performance high\-order finite element solver for hyperbolic conservation equations
 * 【2025-05-04】[ikawrakow / ik_llama cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama cpp fork with additional SOTA quants and improved performance
 * 【2025-05-03】[jeremy\-rifkin / cpptrace](https://github.com/jeremy-rifkin/cpptrace) - Simple, portable, and self\-contained stacktrace library for C++11 and newer
@@ -4837,6 +4844,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-05-09】[longbridge / gpui\-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI 
+* 【2025-05-09】[reubeno / brush](https://github.com/reubeno/brush) - bash/POSIX\-compatible shell implemented in Rust
+* 【2025-05-09】[trifectatechfoundation / sudo\-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su 
 * 【2025-05-07】[kaspanet / rusty\-kaspa](https://github.com/kaspanet/rusty-kaspa) - Kaspa full\-node reference implementation and related libraries in the Rust programming language
 * 【2025-04-30】[rust-lang / libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
 * 【2025-04-30】[solana-foundation / anchor](https://github.com/solana-foundation/anchor) - ⚓ Solana Sealevel Framework
@@ -5507,6 +5517,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-05-09】[FellouAI / eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) \- Build Production\-ready Agentic Workflow with Natural Language \- eko fellou ai
 * 【2025-05-08】[sammwyy / MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open\-source network stresser tool but it's Hatsune Miku
 * 【2025-05-07】[dzhng / deep\-research](https://github.com/dzhng/deep-research) - An AI\-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models  The goal of this repo is to provide the simplest implementation of a deep research agent \- e g  an agent that can refine its research direction overtime and deep dive into a topic 
 * 【2025-05-04】[Mail-0 / Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
