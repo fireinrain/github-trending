@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-05-10】[longbridge / gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
+* 【2025-05-10】[mason\-org / mason nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs  Easily install and manage LSP servers, DAP servers, linters, and formatters 
 * 【2025-05-09】[Blaizzy / mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 * 【2025-05-08】[evroon / bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 * 【2025-05-08】[huggingface / agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
@@ -1141,6 +1143,8 @@
 
 ## Python
 
+* 【2025-05-10】[netbox-community / devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox
+* 【2025-05-10】[bee\-san / Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 * 【2025-05-09】[Lightricks / ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) - LTX-Video Support for ComfyUI
 * 【2025-05-08】[Lightricks / LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video
 * 【2025-05-08】[run-llama / llama_cloud_services](https://github.com/run-llama/llama_cloud_services) - Knowledge Agents and Management in the Cloud
@@ -2459,6 +2463,7 @@
 
 ## Go
 
+* 【2025-05-10】[databricks / terraform\-provider\-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider
 * 【2025-05-09】[hookdeck / outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure
 * 【2025-05-08】[rzane / docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 * 【2025-05-08】[mailru / easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang 
@@ -3127,6 +3132,7 @@
 
 ## C++
 
+* 【2025-05-10】[memgraph / memgraph](https://github.com/memgraph/memgraph) - Open\-source graph database, tuned for dynamic analytics environments  Easy to adopt, scale and own 
 * 【2025-05-09】[mohsenph69 / Godot\-MTerrain\-plugin](https://github.com/mohsenph69/Godot-MTerrain-plugin) - A GDExtension plugin which give godot the ability to produce highly optimized Terrain for Open world games
 * 【2025-05-09】[MuShibo / Micro-Wheeled_leg-Robot](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) - 全球最小的桌面级双轮腿机器人！
 * 【2025-05-07】[conservation\-laws / ryujin](https://github.com/conservation-laws/ryujin) - High\-performance high\-order finite element solver for hyperbolic conservation equations
@@ -3789,6 +3795,7 @@
 
 ## Html
 
+* 【2025-05-10】[NightProxy / Space](https://github.com/NightProxy/Space) - Space is a modern, and clean web proxy with many games, apps and features 
 * 【2025-05-07】[docker / labs-ai-tools-for-devs](https://github.com/docker/labs-ai-tools-for-devs) - Your trusted home for discovering MCP tools – seamlessly integrated into Docker
 * 【2025-05-07】[Blobby\-Boi / ExtPrint3r](https://github.com/Blobby-Boi/ExtPrint3r) - An exploit that allows ChromeOS users to kill extensions by printing iframes  The successor to ExtHang3r 
 * 【2025-05-03】[EltonChou / TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Download twitter media with only one\-click 
@@ -4253,6 +4260,7 @@
 
 ## Unknown
 
+* 【2025-05-10】[logpai / loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI\-driven log analytics [ISSRE'23]
 * 【2025-05-08】[ZJU-LLMs / Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - 
 * 【2025-04-30】[hhhrrrttt222111 / Ethical\-Hacking\-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools) - Complete Listing and Usage of Tools used for Ethical Hacking
 * 【2025-04-29】[TianxingChen / Embodied\-AI\-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied\-AI\-Guide
@@ -4844,6 +4852,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-05-10】[trifectatechfoundation / sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
+* 【2025-05-10】[tari\-project / tari](https://github.com/tari-project/tari) - The Tari protocol
 * 【2025-05-09】[longbridge / gpui\-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI 
 * 【2025-05-09】[reubeno / brush](https://github.com/reubeno/brush) - bash/POSIX\-compatible shell implemented in Rust
 * 【2025-05-09】[trifectatechfoundation / sudo\-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su 
