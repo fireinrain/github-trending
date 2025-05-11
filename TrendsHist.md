@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-05-11】[Peterande / D-FINE](https://github.com/Peterande/D-FINE) - D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement [ICLR 2025 Spotlight]
+* 【2025-05-11】[shane\-mason / FieldStation42](https://github.com/shane-mason/FieldStation42) - Broadcast TV simulator
+* 【2025-05-11】[panaversity / learn\-agentic\-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent\-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes 
 * 【2025-05-10】[longbridge / gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
 * 【2025-05-10】[mason\-org / mason nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs  Easily install and manage LSP servers, DAP servers, linters, and formatters 
 * 【2025-05-09】[Blaizzy / mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
@@ -1143,6 +1146,8 @@
 
 ## Python
 
+* 【2025-05-11】[shane-mason / FieldStation42](https://github.com/shane-mason/FieldStation42) - Broadcast TV simulator
+* 【2025-05-11】[langgenius / dify\-official\-plugins](https://github.com/langgenius/dify-official-plugins) - 
 * 【2025-05-10】[netbox-community / devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox
 * 【2025-05-10】[bee\-san / Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 * 【2025-05-09】[Lightricks / ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) - LTX-Video Support for ComfyUI
@@ -4260,6 +4265,8 @@
 
 ## Unknown
 
+* 【2025-05-11】[fudan\-generative\-vision / OpenHumanVid](https://github.com/fudan-generative-vision/OpenHumanVid) - [CVPR 2025] A Large\-Scale High\-Quality Dataset for Enhancing Human\-Centric Video Generation
+* 【2025-05-11】[TianxingChen / Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide
 * 【2025-05-10】[logpai / loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI\-driven log analytics [ISSRE'23]
 * 【2025-05-08】[ZJU-LLMs / Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - 
 * 【2025-04-30】[hhhrrrttt222111 / Ethical\-Hacking\-Tools](https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools) - Complete Listing and Usage of Tools used for Ethical Hacking
@@ -4852,6 +4859,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-05-11】[Canop / dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 * 【2025-05-10】[trifectatechfoundation / sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 * 【2025-05-10】[tari\-project / tari](https://github.com/tari-project/tari) - The Tari protocol
 * 【2025-05-09】[longbridge / gpui\-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI 
@@ -5527,6 +5535,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-05-11】[alibaba / ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
 * 【2025-05-09】[FellouAI / eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) \- Build Production\-ready Agentic Workflow with Natural Language \- eko fellou ai
 * 【2025-05-08】[sammwyy / MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open\-source network stresser tool but it's Hatsune Miku
 * 【2025-05-07】[dzhng / deep\-research](https://github.com/dzhng/deep-research) - An AI\-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models  The goal of this repo is to provide the simplest implementation of a deep research agent \- e g  an agent that can refine its research direction overtime and deep dive into a topic 
