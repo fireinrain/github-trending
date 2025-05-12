@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-05-12】[panaversity / learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
 * 【2025-05-11】[Peterande / D-FINE](https://github.com/Peterande/D-FINE) - D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement [ICLR 2025 Spotlight]
 * 【2025-05-11】[shane\-mason / FieldStation42](https://github.com/shane-mason/FieldStation42) - Broadcast TV simulator
 * 【2025-05-11】[panaversity / learn\-agentic\-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent\-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes 
@@ -1146,6 +1147,9 @@
 
 ## Python
 
+* 【2025-05-12】[remsky / Kokoro\-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro\-82M text\-to\-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto\-stitching
+* 【2025-05-12】[kijai / ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - Various custom nodes for ComfyUI
+* 【2025-05-12】[airweave\-ai / airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app or database
 * 【2025-05-11】[shane-mason / FieldStation42](https://github.com/shane-mason/FieldStation42) - Broadcast TV simulator
 * 【2025-05-11】[langgenius / dify\-official\-plugins](https://github.com/langgenius/dify-official-plugins) - 
 * 【2025-05-10】[netbox-community / devicetype-library](https://github.com/netbox-community/devicetype-library) - A collection of community-sourced DeviceType definitions for import to NetBox
@@ -3455,6 +3459,7 @@
 
 ## C#
 
+* 【2025-05-12】[SpaceTimee / Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
 * 【2025-05-08】[kurrent\-io / KurrentDB](https://github.com/kurrent-io/KurrentDB) - EventStoreDB, the event\-native database  Designed for Event Sourcing, Event\-Driven, and Microservices architectures
 * 【2025-05-06】[Goob-Station / Goob-Station](https://github.com/Goob-Station/Goob-Station) - Wizden, but more random.
 * 【2025-05-03】[meysamhadeli / monolith\-to\-cloud\-architecture](https://github.com/meysamhadeli/monolith-to-cloud-architecture) - A practical architecture styles for migrating from monolith to modern cloud native application with the latest technologies and architectures like Vertical Slice Architecture, Event Sourcing, CQRS, DDD, gRpc, MongoDB, RabbitMq, and Masstransit in  Net 9 
@@ -4859,6 +4864,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-05-12】[EasyTier / EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support 
 * 【2025-05-11】[Canop / dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 * 【2025-05-10】[trifectatechfoundation / sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 * 【2025-05-10】[tari\-project / tari](https://github.com/tari-project/tari) - The Tari protocol
@@ -5535,6 +5541,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-05-12】[i\-am\-alice / 3rd\-devs](https://github.com/i-am-alice/3rd-devs) - 
+* 【2025-05-12】[unnoq / orpc](https://github.com/unnoq/orpc) - Typesafe APIs Made Simple 🪄
+* 【2025-05-12】[heroui-inc / heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 * 【2025-05-11】[alibaba / ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
 * 【2025-05-09】[FellouAI / eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) \- Build Production\-ready Agentic Workflow with Natural Language \- eko fellou ai
 * 【2025-05-08】[sammwyy / MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open\-source network stresser tool but it's Hatsune Miku
