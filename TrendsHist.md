@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-05-13】[i-am-alice / 3rd-devs](https://github.com/i-am-alice/3rd-devs) - 
 * 【2025-05-12】[panaversity / learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
 * 【2025-05-11】[Peterande / D-FINE](https://github.com/Peterande/D-FINE) - D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement [ICLR 2025 Spotlight]
 * 【2025-05-11】[shane\-mason / FieldStation42](https://github.com/shane-mason/FieldStation42) - Broadcast TV simulator
@@ -1147,6 +1148,7 @@
 
 ## Python
 
+* 【2025-05-13】[santinic / audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e\-books
 * 【2025-05-12】[remsky / Kokoro\-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro\-82M text\-to\-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto\-stitching
 * 【2025-05-12】[kijai / ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - Various custom nodes for ComfyUI
 * 【2025-05-12】[airweave\-ai / airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app or database
@@ -2022,6 +2024,7 @@
 
 ## Javascript
 
+* 【2025-05-13】[tidalcycles / strudel](https://github.com/tidalcycles/strudel) - Web\-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 * 【2025-05-09】[webpack / webpack\-dev\-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app  Updates the browser on changes  Documentation https://webpack js org/configuration/dev\-server/ 
 * 【2025-05-08】[modelcontextprotocol / servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 * 【2025-05-08】[GeoNode / geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data 
@@ -2819,6 +2822,7 @@
 
 ## C
 
+* 【2025-05-13】[tio / tio](https://github.com/tio/tio) - A serial device I/O tool
 * 【2025-05-05】[medusalix / xone](https://github.com/medusalix/xone) - Linux kernel driver for Xbox One and Xbox Series X\|S accessories
 * 【2025-05-01】[torvalds / uemacs](https://github.com/torvalds/uemacs) - Random version of microemacs with my private modificatons
 * 【2025-04-27】[open-quantum-safe / oqs-provider](https://github.com/open-quantum-safe/oqs-provider) - OpenSSL 3 provider containing post-quantum algorithms
@@ -3459,6 +3463,7 @@
 
 ## C#
 
+* 【2025-05-13】[GhostPack / SharpDPAPI](https://github.com/GhostPack/SharpDPAPI) - SharpDPAPI is a C\# port of some Mimikatz DPAPI functionality 
 * 【2025-05-12】[SpaceTimee / Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
 * 【2025-05-08】[kurrent\-io / KurrentDB](https://github.com/kurrent-io/KurrentDB) - EventStoreDB, the event\-native database  Designed for Event Sourcing, Event\-Driven, and Microservices architectures
 * 【2025-05-06】[Goob-Station / Goob-Station](https://github.com/Goob-Station/Goob-Station) - Wizden, but more random.
@@ -4270,6 +4275,7 @@
 
 ## Unknown
 
+* 【2025-05-13】[fudan-generative-vision / OpenHumanVid](https://github.com/fudan-generative-vision/OpenHumanVid) - [CVPR 2025] A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation
 * 【2025-05-11】[fudan\-generative\-vision / OpenHumanVid](https://github.com/fudan-generative-vision/OpenHumanVid) - [CVPR 2025] A Large\-Scale High\-Quality Dataset for Enhancing Human\-Centric Video Generation
 * 【2025-05-11】[TianxingChen / Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide
 * 【2025-05-10】[logpai / loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI\-driven log analytics [ISSRE'23]
@@ -4864,6 +4870,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-05-13】[sirupsen / napkin\-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first\-principles
 * 【2025-05-12】[EasyTier / EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support 
 * 【2025-05-11】[Canop / dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 * 【2025-05-10】[trifectatechfoundation / sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
