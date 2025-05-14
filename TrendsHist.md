@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-05-14】[xming521 / WeClone](https://github.com/xming521/WeClone) - 🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
 * 【2025-05-13】[i-am-alice / 3rd-devs](https://github.com/i-am-alice/3rd-devs) - 
 * 【2025-05-12】[panaversity / learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
 * 【2025-05-11】[Peterande / D-FINE](https://github.com/Peterande/D-FINE) - D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement [ICLR 2025 Spotlight]
@@ -854,6 +855,7 @@
 
 ## Java
 
+* 【2025-05-14】[modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
 * 【2025-05-09】[modelcontextprotocol / java\-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients  Maintained in collaboration with Spring AI
 * 【2025-05-04】[HbmMods / Hbm-s-Nuclear-Tech-GIT](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT) - A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development.
 * 【2025-05-01】[lavalink\-devs / youtube\-source](https://github.com/lavalink-devs/youtube-source) - A rewritten YouTube source manager for Lavaplayer 
@@ -1148,6 +1150,10 @@
 
 ## Python
 
+* 【2025-05-14】[pallets / click](https://github.com/pallets/click) - Python composable command line interface toolkit
+* 【2025-05-14】[airweave-ai / airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app
+* 【2025-05-14】[simonw / files\-to\-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
+* 【2025-05-14】[microsoft / Multi\-Agent\-Custom\-Automation\-Engine\-Solution\-Accelerator](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator) - The Multi\-Agent Custom Automation Engine Solution Accelerator is an AI\-driven orchestration system that manages a group of AI agents to accomplish tasks based on user input  Powered by AutoGen, Azure OpenAI, Cosmos, and infrastructure services, it provides a ready to go application to use as a reference, allowing you to hit the ground running 
 * 【2025-05-13】[santinic / audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e\-books
 * 【2025-05-12】[remsky / Kokoro\-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro\-82M text\-to\-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto\-stitching
 * 【2025-05-12】[kijai / ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - Various custom nodes for ComfyUI
@@ -2024,6 +2030,7 @@
 
 ## Javascript
 
+* 【2025-05-14】[evalstate / fast\-agent](https://github.com/evalstate/fast-agent) - Define, Prompt and Test MCP enabled Agents and Workflows
 * 【2025-05-13】[tidalcycles / strudel](https://github.com/tidalcycles/strudel) - Web\-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 * 【2025-05-09】[webpack / webpack\-dev\-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app  Updates the browser on changes  Documentation https://webpack js org/configuration/dev\-server/ 
 * 【2025-05-08】[modelcontextprotocol / servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
@@ -2822,6 +2829,7 @@
 
 ## C
 
+* 【2025-05-14】[duixcom / Duix Heygem](https://github.com/duixcom/Duix.Heygem) - 
 * 【2025-05-13】[tio / tio](https://github.com/tio/tio) - A serial device I/O tool
 * 【2025-05-05】[medusalix / xone](https://github.com/medusalix/xone) - Linux kernel driver for Xbox One and Xbox Series X\|S accessories
 * 【2025-05-01】[torvalds / uemacs](https://github.com/torvalds/uemacs) - Random version of microemacs with my private modificatons
@@ -4870,6 +4878,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-05-14】[plabayo / rama](https://github.com/plabayo/rama) - modular service framework to move and transform network packets
 * 【2025-05-13】[sirupsen / napkin\-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first\-principles
 * 【2025-05-12】[EasyTier / EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support 
 * 【2025-05-11】[Canop / dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
