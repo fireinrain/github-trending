@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-05-18】[Capsize-Games / airunner](https://github.com/Capsize-Games/airunner) - Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
+* 【2025-05-18】[itdoginfo / podkop](https://github.com/itdoginfo/podkop) - Dev podkop
 * 【2025-05-17】[git\-bug / git\-bug](https://github.com/git-bug/git-bug) - Distributed, offline\-first bug tracker embedded in git
 * 【2025-05-16】[facebookresearch / fairchem](https://github.com/facebookresearch/fairchem) - FAIR Chemistry's library of machine learning methods for chemistry
 * 【2025-05-16】[happycola233 / tchMaterial\-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
@@ -2489,6 +2491,7 @@
 
 ## Go
 
+* 【2025-05-18】[microsoft / typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 * 【2025-05-17】[git-bug / git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 * 【2025-05-17】[microsoft / typescript\-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 * 【2025-05-16】[lejianwen / rustdesk\-api](https://github.com/lejianwen/rustdesk-api) - Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login
@@ -2839,6 +2842,7 @@
 
 ## C
 
+* 【2025-05-18】[microsoft / documentdb](https://github.com/microsoft/documentdb) - DocumentDB is the open\-source engine powering vCore\-based Azure Cosmos DB for MongoDB  It offers a native implementation of document\-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework 
 * 【2025-05-17】[TEN-framework / ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework and platform for building real-time, multimodal, low-latency conversational voice AI agents. It features a workflow builder and supports C, C++, Go, Python, JavaScript, and TypeScript. TEN also offers ready-to-use extensions for integration with platforms like Dify and Coze.
 * 【2025-05-17】[duixcom / Duix.Heygem](https://github.com/duixcom/Duix.Heygem) - 
 * 【2025-05-17】[espressif / esp\-webrtc\-solution](https://github.com/espressif/esp-webrtc-solution) - 
@@ -5580,6 +5584,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-05-18】[modelcontextprotocol / typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
+* 【2025-05-18】[Flux159 / mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
 * 【2025-05-17】[langgenius / webapp\-conversation](https://github.com/langgenius/webapp-conversation) - 
 * 【2025-05-16】[deskree\-inc / nanoservice\-ts](https://github.com/deskree-inc/nanoservice-ts) - NanoService is an open\-source framework that enables developers to build lightweight, modular, and scalable backend applications using nanoservices 
 * 【2025-05-15】[aws-amplify / amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
