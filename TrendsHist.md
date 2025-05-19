@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-05-19】[ed\-donner / llm_engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course
 * 【2025-05-18】[Capsize-Games / airunner](https://github.com/Capsize-Games/airunner) - Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
 * 【2025-05-18】[itdoginfo / podkop](https://github.com/itdoginfo/podkop) - Dev podkop
 * 【2025-05-17】[git\-bug / git\-bug](https://github.com/git-bug/git-bug) - Distributed, offline\-first bug tracker embedded in git
@@ -861,6 +862,7 @@
 
 ## Java
 
+* 【2025-05-19】[adityachandelgit / BookLore](https://github.com/adityachandelgit/BookLore) - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats 
 * 【2025-05-14】[modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
 * 【2025-05-09】[modelcontextprotocol / java\-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients  Maintained in collaboration with Spring AI
 * 【2025-05-04】[HbmMods / Hbm-s-Nuclear-Tech-GIT](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT) - A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development.
@@ -4904,6 +4906,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-05-19】[Lagrange\-Labs / deep\-prove](https://github.com/Lagrange-Labs/deep-prove) - Framework to prove inference of ML models blazingly fast
 * 【2025-05-16】[rsvim / rsvim](https://github.com/rsvim/rsvim) - The VIM editor reinvented in Rust+TypeScript 
 * 【2025-05-14】[plabayo / rama](https://github.com/plabayo/rama) - modular service framework to move and transform network packets
 * 【2025-05-13】[sirupsen / napkin\-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first\-principles
@@ -5584,6 +5587,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-05-19】[openai / openai\-realtime\-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API 
 * 【2025-05-18】[modelcontextprotocol / typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
 * 【2025-05-18】[Flux159 / mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
 * 【2025-05-17】[langgenius / webapp\-conversation](https://github.com/langgenius/webapp-conversation) - 
