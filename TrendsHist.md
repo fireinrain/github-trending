@@ -1160,6 +1160,9 @@
 
 ## Python
 
+* 【2025-05-21】[beeware / toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit 
+* 【2025-05-21】[modelcontextprotocol / python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
+* 【2025-05-21】[bilibili / Index\-anisora](https://github.com/bilibili/Index-anisora) - 
 * 【2025-05-16】[happycola233 / tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
 * 【2025-05-16】[mikumifa / cppTickerBuy](https://github.com/mikumifa/cppTickerBuy) - cpp cp30 漫展 活动 抢票 无差别 同人展
 * 【2025-05-14】[pallets / click](https://github.com/pallets/click) - Python composable command line interface toolkit
@@ -2042,6 +2045,9 @@
 
 ## Javascript
 
+* 【2025-05-21】[BaldissaraMatheus / Tasks md](https://github.com/BaldissaraMatheus/Tasks.md) - A self\-hosted, Markdown file based task management board
+* 【2025-05-21】[clusterzx / paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
+* 【2025-05-21】[AgentDeskAI / browser\-tools\-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs 
 * 【2025-05-20】[kmeps4 / PSFree](https://github.com/kmeps4/PSFree) - PSFree WebKit Exploit & Lapse Kernel Exploit For PS4 9 00 [WIP] By abc
 * 【2025-05-15】[OpenZeppelin / openzeppelin-contracts-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) - Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts.
 * 【2025-05-14】[evalstate / fast\-agent](https://github.com/evalstate/fast-agent) - Define, Prompt and Test MCP enabled Agents and Workflows
@@ -3846,6 +3852,7 @@
 
 ## Html
 
+* 【2025-05-21】[JuergenFleiss / aTrain](https://github.com/JuergenFleiss/aTrain) - A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state\-of\-the\-art machine learning models 
 * 【2025-05-16】[jonbarron / jonbarron github io](https://github.com/jonbarron/jonbarron.github.io) - 
 * 【2025-05-15】[thewickedkarma / blackeye\-im](https://github.com/thewickedkarma/blackeye-im) - This project is now discontinued  Kindly use other working alternatives 
 * 【2025-05-10】[NightProxy / Space](https://github.com/NightProxy/Space) - Space is a modern, and clean web proxy with many games, apps and features 
@@ -5591,6 +5598,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-05-21】[GLips / Figma\-Context\-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
+* 【2025-05-21】[linshenkx / prompt\-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
 * 【2025-05-20】[openai / openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
 * 【2025-05-19】[openai / openai\-realtime\-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API 
 * 【2025-05-18】[modelcontextprotocol / typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
