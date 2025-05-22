@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-05-22】[modelcontextprotocol / registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers 
 * 【2025-05-20】[facebook / pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 * 【2025-05-20】[ed-donner / llm_engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course
 * 【2025-05-19】[ed\-donner / llm_engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course
@@ -1160,6 +1161,8 @@
 
 ## Python
 
+* 【2025-05-22】[bilibili / Index-anisora](https://github.com/bilibili/Index-anisora) - 
+* 【2025-05-22】[apache / iceberg\-python](https://github.com/apache/iceberg-python) - Apache PyIceberg
 * 【2025-05-21】[beeware / toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit 
 * 【2025-05-21】[modelcontextprotocol / python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 * 【2025-05-21】[bilibili / Index\-anisora](https://github.com/bilibili/Index-anisora) - 
@@ -2045,6 +2048,7 @@
 
 ## Javascript
 
+* 【2025-05-22】[BaldissaraMatheus / Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
 * 【2025-05-21】[BaldissaraMatheus / Tasks md](https://github.com/BaldissaraMatheus/Tasks.md) - A self\-hosted, Markdown file based task management board
 * 【2025-05-21】[clusterzx / paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 * 【2025-05-21】[AgentDeskAI / browser\-tools\-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs 
@@ -3185,6 +3189,8 @@
 
 ## C++
 
+* 【2025-05-22】[ERGO\-Code / HiGHS](https://github.com/ERGO-Code/HiGHS) - Linear optimization software
+* 【2025-05-22】[duixcom / Duix mobile](https://github.com/duixcom/Duix.mobile) - 
 * 【2025-05-20】[supercollider / supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition 
 * 【2025-05-17】[berthrage / Devil\-May\-Cry\-3\-Crimson](https://github.com/berthrage/Devil-May-Cry-3-Crimson) - New Gameplay Options, Visual/Sound updates, Multiplayer, Fixes and more for Devil May Cry 3 (HD Collection version), based on DDMK 
 * 【2025-05-10】[memgraph / memgraph](https://github.com/memgraph/memgraph) - Open\-source graph database, tuned for dynamic analytics environments  Easy to adopt, scale and own 
@@ -3505,6 +3511,7 @@
 
 ## C#
 
+* 【2025-05-22】[clawsoftware / clawPDF](https://github.com/clawsoftware/clawPDF) - Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions 
 * 【2025-05-13】[GhostPack / SharpDPAPI](https://github.com/GhostPack/SharpDPAPI) - SharpDPAPI is a C\# port of some Mimikatz DPAPI functionality 
 * 【2025-05-12】[SpaceTimee / Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
 * 【2025-05-08】[kurrent\-io / KurrentDB](https://github.com/kurrent-io/KurrentDB) - EventStoreDB, the event\-native database  Designed for Event Sourcing, Event\-Driven, and Microservices architectures
@@ -3852,6 +3859,7 @@
 
 ## Html
 
+* 【2025-05-22】[nottelabs / notte](https://github.com/nottelabs/notte) - 🔥 Opensource browser using agents
 * 【2025-05-21】[JuergenFleiss / aTrain](https://github.com/JuergenFleiss/aTrain) - A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state\-of\-the\-art machine learning models 
 * 【2025-05-16】[jonbarron / jonbarron github io](https://github.com/jonbarron/jonbarron.github.io) - 
 * 【2025-05-15】[thewickedkarma / blackeye\-im](https://github.com/thewickedkarma/blackeye-im) - This project is now discontinued  Kindly use other working alternatives 
@@ -4320,6 +4328,8 @@
 
 ## Unknown
 
+* 【2025-05-22】[MicrosoftDocs / WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation 
+* 【2025-05-22】[lvgl / lvgl_editor](https://github.com/lvgl/lvgl_editor) - 
 * 【2025-05-16】[stackia / best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
 * 【2025-05-15】[stackia / best\-windows\-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
 * 【2025-05-13】[fudan-generative-vision / OpenHumanVid](https://github.com/fudan-generative-vision/OpenHumanVid) - [CVPR 2025] A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation
@@ -5598,6 +5608,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-05-22】[langchain\-ai / agent\-chat\-ui](https://github.com/langchain-ai/agent-chat-ui) - 🦜💬 Web app for interacting with any LangGraph agent (PY & TS) via a chat interface 
+* 【2025-05-22】[lingodotdev / lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡️ Open-source AI-powered CLI for web & mobile localization. Bring your own LLM or use Lingo.dev localization engine. Join discord: https://lingo.dev/go/discord
+* 【2025-05-22】[C4illin / ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self\-hosted online file converter  Supports 1000+ formats ⚙️
 * 【2025-05-21】[GLips / Figma\-Context\-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
 * 【2025-05-21】[linshenkx / prompt\-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
 * 【2025-05-20】[openai / openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
