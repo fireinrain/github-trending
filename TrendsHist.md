@@ -1161,6 +1161,7 @@
 
 ## Python
 
+* 【2025-05-23】[real-stanford / diffusion_policy](https://github.com/real-stanford/diffusion_policy) - [RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion
 * 【2025-05-22】[bilibili / Index-anisora](https://github.com/bilibili/Index-anisora) - 
 * 【2025-05-22】[apache / iceberg\-python](https://github.com/apache/iceberg-python) - Apache PyIceberg
 * 【2025-05-21】[beeware / toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit 
@@ -2048,6 +2049,8 @@
 
 ## Javascript
 
+* 【2025-05-23】[randomstuff69 / blooketcheatsplus](https://github.com/randomstuff69/blooketcheatsplus) - blooket cheats plus blooket cheats hacks GO TO THE DISCORD IF YOU WANT TO MAKE ISSUES IN BCP ISSUES
+* 【2025-05-23】[volcengine / ai\-app\-lab](https://github.com/volcengine/ai-app-lab) - 
 * 【2025-05-22】[BaldissaraMatheus / Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
 * 【2025-05-21】[BaldissaraMatheus / Tasks md](https://github.com/BaldissaraMatheus/Tasks.md) - A self\-hosted, Markdown file based task management board
 * 【2025-05-21】[clusterzx / paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
@@ -2857,6 +2860,7 @@
 
 ## C
 
+* 【2025-05-23】[vanilla\-wiiu / vanilla](https://github.com/vanilla-wiiu/vanilla) - 
 * 【2025-05-18】[microsoft / documentdb](https://github.com/microsoft/documentdb) - DocumentDB is the open\-source engine powering vCore\-based Azure Cosmos DB for MongoDB  It offers a native implementation of document\-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework 
 * 【2025-05-17】[TEN-framework / ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework and platform for building real-time, multimodal, low-latency conversational voice AI agents. It features a workflow builder and supports C, C++, Go, Python, JavaScript, and TypeScript. TEN also offers ready-to-use extensions for integration with platforms like Dify and Coze.
 * 【2025-05-17】[duixcom / Duix.Heygem](https://github.com/duixcom/Duix.Heygem) - 
@@ -3189,6 +3193,8 @@
 
 ## C++
 
+* 【2025-05-23】[google\-ai\-edge / LiteRT](https://github.com/google-ai-edge/LiteRT) - LiteRT is the new name for TensorFlow Lite (TFLite)  While the name is new, it's still the same trusted, high\-performance runtime for on\-device AI, now with an expanded vision 
+* 【2025-05-23】[microsoft / wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 * 【2025-05-22】[ERGO\-Code / HiGHS](https://github.com/ERGO-Code/HiGHS) - Linear optimization software
 * 【2025-05-22】[duixcom / Duix mobile](https://github.com/duixcom/Duix.mobile) - 
 * 【2025-05-20】[supercollider / supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition 
@@ -3511,6 +3517,7 @@
 
 ## C#
 
+* 【2025-05-23】[microsoft / Agents](https://github.com/microsoft/Agents) - The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat 
 * 【2025-05-22】[clawsoftware / clawPDF](https://github.com/clawsoftware/clawPDF) - Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions 
 * 【2025-05-13】[GhostPack / SharpDPAPI](https://github.com/GhostPack/SharpDPAPI) - SharpDPAPI is a C\# port of some Mimikatz DPAPI functionality 
 * 【2025-05-12】[SpaceTimee / Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
@@ -4328,6 +4335,7 @@
 
 ## Unknown
 
+* 【2025-05-23】[skills / communicate\-using\-markdown](https://github.com/skills/communicate-using-markdown) - Organize ideas and collaborate using Markdown, a lightweight language for text formatting 
 * 【2025-05-22】[MicrosoftDocs / WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation 
 * 【2025-05-22】[lvgl / lvgl_editor](https://github.com/lvgl/lvgl_editor) - 
 * 【2025-05-16】[stackia / best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
@@ -4927,6 +4935,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-05-23】[modelcontextprotocol / rust\-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
+* 【2025-05-23】[stellar / soroban\-example\-dapp](https://github.com/stellar/soroban-example-dapp) - End\-to\-End Example Soroban Dapp
 * 【2025-05-19】[Lagrange\-Labs / deep\-prove](https://github.com/Lagrange-Labs/deep-prove) - Framework to prove inference of ML models blazingly fast
 * 【2025-05-16】[rsvim / rsvim](https://github.com/rsvim/rsvim) - The VIM editor reinvented in Rust+TypeScript 
 * 【2025-05-14】[plabayo / rama](https://github.com/plabayo/rama) - modular service framework to move and transform network packets
@@ -5608,6 +5618,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-05-23】[GLips / Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
+* 【2025-05-23】[langchain-ai / agent-chat-ui](https://github.com/langchain-ai/agent-chat-ui) - 🦜💬 Web app for interacting with any LangGraph agent (PY & TS) via a chat interface.
 * 【2025-05-22】[langchain\-ai / agent\-chat\-ui](https://github.com/langchain-ai/agent-chat-ui) - 🦜💬 Web app for interacting with any LangGraph agent (PY & TS) via a chat interface 
 * 【2025-05-22】[lingodotdev / lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡️ Open-source AI-powered CLI for web & mobile localization. Bring your own LLM or use Lingo.dev localization engine. Join discord: https://lingo.dev/go/discord
 * 【2025-05-22】[C4illin / ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self\-hosted online file converter  Supports 1000+ formats ⚙️
