@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-05-25】[anthropics / claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 * 【2025-05-24】[XiaoYouChR / Ghost\-Downloader\-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross\-platform fluent\-design AI\-boost multi\-threaded downloader built with Python 
 * 【2025-05-24】[anthropics / claude\-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows \- all through natural language commands 
 * 【2025-05-24】[Fosowl / agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI  No APIs, No $200 monthly bills  Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity 
@@ -1164,6 +1165,8 @@
 
 ## Python
 
+* 【2025-05-25】[XiaoMi / ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
+* 【2025-05-25】[langgenius / dify-official-plugins](https://github.com/langgenius/dify-official-plugins) - 
 * 【2025-05-24】[XiaoYouChR / Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.
 * 【2025-05-24】[ML\-GSAI / LLaDA](https://github.com/ML-GSAI/LLaDA) - Official PyTorch implementation for "Large Language Diffusion Models"
 * 【2025-05-24】[qodo\-ai / pr\-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR\-Agent (Qodo Merge open\-source): An AI\-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
@@ -2516,6 +2519,8 @@
 
 ## Go
 
+* 【2025-05-25】[zerodha / kite\-mcp\-server](https://github.com/zerodha/kite-mcp-server) - Zerodha Kite MCP server
+* 【2025-05-25】[kubetail\-org / kubetail](https://github.com/kubetail-org/kubetail) - Real\-time logging dashboard for Kubernetes (browser/terminal)
 * 【2025-05-24】[aaPanel / BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open\-source MailServer, NewsLetter, Email Marketing — fully self\-hosted, dev\-friendly, and free from monthly fees 
 * 【2025-05-18】[microsoft / typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 * 【2025-05-17】[git-bug / git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
@@ -2868,6 +2873,7 @@
 
 ## C
 
+* 【2025-05-25】[vanilla-wiiu / vanilla](https://github.com/vanilla-wiiu/vanilla) - 
 * 【2025-05-24】[jniebuhr / gaggimate](https://github.com/jniebuhr/gaggimate) - This project upgrades a Gaggia espresso machine with smart controls to improve your coffee\-making experience  By adding a display and custom electronics, you can monitor and control the machine more easily 
 * 【2025-05-23】[vanilla\-wiiu / vanilla](https://github.com/vanilla-wiiu/vanilla) - 
 * 【2025-05-18】[microsoft / documentdb](https://github.com/microsoft/documentdb) - DocumentDB is the open\-source engine powering vCore\-based Azure Cosmos DB for MongoDB  It offers a native implementation of document\-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework 
@@ -3529,6 +3535,7 @@
 
 ## C#
 
+* 【2025-05-25】[skills / secure-repository-supply-chain](https://github.com/skills/secure-repository-supply-chain) - Secure your supply chain, understand dependencies in your environment, know about vulnerabilities in those dependencies and patch them
 * 【2025-05-24】[skills / secure\-repository\-supply\-chain](https://github.com/skills/secure-repository-supply-chain) - Secure your supply chain, understand dependencies in your environment, know about vulnerabilities in those dependencies and patch them
 * 【2025-05-24】[kurrent-io / KurrentDB](https://github.com/kurrent-io/KurrentDB) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
 * 【2025-05-23】[microsoft / Agents](https://github.com/microsoft/Agents) - The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M365, Teams, Copilot Studio, and Webchat 
@@ -3880,6 +3887,7 @@
 
 ## Html
 
+* 【2025-05-25】[wizarrrr / wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc 
 * 【2025-05-24】[codelucas / newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full\-text, and article metadata extraction in Python 3  Advanced docs:
 * 【2025-05-22】[nottelabs / notte](https://github.com/nottelabs/notte) - 🔥 Opensource browser using agents
 * 【2025-05-21】[JuergenFleiss / aTrain](https://github.com/JuergenFleiss/aTrain) - A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state\-of\-the\-art machine learning models 
@@ -4951,6 +4959,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-05-25】[mierak / rmpc](https://github.com/mierak/rmpc) - A configurable, terminal based Media Player Client with album art support via various terminal image protocols
+* 【2025-05-25】[stalwartlabs / stalwart](https://github.com/stalwartlabs/stalwart) - All\-in\-one Mail & Collaboration server  Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV) 
+* 【2025-05-25】[Lagrange-Labs / deep-prove](https://github.com/Lagrange-Labs/deep-prove) - Framework to prove inference of ML models blazingly fast
 * 【2025-05-24】[modelcontextprotocol / rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
 * 【2025-05-24】[IBM / ACE\-RISCV](https://github.com/IBM/ACE-RISCV) - Assured confidential execution (ACE) implements VM\-based trusted execution environment (TEE) for embedded RISC\-V systems with focus on a formally verified and auditable firmware 
 * 【2025-05-23】[modelcontextprotocol / rust\-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
@@ -5636,6 +5647,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-05-25】[slowlydev / f1\-dash](https://github.com/slowlydev/f1-dash) - A real\-time F1 dashboard
+* 【2025-05-25】[obsidianmd / obsidian\-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser  The official Web Clipper extension for Obsidian 
 * 【2025-05-24】[simstudioai / sim](https://github.com/simstudioai/sim) - Sim Studio is an open\-source AI agent workflow builder  Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools 
 * 【2025-05-24】[modelcontextprotocol / modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol
 * 【2025-05-23】[GLips / Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
