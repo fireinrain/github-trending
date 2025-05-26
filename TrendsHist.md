@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-05-26】[groupultra / telegram\-search](https://github.com/groupultra/telegram-search) - 🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
 * 【2025-05-25】[anthropics / claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 * 【2025-05-24】[XiaoYouChR / Ghost\-Downloader\-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross\-platform fluent\-design AI\-boost multi\-threaded downloader built with Python 
 * 【2025-05-24】[anthropics / claude\-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows \- all through natural language commands 
@@ -1165,6 +1166,9 @@
 
 ## Python
 
+* 【2025-05-26】[MaiM\-with\-u / MaiBot](https://github.com/MaiM-with-u/MaiBot) - 麦麦bot，一款专注于 群组聊天 的赛博网友（比较专注）多平台智能体
+* 【2025-05-26】[city96 / ComfyUI\-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
+* 【2025-05-26】[home-assistant / supervisor](https://github.com/home-assistant/supervisor) - 🏡 Home Assistant Supervisor
 * 【2025-05-25】[XiaoMi / ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 * 【2025-05-25】[langgenius / dify-official-plugins](https://github.com/langgenius/dify-official-plugins) - 
 * 【2025-05-24】[XiaoYouChR / Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.
@@ -2519,6 +2523,8 @@
 
 ## Go
 
+* 【2025-05-26】[zerodha / kite-mcp-server](https://github.com/zerodha/kite-mcp-server) - Zerodha Kite MCP server
+* 【2025-05-26】[Xpl0itU / WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - Allows to download encrypted wiiu files from nintendo's official servers
 * 【2025-05-25】[zerodha / kite\-mcp\-server](https://github.com/zerodha/kite-mcp-server) - Zerodha Kite MCP server
 * 【2025-05-25】[kubetail\-org / kubetail](https://github.com/kubetail-org/kubetail) - Real\-time logging dashboard for Kubernetes (browser/terminal)
 * 【2025-05-24】[aaPanel / BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open\-source MailServer, NewsLetter, Email Marketing — fully self\-hosted, dev\-friendly, and free from monthly fees 
@@ -3887,6 +3893,7 @@
 
 ## Html
 
+* 【2025-05-26】[Anduin2017 / AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu\-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows 
 * 【2025-05-25】[wizarrrr / wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc 
 * 【2025-05-24】[codelucas / newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full\-text, and article metadata extraction in Python 3  Advanced docs:
 * 【2025-05-22】[nottelabs / notte](https://github.com/nottelabs/notte) - 🔥 Opensource browser using agents
@@ -5647,6 +5654,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-05-26】[groupultra / telegram-search](https://github.com/groupultra/telegram-search) - 🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
+* 【2025-05-26】[slowlydev / f1-dash](https://github.com/slowlydev/f1-dash) - A real-time F1 dashboard
 * 【2025-05-25】[slowlydev / f1\-dash](https://github.com/slowlydev/f1-dash) - A real\-time F1 dashboard
 * 【2025-05-25】[obsidianmd / obsidian\-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser  The official Web Clipper extension for Obsidian 
 * 【2025-05-24】[simstudioai / sim](https://github.com/simstudioai/sim) - Sim Studio is an open\-source AI agent workflow builder  Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools 
