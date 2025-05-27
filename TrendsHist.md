@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-05-27】[nvim\-treesitter / nvim\-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 * 【2025-05-26】[groupultra / telegram\-search](https://github.com/groupultra/telegram-search) - 🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
 * 【2025-05-25】[anthropics / claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 * 【2025-05-24】[XiaoYouChR / Ghost\-Downloader\-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross\-platform fluent\-design AI\-boost multi\-threaded downloader built with Python 
@@ -870,6 +871,7 @@
 
 ## Java
 
+* 【2025-05-27】[boricj / ghidra\-delinker\-extension](https://github.com/boricj/ghidra-delinker-extension) - Ghidra extension for exporting relocatable object files
 * 【2025-05-19】[adityachandelgit / BookLore](https://github.com/adityachandelgit/BookLore) - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats 
 * 【2025-05-14】[modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
 * 【2025-05-09】[modelcontextprotocol / java\-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients  Maintained in collaboration with Spring AI
@@ -1166,6 +1168,9 @@
 
 ## Python
 
+* 【2025-05-27】[Vexa\-ai / vexa](https://github.com/Vexa-ai/vexa) - Self\-hosted, multi\-user API that drops bots into Google Meet for real\-time transcripts 
+* 【2025-05-27】[fla-org / flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state-of-the-art linear attention models in Torch and Triton
+* 【2025-05-27】[pgmpy / pgmpy](https://github.com/pgmpy/pgmpy) - Python Library for Causal and Probabilistic Modeling using Bayesian Networks
 * 【2025-05-26】[MaiM\-with\-u / MaiBot](https://github.com/MaiM-with-u/MaiBot) - 麦麦bot，一款专注于 群组聊天 的赛博网友（比较专注）多平台智能体
 * 【2025-05-26】[city96 / ComfyUI\-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
 * 【2025-05-26】[home-assistant / supervisor](https://github.com/home-assistant/supervisor) - 🏡 Home Assistant Supervisor
@@ -2062,6 +2067,7 @@
 
 ## Javascript
 
+* 【2025-05-27】[mayswind / AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use 
 * 【2025-05-24】[auth0 / react\-native\-auth0](https://github.com/auth0/react-native-auth0) - React Native toolkit for Auth0 API
 * 【2025-05-23】[randomstuff69 / blooketcheatsplus](https://github.com/randomstuff69/blooketcheatsplus) - blooket cheats plus blooket cheats hacks GO TO THE DISCORD IF YOU WANT TO MAKE ISSUES IN BCP ISSUES
 * 【2025-05-23】[volcengine / ai\-app\-lab](https://github.com/volcengine/ai-app-lab) - 
@@ -2523,6 +2529,8 @@
 
 ## Go
 
+* 【2025-05-27】[applejag / kubectl\-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
+* 【2025-05-27】[kubetail-org / kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal)
 * 【2025-05-26】[zerodha / kite-mcp-server](https://github.com/zerodha/kite-mcp-server) - Zerodha Kite MCP server
 * 【2025-05-26】[Xpl0itU / WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - Allows to download encrypted wiiu files from nintendo's official servers
 * 【2025-05-25】[zerodha / kite\-mcp\-server](https://github.com/zerodha/kite-mcp-server) - Zerodha Kite MCP server
@@ -3541,6 +3549,7 @@
 
 ## C#
 
+* 【2025-05-27】[Jeric-X / SyncClipboard](https://github.com/Jeric-X/SyncClipboard) - 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution
 * 【2025-05-25】[skills / secure-repository-supply-chain](https://github.com/skills/secure-repository-supply-chain) - Secure your supply chain, understand dependencies in your environment, know about vulnerabilities in those dependencies and patch them
 * 【2025-05-24】[skills / secure\-repository\-supply\-chain](https://github.com/skills/secure-repository-supply-chain) - Secure your supply chain, understand dependencies in your environment, know about vulnerabilities in those dependencies and patch them
 * 【2025-05-24】[kurrent-io / KurrentDB](https://github.com/kurrent-io/KurrentDB) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
@@ -4966,6 +4975,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-05-27】[antinomyhq / forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
+* 【2025-05-27】[rcore\-os / rCore\-Tutorial\-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - Let's write an OS which can run on RISC\-V in Rust from scratch!
 * 【2025-05-25】[mierak / rmpc](https://github.com/mierak/rmpc) - A configurable, terminal based Media Player Client with album art support via various terminal image protocols
 * 【2025-05-25】[stalwartlabs / stalwart](https://github.com/stalwartlabs/stalwart) - All\-in\-one Mail & Collaboration server  Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV) 
 * 【2025-05-25】[Lagrange-Labs / deep-prove](https://github.com/Lagrange-Labs/deep-prove) - Framework to prove inference of ML models blazingly fast
@@ -5654,6 +5665,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-05-27】[agno\-agi / agent\-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next js, Tailwind CSS, and TypeScript 
+* 【2025-05-27】[bytedance / flowgram ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node\-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+* 【2025-05-27】[steel\-dev / steel\-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps  Steel Browser is a batteries\-included browser instance that lets you automate the web without worrying about infrastructure 
 * 【2025-05-26】[groupultra / telegram-search](https://github.com/groupultra/telegram-search) - 🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
 * 【2025-05-26】[slowlydev / f1-dash](https://github.com/slowlydev/f1-dash) - A real-time F1 dashboard
 * 【2025-05-25】[slowlydev / f1\-dash](https://github.com/slowlydev/f1-dash) - A real\-time F1 dashboard
