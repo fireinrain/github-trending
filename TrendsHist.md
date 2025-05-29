@@ -2069,6 +2069,8 @@
 
 ## Javascript
 
+* 【2025-05-29】[json-schema-org / json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
+* 【2025-05-29】[minio / object-browser](https://github.com/minio/object-browser) - Simple UI for MinIO Object Storage 🧮
 * 【2025-05-28】[humanwhocodes / crosspost](https://github.com/humanwhocodes/crosspost) - A JavaScript utility for posting across multiple social networks at once
 * 【2025-05-28】[minio / object\-browser](https://github.com/minio/object-browser) - Simple UI for MinIO Object Storage 🧮
 * 【2025-05-27】[mayswind / AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use 
@@ -2533,6 +2535,8 @@
 
 ## Go
 
+* 【2025-05-29】[mark3labs / mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) - Go server implementing Model Context Protocol (MCP) for filesystem operations.
+* 【2025-05-29】[manusa / kubernetes\-mcp\-server](https://github.com/manusa/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 * 【2025-05-28】[mark3labs / mcp\-filesystem\-server](https://github.com/mark3labs/mcp-filesystem-server) - Go server implementing Model Context Protocol (MCP) for filesystem operations 
 * 【2025-05-27】[applejag / kubectl\-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
 * 【2025-05-27】[kubetail-org / kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal)
@@ -2892,6 +2896,7 @@
 
 ## C
 
+* 【2025-05-29】[FlyGoat / csmwrap](https://github.com/FlyGoat/csmwrap) - Get PC BIOS back on UEFI only system
 * 【2025-05-25】[vanilla-wiiu / vanilla](https://github.com/vanilla-wiiu/vanilla) - 
 * 【2025-05-24】[jniebuhr / gaggimate](https://github.com/jniebuhr/gaggimate) - This project upgrades a Gaggia espresso machine with smart controls to improve your coffee\-making experience  By adding a display and custom electronics, you can monitor and control the machine more easily 
 * 【2025-05-23】[vanilla\-wiiu / vanilla](https://github.com/vanilla-wiiu/vanilla) - 
@@ -3555,6 +3560,7 @@
 
 ## C#
 
+* 【2025-05-29】[MicrosoftDocs / windows-dev-docs](https://github.com/MicrosoftDocs/windows-dev-docs) - Conceptual and overview content for developing Windows apps
 * 【2025-05-27】[Jeric-X / SyncClipboard](https://github.com/Jeric-X/SyncClipboard) - 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution
 * 【2025-05-25】[skills / secure-repository-supply-chain](https://github.com/skills/secure-repository-supply-chain) - Secure your supply chain, understand dependencies in your environment, know about vulnerabilities in those dependencies and patch them
 * 【2025-05-24】[skills / secure\-repository\-supply\-chain](https://github.com/skills/secure-repository-supply-chain) - Secure your supply chain, understand dependencies in your environment, know about vulnerabilities in those dependencies and patch them
@@ -5671,6 +5677,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-05-29】[benborla / mcp\-server\-mysql](https://github.com/benborla/mcp-server-mysql) - A Model Context Protocol server that provides read\-only access to MySQL databases  This server enables LLMs to inspect database schemas and execute read\-only queries 
 * 【2025-05-28】[googleapis / js-genai](https://github.com/googleapis/js-genai) - TypeScript/JavaScript SDK for Gemini and Vertex AI.
 * 【2025-05-28】[agno-agi / agent-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.
 * 【2025-05-28】[bytedance / flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
