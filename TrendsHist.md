@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-05-30】[livestorejs / livestore](https://github.com/livestorejs/livestore) - LiveStore is a next\-generation state management framework based on reactive SQLite and built\-in sync engine 
+* 【2025-05-30】[KwaiVGI / LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 * 【2025-05-27】[nvim\-treesitter / nvim\-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 * 【2025-05-26】[groupultra / telegram\-search](https://github.com/groupultra/telegram-search) - 🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
 * 【2025-05-25】[anthropics / claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
@@ -2535,6 +2537,7 @@
 
 ## Go
 
+* 【2025-05-30】[NVIDIA / KAI\-Scheduler](https://github.com/NVIDIA/KAI-Scheduler) - KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
 * 【2025-05-29】[mark3labs / mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) - Go server implementing Model Context Protocol (MCP) for filesystem operations.
 * 【2025-05-29】[manusa / kubernetes\-mcp\-server](https://github.com/manusa/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 * 【2025-05-28】[mark3labs / mcp\-filesystem\-server](https://github.com/mark3labs/mcp-filesystem-server) - Go server implementing Model Context Protocol (MCP) for filesystem operations 
@@ -3914,6 +3917,7 @@
 
 ## Html
 
+* 【2025-05-30】[jonbarron / jonbarron.github.io](https://github.com/jonbarron/jonbarron.github.io) - 
 * 【2025-05-26】[Anduin2017 / AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu\-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows 
 * 【2025-05-25】[wizarrrr / wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc 
 * 【2025-05-24】[codelucas / newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full\-text, and article metadata extraction in Python 3  Advanced docs:
@@ -4386,6 +4390,7 @@
 
 ## Unknown
 
+* 【2025-05-30】[deepseek\-ai / DeepSeek\-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 * 【2025-05-24】[skills / communicate-using-markdown](https://github.com/skills/communicate-using-markdown) - Organize ideas and collaborate using Markdown, a lightweight language for text formatting.
 * 【2025-05-23】[skills / communicate\-using\-markdown](https://github.com/skills/communicate-using-markdown) - Organize ideas and collaborate using Markdown, a lightweight language for text formatting 
 * 【2025-05-22】[MicrosoftDocs / WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation 
