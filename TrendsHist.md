@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-05-31】[coleam00 / local\-ai\-packaged](https://github.com/coleam00/local-ai-packaged) - Run all your local AI together in one package \- Ollama, Supabase, n8n, Open WebUI, and more!
+* 【2025-05-31】[chenzomi12 / aisystem](https://github.com/chenzomi12/aisystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 * 【2025-05-30】[livestorejs / livestore](https://github.com/livestorejs/livestore) - LiveStore is a next\-generation state management framework based on reactive SQLite and built\-in sync engine 
 * 【2025-05-30】[KwaiVGI / LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 * 【2025-05-27】[nvim\-treesitter / nvim\-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
@@ -1170,6 +1172,10 @@
 
 ## Python
 
+* 【2025-05-31】[coleam00 / local-ai-packaged](https://github.com/coleam00/local-ai-packaged) - Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!
+* 【2025-05-31】[GoogleCloudPlatform / agent\-starter\-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) - A collection of production\-ready Generative AI Agent templates built for Google Cloud  It accelerates development by providing a holistic, production\-ready solution, addressing common challenges (Deployment & Operations, Evaluation, Customization, Observability) in building and deploying GenAI agents 
+* 【2025-05-31】[ok-oldking / ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) - 鸣潮 后台自动战斗 自动刷声骸 一键日常 Automation for Wuthering Waves
+* 【2025-05-31】[EvolvingLMMs\-Lab / lmms\-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) - Accelerating the development of large multimodal models (LMMs) with one\-click evaluation module \- lmms\-eval 
 * 【2025-05-28】[seleniumbase / SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot\-detection 
 * 【2025-05-28】[willccbb / verifiers](https://github.com/willccbb/verifiers) - Verifiers for LLM Reinforcement Learning
 * 【2025-05-27】[Vexa\-ai / vexa](https://github.com/Vexa-ai/vexa) - Self\-hosted, multi\-user API that drops bots into Google Meet for real\-time transcripts 
@@ -2537,6 +2543,8 @@
 
 ## Go
 
+* 【2025-05-31】[manusa / kubernetes-mcp-server](https://github.com/manusa/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
+* 【2025-05-31】[krillinai / KlicStudio](https://github.com/krillinai/KlicStudio) - A video translation and dubbing tool powered by LLMs, offering professional\-grade translations and one\-click full\-process deployment  It can generate content optimized for platforms like YouTube，TikTok, and Shorts  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 * 【2025-05-30】[NVIDIA / KAI\-Scheduler](https://github.com/NVIDIA/KAI-Scheduler) - KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
 * 【2025-05-29】[mark3labs / mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) - Go server implementing Model Context Protocol (MCP) for filesystem operations.
 * 【2025-05-29】[manusa / kubernetes\-mcp\-server](https://github.com/manusa/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
@@ -4390,6 +4398,8 @@
 
 ## Unknown
 
+* 【2025-05-31】[AlexanderZhou01 / China\-software\-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
+* 【2025-05-31】[deepseek-ai / DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 * 【2025-05-30】[deepseek\-ai / DeepSeek\-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 * 【2025-05-24】[skills / communicate-using-markdown](https://github.com/skills/communicate-using-markdown) - Organize ideas and collaborate using Markdown, a lightweight language for text formatting.
 * 【2025-05-23】[skills / communicate\-using\-markdown](https://github.com/skills/communicate-using-markdown) - Organize ideas and collaborate using Markdown, a lightweight language for text formatting 
@@ -4992,6 +5002,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-05-31】[tari-project / tari](https://github.com/tari-project/tari) - The Tari protocol
 * 【2025-05-27】[antinomyhq / forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 * 【2025-05-27】[rcore\-os / rCore\-Tutorial\-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - Let's write an OS which can run on RISC\-V in Rust from scratch!
 * 【2025-05-25】[mierak / rmpc](https://github.com/mierak/rmpc) - A configurable, terminal based Media Player Client with album art support via various terminal image protocols
@@ -5682,6 +5693,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-05-31】[tesseral\-labs / tesseral](https://github.com/tesseral-labs/tesseral) - Open source auth infrastructure for B2B SaaS
+* 【2025-05-31】[liriliri / aya](https://github.com/liriliri/aya) - Android ADB desktop app
+* 【2025-05-31】[qiutongxue / oba\-live\-tool](https://github.com/qiutongxue/oba-live-tool) - 直播带货工具，支持抖音小店、巨量百应、抖音团购、小红书千帆、视频号、快手小店平台，能自动弹窗，自动发言，AI助力回复
 * 【2025-05-29】[benborla / mcp\-server\-mysql](https://github.com/benborla/mcp-server-mysql) - A Model Context Protocol server that provides read\-only access to MySQL databases  This server enables LLMs to inspect database schemas and execute read\-only queries 
 * 【2025-05-28】[googleapis / js-genai](https://github.com/googleapis/js-genai) - TypeScript/JavaScript SDK for Gemini and Vertex AI.
 * 【2025-05-28】[agno-agi / agent-ui](https://github.com/agno-agi/agent-ui) - A modern chat interface for AI agents built with Next.js, Tailwind CSS, and TypeScript.
