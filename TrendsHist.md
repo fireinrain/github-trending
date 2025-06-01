@@ -875,6 +875,7 @@
 
 ## Java
 
+* 【2025-06-01】[openmrs / openmrs-core](https://github.com/openmrs/openmrs-core) - OpenMRS API and web application code
 * 【2025-05-27】[boricj / ghidra\-delinker\-extension](https://github.com/boricj/ghidra-delinker-extension) - Ghidra extension for exporting relocatable object files
 * 【2025-05-19】[adityachandelgit / BookLore](https://github.com/adityachandelgit/BookLore) - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats 
 * 【2025-05-14】[modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
@@ -2077,6 +2078,8 @@
 
 ## Javascript
 
+* 【2025-06-01】[netbymatt / ws4kp](https://github.com/netbymatt/ws4kp) - A web\-based WeatherStar 4000
+* 【2025-06-01】[its-a-feature / Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
 * 【2025-05-29】[json-schema-org / json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
 * 【2025-05-29】[minio / object-browser](https://github.com/minio/object-browser) - Simple UI for MinIO Object Storage 🧮
 * 【2025-05-28】[humanwhocodes / crosspost](https://github.com/humanwhocodes/crosspost) - A JavaScript utility for posting across multiple social networks at once
@@ -3243,6 +3246,7 @@
 
 ## C++
 
+* 【2025-06-01】[su2code / SU2](https://github.com/su2code/SU2) - SU2: An Open\-Source Suite for Multiphysics Simulation and Design
 * 【2025-05-28】[Slicer / Slicer](https://github.com/Slicer/Slicer) - Multi\-platform, free open source software for visualization and image computing 
 * 【2025-05-24】[google-ai-edge / LiteRT](https://github.com/google-ai-edge/LiteRT) - LiteRT is the new name for TensorFlow Lite (TFLite). While the name is new, it's still the same trusted, high-performance runtime for on-device AI, now with an expanded vision.
 * 【2025-05-24】[duixcom / Duix.mobile](https://github.com/duixcom/Duix.mobile) - 
@@ -3571,6 +3575,8 @@
 
 ## C#
 
+* 【2025-06-01】[oculus\-samples / Unity\-PassthroughCameraApiSamples](https://github.com/oculus-samples/Unity-PassthroughCameraApiSamples) - A Sample Project for Passthrough Camera API in Unity 
+* 【2025-06-01】[huynhsontung / Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC\-based media player for the Universal Windows Platform
 * 【2025-05-29】[MicrosoftDocs / windows-dev-docs](https://github.com/MicrosoftDocs/windows-dev-docs) - Conceptual and overview content for developing Windows apps
 * 【2025-05-27】[Jeric-X / SyncClipboard](https://github.com/Jeric-X/SyncClipboard) - 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution
 * 【2025-05-25】[skills / secure-repository-supply-chain](https://github.com/skills/secure-repository-supply-chain) - Secure your supply chain, understand dependencies in your environment, know about vulnerabilities in those dependencies and patch them
@@ -4398,6 +4404,8 @@
 
 ## Unknown
 
+* 【2025-06-01】[AlexanderZhou01 / China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
+* 【2025-06-01】[punkpeye / awesome\-mcp\-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients 
 * 【2025-05-31】[AlexanderZhou01 / China\-software\-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
 * 【2025-05-31】[deepseek-ai / DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 * 【2025-05-30】[deepseek\-ai / DeepSeek\-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
@@ -5002,6 +5010,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-06-01】[probe\-rs / probe\-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC\-V targets on a separate host
+* 【2025-06-01】[platformatic / php\-node](https://github.com/platformatic/php-node) - PHP HTTP Request handler for Node js
 * 【2025-05-31】[tari-project / tari](https://github.com/tari-project/tari) - The Tari protocol
 * 【2025-05-27】[antinomyhq / forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 * 【2025-05-27】[rcore\-os / rCore\-Tutorial\-v3](https://github.com/rcore-os/rCore-Tutorial-v3) - Let's write an OS which can run on RISC\-V in Rust from scratch!
@@ -5693,6 +5703,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-06-01】[GoogleChromeLabs / squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best\-in\-class codecs, right in the browser 
+* 【2025-06-01】[lukevella / rallly](https://github.com/lukevella/rallly) - Rallly is an open\-source scheduling and collaboration tool designed to make organizing events and meetings easier 
 * 【2025-05-31】[tesseral\-labs / tesseral](https://github.com/tesseral-labs/tesseral) - Open source auth infrastructure for B2B SaaS
 * 【2025-05-31】[liriliri / aya](https://github.com/liriliri/aya) - Android ADB desktop app
 * 【2025-05-31】[qiutongxue / oba\-live\-tool](https://github.com/qiutongxue/oba-live-tool) - 直播带货工具，支持抖音小店、巨量百应、抖音团购、小红书千帆、视频号、快手小店平台，能自动弹窗，自动发言，AI助力回复
