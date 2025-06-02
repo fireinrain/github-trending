@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-06-02】[googleapis / go-genai](https://github.com/googleapis/go-genai) - Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.
 * 【2025-05-31】[coleam00 / local\-ai\-packaged](https://github.com/coleam00/local-ai-packaged) - Run all your local AI together in one package \- Ollama, Supabase, n8n, Open WebUI, and more!
 * 【2025-05-31】[chenzomi12 / aisystem](https://github.com/chenzomi12/aisystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 * 【2025-05-30】[livestorejs / livestore](https://github.com/livestorejs/livestore) - LiveStore is a next\-generation state management framework based on reactive SQLite and built\-in sync engine 
@@ -1173,6 +1174,7 @@
 
 ## Python
 
+* 【2025-06-02】[ivnvxd / arc\-export](https://github.com/ivnvxd/arc-export) - Export pinned Arc Browser tabs for importing bookmarks into other browsers
 * 【2025-05-31】[coleam00 / local-ai-packaged](https://github.com/coleam00/local-ai-packaged) - Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!
 * 【2025-05-31】[GoogleCloudPlatform / agent\-starter\-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) - A collection of production\-ready Generative AI Agent templates built for Google Cloud  It accelerates development by providing a holistic, production\-ready solution, addressing common challenges (Deployment & Operations, Evaluation, Customization, Observability) in building and deploying GenAI agents 
 * 【2025-05-31】[ok-oldking / ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) - 鸣潮 后台自动战斗 自动刷声骸 一键日常 Automation for Wuthering Waves
@@ -4404,6 +4406,7 @@
 
 ## Unknown
 
+* 【2025-06-02】[geerlingguy / mini\-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs 
 * 【2025-06-01】[AlexanderZhou01 / China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
 * 【2025-06-01】[punkpeye / awesome\-mcp\-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients 
 * 【2025-05-31】[AlexanderZhou01 / China\-software\-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
@@ -5010,6 +5013,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-06-02】[rust\-embedded / rust\-raspberrypi\-OS\-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - 📚 Learn to write an embedded OS in Rust 🦀
+* 【2025-06-02】[platformatic / php-node](https://github.com/platformatic/php-node) - PHP HTTP Request handler for Node.js
 * 【2025-06-01】[probe\-rs / probe\-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC\-V targets on a separate host
 * 【2025-06-01】[platformatic / php\-node](https://github.com/platformatic/php-node) - PHP HTTP Request handler for Node js
 * 【2025-05-31】[tari-project / tari](https://github.com/tari-project/tari) - The Tari protocol
@@ -5703,6 +5708,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-06-02】[richardgill / llm\-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
 * 【2025-06-01】[GoogleChromeLabs / squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best\-in\-class codecs, right in the browser 
 * 【2025-06-01】[lukevella / rallly](https://github.com/lukevella/rallly) - Rallly is an open\-source scheduling and collaboration tool designed to make organizing events and meetings easier 
 * 【2025-05-31】[tesseral\-labs / tesseral](https://github.com/tesseral-labs/tesseral) - Open source auth infrastructure for B2B SaaS
