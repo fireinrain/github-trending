@@ -1174,6 +1174,7 @@
 
 ## Python
 
+* 【2025-06-03】[MaiM-with-u / MaiBot](https://github.com/MaiM-with-u/MaiBot) - 麦麦bot，一款专注于 群组聊天 的赛博网友（比较专注）多平台智能体
 * 【2025-06-02】[ivnvxd / arc\-export](https://github.com/ivnvxd/arc-export) - Export pinned Arc Browser tabs for importing bookmarks into other browsers
 * 【2025-05-31】[coleam00 / local-ai-packaged](https://github.com/coleam00/local-ai-packaged) - Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!
 * 【2025-05-31】[GoogleCloudPlatform / agent\-starter\-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) - A collection of production\-ready Generative AI Agent templates built for Google Cloud  It accelerates development by providing a holistic, production\-ready solution, addressing common challenges (Deployment & Operations, Evaluation, Customization, Observability) in building and deploying GenAI agents 
@@ -2080,6 +2081,7 @@
 
 ## Javascript
 
+* 【2025-06-03】[google\-ai\-edge / model\-explorer](https://github.com/google-ai-edge/model-explorer) - A modern model graph visualizer and debugger
 * 【2025-06-01】[netbymatt / ws4kp](https://github.com/netbymatt/ws4kp) - A web\-based WeatherStar 4000
 * 【2025-06-01】[its-a-feature / Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
 * 【2025-05-29】[json-schema-org / json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
@@ -2548,6 +2550,7 @@
 
 ## Go
 
+* 【2025-06-03】[dagu\-org / dagu](https://github.com/dagu-org/dagu) - A compact, portable, and language\-agnostic workflow engine  It aims to solve greater problems 
 * 【2025-05-31】[manusa / kubernetes-mcp-server](https://github.com/manusa/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 * 【2025-05-31】[krillinai / KlicStudio](https://github.com/krillinai/KlicStudio) - A video translation and dubbing tool powered by LLMs, offering professional\-grade translations and one\-click full\-process deployment  It can generate content optimized for platforms like YouTube，TikTok, and Shorts  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 * 【2025-05-30】[NVIDIA / KAI\-Scheduler](https://github.com/NVIDIA/KAI-Scheduler) - KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
@@ -3248,6 +3251,7 @@
 
 ## C++
 
+* 【2025-06-03】[ikawrakow / ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
 * 【2025-06-01】[su2code / SU2](https://github.com/su2code/SU2) - SU2: An Open\-Source Suite for Multiphysics Simulation and Design
 * 【2025-05-28】[Slicer / Slicer](https://github.com/Slicer/Slicer) - Multi\-platform, free open source software for visualization and image computing 
 * 【2025-05-24】[google-ai-edge / LiteRT](https://github.com/google-ai-edge/LiteRT) - LiteRT is the new name for TensorFlow Lite (TFLite). While the name is new, it's still the same trusted, high-performance runtime for on-device AI, now with an expanded vision.
@@ -3577,6 +3581,9 @@
 
 ## C#
 
+* 【2025-06-03】[iiDk\-the\-actual / iis Stupid Menu](https://github.com/iiDk-the-actual/iis.Stupid.Menu) - A mod menu for Gorilla Tag with over 800+ mods
+* 【2025-06-03】[RMC\-14 / RMC\-14](https://github.com/RMC-14/RMC-14) - RMC\-14 is an asymmetric PvP game that runs on Robust Toolbox 
+* 【2025-06-03】[intro-skipper / intro-skipper](https://github.com/intro-skipper/intro-skipper) - Automatically detect and skip intro/credit sequences in Jellyfin
 * 【2025-06-01】[oculus\-samples / Unity\-PassthroughCameraApiSamples](https://github.com/oculus-samples/Unity-PassthroughCameraApiSamples) - A Sample Project for Passthrough Camera API in Unity 
 * 【2025-06-01】[huynhsontung / Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC\-based media player for the Universal Windows Platform
 * 【2025-05-29】[MicrosoftDocs / windows-dev-docs](https://github.com/MicrosoftDocs/windows-dev-docs) - Conceptual and overview content for developing Windows apps
@@ -5013,6 +5020,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-06-03】[yujqiao / rathole](https://github.com/yujqiao/rathole) - A lightweight and high\-performance reverse proxy for NAT traversal, written in Rust  An alternative to frp and ngrok 
 * 【2025-06-02】[rust\-embedded / rust\-raspberrypi\-OS\-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - 📚 Learn to write an embedded OS in Rust 🦀
 * 【2025-06-02】[platformatic / php-node](https://github.com/platformatic/php-node) - PHP HTTP Request handler for Node.js
 * 【2025-06-01】[probe\-rs / probe\-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC\-V targets on a separate host
@@ -5708,6 +5716,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-06-03】[fmhy / edit](https://github.com/fmhy/edit) - Make changes to FMHY
 * 【2025-06-02】[richardgill / llm\-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
 * 【2025-06-01】[GoogleChromeLabs / squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best\-in\-class codecs, right in the browser 
 * 【2025-06-01】[lukevella / rallly](https://github.com/lukevella/rallly) - Rallly is an open\-source scheduling and collaboration tool designed to make organizing events and meetings easier 
