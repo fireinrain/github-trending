@@ -876,6 +876,7 @@
 
 ## Java
 
+* 【2025-06-05】[joey\-zhou / xiaozhi\-esp32\-server\-java](https://github.com/joey-zhou/xiaozhi-esp32-server-java) - 小智ESP32的Java企业级管理平台，提供设备监控、音色定制、角色切换和对话记录管理的前后端及服务端一体化解决方案
 * 【2025-06-01】[openmrs / openmrs-core](https://github.com/openmrs/openmrs-core) - OpenMRS API and web application code
 * 【2025-05-27】[boricj / ghidra\-delinker\-extension](https://github.com/boricj/ghidra-delinker-extension) - Ghidra extension for exporting relocatable object files
 * 【2025-05-19】[adityachandelgit / BookLore](https://github.com/adityachandelgit/BookLore) - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats 
@@ -1174,6 +1175,8 @@
 
 ## Python
 
+* 【2025-06-05】[conda / conda](https://github.com/conda/conda) - A system\-level, binary package and environment manager running on all major operating systems and platforms 
+* 【2025-06-05】[mit\-han\-lab / nunchaku](https://github.com/mit-han-lab/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low\-Rank Components for 4\-Bit Diffusion Models
 * 【2025-06-04】[mofeng\-git / One\-KVM](https://github.com/mofeng-git/One-KVM) - One\-KVM 是基于廉价计算机硬件和 PiKVM 软件二次开发的 BIOS 级远程控制项目。
 * 【2025-06-04】[6tail / lunar-python](https://github.com/6tail/lunar-python) - 日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.
 * 【2025-06-03】[MaiM-with-u / MaiBot](https://github.com/MaiM-with-u/MaiBot) - 麦麦bot，一款专注于 群组聊天 的赛博网友（比较专注）多平台智能体
@@ -2083,6 +2086,8 @@
 
 ## Javascript
 
+* 【2025-06-05】[DevLARLEY / WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension\-based proxy for Widevine EME challenges and license messages  Modifies the challenge before it reaches the web player  Bypasses Hashes, one\-time\-tokens and license wrapping 
+* 【2025-06-05】[ConardLi / easy\-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine\-tuning datasets for LLM
 * 【2025-06-04】[einaregilsson / Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite 
 * 【2025-06-03】[google\-ai\-edge / model\-explorer](https://github.com/google-ai-edge/model-explorer) - A modern model graph visualizer and debugger
 * 【2025-06-01】[netbymatt / ws4kp](https://github.com/netbymatt/ws4kp) - A web\-based WeatherStar 4000
@@ -3255,6 +3260,7 @@
 
 ## C++
 
+* 【2025-06-05】[thorvg / thorvg](https://github.com/thorvg/thorvg) - Thor Vector Graphics is a lightweight portable library used for drawing vector\-based scenes and animations including SVG and Lottie  It can be freely utilized across various software platforms and applications to visualize graphical contents 
 * 【2025-06-03】[ikawrakow / ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
 * 【2025-06-01】[su2code / SU2](https://github.com/su2code/SU2) - SU2: An Open\-Source Suite for Multiphysics Simulation and Design
 * 【2025-05-28】[Slicer / Slicer](https://github.com/Slicer/Slicer) - Multi\-platform, free open source software for visualization and image computing 
@@ -5024,6 +5030,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-06-05】[picahq / pica](https://github.com/picahq/pica) - The Complete Agentic Tooling Platform
+* 【2025-06-05】[cocoindex\-io / cocoindex](https://github.com/cocoindex-io/cocoindex) - Real\-time data transformation framework for AI  Ultra performant, with incremental processing 
+* 【2025-06-05】[ai\-dynamo / dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 * 【2025-06-03】[yujqiao / rathole](https://github.com/yujqiao/rathole) - A lightweight and high\-performance reverse proxy for NAT traversal, written in Rust  An alternative to frp and ngrok 
 * 【2025-06-02】[rust\-embedded / rust\-raspberrypi\-OS\-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - 📚 Learn to write an embedded OS in Rust 🦀
 * 【2025-06-02】[platformatic / php-node](https://github.com/platformatic/php-node) - PHP HTTP Request handler for Node.js
@@ -5720,6 +5729,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-06-05】[vercel / next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
+* 【2025-06-05】[modelcontextprotocol / inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 * 【2025-06-04】[vercel / next\-forge](https://github.com/vercel/next-forge) - Production\-grade Turborepo template for Next js apps 
 * 【2025-06-03】[fmhy / edit](https://github.com/fmhy/edit) - Make changes to FMHY
 * 【2025-06-02】[richardgill / llm\-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
