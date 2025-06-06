@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-06-06】[iamgio / quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to presentations, articles and books 
+* 【2025-06-06】[topoteretes / cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 5 lines of code
+* 【2025-06-06】[modelcontextprotocol / ruby\-sdk](https://github.com/modelcontextprotocol/ruby-sdk) - The official Ruby SDK for the Model Context Protocol  Maintained in collaboration with Shopify 
 * 【2025-06-02】[googleapis / go-genai](https://github.com/googleapis/go-genai) - Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.
 * 【2025-05-31】[coleam00 / local\-ai\-packaged](https://github.com/coleam00/local-ai-packaged) - Run all your local AI together in one package \- Ollama, Supabase, n8n, Open WebUI, and more!
 * 【2025-05-31】[chenzomi12 / aisystem](https://github.com/chenzomi12/aisystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
@@ -876,6 +879,8 @@
 
 ## Java
 
+* 【2025-06-06】[joey-zhou / xiaozhi-esp32-server-java](https://github.com/joey-zhou/xiaozhi-esp32-server-java) - 小智ESP32的Java企业级管理平台，提供设备监控、音色定制、角色切换和对话记录管理的前后端及服务端一体化解决方案
+* 【2025-06-06】[apache / fory](https://github.com/apache/fory) - A blazingly fast multi\-language serialization framework powered by JIT and zero\-copy 
 * 【2025-06-05】[joey\-zhou / xiaozhi\-esp32\-server\-java](https://github.com/joey-zhou/xiaozhi-esp32-server-java) - 小智ESP32的Java企业级管理平台，提供设备监控、音色定制、角色切换和对话记录管理的前后端及服务端一体化解决方案
 * 【2025-06-01】[openmrs / openmrs-core](https://github.com/openmrs/openmrs-core) - OpenMRS API and web application code
 * 【2025-05-27】[boricj / ghidra\-delinker\-extension](https://github.com/boricj/ghidra-delinker-extension) - Ghidra extension for exporting relocatable object files
@@ -1175,6 +1180,8 @@
 
 ## Python
 
+* 【2025-06-06】[LMCache / LMCache](https://github.com/LMCache/LMCache) - Redis for LLMs
+* 【2025-06-06】[HKUDS / AutoAgent](https://github.com/HKUDS/AutoAgent) - "AutoAgent: Fully\-Automated and Zero\-Code LLM Agent Framework"
 * 【2025-06-05】[conda / conda](https://github.com/conda/conda) - A system\-level, binary package and environment manager running on all major operating systems and platforms 
 * 【2025-06-05】[mit\-han\-lab / nunchaku](https://github.com/mit-han-lab/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low\-Rank Components for 4\-Bit Diffusion Models
 * 【2025-06-04】[mofeng\-git / One\-KVM](https://github.com/mofeng-git/One-KVM) - One\-KVM 是基于廉价计算机硬件和 PiKVM 软件二次开发的 BIOS 级远程控制项目。
@@ -2086,6 +2093,7 @@
 
 ## Javascript
 
+* 【2025-06-06】[ConardLi / easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
 * 【2025-06-05】[DevLARLEY / WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension\-based proxy for Widevine EME challenges and license messages  Modifies the challenge before it reaches the web player  Bypasses Hashes, one\-time\-tokens and license wrapping 
 * 【2025-06-05】[ConardLi / easy\-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine\-tuning datasets for LLM
 * 【2025-06-04】[einaregilsson / Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite 
@@ -3260,6 +3268,7 @@
 
 ## C++
 
+* 【2025-06-06】[unitreerobotics / unitree_sdk2](https://github.com/unitreerobotics/unitree_sdk2) - Unitree robot sdk version 2  https://support unitree com/home/zh/developer
 * 【2025-06-05】[thorvg / thorvg](https://github.com/thorvg/thorvg) - Thor Vector Graphics is a lightweight portable library used for drawing vector\-based scenes and animations including SVG and Lottie  It can be freely utilized across various software platforms and applications to visualize graphical contents 
 * 【2025-06-03】[ikawrakow / ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
 * 【2025-06-01】[su2code / SU2](https://github.com/su2code/SU2) - SU2: An Open\-Source Suite for Multiphysics Simulation and Design
@@ -3591,6 +3600,7 @@
 
 ## C#
 
+* 【2025-06-06】[UnderminersTeam / UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) - The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!)
 * 【2025-06-03】[iiDk\-the\-actual / iis Stupid Menu](https://github.com/iiDk-the-actual/iis.Stupid.Menu) - A mod menu for Gorilla Tag with over 800+ mods
 * 【2025-06-03】[RMC\-14 / RMC\-14](https://github.com/RMC-14/RMC-14) - RMC\-14 is an asymmetric PvP game that runs on Robust Toolbox 
 * 【2025-06-03】[intro-skipper / intro-skipper](https://github.com/intro-skipper/intro-skipper) - Automatically detect and skip intro/credit sequences in Jellyfin
@@ -5030,6 +5040,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-06-06】[cocoindex-io / cocoindex](https://github.com/cocoindex-io/cocoindex) - Real-time data transformation framework for AI. Ultra performant, with incremental processing.
 * 【2025-06-05】[picahq / pica](https://github.com/picahq/pica) - The Complete Agentic Tooling Platform
 * 【2025-06-05】[cocoindex\-io / cocoindex](https://github.com/cocoindex-io/cocoindex) - Real\-time data transformation framework for AI  Ultra performant, with incremental processing 
 * 【2025-06-05】[ai\-dynamo / dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
@@ -5729,6 +5740,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-06-06】[tareqimbasher / NetPad](https://github.com/tareqimbasher/NetPad) - A cross\-platform C\# editor and playground 
 * 【2025-06-05】[vercel / next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
 * 【2025-06-05】[modelcontextprotocol / inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 * 【2025-06-04】[vercel / next\-forge](https://github.com/vercel/next-forge) - Production\-grade Turborepo template for Next js apps 
