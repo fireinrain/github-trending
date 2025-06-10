@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-06-10】[alphacep / vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 * 【2025-06-09】[Daymychen / art-design-pro](https://github.com/Daymychen/art-design-pro) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
 * 【2025-06-08】[DavidHDev / react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
 * 【2025-06-08】[Daymychen / art\-design\-pro](https://github.com/Daymychen/art-design-pro) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus \| vue3 admin \| vue\-admin — focused on user experience and visual design 
@@ -1189,6 +1190,8 @@
 
 ## Python
 
+* 【2025-06-10】[Comfy\-Org / ComfyUI\-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI\-Manager is an extension designed to enhance the usability of ComfyUI  It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI  Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI 
+* 【2025-06-10】[langchain-ai / langmem](https://github.com/langchain-ai/langmem) - 
 * 【2025-06-09】[r\-three / common\-pile](https://github.com/r-three/common-pile) - Code for collecting, processing, and preparing datasets for the Common Pile
 * 【2025-06-09】[langchain\-ai / langmem](https://github.com/langchain-ai/langmem) - 
 * 【2025-06-08】[haris\-musa / excel\-mcp\-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
@@ -2583,6 +2586,7 @@
 
 ## Go
 
+* 【2025-06-10】[akvorado / akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 * 【2025-06-09】[steveiliop56 / tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen 
 * 【2025-06-07】[Glimesh / broadcast\-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box 
 * 【2025-06-03】[dagu\-org / dagu](https://github.com/dagu-org/dagu) - A compact, portable, and language\-agnostic workflow engine  It aims to solve greater problems 
@@ -3985,6 +3989,8 @@
 
 ## Html
 
+* 【2025-06-10】[robiningelbrecht / statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
+* 【2025-06-10】[GetPublii / Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO\-optimized and privacy\-focused websites 
 * 【2025-06-09】[robiningelbrecht / statistics\-for\-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self\-hosted, open\-source dashboard for your Strava data 
 * 【2025-06-07】[TheKing\-OfTime / YandexMusicModClient](https://github.com/TheKing-OfTime/YandexMusicModClient) - Modification for Yandex Music Desktop application to add some features
 * 【2025-05-30】[jonbarron / jonbarron.github.io](https://github.com/jonbarron/jonbarron.github.io) - 
@@ -5768,6 +5774,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-06-10】[diffusionstudio / core](https://github.com/diffusionstudio/core) - The Video Creation Engine: Edit videos with code, featuring the fastest WebCodecs renderer for in\-browser video processing 
+* 【2025-06-10】[supermemoryai / supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory  Extremely fast, scalable, memory API for the AI era 
 * 【2025-06-09】[plait-board / drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 * 【2025-06-08】[plait\-board / drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open\-source whiteboard tool with mind, flowchart, freehand and etc 
 * 【2025-06-07】[remnawave / panel](https://github.com/remnawave/panel) - A powerful proxy management tool, built on top of Xray\-core, with a focus on simplicity and ease of use 
