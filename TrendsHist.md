@@ -1190,6 +1190,8 @@
 
 ## Python
 
+* 【2025-06-11】[confident\-ai / deepteam](https://github.com/confident-ai/deepteam) - The LLM Red Teaming Framework
+* 【2025-06-11】[canopyai / Orpheus\-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human\-Sounding Speech
 * 【2025-06-10】[Comfy\-Org / ComfyUI\-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI\-Manager is an extension designed to enhance the usability of ComfyUI  It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI  Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI 
 * 【2025-06-10】[langchain-ai / langmem](https://github.com/langchain-ai/langmem) - 
 * 【2025-06-09】[r\-three / common\-pile](https://github.com/r-three/common-pile) - Code for collecting, processing, and preparing datasets for the Common Pile
@@ -2110,6 +2112,7 @@
 
 ## Javascript
 
+* 【2025-06-11】[adrianhajdin / react\-movies](https://github.com/adrianhajdin/react-movies) - Dive straight into React—from basic JSX to advanced hooks—and build a real, modern app in this hands\-on crash course!
 * 【2025-06-09】[eyaltoledano / claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 * 【2025-06-08】[eyaltoledano / claude\-task\-master](https://github.com/eyaltoledano/claude-task-master) - An AI\-powered task\-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others 
 * 【2025-06-07】[sebastiancarlos / beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - 🏝️ A CLI tool to replace and automate your daily web browser 
@@ -3291,6 +3294,7 @@
 
 ## C++
 
+* 【2025-06-11】[gabrielsoule / resonarium](https://github.com/gabrielsoule/resonarium) - An expressive, semi\-modular, and comprehensive physical modeling/waveguide synthesizer 
 * 【2025-06-09】[wjakob / instant\-meshes](https://github.com/wjakob/instant-meshes) - Interactive field\-aligned mesh generator
 * 【2025-06-07】[kvcache\-ai / Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI 
 * 【2025-06-07】[YuriSizuku / OnscripterYuri](https://github.com/YuriSizuku/OnscripterYuri) - An enhancement ONScripter project porting to many platforms, especially web 
@@ -3989,6 +3993,7 @@
 
 ## Html
 
+* 【2025-06-11】[lowcoder\-org / lowcoder](https://github.com/lowcoder-org/lowcoder) - 🔥 🔥 🔥 The Open Source Retool, Tooljet and Appsmith Alternative
 * 【2025-06-10】[robiningelbrecht / statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
 * 【2025-06-10】[GetPublii / Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO\-optimized and privacy\-focused websites 
 * 【2025-06-09】[robiningelbrecht / statistics\-for\-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self\-hosted, open\-source dashboard for your Strava data 
@@ -5073,6 +5078,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-06-11】[brave / adblock\-rust](https://github.com/brave/adblock-rust) - Brave's Rust\-based adblock engine
 * 【2025-06-07】[ai-dynamo / dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 * 【2025-06-06】[cocoindex-io / cocoindex](https://github.com/cocoindex-io/cocoindex) - Real-time data transformation framework for AI. Ultra performant, with incremental processing.
 * 【2025-06-05】[picahq / pica](https://github.com/picahq/pica) - The Complete Agentic Tooling Platform
@@ -5774,6 +5780,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-06-11】[NaoTu / DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) - 桌面版脑图 (百度脑图离线版，思维导图) 跨平台支持 Windows/Linux/Mac OS  (A cross\-platform multilingual Mind Map Tool)
+* 【2025-06-11】[supermemoryai / apple\-mcp](https://github.com/supermemoryai/apple-mcp) - Collection of apple\-native tools for the model context protocol 
 * 【2025-06-10】[diffusionstudio / core](https://github.com/diffusionstudio/core) - The Video Creation Engine: Edit videos with code, featuring the fastest WebCodecs renderer for in\-browser video processing 
 * 【2025-06-10】[supermemoryai / supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory  Extremely fast, scalable, memory API for the AI era 
 * 【2025-06-09】[plait-board / drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
