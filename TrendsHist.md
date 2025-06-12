@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-06-12】[jdepoix / youtube\-transcript\-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video  It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
 * 【2025-06-10】[alphacep / vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 * 【2025-06-09】[Daymychen / art-design-pro](https://github.com/Daymychen/art-design-pro) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
 * 【2025-06-08】[DavidHDev / react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
@@ -1190,6 +1191,9 @@
 
 ## Python
 
+* 【2025-06-12】[jdepoix / youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
+* 【2025-06-12】[openai / openai\-agents\-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi\-agent workflows
+* 【2025-06-12】[vllm-project / vllm-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Ascend
 * 【2025-06-11】[confident\-ai / deepteam](https://github.com/confident-ai/deepteam) - The LLM Red Teaming Framework
 * 【2025-06-11】[canopyai / Orpheus\-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human\-Sounding Speech
 * 【2025-06-10】[Comfy\-Org / ComfyUI\-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI\-Manager is an extension designed to enhance the usability of ComfyUI  It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI  Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI 
@@ -2112,6 +2116,7 @@
 
 ## Javascript
 
+* 【2025-06-12】[ruvnet / rUv\-dev](https://github.com/ruvnet/rUv-dev) - Ai power Dev using the rUv approach
 * 【2025-06-11】[adrianhajdin / react\-movies](https://github.com/adrianhajdin/react-movies) - Dive straight into React—from basic JSX to advanced hooks—and build a real, modern app in this hands\-on crash course!
 * 【2025-06-09】[eyaltoledano / claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 * 【2025-06-08】[eyaltoledano / claude\-task\-master](https://github.com/eyaltoledano/claude-task-master) - An AI\-powered task\-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others 
@@ -2957,6 +2962,8 @@
 
 ## C
 
+* 【2025-06-12】[aws / pgactive](https://github.com/aws/pgactive) - 
+* 【2025-06-12】[glouw / ctl](https://github.com/glouw/ctl) - The C Template Library
 * 【2025-06-04】[mrexodia / TitanHide](https://github.com/mrexodia/TitanHide) - Hiding kernel\-driver for x86/x64 
 * 【2025-05-29】[FlyGoat / csmwrap](https://github.com/FlyGoat/csmwrap) - Get PC BIOS back on UEFI only system
 * 【2025-05-25】[vanilla-wiiu / vanilla](https://github.com/vanilla-wiiu/vanilla) - 
@@ -3294,6 +3301,7 @@
 
 ## C++
 
+* 【2025-06-12】[ml\-explore / mlx\-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 * 【2025-06-11】[gabrielsoule / resonarium](https://github.com/gabrielsoule/resonarium) - An expressive, semi\-modular, and comprehensive physical modeling/waveguide synthesizer 
 * 【2025-06-09】[wjakob / instant\-meshes](https://github.com/wjakob/instant-meshes) - Interactive field\-aligned mesh generator
 * 【2025-06-07】[kvcache\-ai / Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI 
@@ -3631,6 +3639,8 @@
 
 ## C#
 
+* 【2025-06-12】[umlx5h / LLPlayer](https://github.com/umlx5h/LLPlayer) - The media player for language learning, with dual subtitles, AI\-generated subtitles, real\-time translation, and more!
+* 【2025-06-12】[InvisibleManVPN / InvisibleMan-XRayClient](https://github.com/InvisibleManVPN/InvisibleMan-XRayClient) - A client for xray core
 * 【2025-06-08】[SteveDunn / Vogen](https://github.com/SteveDunn/Vogen) - A semi\-opinionated library which is a source generator and a code analyser  It Source generates Value Objects
 * 【2025-06-07】[kangyu-california / PersistentWindows](https://github.com/kangyu-california/PersistentWindows) - fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update
 * 【2025-06-06】[UnderminersTeam / UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) - The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!)
@@ -3993,6 +4003,7 @@
 
 ## Html
 
+* 【2025-06-12】[novitechie / jetbra](https://github.com/novitechie/jetbra) - 
 * 【2025-06-11】[lowcoder\-org / lowcoder](https://github.com/lowcoder-org/lowcoder) - 🔥 🔥 🔥 The Open Source Retool, Tooljet and Appsmith Alternative
 * 【2025-06-10】[robiningelbrecht / statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
 * 【2025-06-10】[GetPublii / Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO\-optimized and privacy\-focused websites 
@@ -5078,6 +5089,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-06-12】[theopfr / somo](https://github.com/theopfr/somo) - A human\-friendly alternative to netstat for socket and port monitoring on Linux 
 * 【2025-06-11】[brave / adblock\-rust](https://github.com/brave/adblock-rust) - Brave's Rust\-based adblock engine
 * 【2025-06-07】[ai-dynamo / dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 * 【2025-06-06】[cocoindex-io / cocoindex](https://github.com/cocoindex-io/cocoindex) - Real-time data transformation framework for AI. Ultra performant, with incremental processing.
@@ -5780,6 +5792,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-06-12】[clauderic / dnd\-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React 
+* 【2025-06-12】[supermemoryai / apple-mcp](https://github.com/supermemoryai/apple-mcp) - Collection of apple-native tools for the model context protocol.
+* 【2025-06-12】[kubeflow / kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
+* 【2025-06-12】[Milkdown / milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG markdown editor framework 
+* 【2025-06-12】[softprops / action-gh-release](https://github.com/softprops/action-gh-release) - 📦 GitHub Action for creating GitHub Releases
 * 【2025-06-11】[NaoTu / DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) - 桌面版脑图 (百度脑图离线版，思维导图) 跨平台支持 Windows/Linux/Mac OS  (A cross\-platform multilingual Mind Map Tool)
 * 【2025-06-11】[supermemoryai / apple\-mcp](https://github.com/supermemoryai/apple-mcp) - Collection of apple\-native tools for the model context protocol 
 * 【2025-06-10】[diffusionstudio / core](https://github.com/diffusionstudio/core) - The Video Creation Engine: Edit videos with code, featuring the fastest WebCodecs renderer for in\-browser video processing 
