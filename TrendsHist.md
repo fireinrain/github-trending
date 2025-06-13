@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-06-13】[xiangechen / chili3d](https://github.com/xiangechen/chili3d) - A web\-based 3D CAD application for online model design and editing
+* 【2025-06-13】[FareedKhan\-dev / all\-rag\-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) - Implementation of all RAG techniques in a simpler way
 * 【2025-06-12】[jdepoix / youtube\-transcript\-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video  It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
 * 【2025-06-10】[alphacep / vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 * 【2025-06-09】[Daymychen / art-design-pro](https://github.com/Daymychen/art-design-pro) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
@@ -2116,6 +2118,7 @@
 
 ## Javascript
 
+* 【2025-06-13】[volcengine / ai-app-lab](https://github.com/volcengine/ai-app-lab) - 
 * 【2025-06-12】[ruvnet / rUv\-dev](https://github.com/ruvnet/rUv-dev) - Ai power Dev using the rUv approach
 * 【2025-06-11】[adrianhajdin / react\-movies](https://github.com/adrianhajdin/react-movies) - Dive straight into React—from basic JSX to advanced hooks—and build a real, modern app in this hands\-on crash course!
 * 【2025-06-09】[eyaltoledano / claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
@@ -2594,6 +2597,7 @@
 
 ## Go
 
+* 【2025-06-13】[gtsteffaniak / filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 * 【2025-06-10】[akvorado / akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 * 【2025-06-09】[steveiliop56 / tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen 
 * 【2025-06-07】[Glimesh / broadcast\-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box 
@@ -3301,6 +3305,8 @@
 
 ## C++
 
+* 【2025-06-13】[ml-explore / mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
+* 【2025-06-13】[kvcache-ai / Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
 * 【2025-06-12】[ml\-explore / mlx\-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 * 【2025-06-11】[gabrielsoule / resonarium](https://github.com/gabrielsoule/resonarium) - An expressive, semi\-modular, and comprehensive physical modeling/waveguide synthesizer 
 * 【2025-06-09】[wjakob / instant\-meshes](https://github.com/wjakob/instant-meshes) - Interactive field\-aligned mesh generator
@@ -3639,6 +3645,7 @@
 
 ## C#
 
+* 【2025-06-13】[not\-nullptr / Aerochat](https://github.com/not-nullptr/Aerochat) - Native rewrite of Aerochat, a WLM 09 themed Discord client
 * 【2025-06-12】[umlx5h / LLPlayer](https://github.com/umlx5h/LLPlayer) - The media player for language learning, with dual subtitles, AI\-generated subtitles, real\-time translation, and more!
 * 【2025-06-12】[InvisibleManVPN / InvisibleMan-XRayClient](https://github.com/InvisibleManVPN/InvisibleMan-XRayClient) - A client for xray core
 * 【2025-06-08】[SteveDunn / Vogen](https://github.com/SteveDunn/Vogen) - A semi\-opinionated library which is a source generator and a code analyser  It Source generates Value Objects
@@ -5089,6 +5096,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-06-13】[garyttierney / me3](https://github.com/garyttierney/me3) - A framework for modding and instrumenting games 
 * 【2025-06-12】[theopfr / somo](https://github.com/theopfr/somo) - A human\-friendly alternative to netstat for socket and port monitoring on Linux 
 * 【2025-06-11】[brave / adblock\-rust](https://github.com/brave/adblock-rust) - Brave's Rust\-based adblock engine
 * 【2025-06-07】[ai-dynamo / dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
@@ -5792,6 +5800,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-06-13】[leonardsellem / n8n\-mcp\-server](https://github.com/leonardsellem/n8n-mcp-server) - MCP server that provides tools and resources for interacting with n8n API
 * 【2025-06-12】[clauderic / dnd\-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React 
 * 【2025-06-12】[supermemoryai / apple-mcp](https://github.com/supermemoryai/apple-mcp) - Collection of apple-native tools for the model context protocol.
 * 【2025-06-12】[kubeflow / kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
