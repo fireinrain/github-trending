@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-06-14】[FareedKhan-dev / all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) - Implementation of all RAG techniques in a simpler way
 * 【2025-06-13】[xiangechen / chili3d](https://github.com/xiangechen/chili3d) - A web\-based 3D CAD application for online model design and editing
 * 【2025-06-13】[FareedKhan\-dev / all\-rag\-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) - Implementation of all RAG techniques in a simpler way
 * 【2025-06-12】[jdepoix / youtube\-transcript\-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video  It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
@@ -2597,6 +2598,7 @@
 
 ## Go
 
+* 【2025-06-14】[cloudreve / cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self\-hosted file management and sharing system, supports multiple storage providers
 * 【2025-06-13】[gtsteffaniak / filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 * 【2025-06-10】[akvorado / akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 * 【2025-06-09】[steveiliop56 / tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen 
@@ -2966,6 +2968,7 @@
 
 ## C
 
+* 【2025-06-14】[PostHog / DeskHog](https://github.com/PostHog/DeskHog) - A friend for your desk, a dedicated terminal for numbers
 * 【2025-06-12】[aws / pgactive](https://github.com/aws/pgactive) - 
 * 【2025-06-12】[glouw / ctl](https://github.com/glouw/ctl) - The C Template Library
 * 【2025-06-04】[mrexodia / TitanHide](https://github.com/mrexodia/TitanHide) - Hiding kernel\-driver for x86/x64 
@@ -3645,6 +3648,7 @@
 
 ## C#
 
+* 【2025-06-14】[not-nullptr / Aerochat](https://github.com/not-nullptr/Aerochat) - Native rewrite of Aerochat, a WLM 09 themed Discord client
 * 【2025-06-13】[not\-nullptr / Aerochat](https://github.com/not-nullptr/Aerochat) - Native rewrite of Aerochat, a WLM 09 themed Discord client
 * 【2025-06-12】[umlx5h / LLPlayer](https://github.com/umlx5h/LLPlayer) - The media player for language learning, with dual subtitles, AI\-generated subtitles, real\-time translation, and more!
 * 【2025-06-12】[InvisibleManVPN / InvisibleMan-XRayClient](https://github.com/InvisibleManVPN/InvisibleMan-XRayClient) - A client for xray core
@@ -5800,6 +5804,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-06-14】[leonardsellem / n8n-mcp-server](https://github.com/leonardsellem/n8n-mcp-server) - MCP server that provides tools and resources for interacting with n8n API
 * 【2025-06-13】[leonardsellem / n8n\-mcp\-server](https://github.com/leonardsellem/n8n-mcp-server) - MCP server that provides tools and resources for interacting with n8n API
 * 【2025-06-12】[clauderic / dnd\-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React 
 * 【2025-06-12】[supermemoryai / apple-mcp](https://github.com/supermemoryai/apple-mcp) - Collection of apple-native tools for the model context protocol.
