@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-06-18】[deepseek\-ai / DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert\-parallel communication library
 * 【2025-06-14】[FareedKhan-dev / all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) - Implementation of all RAG techniques in a simpler way
 * 【2025-06-13】[xiangechen / chili3d](https://github.com/xiangechen/chili3d) - A web\-based 3D CAD application for online model design and editing
 * 【2025-06-13】[FareedKhan\-dev / all\-rag\-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) - Implementation of all RAG techniques in a simpler way
@@ -1195,6 +1196,7 @@
 
 ## Python
 
+* 【2025-06-18】[facebookresearch / vggt](https://github.com/facebookresearch/vggt) - [CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
 * 【2025-06-17】[pixeltable / pixeltable](https://github.com/pixeltable/pixeltable) - Pixeltable — AI Data infrastructure providing a declarative, incremental approach for multimodal workloads 
 * 【2025-06-12】[jdepoix / youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
 * 【2025-06-12】[openai / openai\-agents\-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi\-agent workflows
@@ -2121,6 +2123,8 @@
 
 ## Javascript
 
+* 【2025-06-18】[rcourtman / Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring application for Proxmox VE that displays real\-time metrics across multiple nodes
+* 【2025-06-18】[frankmcsherry / blog](https://github.com/frankmcsherry/blog) - Some notes on things I find interesting and important 
 * 【2025-06-13】[volcengine / ai-app-lab](https://github.com/volcengine/ai-app-lab) - 
 * 【2025-06-12】[ruvnet / rUv\-dev](https://github.com/ruvnet/rUv-dev) - Ai power Dev using the rUv approach
 * 【2025-06-11】[adrianhajdin / react\-movies](https://github.com/adrianhajdin/react-movies) - Dive straight into React—from basic JSX to advanced hooks—and build a real, modern app in this hands\-on crash course!
@@ -2600,6 +2604,8 @@
 
 ## Go
 
+* 【2025-06-18】[lejianwen / rustdesk-api](https://github.com/lejianwen/rustdesk-api) - Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login
+* 【2025-06-18】[Musixal / Backhaul](https://github.com/Musixal/Backhaul) - Lightning\-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support 
 * 【2025-06-17】[zachlatta / sshtron](https://github.com/zachlatta/sshtron) - $ ssh sshtron zachlatta com
 * 【2025-06-17】[lovelaze / nebula-sync](https://github.com/lovelaze/nebula-sync) - Synchronize configuration of multiple Pi-hole v6.x instances.
 * 【2025-06-14】[cloudreve / cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self\-hosted file management and sharing system, supports multiple storage providers
@@ -2972,6 +2978,8 @@
 
 ## C
 
+* 【2025-06-18】[espressif / esp-brookesia](https://github.com/espressif/esp-brookesia) - ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.
+* 【2025-06-18】[cosmos72 / twin](https://github.com/cosmos72/twin) - Text mode window environment  A "retro" program for embedded or remote systems, that doubles as X11 terminal and text\-mode equivalent of VNC server
 * 【2025-06-17】[espressif / esp\-brookesia](https://github.com/espressif/esp-brookesia) - ESP\-Brookesia is a human\-machine interaction development framework designed for AIoT devices 
 * 【2025-06-17】[armory3d / armortools](https://github.com/armory3d/armortools) - 3D Content Creation Tools
 * 【2025-06-14】[PostHog / DeskHog](https://github.com/PostHog/DeskHog) - A friend for your desk, a dedicated terminal for numbers
@@ -3314,6 +3322,7 @@
 
 ## C++
 
+* 【2025-06-18】[ai-dynamo / nixl](https://github.com/ai-dynamo/nixl) - NVIDIA Inference Xfer Library (NIXL)
 * 【2025-06-13】[ml-explore / mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 * 【2025-06-13】[kvcache-ai / Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
 * 【2025-06-12】[ml\-explore / mlx\-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
@@ -5107,6 +5116,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-06-18】[jsgroth / jgenesis](https://github.com/jsgroth/jgenesis) - Sega Genesis / Sega CD / SNES / Master System / Game Gear emulator
 * 【2025-06-13】[garyttierney / me3](https://github.com/garyttierney/me3) - A framework for modding and instrumenting games 
 * 【2025-06-12】[theopfr / somo](https://github.com/theopfr/somo) - A human\-friendly alternative to netstat for socket and port monitoring on Linux 
 * 【2025-06-11】[brave / adblock\-rust](https://github.com/brave/adblock-rust) - Brave's Rust\-based adblock engine
@@ -5811,6 +5821,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-06-18】[musistudio / claude\-code\-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic 
 * 【2025-06-17】[Jigsaw-Code / outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
 * 【2025-06-17】[MotiaDev / motia](https://github.com/MotiaDev/motia) - Unified Backend Framework for APIs, Events, and AI Agents
 * 【2025-06-14】[leonardsellem / n8n-mcp-server](https://github.com/leonardsellem/n8n-mcp-server) - MCP server that provides tools and resources for interacting with n8n API
