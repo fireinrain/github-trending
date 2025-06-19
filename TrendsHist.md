@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-06-19】[deepseek-ai / DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
+* 【2025-06-19】[php / frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 * 【2025-06-18】[deepseek\-ai / DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert\-parallel communication library
 * 【2025-06-14】[FareedKhan-dev / all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) - Implementation of all RAG techniques in a simpler way
 * 【2025-06-13】[xiangechen / chili3d](https://github.com/xiangechen/chili3d) - A web\-based 3D CAD application for online model design and editing
@@ -2604,6 +2606,7 @@
 
 ## Go
 
+* 【2025-06-19】[github / github\-mcp\-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 * 【2025-06-18】[lejianwen / rustdesk-api](https://github.com/lejianwen/rustdesk-api) - Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login
 * 【2025-06-18】[Musixal / Backhaul](https://github.com/Musixal/Backhaul) - Lightning\-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support 
 * 【2025-06-17】[zachlatta / sshtron](https://github.com/zachlatta/sshtron) - $ ssh sshtron zachlatta com
@@ -3663,6 +3666,7 @@
 
 ## C#
 
+* 【2025-06-19】[modelcontextprotocol / csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) - The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.
 * 【2025-06-17】[modelcontextprotocol / csharp\-sdk](https://github.com/modelcontextprotocol/csharp-sdk) - The official C\# SDK for Model Context Protocol servers and clients  Maintained in collaboration with Microsoft 
 * 【2025-06-14】[not-nullptr / Aerochat](https://github.com/not-nullptr/Aerochat) - Native rewrite of Aerochat, a WLM 09 themed Discord client
 * 【2025-06-13】[not\-nullptr / Aerochat](https://github.com/not-nullptr/Aerochat) - Native rewrite of Aerochat, a WLM 09 themed Discord client
@@ -4509,6 +4513,7 @@
 
 ## Unknown
 
+* 【2025-06-19】[datawhalechina / happy\-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
 * 【2025-06-02】[geerlingguy / mini\-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs 
 * 【2025-06-01】[AlexanderZhou01 / China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
 * 【2025-06-01】[punkpeye / awesome\-mcp\-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients 
@@ -5821,6 +5826,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-06-19】[marp\-team / marp\-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 * 【2025-06-18】[musistudio / claude\-code\-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic 
 * 【2025-06-17】[Jigsaw-Code / outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
 * 【2025-06-17】[MotiaDev / motia](https://github.com/MotiaDev/motia) - Unified Backend Framework for APIs, Events, and AI Agents
