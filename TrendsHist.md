@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-06-20】[cloudflare / ai](https://github.com/cloudflare/ai) - 
 * 【2025-06-19】[deepseek-ai / DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
 * 【2025-06-19】[php / frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 * 【2025-06-18】[deepseek\-ai / DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert\-parallel communication library
@@ -894,6 +895,7 @@
 
 ## Java
 
+* 【2025-06-20】[pixelsdb / pixels](https://github.com/pixelsdb/pixels) - An efficient storage and compute engine for both on\-prem and cloud\-native data analytics 
 * 【2025-06-17】[guardianproject / orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 * 【2025-06-09】[GeyserMC / Hydraulic](https://github.com/GeyserMC/Hydraulic) - A companion mod to Geyser which allows for Bedrock players to join modded Minecraft: Java Edition servers 
 * 【2025-06-07】[DragonKingpin / Hydra](https://github.com/DragonKingpin/Hydra) - Hydra九头龙，面向PB级别知识库取数、情报系统、数据平台、大规模控制调度系统。建设云计算资源管理、任务/服务统一调度、数仓、微服务化、中台基建系统化能力。——以实现大规模分布式爬虫搜索引擎为例。
@@ -2606,6 +2608,7 @@
 
 ## Go
 
+* 【2025-06-20】[Ingenimax / agent\-sdk\-go](https://github.com/Ingenimax/agent-sdk-go) - 
 * 【2025-06-19】[github / github\-mcp\-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 * 【2025-06-18】[lejianwen / rustdesk-api](https://github.com/lejianwen/rustdesk-api) - Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login
 * 【2025-06-18】[Musixal / Backhaul](https://github.com/Musixal/Backhaul) - Lightning\-fast reverse tunneling solution for NAT traversal, optimized for handling massive concurrent connections with tcp, tcpmux, udp, udp over tcp, ws, wsmux, wss and wssmux support 
@@ -3325,6 +3328,7 @@
 
 ## C++
 
+* 【2025-06-20】[stereolabs / zed\-ros2\-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper for the ZED SDK
 * 【2025-06-18】[ai-dynamo / nixl](https://github.com/ai-dynamo/nixl) - NVIDIA Inference Xfer Library (NIXL)
 * 【2025-06-13】[ml-explore / mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 * 【2025-06-13】[kvcache-ai / Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
@@ -4513,6 +4517,7 @@
 
 ## Unknown
 
+* 【2025-06-20】[Snowflake\-Labs / sf\-samples](https://github.com/Snowflake-Labs/sf-samples) - Sample files, code snippets and downloads for Snowflake labs and tutorials 
 * 【2025-06-19】[datawhalechina / happy\-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
 * 【2025-06-02】[geerlingguy / mini\-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs 
 * 【2025-06-01】[AlexanderZhou01 / China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
