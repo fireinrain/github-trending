@@ -895,6 +895,7 @@
 
 ## Java
 
+* 【2025-06-21】[alibaba / fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real\-time analytics 
 * 【2025-06-20】[pixelsdb / pixels](https://github.com/pixelsdb/pixels) - An efficient storage and compute engine for both on\-prem and cloud\-native data analytics 
 * 【2025-06-17】[guardianproject / orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 * 【2025-06-09】[GeyserMC / Hydraulic](https://github.com/GeyserMC/Hydraulic) - A companion mod to Geyser which allows for Bedrock players to join modded Minecraft: Java Edition servers 
@@ -1200,6 +1201,11 @@
 
 ## Python
 
+* 【2025-06-21】[hiyouga / EasyR1](https://github.com/hiyouga/EasyR1) - EasyR1: An Efficient, Scalable, Multi\-Modality RL Training Framework based on veRL
+* 【2025-06-21】[dottxt\-ai / outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
+* 【2025-06-21】[tadata\-org / fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+* 【2025-06-21】[e\-p\-armstrong / augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Create Custom LLMs
+* 【2025-06-21】[lyuwenyu / RT-DETR](https://github.com/lyuwenyu/RT-DETR) - [CVPR 2024] Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥
 * 【2025-06-18】[facebookresearch / vggt](https://github.com/facebookresearch/vggt) - [CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
 * 【2025-06-17】[pixeltable / pixeltable](https://github.com/pixeltable/pixeltable) - Pixeltable — AI Data infrastructure providing a declarative, incremental approach for multimodal workloads 
 * 【2025-06-12】[jdepoix / youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
@@ -3328,6 +3334,7 @@
 
 ## C++
 
+* 【2025-06-21】[lynx\-family / lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms 
 * 【2025-06-20】[stereolabs / zed\-ros2\-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper for the ZED SDK
 * 【2025-06-18】[ai-dynamo / nixl](https://github.com/ai-dynamo/nixl) - NVIDIA Inference Xfer Library (NIXL)
 * 【2025-06-13】[ml-explore / mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
@@ -3670,6 +3677,7 @@
 
 ## C#
 
+* 【2025-06-21】[CoderGamester / mcp\-unity](https://github.com/CoderGamester/mcp-unity) - Unity plugin for integrating Model Context Protocol (MCP) with the Unity Editor — designed for AI\-assisted development and OpenAI, Gemini and Claude interoperability
 * 【2025-06-19】[modelcontextprotocol / csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) - The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.
 * 【2025-06-17】[modelcontextprotocol / csharp\-sdk](https://github.com/modelcontextprotocol/csharp-sdk) - The official C\# SDK for Model Context Protocol servers and clients  Maintained in collaboration with Microsoft 
 * 【2025-06-14】[not-nullptr / Aerochat](https://github.com/not-nullptr/Aerochat) - Native rewrite of Aerochat, a WLM 09 themed Discord client
