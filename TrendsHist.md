@@ -1201,6 +1201,8 @@
 
 ## Python
 
+* 【2025-06-22】[dottxt-ai / outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
+* 【2025-06-22】[kijai / ComfyUI\-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - 
 * 【2025-06-21】[hiyouga / EasyR1](https://github.com/hiyouga/EasyR1) - EasyR1: An Efficient, Scalable, Multi\-Modality RL Training Framework based on veRL
 * 【2025-06-21】[dottxt\-ai / outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
 * 【2025-06-21】[tadata\-org / fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
@@ -2133,6 +2135,8 @@
 
 ## Javascript
 
+* 【2025-06-22】[franceking1 / Flash\-Md\-V2](https://github.com/franceking1/Flash-Md-V2) - Feel Free To Use FLASH\-MD, Remember To STAR🌟 The Repo before Forking
+* 【2025-06-22】[sonnylazuardi / cursor\-talk\-to\-figma\-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) - Cursor Talk To Figma MCP
 * 【2025-06-18】[rcourtman / Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring application for Proxmox VE that displays real\-time metrics across multiple nodes
 * 【2025-06-18】[frankmcsherry / blog](https://github.com/frankmcsherry/blog) - Some notes on things I find interesting and important 
 * 【2025-06-13】[volcengine / ai-app-lab](https://github.com/volcengine/ai-app-lab) - 
@@ -2614,6 +2618,8 @@
 
 ## Go
 
+* 【2025-06-22】[psviderski / uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts  Bridging the gap between Docker and Kubernetes ✨
+* 【2025-06-22】[Ingenimax / agent-sdk-go](https://github.com/Ingenimax/agent-sdk-go) - 
 * 【2025-06-20】[Ingenimax / agent\-sdk\-go](https://github.com/Ingenimax/agent-sdk-go) - 
 * 【2025-06-19】[github / github\-mcp\-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 * 【2025-06-18】[lejianwen / rustdesk-api](https://github.com/lejianwen/rustdesk-api) - Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login
@@ -3334,6 +3340,8 @@
 
 ## C++
 
+* 【2025-06-22】[mirage-project / mirage](https://github.com/mirage-project/mirage) - Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA
+* 【2025-06-22】[duckdb / ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
 * 【2025-06-21】[lynx\-family / lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms 
 * 【2025-06-20】[stereolabs / zed\-ros2\-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper for the ZED SDK
 * 【2025-06-18】[ai-dynamo / nixl](https://github.com/ai-dynamo/nixl) - NVIDIA Inference Xfer Library (NIXL)
@@ -3677,6 +3685,7 @@
 
 ## C#
 
+* 【2025-06-22】[syncfusion / maui\-toolkit](https://github.com/syncfusion/maui-toolkit) - Syncfusion Toolkit for  NET MAUI offers high\-quality UI controls to help you build rich, high\-performance applications for iOS, Android, macOS, and Windows from a single codebase
 * 【2025-06-21】[CoderGamester / mcp\-unity](https://github.com/CoderGamester/mcp-unity) - Unity plugin for integrating Model Context Protocol (MCP) with the Unity Editor — designed for AI\-assisted development and OpenAI, Gemini and Claude interoperability
 * 【2025-06-19】[modelcontextprotocol / csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) - The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.
 * 【2025-06-17】[modelcontextprotocol / csharp\-sdk](https://github.com/modelcontextprotocol/csharp-sdk) - The official C\# SDK for Model Context Protocol servers and clients  Maintained in collaboration with Microsoft 
@@ -4046,6 +4055,7 @@
 
 ## Html
 
+* 【2025-06-22】[TheKing-OfTime / YandexMusicModClient](https://github.com/TheKing-OfTime/YandexMusicModClient) - Modification for Yandex Music Desktop application to add some features
 * 【2025-06-12】[novitechie / jetbra](https://github.com/novitechie/jetbra) - 
 * 【2025-06-11】[lowcoder\-org / lowcoder](https://github.com/lowcoder-org/lowcoder) - 🔥 🔥 🔥 The Open Source Retool, Tooljet and Appsmith Alternative
 * 【2025-06-10】[robiningelbrecht / statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
@@ -4525,6 +4535,7 @@
 
 ## Unknown
 
+* 【2025-06-22】[x1xhlol / system\-prompts\-and\-models\-of\-ai\-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models 
 * 【2025-06-20】[Snowflake\-Labs / sf\-samples](https://github.com/Snowflake-Labs/sf-samples) - Sample files, code snippets and downloads for Snowflake labs and tutorials 
 * 【2025-06-19】[datawhalechina / happy\-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
 * 【2025-06-02】[geerlingguy / mini\-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs 
@@ -5134,6 +5145,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-06-22】[biliticket / bili_ticket_rush](https://github.com/biliticket/bili_ticket_rush) - 自动抢票软件 CP31 哔哩哔哩 会员购 BW 漫展 脚本 抢票 \|超级简单易用的哔哩哔哩会员购自动抢票工具，基于Rust开发的异步多线程高性能抢票软件。
 * 【2025-06-18】[jsgroth / jgenesis](https://github.com/jsgroth/jgenesis) - Sega Genesis / Sega CD / SNES / Master System / Game Gear emulator
 * 【2025-06-13】[garyttierney / me3](https://github.com/garyttierney/me3) - A framework for modding and instrumenting games 
 * 【2025-06-12】[theopfr / somo](https://github.com/theopfr/somo) - A human\-friendly alternative to netstat for socket and port monitoring on Linux 
@@ -5839,6 +5851,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-06-22】[musistudio / claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * 【2025-06-19】[marp\-team / marp\-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 * 【2025-06-18】[musistudio / claude\-code\-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic 
 * 【2025-06-17】[Jigsaw-Code / outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.
