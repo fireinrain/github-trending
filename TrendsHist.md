@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-06-23】[microsoft / edit](https://github.com/microsoft/edit) - We all edit 
 * 【2025-06-20】[cloudflare / ai](https://github.com/cloudflare/ai) - 
 * 【2025-06-19】[deepseek-ai / DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
 * 【2025-06-19】[php / frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
@@ -1201,6 +1202,7 @@
 
 ## Python
 
+* 【2025-06-23】[kijai / ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - 
 * 【2025-06-22】[dottxt-ai / outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
 * 【2025-06-22】[kijai / ComfyUI\-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - 
 * 【2025-06-21】[hiyouga / EasyR1](https://github.com/hiyouga/EasyR1) - EasyR1: An Efficient, Scalable, Multi\-Modality RL Training Framework based on veRL
@@ -5851,6 +5853,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-06-23】[mui / base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+* 【2025-06-23】[TriliumNext / trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
+* 【2025-06-23】[buxuku / SmartSub](https://github.com/buxuku/SmartSub) - 「妙幕」是一款跨平台客户端工具，可以批量为视频或者音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek 等多家翻译
 * 【2025-06-22】[musistudio / claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * 【2025-06-19】[marp\-team / marp\-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 * 【2025-06-18】[musistudio / claude\-code\-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic 
