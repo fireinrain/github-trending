@@ -1,5 +1,9 @@
 ## All language
 
+* 【2025-06-24】[ghostty\-org / ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature\-rich, and cross\-platform terminal emulator that uses platform\-native UI and GPU acceleration 
+* 【2025-06-24】[x1xhlol / system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
+* 【2025-06-24】[HarbourMasters / SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) - 
+* 【2025-06-24】[isledecomp / isle\-portable](https://github.com/isledecomp/isle-portable) - A portable version of LEGO Island (1997)
 * 【2025-06-23】[microsoft / edit](https://github.com/microsoft/edit) - We all edit 
 * 【2025-06-20】[cloudflare / ai](https://github.com/cloudflare/ai) - 
 * 【2025-06-19】[deepseek-ai / DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
@@ -896,6 +900,7 @@
 
 ## Java
 
+* 【2025-06-24】[mafik / echo](https://github.com/mafik/echo) - Time travelling recorder for Android 
 * 【2025-06-21】[alibaba / fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real\-time analytics 
 * 【2025-06-20】[pixelsdb / pixels](https://github.com/pixelsdb/pixels) - An efficient storage and compute engine for both on\-prem and cloud\-native data analytics 
 * 【2025-06-17】[guardianproject / orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
@@ -1202,6 +1207,7 @@
 
 ## Python
 
+* 【2025-06-24】[subzeroid / instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2025 with HikerAPI SaaS
 * 【2025-06-23】[kijai / ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - 
 * 【2025-06-22】[dottxt-ai / outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
 * 【2025-06-22】[kijai / ComfyUI\-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - 
@@ -2620,6 +2626,7 @@
 
 ## Go
 
+* 【2025-06-24】[kitops\-ml / kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact 
 * 【2025-06-22】[psviderski / uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts  Bridging the gap between Docker and Kubernetes ✨
 * 【2025-06-22】[Ingenimax / agent-sdk-go](https://github.com/Ingenimax/agent-sdk-go) - 
 * 【2025-06-20】[Ingenimax / agent\-sdk\-go](https://github.com/Ingenimax/agent-sdk-go) - 
@@ -3342,6 +3349,7 @@
 
 ## C++
 
+* 【2025-06-24】[isledecomp / isle-portable](https://github.com/isledecomp/isle-portable) - A portable version of LEGO Island (1997)
 * 【2025-06-22】[mirage-project / mirage](https://github.com/mirage-project/mirage) - Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA
 * 【2025-06-22】[duckdb / ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
 * 【2025-06-21】[lynx\-family / lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms 
@@ -5853,6 +5861,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-06-24】[TriliumNext / Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
+* 【2025-06-24】[antiwork / helper](https://github.com/antiwork/helper) - Customer support agents
 * 【2025-06-23】[mui / base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
 * 【2025-06-23】[TriliumNext / trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 * 【2025-06-23】[buxuku / SmartSub](https://github.com/buxuku/SmartSub) - 「妙幕」是一款跨平台客户端工具，可以批量为视频或者音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek 等多家翻译
