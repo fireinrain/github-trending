@@ -900,6 +900,7 @@
 
 ## Java
 
+* 【2025-06-25】[Winds\-Studio / Leaf](https://github.com/Winds-Studio/Leaf) - A Paper fork aim to find balance between performance, vanilla and stability
 * 【2025-06-24】[mafik / echo](https://github.com/mafik/echo) - Time travelling recorder for Android 
 * 【2025-06-21】[alibaba / fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real\-time analytics 
 * 【2025-06-20】[pixelsdb / pixels](https://github.com/pixelsdb/pixels) - An efficient storage and compute engine for both on\-prem and cloud\-native data analytics 
@@ -1207,6 +1208,10 @@
 
 ## Python
 
+* 【2025-06-25】[openai / openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
+* 【2025-06-25】[Epodonios / v2ray\-configs](https://github.com/Epodonios/v2ray-configs) - Free vless\-vmess\-shadowsocks\-trojan\-xray\-V2ray Configs Updating Every 5 minutes
+* 【2025-06-25】[LeCAR\-Lab / ASAP](https://github.com/LeCAR-Lab/ASAP) - Official implementation of "ASAP: Aligning Simulation and Real\-World Physics for Learning Agile Humanoid Whole\-Body Skills"
+* 【2025-06-25】[dendenxu / fast\-gaussian\-rasterization](https://github.com/dendenxu/fast-gaussian-rasterization) - A geometry\-shader\-based, global CUDA sorted high\-performance 3D Gaussian Splatting rasterizer  Can achieve a 5\-10x speedup in rendering compared to the vanialla diff\-gaussian\-rasterization 
 * 【2025-06-24】[subzeroid / instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2025 with HikerAPI SaaS
 * 【2025-06-23】[kijai / ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - 
 * 【2025-06-22】[dottxt-ai / outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
@@ -2626,6 +2631,7 @@
 
 ## Go
 
+* 【2025-06-25】[weibaohui / k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
 * 【2025-06-24】[kitops\-ml / kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact 
 * 【2025-06-22】[psviderski / uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts  Bridging the gap between Docker and Kubernetes ✨
 * 【2025-06-22】[Ingenimax / agent-sdk-go](https://github.com/Ingenimax/agent-sdk-go) - 
@@ -5155,6 +5161,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-06-25】[c12i / bunge\-bits](https://github.com/c12i/bunge-bits) - Bunge Bits provides convenient summaries of Kenyan National Assembly and Senate sittings, making legislative information more accessible and digestible 
+* 【2025-06-25】[0x676e67 / rnet](https://github.com/0x676e67/rnet) - A blazing\-fast Python HTTP Client with TLS fingerprint
 * 【2025-06-22】[biliticket / bili_ticket_rush](https://github.com/biliticket/bili_ticket_rush) - 自动抢票软件 CP31 哔哩哔哩 会员购 BW 漫展 脚本 抢票 \|超级简单易用的哔哩哔哩会员购自动抢票工具，基于Rust开发的异步多线程高性能抢票软件。
 * 【2025-06-18】[jsgroth / jgenesis](https://github.com/jsgroth/jgenesis) - Sega Genesis / Sega CD / SNES / Master System / Game Gear emulator
 * 【2025-06-13】[garyttierney / me3](https://github.com/garyttierney/me3) - A framework for modding and instrumenting games 
