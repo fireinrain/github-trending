@@ -900,6 +900,8 @@
 
 ## Java
 
+* 【2025-06-26】[Winds-Studio / Leaf](https://github.com/Winds-Studio/Leaf) - A Paper fork aim to find balance between performance, vanilla and stability
+* 【2025-06-26】[junit\-team / junit\-framework](https://github.com/junit-team/junit-framework) - ✅ The programmer\-friendly testing framework for Java and the JVM
 * 【2025-06-25】[Winds\-Studio / Leaf](https://github.com/Winds-Studio/Leaf) - A Paper fork aim to find balance between performance, vanilla and stability
 * 【2025-06-24】[mafik / echo](https://github.com/mafik/echo) - Time travelling recorder for Android 
 * 【2025-06-21】[alibaba / fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real\-time analytics 
@@ -1208,6 +1210,9 @@
 
 ## Python
 
+* 【2025-06-26】[Epodonios / v2ray-configs](https://github.com/Epodonios/v2ray-configs) - Free vless-vmess-shadowsocks-trojan-xray-V2ray Configs Updating Every 5 minutes
+* 【2025-06-26】[ROCm / TheRock](https://github.com/ROCm/TheRock) - The HIP Environment and ROCm Kit \- A lightweight open source build system for HIP and ROCm
+* 【2025-06-26】[zhaochenyang20 / Awesome\-ML\-SYS\-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes/codes for ML SYS 
 * 【2025-06-25】[openai / openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 * 【2025-06-25】[Epodonios / v2ray\-configs](https://github.com/Epodonios/v2ray-configs) - Free vless\-vmess\-shadowsocks\-trojan\-xray\-V2ray Configs Updating Every 5 minutes
 * 【2025-06-25】[LeCAR\-Lab / ASAP](https://github.com/LeCAR-Lab/ASAP) - Official implementation of "ASAP: Aligning Simulation and Real\-World Physics for Learning Agile Humanoid Whole\-Body Skills"
@@ -2631,6 +2636,8 @@
 
 ## Go
 
+* 【2025-06-26】[kitops-ml / kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
+* 【2025-06-26】[oras\-project / oras](https://github.com/oras-project/oras) - OCI registry client \- managing content like artifacts, images, packages
 * 【2025-06-25】[weibaohui / k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
 * 【2025-06-24】[kitops\-ml / kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact 
 * 【2025-06-22】[psviderski / uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts  Bridging the gap between Docker and Kubernetes ✨
@@ -3355,6 +3362,7 @@
 
 ## C++
 
+* 【2025-06-26】[airockchip / rknn\-llm](https://github.com/airockchip/rknn-llm) - 
 * 【2025-06-24】[isledecomp / isle-portable](https://github.com/isledecomp/isle-portable) - A portable version of LEGO Island (1997)
 * 【2025-06-22】[mirage-project / mirage](https://github.com/mirage-project/mirage) - Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA
 * 【2025-06-22】[duckdb / ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
@@ -4551,6 +4559,7 @@
 
 ## Unknown
 
+* 【2025-06-26】[punkpeye / awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 * 【2025-06-22】[x1xhlol / system\-prompts\-and\-models\-of\-ai\-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models 
 * 【2025-06-20】[Snowflake\-Labs / sf\-samples](https://github.com/Snowflake-Labs/sf-samples) - Sample files, code snippets and downloads for Snowflake labs and tutorials 
 * 【2025-06-19】[datawhalechina / happy\-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
@@ -5161,6 +5170,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-06-26】[nexus\-xyz / nexus\-cli](https://github.com/nexus-xyz/nexus-cli) - Command line interface for supplying proofs to the Nexus network 
 * 【2025-06-25】[c12i / bunge\-bits](https://github.com/c12i/bunge-bits) - Bunge Bits provides convenient summaries of Kenyan National Assembly and Senate sittings, making legislative information more accessible and digestible 
 * 【2025-06-25】[0x676e67 / rnet](https://github.com/0x676e67/rnet) - A blazing\-fast Python HTTP Client with TLS fingerprint
 * 【2025-06-22】[biliticket / bili_ticket_rush](https://github.com/biliticket/bili_ticket_rush) - 自动抢票软件 CP31 哔哩哔哩 会员购 BW 漫展 脚本 抢票 \|超级简单易用的哔哩哔哩会员购自动抢票工具，基于Rust开发的异步多线程高性能抢票软件。
