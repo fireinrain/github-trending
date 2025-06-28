@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-06-28】[gensyn-ai / rl-swarm](https://github.com/gensyn-ai/rl-swarm) - A fully open source framework for creating RL training swarms over the internet.
 * 【2025-06-27】[nexus-xyz / nexus-cli](https://github.com/nexus-xyz/nexus-cli) - Command line interface for supplying proofs to the Nexus network.
 * 【2025-06-24】[ghostty\-org / ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature\-rich, and cross\-platform terminal emulator that uses platform\-native UI and GPU acceleration 
 * 【2025-06-24】[x1xhlol / system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
@@ -1212,6 +1213,8 @@
 
 ## Python
 
+* 【2025-06-28】[mikel-brostrom / boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
+* 【2025-06-28】[LearningCircuit / local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research is an AI-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using any LLM across diverse knowledge sources including academic databases, scientific repositories, web content, and private document collections.
 * 【2025-06-27】[LearningCircuit / local\-deep\-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research is an AI\-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using any LLM across diverse knowledge sources including academic databases, scientific repositories, web content, and private document collections 
 * 【2025-06-27】[gensyn\-ai / rl\-swarm](https://github.com/gensyn-ai/rl-swarm) - A fully open source framework for creating RL training swarms over the internet 
 * 【2025-06-27】[ArcInstitute / state](https://github.com/ArcInstitute/state) - State is a machine learning model that predicts cellular perturbation response across diverse contexts
@@ -3025,6 +3028,7 @@
 
 ## C
 
+* 【2025-06-28】[Safe3 / uuWAF](https://github.com/Safe3/uuWAF) - An industry\-leading free, high\-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) \- UUSEC WAF 
 * 【2025-06-27】[rxi / microui](https://github.com/rxi/microui) - A tiny immediate\-mode UI library
 * 【2025-06-18】[espressif / esp-brookesia](https://github.com/espressif/esp-brookesia) - ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.
 * 【2025-06-18】[cosmos72 / twin](https://github.com/cosmos72/twin) - Text mode window environment  A "retro" program for embedded or remote systems, that doubles as X11 terminal and text\-mode equivalent of VNC server
