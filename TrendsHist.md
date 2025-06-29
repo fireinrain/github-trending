@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-06-29】[rommapp / romm](https://github.com/rommapp/romm) - A beautiful, powerful, self\-hosted rom manager and player 
 * 【2025-06-28】[gensyn-ai / rl-swarm](https://github.com/gensyn-ai/rl-swarm) - A fully open source framework for creating RL training swarms over the internet.
 * 【2025-06-27】[nexus-xyz / nexus-cli](https://github.com/nexus-xyz/nexus-cli) - Command line interface for supplying proofs to the Nexus network.
 * 【2025-06-24】[ghostty\-org / ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature\-rich, and cross\-platform terminal emulator that uses platform\-native UI and GPU acceleration 
@@ -902,6 +903,7 @@
 
 ## Java
 
+* 【2025-06-29】[Alovoa / alovoa](https://github.com/Alovoa/alovoa) - Free and open\-source dating platform that respects your privacy
 * 【2025-06-27】[eclipse-jdtls / eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
 * 【2025-06-26】[Winds-Studio / Leaf](https://github.com/Winds-Studio/Leaf) - A Paper fork aim to find balance between performance, vanilla and stability
 * 【2025-06-26】[junit\-team / junit\-framework](https://github.com/junit-team/junit-framework) - ✅ The programmer\-friendly testing framework for Java and the JVM
@@ -1213,6 +1215,8 @@
 
 ## Python
 
+* 【2025-06-29】[google\-deepmind / alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline 
+* 【2025-06-29】[huangjunsen0406 / py\-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - python版本的小智ai，主要帮助那些没有硬件却想体验小智功能的人,如果可以请点个小星星！在重构！重构完会合并到main
 * 【2025-06-28】[mikel-brostrom / boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
 * 【2025-06-28】[LearningCircuit / local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research is an AI-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using any LLM across diverse knowledge sources including academic databases, scientific repositories, web content, and private document collections.
 * 【2025-06-27】[LearningCircuit / local\-deep\-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research is an AI\-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using any LLM across diverse knowledge sources including academic databases, scientific repositories, web content, and private document collections 
@@ -2161,6 +2165,8 @@
 
 ## Javascript
 
+* 【2025-06-29】[danielmiessler / Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open\-source framework for augmenting humans using AI  It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere 
+* 【2025-06-29】[extesy / hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover
 * 【2025-06-27】[upstash / context7](https://github.com/upstash/context7) - Context7 MCP Server \-\- Up\-to\-date code documentation for LLMs and AI code editors
 * 【2025-06-27】[Azgaar / Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
 * 【2025-06-22】[franceking1 / Flash\-Md\-V2](https://github.com/franceking1/Flash-Md-V2) - Feel Free To Use FLASH\-MD, Remember To STAR🌟 The Repo before Forking
@@ -2646,6 +2652,7 @@
 
 ## Go
 
+* 【2025-06-29】[NVIDIA / KAI-Scheduler](https://github.com/NVIDIA/KAI-Scheduler) - KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
 * 【2025-06-26】[kitops-ml / kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
 * 【2025-06-26】[oras\-project / oras](https://github.com/oras-project/oras) - OCI registry client \- managing content like artifacts, images, packages
 * 【2025-06-25】[weibaohui / k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
@@ -4092,6 +4099,7 @@
 
 ## Html
 
+* 【2025-06-29】[yuzono / manga\-repo](https://github.com/yuzono/manga-repo) - Extensions for Komikku / Mihon & forks 
 * 【2025-06-22】[TheKing-OfTime / YandexMusicModClient](https://github.com/TheKing-OfTime/YandexMusicModClient) - Modification for Yandex Music Desktop application to add some features
 * 【2025-06-12】[novitechie / jetbra](https://github.com/novitechie/jetbra) - 
 * 【2025-06-11】[lowcoder\-org / lowcoder](https://github.com/lowcoder-org/lowcoder) - 🔥 🔥 🔥 The Open Source Retool, Tooljet and Appsmith Alternative
@@ -4572,6 +4580,8 @@
 
 ## Unknown
 
+* 【2025-06-29】[Makerr\-Studio / CentrifugalDustSeparator\-](https://github.com/Makerr-Studio/CentrifugalDustSeparator-) - Centrifugal Dust Separator \- 3D Files for printing
+* 【2025-06-29】[tc39 / proposal\-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript 
 * 【2025-06-26】[punkpeye / awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 * 【2025-06-22】[x1xhlol / system\-prompts\-and\-models\-of\-ai\-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models 
 * 【2025-06-20】[Snowflake\-Labs / sf\-samples](https://github.com/Snowflake-Labs/sf-samples) - Sample files, code snippets and downloads for Snowflake labs and tutorials 
@@ -5183,6 +5193,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-06-29】[twvd / snow](https://github.com/twvd/snow) - Classic Macintosh emulator
 * 【2025-06-26】[nexus\-xyz / nexus\-cli](https://github.com/nexus-xyz/nexus-cli) - Command line interface for supplying proofs to the Nexus network 
 * 【2025-06-25】[c12i / bunge\-bits](https://github.com/c12i/bunge-bits) - Bunge Bits provides convenient summaries of Kenyan National Assembly and Senate sittings, making legislative information more accessible and digestible 
 * 【2025-06-25】[0x676e67 / rnet](https://github.com/0x676e67/rnet) - A blazing\-fast Python HTTP Client with TLS fingerprint
@@ -5892,6 +5903,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-06-29】[magnitudedev / magnitude](https://github.com/magnitudedev/magnitude) - The AI browser automation framework
 * 【2025-06-27】[microsoft / playwright\-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 * 【2025-06-24】[TriliumNext / Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 * 【2025-06-24】[antiwork / helper](https://github.com/antiwork/helper) - Customer support agents
