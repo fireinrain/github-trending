@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-06-30】[octra\-labs / wallet\-gen](https://github.com/octra-labs/wallet-gen) - 
+* 【2025-06-30】[jnsahaj / tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no\-code theme editor for shadcn/ui components
+* 【2025-06-30】[zyronon / typing\-word](https://github.com/zyronon/typing-word) - 在网页上背单词
 * 【2025-06-29】[rommapp / romm](https://github.com/rommapp/romm) - A beautiful, powerful, self\-hosted rom manager and player 
 * 【2025-06-28】[gensyn-ai / rl-swarm](https://github.com/gensyn-ai/rl-swarm) - A fully open source framework for creating RL training swarms over the internet.
 * 【2025-06-27】[nexus-xyz / nexus-cli](https://github.com/nexus-xyz/nexus-cli) - Command line interface for supplying proofs to the Nexus network.
@@ -903,6 +906,7 @@
 
 ## Java
 
+* 【2025-06-30】[ReSo7200 / InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad\-Free browsing, and Distraction\-Free Mode 
 * 【2025-06-29】[Alovoa / alovoa](https://github.com/Alovoa/alovoa) - Free and open\-source dating platform that respects your privacy
 * 【2025-06-27】[eclipse-jdtls / eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
 * 【2025-06-26】[Winds-Studio / Leaf](https://github.com/Winds-Studio/Leaf) - A Paper fork aim to find balance between performance, vanilla and stability
@@ -1215,6 +1219,7 @@
 
 ## Python
 
+* 【2025-06-30】[neo4j\-contrib / mcp\-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) - Model Context Protocol with Neo4j
 * 【2025-06-29】[google\-deepmind / alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline 
 * 【2025-06-29】[huangjunsen0406 / py\-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - python版本的小智ai，主要帮助那些没有硬件却想体验小智功能的人,如果可以请点个小星星！在重构！重构完会合并到main
 * 【2025-06-28】[mikel-brostrom / boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
@@ -2652,6 +2657,8 @@
 
 ## Go
 
+* 【2025-06-30】[Dyneteq / reconya](https://github.com/Dyneteq/reconya) - Network reconnaissance and asset discovery tool
+* 【2025-06-30】[blampe / rreading\-glasses](https://github.com/blampe/rreading-glasses) - Corrective lenses for curmudgeonly readars in your life
 * 【2025-06-29】[NVIDIA / KAI-Scheduler](https://github.com/NVIDIA/KAI-Scheduler) - KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
 * 【2025-06-26】[kitops-ml / kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
 * 【2025-06-26】[oras\-project / oras](https://github.com/oras-project/oras) - OCI registry client \- managing content like artifacts, images, packages
@@ -3381,6 +3388,8 @@
 
 ## C++
 
+* 【2025-06-30】[anthwlock / untrunc](https://github.com/anthwlock/untrunc) - Restore a truncated mp4/mov  Improved version of ponchio/untrunc
+* 【2025-06-30】[Mahdi-zarei / nekoray](https://github.com/Mahdi-zarei/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 * 【2025-06-26】[airockchip / rknn\-llm](https://github.com/airockchip/rknn-llm) - 
 * 【2025-06-24】[isledecomp / isle-portable](https://github.com/isledecomp/isle-portable) - A portable version of LEGO Island (1997)
 * 【2025-06-22】[mirage-project / mirage](https://github.com/mirage-project/mirage) - Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA
@@ -3728,6 +3737,7 @@
 
 ## C#
 
+* 【2025-06-30】[justinpbarnett / unity\-mcp](https://github.com/justinpbarnett/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions 
 * 【2025-06-27】[RMC-14 / RMC-14](https://github.com/RMC-14/RMC-14) - RMC-14 is an asymmetric PvP game that runs on Robust Toolbox.
 * 【2025-06-22】[syncfusion / maui\-toolkit](https://github.com/syncfusion/maui-toolkit) - Syncfusion Toolkit for  NET MAUI offers high\-quality UI controls to help you build rich, high\-performance applications for iOS, Android, macOS, and Windows from a single codebase
 * 【2025-06-21】[CoderGamester / mcp\-unity](https://github.com/CoderGamester/mcp-unity) - Unity plugin for integrating Model Context Protocol (MCP) with the Unity Editor — designed for AI\-assisted development and OpenAI, Gemini and Claude interoperability
@@ -4099,6 +4109,7 @@
 
 ## Html
 
+* 【2025-06-30】[octra-labs / wallet-gen](https://github.com/octra-labs/wallet-gen) - 
 * 【2025-06-29】[yuzono / manga\-repo](https://github.com/yuzono/manga-repo) - Extensions for Komikku / Mihon & forks 
 * 【2025-06-22】[TheKing-OfTime / YandexMusicModClient](https://github.com/TheKing-OfTime/YandexMusicModClient) - Modification for Yandex Music Desktop application to add some features
 * 【2025-06-12】[novitechie / jetbra](https://github.com/novitechie/jetbra) - 
@@ -4580,6 +4591,7 @@
 
 ## Unknown
 
+* 【2025-06-30】[biliticket / BHYG](https://github.com/biliticket/BHYG) - B站 BW bilibiliworld 会员购 抢票 脚本
 * 【2025-06-29】[Makerr\-Studio / CentrifugalDustSeparator\-](https://github.com/Makerr-Studio/CentrifugalDustSeparator-) - Centrifugal Dust Separator \- 3D Files for printing
 * 【2025-06-29】[tc39 / proposal\-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript 
 * 【2025-06-26】[punkpeye / awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
@@ -5193,6 +5205,10 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-06-30】[ZacharyL2 / KeyEcho](https://github.com/ZacharyL2/KeyEcho) - Listen to Mechanical Keyboard Sounds with Every Keystroke \- It's Fast
+* 【2025-06-30】[tursodatabase / turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite 
+* 【2025-06-30】[zama-ai / tfhe-rs](https://github.com/zama-ai/tfhe-rs) - TFHE-rs: A Pure Rust implementation of the TFHE Scheme for Boolean and Integer Arithmetics Over Encrypted Data.
+* 【2025-06-30】[rust\-lang / rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
 * 【2025-06-29】[twvd / snow](https://github.com/twvd/snow) - Classic Macintosh emulator
 * 【2025-06-26】[nexus\-xyz / nexus\-cli](https://github.com/nexus-xyz/nexus-cli) - Command line interface for supplying proofs to the Nexus network 
 * 【2025-06-25】[c12i / bunge\-bits](https://github.com/c12i/bunge-bits) - Bunge Bits provides convenient summaries of Kenyan National Assembly and Senate sittings, making legislative information more accessible and digestible 
@@ -5903,6 +5919,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-06-30】[rocicorp / mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
 * 【2025-06-29】[magnitudedev / magnitude](https://github.com/magnitudedev/magnitude) - The AI browser automation framework
 * 【2025-06-27】[microsoft / playwright\-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 * 【2025-06-24】[TriliumNext / Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
