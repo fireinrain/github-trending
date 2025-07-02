@@ -4601,6 +4601,8 @@
 
 ## Unknown
 
+* 【2025-07-02】[datawhalechina / happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
+* 【2025-07-02】[galaxy\-s10 / billd\-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制
 * 【2025-07-01】[vanshb03 / Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships) - Collection of Summer 2026 tech internships!
 * 【2025-06-30】[biliticket / BHYG](https://github.com/biliticket/BHYG) - B站 BW bilibiliworld 会员购 抢票 脚本
 * 【2025-06-29】[Makerr\-Studio / CentrifugalDustSeparator\-](https://github.com/Makerr-Studio/CentrifugalDustSeparator-) - Centrifugal Dust Separator \- 3D Files for printing
