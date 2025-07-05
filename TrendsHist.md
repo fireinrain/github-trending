@@ -1224,6 +1224,9 @@
 
 ## Python
 
+* 【2025-07-05】[DepthAnything / Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - [NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
+* 【2025-07-05】[megadose / toutatis](https://github.com/megadose/toutatis) - Toutatis is a tool that allows you to extract information from instagrams accounts such as e\-mails, phone numbers and more
+* 【2025-07-05】[chrishayuk / mcp\-cli](https://github.com/chrishayuk/mcp-cli) - 
 * 【2025-07-03】[Genesis-Embodied-AI / Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
 * 【2025-07-01】[tadata-org / fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 * 【2025-07-01】[wyeeeee / hajimi](https://github.com/wyeeeee/hajimi) - 这是一个基于 FastAPI 构建的 Gemini API 代理
@@ -2178,6 +2181,7 @@
 
 ## Javascript
 
+* 【2025-07-05】[nwjs / nw js](https://github.com/nwjs/nw.js) - Call all Node js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies 
 * 【2025-07-04】[ppl\-ai / modelcontextprotocol](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem 
 * 【2025-06-29】[danielmiessler / Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open\-source framework for augmenting humans using AI  It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere 
 * 【2025-06-29】[extesy / hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover
@@ -2666,6 +2670,7 @@
 
 ## Go
 
+* 【2025-07-05】[yusing / godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration
 * 【2025-07-04】[go\-dev\-frame / sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy\-to\-use Go development framework that enables you to effortlessly build stable, reliable, and high\-performance backend services with a "low\-code" approach 
 * 【2025-07-04】[hypermodeinc / ristretto](https://github.com/hypermodeinc/ristretto) - A high performance memory\-bound Go cache
 * 【2025-07-04】[kagent\-dev / kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI \| Discord: https://bit ly/kagentdiscord
@@ -5232,6 +5237,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-07-05】[rustfs / rustfs](https://github.com/rustfs/rustfs) - 🚀 High\-performance distributed object storage for MinIO alternative 
+* 【2025-07-05】[immunant / c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 * 【2025-07-04】[mmastrac / stylus](https://github.com/mmastrac/stylus) - Lightweight status page for home infrastructure
 * 【2025-07-01】[rust-lang / rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
 * 【2025-07-01】[linebender / vello](https://github.com/linebender/vello) - A GPU compute\-centric 2D renderer 
@@ -5949,6 +5956,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-07-05】[humanlayer / 12\-factor\-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM\-powered software that is actually good enough to put in the hands of production customers?
 * 【2025-07-01】[Kilo\-Org / kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code  We're a superset of Roo, Cline, and our own features  Follow us: kilocode ai/social
 * 【2025-06-30】[rocicorp / mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
 * 【2025-06-29】[magnitudedev / magnitude](https://github.com/magnitudedev/magnitude) - The AI browser automation framework
