@@ -1224,6 +1224,7 @@
 
 ## Python
 
+* 【2025-07-06】[grapeot / devin cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin
 * 【2025-07-05】[DepthAnything / Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - [NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
 * 【2025-07-05】[megadose / toutatis](https://github.com/megadose/toutatis) - Toutatis is a tool that allows you to extract information from instagrams accounts such as e\-mails, phone numbers and more
 * 【2025-07-05】[chrishayuk / mcp\-cli](https://github.com/chrishayuk/mcp-cli) - 
@@ -2181,6 +2182,7 @@
 
 ## Javascript
 
+* 【2025-07-06】[adrianhajdin / react-movies](https://github.com/adrianhajdin/react-movies) - Dive straight into React—from basic JSX to advanced hooks—and build a real, modern app in this hands-on crash course!
 * 【2025-07-05】[nwjs / nw js](https://github.com/nwjs/nw.js) - Call all Node js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies 
 * 【2025-07-04】[ppl\-ai / modelcontextprotocol](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem 
 * 【2025-06-29】[danielmiessler / Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open\-source framework for augmenting humans using AI  It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere 
@@ -3760,6 +3762,8 @@
 
 ## C#
 
+* 【2025-07-06】[microsoft / referencesource](https://github.com/microsoft/referencesource) - Source from the Microsoft  NET Reference Source that represent a subset of the  NET Framework
+* 【2025-07-06】[allenai / ai2thor](https://github.com/allenai/ai2thor) - An open\-source platform for Visual AI 
 * 【2025-07-04】[CoderGamester / mcp-unity](https://github.com/CoderGamester/mcp-unity) - Unity plugin for integrating Model Context Protocol (MCP) with the Unity Editor — designed for AI-assisted development and OpenAI, Gemini and Claude interoperability
 * 【2025-07-03】[9p4 / jellyfin\-plugin\-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider)  This enables one\-click signin 
 * 【2025-07-01】[TheAirBlow / HyperSploit](https://github.com/TheAirBlow/HyperSploit) - Bypasses HyperOS restrictions on bootloader unlocking
@@ -5237,6 +5241,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-07-06】[richardscollin / tmux\-rs](https://github.com/richardscollin/tmux-rs) - A Rust port of tmux
 * 【2025-07-05】[rustfs / rustfs](https://github.com/rustfs/rustfs) - 🚀 High\-performance distributed object storage for MinIO alternative 
 * 【2025-07-05】[immunant / c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 * 【2025-07-04】[mmastrac / stylus](https://github.com/mmastrac/stylus) - Lightweight status page for home infrastructure
@@ -5956,6 +5961,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-07-06】[humanlayer / 12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+* 【2025-07-06】[pontusab / directories](https://github.com/pontusab/directories) - The Cursor & Windsurf community, find rules and MCPs
+* 【2025-07-06】[mockoon / mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally  No remote deployment, no account required, open source 
 * 【2025-07-05】[humanlayer / 12\-factor\-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM\-powered software that is actually good enough to put in the hands of production customers?
 * 【2025-07-01】[Kilo\-Org / kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code  We're a superset of Roo, Cline, and our own features  Follow us: kilocode ai/social
 * 【2025-06-30】[rocicorp / mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
