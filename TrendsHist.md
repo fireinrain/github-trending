@@ -1224,6 +1224,7 @@
 
 ## Python
 
+* 【2025-07-07】[chrishayuk / mcp-cli](https://github.com/chrishayuk/mcp-cli) - 
 * 【2025-07-06】[grapeot / devin cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin
 * 【2025-07-05】[DepthAnything / Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - [NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
 * 【2025-07-05】[megadose / toutatis](https://github.com/megadose/toutatis) - Toutatis is a tool that allows you to extract information from instagrams accounts such as e\-mails, phone numbers and more
@@ -2672,6 +2673,7 @@
 
 ## Go
 
+* 【2025-07-07】[qichiyuhub / rule](https://github.com/qichiyuhub/rule) - Clash、Sing\-box、等分流规则
 * 【2025-07-05】[yusing / godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration
 * 【2025-07-04】[go\-dev\-frame / sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy\-to\-use Go development framework that enables you to effortlessly build stable, reliable, and high\-performance backend services with a "low\-code" approach 
 * 【2025-07-04】[hypermodeinc / ristretto](https://github.com/hypermodeinc/ristretto) - A high performance memory\-bound Go cache
@@ -3064,6 +3066,7 @@
 
 ## C
 
+* 【2025-07-07】[dev\-Ali2008 / xanite](https://github.com/dev-Ali2008/xanite) - Xanite
 * 【2025-07-03】[revk / ESP32\-Faikin](https://github.com/revk/ESP32-Faikin) - ESP32 based module to control Daikin aircon units
 * 【2025-06-28】[Safe3 / uuWAF](https://github.com/Safe3/uuWAF) - An industry\-leading free, high\-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) \- UUSEC WAF 
 * 【2025-06-27】[rxi / microui](https://github.com/rxi/microui) - A tiny immediate\-mode UI library
@@ -3762,6 +3765,7 @@
 
 ## C#
 
+* 【2025-07-07】[neelabo / NeeView](https://github.com/neelabo/NeeView) - An image viewer that allows you to browse images in folders and compressed files like a book  Powerful customization is available 
 * 【2025-07-06】[microsoft / referencesource](https://github.com/microsoft/referencesource) - Source from the Microsoft  NET Reference Source that represent a subset of the  NET Framework
 * 【2025-07-06】[allenai / ai2thor](https://github.com/allenai/ai2thor) - An open\-source platform for Visual AI 
 * 【2025-07-04】[CoderGamester / mcp-unity](https://github.com/CoderGamester/mcp-unity) - Unity plugin for integrating Model Context Protocol (MCP) with the Unity Editor — designed for AI-assisted development and OpenAI, Gemini and Claude interoperability
@@ -5241,6 +5245,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-07-07】[apache / iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper\-Efficient Message Streaming at Laser Speed
+* 【2025-07-07】[vlayer\-xyz / vlayer](https://github.com/vlayer-xyz/vlayer) - 
+* 【2025-07-07】[Hachimi\-Hachimi / Hachimi](https://github.com/Hachimi-Hachimi/Hachimi) - はちみーをなめると〜 Game enhancement and translation mod for Honse Game 
 * 【2025-07-06】[richardscollin / tmux\-rs](https://github.com/richardscollin/tmux-rs) - A Rust port of tmux
 * 【2025-07-05】[rustfs / rustfs](https://github.com/rustfs/rustfs) - 🚀 High\-performance distributed object storage for MinIO alternative 
 * 【2025-07-05】[immunant / c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
@@ -5961,6 +5968,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-07-07】[chrisvel / tududi](https://github.com/chrisvel/tududi) - Self\-hosted task management with hierarchical organization, multi\-language support, and Telegram integration  Built with React & Express js
+* 【2025-07-07】[maurodesouza / profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀
 * 【2025-07-06】[humanlayer / 12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 * 【2025-07-06】[pontusab / directories](https://github.com/pontusab/directories) - The Cursor & Windsurf community, find rules and MCPs
 * 【2025-07-06】[mockoon / mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally  No remote deployment, no account required, open source 
