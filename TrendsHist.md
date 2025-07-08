@@ -909,6 +909,7 @@
 
 ## Java
 
+* 【2025-07-08】[Aefyr / SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
 * 【2025-07-04】[FaceAISDK / FaceAISDK_Android](https://github.com/FaceAISDK/FaceAISDK_Android) - Android on_device 1:1 Face Recognition 、 Liveness detection and 1:N & M:N Face Search SDK 🧒 离线版设备端Android1:1人脸识别 动作活体、静默活体、近红外双目活体检测 以及1:N M:N 人脸搜索算法SDK 封装。全程可开飞行模式不用联网
 * 【2025-07-03】[apache / fluss](https://github.com/apache/fluss) - Apache Fluss is a streaming storage built for real\-time analytics 
 * 【2025-06-30】[ReSo7200 / InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad\-Free browsing, and Distraction\-Free Mode 
@@ -1224,6 +1225,9 @@
 
 ## Python
 
+* 【2025-07-08】[Alibaba\-NLP / WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv org/pdf/2507 02592
+* 【2025-07-08】[joeyism / linkedin_scraper](https://github.com/joeyism/linkedin_scraper) - A library that scrapes Linkedin for user data
+* 【2025-07-08】[dongshuyan / Upload_Machine](https://github.com/dongshuyan/Upload_Machine) - Upload local resources to PT trackers automatically using requests 
 * 【2025-07-07】[chrishayuk / mcp-cli](https://github.com/chrishayuk/mcp-cli) - 
 * 【2025-07-06】[grapeot / devin cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin
 * 【2025-07-05】[DepthAnything / Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - [NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
@@ -2673,6 +2677,7 @@
 
 ## Go
 
+* 【2025-07-08】[PlakarKorp / plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 * 【2025-07-07】[qichiyuhub / rule](https://github.com/qichiyuhub/rule) - Clash、Sing\-box、等分流规则
 * 【2025-07-05】[yusing / godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration
 * 【2025-07-04】[go\-dev\-frame / sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy\-to\-use Go development framework that enables you to effortlessly build stable, reliable, and high\-performance backend services with a "low\-code" approach 
@@ -3066,6 +3071,8 @@
 
 ## C
 
+* 【2025-07-08】[ripplebiz / MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
+* 【2025-07-08】[manaskamal / XenevaOS](https://github.com/manaskamal/XenevaOS) - The Xeneva Operating System
 * 【2025-07-07】[dev\-Ali2008 / xanite](https://github.com/dev-Ali2008/xanite) - Xanite
 * 【2025-07-03】[revk / ESP32\-Faikin](https://github.com/revk/ESP32-Faikin) - ESP32 based module to control Daikin aircon units
 * 【2025-06-28】[Safe3 / uuWAF](https://github.com/Safe3/uuWAF) - An industry\-leading free, high\-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) \- UUSEC WAF 
@@ -3414,6 +3421,8 @@
 
 ## C++
 
+* 【2025-07-08】[LeagueToolkit / cslol\-manager](https://github.com/LeagueToolkit/cslol-manager) - 
+* 【2025-07-08】[nomacs / nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems 
 * 【2025-07-04】[bytedance / btrace](https://github.com/bytedance/btrace) - 🔥🔥 btrace (AKA RheaTrace) is a high\-performance Android & iOS tracing tool built on Perfetto  It not only times your methods but also reveals why they’re slow 
 * 【2025-07-04】[topling / toplingdb](https://github.com/topling/toplingdb) - ToplingDB is a cloud native LSM Key\-Value Store with searchable compression algo and distributed compaction
 * 【2025-06-30】[anthwlock / untrunc](https://github.com/anthwlock/untrunc) - Restore a truncated mp4/mov  Improved version of ponchio/untrunc
@@ -3765,6 +3774,8 @@
 
 ## C#
 
+* 【2025-07-08】[cschneegans / unattend\-generator](https://github.com/cschneegans/unattend-generator) -  NET Core library to create highly customized autounattend xml files
+* 【2025-07-08】[Maassoft / ColorControl](https://github.com/Maassoft/ColorControl) - Easily change NVIDIA display settings and/or control LG TV's
 * 【2025-07-07】[neelabo / NeeView](https://github.com/neelabo/NeeView) - An image viewer that allows you to browse images in folders and compressed files like a book  Powerful customization is available 
 * 【2025-07-06】[microsoft / referencesource](https://github.com/microsoft/referencesource) - Source from the Microsoft  NET Reference Source that represent a subset of the  NET Framework
 * 【2025-07-06】[allenai / ai2thor](https://github.com/allenai/ai2thor) - An open\-source platform for Visual AI 
@@ -4143,6 +4154,7 @@
 
 ## Html
 
+* 【2025-07-08】[syoius / MaaYuan](https://github.com/syoius/MaaYuan) - 代号鸢 / 如鸢 一键长草小助手
 * 【2025-07-01】[vimichael / make\-windows\-pretty](https://github.com/vimichael/make-windows-pretty) - Some tools I used for making Windows 11 look nice 
 * 【2025-06-30】[octra-labs / wallet-gen](https://github.com/octra-labs/wallet-gen) - 
 * 【2025-06-29】[yuzono / manga\-repo](https://github.com/yuzono/manga-repo) - Extensions for Komikku / Mihon & forks 
@@ -5245,6 +5257,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-07-08】[superfly / corrosion](https://github.com/superfly/corrosion) - Gossip\-based service discovery (and more) for large distributed systems 
 * 【2025-07-07】[apache / iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper\-Efficient Message Streaming at Laser Speed
 * 【2025-07-07】[vlayer\-xyz / vlayer](https://github.com/vlayer-xyz/vlayer) - 
 * 【2025-07-07】[Hachimi\-Hachimi / Hachimi](https://github.com/Hachimi-Hachimi/Hachimi) - はちみーをなめると〜 Game enhancement and translation mod for Honse Game 
@@ -5968,6 +5981,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-07-08】[samanhappy / mcphub](https://github.com/samanhappy/mcphub) - A unified hub for centralized management and dynamic organization of multiple MCP servers into streamable HTTP (SSE) endpoints, with support for flexible routing strategies
+* 【2025-07-08】[nerding\-io / n8n\-nodes\-mcp](https://github.com/nerding-io/n8n-nodes-mcp) - n8n custom node for MCP
 * 【2025-07-07】[chrisvel / tududi](https://github.com/chrisvel/tududi) - Self\-hosted task management with hierarchical organization, multi\-language support, and Telegram integration  Built with React & Express js
 * 【2025-07-07】[maurodesouza / profile-readme-generator](https://github.com/maurodesouza/profile-readme-generator) - 🎨 Enhance your GitHub profile with this amazing tool, which allows you to create a personalized README quickly and easily. This profile README generator is the best you'll find 🚀
 * 【2025-07-06】[humanlayer / 12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
