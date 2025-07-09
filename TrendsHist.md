@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-07-09】[Alibaba-NLP / WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
+* 【2025-07-09】[HandsOnLLM / Hands\-On\-Large\-Language\-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book \- "Hands\-On Large Language Models"
 * 【2025-07-01】[aldinokemal / go\-whatsapp\-web\-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
 * 【2025-07-01】[snailyp / gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
 * 【2025-07-01】[vanshb03 / Summer2026\-Internships](https://github.com/vanshb03/Summer2026-Internships) - Collection of Summer 2026 tech internships!
@@ -1225,6 +1227,10 @@
 
 ## Python
 
+* 【2025-07-09】[GoogleCloudPlatform / agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) - A collection of production-ready Generative AI Agent templates built for Google Cloud. It accelerates development by providing a holistic, production-ready solution, addressing common challenges (Deployment & Operations, Evaluation, Customization, Observability) in building and deploying GenAI agents.
+* 【2025-07-09】[google-deepmind / alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
+* 【2025-07-09】[tubearchivist / tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
+* 【2025-07-09】[SlimeBoyOwO / LingChat](https://github.com/SlimeBoyOwO/LingChat) - GPT chat with emotional expressions 
 * 【2025-07-08】[Alibaba\-NLP / WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv org/pdf/2507 02592
 * 【2025-07-08】[joeyism / linkedin_scraper](https://github.com/joeyism/linkedin_scraper) - A library that scrapes Linkedin for user data
 * 【2025-07-08】[dongshuyan / Upload_Machine](https://github.com/dongshuyan/Upload_Machine) - Upload local resources to PT trackers automatically using requests 
@@ -2187,6 +2193,7 @@
 
 ## Javascript
 
+* 【2025-07-09】[HackTricks\-wiki / hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news 
 * 【2025-07-06】[adrianhajdin / react-movies](https://github.com/adrianhajdin/react-movies) - Dive straight into React—from basic JSX to advanced hooks—and build a real, modern app in this hands-on crash course!
 * 【2025-07-05】[nwjs / nw js](https://github.com/nwjs/nw.js) - Call all Node js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies 
 * 【2025-07-04】[ppl\-ai / modelcontextprotocol](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem 
@@ -5257,6 +5264,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-07-09】[gdt050579 / AppCUI\-rs](https://github.com/gdt050579/AppCUI-rs) - AppCUI – A feature\-rich and cross\-platform TUI/CUI framework for Rust, enabling modern terminal\-based applications on Windows, Linux, and macOS  Includes built\-in UI components like buttons, menus, list views, tree views, checkboxes, and more  Perfect for building fast and interactive CLI tools and text\-based interfaces
+* 【2025-07-09】[boundless\-xyz / boundless](https://github.com/boundless-xyz/boundless) - Monorepo for Boundless, the universal ZK protocol
 * 【2025-07-08】[superfly / corrosion](https://github.com/superfly/corrosion) - Gossip\-based service discovery (and more) for large distributed systems 
 * 【2025-07-07】[apache / iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper\-Efficient Message Streaming at Laser Speed
 * 【2025-07-07】[vlayer\-xyz / vlayer](https://github.com/vlayer-xyz/vlayer) - 
@@ -5981,6 +5990,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-07-09】[nerding-io / n8n-nodes-mcp](https://github.com/nerding-io/n8n-nodes-mcp) - n8n custom node for MCP
+* 【2025-07-09】[raydium\-io / raydium\-sdk\-V2](https://github.com/raydium-io/raydium-sdk-V2) - Open\-source Typescript SDK for Raydium
 * 【2025-07-08】[samanhappy / mcphub](https://github.com/samanhappy/mcphub) - A unified hub for centralized management and dynamic organization of multiple MCP servers into streamable HTTP (SSE) endpoints, with support for flexible routing strategies
 * 【2025-07-08】[nerding\-io / n8n\-nodes\-mcp](https://github.com/nerding-io/n8n-nodes-mcp) - n8n custom node for MCP
 * 【2025-07-07】[chrisvel / tududi](https://github.com/chrisvel/tududi) - Self\-hosted task management with hierarchical organization, multi\-language support, and Telegram integration  Built with React & Express js
