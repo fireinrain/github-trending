@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-07-10】[ed\-donner / agents](https://github.com/ed-donner/agents) - Repo for the Complete Agentic AI Engineering Course
+* 【2025-07-10】[wanghongenpin / proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems
+* 【2025-07-10】[microsoft / MoGe](https://github.com/microsoft/MoGe) - [CVPR'25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open\-Domain Images with Optimal Training Supervision
 * 【2025-07-09】[Alibaba-NLP / WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
 * 【2025-07-09】[HandsOnLLM / Hands\-On\-Large\-Language\-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book \- "Hands\-On Large Language Models"
 * 【2025-07-01】[aldinokemal / go\-whatsapp\-web\-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
@@ -1227,6 +1230,9 @@
 
 ## Python
 
+* 【2025-07-10】[awslabs / mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP 
+* 【2025-07-10】[D4Vinci / Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high\-performance Python library to make Web Scraping Easy and Effortless as it should be!
+* 【2025-07-10】[coleam00 / ai\-agents\-masterclass](https://github.com/coleam00/ai-agents-masterclass) - Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!
 * 【2025-07-09】[GoogleCloudPlatform / agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) - A collection of production-ready Generative AI Agent templates built for Google Cloud. It accelerates development by providing a holistic, production-ready solution, addressing common challenges (Deployment & Operations, Evaluation, Customization, Observability) in building and deploying GenAI agents.
 * 【2025-07-09】[google-deepmind / alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
 * 【2025-07-09】[tubearchivist / tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
@@ -2193,6 +2199,7 @@
 
 ## Javascript
 
+* 【2025-07-10】[zereight / gitlab\-mcp](https://github.com/zereight/gitlab-mcp) - gitlab mcp
 * 【2025-07-09】[HackTricks\-wiki / hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news 
 * 【2025-07-06】[adrianhajdin / react-movies](https://github.com/adrianhajdin/react-movies) - Dive straight into React—from basic JSX to advanced hooks—and build a real, modern app in this hands-on crash course!
 * 【2025-07-05】[nwjs / nw js](https://github.com/nwjs/nw.js) - Call all Node js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies 
@@ -2684,6 +2691,7 @@
 
 ## Go
 
+* 【2025-07-10】[github / github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 * 【2025-07-08】[PlakarKorp / plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 * 【2025-07-07】[qichiyuhub / rule](https://github.com/qichiyuhub/rule) - Clash、Sing\-box、等分流规则
 * 【2025-07-05】[yusing / godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration
@@ -4161,6 +4169,8 @@
 
 ## Html
 
+* 【2025-07-10】[google / adk\-docs](https://github.com/google/adk-docs) - An open\-source, code\-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control 
+* 【2025-07-10】[sky22333 / hubproxy](https://github.com/sky22333/hubproxy) - 基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。
 * 【2025-07-08】[syoius / MaaYuan](https://github.com/syoius/MaaYuan) - 代号鸢 / 如鸢 一键长草小助手
 * 【2025-07-01】[vimichael / make\-windows\-pretty](https://github.com/vimichael/make-windows-pretty) - Some tools I used for making Windows 11 look nice 
 * 【2025-06-30】[octra-labs / wallet-gen](https://github.com/octra-labs/wallet-gen) - 
@@ -5264,6 +5274,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-07-10】[boundless-xyz / boundless](https://github.com/boundless-xyz/boundless) - Monorepo for Boundless, the universal ZK protocol
 * 【2025-07-09】[gdt050579 / AppCUI\-rs](https://github.com/gdt050579/AppCUI-rs) - AppCUI – A feature\-rich and cross\-platform TUI/CUI framework for Rust, enabling modern terminal\-based applications on Windows, Linux, and macOS  Includes built\-in UI components like buttons, menus, list views, tree views, checkboxes, and more  Perfect for building fast and interactive CLI tools and text\-based interfaces
 * 【2025-07-09】[boundless\-xyz / boundless](https://github.com/boundless-xyz/boundless) - Monorepo for Boundless, the universal ZK protocol
 * 【2025-07-08】[superfly / corrosion](https://github.com/superfly/corrosion) - Gossip\-based service discovery (and more) for large distributed systems 
@@ -5990,6 +6001,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-07-10】[microsoft / playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
+* 【2025-07-10】[braden\-w / whispering](https://github.com/braden-w/whispering) - Press shortcut → speak → get text  Free and open source ❤️
+* 【2025-07-10】[bknd\-io / bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl  Next js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more 
 * 【2025-07-09】[nerding-io / n8n-nodes-mcp](https://github.com/nerding-io/n8n-nodes-mcp) - n8n custom node for MCP
 * 【2025-07-09】[raydium\-io / raydium\-sdk\-V2](https://github.com/raydium-io/raydium-sdk-V2) - Open\-source Typescript SDK for Raydium
 * 【2025-07-08】[samanhappy / mcphub](https://github.com/samanhappy/mcphub) - A unified hub for centralized management and dynamic organization of multiple MCP servers into streamable HTTP (SSE) endpoints, with support for flexible routing strategies
