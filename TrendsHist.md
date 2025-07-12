@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-07-12】[WordPress / wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
+* 【2025-07-12】[landing\-ai / agentic\-doc](https://github.com/landing-ai/agentic-doc) - Python library for Agentic Document Extraction from LandingAI
+* 【2025-07-12】[antiwork / flexile](https://github.com/antiwork/flexile) - Contractor payments as easy as 1\-2\-3
 * 【2025-07-11】[WordPress / wordpress\-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git\-ified  Synced from git://develop git wordpress org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository  Please include a link to a pre\-existing ticket on https://core trac wordpress org/ with every pull request 
 * 【2025-07-11】[snap\-stanford / Biomni](https://github.com/snap-stanford/Biomni) - Biomni: a general\-purpose biomedical AI agent
 * 【2025-07-11】[coleam00 / ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass) - Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!
@@ -1234,6 +1237,8 @@
 
 ## Python
 
+* 【2025-07-12】[landing-ai / agentic-doc](https://github.com/landing-ai/agentic-doc) - Python library for Agentic Document Extraction from LandingAI
+* 【2025-07-12】[browser\-use / macOS\-use](https://github.com/browser-use/macOS-use) - Make Mac apps accessible for AI agents
 * 【2025-07-11】[snap-stanford / Biomni](https://github.com/snap-stanford/Biomni) - Biomni: a general-purpose biomedical AI agent
 * 【2025-07-11】[ali\-vilab / VACE](https://github.com/ali-vilab/VACE) - Official implementations for paper: VACE: All\-in\-One Video Creation and Editing
 * 【2025-07-11】[huggingface / smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM and SmolVLM family of models
@@ -2206,6 +2211,7 @@
 
 ## Javascript
 
+* 【2025-07-12】[elastic / mcp\-server\-elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) - 
 * 【2025-07-10】[zereight / gitlab\-mcp](https://github.com/zereight/gitlab-mcp) - gitlab mcp
 * 【2025-07-09】[HackTricks\-wiki / hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news 
 * 【2025-07-06】[adrianhajdin / react-movies](https://github.com/adrianhajdin/react-movies) - Dive straight into React—from basic JSX to advanced hooks—and build a real, modern app in this hands-on crash course!
@@ -2698,6 +2704,7 @@
 
 ## Go
 
+* 【2025-07-12】[RezaSi / go\-interview\-practice](https://github.com/RezaSi/go-interview-practice) - Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go  Solve problems, submit your solutions, and receive instant feedback with automated testing  Track your progress with per\-challenge scoreboards and improve your coding skills step by step 
 * 【2025-07-11】[beam\-cloud / beta9](https://github.com/beam-cloud/beta9) - Secure, high\-performance AI infrastructure in Python 
 * 【2025-07-10】[github / github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 * 【2025-07-08】[PlakarKorp / plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
@@ -3094,6 +3101,7 @@
 
 ## C
 
+* 【2025-07-12】[PufferAI / PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments
 * 【2025-07-11】[eclipse-paho / paho.mqtt.c](https://github.com/eclipse-paho/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse-paho.github.io/paho.mqtt.c/
 * 【2025-07-08】[ripplebiz / MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 * 【2025-07-08】[manaskamal / XenevaOS](https://github.com/manaskamal/XenevaOS) - The Xeneva Operating System
@@ -3445,6 +3453,8 @@
 
 ## C++
 
+* 【2025-07-12】[lraton / FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE
+* 【2025-07-12】[NVIDIA-RTX / NVRHI](https://github.com/NVIDIA-RTX/NVRHI) - 
 * 【2025-07-08】[LeagueToolkit / cslol\-manager](https://github.com/LeagueToolkit/cslol-manager) - 
 * 【2025-07-08】[nomacs / nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems 
 * 【2025-07-04】[bytedance / btrace](https://github.com/bytedance/btrace) - 🔥🔥 btrace (AKA RheaTrace) is a high\-performance Android & iOS tracing tool built on Perfetto  It not only times your methods but also reveals why they’re slow 
@@ -5283,6 +5293,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-07-12】[anza\-xyz / pinocchio](https://github.com/anza-xyz/pinocchio) - Create Solana programs with no dependencies attached
 * 【2025-07-11】[googleapis / google\-cloud\-rust](https://github.com/googleapis/google-cloud-rust) - Google Cloud Platform Rust Client Libraries
 * 【2025-07-10】[boundless-xyz / boundless](https://github.com/boundless-xyz/boundless) - Monorepo for Boundless, the universal ZK protocol
 * 【2025-07-09】[gdt050579 / AppCUI\-rs](https://github.com/gdt050579/AppCUI-rs) - AppCUI – A feature\-rich and cross\-platform TUI/CUI framework for Rust, enabling modern terminal\-based applications on Windows, Linux, and macOS  Includes built\-in UI components like buttons, menus, list views, tree views, checkboxes, and more  Perfect for building fast and interactive CLI tools and text\-based interfaces
@@ -6011,6 +6022,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-07-12】[josdejong / jsonrepair](https://github.com/josdejong/jsonrepair) - Repair invalid JSON documents
+* 【2025-07-12】[docker / build\-push\-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 * 【2025-07-11】[braden-w / whispering](https://github.com/braden-w/whispering) - Press shortcut → speak → get text. Free and open source ❤️
 * 【2025-07-10】[microsoft / playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 * 【2025-07-10】[braden\-w / whispering](https://github.com/braden-w/whispering) - Press shortcut → speak → get text  Free and open source ❤️
