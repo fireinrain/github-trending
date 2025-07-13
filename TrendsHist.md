@@ -921,6 +921,7 @@
 
 ## Java
 
+* 【2025-07-13】[GumTreeDiff / gumtree](https://github.com/GumTreeDiff/gumtree) - An awesome code differencing tool
 * 【2025-07-08】[Aefyr / SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
 * 【2025-07-04】[FaceAISDK / FaceAISDK_Android](https://github.com/FaceAISDK/FaceAISDK_Android) - Android on_device 1:1 Face Recognition 、 Liveness detection and 1:N & M:N Face Search SDK 🧒 离线版设备端Android1:1人脸识别 动作活体、静默活体、近红外双目活体检测 以及1:N M:N 人脸搜索算法SDK 封装。全程可开飞行模式不用联网
 * 【2025-07-03】[apache / fluss](https://github.com/apache/fluss) - Apache Fluss is a streaming storage built for real\-time analytics 
@@ -1237,6 +1238,8 @@
 
 ## Python
 
+* 【2025-07-13】[jax\-ml / jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+* 【2025-07-13】[markqvist / Reticulum](https://github.com/markqvist/Reticulum) - The cryptography\-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between 
 * 【2025-07-12】[landing-ai / agentic-doc](https://github.com/landing-ai/agentic-doc) - Python library for Agentic Document Extraction from LandingAI
 * 【2025-07-12】[browser\-use / macOS\-use](https://github.com/browser-use/macOS-use) - Make Mac apps accessible for AI agents
 * 【2025-07-11】[snap-stanford / Biomni](https://github.com/snap-stanford/Biomni) - Biomni: a general-purpose biomedical AI agent
@@ -2211,6 +2214,7 @@
 
 ## Javascript
 
+* 【2025-07-13】[HackTricks-wiki / hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 * 【2025-07-12】[elastic / mcp\-server\-elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) - 
 * 【2025-07-10】[zereight / gitlab\-mcp](https://github.com/zereight/gitlab-mcp) - gitlab mcp
 * 【2025-07-09】[HackTricks\-wiki / hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news 
@@ -2704,6 +2708,8 @@
 
 ## Go
 
+* 【2025-07-13】[Ullaakut / cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
+* 【2025-07-13】[lharries / whatsapp\-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server
 * 【2025-07-12】[RezaSi / go\-interview\-practice](https://github.com/RezaSi/go-interview-practice) - Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go  Solve problems, submit your solutions, and receive instant feedback with automated testing  Track your progress with per\-challenge scoreboards and improve your coding skills step by step 
 * 【2025-07-11】[beam\-cloud / beta9](https://github.com/beam-cloud/beta9) - Secure, high\-performance AI infrastructure in Python 
 * 【2025-07-10】[github / github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -3101,6 +3107,7 @@
 
 ## C
 
+* 【2025-07-13】[Crypto\-toolbox / HFT\-Orderbook](https://github.com/Crypto-toolbox/HFT-Orderbook) - Limit Order Book for high\-frequency trading (HFT), as described by WK Selph, implemented in Python3 and C
 * 【2025-07-12】[PufferAI / PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments
 * 【2025-07-11】[eclipse-paho / paho.mqtt.c](https://github.com/eclipse-paho/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse-paho.github.io/paho.mqtt.c/
 * 【2025-07-08】[ripplebiz / MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
@@ -3808,6 +3815,7 @@
 
 ## C#
 
+* 【2025-07-13】[CombatExtended-Continued / CombatExtended](https://github.com/CombatExtended-Continued/CombatExtended) - Combat Extended mod for RimWorld
 * 【2025-07-08】[cschneegans / unattend\-generator](https://github.com/cschneegans/unattend-generator) -  NET Core library to create highly customized autounattend xml files
 * 【2025-07-08】[Maassoft / ColorControl](https://github.com/Maassoft/ColorControl) - Easily change NVIDIA display settings and/or control LG TV's
 * 【2025-07-07】[neelabo / NeeView](https://github.com/neelabo/NeeView) - An image viewer that allows you to browse images in folders and compressed files like a book  Powerful customization is available 
@@ -4188,6 +4196,8 @@
 
 ## Html
 
+* 【2025-07-13】[kagisearch / kite\-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi 
+* 【2025-07-13】[pu2clr / SI4735](https://github.com/pu2clr/SI4735) - SI473X Library for Arduino
 * 【2025-07-10】[google / adk\-docs](https://github.com/google/adk-docs) - An open\-source, code\-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control 
 * 【2025-07-10】[sky22333 / hubproxy](https://github.com/sky22333/hubproxy) - 基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。
 * 【2025-07-08】[syoius / MaaYuan](https://github.com/syoius/MaaYuan) - 代号鸢 / 如鸢 一键长草小助手
@@ -4674,6 +4684,7 @@
 
 ## Unknown
 
+* 【2025-07-13】[arcprize / ARC\-AGI\-2](https://github.com/arcprize/ARC-AGI-2) - 
 * 【2025-07-04】[SimplifyJobs / Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Collection of Summer 2026 tech internships!
 * 【2025-07-03】[SimplifyJobs / Summer2026\-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Collection of Summer 2026 tech internships!
 * 【2025-07-02】[datawhalechina / happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
@@ -5293,6 +5304,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-07-13】[Xerxes\-2 / clewdr](https://github.com/Xerxes-2/clewdr) - High Performance LLM Reverse Proxy
+* 【2025-07-13】[afnanenayet / diffsitter](https://github.com/afnanenayet/diffsitter) - A tree\-sitter based AST difftool to get meaningful semantic diffs
 * 【2025-07-12】[anza\-xyz / pinocchio](https://github.com/anza-xyz/pinocchio) - Create Solana programs with no dependencies attached
 * 【2025-07-11】[googleapis / google\-cloud\-rust](https://github.com/googleapis/google-cloud-rust) - Google Cloud Platform Rust Client Libraries
 * 【2025-07-10】[boundless-xyz / boundless](https://github.com/boundless-xyz/boundless) - Monorepo for Boundless, the universal ZK protocol
