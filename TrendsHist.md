@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-07-15】[TomBursch / kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self\-hosted grocery list and recipe manager  The backend is made with Flask and the frontend with Flutter  Easily add items to your shopping list before you go shopping  You can also create recipes and add items based on what you want to cook 
 * 【2025-07-14】[RezaSi / go-interview-practice](https://github.com/RezaSi/go-interview-practice) - Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.
 * 【2025-07-12】[WordPress / wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
 * 【2025-07-12】[landing\-ai / agentic\-doc](https://github.com/landing-ai/agentic-doc) - Python library for Agentic Document Extraction from LandingAI
@@ -3825,6 +3826,8 @@
 
 ## C#
 
+* 【2025-07-15】[SakiRinn / LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator) - Lightweight and powerful real-time audio/speech translation tool based on Windows LiveCaptions.
+* 【2025-07-15】[justinpbarnett / unity-mcp](https://github.com/justinpbarnett/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
 * 【2025-07-14】[SakiRinn / LiveCaptions\-Translator](https://github.com/SakiRinn/LiveCaptions-Translator) - Lightweight and powerful real\-time audio/speech translation tool based on Windows LiveCaptions 
 * 【2025-07-13】[CombatExtended-Continued / CombatExtended](https://github.com/CombatExtended-Continued/CombatExtended) - Combat Extended mod for RimWorld
 * 【2025-07-08】[cschneegans / unattend\-generator](https://github.com/cschneegans/unattend-generator) -  NET Core library to create highly customized autounattend xml files
@@ -5315,6 +5318,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-07-15】[renoise / pattrns](https://github.com/renoise/pattrns) - Experimental imperative\-style music sequence generator engine
 * 【2025-07-14】[Xerxes-2 / clewdr](https://github.com/Xerxes-2/clewdr) - High Performance LLM Reverse Proxy
 * 【2025-07-14】[rust\-lang / crates io](https://github.com/rust-lang/crates.io) - The Rust package registry
 * 【2025-07-13】[Xerxes\-2 / clewdr](https://github.com/Xerxes-2/clewdr) - High Performance LLM Reverse Proxy
@@ -6048,6 +6052,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-07-15】[SiriusScan / Sirius](https://github.com/SiriusScan/Sirius) - 
 * 【2025-07-14】[subhadeeproy3902 / mvpblocks](https://github.com/subhadeeproy3902/mvpblocks) - MVPBlocks is an open\-source component library for developers to copy, customize, and launch MVPs lightning\-fast—no installations, just pure productivity 
 * 【2025-07-14】[crimx / ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 * 【2025-07-14】[haydenbleasel / kibo](https://github.com/haydenbleasel/kibo) - A custom registry of composable, accessible and open source shadcn/ui components 
