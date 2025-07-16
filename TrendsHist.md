@@ -1242,6 +1242,7 @@
 
 ## Python
 
+* 【2025-07-16】[kvcache\-ai / ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting\-edge LLM Inference Optimizations
 * 【2025-07-14】[OpenPipe / ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi\-step agents for real\-world tasks using GRPO  Give your agents on\-the\-job training  Reinforcement learning for Qwen2 5, Qwen3, Llama, Kimi, and more!
 * 【2025-07-14】[haris-musa / excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
 * 【2025-07-13】[jax\-ml / jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
@@ -2220,6 +2221,7 @@
 
 ## Javascript
 
+* 【2025-07-16】[7Sageer / sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
 * 【2025-07-14】[Parcoil / Sparkle](https://github.com/Parcoil/Sparkle) - Ultimate Windows Optimizer
 * 【2025-07-13】[HackTricks-wiki / hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 * 【2025-07-12】[elastic / mcp\-server\-elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) - 
@@ -2715,6 +2717,7 @@
 
 ## Go
 
+* 【2025-07-16】[ArvinLovegood / go-stock](https://github.com/ArvinLovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送。目前已支持A股，港股，美股，未来计划加入基金，ETF等支持。支持市场整体/个股情绪分析，K线分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
 * 【2025-07-14】[ArvinLovegood / go\-stock](https://github.com/ArvinLovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送。目前已支持A股，港股，美股，未来计划加入基金，ETF等支持。支持市场整体/个股情绪分析，K线分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
 * 【2025-07-14】[icereed / paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 * 【2025-07-14】[lharries / whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server
@@ -3471,6 +3474,7 @@
 
 ## C++
 
+* 【2025-07-16】[sonicdcer / MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) - Recompilation of MarioKart 64
 * 【2025-07-12】[lraton / FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE
 * 【2025-07-12】[NVIDIA-RTX / NVRHI](https://github.com/NVIDIA-RTX/NVRHI) - 
 * 【2025-07-08】[LeagueToolkit / cslol\-manager](https://github.com/LeagueToolkit/cslol-manager) - 
@@ -3826,6 +3830,10 @@
 
 ## C#
 
+* 【2025-07-16】[TheRobotStudio / HOPEJr](https://github.com/TheRobotStudio/HOPEJr) - HOPEJr_open\-source_DIY_Humanoid_Robot_with_dexterous_hands
+* 【2025-07-16】[ChangemakerStudios / Papercut\-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP \-\- The Simple Desktop Email Server
+* 【2025-07-16】[rwmt / Multiplayer](https://github.com/rwmt/Multiplayer) - Zetrith's Multiplayer mod for RimWorld
+* 【2025-07-16】[Zetrith / Prepatcher](https://github.com/Zetrith/Prepatcher) - Structured assembly rewriting library/mod for RW
 * 【2025-07-15】[SakiRinn / LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator) - Lightweight and powerful real-time audio/speech translation tool based on Windows LiveCaptions.
 * 【2025-07-15】[justinpbarnett / unity-mcp](https://github.com/justinpbarnett/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
 * 【2025-07-14】[SakiRinn / LiveCaptions\-Translator](https://github.com/SakiRinn/LiveCaptions-Translator) - Lightweight and powerful real\-time audio/speech translation tool based on Windows LiveCaptions 
@@ -4698,6 +4706,7 @@
 
 ## Unknown
 
+* 【2025-07-16】[MoonshotAI / Kimi\-VL](https://github.com/MoonshotAI/Kimi-VL) - Kimi\-VL: Mixture\-of\-Experts Vision\-Language Model for Multimodal Reasoning, Long\-Context Understanding, and Strong Agent Capabilities
 * 【2025-07-13】[arcprize / ARC\-AGI\-2](https://github.com/arcprize/ARC-AGI-2) - 
 * 【2025-07-04】[SimplifyJobs / Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Collection of Summer 2026 tech internships!
 * 【2025-07-03】[SimplifyJobs / Summer2026\-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Collection of Summer 2026 tech internships!
@@ -5318,6 +5327,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-07-16】[frectonz / sql\-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server]
 * 【2025-07-15】[renoise / pattrns](https://github.com/renoise/pattrns) - Experimental imperative\-style music sequence generator engine
 * 【2025-07-14】[Xerxes-2 / clewdr](https://github.com/Xerxes-2/clewdr) - High Performance LLM Reverse Proxy
 * 【2025-07-14】[rust\-lang / crates io](https://github.com/rust-lang/crates.io) - The Rust package registry
