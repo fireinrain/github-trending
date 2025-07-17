@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-07-17】[nicklockwood / SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command\-line tool and Xcode Extension for formatting Swift code
 * 【2025-07-15】[TomBursch / kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self\-hosted grocery list and recipe manager  The backend is made with Flask and the frontend with Flutter  Easily add items to your shopping list before you go shopping  You can also create recipes and add items based on what you want to cook 
 * 【2025-07-14】[RezaSi / go-interview-practice](https://github.com/RezaSi/go-interview-practice) - Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.
 * 【2025-07-12】[WordPress / wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
@@ -1242,6 +1243,8 @@
 
 ## Python
 
+* 【2025-07-17】[mindverse / Second\-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
+* 【2025-07-17】[philippemerle / KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 * 【2025-07-16】[kvcache\-ai / ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting\-edge LLM Inference Optimizations
 * 【2025-07-14】[OpenPipe / ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi\-step agents for real\-world tasks using GRPO  Give your agents on\-the\-job training  Reinforcement learning for Qwen2 5, Qwen3, Llama, Kimi, and more!
 * 【2025-07-14】[haris-musa / excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
@@ -2717,6 +2720,8 @@
 
 ## Go
 
+* 【2025-07-17】[hypermodeinc / badger](https://github.com/hypermodeinc/badger) - Fast key\-value DB in Go 
+* 【2025-07-17】[bcicen / ctop](https://github.com/bcicen/ctop) - Top\-like interface for container metrics
 * 【2025-07-16】[ArvinLovegood / go-stock](https://github.com/ArvinLovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送。目前已支持A股，港股，美股，未来计划加入基金，ETF等支持。支持市场整体/个股情绪分析，K线分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
 * 【2025-07-14】[ArvinLovegood / go\-stock](https://github.com/ArvinLovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送。目前已支持A股，港股，美股，未来计划加入基金，ETF等支持。支持市场整体/个股情绪分析，K线分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
 * 【2025-07-14】[icereed / paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
@@ -3830,6 +3835,7 @@
 
 ## C#
 
+* 【2025-07-17】[Kyome22 / RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar 
 * 【2025-07-16】[TheRobotStudio / HOPEJr](https://github.com/TheRobotStudio/HOPEJr) - HOPEJr_open\-source_DIY_Humanoid_Robot_with_dexterous_hands
 * 【2025-07-16】[ChangemakerStudios / Papercut\-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP \-\- The Simple Desktop Email Server
 * 【2025-07-16】[rwmt / Multiplayer](https://github.com/rwmt/Multiplayer) - Zetrith's Multiplayer mod for RimWorld
@@ -4218,6 +4224,9 @@
 
 ## Html
 
+* 【2025-07-17】[zhtyyx / ioe](https://github.com/zhtyyx/ioe) - One\-Stop Retail Inventory Solution
+* 【2025-07-17】[ioccc\-src / winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
+* 【2025-07-17】[google / adk-docs](https://github.com/google/adk-docs) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 * 【2025-07-13】[kagisearch / kite\-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi 
 * 【2025-07-13】[pu2clr / SI4735](https://github.com/pu2clr/SI4735) - SI473X Library for Arduino
 * 【2025-07-10】[google / adk\-docs](https://github.com/google/adk-docs) - An open\-source, code\-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control 
@@ -6062,6 +6071,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-07-17】[btc\-vision / OP_20](https://github.com/btc-vision/OP_20) - OP_20 example token
+* 【2025-07-17】[kagent-dev / kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
+* 【2025-07-17】[director\-run / director](https://github.com/director-run/director) - Connect any LLM to any MCP server in seconds  Local\-first  100% free and open source 
 * 【2025-07-15】[SiriusScan / Sirius](https://github.com/SiriusScan/Sirius) - 
 * 【2025-07-14】[subhadeeproy3902 / mvpblocks](https://github.com/subhadeeproy3902/mvpblocks) - MVPBlocks is an open\-source component library for developers to copy, customize, and launch MVPs lightning\-fast—no installations, just pure productivity 
 * 【2025-07-14】[crimx / ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
