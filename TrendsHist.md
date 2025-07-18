@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-07-18】[langchain-ai / open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
 * 【2025-07-17】[nicklockwood / SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command\-line tool and Xcode Extension for formatting Swift code
 * 【2025-07-15】[TomBursch / kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self\-hosted grocery list and recipe manager  The backend is made with Flask and the frontend with Flutter  Easily add items to your shopping list before you go shopping  You can also create recipes and add items based on what you want to cook 
 * 【2025-07-14】[RezaSi / go-interview-practice](https://github.com/RezaSi/go-interview-practice) - Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.
@@ -924,6 +925,7 @@
 
 ## Java
 
+* 【2025-07-18】[spinnaker / spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi\-cloud continuous delivery platform for releasing software changes with high velocity and confidence 
 * 【2025-07-14】[re\-zero001 / LSPosed\-Irena](https://github.com/re-zero001/LSPosed-Irena) - Useless LSPosed Framework Fork
 * 【2025-07-14】[Arijit-SE / Java-Solutions-TCS-IPA-Questions](https://github.com/Arijit-SE/Java-Solutions-TCS-IPA-Questions) - Java Solutions of TCS IPA exam. 35 marks and 15 marks questions are solved.
 * 【2025-07-13】[GumTreeDiff / gumtree](https://github.com/GumTreeDiff/gumtree) - An awesome code differencing tool
@@ -2224,6 +2226,7 @@
 
 ## Javascript
 
+* 【2025-07-18】[phcode\-dev / phoenix](https://github.com/phcode-dev/phoenix) - The text editor designed to make coding as simple and fun as playing a video game
 * 【2025-07-16】[7Sageer / sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
 * 【2025-07-14】[Parcoil / Sparkle](https://github.com/Parcoil/Sparkle) - Ultimate Windows Optimizer
 * 【2025-07-13】[HackTricks-wiki / hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
@@ -5336,6 +5339,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-07-18】[faiface / par\-lang](https://github.com/faiface/par-lang) - Par (⅋) is an experimental concurrent programming language  It's an attempt to bring the expressive power of linear logic into practice 
 * 【2025-07-16】[frectonz / sql\-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server]
 * 【2025-07-15】[renoise / pattrns](https://github.com/renoise/pattrns) - Experimental imperative\-style music sequence generator engine
 * 【2025-07-14】[Xerxes-2 / clewdr](https://github.com/Xerxes-2/clewdr) - High Performance LLM Reverse Proxy
@@ -6071,6 +6075,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-07-18】[makenotion / notion\-mcp\-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server
+* 【2025-07-18】[btc-vision / OP_20](https://github.com/btc-vision/OP_20) - OP_20 example token
+* 【2025-07-18】[langchain\-ai / open\-agent\-platform](https://github.com/langchain-ai/open-agent-platform) - An open\-source, no\-code agent building platform 
 * 【2025-07-17】[btc\-vision / OP_20](https://github.com/btc-vision/OP_20) - OP_20 example token
 * 【2025-07-17】[kagent-dev / kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 * 【2025-07-17】[director\-run / director](https://github.com/director-run/director) - Connect any LLM to any MCP server in seconds  Local\-first  100% free and open source 
