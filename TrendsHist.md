@@ -1245,6 +1245,8 @@
 
 ## Python
 
+* 【2025-07-19】[aliasrobotics / cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), an open Bug Bounty\-ready Artificial Intelligence
+* 【2025-07-19】[maxdorninger / MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 * 【2025-07-17】[mindverse / Second\-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 * 【2025-07-17】[philippemerle / KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 * 【2025-07-16】[kvcache\-ai / ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting\-edge LLM Inference Optimizations
@@ -4718,6 +4720,7 @@
 
 ## Unknown
 
+* 【2025-07-19】[cursor / cursor](https://github.com/cursor/cursor) - The AI Code Editor
 * 【2025-07-16】[MoonshotAI / Kimi\-VL](https://github.com/MoonshotAI/Kimi-VL) - Kimi\-VL: Mixture\-of\-Experts Vision\-Language Model for Multimodal Reasoning, Long\-Context Understanding, and Strong Agent Capabilities
 * 【2025-07-13】[arcprize / ARC\-AGI\-2](https://github.com/arcprize/ARC-AGI-2) - 
 * 【2025-07-04】[SimplifyJobs / Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Collection of Summer 2026 tech internships!
@@ -6075,6 +6078,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-07-19】[CherryHQ / cherry\-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers 
+* 【2025-07-19】[langchain-ai / open-agent-platform](https://github.com/langchain-ai/open-agent-platform) - An open-source, no-code agent building platform.
 * 【2025-07-18】[makenotion / notion\-mcp\-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server
 * 【2025-07-18】[btc-vision / OP_20](https://github.com/btc-vision/OP_20) - OP_20 example token
 * 【2025-07-18】[langchain\-ai / open\-agent\-platform](https://github.com/langchain-ai/open-agent-platform) - An open\-source, no\-code agent building platform 
