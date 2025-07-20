@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-07-20】[bknd-io / bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
 * 【2025-07-18】[langchain-ai / open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
 * 【2025-07-17】[nicklockwood / SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command\-line tool and Xcode Extension for formatting Swift code
 * 【2025-07-15】[TomBursch / kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self\-hosted grocery list and recipe manager  The backend is made with Flask and the frontend with Flutter  Easily add items to your shopping list before you go shopping  You can also create recipes and add items based on what you want to cook 
@@ -2228,6 +2229,7 @@
 
 ## Javascript
 
+* 【2025-07-20】[MarSeventh / CloudFlare\-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open\-source file hosting solution based on CloudFlare (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
 * 【2025-07-18】[phcode\-dev / phoenix](https://github.com/phcode-dev/phoenix) - The text editor designed to make coding as simple and fun as playing a video game
 * 【2025-07-16】[7Sageer / sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
 * 【2025-07-14】[Parcoil / Sparkle](https://github.com/Parcoil/Sparkle) - Ultimate Windows Optimizer
@@ -3484,6 +3486,8 @@
 
 ## C++
 
+* 【2025-07-20】[deepseek\-ai / DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine\-grained scaling
+* 【2025-07-20】[ungive / discord\-music\-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 * 【2025-07-16】[sonicdcer / MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) - Recompilation of MarioKart 64
 * 【2025-07-12】[lraton / FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE
 * 【2025-07-12】[NVIDIA-RTX / NVRHI](https://github.com/NVIDIA-RTX/NVRHI) - 
@@ -3840,6 +3844,7 @@
 
 ## C#
 
+* 【2025-07-20】[Azure / azure\-mcp](https://github.com/Azure/azure-mcp) - The Azure MCP Server, bringing the power of Azure to your agents 
 * 【2025-07-17】[Kyome22 / RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar 
 * 【2025-07-16】[TheRobotStudio / HOPEJr](https://github.com/TheRobotStudio/HOPEJr) - HOPEJr_open\-source_DIY_Humanoid_Robot_with_dexterous_hands
 * 【2025-07-16】[ChangemakerStudios / Papercut\-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP \-\- The Simple Desktop Email Server
