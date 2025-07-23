@@ -1247,6 +1247,7 @@
 
 ## Python
 
+* 【2025-07-23】[sooperset / mcp\-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 * 【2025-07-22】[Yaofang\-Liu / Pusa\-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen) - Pusa: Thousands Timesteps Video Diffusion Model
 * 【2025-07-21】[hesreallyhim / awesome\-claude\-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 * 【2025-07-21】[wasi\-master / 13ft](https://github.com/wasi-master/13ft) - My own custom 12ft io replacement
@@ -3139,6 +3140,7 @@
 
 ## C
 
+* 【2025-07-23】[revk / ESP32-Faikin](https://github.com/revk/ESP32-Faikin) - ESP32 based module to control Daikin aircon units
 * 【2025-07-22】[Zelda64Recomp / Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
 * 【2025-07-13】[Crypto\-toolbox / HFT\-Orderbook](https://github.com/Crypto-toolbox/HFT-Orderbook) - Limit Order Book for high\-frequency trading (HFT), as described by WK Selph, implemented in Python3 and C
 * 【2025-07-12】[PufferAI / PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments
@@ -4246,6 +4248,8 @@
 
 ## Html
 
+* 【2025-07-23】[Tanq16 / ExpenseOwl](https://github.com/Tanq16/ExpenseOwl) - Extremely simple, self\-hosted expense tracker with a beautiful UI 
+* 【2025-07-23】[ibm\-developer\-skills\-network / gkpbt\-css\-circle](https://github.com/ibm-developer-skills-network/gkpbt-css-circle) - css\-circle
 * 【2025-07-17】[zhtyyx / ioe](https://github.com/zhtyyx/ioe) - One\-Stop Retail Inventory Solution
 * 【2025-07-17】[ioccc\-src / winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
 * 【2025-07-17】[google / adk-docs](https://github.com/google/adk-docs) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -5362,6 +5366,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-07-23】[idootop / open\-xiaoai](https://github.com/idootop/open-xiaoai) - 让小爱音箱「听见你的声音」，解锁无限可能。
+* 【2025-07-23】[blockworks\-foundation / autobahn](https://github.com/blockworks-foundation/autobahn) - Dex aggregator on Solana
 * 【2025-07-21】[openai / codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 * 【2025-07-18】[faiface / par\-lang](https://github.com/faiface/par-lang) - Par (⅋) is an experimental concurrent programming language  It's an attempt to bring the expressive power of linear logic into practice 
 * 【2025-07-16】[frectonz / sql\-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server]
@@ -6099,6 +6105,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-07-23】[baturyilmaz / wordpecker\-app](https://github.com/baturyilmaz/wordpecker-app) - A personalized language\-learning tool that combines Duolingo\-style lessons with your own curated vocabulary lists  Seamlessly add words from books, articles, or videos, and revisit them through interactive quizzes and LLM\-generated lessons 
+* 【2025-07-23】[AIDC\-AI / ComfyUI\-Copilot](https://github.com/AIDC-AI/ComfyUI-Copilot) - An AI\-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
 * 【2025-07-22】[arabold / docs\-mcp\-server](https://github.com/arabold/docs-mcp-server) - Docs MCP Server: Enhance Your AI Coding Assistant
 * 【2025-07-21】[Kilo-Org / kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
 * 【2025-07-19】[CherryHQ / cherry\-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers 
