@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-07-24】[Sjj1024 / PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes  轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟  https://ppofficial netlify app
 * 【2025-07-22】[hesreallyhim / awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 * 【2025-07-20】[bknd-io / bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
 * 【2025-07-18】[langchain-ai / open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
@@ -927,6 +928,7 @@
 
 ## Java
 
+* 【2025-07-24】[LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
 * 【2025-07-18】[spinnaker / spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi\-cloud continuous delivery platform for releasing software changes with high velocity and confidence 
 * 【2025-07-14】[re\-zero001 / LSPosed\-Irena](https://github.com/re-zero001/LSPosed-Irena) - Useless LSPosed Framework Fork
 * 【2025-07-14】[Arijit-SE / Java-Solutions-TCS-IPA-Questions](https://github.com/Arijit-SE/Java-Solutions-TCS-IPA-Questions) - Java Solutions of TCS IPA exam. 35 marks and 15 marks questions are solved.
@@ -2732,6 +2734,7 @@
 
 ## Go
 
+* 【2025-07-24】[tnborg / panel](https://github.com/tnborg/panel) - 耗子面板 (RatPanel) \- 新一代服务器运维管理面板。简单轻量，高效运维。
 * 【2025-07-22】[donetick / donetick](https://github.com/donetick/donetick) - Donetick an open\-source, user\-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 * 【2025-07-21】[mudler / LocalRecall](https://github.com/mudler/LocalRecall) - 🧠 100% Local Memory layer and Knowledge base for agents with WebUI
 * 【2025-07-17】[hypermodeinc / badger](https://github.com/hypermodeinc/badger) - Fast key\-value DB in Go 
@@ -4248,6 +4251,7 @@
 
 ## Html
 
+* 【2025-07-24】[jolibrain / colette](https://github.com/jolibrain/colette) - Multimodal RAG to search and interact locally with technical documents of any kind
 * 【2025-07-23】[Tanq16 / ExpenseOwl](https://github.com/Tanq16/ExpenseOwl) - Extremely simple, self\-hosted expense tracker with a beautiful UI 
 * 【2025-07-23】[ibm\-developer\-skills\-network / gkpbt\-css\-circle](https://github.com/ibm-developer-skills-network/gkpbt-css-circle) - css\-circle
 * 【2025-07-17】[zhtyyx / ioe](https://github.com/zhtyyx/ioe) - One\-Stop Retail Inventory Solution
@@ -4741,6 +4745,8 @@
 
 ## Unknown
 
+* 【2025-07-24】[ChristosChristofidis / awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
+* 【2025-07-24】[P3TERX / GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 * 【2025-07-21】[browser\-use / awesome\-prompts](https://github.com/browser-use/awesome-prompts) - Table of awesome Browser Use prompts
 * 【2025-07-21】[iam\-veeramalla / ultimate\-linux\-guide](https://github.com/iam-veeramalla/ultimate-linux-guide) - Ultimate guide to learn Linux from scratch 
 * 【2025-07-21】[crowforkotlin / pastemangax](https://github.com/crowforkotlin/pastemangax) - 🚀拷贝漫画三方APP 、项目采用多模块 和 MVI框架开发、Compose + 原生混合开发
@@ -5366,6 +5372,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-07-24】[wssheldon / osintui](https://github.com/wssheldon/osintui) - OSINT from your favorite services in a friendly terminal user interface \- integrations for Virustotal, Shodan, and Censys
+* 【2025-07-24】[blockworks-foundation / autobahn](https://github.com/blockworks-foundation/autobahn) - Dex aggregator on Solana
+* 【2025-07-24】[topgrade-rs / topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 * 【2025-07-23】[idootop / open\-xiaoai](https://github.com/idootop/open-xiaoai) - 让小爱音箱「听见你的声音」，解锁无限可能。
 * 【2025-07-23】[blockworks\-foundation / autobahn](https://github.com/blockworks-foundation/autobahn) - Dex aggregator on Solana
 * 【2025-07-21】[openai / codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -6105,6 +6114,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-07-24】[AIDC-AI / ComfyUI-Copilot](https://github.com/AIDC-AI/ComfyUI-Copilot) - An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
+* 【2025-07-24】[unsend\-dev / unsend](https://github.com/unsend-dev/unsend) - Open source alternative to Resend,Sendgrid, Postmark etc 
 * 【2025-07-23】[baturyilmaz / wordpecker\-app](https://github.com/baturyilmaz/wordpecker-app) - A personalized language\-learning tool that combines Duolingo\-style lessons with your own curated vocabulary lists  Seamlessly add words from books, articles, or videos, and revisit them through interactive quizzes and LLM\-generated lessons 
 * 【2025-07-23】[AIDC\-AI / ComfyUI\-Copilot](https://github.com/AIDC-AI/ComfyUI-Copilot) - An AI\-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
 * 【2025-07-22】[arabold / docs\-mcp\-server](https://github.com/arabold/docs-mcp-server) - Docs MCP Server: Enhance Your AI Coding Assistant
