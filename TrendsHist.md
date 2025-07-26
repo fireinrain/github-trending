@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-07-26】[QwenLM / Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
+* 【2025-07-26】[semgrep / semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages  Find bug variants with patterns that look like source code 
 * 【2025-07-25】[langchain\-ai / rag\-from\-scratch](https://github.com/langchain-ai/rag-from-scratch) - 
 * 【2025-07-24】[Sjj1024 / PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes  轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟  https://ppofficial netlify app
 * 【2025-07-22】[hesreallyhim / awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
@@ -929,6 +931,7 @@
 
 ## Java
 
+* 【2025-07-26】[eclipse-openj9 / openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput. Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 * 【2025-07-24】[LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
 * 【2025-07-18】[spinnaker / spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi\-cloud continuous delivery platform for releasing software changes with high velocity and confidence 
 * 【2025-07-14】[re\-zero001 / LSPosed\-Irena](https://github.com/re-zero001/LSPosed-Irena) - Useless LSPosed Framework Fork
@@ -1250,6 +1253,7 @@
 
 ## Python
 
+* 【2025-07-26】[roboflow / rf\-detr](https://github.com/roboflow/rf-detr) - RF\-DETR is a real\-time object detection model architecture developed by Roboflow, SOTA on COCO and designed for fine\-tuning 
 * 【2025-07-25】[SkyworkAI / SkyReels\-V2](https://github.com/SkyworkAI/SkyReels-V2) - SkyReels\-V2: Infinite\-length Film Generative model
 * 【2025-07-25】[QwenLM / Qwen3\-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3\-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud 
 * 【2025-07-23】[sooperset / mcp\-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
@@ -2739,6 +2743,7 @@
 
 ## Go
 
+* 【2025-07-26】[containers / kubernetes\-mcp\-server](https://github.com/containers/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 * 【2025-07-24】[tnborg / panel](https://github.com/tnborg/panel) - 耗子面板 (RatPanel) \- 新一代服务器运维管理面板。简单轻量，高效运维。
 * 【2025-07-22】[donetick / donetick](https://github.com/donetick/donetick) - Donetick an open\-source, user\-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 * 【2025-07-21】[mudler / LocalRecall](https://github.com/mudler/LocalRecall) - 🧠 100% Local Memory layer and Knowledge base for agents with WebUI
@@ -5377,6 +5382,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-07-26】[frectonz / sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server]
 * 【2025-07-25】[idootop / open-xiaoai](https://github.com/idootop/open-xiaoai) - 让小爱音箱「听见你的声音」，解锁无限可能。
 * 【2025-07-24】[wssheldon / osintui](https://github.com/wssheldon/osintui) - OSINT from your favorite services in a friendly terminal user interface \- integrations for Virustotal, Shodan, and Censys
 * 【2025-07-24】[blockworks-foundation / autobahn](https://github.com/blockworks-foundation/autobahn) - Dex aggregator on Solana
@@ -6120,6 +6126,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-07-26】[google\-gemini / gemini\-cli](https://github.com/google-gemini/gemini-cli) - An open\-source AI agent that brings the power of Gemini directly into your terminal 
 * 【2025-07-25】[frappe / books](https://github.com/frappe/books) - Free Accounting Software
 * 【2025-07-25】[coderamp\-labs / pad ws](https://github.com/coderamp-labs/pad.ws) - Whiteboard as an IDE, draw and code in your browser
 * 【2025-07-25】[Voxelum / x\-minecraft\-launcher](https://github.com/Voxelum/x-minecraft-launcher) - An Open Source Minecraft Launcher with Modern UX  Provides a Disk Efficient way to manage all your Mods!
