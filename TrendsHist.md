@@ -1253,6 +1253,8 @@
 
 ## Python
 
+* 【2025-07-27】[Intelligent\-Internet / ii\-agent](https://github.com/Intelligent-Internet/ii-agent) - II\-Agent: a new open\-source framework to build and deploy intelligent agents
+* 【2025-07-27】[googleapis / python\-genai](https://github.com/googleapis/python-genai) - Google Gen AI Python SDK provides an interface for developers to integrate Google's generative models into their Python applications 
 * 【2025-07-26】[roboflow / rf\-detr](https://github.com/roboflow/rf-detr) - RF\-DETR is a real\-time object detection model architecture developed by Roboflow, SOTA on COCO and designed for fine\-tuning 
 * 【2025-07-25】[SkyworkAI / SkyReels\-V2](https://github.com/SkyworkAI/SkyReels-V2) - SkyReels\-V2: Infinite\-length Film Generative model
 * 【2025-07-25】[QwenLM / Qwen3\-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3\-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud 
@@ -2743,6 +2745,8 @@
 
 ## Go
 
+* 【2025-07-27】[google / oss\-rebuild](https://github.com/google/oss-rebuild) - Securing open\-source package ecosystems by originating, validating, and augmenting build attestations 
+* 【2025-07-27】[modelcontextprotocol / go\-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients  Maintained in collaboration with Google 
 * 【2025-07-26】[containers / kubernetes\-mcp\-server](https://github.com/containers/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 * 【2025-07-24】[tnborg / panel](https://github.com/tnborg/panel) - 耗子面板 (RatPanel) \- 新一代服务器运维管理面板。简单轻量，高效运维。
 * 【2025-07-22】[donetick / donetick](https://github.com/donetick/donetick) - Donetick an open\-source, user\-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
@@ -5382,6 +5386,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-07-27】[datavzrd / datavzrd](https://github.com/datavzrd/datavzrd) - A tool to create visual HTML reports from collections of CSV/TSV tables
 * 【2025-07-26】[frectonz / sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server]
 * 【2025-07-25】[idootop / open-xiaoai](https://github.com/idootop/open-xiaoai) - 让小爱音箱「听见你的声音」，解锁无限可能。
 * 【2025-07-24】[wssheldon / osintui](https://github.com/wssheldon/osintui) - OSINT from your favorite services in a friendly terminal user interface \- integrations for Virustotal, Shodan, and Censys
@@ -6126,6 +6131,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-07-27】[badboysm890 / ClaraVerse](https://github.com/badboysm890/ClaraVerse) - Clara — Privacy\-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n\-style automation  No backend  No API keys  Just your stack, your machine 
+* 【2025-07-27】[sumithemmadi / truecallerjs](https://github.com/sumithemmadi/truecallerjs) - TruecallerJS: This is a library for retrieving phone number details using the Truecaller API 
+* 【2025-07-27】[eastlondoner / vibe\-tools](https://github.com/eastlondoner/vibe-tools) - Give Cursor Agent an AI Team and Advanced Skills
+* 【2025-07-27】[google-gemini / gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 * 【2025-07-26】[google\-gemini / gemini\-cli](https://github.com/google-gemini/gemini-cli) - An open\-source AI agent that brings the power of Gemini directly into your terminal 
 * 【2025-07-25】[frappe / books](https://github.com/frappe/books) - Free Accounting Software
 * 【2025-07-25】[coderamp\-labs / pad ws](https://github.com/coderamp-labs/pad.ws) - Whiteboard as an IDE, draw and code in your browser
