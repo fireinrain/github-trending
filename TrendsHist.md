@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-07-29】[ashishpatel26 / 500\-AI\-Agents\-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries  It showcases practical applications and provides links to open\-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more 
 * 【2025-07-28】[daveebbelaar / ai\-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 * 【2025-07-26】[QwenLM / Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
 * 【2025-07-26】[semgrep / semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages  Find bug variants with patterns that look like source code 
@@ -932,6 +933,9 @@
 
 ## Java
 
+* 【2025-07-29】[NemProject / nem](https://github.com/NemProject/nem) - number go up 💹
+* 【2025-07-29】[coze\-dev / coze\-java](https://github.com/coze-dev/coze-java) - The Java SDK for the Coze API
+* 【2025-07-29】[CellularPrivacy / Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
 * 【2025-07-28】[junit-team / junit-framework](https://github.com/junit-team/junit-framework) - ✅ The programmer-friendly testing framework for Java and the JVM
 * 【2025-07-26】[eclipse-openj9 / openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput. Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.
 * 【2025-07-24】[LaurieWired / GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
@@ -1255,6 +1259,8 @@
 
 ## Python
 
+* 【2025-07-29】[ml-explore / mlx-lm](https://github.com/ml-explore/mlx-lm) - Run LLMs with MLX
+* 【2025-07-29】[mindverse / Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 * 【2025-07-28】[daveebbelaar / ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 * 【2025-07-28】[OWASP / Nest](https://github.com/OWASP/Nest) - Your gateway to OWASP  Discover, engage, and help shape the future!
 * 【2025-07-28】[ml\-explore / mlx\-lm](https://github.com/ml-explore/mlx-lm) - Run LLMs with MLX
@@ -3164,6 +3170,7 @@
 
 ## C
 
+* 【2025-07-29】[cellos51 / balatro\-gba](https://github.com/cellos51/balatro-gba) - 
 * 【2025-07-23】[revk / ESP32-Faikin](https://github.com/revk/ESP32-Faikin) - ESP32 based module to control Daikin aircon units
 * 【2025-07-22】[Zelda64Recomp / Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
 * 【2025-07-13】[Crypto\-toolbox / HFT\-Orderbook](https://github.com/Crypto-toolbox/HFT-Orderbook) - Limit Order Book for high\-frequency trading (HFT), as described by WK Selph, implemented in Python3 and C
@@ -3519,6 +3526,8 @@
 
 ## C++
 
+* 【2025-07-29】[facebook / watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change 
+* 【2025-07-29】[OHF\-Voice / piper1\-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text\-to\-speech engine
 * 【2025-07-22】[hyprwm / hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
 * 【2025-07-21】[OpenHUTB / hutb](https://github.com/OpenHUTB/hutb) - 人车模拟器
 * 【2025-07-20】[deepseek\-ai / DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine\-grained scaling
@@ -4769,6 +4778,8 @@
 
 ## Unknown
 
+* 【2025-07-29】[ashishpatel26 / 500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
+* 【2025-07-29】[melontini / bootloader\-unlock\-wall\-of\-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 * 【2025-07-24】[ChristosChristofidis / awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 * 【2025-07-24】[P3TERX / GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 * 【2025-07-21】[browser\-use / awesome\-prompts](https://github.com/browser-use/awesome-prompts) - Table of awesome Browser Use prompts
@@ -5396,6 +5407,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-07-29】[warp\-tech / warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client\-side software
+* 【2025-07-29】[Rust-GPU / rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 * 【2025-07-27】[datavzrd / datavzrd](https://github.com/datavzrd/datavzrd) - A tool to create visual HTML reports from collections of CSV/TSV tables
 * 【2025-07-26】[frectonz / sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, Microsoft SQL Server]
 * 【2025-07-25】[idootop / open-xiaoai](https://github.com/idootop/open-xiaoai) - 让小爱音箱「听见你的声音」，解锁无限可能。
@@ -6141,6 +6154,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-07-29】[idosal / git\-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open\-source, remote MCP server for any GitHub project
 * 【2025-07-28】[designcombo / react\-video\-editor](https://github.com/designcombo/react-video-editor) - Online react video editor using remotion  Capcut and canva clone 
 * 【2025-07-27】[badboysm890 / ClaraVerse](https://github.com/badboysm890/ClaraVerse) - Clara — Privacy\-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n\-style automation  No backend  No API keys  Just your stack, your machine 
 * 【2025-07-27】[sumithemmadi / truecallerjs](https://github.com/sumithemmadi/truecallerjs) - TruecallerJS: This is a library for retrieving phone number details using the Truecaller API 
