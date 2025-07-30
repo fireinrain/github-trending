@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-07-30】[9001 / copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 * 【2025-07-29】[ashishpatel26 / 500\-AI\-Agents\-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries  It showcases practical applications and provides links to open\-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more 
 * 【2025-07-28】[daveebbelaar / ai\-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 * 【2025-07-26】[QwenLM / Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
@@ -933,6 +934,7 @@
 
 ## Java
 
+* 【2025-07-30】[coze-dev / coze-java](https://github.com/coze-dev/coze-java) - The Java SDK for the Coze API
 * 【2025-07-29】[NemProject / nem](https://github.com/NemProject/nem) - number go up 💹
 * 【2025-07-29】[coze\-dev / coze\-java](https://github.com/coze-dev/coze-java) - The Java SDK for the Coze API
 * 【2025-07-29】[CellularPrivacy / Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
@@ -2257,6 +2259,10 @@
 
 ## Javascript
 
+* 【2025-07-30】[zumerlab / snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements to images with exceptional speed and accuracy 
+* 【2025-07-30】[hotheadhacker / no\-as\-a\-service](https://github.com/hotheadhacker/no-as-a-service) - No\-as\-a\-Service (NaaS) is a simple API that returns a random rejection reason  Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style 
+* 【2025-07-30】[zed\-industries / zed\-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
+* 【2025-07-30】[eoao / cloud\-mail](https://github.com/eoao/cloud-mail) - cloudflare email 邮箱 临时邮箱 邮件发送 mail
 * 【2025-07-25】[department-of-veterans-affairs / vets-website](https://github.com/department-of-veterans-affairs/vets-website) - Frontend for VA.gov
 * 【2025-07-25】[acornjs / acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript\-based JavaScript parser
 * 【2025-07-20】[MarSeventh / CloudFlare\-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open\-source file hosting solution based on CloudFlare (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
@@ -2757,6 +2763,8 @@
 
 ## Go
 
+* 【2025-07-30】[modelcontextprotocol / go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
+* 【2025-07-30】[inngest / inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform  Run stateful step functions and AI workflows on serverless, servers, or the edge 
 * 【2025-07-28】[jhaals / yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 * 【2025-07-27】[google / oss\-rebuild](https://github.com/google/oss-rebuild) - Securing open\-source package ecosystems by originating, validating, and augmenting build attestations 
 * 【2025-07-27】[modelcontextprotocol / go\-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients  Maintained in collaboration with Google 
@@ -3170,6 +3178,7 @@
 
 ## C
 
+* 【2025-07-30】[system\-linux / FazJammer](https://github.com/system-linux/FazJammer) - A minimal, simple and effective jammer that jams Wi\-Fi, BLE and 2 4 GHz band 
 * 【2025-07-29】[cellos51 / balatro\-gba](https://github.com/cellos51/balatro-gba) - 
 * 【2025-07-23】[revk / ESP32-Faikin](https://github.com/revk/ESP32-Faikin) - ESP32 based module to control Daikin aircon units
 * 【2025-07-22】[Zelda64Recomp / Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
@@ -3888,6 +3897,8 @@
 
 ## C#
 
+* 【2025-07-30】[AIDotNet / OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) - OpenDeepWiki is the open\-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform  The project is mainly developed using C\# and TypeScript, supporting modular design, and is easy to expand and customize 
+* 【2025-07-30】[xenia\-manager / xenia\-manager](https://github.com/xenia-manager/xenia-manager) - Xenia Manager is a tool that tries to make using Xenia Emulator easier 
 * 【2025-07-28】[getsentry / sentry\-dotnet](https://github.com/getsentry/sentry-dotnet) - Sentry SDK for  NET
 * 【2025-07-28】[Cleanuparr / Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission 
 * 【2025-07-22】[REDSIM / VRCLightVolumes](https://github.com/REDSIM/VRCLightVolumes) - Nextgen voxel based light probes replacement for VRChat
@@ -4778,6 +4789,8 @@
 
 ## Unknown
 
+* 【2025-07-30】[qcha / JBook](https://github.com/qcha/JBook) - Алгоритмы, паттерны, подготовка к собеседованиям, статьи и материалы по Java
+* 【2025-07-30】[melontini / bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 * 【2025-07-29】[ashishpatel26 / 500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
 * 【2025-07-29】[melontini / bootloader\-unlock\-wall\-of\-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 * 【2025-07-24】[ChristosChristofidis / awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
@@ -5407,6 +5420,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-07-30】[warp-tech / warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
+* 【2025-07-30】[shshemi / tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet 
+* 【2025-07-30】[n0\-computer / dumbpipe](https://github.com/n0-computer/dumbpipe) - Unix pipes between devices
 * 【2025-07-29】[warp\-tech / warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client\-side software
 * 【2025-07-29】[Rust-GPU / rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 * 【2025-07-27】[datavzrd / datavzrd](https://github.com/datavzrd/datavzrd) - A tool to create visual HTML reports from collections of CSV/TSV tables
@@ -6154,6 +6170,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-07-30】[Nutlope / self so](https://github.com/Nutlope/self.so) - LinkedIn \-> personal site generator
+* 【2025-07-30】[coze\-dev / coze\-js](https://github.com/coze-dev/coze-js) - The JavaScript SDK for the Coze API
+* 【2025-07-30】[designcombo / react-video-editor](https://github.com/designcombo/react-video-editor) - Online react video editor using remotion. Capcut and canva clone.
 * 【2025-07-29】[idosal / git\-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open\-source, remote MCP server for any GitHub project
 * 【2025-07-28】[designcombo / react\-video\-editor](https://github.com/designcombo/react-video-editor) - Online react video editor using remotion  Capcut and canva clone 
 * 【2025-07-27】[badboysm890 / ClaraVerse](https://github.com/badboysm890/ClaraVerse) - Clara — Privacy\-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n\-style automation  No backend  No API keys  Just your stack, your machine 
