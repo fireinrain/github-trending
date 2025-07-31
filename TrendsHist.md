@@ -934,6 +934,7 @@
 
 ## Java
 
+* 【2025-07-31】[wso2 / product-is](https://github.com/wso2/product-is) - Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below.
 * 【2025-07-30】[coze-dev / coze-java](https://github.com/coze-dev/coze-java) - The Java SDK for the Coze API
 * 【2025-07-29】[NemProject / nem](https://github.com/NemProject/nem) - number go up 💹
 * 【2025-07-29】[coze\-dev / coze\-java](https://github.com/coze-dev/coze-java) - The Java SDK for the Coze API
@@ -1261,6 +1262,8 @@
 
 ## Python
 
+* 【2025-07-31】[protectai / vulnhuntr](https://github.com/protectai/vulnhuntr) - Zero shot vulnerability discovery using LLMs
+* 【2025-07-31】[denizsafak / abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions 
 * 【2025-07-29】[ml-explore / mlx-lm](https://github.com/ml-explore/mlx-lm) - Run LLMs with MLX
 * 【2025-07-29】[mindverse / Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 * 【2025-07-28】[daveebbelaar / ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
@@ -2763,6 +2766,8 @@
 
 ## Go
 
+* 【2025-07-31】[cloudwego / eino-examples](https://github.com/cloudwego/eino-examples) - Examples and demonstrations for using the Eino framework
+* 【2025-07-31】[envoyproxy / ai\-gateway](https://github.com/envoyproxy/ai-gateway) - Envoy AI Gateway is an open source project for using Envoy Gateway to handle request traffic from application clients to Generative AI services 
 * 【2025-07-30】[modelcontextprotocol / go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
 * 【2025-07-30】[inngest / inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform  Run stateful step functions and AI workflows on serverless, servers, or the edge 
 * 【2025-07-28】[jhaals / yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
@@ -3897,6 +3902,7 @@
 
 ## C#
 
+* 【2025-07-31】[ClassIsland / ClassIsland](https://github.com/ClassIsland/ClassIsland) - 一款适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
 * 【2025-07-30】[AIDotNet / OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) - OpenDeepWiki is the open\-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform  The project is mainly developed using C\# and TypeScript, supporting modular design, and is easy to expand and customize 
 * 【2025-07-30】[xenia\-manager / xenia\-manager](https://github.com/xenia-manager/xenia-manager) - Xenia Manager is a tool that tries to make using Xenia Emulator easier 
 * 【2025-07-28】[getsentry / sentry\-dotnet](https://github.com/getsentry/sentry-dotnet) - Sentry SDK for  NET
@@ -4789,6 +4795,7 @@
 
 ## Unknown
 
+* 【2025-07-31】[omkarcloud / google\-maps\-scraper](https://github.com/omkarcloud/google-maps-scraper) - 👋 HOLA 👋 HOLA 👋 HOLA ! ENJOY OUR GOOGLE MAPS SCRAPER 🚀 TO EFFORTLESSLY EXTRACT DATA SUCH AS NAMES, ADDRESSES, PHONE NUMBERS, REVIEWS, WEBSITES, AND RATINGS FROM GOOGLE MAPS WITH EASE! 🤖
 * 【2025-07-30】[qcha / JBook](https://github.com/qcha/JBook) - Алгоритмы, паттерны, подготовка к собеседованиям, статьи и материалы по Java
 * 【2025-07-30】[melontini / bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 * 【2025-07-29】[ashishpatel26 / 500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
@@ -6170,6 +6177,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-07-31】[bytebase / dbhub](https://github.com/bytebase/dbhub) - Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, MariaDB 
+* 【2025-07-31】[workadventure / workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16\-bit RPG video game
+* 【2025-07-31】[idosal / git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 * 【2025-07-30】[Nutlope / self so](https://github.com/Nutlope/self.so) - LinkedIn \-> personal site generator
 * 【2025-07-30】[coze\-dev / coze\-js](https://github.com/coze-dev/coze-js) - The JavaScript SDK for the Coze API
 * 【2025-07-30】[designcombo / react-video-editor](https://github.com/designcombo/react-video-editor) - Online react video editor using remotion. Capcut and canva clone.
