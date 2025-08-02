@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-08-02】[dyad\-sh / dyad](https://github.com/dyad-sh/dyad) - Free, local, open\-source AI app builder \| v0 / lovable / Bolt alternative \| 🌟 Star if you like it!
+* 【2025-08-02】[playcanvas / editor](https://github.com/playcanvas/editor) - Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
+* 【2025-08-02】[TideDra / zotero\-arxiv\-daily](https://github.com/TideDra/zotero-arxiv-daily) - Recommend new arxiv papers of your interest daily according to your Zotero libarary 
 * 【2025-08-01】[SkyworkAI / SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) - SkyReels-V2: Infinite-length Film Generative model
 * 【2025-07-30】[9001 / copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 * 【2025-07-29】[ashishpatel26 / 500\-AI\-Agents\-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries  It showcases practical applications and provides links to open\-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more 
@@ -1264,6 +1267,8 @@
 
 ## Python
 
+* 【2025-08-02】[TideDra / zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) - Recommend new arxiv papers of your interest daily according to your Zotero libarary.
+* 【2025-08-02】[chu23465 / VT\-PR](https://github.com/chu23465/VT-PR) - VineTrimmer with PlayReady and WideVine support, WIP  A DRM Removal Framework for Streaming Services 
 * 【2025-08-01】[OSU-NLP-Group / HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) - [NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized PageRank.
 * 【2025-08-01】[microsoft / mcp\-for\-beginners](https://github.com/microsoft/mcp-for-beginners) - This open\-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real\-world, cross\-language examples in  NET, Java, TypeScript, JavaScript, and Python  Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration 
 * 【2025-08-01】[nikmcfly / ANUS](https://github.com/nikmcfly/ANUS) - 
@@ -3191,6 +3196,7 @@
 
 ## C
 
+* 【2025-08-02】[sipwise / rtpengine](https://github.com/sipwise/rtpengine) - The Sipwise media proxy for Kamailio
 * 【2025-07-30】[system\-linux / FazJammer](https://github.com/system-linux/FazJammer) - A minimal, simple and effective jammer that jams Wi\-Fi, BLE and 2 4 GHz band 
 * 【2025-07-29】[cellos51 / balatro\-gba](https://github.com/cellos51/balatro-gba) - 
 * 【2025-07-23】[revk / ESP32-Faikin](https://github.com/revk/ESP32-Faikin) - ESP32 based module to control Daikin aircon units
@@ -3548,6 +3554,7 @@
 
 ## C++
 
+* 【2025-08-02】[deepseek-ai / DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
 * 【2025-07-29】[facebook / watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change 
 * 【2025-07-29】[OHF\-Voice / piper1\-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text\-to\-speech engine
 * 【2025-07-22】[hyprwm / hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
@@ -3910,6 +3917,8 @@
 
 ## C#
 
+* 【2025-08-02】[Arcenox\-co / TickerQ](https://github.com/Arcenox-co/TickerQ) - TickerQ is a fast, reflection\-free background task scheduler for  NET — built with source generators, EF Core integration, cron + time\-based execution, and a real\-time dashboard 
+* 【2025-08-02】[PixiEditor / PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
 * 【2025-08-01】[Luca3317 / TMPEffects](https://github.com/Luca3317/TMPEffects) - Easily animate Unity text and apply other effects with custom tags
 * 【2025-08-01】[CoplayDev / unity\-mcp](https://github.com/CoplayDev/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions 
 * 【2025-07-31】[ClassIsland / ClassIsland](https://github.com/ClassIsland/ClassIsland) - 一款适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
@@ -5440,6 +5449,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-08-02】[facebookincubator / below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
 * 【2025-08-01】[imsnif / bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 * 【2025-08-01】[ethersync / ethersync](https://github.com/ethersync/ethersync) - Editor\-agnostic, real\-time collaborative editing of local text files 
 * 【2025-07-30】[warp-tech / warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
@@ -6192,6 +6202,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-08-02】[dyad-sh / dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
+* 【2025-08-02】[galaxy-s10 / billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制
+* 【2025-08-02】[sourcebot\-dev / sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self\-hosted tool that helps you understand your codebase 
 * 【2025-08-01】[puckeditor / puck](https://github.com/puckeditor/puck) - The visual editor for React
 * 【2025-07-31】[bytebase / dbhub](https://github.com/bytebase/dbhub) - Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, MariaDB 
 * 【2025-07-31】[workadventure / workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16\-bit RPG video game
