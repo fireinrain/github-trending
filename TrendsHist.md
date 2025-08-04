@@ -938,6 +938,8 @@
 
 ## Java
 
+* 【2025-08-04】[Wurst\-Imperium / Wurst7](https://github.com/Wurst-Imperium/Wurst7) - Minecraft Wurst Hacked Client v7
+* 【2025-08-04】[openrocket / openrocket](https://github.com/openrocket/openrocket) - Model\-rocketry aerodynamics and trajectory simulation software
 * 【2025-08-03】[OWASP\-Benchmark / BenchmarkJava](https://github.com/OWASP-Benchmark/BenchmarkJava) - OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools  A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java  The idea is that since it is fully runnable and all the vulnerabilities are actually expl…
 * 【2025-08-01】[gravitee\-io / gravitee\-api\-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee io \- OpenSource API Management
 * 【2025-07-31】[wso2 / product-is](https://github.com/wso2/product-is) - Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below.
@@ -1268,6 +1270,7 @@
 
 ## Python
 
+* 【2025-08-04】[nerfstudio-project / viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization + Python
 * 【2025-08-03】[karpathy / build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
 * 【2025-08-03】[GongRzhe / Office\-PowerPoint\-MCP\-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) - A MCP (Model Context Protocol) server for PowerPoint manipulation using python\-pptx  This server provides tools for creating, editing, and manipulating PowerPoint presentations through the MCP protocol 
 * 【2025-08-03】[nerfstudio\-project / viser](https://github.com/nerfstudio-project/viser) - Web\-based 3D visualization + Python
@@ -2276,6 +2279,7 @@
 
 ## Javascript
 
+* 【2025-08-04】[crocodilestick / Calibre\-Web\-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre\-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 * 【2025-08-03】[google / earthengine\-api](https://github.com/google/earthengine-api) - Python and JavaScript bindings for calling the Earth Engine API 
 * 【2025-08-01】[viatsko / awesome\-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources 
 * 【2025-07-30】[zumerlab / snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements to images with exceptional speed and accuracy 
@@ -3925,6 +3929,7 @@
 
 ## C#
 
+* 【2025-08-04】[CoplayDev / unity-mcp](https://github.com/CoplayDev/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
 * 【2025-08-03】[Arcenox-co / TickerQ](https://github.com/Arcenox-co/TickerQ) - TickerQ is a fast, reflection-free background task scheduler for .NET — built with source generators, EF Core integration, cron + time-based execution, and a real-time dashboard.
 * 【2025-08-02】[Arcenox\-co / TickerQ](https://github.com/Arcenox-co/TickerQ) - TickerQ is a fast, reflection\-free background task scheduler for  NET — built with source generators, EF Core integration, cron + time\-based execution, and a real\-time dashboard 
 * 【2025-08-02】[PixiEditor / PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
@@ -4824,6 +4829,8 @@
 
 ## Unknown
 
+* 【2025-08-04】[Kimentanm / aptv](https://github.com/Kimentanm/aptv) - 📺 A tool for playing m3u8 file
+* 【2025-08-04】[MuriithiEric / July2025Cohort-Hackathon1](https://github.com/MuriithiEric/July2025Cohort-Hackathon1) - 
 * 【2025-08-01】[omkarcloud / google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) - 👋 HOLA 👋 HOLA 👋 HOLA ! ENJOY OUR GOOGLE MAPS SCRAPER 🚀 TO EFFORTLESSLY EXTRACT DATA SUCH AS NAMES, ADDRESSES, PHONE NUMBERS, REVIEWS, WEBSITES, AND RATINGS FROM GOOGLE MAPS WITH EASE! 🤖
 * 【2025-08-01】[crescentpartha / CheatSheets\-for\-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers) - A collection of programming CheatSheets for developers to boost your productivity and quick review to remember while working 
 * 【2025-08-01】[MuriithiEric / July2025Cohort\-Hackathon1](https://github.com/MuriithiEric/July2025Cohort-Hackathon1) - 
@@ -5459,6 +5466,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-08-04】[zama\-ai / fhevm](https://github.com/zama-ai/fhevm) - FHEVM, a full\-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
 * 【2025-08-02】[facebookincubator / below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
 * 【2025-08-01】[imsnif / bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 * 【2025-08-01】[ethersync / ethersync](https://github.com/ethersync/ethersync) - Editor\-agnostic, real\-time collaborative editing of local text files 
@@ -6212,6 +6220,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-08-04】[Prat011 / free\-cluely](https://github.com/Prat011/free-cluely) - Open Source version of Cluely
 * 【2025-08-03】[sourcebot-dev / sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps you understand your codebase.
 * 【2025-08-03】[silverbulletmd / silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 * 【2025-08-02】[dyad-sh / dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
