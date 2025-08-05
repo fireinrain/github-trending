@@ -1270,6 +1270,11 @@
 
 ## Python
 
+* 【2025-08-05】[resemble\-ai / chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open\-source TTS
+* 【2025-08-05】[microsoft / mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
+* 【2025-08-05】[google / adk\-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development (ADK)
+* 【2025-08-05】[Tautulli / Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server 
+* 【2025-08-05】[stanford\-cs336 / spring2025\-lectures](https://github.com/stanford-cs336/spring2025-lectures) - 
 * 【2025-08-04】[nerfstudio-project / viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization + Python
 * 【2025-08-03】[karpathy / build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
 * 【2025-08-03】[GongRzhe / Office\-PowerPoint\-MCP\-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) - A MCP (Model Context Protocol) server for PowerPoint manipulation using python\-pptx  This server provides tools for creating, editing, and manipulating PowerPoint presentations through the MCP protocol 
@@ -2279,6 +2284,7 @@
 
 ## Javascript
 
+* 【2025-08-05】[crocodilestick / Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 * 【2025-08-04】[crocodilestick / Calibre\-Web\-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre\-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 * 【2025-08-03】[google / earthengine\-api](https://github.com/google/earthengine-api) - Python and JavaScript bindings for calling the Earth Engine API 
 * 【2025-08-01】[viatsko / awesome\-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources 
@@ -3206,6 +3212,7 @@
 
 ## C
 
+* 【2025-08-05】[dev-Ali2008 / xanite](https://github.com/dev-Ali2008/xanite) - Xanite
 * 【2025-08-02】[sipwise / rtpengine](https://github.com/sipwise/rtpengine) - The Sipwise media proxy for Kamailio
 * 【2025-07-30】[system\-linux / FazJammer](https://github.com/system-linux/FazJammer) - A minimal, simple and effective jammer that jams Wi\-Fi, BLE and 2 4 GHz band 
 * 【2025-07-29】[cellos51 / balatro\-gba](https://github.com/cellos51/balatro-gba) - 
@@ -5466,6 +5473,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-08-05】[metalbear\-co / mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions 
 * 【2025-08-04】[zama\-ai / fhevm](https://github.com/zama-ai/fhevm) - FHEVM, a full\-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
 * 【2025-08-02】[facebookincubator / below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
 * 【2025-08-01】[imsnif / bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
@@ -6220,6 +6228,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-08-05】[homarr\-labs / homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard  30+ integrations  10K+ icons built in  Authentication out of the box  No YAML, drag and drop configuration 
+* 【2025-08-05】[Prat011 / free-cluely](https://github.com/Prat011/free-cluely) - Open Source version of Cluely
+* 【2025-08-05】[usertour / usertour](https://github.com/usertour/usertour) - Usertour is an open\-source user onboarding platform  It allows you to create in\-app product tours, checklists, and surveys in minutes—effortlessly and with full control The open\-source alternative to Userflow and Appcues
+* 【2025-08-05】[remvze / moodist](https://github.com/remvze/moodist) - 🌲 Ambient sounds for focus and calm 
+* 【2025-08-05】[thewh1teagle / vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 * 【2025-08-04】[Prat011 / free\-cluely](https://github.com/Prat011/free-cluely) - Open Source version of Cluely
 * 【2025-08-03】[sourcebot-dev / sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps you understand your codebase.
 * 【2025-08-03】[silverbulletmd / silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
