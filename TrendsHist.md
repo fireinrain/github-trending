@@ -938,6 +938,7 @@
 
 ## Java
 
+* 【2025-08-06】[babyfish\-ct / jimmer](https://github.com/babyfish-ct/jimmer) - The most advanced ORM of JVM, for both java & kotlin
 * 【2025-08-04】[Wurst\-Imperium / Wurst7](https://github.com/Wurst-Imperium/Wurst7) - Minecraft Wurst Hacked Client v7
 * 【2025-08-04】[openrocket / openrocket](https://github.com/openrocket/openrocket) - Model\-rocketry aerodynamics and trajectory simulation software
 * 【2025-08-03】[OWASP\-Benchmark / BenchmarkJava](https://github.com/OWASP-Benchmark/BenchmarkJava) - OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools  A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java  The idea is that since it is fully runnable and all the vulnerabilities are actually expl…
@@ -1270,6 +1271,9 @@
 
 ## Python
 
+* 【2025-08-06】[google / adk-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development (ADK)
+* 【2025-08-06】[trailofbits / algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+* 【2025-08-06】[UKGovernmentBEIS / inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - Inspect: A framework for large language model evaluations
 * 【2025-08-05】[resemble\-ai / chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open\-source TTS
 * 【2025-08-05】[microsoft / mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
 * 【2025-08-05】[google / adk\-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development (ADK)
@@ -3212,6 +3216,8 @@
 
 ## C
 
+* 【2025-08-06】[TinyCC / tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
+* 【2025-08-06】[utkarshdalal / GameNative](https://github.com/utkarshdalal/GameNative) - Lightweight unofficial Steam client for Android
 * 【2025-08-05】[dev-Ali2008 / xanite](https://github.com/dev-Ali2008/xanite) - Xanite
 * 【2025-08-02】[sipwise / rtpengine](https://github.com/sipwise/rtpengine) - The Sipwise media proxy for Kamailio
 * 【2025-07-30】[system\-linux / FazJammer](https://github.com/system-linux/FazJammer) - A minimal, simple and effective jammer that jams Wi\-Fi, BLE and 2 4 GHz band 
@@ -3571,6 +3577,8 @@
 
 ## C++
 
+* 【2025-08-06】[duixcom / Duix\-Mobile](https://github.com/duixcom/Duix-Mobile) - 🚀 全网效果最好的移动端【实时对话数字人】。 支持本地部署、多模态交互（语音、文本、表情），响应速度低于 1 5 秒，适用于直播、教学、客服、金融、政务等对隐私与实时性要求极高的场景。开箱即用，开发者友好。
+* 【2025-08-06】[deepseek\-ai / FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA kernels
 * 【2025-08-03】[google / longfellow\-zk](https://github.com/google/longfellow-zk) - Implementation of the Google Zero\-Knowledge library for Identity Protocols 
 * 【2025-08-03】[paullouisageneau / libdatachannel](https://github.com/paullouisageneau/libdatachannel) - C/C++ WebRTC network library featuring Data Channels, Media Transport, and WebSockets
 * 【2025-08-02】[deepseek-ai / DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
@@ -5473,6 +5481,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-08-06】[cisagov / thorium](https://github.com/cisagov/thorium) - A scalable file analysis and data generation platform that allows users to easily orchestrate arbitrary docker/vm/shell tools at scale 
+* 【2025-08-06】[boa\-dev / boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust 
+* 【2025-08-06】[trailbaseio / trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open\-source application server with type\-safe APIs, built\-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8 
 * 【2025-08-05】[metalbear\-co / mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions 
 * 【2025-08-04】[zama\-ai / fhevm](https://github.com/zama-ai/fhevm) - FHEVM, a full\-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
 * 【2025-08-02】[facebookincubator / below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems
