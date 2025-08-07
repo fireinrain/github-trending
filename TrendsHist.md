@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-08-07】[themactep / thingino\-firmware](https://github.com/themactep/thingino-firmware) - Open\-source firmware for Ingenic SoC IP cameras
+* 【2025-08-07】[open\-edge\-platform / anomalib](https://github.com/open-edge-platform/anomalib) - An anomaly detection library comprising state\-of\-the\-art algorithms and features such as experiment management, hyper\-parameter optimization, and edge inference 
 * 【2025-08-02】[dyad\-sh / dyad](https://github.com/dyad-sh/dyad) - Free, local, open\-source AI app builder \| v0 / lovable / Bolt alternative \| 🌟 Star if you like it!
 * 【2025-08-02】[playcanvas / editor](https://github.com/playcanvas/editor) - Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
 * 【2025-08-02】[TideDra / zotero\-arxiv\-daily](https://github.com/TideDra/zotero-arxiv-daily) - Recommend new arxiv papers of your interest daily according to your Zotero libarary 
@@ -938,6 +940,7 @@
 
 ## Java
 
+* 【2025-08-07】[aws-containers / retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
 * 【2025-08-06】[babyfish\-ct / jimmer](https://github.com/babyfish-ct/jimmer) - The most advanced ORM of JVM, for both java & kotlin
 * 【2025-08-04】[Wurst\-Imperium / Wurst7](https://github.com/Wurst-Imperium/Wurst7) - Minecraft Wurst Hacked Client v7
 * 【2025-08-04】[openrocket / openrocket](https://github.com/openrocket/openrocket) - Model\-rocketry aerodynamics and trajectory simulation software
@@ -1271,6 +1274,10 @@
 
 ## Python
 
+* 【2025-08-07】[open-edge-platform / anomalib](https://github.com/open-edge-platform/anomalib) - An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.
+* 【2025-08-07】[hao\-ai\-lab / FastVideo](https://github.com/hao-ai-lab/FastVideo) - A unified inference and post\-training framework for accelerated video generation 
+* 【2025-08-07】[JudgmentLabs / judgeval](https://github.com/JudgmentLabs/judgeval) - The open source post\-building layer for agents  Our traces + evals power agent post\-training (RL, SFT), monitoring, and regression testing 
+* 【2025-08-07】[roboflow / rf-detr](https://github.com/roboflow/rf-detr) - RF-DETR is a real-time object detection model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
 * 【2025-08-06】[google / adk-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development (ADK)
 * 【2025-08-06】[trailofbits / algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 * 【2025-08-06】[UKGovernmentBEIS / inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - Inspect: A framework for large language model evaluations
@@ -2288,6 +2295,7 @@
 
 ## Javascript
 
+* 【2025-08-07】[RainyGao\-GitHub / DocSys](https://github.com/RainyGao-GitHub/DocSys) - MxsDoc is a web based document storage and management system
 * 【2025-08-05】[crocodilestick / Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 * 【2025-08-04】[crocodilestick / Calibre\-Web\-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre\-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 * 【2025-08-03】[google / earthengine\-api](https://github.com/google/earthengine-api) - Python and JavaScript bindings for calling the Earth Engine API 
@@ -3577,6 +3585,9 @@
 
 ## C++
 
+* 【2025-08-07】[OHF-Voice / piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
+* 【2025-08-07】[cactus\-compute / cactus](https://github.com/cactus-compute/cactus) - Cross\-platform framework for deploying LLM/VLM/TTS models locally on smartphones 
+* 【2025-08-07】[usetrmnl / trmnl\-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL e\-ink device firmware
 * 【2025-08-06】[duixcom / Duix\-Mobile](https://github.com/duixcom/Duix-Mobile) - 🚀 全网效果最好的移动端【实时对话数字人】。 支持本地部署、多模态交互（语音、文本、表情），响应速度低于 1 5 秒，适用于直播、教学、客服、金融、政务等对隐私与实时性要求极高的场景。开箱即用，开发者友好。
 * 【2025-08-06】[deepseek\-ai / FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA kernels
 * 【2025-08-03】[google / longfellow\-zk](https://github.com/google/longfellow-zk) - Implementation of the Google Zero\-Knowledge library for Identity Protocols 
@@ -3944,6 +3955,7 @@
 
 ## C#
 
+* 【2025-08-07】[microsoft / Foundry\-Local](https://github.com/microsoft/Foundry-Local) - 
 * 【2025-08-04】[CoplayDev / unity-mcp](https://github.com/CoplayDev/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
 * 【2025-08-03】[Arcenox-co / TickerQ](https://github.com/Arcenox-co/TickerQ) - TickerQ is a fast, reflection-free background task scheduler for .NET — built with source generators, EF Core integration, cron + time-based execution, and a real-time dashboard.
 * 【2025-08-02】[Arcenox\-co / TickerQ](https://github.com/Arcenox-co/TickerQ) - TickerQ is a fast, reflection\-free background task scheduler for  NET — built with source generators, EF Core integration, cron + time\-based execution, and a real\-time dashboard 
@@ -4844,6 +4856,7 @@
 
 ## Unknown
 
+* 【2025-08-07】[iam-veeramalla / ultimate-linux-guide](https://github.com/iam-veeramalla/ultimate-linux-guide) - Ultimate guide to learn Linux from scratch.
 * 【2025-08-04】[Kimentanm / aptv](https://github.com/Kimentanm/aptv) - 📺 A tool for playing m3u8 file
 * 【2025-08-04】[MuriithiEric / July2025Cohort-Hackathon1](https://github.com/MuriithiEric/July2025Cohort-Hackathon1) - 
 * 【2025-08-01】[omkarcloud / google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) - 👋 HOLA 👋 HOLA 👋 HOLA ! ENJOY OUR GOOGLE MAPS SCRAPER 🚀 TO EFFORTLESSLY EXTRACT DATA SUCH AS NAMES, ADDRESSES, PHONE NUMBERS, REVIEWS, WEBSITES, AND RATINGS FROM GOOGLE MAPS WITH EASE! 🤖
@@ -5481,6 +5494,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-08-07】[category\-labs / monad\-bft](https://github.com/category-labs/monad-bft) - 
+* 【2025-08-07】[valadaptive / ntsc-rs](https://github.com/valadaptive/ntsc-rs) - Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).
 * 【2025-08-06】[cisagov / thorium](https://github.com/cisagov/thorium) - A scalable file analysis and data generation platform that allows users to easily orchestrate arbitrary docker/vm/shell tools at scale 
 * 【2025-08-06】[boa\-dev / boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust 
 * 【2025-08-06】[trailbaseio / trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open\-source application server with type\-safe APIs, built\-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8 
@@ -6239,6 +6254,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-08-07】[AsyncFuncAI / deepwiki\-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI\-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories  Join the discord: https://discord gg/gMwThUMeme
+* 【2025-08-07】[dzhng / deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models. The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
 * 【2025-08-05】[homarr\-labs / homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard  30+ integrations  10K+ icons built in  Authentication out of the box  No YAML, drag and drop configuration 
 * 【2025-08-05】[Prat011 / free-cluely](https://github.com/Prat011/free-cluely) - Open Source version of Cluely
 * 【2025-08-05】[usertour / usertour](https://github.com/usertour/usertour) - Usertour is an open\-source user onboarding platform  It allows you to create in\-app product tours, checklists, and surveys in minutes—effortlessly and with full control The open\-source alternative to Userflow and Appcues
