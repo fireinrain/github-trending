@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-08-08】[xiaoyaocz / dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
 * 【2025-08-07】[themactep / thingino\-firmware](https://github.com/themactep/thingino-firmware) - Open\-source firmware for Ingenic SoC IP cameras
 * 【2025-08-07】[open\-edge\-platform / anomalib](https://github.com/open-edge-platform/anomalib) - An anomaly detection library comprising state\-of\-the\-art algorithms and features such as experiment management, hyper\-parameter optimization, and edge inference 
 * 【2025-08-02】[dyad\-sh / dyad](https://github.com/dyad-sh/dyad) - Free, local, open\-source AI app builder \| v0 / lovable / Bolt alternative \| 🌟 Star if you like it!
@@ -940,6 +941,7 @@
 
 ## Java
 
+* 【2025-08-08】[google / adk\-java](https://github.com/google/adk-java) - An open\-source, code\-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control 
 * 【2025-08-07】[aws-containers / retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
 * 【2025-08-06】[babyfish\-ct / jimmer](https://github.com/babyfish-ct/jimmer) - The most advanced ORM of JVM, for both java & kotlin
 * 【2025-08-04】[Wurst\-Imperium / Wurst7](https://github.com/Wurst-Imperium/Wurst7) - Minecraft Wurst Hacked Client v7
@@ -1274,6 +1276,7 @@
 
 ## Python
 
+* 【2025-08-08】[google / adk\-python](https://github.com/google/adk-python) - An open\-source, code\-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control 
 * 【2025-08-07】[open-edge-platform / anomalib](https://github.com/open-edge-platform/anomalib) - An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.
 * 【2025-08-07】[hao\-ai\-lab / FastVideo](https://github.com/hao-ai-lab/FastVideo) - A unified inference and post\-training framework for accelerated video generation 
 * 【2025-08-07】[JudgmentLabs / judgeval](https://github.com/JudgmentLabs/judgeval) - The open source post\-building layer for agents  Our traces + evals power agent post\-training (RL, SFT), monitoring, and regression testing 
@@ -2295,6 +2298,8 @@
 
 ## Javascript
 
+* 【2025-08-08】[cjo4m06 / mcp\-shrimp\-task\-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain\-of\-thought, reflection, and style consistency  It converts natural language into structured dev tasks with dependency tracking and iterative refinement, enabling agent\-like developer behavior in reasoning AI systems 
+* 【2025-08-08】[codeaashu / DevDisplay](https://github.com/codeaashu/DevDisplay) - The First Global Platform for Developers to Fulfill All Their Tech Needs 
 * 【2025-08-07】[RainyGao\-GitHub / DocSys](https://github.com/RainyGao-GitHub/DocSys) - MxsDoc is a web based document storage and management system
 * 【2025-08-05】[crocodilestick / Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 * 【2025-08-04】[crocodilestick / Calibre\-Web\-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre\-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
@@ -3585,6 +3590,8 @@
 
 ## C++
 
+* 【2025-08-08】[flashinfer\-ai / flashinfer](https://github.com/flashinfer-ai/flashinfer) - FlashInfer: Kernel Library for LLM Serving
+* 【2025-08-08】[abdularis / LAN\-Share](https://github.com/abdularis/LAN-Share) - Cross platform LAN File transfer application built with Qt C++ framework
 * 【2025-08-07】[OHF-Voice / piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
 * 【2025-08-07】[cactus\-compute / cactus](https://github.com/cactus-compute/cactus) - Cross\-platform framework for deploying LLM/VLM/TTS models locally on smartphones 
 * 【2025-08-07】[usetrmnl / trmnl\-firmware](https://github.com/usetrmnl/trmnl-firmware) - TRMNL e\-ink device firmware
@@ -3955,6 +3962,7 @@
 
 ## C#
 
+* 【2025-08-08】[microsoft / Foundry-Local](https://github.com/microsoft/Foundry-Local) - 
 * 【2025-08-07】[microsoft / Foundry\-Local](https://github.com/microsoft/Foundry-Local) - 
 * 【2025-08-04】[CoplayDev / unity-mcp](https://github.com/CoplayDev/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
 * 【2025-08-03】[Arcenox-co / TickerQ](https://github.com/Arcenox-co/TickerQ) - TickerQ is a fast, reflection-free background task scheduler for .NET — built with source generators, EF Core integration, cron + time-based execution, and a real-time dashboard.
@@ -5494,6 +5502,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-08-08】[zama-ai / fhevm](https://github.com/zama-ai/fhevm) - FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
 * 【2025-08-07】[category\-labs / monad\-bft](https://github.com/category-labs/monad-bft) - 
 * 【2025-08-07】[valadaptive / ntsc-rs](https://github.com/valadaptive/ntsc-rs) - Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).
 * 【2025-08-06】[cisagov / thorium](https://github.com/cisagov/thorium) - A scalable file analysis and data generation platform that allows users to easily orchestrate arbitrary docker/vm/shell tools at scale 
@@ -6254,6 +6263,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-08-08】[AsyncFuncAI / deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
+* 【2025-08-08】[cloudflare / workers\-oauth\-provider](https://github.com/cloudflare/workers-oauth-provider) - OAuth provider library for Cloudflare Workers
 * 【2025-08-07】[AsyncFuncAI / deepwiki\-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI\-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories  Join the discord: https://discord gg/gMwThUMeme
 * 【2025-08-07】[dzhng / deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models. The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
 * 【2025-08-05】[homarr\-labs / homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard  30+ integrations  10K+ icons built in  Authentication out of the box  No YAML, drag and drop configuration 
