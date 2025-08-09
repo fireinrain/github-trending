@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-08-09】[google / adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 * 【2025-08-08】[xiaoyaocz / dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
 * 【2025-08-07】[themactep / thingino\-firmware](https://github.com/themactep/thingino-firmware) - Open\-source firmware for Ingenic SoC IP cameras
 * 【2025-08-07】[open\-edge\-platform / anomalib](https://github.com/open-edge-platform/anomalib) - An anomaly detection library comprising state\-of\-the\-art algorithms and features such as experiment management, hyper\-parameter optimization, and edge inference 
@@ -1276,6 +1277,7 @@
 
 ## Python
 
+* 【2025-08-09】[hao-ai-lab / FastVideo](https://github.com/hao-ai-lab/FastVideo) - A unified inference and post-training framework for accelerated video generation.
 * 【2025-08-08】[google / adk\-python](https://github.com/google/adk-python) - An open\-source, code\-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control 
 * 【2025-08-07】[open-edge-platform / anomalib](https://github.com/open-edge-platform/anomalib) - An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.
 * 【2025-08-07】[hao\-ai\-lab / FastVideo](https://github.com/hao-ai-lab/FastVideo) - A unified inference and post\-training framework for accelerated video generation 
@@ -2298,6 +2300,9 @@
 
 ## Javascript
 
+* 【2025-08-09】[benborla / mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) - A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.
+* 【2025-08-09】[Kaliiiiiiiiii\-Vinyzu / patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library 
+* 【2025-08-09】[automerge / automerge](https://github.com/automerge/automerge) - A JSON\-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically 
 * 【2025-08-08】[cjo4m06 / mcp\-shrimp\-task\-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain\-of\-thought, reflection, and style consistency  It converts natural language into structured dev tasks with dependency tracking and iterative refinement, enabling agent\-like developer behavior in reasoning AI systems 
 * 【2025-08-08】[codeaashu / DevDisplay](https://github.com/codeaashu/DevDisplay) - The First Global Platform for Developers to Fulfill All Their Tech Needs 
 * 【2025-08-07】[RainyGao\-GitHub / DocSys](https://github.com/RainyGao-GitHub/DocSys) - MxsDoc is a web based document storage and management system
@@ -2809,6 +2814,7 @@
 
 ## Go
 
+* 【2025-08-09】[maximhq / bifrost](https://github.com/maximhq/bifrost) - The Fastest LLM Gateway with built in OTel observability and MCP gateway
 * 【2025-08-03】[hypermodeinc / dgraph](https://github.com/hypermodeinc/dgraph) - high\-performance graph database for real\-time use cases
 * 【2025-08-01】[envoyproxy / ai-gateway](https://github.com/envoyproxy/ai-gateway) - Envoy AI Gateway is an open source project for using Envoy Gateway to handle request traffic from application clients to Generative AI services.
 * 【2025-08-01】[sst / opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal 
@@ -3590,6 +3596,7 @@
 
 ## C++
 
+* 【2025-08-09】[flashinfer-ai / flashinfer](https://github.com/flashinfer-ai/flashinfer) - FlashInfer: Kernel Library for LLM Serving
 * 【2025-08-08】[flashinfer\-ai / flashinfer](https://github.com/flashinfer-ai/flashinfer) - FlashInfer: Kernel Library for LLM Serving
 * 【2025-08-08】[abdularis / LAN\-Share](https://github.com/abdularis/LAN-Share) - Cross platform LAN File transfer application built with Qt C++ framework
 * 【2025-08-07】[OHF-Voice / piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
@@ -3962,6 +3969,7 @@
 
 ## C#
 
+* 【2025-08-09】[PSAppDeployToolkit / PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 * 【2025-08-08】[microsoft / Foundry-Local](https://github.com/microsoft/Foundry-Local) - 
 * 【2025-08-07】[microsoft / Foundry\-Local](https://github.com/microsoft/Foundry-Local) - 
 * 【2025-08-04】[CoplayDev / unity-mcp](https://github.com/CoplayDev/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
@@ -5502,6 +5510,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-08-09】[enigo\-rs / enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust
+* 【2025-08-09】[numaproj / numaflow](https://github.com/numaproj/numaflow) - Kubernetes\-native platform to run massively parallel data/streaming jobs
 * 【2025-08-08】[zama-ai / fhevm](https://github.com/zama-ai/fhevm) - FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
 * 【2025-08-07】[category\-labs / monad\-bft](https://github.com/category-labs/monad-bft) - 
 * 【2025-08-07】[valadaptive / ntsc-rs](https://github.com/valadaptive/ntsc-rs) - Free, open-source VHS effect. Standalone application + plugin (After Effects, Premiere, and OpenFX).
