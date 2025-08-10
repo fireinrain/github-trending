@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-08-10】[lfnovo / open\-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 * 【2025-08-09】[google / adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 * 【2025-08-08】[xiaoyaocz / dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
 * 【2025-08-07】[themactep / thingino\-firmware](https://github.com/themactep/thingino-firmware) - Open\-source firmware for Ingenic SoC IP cameras
@@ -942,6 +943,8 @@
 
 ## Java
 
+* 【2025-08-10】[google / adk-java](https://github.com/google/adk-java) - An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+* 【2025-08-10】[FrosSky / Chevstrap](https://github.com/FrosSky/Chevstrap) - Chevstrap is an enhanced Roblox and Roblox VN launcher, built specifically for Android and inspired by Bloxstrap 
 * 【2025-08-08】[google / adk\-java](https://github.com/google/adk-java) - An open\-source, code\-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control 
 * 【2025-08-07】[aws-containers / retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
 * 【2025-08-06】[babyfish\-ct / jimmer](https://github.com/babyfish-ct/jimmer) - The most advanced ORM of JVM, for both java & kotlin
@@ -1277,6 +1280,9 @@
 
 ## Python
 
+* 【2025-08-10】[lfnovo / open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
+* 【2025-08-10】[Pointcept / Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research  Latest works: Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
+* 【2025-08-10】[dataease / SQLBot](https://github.com/dataease/SQLBot) - 基于大模型和 RAG 的智能问数系统
 * 【2025-08-09】[hao-ai-lab / FastVideo](https://github.com/hao-ai-lab/FastVideo) - A unified inference and post-training framework for accelerated video generation.
 * 【2025-08-08】[google / adk\-python](https://github.com/google/adk-python) - An open\-source, code\-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control 
 * 【2025-08-07】[open-edge-platform / anomalib](https://github.com/open-edge-platform/anomalib) - An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.
@@ -2300,6 +2306,7 @@
 
 ## Javascript
 
+* 【2025-08-10】[franceking1 / Flash-Md-V2](https://github.com/franceking1/Flash-Md-V2) - Feel Free To Use FLASH-MD, Remember To STAR🌟 The Repo before Forking
 * 【2025-08-09】[benborla / mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) - A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.
 * 【2025-08-09】[Kaliiiiiiiiii\-Vinyzu / patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library 
 * 【2025-08-09】[automerge / automerge](https://github.com/automerge/automerge) - A JSON\-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically 
@@ -2814,6 +2821,7 @@
 
 ## Go
 
+* 【2025-08-10】[containers / kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 * 【2025-08-09】[maximhq / bifrost](https://github.com/maximhq/bifrost) - The Fastest LLM Gateway with built in OTel observability and MCP gateway
 * 【2025-08-03】[hypermodeinc / dgraph](https://github.com/hypermodeinc/dgraph) - high\-performance graph database for real\-time use cases
 * 【2025-08-01】[envoyproxy / ai-gateway](https://github.com/envoyproxy/ai-gateway) - Envoy AI Gateway is an open source project for using Envoy Gateway to handle request traffic from application clients to Generative AI services.
@@ -5510,6 +5518,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-08-10】[guidance\-ai / llguidance](https://github.com/guidance-ai/llguidance) - Super\-fast Structured Outputs
+* 【2025-08-10】[op\-rs / kona](https://github.com/op-rs/kona) - Monorepo for OP Stack Types, Components, and Services built in Rust 
 * 【2025-08-09】[enigo\-rs / enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust
 * 【2025-08-09】[numaproj / numaflow](https://github.com/numaproj/numaflow) - Kubernetes\-native platform to run massively parallel data/streaming jobs
 * 【2025-08-08】[zama-ai / fhevm](https://github.com/zama-ai/fhevm) - FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
@@ -6273,6 +6283,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-08-10】[browser\-use / workflow\-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2 0)
 * 【2025-08-08】[AsyncFuncAI / deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 * 【2025-08-08】[cloudflare / workers\-oauth\-provider](https://github.com/cloudflare/workers-oauth-provider) - OAuth provider library for Cloudflare Workers
 * 【2025-08-07】[AsyncFuncAI / deepwiki\-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI\-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories  Join the discord: https://discord gg/gMwThUMeme
