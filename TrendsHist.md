@@ -943,6 +943,8 @@
 
 ## Java
 
+* 【2025-08-11】[uncle-novel / uncle-novel](https://github.com/uncle-novel/uncle-novel) - 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
+* 【2025-08-11】[helge17 / tuxguitar](https://github.com/helge17/tuxguitar) - Open source guitar tablature editor
 * 【2025-08-10】[google / adk-java](https://github.com/google/adk-java) - An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 * 【2025-08-10】[FrosSky / Chevstrap](https://github.com/FrosSky/Chevstrap) - Chevstrap is an enhanced Roblox and Roblox VN launcher, built specifically for Android and inspired by Bloxstrap 
 * 【2025-08-08】[google / adk\-java](https://github.com/google/adk-java) - An open\-source, code\-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control 
@@ -1280,6 +1282,8 @@
 
 ## Python
 
+* 【2025-08-11】[omkarcloud / botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
+* 【2025-08-11】[PacktPublishing / LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices
 * 【2025-08-10】[lfnovo / open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 * 【2025-08-10】[Pointcept / Pointcept](https://github.com/Pointcept/Pointcept) - Pointcept: Perceive the world with sparse points, a codebase for point cloud perception research  Latest works: Sonata (CVPR'25 Highlight), PTv3 (CVPR'24 Oral)
 * 【2025-08-10】[dataease / SQLBot](https://github.com/dataease/SQLBot) - 基于大模型和 RAG 的智能问数系统
@@ -2306,6 +2310,8 @@
 
 ## Javascript
 
+* 【2025-08-11】[Kaliiiiiiiiii-Vinyzu / patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.
+* 【2025-08-11】[RainyGao-GitHub / DocSys](https://github.com/RainyGao-GitHub/DocSys) - MxsDoc is a web based document storage and management system
 * 【2025-08-10】[franceking1 / Flash-Md-V2](https://github.com/franceking1/Flash-Md-V2) - Feel Free To Use FLASH-MD, Remember To STAR🌟 The Repo before Forking
 * 【2025-08-09】[benborla / mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) - A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.
 * 【2025-08-09】[Kaliiiiiiiiii\-Vinyzu / patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library 
@@ -2821,6 +2827,7 @@
 
 ## Go
 
+* 【2025-08-11】[sammcj / gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 * 【2025-08-10】[containers / kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 * 【2025-08-09】[maximhq / bifrost](https://github.com/maximhq/bifrost) - The Fastest LLM Gateway with built in OTel observability and MCP gateway
 * 【2025-08-03】[hypermodeinc / dgraph](https://github.com/hypermodeinc/dgraph) - high\-performance graph database for real\-time use cases
@@ -3243,6 +3250,7 @@
 
 ## C
 
+* 【2025-08-11】[TEN\-framework / ten\-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector(VAD) from TEN: low\-latency, high\-performance and lightweight
 * 【2025-08-06】[TinyCC / tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
 * 【2025-08-06】[utkarshdalal / GameNative](https://github.com/utkarshdalal/GameNative) - Lightweight unofficial Steam client for Android
 * 【2025-08-05】[dev-Ali2008 / xanite](https://github.com/dev-Ali2008/xanite) - Xanite
@@ -3977,6 +3985,7 @@
 
 ## C#
 
+* 【2025-08-11】[xiaoyaocz / AllLive](https://github.com/xiaoyaocz/AllLive) - 获取多个直播平台的信息和弹幕
 * 【2025-08-09】[PSAppDeployToolkit / PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 * 【2025-08-08】[microsoft / Foundry-Local](https://github.com/microsoft/Foundry-Local) - 
 * 【2025-08-07】[microsoft / Foundry\-Local](https://github.com/microsoft/Foundry-Local) - 
@@ -5518,6 +5527,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-08-11】[SoundnessLabs / soundness\-layer](https://github.com/SoundnessLabs/soundness-layer) - Soundness Layer is a decentralized verification layer built on Walrus and Sui 
 * 【2025-08-10】[guidance\-ai / llguidance](https://github.com/guidance-ai/llguidance) - Super\-fast Structured Outputs
 * 【2025-08-10】[op\-rs / kona](https://github.com/op-rs/kona) - Monorepo for OP Stack Types, Components, and Services built in Rust 
 * 【2025-08-09】[enigo\-rs / enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust
@@ -6283,6 +6293,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-08-11】[freestyle\-sh / Adorable](https://github.com/freestyle-sh/Adorable) - Open Source Lovable
 * 【2025-08-10】[browser\-use / workflow\-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2 0)
 * 【2025-08-08】[AsyncFuncAI / deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 * 【2025-08-08】[cloudflare / workers\-oauth\-provider](https://github.com/cloudflare/workers-oauth-provider) - OAuth provider library for Cloudflare Workers
