@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-08-12】[trailofbits / buttercup](https://github.com/trailofbits/buttercup) - 
 * 【2025-08-10】[lfnovo / open\-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 * 【2025-08-09】[google / adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 * 【2025-08-08】[xiaoyaocz / dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
@@ -943,6 +944,7 @@
 
 ## Java
 
+* 【2025-08-12】[TownyAdvanced / Towny](https://github.com/TownyAdvanced/Towny) - Towny Advanced Minecraft plugin for Bukkit/Spigot 
 * 【2025-08-11】[uncle-novel / uncle-novel](https://github.com/uncle-novel/uncle-novel) - 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
 * 【2025-08-11】[helge17 / tuxguitar](https://github.com/helge17/tuxguitar) - Open source guitar tablature editor
 * 【2025-08-10】[google / adk-java](https://github.com/google/adk-java) - An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -2310,6 +2312,7 @@
 
 ## Javascript
 
+* 【2025-08-12】[willmiao / ComfyUI\-Lora\-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI \- A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support 
 * 【2025-08-11】[Kaliiiiiiiiii-Vinyzu / patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.
 * 【2025-08-11】[RainyGao-GitHub / DocSys](https://github.com/RainyGao-GitHub/DocSys) - MxsDoc is a web based document storage and management system
 * 【2025-08-10】[franceking1 / Flash-Md-V2](https://github.com/franceking1/Flash-Md-V2) - Feel Free To Use FLASH-MD, Remember To STAR🌟 The Repo before Forking
@@ -2827,6 +2830,9 @@
 
 ## Go
 
+* 【2025-08-12】[e2b-dev / infra](https://github.com/e2b-dev/infra) - Infrastructure for AI code interpreting that's powering E2B.
+* 【2025-08-12】[go-dev-frame / sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
+* 【2025-08-12】[ThingsPanel / thingspanel\-backend\-community](https://github.com/ThingsPanel/thingspanel-backend-community) - The plug\-in IoT platform developed by Go language has high performance, low entry and easy expansion  Support MQTT, Modbus multi protocol, multi type device access and visualization, automation, alarm, rule engine and other functions 
 * 【2025-08-11】[sammcj / gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 * 【2025-08-10】[containers / kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 * 【2025-08-09】[maximhq / bifrost](https://github.com/maximhq/bifrost) - The Fastest LLM Gateway with built in OTel observability and MCP gateway
@@ -3250,6 +3256,7 @@
 
 ## C
 
+* 【2025-08-12】[TEN-framework / ten-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector(VAD) from TEN: low-latency, high-performance and lightweight
 * 【2025-08-11】[TEN\-framework / ten\-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector(VAD) from TEN: low\-latency, high\-performance and lightweight
 * 【2025-08-06】[TinyCC / tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
 * 【2025-08-06】[utkarshdalal / GameNative](https://github.com/utkarshdalal/GameNative) - Lightweight unofficial Steam client for Android
@@ -5527,6 +5534,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-08-12】[SoundnessLabs / soundness-layer](https://github.com/SoundnessLabs/soundness-layer) - Soundness Layer is a decentralized verification layer built on Walrus and Sui.
 * 【2025-08-11】[SoundnessLabs / soundness\-layer](https://github.com/SoundnessLabs/soundness-layer) - Soundness Layer is a decentralized verification layer built on Walrus and Sui 
 * 【2025-08-10】[guidance\-ai / llguidance](https://github.com/guidance-ai/llguidance) - Super\-fast Structured Outputs
 * 【2025-08-10】[op\-rs / kona](https://github.com/op-rs/kona) - Monorepo for OP Stack Types, Components, and Services built in Rust 
@@ -6293,6 +6301,12 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-08-12】[adrianhajdin / react\-native\-movie\-app](https://github.com/adrianhajdin/react-native-movie-app) - Get hands\-on with React Native and Expo in this crash course! Build a mobile movie app from scratch, and learn essential skills for mobile development along the way 
+* 【2025-08-12】[xyTom / snippai](https://github.com/xyTom/snippai) - Snip Anything Solve Everything
+* 【2025-08-12】[butlerx / wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https  (Ajaxterm/Anyterm alternative, but much better)
+* 【2025-08-12】[David\-patrick\-chuks / Riona\-AI\-Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent) - Riona Ai Agent 🌸 is built using Node js and TypeScript 🛠️, designed for seamless job execution 📸  It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟
+* 【2025-08-12】[huggingface / aisheets](https://github.com/huggingface/aisheets) - Build, enrich, and transform datasets using AI models with no code
+* 【2025-08-12】[ericc\-ch / copilot\-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server  Usable with Claude Code!
 * 【2025-08-11】[freestyle\-sh / Adorable](https://github.com/freestyle-sh/Adorable) - Open Source Lovable
 * 【2025-08-10】[browser\-use / workflow\-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2 0)
 * 【2025-08-08】[AsyncFuncAI / deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
