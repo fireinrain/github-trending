@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-08-13】[microsoft / poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
+* 【2025-08-13】[apple / embedding\-atlas](https://github.com/apple/embedding-atlas) - Embedding Atlas is a tool that provides interactive visualizations for large embeddings  It allows you to visualize, cross\-filter, and search embeddings and metadata 
 * 【2025-08-12】[trailofbits / buttercup](https://github.com/trailofbits/buttercup) - 
 * 【2025-08-10】[lfnovo / open\-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 * 【2025-08-09】[google / adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -944,6 +946,7 @@
 
 ## Java
 
+* 【2025-08-13】[DP-Hridayan / aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 * 【2025-08-12】[TownyAdvanced / Towny](https://github.com/TownyAdvanced/Towny) - Towny Advanced Minecraft plugin for Bukkit/Spigot 
 * 【2025-08-11】[uncle-novel / uncle-novel](https://github.com/uncle-novel/uncle-novel) - 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
 * 【2025-08-11】[helge17 / tuxguitar](https://github.com/helge17/tuxguitar) - Open source guitar tablature editor
@@ -1284,6 +1287,7 @@
 
 ## Python
 
+* 【2025-08-13】[cheahjs / free\-llm\-api\-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API 
 * 【2025-08-11】[omkarcloud / botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 * 【2025-08-11】[PacktPublishing / LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices
 * 【2025-08-10】[lfnovo / open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
@@ -2312,6 +2316,7 @@
 
 ## Javascript
 
+* 【2025-08-13】[lint\-staged / lint\-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 * 【2025-08-12】[willmiao / ComfyUI\-Lora\-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI \- A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support 
 * 【2025-08-11】[Kaliiiiiiiiii-Vinyzu / patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.
 * 【2025-08-11】[RainyGao-GitHub / DocSys](https://github.com/RainyGao-GitHub/DocSys) - MxsDoc is a web based document storage and management system
@@ -3256,6 +3261,7 @@
 
 ## C
 
+* 【2025-08-13】[armink / FlashDB](https://github.com/armink/FlashDB) - An ultra\-lightweight database that supports key\-value and time series data \| 一款支持 KV 数据和时序数据的超轻量级数据库
 * 【2025-08-12】[TEN-framework / ten-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector(VAD) from TEN: low-latency, high-performance and lightweight
 * 【2025-08-11】[TEN\-framework / ten\-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector(VAD) from TEN: low\-latency, high\-performance and lightweight
 * 【2025-08-06】[TinyCC / tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
@@ -3992,6 +3998,7 @@
 
 ## C#
 
+* 【2025-08-13】[IvanMurzak / Unity\-MCP](https://github.com/IvanMurzak/Unity-MCP) - MCP Server + Plugin for Unity Editor and Unity game  The Plugin allows to connect to MCP clients like Claude Desktop or others 
 * 【2025-08-11】[xiaoyaocz / AllLive](https://github.com/xiaoyaocz/AllLive) - 获取多个直播平台的信息和弹幕
 * 【2025-08-09】[PSAppDeployToolkit / PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 * 【2025-08-08】[microsoft / Foundry-Local](https://github.com/microsoft/Foundry-Local) - 
@@ -4400,6 +4407,7 @@
 
 ## Html
 
+* 【2025-08-13】[Azure-Samples / SQL-AI-samples](https://github.com/Azure-Samples/SQL-AI-samples) - Samples using AI and Azure SQL DB
 * 【2025-08-03】[Azure\-Samples / SQL\-AI\-samples](https://github.com/Azure-Samples/SQL-AI-samples) - Samples using AI and Azure SQL DB
 * 【2025-07-28】[AOSC\-Dev / aosc\-os\-abbs](https://github.com/AOSC-Dev/aosc-os-abbs) - ABBS/ACBS tree for AOSC OS package metadata, build configuration, scripts, and patches
 * 【2025-07-24】[jolibrain / colette](https://github.com/jolibrain/colette) - Multimodal RAG to search and interact locally with technical documents of any kind
@@ -5534,6 +5542,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-08-13】[rathole\-org / rathole](https://github.com/rathole-org/rathole) - A lightweight and high\-performance reverse proxy for NAT traversal, written in Rust  An alternative to frp and ngrok 
 * 【2025-08-12】[SoundnessLabs / soundness-layer](https://github.com/SoundnessLabs/soundness-layer) - Soundness Layer is a decentralized verification layer built on Walrus and Sui.
 * 【2025-08-11】[SoundnessLabs / soundness\-layer](https://github.com/SoundnessLabs/soundness-layer) - Soundness Layer is a decentralized verification layer built on Walrus and Sui 
 * 【2025-08-10】[guidance\-ai / llguidance](https://github.com/guidance-ai/llguidance) - Super\-fast Structured Outputs
@@ -6301,6 +6310,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-08-13】[apple / embedding-atlas](https://github.com/apple/embedding-atlas) - Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
+* 【2025-08-13】[David-patrick-chuks / Riona-AI-Agent](https://github.com/David-patrick-chuks/Riona-AI-Agent) - Riona Ai Agent 🌸 is built using Node.js and TypeScript 🛠️, designed for seamless job execution 📸. It's lightweight, efficient, and still evolving 🚧—exciting new features coming soon! 🌟
 * 【2025-08-12】[adrianhajdin / react\-native\-movie\-app](https://github.com/adrianhajdin/react-native-movie-app) - Get hands\-on with React Native and Expo in this crash course! Build a mobile movie app from scratch, and learn essential skills for mobile development along the way 
 * 【2025-08-12】[xyTom / snippai](https://github.com/xyTom/snippai) - Snip Anything Solve Everything
 * 【2025-08-12】[butlerx / wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https  (Ajaxterm/Anyterm alternative, but much better)
