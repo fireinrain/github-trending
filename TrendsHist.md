@@ -1287,6 +1287,10 @@
 
 ## Python
 
+* 【2025-08-14】[microsoft / magentic\-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human\-centered web agent
+* 【2025-08-14】[browserbase / stagehand\-python](https://github.com/browserbase/stagehand-python) - The AI Browser Automation Framework
+* 【2025-08-14】[oop7 / YTSage](https://github.com/oop7/YTSage) - Modern YouTube downloader with a clean PySide6 interface  Download videos in any quality, extract audio, fetch subtitles, sponserBlock, and view video metadata  Built with yt\-dlp for reliable performance 
+* 【2025-08-14】[jax-ml / jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 * 【2025-08-13】[cheahjs / free\-llm\-api\-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API 
 * 【2025-08-11】[omkarcloud / botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 * 【2025-08-11】[PacktPublishing / LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices
@@ -2316,6 +2320,8 @@
 
 ## Javascript
 
+* 【2025-08-14】[mikechambers / adb\-mcp](https://github.com/mikechambers/adb-mcp) - 
+* 【2025-08-14】[asgeirtj / system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 * 【2025-08-13】[lint\-staged / lint\-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 * 【2025-08-12】[willmiao / ComfyUI\-Lora\-Manager](https://github.com/willmiao/ComfyUI-Lora-Manager) - LoRA Manager for ComfyUI \- A powerful extension for organizing, previewing, and integrating LoRA models with metadata and workflow support 
 * 【2025-08-11】[Kaliiiiiiiiii-Vinyzu / patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.
@@ -2835,6 +2841,7 @@
 
 ## Go
 
+* 【2025-08-14】[mudler / LocalAGI](https://github.com/mudler/LocalAGI) - LocalAGI is a powerful, self\-hostable AI Agent platform designed for maximum privacy and flexibility  A complete drop\-in replacement for OpenAI's Responses APIs with advanced agentic capabilities  No clouds  No data leaks  Just pure local AI that works on consumer\-grade hardware (CPU and GPU) 
 * 【2025-08-12】[e2b-dev / infra](https://github.com/e2b-dev/infra) - Infrastructure for AI code interpreting that's powering E2B.
 * 【2025-08-12】[go-dev-frame / sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
 * 【2025-08-12】[ThingsPanel / thingspanel\-backend\-community](https://github.com/ThingsPanel/thingspanel-backend-community) - The plug\-in IoT platform developed by Go language has high performance, low entry and easy expansion  Support MQTT, Modbus multi protocol, multi type device access and visualization, automation, alarm, rule engine and other functions 
@@ -5542,6 +5549,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-08-14】[rathole-org / rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+* 【2025-08-14】[j178 / prek](https://github.com/j178/prek) - ⚡ Better  pre\-commit , re\-engineered in Rust
 * 【2025-08-13】[rathole\-org / rathole](https://github.com/rathole-org/rathole) - A lightweight and high\-performance reverse proxy for NAT traversal, written in Rust  An alternative to frp and ngrok 
 * 【2025-08-12】[SoundnessLabs / soundness-layer](https://github.com/SoundnessLabs/soundness-layer) - Soundness Layer is a decentralized verification layer built on Walrus and Sui.
 * 【2025-08-11】[SoundnessLabs / soundness\-layer](https://github.com/SoundnessLabs/soundness-layer) - Soundness Layer is a decentralized verification layer built on Walrus and Sui 
