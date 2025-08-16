@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-08-16】[manycore\-research / SpatialLM](https://github.com/manycore-research/SpatialLM) - SpatialLM: Training Large Language Models for Structured Indoor Modeling
+* 【2025-08-16】[datalab-to / marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 * 【2025-08-13】[microsoft / poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
 * 【2025-08-13】[apple / embedding\-atlas](https://github.com/apple/embedding-atlas) - Embedding Atlas is a tool that provides interactive visualizations for large embeddings  It allows you to visualize, cross\-filter, and search embeddings and metadata 
 * 【2025-08-12】[trailofbits / buttercup](https://github.com/trailofbits/buttercup) - 
@@ -946,6 +948,7 @@
 
 ## Java
 
+* 【2025-08-16】[sepinf\-inc / IPED](https://github.com/sepinf-inc/IPED) - IPED Digital Forensic Tool  It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners 
 * 【2025-08-15】[kishanrajput23 / Java\-Projects\-Collections](https://github.com/kishanrajput23/Java-Projects-Collections) - Contribute in this repository by raising a genuine PR  Then get verified, and earn the free swags from Hacktoberfest 2023 
 * 【2025-08-13】[DP-Hridayan / aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 * 【2025-08-12】[TownyAdvanced / Towny](https://github.com/TownyAdvanced/Towny) - Towny Advanced Minecraft plugin for Bukkit/Spigot 
@@ -1288,6 +1291,7 @@
 
 ## Python
 
+* 【2025-08-16】[manycore-research / SpatialLM](https://github.com/manycore-research/SpatialLM) - SpatialLM: Training Large Language Models for Structured Indoor Modeling
 * 【2025-08-15】[LeCAR-Lab / ASAP](https://github.com/LeCAR-Lab/ASAP) - Official implementation of [RSS 2025] "ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills"
 * 【2025-08-15】[datalab\-to / marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 * 【2025-08-15】[microsoft / magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
@@ -2846,6 +2850,7 @@
 
 ## Go
 
+* 【2025-08-16】[ThingsPanel / thingspanel-backend-community](https://github.com/ThingsPanel/thingspanel-backend-community) - The plug-in IoT platform developed by Go language has high performance, low entry and easy expansion. Support MQTT, Modbus multi protocol, multi type device access and visualization, automation, alarm, rule engine and other functions.
 * 【2025-08-15】[hashicorp / terraform\-mcp\-server](https://github.com/hashicorp/terraform-mcp-server) - The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development 
 * 【2025-08-14】[mudler / LocalAGI](https://github.com/mudler/LocalAGI) - LocalAGI is a powerful, self\-hostable AI Agent platform designed for maximum privacy and flexibility  A complete drop\-in replacement for OpenAI's Responses APIs with advanced agentic capabilities  No clouds  No data leaks  Just pure local AI that works on consumer\-grade hardware (CPU and GPU) 
 * 【2025-08-12】[e2b-dev / infra](https://github.com/e2b-dev/infra) - Infrastructure for AI code interpreting that's powering E2B.
@@ -3274,6 +3279,7 @@
 
 ## C
 
+* 【2025-08-16】[tsoding / nob.h](https://github.com/tsoding/nob.h) - Header only library for writing build recipes in C.
 * 【2025-08-13】[armink / FlashDB](https://github.com/armink/FlashDB) - An ultra\-lightweight database that supports key\-value and time series data \| 一款支持 KV 数据和时序数据的超轻量级数据库
 * 【2025-08-12】[TEN-framework / ten-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector(VAD) from TEN: low-latency, high-performance and lightweight
 * 【2025-08-11】[TEN\-framework / ten\-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector(VAD) from TEN: low\-latency, high\-performance and lightweight
@@ -4011,6 +4017,7 @@
 
 ## C#
 
+* 【2025-08-16】[builtbybel / CrapFixer](https://github.com/builtbybel/CrapFixer) - Cr*ap Fixer
 * 【2025-08-13】[IvanMurzak / Unity\-MCP](https://github.com/IvanMurzak/Unity-MCP) - MCP Server + Plugin for Unity Editor and Unity game  The Plugin allows to connect to MCP clients like Claude Desktop or others 
 * 【2025-08-11】[xiaoyaocz / AllLive](https://github.com/xiaoyaocz/AllLive) - 获取多个直播平台的信息和弹幕
 * 【2025-08-09】[PSAppDeployToolkit / PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
@@ -5556,6 +5563,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-08-16】[mediar\-ai / terminator](https://github.com/mediar-ai/terminator) - AI\-powered desktop automation — open source, MIT\-licensed, cross\-platform, accessibility\-first  Works across all apps and browsers  Inspired by GitHub Actions & Playwright  100x faster than generic AI agents, >95% success rate, no vendor lock\-in 
 * 【2025-08-14】[rathole-org / rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 * 【2025-08-14】[j178 / prek](https://github.com/j178/prek) - ⚡ Better  pre\-commit , re\-engineered in Rust
 * 【2025-08-13】[rathole\-org / rathole](https://github.com/rathole-org/rathole) - A lightweight and high\-performance reverse proxy for NAT traversal, written in Rust  An alternative to frp and ngrok 
@@ -6326,6 +6334,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-08-16】[epicenter\-so / epicenter](https://github.com/epicenter-so/epicenter) - Press shortcut → speak → get text  Free and open source  More local\-first apps soon ❤️
 * 【2025-08-15】[CherryHQ / cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 * 【2025-08-15】[superagent\-ai / vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in 
 * 【2025-08-13】[apple / embedding-atlas](https://github.com/apple/embedding-atlas) - Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
