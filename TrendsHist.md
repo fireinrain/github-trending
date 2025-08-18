@@ -950,6 +950,8 @@
 
 ## Java
 
+* 【2025-08-18】[sepinf-inc / IPED](https://github.com/sepinf-inc/IPED) - IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.
+* 【2025-08-18】[rkkr / simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
 * 【2025-08-16】[sepinf\-inc / IPED](https://github.com/sepinf-inc/IPED) - IPED Digital Forensic Tool  It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners 
 * 【2025-08-15】[kishanrajput23 / Java\-Projects\-Collections](https://github.com/kishanrajput23/Java-Projects-Collections) - Contribute in this repository by raising a genuine PR  Then get verified, and earn the free swags from Hacktoberfest 2023 
 * 【2025-08-13】[DP-Hridayan / aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
@@ -1293,6 +1295,7 @@
 
 ## Python
 
+* 【2025-08-18】[HunxByts / GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 * 【2025-08-17】[IBM / mcp-context-forge](https://github.com/IBM/mcp-context-forge) - A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP).
 * 【2025-08-16】[manycore-research / SpatialLM](https://github.com/manycore-research/SpatialLM) - SpatialLM: Training Large Language Models for Structured Indoor Modeling
 * 【2025-08-15】[LeCAR-Lab / ASAP](https://github.com/LeCAR-Lab/ASAP) - Official implementation of [RSS 2025] "ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills"
@@ -2331,6 +2334,7 @@
 
 ## Javascript
 
+* 【2025-08-18】[grab / cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - CTTF: MCP integration between Cursor AI and Figma, allowing Cursor to communicate with Figma like agentic ai for reading designs and modifying them programmatically.
 * 【2025-08-17】[grab / cursor\-talk\-to\-figma\-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - CTTF: MCP integration between Cursor AI and Figma, allowing Cursor to communicate with Figma like agentic ai for reading designs and modifying them programmatically 
 * 【2025-08-17】[GoogleCloudPlatform / cloud\-run\-mcp](https://github.com/GoogleCloudPlatform/cloud-run-mcp) - MCP server to deploy apps to Cloud Run
 * 【2025-08-15】[mikechambers / adb-mcp](https://github.com/mikechambers/adb-mcp) - 
@@ -4933,6 +4937,9 @@
 
 ## Unknown
 
+* 【2025-08-18】[enescingoz / awesome\-n8n\-templates](https://github.com/enescingoz/awesome-n8n-templates) - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps\-like Gmail, Telegram, Google Drive, Slack, and more\-with ready\-to\-use, AI\-powered automations  Save time, boost productivity, and unlock the true potential of n8n in just a few clicks 
+* 【2025-08-18】[TheGP / untidetect\-tools](https://github.com/TheGP/untidetect-tools) - List of anti\-detect and humanizing tools and browsers, including captcha solvers and sms\-activation 
+* 【2025-08-18】[lukasmasuch / best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 * 【2025-08-17】[lukasmasuch / best\-of\-ml\-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries  Updated weekly 
 * 【2025-08-07】[iam-veeramalla / ultimate-linux-guide](https://github.com/iam-veeramalla/ultimate-linux-guide) - Ultimate guide to learn Linux from scratch.
 * 【2025-08-04】[Kimentanm / aptv](https://github.com/Kimentanm/aptv) - 📺 A tool for playing m3u8 file
@@ -6343,6 +6350,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-08-18】[coaidev / coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One\-Stop Internationalization Solution  🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
+* 【2025-08-18】[pipeshub\-ai / pipeshub\-ai](https://github.com/pipeshub-ai/pipeshub-ai) - The OpenSource Alternative to Glean's Workplace AI
 * 【2025-08-17】[purocean / yn](https://github.com/purocean/yn) - A highly extensible Markdown editor  Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal js, plug\-in, and macro replacement 
 * 【2025-08-17】[ayangweb / BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
 * 【2025-08-16】[epicenter\-so / epicenter](https://github.com/epicenter-so/epicenter) - Press shortcut → speak → get text  Free and open source  More local\-first apps soon ❤️
