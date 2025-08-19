@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-08-19】[enescingoz / awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.
+* 【2025-08-19】[bytebot\-ai / bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self\-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment 
 * 【2025-08-17】[IBM / mcp\-context\-forge](https://github.com/IBM/mcp-context-forge) - A Model Context Protocol (MCP) Gateway & Registry  Serves as a central management point for tools, resources, and prompts that can be accessed by MCP\-compatible LLM applications  Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP) 
 * 【2025-08-17】[dtyq / magic](https://github.com/dtyq/magic) - Super Magic (超级麦吉)  The first open\-source all\-in\-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
 * 【2025-08-16】[manycore\-research / SpatialLM](https://github.com/manycore-research/SpatialLM) - SpatialLM: Training Large Language Models for Structured Indoor Modeling
@@ -2859,6 +2861,7 @@
 
 ## Go
 
+* 【2025-08-19】[stacklok / toolhive](https://github.com/stacklok/toolhive) - ToolHive makes deploying MCP servers easy, secure and fun
 * 【2025-08-17】[hashicorp / terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) - The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.
 * 【2025-08-16】[ThingsPanel / thingspanel-backend-community](https://github.com/ThingsPanel/thingspanel-backend-community) - The plug-in IoT platform developed by Go language has high performance, low entry and easy expansion. Support MQTT, Modbus multi protocol, multi type device access and visualization, automation, alarm, rule engine and other functions.
 * 【2025-08-15】[hashicorp / terraform\-mcp\-server](https://github.com/hashicorp/terraform-mcp-server) - The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development 
@@ -3289,6 +3292,7 @@
 
 ## C
 
+* 【2025-08-19】[ComposersDesktop / CDP8](https://github.com/ComposersDesktop/CDP8) - New version of CDP software
 * 【2025-08-17】[duixcom / Duix Avatar](https://github.com/duixcom/Duix.Avatar) - 
 * 【2025-08-16】[tsoding / nob.h](https://github.com/tsoding/nob.h) - Header only library for writing build recipes in C.
 * 【2025-08-13】[armink / FlashDB](https://github.com/armink/FlashDB) - An ultra\-lightweight database that supports key\-value and time series data \| 一款支持 KV 数据和时序数据的超轻量级数据库
@@ -4439,6 +4443,7 @@
 
 ## Html
 
+* 【2025-08-19】[Zie619 / n8n\-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 * 【2025-08-15】[strands\-agents / docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK  A model\-driven approach to building AI agents in just a few lines of code 
 * 【2025-08-13】[Azure-Samples / SQL-AI-samples](https://github.com/Azure-Samples/SQL-AI-samples) - Samples using AI and Azure SQL DB
 * 【2025-08-03】[Azure\-Samples / SQL\-AI\-samples](https://github.com/Azure-Samples/SQL-AI-samples) - Samples using AI and Azure SQL DB
@@ -6350,6 +6355,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-08-19】[bytebot-ai / bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 * 【2025-08-18】[coaidev / coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One\-Stop Internationalization Solution  🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
 * 【2025-08-18】[pipeshub\-ai / pipeshub\-ai](https://github.com/pipeshub-ai/pipeshub-ai) - The OpenSource Alternative to Glean's Workplace AI
 * 【2025-08-17】[purocean / yn](https://github.com/purocean/yn) - A highly extensible Markdown editor  Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal js, plug\-in, and macro replacement 
