@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-08-22】[moeru-ai / airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+* 【2025-08-22】[firecrawl / firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI \- Turn entire websites into LLM\-ready markdown or structured data 🔥
 * 【2025-08-21】[moeru\-ai / airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro\-sama's altitude  Capable of realtime voice chat, Minecraft, Factorio playing  Web / macOS / Windows supported 
 * 【2025-08-21】[Leantime / leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non\-project managers  Building with ADHD, Autism, and dyslexia in mind 
 * 【2025-08-21】[laude\-institute / terminal\-bench](https://github.com/laude-institute/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal
@@ -957,6 +959,7 @@
 
 ## Java
 
+* 【2025-08-22】[apache / parquet-java](https://github.com/apache/parquet-java) - Apache Parquet Java
 * 【2025-08-18】[sepinf-inc / IPED](https://github.com/sepinf-inc/IPED) - IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.
 * 【2025-08-18】[rkkr / simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
 * 【2025-08-16】[sepinf\-inc / IPED](https://github.com/sepinf-inc/IPED) - IPED Digital Forensic Tool  It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners 
@@ -1302,6 +1305,8 @@
 
 ## Python
 
+* 【2025-08-22】[sooperset / mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
+* 【2025-08-22】[NVIDIA\-NeMo / RL](https://github.com/NVIDIA-NeMo/RL) - Scalable toolkit for efficient model reinforcement
 * 【2025-08-21】[laude-institute / terminal-bench](https://github.com/laude-institute/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal
 * 【2025-08-21】[HKUDS / AI\-Researcher](https://github.com/HKUDS/AI-Researcher) - "AI\-Researcher: Autonomous Scientific Innovation"
 * 【2025-08-20】[tensorlakeai / tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake is a Document Ingestion API and a serverless platform for building data processing and orchestration APIs
@@ -2345,6 +2350,7 @@
 
 ## Javascript
 
+* 【2025-08-22】[YosemiteCrew / Yosemite-Crew](https://github.com/YosemiteCrew/Yosemite-Crew) - Open source operating system for animal health
 * 【2025-08-21】[YosemiteCrew / Yosemite\-Crew](https://github.com/YosemiteCrew/Yosemite-Crew) - Open source operating system for animal health
 * 【2025-08-18】[grab / cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - CTTF: MCP integration between Cursor AI and Figma, allowing Cursor to communicate with Figma like agentic ai for reading designs and modifying them programmatically.
 * 【2025-08-17】[grab / cursor\-talk\-to\-figma\-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - CTTF: MCP integration between Cursor AI and Figma, allowing Cursor to communicate with Figma like agentic ai for reading designs and modifying them programmatically 
@@ -3303,6 +3309,7 @@
 
 ## C
 
+* 【2025-08-22】[Adaptix\-Framework / AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
 * 【2025-08-20】[kolunmi / bazaar](https://github.com/kolunmi/bazaar) - New App Store for GNOME
 * 【2025-08-20】[dekuNukem / daytripper](https://github.com/dekuNukem/daytripper) - Hide\-My\-Windows Laser Tripwire
 * 【2025-08-19】[ComposersDesktop / CDP8](https://github.com/ComposersDesktop/CDP8) - New version of CDP software
@@ -3672,6 +3679,8 @@
 
 ## C++
 
+* 【2025-08-22】[ROCm / rocm-systems](https://github.com/ROCm/rocm-systems) - super repo for rocm systems projects
+* 【2025-08-22】[lynx-family / lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 * 【2025-08-21】[ROCm / rocm\-systems](https://github.com/ROCm/rocm-systems) - super repo for rocm systems projects
 * 【2025-08-17】[PanosK92 / SpartanEngine](https://github.com/PanosK92/SpartanEngine) - A game engine with an emphasis on real\-time cutting\-edge solutions
 * 【2025-08-09】[flashinfer-ai / flashinfer](https://github.com/flashinfer-ai/flashinfer) - FlashInfer: Kernel Library for LLM Serving
@@ -4047,6 +4056,7 @@
 
 ## C#
 
+* 【2025-08-22】[microsoftgraph / msgraph-sdk-powershell](https://github.com/microsoftgraph/msgraph-sdk-powershell) - Powershell SDK for Microsoft Graph
 * 【2025-08-21】[microsoftgraph / msgraph\-sdk\-powershell](https://github.com/microsoftgraph/msgraph-sdk-powershell) - Powershell SDK for Microsoft Graph
 * 【2025-08-20】[katboi01 / UmaViewer](https://github.com/katboi01/UmaViewer) - Asset Viewer for Uma Musume
 * 【2025-08-16】[builtbybel / CrapFixer](https://github.com/builtbybel/CrapFixer) - Cr*ap Fixer
@@ -4459,6 +4469,7 @@
 
 ## Html
 
+* 【2025-08-22】[Zie619 / n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 * 【2025-08-20】[ioccc-src / winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
 * 【2025-08-19】[Zie619 / n8n\-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 * 【2025-08-15】[strands\-agents / docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK  A model\-driven approach to building AI agents in just a few lines of code 
