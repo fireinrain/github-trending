@@ -1305,6 +1305,8 @@
 
 ## Python
 
+* 【2025-08-23】[codelion / openevolve](https://github.com/codelion/openevolve) - Open\-source implementation of AlphaEvolve
+* 【2025-08-23】[KoljaB / RealtimeVoiceChat](https://github.com/KoljaB/RealtimeVoiceChat) - Have a natural, spoken conversation with AI!
 * 【2025-08-22】[sooperset / mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 * 【2025-08-22】[NVIDIA\-NeMo / RL](https://github.com/NVIDIA-NeMo/RL) - Scalable toolkit for efficient model reinforcement
 * 【2025-08-21】[laude-institute / terminal-bench](https://github.com/laude-institute/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal
@@ -2350,6 +2352,8 @@
 
 ## Javascript
 
+* 【2025-08-23】[eoao / cloud-mail](https://github.com/eoao/cloud-mail) - cloudflare email 邮箱 临时邮箱 邮件发送 mail
+* 【2025-08-23】[hargata / lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web\-based vehicle maintenance and fuel mileage tracker
 * 【2025-08-22】[YosemiteCrew / Yosemite-Crew](https://github.com/YosemiteCrew/Yosemite-Crew) - Open source operating system for animal health
 * 【2025-08-21】[YosemiteCrew / Yosemite\-Crew](https://github.com/YosemiteCrew/Yosemite-Crew) - Open source operating system for animal health
 * 【2025-08-18】[grab / cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - CTTF: MCP integration between Cursor AI and Figma, allowing Cursor to communicate with Figma like agentic ai for reading designs and modifying them programmatically.
@@ -2877,6 +2881,9 @@
 
 ## Go
 
+* 【2025-08-23】[OpenCSGs / csghub\-server](https://github.com/OpenCSGs/csghub-server) - csghub\-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces 
+* 【2025-08-23】[korotovsky / slack\-mcp\-server](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack Server with no permission requirements, Apps support, multiple transports Stdio and SSE, DMs, Group DMs and smart history fetch logic 
+* 【2025-08-23】[obot\-platform / obot](https://github.com/obot-platform/obot) - Open\-source MCP Gateway and AI Platform
 * 【2025-08-21】[isaacphi / mcp\-language\-server](https://github.com/isaacphi/mcp-language-server) - mcp\-language\-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics 
 * 【2025-08-19】[stacklok / toolhive](https://github.com/stacklok/toolhive) - ToolHive makes deploying MCP servers easy, secure and fun
 * 【2025-08-17】[hashicorp / terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) - The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.
@@ -3679,6 +3686,7 @@
 
 ## C++
 
+* 【2025-08-23】[google / longfellow-zk](https://github.com/google/longfellow-zk) - Implementation of the Google Zero-Knowledge library for Identity Protocols.
 * 【2025-08-22】[ROCm / rocm-systems](https://github.com/ROCm/rocm-systems) - super repo for rocm systems projects
 * 【2025-08-22】[lynx-family / lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 * 【2025-08-21】[ROCm / rocm\-systems](https://github.com/ROCm/rocm-systems) - super repo for rocm systems projects
@@ -4056,6 +4064,7 @@
 
 ## C#
 
+* 【2025-08-23】[microsoft / mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI\-powered data access and tool integration
 * 【2025-08-22】[microsoftgraph / msgraph-sdk-powershell](https://github.com/microsoftgraph/msgraph-sdk-powershell) - Powershell SDK for Microsoft Graph
 * 【2025-08-21】[microsoftgraph / msgraph\-sdk\-powershell](https://github.com/microsoftgraph/msgraph-sdk-powershell) - Powershell SDK for Microsoft Graph
 * 【2025-08-20】[katboi01 / UmaViewer](https://github.com/katboi01/UmaViewer) - Asset Viewer for Uma Musume
@@ -4469,6 +4478,7 @@
 
 ## Html
 
+* 【2025-08-23】[strands-agents / docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
 * 【2025-08-22】[Zie619 / n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 * 【2025-08-20】[ioccc-src / winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
 * 【2025-08-19】[Zie619 / n8n\-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
@@ -5612,6 +5622,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-08-23】[gorules / zen](https://github.com/gorules/zen) - Open\-source Business Rules Engine for your Rust, NodeJS, Python, Go, Kotlin (JVM) and Java applications 
 * 【2025-08-20】[bahdotsh / wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally 
 * 【2025-08-16】[mediar\-ai / terminator](https://github.com/mediar-ai/terminator) - AI\-powered desktop automation — open source, MIT\-licensed, cross\-platform, accessibility\-first  Works across all apps and browsers  Inspired by GitHub Actions & Playwright  100x faster than generic AI agents, >95% success rate, no vendor lock\-in 
 * 【2025-08-14】[rathole-org / rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
@@ -6384,6 +6395,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-08-23】[idosal / mcp\-ui](https://github.com/idosal/mcp-ui) - SDK for UI over MCP  Create next\-gen UI experiences!
 * 【2025-08-20】[epicenter-so / epicenter](https://github.com/epicenter-so/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
 * 【2025-08-19】[bytebot-ai / bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 * 【2025-08-18】[coaidev / coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One\-Stop Internationalization Solution  🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
