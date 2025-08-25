@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-08-25】[winapps-org / winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 * 【2025-08-24】[winapps\-org / winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration  Hard fork of https://github com/Fmstrat/winapps/
 * 【2025-08-24】[HKUDS / DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 * 【2025-08-24】[scottpetrovic / mesh2motion\-app](https://github.com/scottpetrovic/mesh2motion-app) - Import a 3D Model and automatically assign and export animations
@@ -1312,6 +1313,8 @@
 
 ## Python
 
+* 【2025-08-25】[openai / mle\-bench](https://github.com/openai/mle-bench) - MLE\-bench is a benchmark for measuring how well AI agents perform at machine learning engineering
+* 【2025-08-25】[ai-to-ai / Auto-Gmail-Creator](https://github.com/ai-to-ai/Auto-Gmail-Creator) - Open Source Bulk Auto Gmail Creator Bot with Selenium & Seleniumwire ( Python ). Feel free to contact me with Django/Flask, ML, AI, GPT, Automation, Scraping.
 * 【2025-08-24】[1rgs / claude\-code\-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
 * 【2025-08-24】[SamuelSchmidgall / AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) - Agent Laboratory is an end\-to\-end autonomous research workflow meant to assist you as the human researcher toward implementing your research ideas
 * 【2025-08-24】[Arindam200 / awesome\-ai\-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
@@ -2894,6 +2897,8 @@
 
 ## Go
 
+* 【2025-08-25】[OpenCSGs / csghub-server](https://github.com/OpenCSGs/csghub-server) - csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces.
+* 【2025-08-25】[go-vikunja / vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
 * 【2025-08-24】[flexprice / flexprice](https://github.com/flexprice/flexprice) - Usage\-based pricing and billing for developers 🔓 Cloud or self\-hosted ⚙️ No\-code UI 💰 Realtime usage metering 🎟 Credits & top\-ups 🔑 Control feature access
 * 【2025-08-24】[korotovsky / slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack Server with no permission requirements, Apps support, multiple transports Stdio and SSE, DMs, Group DMs and smart history fetch logic.
 * 【2025-08-23】[OpenCSGs / csghub\-server](https://github.com/OpenCSGs/csghub-server) - csghub\-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces 
@@ -3701,6 +3706,7 @@
 
 ## C++
 
+* 【2025-08-25】[2swap / swaptube](https://github.com/2swap/swaptube) - youtube video renderer
 * 【2025-08-23】[google / longfellow-zk](https://github.com/google/longfellow-zk) - Implementation of the Google Zero-Knowledge library for Identity Protocols.
 * 【2025-08-22】[ROCm / rocm-systems](https://github.com/ROCm/rocm-systems) - super repo for rocm systems projects
 * 【2025-08-22】[lynx-family / lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
@@ -4079,6 +4085,7 @@
 
 ## C#
 
+* 【2025-08-25】[NickvisionApps / Denaro](https://github.com/NickvisionApps/Denaro) - Manage your personal finances
 * 【2025-08-24】[Ottermandias / Glamourer](https://github.com/Ottermandias/Glamourer) - Change outside appearance of actors using Penumbra 
 * 【2025-08-23】[microsoft / mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI\-powered data access and tool integration
 * 【2025-08-22】[microsoftgraph / msgraph-sdk-powershell](https://github.com/microsoftgraph/msgraph-sdk-powershell) - Powershell SDK for Microsoft Graph
@@ -4996,6 +5003,7 @@
 
 ## Unknown
 
+* 【2025-08-25】[Arudjreis / awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC) - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
 * 【2025-08-24】[Arudjreis / awesome\-security\-GRC](https://github.com/Arudjreis/awesome-security-GRC) - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist) 
 * 【2025-08-18】[enescingoz / awesome\-n8n\-templates](https://github.com/enescingoz/awesome-n8n-templates) - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps\-like Gmail, Telegram, Google Drive, Slack, and more\-with ready\-to\-use, AI\-powered automations  Save time, boost productivity, and unlock the true potential of n8n in just a few clicks 
 * 【2025-08-18】[TheGP / untidetect\-tools](https://github.com/TheGP/untidetect-tools) - List of anti\-detect and humanizing tools and browsers, including captcha solvers and sms\-activation 
@@ -5639,6 +5647,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-08-25】[ofek / pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 * 【2025-08-24】[imhuso / cunzhi](https://github.com/imhuso/cunzhi) - 告别AI提前终止烦恼，助力AI更加持久
 * 【2025-08-24】[intentee / paddler](https://github.com/intentee/paddler) - Open\-source LLMOps platform for hosting and scaling AI in your own infrastructure 🏓🦙
 * 【2025-08-23】[gorules / zen](https://github.com/gorules/zen) - Open\-source Business Rules Engine for your Rust, NodeJS, Python, Go, Kotlin (JVM) and Java applications 
@@ -6414,6 +6423,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-08-25】[arabold / docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Docs MCP Server: Enhance Your AI Coding Assistant
 * 【2025-08-24】[scottpetrovic / mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app) - Import a 3D Model and automatically assign and export animations
 * 【2025-08-23】[idosal / mcp\-ui](https://github.com/idosal/mcp-ui) - SDK for UI over MCP  Create next\-gen UI experiences!
 * 【2025-08-20】[epicenter-so / epicenter](https://github.com/epicenter-so/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
