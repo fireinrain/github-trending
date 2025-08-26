@@ -1313,6 +1313,8 @@
 
 ## Python
 
+* 【2025-08-26】[QuentinFuxa / WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Python package for Real\-time, Local Speech\-to\-Text and Speaker Diarization  FastAPI Server & Web Interface
+* 【2025-08-26】[Comfy-Org / ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
 * 【2025-08-25】[openai / mle\-bench](https://github.com/openai/mle-bench) - MLE\-bench is a benchmark for measuring how well AI agents perform at machine learning engineering
 * 【2025-08-25】[ai-to-ai / Auto-Gmail-Creator](https://github.com/ai-to-ai/Auto-Gmail-Creator) - Open Source Bulk Auto Gmail Creator Bot with Selenium & Seleniumwire ( Python ). Feel free to contact me with Django/Flask, ML, AI, GPT, Automation, Scraping.
 * 【2025-08-24】[1rgs / claude\-code\-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
@@ -2368,6 +2370,7 @@
 
 ## Javascript
 
+* 【2025-08-26】[fleetbase / fleetbase](https://github.com/fleetbase/fleetbase) - Modular logistics and supply chain operating system (LSOS)
 * 【2025-08-23】[eoao / cloud-mail](https://github.com/eoao/cloud-mail) - cloudflare email 邮箱 临时邮箱 邮件发送 mail
 * 【2025-08-23】[hargata / lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web\-based vehicle maintenance and fuel mileage tracker
 * 【2025-08-22】[YosemiteCrew / Yosemite-Crew](https://github.com/YosemiteCrew/Yosemite-Crew) - Open source operating system for animal health
@@ -2897,6 +2900,7 @@
 
 ## Go
 
+* 【2025-08-26】[cloudfoundry / cli](https://github.com/cloudfoundry/cli) - The official command line client for Cloud Foundry
 * 【2025-08-25】[OpenCSGs / csghub-server](https://github.com/OpenCSGs/csghub-server) - csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces.
 * 【2025-08-25】[go-vikunja / vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
 * 【2025-08-24】[flexprice / flexprice](https://github.com/flexprice/flexprice) - Usage\-based pricing and billing for developers 🔓 Cloud or self\-hosted ⚙️ No\-code UI 💰 Realtime usage metering 🎟 Credits & top\-ups 🔑 Control feature access
@@ -4501,6 +4505,7 @@
 
 ## Html
 
+* 【2025-08-26】[g4m3r0 / ImageUpscaler](https://github.com/g4m3r0/ImageUpscaler) - Elevate your low\-res images effortlessly with our simple Flask web app powered by AI image upscaling 
 * 【2025-08-23】[strands-agents / docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
 * 【2025-08-22】[Zie619 / n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 * 【2025-08-20】[ioccc-src / winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
@@ -5647,6 +5652,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-08-26】[kixelated / moq](https://github.com/kixelated/moq) - Rust library for Media over QUIC
 * 【2025-08-25】[ofek / pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 * 【2025-08-24】[imhuso / cunzhi](https://github.com/imhuso/cunzhi) - 告别AI提前终止烦恼，助力AI更加持久
 * 【2025-08-24】[intentee / paddler](https://github.com/intentee/paddler) - Open\-source LLMOps platform for hosting and scaling AI in your own infrastructure 🏓🦙
@@ -6423,6 +6429,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-08-26】[LukeGus / Termix](https://github.com/LukeGus/Termix) - Termix is a web\-based server management platform with SSH terminal, tunneling, and file editing capabilities 
+* 【2025-08-26】[varun\-raj / immich\-power\-tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your immich library
 * 【2025-08-25】[arabold / docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Docs MCP Server: Enhance Your AI Coding Assistant
 * 【2025-08-24】[scottpetrovic / mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app) - Import a 3D Model and automatically assign and export animations
 * 【2025-08-23】[idosal / mcp\-ui](https://github.com/idosal/mcp-ui) - SDK for UI over MCP  Create next\-gen UI experiences!
