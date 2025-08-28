@@ -966,6 +966,8 @@
 
 ## Java
 
+* 【2025-08-28】[githubtraining / hellogitworld](https://github.com/githubtraining/hellogitworld) - Hello Git World sample training repository
+* 【2025-08-28】[sonatype / nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Open-source codebase mirror
 * 【2025-08-27】[AIDC\-AI / Agentic\-ADK](https://github.com/AIDC-AI/Agentic-ADK) - Agentic ADK is an Agent application development framework launched by Alibaba International AI Business, based on Google\-ADK and Ali\-LangEngine 
 * 【2025-08-27】[sonatype / nexus\-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Open\-source codebase mirror
 * 【2025-08-27】[1024-lab / smart-admin](https://github.com/1024-lab/smart-admin) - SmartAdmin国内首个以「高质量代码」为核心，「简洁、高效、安全」快速开发平台；基于SpringBoot2/3 + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x (同时支持JavaScript和TypeScript双版本)；满足国家三级等保要求、支持登录限制、接口数据国产加解密、高防SQL注入等一系列安全体系。
@@ -2375,6 +2377,7 @@
 
 ## Javascript
 
+* 【2025-08-28】[adobe / aem-guides-wknd](https://github.com/adobe/aem-guides-wknd) - Tutorial Code companion for Getting Started Developing with AEM Sites WKND Tutorial
 * 【2025-08-27】[SkyworkAI / DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) - DeepResearchAgent is a hierarchical multi\-agent system designed not only for deep research tasks but also for general\-purpose task solving  The framework leverages a top\-level planning agent to coordinate multiple specialized lower\-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains 
 * 【2025-08-26】[fleetbase / fleetbase](https://github.com/fleetbase/fleetbase) - Modular logistics and supply chain operating system (LSOS)
 * 【2025-08-23】[eoao / cloud-mail](https://github.com/eoao/cloud-mail) - cloudflare email 邮箱 临时邮箱 邮件发送 mail
@@ -2906,6 +2909,8 @@
 
 ## Go
 
+* 【2025-08-28】[beam-cloud / beta9](https://github.com/beam-cloud/beta9) - Secure, high-performance AI infrastructure in Python.
+* 【2025-08-28】[google / osv-scalibr](https://github.com/google/osv-scalibr) - OSV-SCALIBR: A library for Software Composition Analysis
 * 【2025-08-26】[cloudfoundry / cli](https://github.com/cloudfoundry/cli) - The official command line client for Cloud Foundry
 * 【2025-08-25】[OpenCSGs / csghub-server](https://github.com/OpenCSGs/csghub-server) - csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces.
 * 【2025-08-25】[go-vikunja / vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
@@ -3346,6 +3351,7 @@
 
 ## C
 
+* 【2025-08-28】[documentdb / documentdb](https://github.com/documentdb/documentdb) - MongoDB\-compatible database engine for cloud\-native and open\-source workloads  Built for scalability, performance, and developer productivity 
 * 【2025-08-22】[Adaptix\-Framework / AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
 * 【2025-08-20】[kolunmi / bazaar](https://github.com/kolunmi/bazaar) - New App Store for GNOME
 * 【2025-08-20】[dekuNukem / daytripper](https://github.com/dekuNukem/daytripper) - Hide\-My\-Windows Laser Tripwire
@@ -4096,6 +4102,7 @@
 
 ## C#
 
+* 【2025-08-28】[VedalAI / neuro-sdk](https://github.com/VedalAI/neuro-sdk) - Neuro SDK + API for allowing Neuro to play games
 * 【2025-08-27】[VedalAI / neuro\-sdk](https://github.com/VedalAI/neuro-sdk) - Neuro SDK + API for allowing Neuro to play games
 * 【2025-08-27】[creazyboyone / FastGithub](https://github.com/creazyboyone/FastGithub) - FastGithub 是 GitHub 加速神器，解决 GitHub 打不开、用户头像无法加载、releases 无法上传下载、git\-clone、git\-pull、git\-push
 * 【2025-08-25】[NickvisionApps / Denaro](https://github.com/NickvisionApps/Denaro) - Manage your personal finances
@@ -4514,6 +4521,7 @@
 
 ## Html
 
+* 【2025-08-28】[quinlan\-lab / applied\-computational\-genomics](https://github.com/quinlan-lab/applied-computational-genomics) - Applied Computational Genomics Course at UU: Spring 2020
 * 【2025-08-26】[g4m3r0 / ImageUpscaler](https://github.com/g4m3r0/ImageUpscaler) - Elevate your low\-res images effortlessly with our simple Flask web app powered by AI image upscaling 
 * 【2025-08-23】[strands-agents / docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
 * 【2025-08-22】[Zie619 / n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
@@ -6438,6 +6446,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-08-28】[ryo\-ma / github\-profile\-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies on your readme
+* 【2025-08-28】[openai / openai\-realtime\-twilio\-demo](https://github.com/openai/openai-realtime-twilio-demo) - 
+* 【2025-08-28】[anthropics / claude\-code\-action](https://github.com/anthropics/claude-code-action) - 
 * 【2025-08-27】[unsend-dev / unsend](https://github.com/unsend-dev/unsend) - Open source alternative to Resend,Sendgrid, Postmark etc.
 * 【2025-08-26】[LukeGus / Termix](https://github.com/LukeGus/Termix) - Termix is a web\-based server management platform with SSH terminal, tunneling, and file editing capabilities 
 * 【2025-08-26】[varun\-raj / immich\-power\-tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your immich library
