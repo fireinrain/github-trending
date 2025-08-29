@@ -966,6 +966,7 @@
 
 ## Java
 
+* 【2025-08-29】[LaurieWired / Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
 * 【2025-08-28】[githubtraining / hellogitworld](https://github.com/githubtraining/hellogitworld) - Hello Git World sample training repository
 * 【2025-08-28】[sonatype / nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Open-source codebase mirror
 * 【2025-08-27】[AIDC\-AI / Agentic\-ADK](https://github.com/AIDC-AI/Agentic-ADK) - Agentic ADK is an Agent application development framework launched by Alibaba International AI Business, based on Google\-ADK and Ali\-LangEngine 
@@ -1318,6 +1319,7 @@
 
 ## Python
 
+* 【2025-08-29】[alpacahq / alpaca\-py](https://github.com/alpacahq/alpaca-py) - The Official Python SDK for Alpaca API
 * 【2025-08-27】[bytedance / deer\-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community\-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open\-source community 
 * 【2025-08-27】[i\-am\-bee / acp](https://github.com/i-am-bee/acp) - Open protocol for communication between AI agents, applications, and humans 
 * 【2025-08-26】[QuentinFuxa / WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Python package for Real\-time, Local Speech\-to\-Text and Speaker Diarization  FastAPI Server & Web Interface
@@ -2377,6 +2379,7 @@
 
 ## Javascript
 
+* 【2025-08-29】[raodv / report](https://github.com/raodv/report) - AJ\-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源\-\-\-\->写SQL配置数据集\-\-\-\->拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。
 * 【2025-08-28】[adobe / aem-guides-wknd](https://github.com/adobe/aem-guides-wknd) - Tutorial Code companion for Getting Started Developing with AEM Sites WKND Tutorial
 * 【2025-08-27】[SkyworkAI / DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) - DeepResearchAgent is a hierarchical multi\-agent system designed not only for deep research tasks but also for general\-purpose task solving  The framework leverages a top\-level planning agent to coordinate multiple specialized lower\-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains 
 * 【2025-08-26】[fleetbase / fleetbase](https://github.com/fleetbase/fleetbase) - Modular logistics and supply chain operating system (LSOS)
@@ -3351,6 +3354,7 @@
 
 ## C
 
+* 【2025-08-29】[NVIDIA\-RTX / Streamline](https://github.com/NVIDIA-RTX/Streamline) - Streamline Integration Framework
 * 【2025-08-28】[documentdb / documentdb](https://github.com/documentdb/documentdb) - MongoDB\-compatible database engine for cloud\-native and open\-source workloads  Built for scalability, performance, and developer productivity 
 * 【2025-08-22】[Adaptix\-Framework / AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
 * 【2025-08-20】[kolunmi / bazaar](https://github.com/kolunmi/bazaar) - New App Store for GNOME
@@ -4521,6 +4525,7 @@
 
 ## Html
 
+* 【2025-08-29】[chiphuyen / ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
 * 【2025-08-28】[quinlan\-lab / applied\-computational\-genomics](https://github.com/quinlan-lab/applied-computational-genomics) - Applied Computational Genomics Course at UU: Spring 2020
 * 【2025-08-26】[g4m3r0 / ImageUpscaler](https://github.com/g4m3r0/ImageUpscaler) - Elevate your low\-res images effortlessly with our simple Flask web app powered by AI image upscaling 
 * 【2025-08-23】[strands-agents / docs](https://github.com/strands-agents/docs) - Documentation for the Strands Agents SDK. A model-driven approach to building AI agents in just a few lines of code.
@@ -5669,6 +5674,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-08-29】[tier4 / awkernel](https://github.com/tier4/awkernel) - Awkernel: realtime operating system written in Rust
 * 【2025-08-26】[kixelated / moq](https://github.com/kixelated/moq) - Rust library for Media over QUIC
 * 【2025-08-25】[ofek / pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
 * 【2025-08-24】[imhuso / cunzhi](https://github.com/imhuso/cunzhi) - 告别AI提前终止烦恼，助力AI更加持久
@@ -6446,6 +6452,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-08-29】[humanlayer / humanlayer](https://github.com/humanlayer/humanlayer) - HumanLayer enables AI agents to communicate with humans in tool\-based and async workflows  Guarantee human oversight of high\-stakes function calls with approval workflows across slack, email and more  Bring your LLM and Framework of choice and start giving your AI agents safe access to the world  Agentic Workflows, human in the loop, tool calling
+* 【2025-08-29】[gyoridavid / short\-video\-maker](https://github.com/gyoridavid/short-video-maker) - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API 
 * 【2025-08-28】[ryo\-ma / github\-profile\-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies on your readme
 * 【2025-08-28】[openai / openai\-realtime\-twilio\-demo](https://github.com/openai/openai-realtime-twilio-demo) - 
 * 【2025-08-28】[anthropics / claude\-code\-action](https://github.com/anthropics/claude-code-action) - 
