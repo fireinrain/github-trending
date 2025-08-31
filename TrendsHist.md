@@ -1,5 +1,9 @@
 ## All language
 
+* 【2025-08-31】[elixir\-lang / expert](https://github.com/elixir-lang/expert) - Official Elixir Language Server Protocol implementation
+* 【2025-08-31】[bin456789 / reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One\-click reinstall OS on VPS)
+* 【2025-08-31】[PathOfBuildingCommunity / PathOfBuilding\-PoE2](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2) - 
+* 【2025-08-31】[JetBrains / koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building and running robust, scalable and production\-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in\-browser environments  Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
 * 【2025-08-30】[mercurjs / mercur](https://github.com/mercurjs/mercur) - Open\-source multi\-vendor marketplace platform for B2B & B2C  Built on top of MedusaJS  Create your own custom marketplace  🛍️
 * 【2025-08-25】[winapps-org / winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 * 【2025-08-24】[winapps\-org / winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration  Hard fork of https://github com/Fmstrat/winapps/
@@ -1320,6 +1324,9 @@
 
 ## Python
 
+* 【2025-08-31】[sansan0 / TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 \- 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+* 【2025-08-31】[feder\-cr / Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process  Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way 
+* 【2025-08-31】[VectifyAI / PageIndex](https://github.com/VectifyAI/PageIndex) - 📄🧠 PageIndex: Document Index for Reasoning\-based RAG
 * 【2025-08-30】[ihmily / StreamCap](https://github.com/ihmily/StreamCap) - Multi\-Platform Live Stream Automatic Recording Tool \| 多平台直播流自动录制客户端 · 基于FFmpeg · 支持监控/定时/转码
 * 【2025-08-30】[NVIDIA\-NeMo / NeMo](https://github.com/NVIDIA-NeMo/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text\-to\-Speech)
 * 【2025-08-29】[alpacahq / alpaca\-py](https://github.com/alpacahq/alpaca-py) - The Official Python SDK for Alpaca API
@@ -2382,6 +2389,8 @@
 
 ## Javascript
 
+* 【2025-08-31】[mrmlnc / fast\-glob](https://github.com/mrmlnc/fast-glob) - 🚀 It's a very fast and efficient glob library for Node js
+* 【2025-08-31】[codemirror / dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 * 【2025-08-29】[raodv / report](https://github.com/raodv/report) - AJ\-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源\-\-\-\->写SQL配置数据集\-\-\-\->拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。
 * 【2025-08-28】[adobe / aem-guides-wknd](https://github.com/adobe/aem-guides-wknd) - Tutorial Code companion for Getting Started Developing with AEM Sites WKND Tutorial
 * 【2025-08-27】[SkyworkAI / DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) - DeepResearchAgent is a hierarchical multi\-agent system designed not only for deep research tasks but also for general\-purpose task solving  The framework leverages a top\-level planning agent to coordinate multiple specialized lower\-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains 
@@ -2915,6 +2924,7 @@
 
 ## Go
 
+* 【2025-08-31】[kubernetes\-sigs / gateway\-api\-inference\-extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension) - Gateway API Inference Extension
 * 【2025-08-30】[mostlygeek / llama-swap](https://github.com/mostlygeek/llama-swap) - Model swapping for llama.cpp (or any local OpenAI API compatible server)
 * 【2025-08-30】[charmbracelet / crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 * 【2025-08-28】[beam-cloud / beta9](https://github.com/beam-cloud/beta9) - Secure, high-performance AI infrastructure in Python.
@@ -3359,6 +3369,7 @@
 
 ## C
 
+* 【2025-08-31】[chaosgoo / mcompass](https://github.com/chaosgoo/mcompass) - 
 * 【2025-08-30】[edk2\-porting / edk2\-rk3588](https://github.com/edk2-porting/edk2-rk3588) - EDK2 UEFI firmware for Rockchip RK3588 platforms
 * 【2025-08-29】[NVIDIA\-RTX / Streamline](https://github.com/NVIDIA-RTX/Streamline) - Streamline Integration Framework
 * 【2025-08-28】[documentdb / documentdb](https://github.com/documentdb/documentdb) - MongoDB\-compatible database engine for cloud\-native and open\-source workloads  Built for scalability, performance, and developer productivity 
@@ -3732,6 +3743,7 @@
 
 ## C++
 
+* 【2025-08-31】[unitreerobotics / unitree_ros2](https://github.com/unitreerobotics/unitree_ros2) - 
 * 【2025-08-27】[deepseek-ai / FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA kernels
 * 【2025-08-25】[2swap / swaptube](https://github.com/2swap/swaptube) - youtube video renderer
 * 【2025-08-23】[google / longfellow-zk](https://github.com/google/longfellow-zk) - Implementation of the Google Zero-Knowledge library for Identity Protocols.
@@ -4112,6 +4124,7 @@
 
 ## C#
 
+* 【2025-08-31】[AntdUI / AntdUI](https://github.com/AntdUI/AntdUI) - 👚 Winform interface library based on the Ant Design
 * 【2025-08-28】[VedalAI / neuro-sdk](https://github.com/VedalAI/neuro-sdk) - Neuro SDK + API for allowing Neuro to play games
 * 【2025-08-27】[VedalAI / neuro\-sdk](https://github.com/VedalAI/neuro-sdk) - Neuro SDK + API for allowing Neuro to play games
 * 【2025-08-27】[creazyboyone / FastGithub](https://github.com/creazyboyone/FastGithub) - FastGithub 是 GitHub 加速神器，解决 GitHub 打不开、用户头像无法加载、releases 无法上传下载、git\-clone、git\-pull、git\-push
@@ -4531,6 +4544,7 @@
 
 ## Html
 
+* 【2025-08-31】[MonkeyGG2 / monkeygg2 github io](https://github.com/MonkeyGG2/monkeygg2.github.io) - Feature\-rich games site with 150+ games  Can be easily deployed with a proxy 
 * 【2025-08-30】[vimichael / make-windows-pretty](https://github.com/vimichael/make-windows-pretty) - Some tools I used for making Windows 11 look nice.
 * 【2025-08-29】[chiphuyen / ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
 * 【2025-08-28】[quinlan\-lab / applied\-computational\-genomics](https://github.com/quinlan-lab/applied-computational-genomics) - Applied Computational Genomics Course at UU: Spring 2020
@@ -5037,6 +5051,7 @@
 
 ## Unknown
 
+* 【2025-08-31】[zju3dv / MatchAnything](https://github.com/zju3dv/MatchAnything) - Code for "MatchAnything: Universal Cross\-Modality Image Matching with Large\-Scale Pre\-Training", Arxiv 2025 
 * 【2025-08-30】[microsoft / PowerAppsCodeApps](https://github.com/microsoft/PowerAppsCodeApps) - Create custom web application to run within Power Apps!
 * 【2025-08-25】[Arudjreis / awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC) - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
 * 【2025-08-24】[Arudjreis / awesome\-security\-GRC](https://github.com/Arudjreis/awesome-security-GRC) - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist) 
@@ -5682,6 +5697,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-08-31】[drl990114 / MarkFlowy](https://github.com/drl990114/MarkFlowy) - A markdown editor, which is lighter, smarter and purer  一个 Markdown 编辑器，但是更轻快、更智能、更纯粹。
 * 【2025-08-29】[tier4 / awkernel](https://github.com/tier4/awkernel) - Awkernel: realtime operating system written in Rust
 * 【2025-08-26】[kixelated / moq](https://github.com/kixelated/moq) - Rust library for Media over QUIC
 * 【2025-08-25】[ofek / pyapp](https://github.com/ofek/pyapp) - Runtime installer for Python applications
@@ -6460,6 +6476,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-08-31】[openai / openai\-agents\-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi\-agent workflows and voice agents
+* 【2025-08-31】[prevwong / craft js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
 * 【2025-08-29】[humanlayer / humanlayer](https://github.com/humanlayer/humanlayer) - HumanLayer enables AI agents to communicate with humans in tool\-based and async workflows  Guarantee human oversight of high\-stakes function calls with approval workflows across slack, email and more  Bring your LLM and Framework of choice and start giving your AI agents safe access to the world  Agentic Workflows, human in the loop, tool calling
 * 【2025-08-29】[gyoridavid / short\-video\-maker](https://github.com/gyoridavid/short-video-maker) - Creates short videos for TikTok, Instagram Reels, and YouTube Shorts using the Model Context Protocol (MCP) and a REST API 
 * 【2025-08-28】[ryo\-ma / github\-profile\-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies on your readme
