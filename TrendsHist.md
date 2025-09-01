@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-09-01】[elixir-lang / expert](https://github.com/elixir-lang/expert) - Official Elixir Language Server Protocol implementation
 * 【2025-08-31】[elixir\-lang / expert](https://github.com/elixir-lang/expert) - Official Elixir Language Server Protocol implementation
 * 【2025-08-31】[bin456789 / reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One\-click reinstall OS on VPS)
 * 【2025-08-31】[PathOfBuildingCommunity / PathOfBuilding\-PoE2](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2) - 
@@ -1324,6 +1325,8 @@
 
 ## Python
 
+* 【2025-09-01】[llamastack / llama\-stack](https://github.com/llamastack/llama-stack) - Composable building blocks to build Llama Apps
+* 【2025-09-01】[Johnserf\-Seed / f2](https://github.com/Johnserf-Seed/f2) - High\-speed downloader for multiple platforms
 * 【2025-08-31】[sansan0 / TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 \- 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
 * 【2025-08-31】[feder\-cr / Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process  Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way 
 * 【2025-08-31】[VectifyAI / PageIndex](https://github.com/VectifyAI/PageIndex) - 📄🧠 PageIndex: Document Index for Reasoning\-based RAG
@@ -2389,6 +2392,7 @@
 
 ## Javascript
 
+* 【2025-09-01】[met4citizen / TalkingHead](https://github.com/met4citizen/TalkingHead) - Talking Head (3D): A JavaScript class for real\-time lip\-sync using Ready Player Me full\-body 3D avatars 
 * 【2025-08-31】[mrmlnc / fast\-glob](https://github.com/mrmlnc/fast-glob) - 🚀 It's a very fast and efficient glob library for Node js
 * 【2025-08-31】[codemirror / dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 * 【2025-08-29】[raodv / report](https://github.com/raodv/report) - AJ\-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源\-\-\-\->写SQL配置数据集\-\-\-\->拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。
@@ -2924,6 +2928,7 @@
 
 ## Go
 
+* 【2025-09-01】[jorgerojas26 / lazysql](https://github.com/jorgerojas26/lazysql) - A cross\-platform TUI database management tool written in Go 
 * 【2025-08-31】[kubernetes\-sigs / gateway\-api\-inference\-extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension) - Gateway API Inference Extension
 * 【2025-08-30】[mostlygeek / llama-swap](https://github.com/mostlygeek/llama-swap) - Model swapping for llama.cpp (or any local OpenAI API compatible server)
 * 【2025-08-30】[charmbracelet / crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
@@ -3369,6 +3374,7 @@
 
 ## C
 
+* 【2025-09-01】[nanovms / nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 * 【2025-08-31】[chaosgoo / mcompass](https://github.com/chaosgoo/mcompass) - 
 * 【2025-08-30】[edk2\-porting / edk2\-rk3588](https://github.com/edk2-porting/edk2-rk3588) - EDK2 UEFI firmware for Rockchip RK3588 platforms
 * 【2025-08-29】[NVIDIA\-RTX / Streamline](https://github.com/NVIDIA-RTX/Streamline) - Streamline Integration Framework
@@ -3743,6 +3749,7 @@
 
 ## C++
 
+* 【2025-09-01】[underpig1 / octos](https://github.com/underpig1/octos) - Create and share web\-based interactive, animated wallpapers on Windows 🚀 Available on the Microsoft Store
 * 【2025-08-31】[unitreerobotics / unitree_ros2](https://github.com/unitreerobotics/unitree_ros2) - 
 * 【2025-08-27】[deepseek-ai / FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA kernels
 * 【2025-08-25】[2swap / swaptube](https://github.com/2swap/swaptube) - youtube video renderer
@@ -6476,6 +6483,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-01】[AmanVarshney01 / create\-better\-t\-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end\-to\-end type\-safe TypeScript projects with best practices and customizable configurations
+* 【2025-09-01】[idosal / mcp-ui](https://github.com/idosal/mcp-ui) - SDK for UI over MCP. Create next-gen UI experiences!
 * 【2025-08-31】[openai / openai\-agents\-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi\-agent workflows and voice agents
 * 【2025-08-31】[prevwong / craft js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
 * 【2025-08-29】[humanlayer / humanlayer](https://github.com/humanlayer/humanlayer) - HumanLayer enables AI agents to communicate with humans in tool\-based and async workflows  Guarantee human oversight of high\-stakes function calls with approval workflows across slack, email and more  Bring your LLM and Framework of choice and start giving your AI agents safe access to the world  Agentic Workflows, human in the loop, tool calling
