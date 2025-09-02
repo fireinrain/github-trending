@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-09-02】[resemble-ai / chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 * 【2025-09-01】[elixir-lang / expert](https://github.com/elixir-lang/expert) - Official Elixir Language Server Protocol implementation
 * 【2025-08-31】[elixir\-lang / expert](https://github.com/elixir-lang/expert) - Official Elixir Language Server Protocol implementation
 * 【2025-08-31】[bin456789 / reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One\-click reinstall OS on VPS)
@@ -1325,6 +1326,7 @@
 
 ## Python
 
+* 【2025-09-02】[Johnserf-Seed / f2](https://github.com/Johnserf-Seed/f2) - High-speed downloader for multiple platforms
 * 【2025-09-01】[llamastack / llama\-stack](https://github.com/llamastack/llama-stack) - Composable building blocks to build Llama Apps
 * 【2025-09-01】[Johnserf\-Seed / f2](https://github.com/Johnserf-Seed/f2) - High\-speed downloader for multiple platforms
 * 【2025-08-31】[sansan0 / TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 \- 多平台热点聚合工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
@@ -2392,6 +2394,7 @@
 
 ## Javascript
 
+* 【2025-09-02】[rgthree / rgthree-comfy](https://github.com/rgthree/rgthree-comfy) - Making ComfyUI more comfortable!
 * 【2025-09-01】[met4citizen / TalkingHead](https://github.com/met4citizen/TalkingHead) - Talking Head (3D): A JavaScript class for real\-time lip\-sync using Ready Player Me full\-body 3D avatars 
 * 【2025-08-31】[mrmlnc / fast\-glob](https://github.com/mrmlnc/fast-glob) - 🚀 It's a very fast and efficient glob library for Node js
 * 【2025-08-31】[codemirror / dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
@@ -3749,6 +3752,7 @@
 
 ## C++
 
+* 【2025-09-02】[ITotalJustice / sphaira](https://github.com/ITotalJustice/sphaira) - A homebrew menu for the Nintendo Switch
 * 【2025-09-01】[underpig1 / octos](https://github.com/underpig1/octos) - Create and share web\-based interactive, animated wallpapers on Windows 🚀 Available on the Microsoft Store
 * 【2025-08-31】[unitreerobotics / unitree_ros2](https://github.com/unitreerobotics/unitree_ros2) - 
 * 【2025-08-27】[deepseek-ai / FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA kernels
@@ -4551,6 +4555,7 @@
 
 ## Html
 
+* 【2025-09-02】[ArjanCodes / examples](https://github.com/ArjanCodes/examples) - All the code examples I use in my videos
 * 【2025-08-31】[MonkeyGG2 / monkeygg2 github io](https://github.com/MonkeyGG2/monkeygg2.github.io) - Feature\-rich games site with 150+ games  Can be easily deployed with a proxy 
 * 【2025-08-30】[vimichael / make-windows-pretty](https://github.com/vimichael/make-windows-pretty) - Some tools I used for making Windows 11 look nice.
 * 【2025-08-29】[chiphuyen / ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
