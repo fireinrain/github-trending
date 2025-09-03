@@ -1326,6 +1326,7 @@
 
 ## Python
 
+* 【2025-09-03】[allenai / OLMoASR](https://github.com/allenai/OLMoASR) - An open\-source implementation of Whisper
 * 【2025-09-02】[Johnserf-Seed / f2](https://github.com/Johnserf-Seed/f2) - High-speed downloader for multiple platforms
 * 【2025-09-01】[llamastack / llama\-stack](https://github.com/llamastack/llama-stack) - Composable building blocks to build Llama Apps
 * 【2025-09-01】[Johnserf\-Seed / f2](https://github.com/Johnserf-Seed/f2) - High\-speed downloader for multiple platforms
@@ -2394,6 +2395,7 @@
 
 ## Javascript
 
+* 【2025-09-03】[niespodd / browser\-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿  How to defeat anti\-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 * 【2025-09-02】[rgthree / rgthree-comfy](https://github.com/rgthree/rgthree-comfy) - Making ComfyUI more comfortable!
 * 【2025-09-01】[met4citizen / TalkingHead](https://github.com/met4citizen/TalkingHead) - Talking Head (3D): A JavaScript class for real\-time lip\-sync using Ready Player Me full\-body 3D avatars 
 * 【2025-08-31】[mrmlnc / fast\-glob](https://github.com/mrmlnc/fast-glob) - 🚀 It's a very fast and efficient glob library for Node js
@@ -3377,6 +3379,8 @@
 
 ## C
 
+* 【2025-09-03】[liamelui / zomdroid](https://github.com/liamelui/zomdroid) - Unofficial Project Zomboid launcher for Android
+* 【2025-09-03】[skeeto / w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 * 【2025-09-01】[nanovms / nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 * 【2025-08-31】[chaosgoo / mcompass](https://github.com/chaosgoo/mcompass) - 
 * 【2025-08-30】[edk2\-porting / edk2\-rk3588](https://github.com/edk2-porting/edk2-rk3588) - EDK2 UEFI firmware for Rockchip RK3588 platforms
@@ -3752,6 +3756,7 @@
 
 ## C++
 
+* 【2025-09-03】[cactus-compute / cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones, wearables and AI-native hardware
 * 【2025-09-02】[ITotalJustice / sphaira](https://github.com/ITotalJustice/sphaira) - A homebrew menu for the Nintendo Switch
 * 【2025-09-01】[underpig1 / octos](https://github.com/underpig1/octos) - Create and share web\-based interactive, animated wallpapers on Windows 🚀 Available on the Microsoft Store
 * 【2025-08-31】[unitreerobotics / unitree_ros2](https://github.com/unitreerobotics/unitree_ros2) - 
@@ -4135,6 +4140,9 @@
 
 ## C#
 
+* 【2025-09-03】[Planshit / ProjectEye](https://github.com/Planshit/ProjectEye) - 😎 一个基于20\-20\-20规则的用眼休息提醒Windows软件
+* 【2025-09-03】[Achuan\-2 / SlideSCI](https://github.com/Achuan-2/SlideSCI) - PPT plugin, supports one\-click to add image titles, copy and paste positions, one\-click image alignment, and one\-click to insert Markdown (including bold, hyperlinks, and other inline styles, as well as code blocks, LaTeX, and other block\-level styles)! PPT插件，支持一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级样式）、便捷导出图片！
+* 【2025-09-03】[tixl3d / tixl](https://github.com/tixl3d/tixl) - Tooll 3 is an open source software to create realtime motion graphics 
 * 【2025-08-31】[AntdUI / AntdUI](https://github.com/AntdUI/AntdUI) - 👚 Winform interface library based on the Ant Design
 * 【2025-08-28】[VedalAI / neuro-sdk](https://github.com/VedalAI/neuro-sdk) - Neuro SDK + API for allowing Neuro to play games
 * 【2025-08-27】[VedalAI / neuro\-sdk](https://github.com/VedalAI/neuro-sdk) - Neuro SDK + API for allowing Neuro to play games
@@ -5709,6 +5717,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-09-03】[carthage\-software / mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code 
+* 【2025-09-03】[kanidm / kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
+* 【2025-09-03】[akenshaw / flowsurface](https://github.com/akenshaw/flowsurface) - A native desktop charting platform for crypto markets with intuitive orderflow visualizations
 * 【2025-08-31】[drl990114 / MarkFlowy](https://github.com/drl990114/MarkFlowy) - A markdown editor, which is lighter, smarter and purer  一个 Markdown 编辑器，但是更轻快、更智能、更纯粹。
 * 【2025-08-29】[tier4 / awkernel](https://github.com/tier4/awkernel) - Awkernel: realtime operating system written in Rust
 * 【2025-08-26】[kixelated / moq](https://github.com/kixelated/moq) - Rust library for Media over QUIC
@@ -6488,6 +6499,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-03】[Vanilagy / mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser 
+* 【2025-09-03】[TibixDev / winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 * 【2025-09-01】[AmanVarshney01 / create\-better\-t\-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end\-to\-end type\-safe TypeScript projects with best practices and customizable configurations
 * 【2025-09-01】[idosal / mcp-ui](https://github.com/idosal/mcp-ui) - SDK for UI over MCP. Create next-gen UI experiences!
 * 【2025-08-31】[openai / openai\-agents\-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi\-agent workflows and voice agents
