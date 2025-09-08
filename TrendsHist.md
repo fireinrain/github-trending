@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-09-08】[Vector-Wangel / XLeRobot](https://github.com/Vector-Wangel/XLeRobot) - XLeRobot: Practical Dual-Arm Mobile Home Robot for $660
 * 【2025-09-05】[weaviate / elysia](https://github.com/weaviate/elysia) - Python package and backend for the Elysia platform app 
 * 【2025-09-05】[socfortress / Wazuh\-Rules](https://github.com/socfortress/Wazuh-Rules) - Advanced Wazuh Rules for more accurate threat detection  Feel free to implement within your own Wazuh environment, contribute, or fork!
 * 【2025-09-04】[oraios / serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
@@ -977,6 +978,8 @@
 
 ## Java
 
+* 【2025-09-08】[Mentra\-Community / MentraOS](https://github.com/Mentra-Community/MentraOS) - Smart glasses OS, with dozens of built\-in apps  Users get AI assistant, notifications, translation, screen mirror, captions, and more  Devs get to write 1 app that runs on any pair of smart glases 
+* 【2025-09-08】[TimefoldAI / timefold\-quickstarts](https://github.com/TimefoldAI/timefold-quickstarts) - Get started with Timefold quickstarts here  Optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems 
 * 【2025-09-07】[AIDC-AI / Agentic-ADK](https://github.com/AIDC-AI/Agentic-ADK) - Agentic ADK is an Agent application development framework launched by Alibaba International AI Business, based on Google-ADK and Ali-LangEngine.
 * 【2025-09-07】[lhccong / fish\-island\-backend](https://github.com/lhccong/fish-island-backend) - 摸鱼岛🎣后端 基于爬虫 ➕ Netty ➕ SpringBoot ➕Redis➕ MySQL 开源🌟一站式摸鱼网
 * 【2025-08-29】[LaurieWired / Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
@@ -1332,6 +1335,8 @@
 
 ## Python
 
+* 【2025-09-08】[NVIDIA / TensorRT\-Model\-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer) - A unified library of state\-of\-the\-art model optimization techniques like quantization, pruning, distillation, speculative decoding, etc  It compresses deep learning models for downstream deployment frameworks like TensorRT\-LLM or TensorRT to optimize inference speed 
+* 【2025-09-08】[wasi-master / 13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 * 【2025-09-07】[kvcache-ai / ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
 * 【2025-09-07】[Vector\-Wangel / XLeRobot](https://github.com/Vector-Wangel/XLeRobot) - XLeRobot: Practical Dual\-Arm Mobile Home Robot for $660
 * 【2025-09-06】[qwersyk / Newelle](https://github.com/qwersyk/Newelle) - Newelle \- Your Ultimate Virtual Assistant
@@ -2410,6 +2415,7 @@
 
 ## Javascript
 
+* 【2025-09-08】[mindcraft\-bots / mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
 * 【2025-09-07】[6Kmfi6HP / EDtunnel](https://github.com/6Kmfi6HP/EDtunnel) - EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。 EDtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multiple protocols and configuration options 
 * 【2025-09-07】[devxprite / infoooze](https://github.com/devxprite/infoooze) - A OSINT tool which helps you to quickly find information effectively  All you need is to input and it will take take care of rest 
 * 【2025-09-05】[bcanseco / github\-contribution\-graph\-action](https://github.com/bcanseco/github-contribution-graph-action) - 🙈 This GitHub action will automatically push empty commits to one of your repositories 
@@ -3777,6 +3783,7 @@
 
 ## C++
 
+* 【2025-09-08】[MrNeRF / LichtFeld\-Studio](https://github.com/MrNeRF/LichtFeld-Studio) - LichtFeld Studio: Where reality and the digital world blend 
 * 【2025-09-07】[duixcom / Duix-Mobile](https://github.com/duixcom/Duix-Mobile) - 🚀 全网效果最好的移动端【实时对话数字人】。 支持本地部署、多模态交互（语音、文本、表情），响应速度低于 1.5 秒，适用于直播、教学、客服、金融、政务等对隐私与实时性要求极高的场景。开箱即用，开发者友好。
 * 【2025-09-03】[cactus-compute / cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones, wearables and AI-native hardware
 * 【2025-09-02】[ITotalJustice / sphaira](https://github.com/ITotalJustice/sphaira) - A homebrew menu for the Nintendo Switch
@@ -4162,6 +4169,8 @@
 
 ## C#
 
+* 【2025-09-08】[builtbybel / Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
+* 【2025-09-08】[immisterio / Lampac](https://github.com/immisterio/Lampac) - 
 * 【2025-09-06】[teelur / budget\-board](https://github.com/teelur/budget-board) - A simple app for tracking monthly spending and working towards financial goals 
 * 【2025-09-05】[jbogard / ContosoUniversityDotNetCore\-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) - With Razor Pages
 * 【2025-09-03】[Planshit / ProjectEye](https://github.com/Planshit/ProjectEye) - 😎 一个基于20\-20\-20规则的用眼休息提醒Windows软件
@@ -5744,6 +5753,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-09-08】[stepchowfun / typical](https://github.com/stepchowfun/typical) - Data interchange with algebraic data types 
 * 【2025-09-05】[dbt\-labs / dbt\-fusion](https://github.com/dbt-labs/dbt-fusion) - The next\-generation engine for dbt
 * 【2025-09-03】[carthage\-software / mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code 
 * 【2025-09-03】[kanidm / kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
@@ -6527,6 +6537,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-08】[coinbase / x402](https://github.com/coinbase/x402) - A payments protocol for the internet  Built on HTTP 
+* 【2025-09-08】[ruvnet / claude\-flow](https://github.com/ruvnet/claude-flow) - Claude\-Flow v2 0 0 Alpha represents a leap in AI\-powered development orchestration  Built from the ground up with enterprise\-grade architecture, advanced swarm intelligence, and seamless Claude Code integration 
 * 【2025-09-05】[11cafe / jaaz](https://github.com/11cafe/jaaz) - The world's first open\-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally 
 * 【2025-09-05】[langchain\-ai / open\-swe](https://github.com/langchain-ai/open-swe) - An Open\-Source Asynchronous Coding Agent
 * 【2025-09-03】[Vanilagy / mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser 
