@@ -978,6 +978,8 @@
 
 ## Java
 
+* 【2025-09-09】[GoogleCloudPlatform / bank\-of\-anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos) - Retail banking sample application showcasing Kubernetes and Google Cloud
+* 【2025-09-09】[TimefoldAI / timefold-quickstarts](https://github.com/TimefoldAI/timefold-quickstarts) - Get started with Timefold quickstarts here. Optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.
 * 【2025-09-08】[Mentra\-Community / MentraOS](https://github.com/Mentra-Community/MentraOS) - Smart glasses OS, with dozens of built\-in apps  Users get AI assistant, notifications, translation, screen mirror, captions, and more  Devs get to write 1 app that runs on any pair of smart glases 
 * 【2025-09-08】[TimefoldAI / timefold\-quickstarts](https://github.com/TimefoldAI/timefold-quickstarts) - Get started with Timefold quickstarts here  Optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems 
 * 【2025-09-07】[AIDC-AI / Agentic-ADK](https://github.com/AIDC-AI/Agentic-ADK) - Agentic ADK is an Agent application development framework launched by Alibaba International AI Business, based on Google-ADK and Ali-LangEngine.
@@ -1335,6 +1337,8 @@
 
 ## Python
 
+* 【2025-09-09】[coderamp\-labs / gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt\-friendly extract of a codebase
+* 【2025-09-09】[NVIDIA / TensorRT-Model-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer) - A unified library of state-of-the-art model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM or TensorRT to optimize inference speed.
 * 【2025-09-08】[NVIDIA / TensorRT\-Model\-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer) - A unified library of state\-of\-the\-art model optimization techniques like quantization, pruning, distillation, speculative decoding, etc  It compresses deep learning models for downstream deployment frameworks like TensorRT\-LLM or TensorRT to optimize inference speed 
 * 【2025-09-08】[wasi-master / 13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 * 【2025-09-07】[kvcache-ai / ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
@@ -2415,6 +2419,7 @@
 
 ## Javascript
 
+* 【2025-09-09】[firecrawl / firecrawl\-mcp\-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server \- Adds powerful web scraping to Cursor, Claude and any other LLM clients 
 * 【2025-09-08】[mindcraft\-bots / mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
 * 【2025-09-07】[6Kmfi6HP / EDtunnel](https://github.com/6Kmfi6HP/EDtunnel) - EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。 EDtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multiple protocols and configuration options 
 * 【2025-09-07】[devxprite / infoooze](https://github.com/devxprite/infoooze) - A OSINT tool which helps you to quickly find information effectively  All you need is to input and it will take take care of rest 
@@ -5753,6 +5758,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-09-09】[Start9Labs / start\-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self\-hosting
 * 【2025-09-08】[stepchowfun / typical](https://github.com/stepchowfun/typical) - Data interchange with algebraic data types 
 * 【2025-09-05】[dbt\-labs / dbt\-fusion](https://github.com/dbt-labs/dbt-fusion) - The next\-generation engine for dbt
 * 【2025-09-03】[carthage\-software / mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code 
