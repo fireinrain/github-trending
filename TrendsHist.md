@@ -2963,6 +2963,7 @@
 
 ## Go
 
+* 【2025-09-10】[yaml / go\-yaml](https://github.com/yaml/go-yaml) - The YAML org maintained fork of https://github com/go\-yaml/yaml
 * 【2025-09-07】[k1LoW / deck](https://github.com/k1LoW/deck) - deck is a tool for creating deck using Markdown and Google Slides 
 * 【2025-09-01】[jorgerojas26 / lazysql](https://github.com/jorgerojas26/lazysql) - A cross\-platform TUI database management tool written in Go 
 * 【2025-08-31】[kubernetes\-sigs / gateway\-api\-inference\-extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension) - Gateway API Inference Extension
@@ -3410,6 +3411,8 @@
 
 ## C
 
+* 【2025-09-10】[izzyreal / vmpc\-juce](https://github.com/izzyreal/vmpc-juce) - JUCE implementation of VMPC2000XL
+* 【2025-09-10】[Adaptix-Framework / AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2) - 
 * 【2025-09-05】[FalkorDB / FalkorDB](https://github.com/FalkorDB/FalkorDB) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation  Our goal is to provide the best Knowledge Graph for LLM (GraphRAG) 
 * 【2025-09-03】[liamelui / zomdroid](https://github.com/liamelui/zomdroid) - Unofficial Project Zomboid launcher for Android
 * 【2025-09-03】[skeeto / w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
@@ -4174,6 +4177,8 @@
 
 ## C#
 
+* 【2025-09-10】[adospace / reactorui\-maui](https://github.com/adospace/reactorui-maui) - MauiReactor is a MVU UI framework built on top of  NET MAUI
+* 【2025-09-10】[Sidekick-Poe / Sidekick](https://github.com/Sidekick-Poe/Sidekick) - The main repository for the Sidekick project, a companion trade tool for Path of Exile and Path of Exile 2.
 * 【2025-09-08】[builtbybel / Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
 * 【2025-09-08】[immisterio / Lampac](https://github.com/immisterio/Lampac) - 
 * 【2025-09-06】[teelur / budget\-board](https://github.com/teelur/budget-board) - A simple app for tracking monthly spending and working towards financial goals 
@@ -4601,6 +4606,7 @@
 
 ## Html
 
+* 【2025-09-10】[MonkeyGG2 / monkeygg2.github.io](https://github.com/MonkeyGG2/monkeygg2.github.io) - Feature-rich games site with 150+ games. Can be easily deployed with a proxy.
 * 【2025-09-02】[ArjanCodes / examples](https://github.com/ArjanCodes/examples) - All the code examples I use in my videos
 * 【2025-08-31】[MonkeyGG2 / monkeygg2 github io](https://github.com/MonkeyGG2/monkeygg2.github.io) - Feature\-rich games site with 150+ games  Can be easily deployed with a proxy 
 * 【2025-08-30】[vimichael / make-windows-pretty](https://github.com/vimichael/make-windows-pretty) - Some tools I used for making Windows 11 look nice.
@@ -6543,6 +6549,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-10】[EcoPasteHub / EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 \| Cross\-platform clipboard management tool
+* 【2025-09-10】[microsoft / azure\-devops\-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents 
+* 【2025-09-10】[apecloud / ApeRAG](https://github.com/apecloud/ApeRAG) - ApeRAG: Production\-ready GraphRAG with multi\-modal indexing, AI agents, MCP support, and scalable K8s deployment
+* 【2025-09-10】[ruvnet / claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.
 * 【2025-09-08】[coinbase / x402](https://github.com/coinbase/x402) - A payments protocol for the internet  Built on HTTP 
 * 【2025-09-08】[ruvnet / claude\-flow](https://github.com/ruvnet/claude-flow) - Claude\-Flow v2 0 0 Alpha represents a leap in AI\-powered development orchestration  Built from the ground up with enterprise\-grade architecture, advanced swarm intelligence, and seamless Claude Code integration 
 * 【2025-09-05】[11cafe / jaaz](https://github.com/11cafe/jaaz) - The world's first open\-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally 
