@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-09-11】[ahujasid / blender\-mcp](https://github.com/ahujasid/blender-mcp) - 
 * 【2025-09-08】[Vector-Wangel / XLeRobot](https://github.com/Vector-Wangel/XLeRobot) - XLeRobot: Practical Dual-Arm Mobile Home Robot for $660
 * 【2025-09-05】[weaviate / elysia](https://github.com/weaviate/elysia) - Python package and backend for the Elysia platform app 
 * 【2025-09-05】[socfortress / Wazuh\-Rules](https://github.com/socfortress/Wazuh-Rules) - Advanced Wazuh Rules for more accurate threat detection  Feel free to implement within your own Wazuh environment, contribute, or fork!
@@ -978,6 +979,7 @@
 
 ## Java
 
+* 【2025-09-11】[GoogleCloudPlatform / bank-of-anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos) - Retail banking sample application showcasing Kubernetes and Google Cloud
 * 【2025-09-09】[GoogleCloudPlatform / bank\-of\-anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos) - Retail banking sample application showcasing Kubernetes and Google Cloud
 * 【2025-09-09】[TimefoldAI / timefold-quickstarts](https://github.com/TimefoldAI/timefold-quickstarts) - Get started with Timefold quickstarts here. Optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.
 * 【2025-09-08】[Mentra\-Community / MentraOS](https://github.com/Mentra-Community/MentraOS) - Smart glasses OS, with dozens of built\-in apps  Users get AI assistant, notifications, translation, screen mirror, captions, and more  Devs get to write 1 app that runs on any pair of smart glases 
@@ -1337,6 +1339,9 @@
 
 ## Python
 
+* 【2025-09-11】[ahujasid / blender-mcp](https://github.com/ahujasid/blender-mcp) - 
+* 【2025-09-11】[NEKOparapa / AiNiee](https://github.com/NEKOparapa/AiNiee) - 一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，Srt Vtt Lrc字幕，Word MD文档等等复杂长文本。
+* 【2025-09-11】[HKUDS / AI-Researcher](https://github.com/HKUDS/AI-Researcher) - "AI-Researcher: Autonomous Scientific Innovation" -- A production-ready version: https://novix.science/chat
 * 【2025-09-09】[coderamp\-labs / gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt\-friendly extract of a codebase
 * 【2025-09-09】[NVIDIA / TensorRT-Model-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer) - A unified library of state-of-the-art model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM or TensorRT to optimize inference speed.
 * 【2025-09-08】[NVIDIA / TensorRT\-Model\-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer) - A unified library of state\-of\-the\-art model optimization techniques like quantization, pruning, distillation, speculative decoding, etc  It compresses deep learning models for downstream deployment frameworks like TensorRT\-LLM or TensorRT to optimize inference speed 
@@ -2419,6 +2424,7 @@
 
 ## Javascript
 
+* 【2025-09-11】[debug\-js / debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node js core's debugging technique  Works in Node js and web browsers
 * 【2025-09-09】[firecrawl / firecrawl\-mcp\-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server \- Adds powerful web scraping to Cursor, Claude and any other LLM clients 
 * 【2025-09-08】[mindcraft\-bots / mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
 * 【2025-09-07】[6Kmfi6HP / EDtunnel](https://github.com/6Kmfi6HP/EDtunnel) - EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。 EDtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multiple protocols and configuration options 
@@ -2963,6 +2969,7 @@
 
 ## Go
 
+* 【2025-09-11】[sjzar / chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data  聊天记录工具，轻松使用自己的聊天数据
 * 【2025-09-10】[yaml / go\-yaml](https://github.com/yaml/go-yaml) - The YAML org maintained fork of https://github com/go\-yaml/yaml
 * 【2025-09-07】[k1LoW / deck](https://github.com/k1LoW/deck) - deck is a tool for creating deck using Markdown and Google Slides 
 * 【2025-09-01】[jorgerojas26 / lazysql](https://github.com/jorgerojas26/lazysql) - A cross\-platform TUI database management tool written in Go 
@@ -4177,6 +4184,7 @@
 
 ## C#
 
+* 【2025-09-11】[Alex\-Rachel / TEngine](https://github.com/Alex-Rachel/TEngine) - Unity框架解决方案\-支持HybridCLR(最好的次时代热更)、Obfuz混淆代码加固与YooAssets(优秀商业级资源框架)。
 * 【2025-09-10】[adospace / reactorui\-maui](https://github.com/adospace/reactorui-maui) - MauiReactor is a MVU UI framework built on top of  NET MAUI
 * 【2025-09-10】[Sidekick-Poe / Sidekick](https://github.com/Sidekick-Poe/Sidekick) - The main repository for the Sidekick project, a companion trade tool for Path of Exile and Path of Exile 2.
 * 【2025-09-08】[builtbybel / Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
@@ -5115,6 +5123,7 @@
 
 ## Unknown
 
+* 【2025-09-11】[emarco177 / langchain\-course](https://github.com/emarco177/langchain-course) - 
 * 【2025-09-07】[mrsaeeddev / free\-ai\-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources \- 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more \- for everyone!
 * 【2025-09-07】[twelve\-factor / twelve\-factor](https://github.com/twelve-factor/twelve-factor) - The Twelve\-Factor Manifesto
 * 【2025-09-06】[jaw9c / awesome\-remote\-mcp\-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) - Remote MCP Servers
@@ -5764,6 +5773,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-09-11】[pythops / impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
+* 【2025-09-11】[Start9Labs / start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 * 【2025-09-09】[Start9Labs / start\-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self\-hosting
 * 【2025-09-08】[stepchowfun / typical](https://github.com/stepchowfun/typical) - Data interchange with algebraic data types 
 * 【2025-09-05】[dbt\-labs / dbt\-fusion](https://github.com/dbt-labs/dbt-fusion) - The next\-generation engine for dbt
@@ -6549,6 +6560,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-11】[czlonkowski / n8n\-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 * 【2025-09-10】[EcoPasteHub / EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 \| Cross\-platform clipboard management tool
 * 【2025-09-10】[microsoft / azure\-devops\-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents 
 * 【2025-09-10】[apecloud / ApeRAG](https://github.com/apecloud/ApeRAG) - ApeRAG: Production\-ready GraphRAG with multi\-modal indexing, AI agents, MCP support, and scalable K8s deployment
