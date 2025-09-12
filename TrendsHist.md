@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-09-12】[trueadm / ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
 * 【2025-09-11】[ahujasid / blender\-mcp](https://github.com/ahujasid/blender-mcp) - 
 * 【2025-09-08】[Vector-Wangel / XLeRobot](https://github.com/Vector-Wangel/XLeRobot) - XLeRobot: Practical Dual-Arm Mobile Home Robot for $660
 * 【2025-09-05】[weaviate / elysia](https://github.com/weaviate/elysia) - Python package and backend for the Elysia platform app 
@@ -1339,6 +1340,7 @@
 
 ## Python
 
+* 【2025-09-12】[sentient\-agi / ROMA](https://github.com/sentient-agi/ROMA) - Recursive\-Open\-Meta\-Agent v0 1 (Beta)  A meta\-agent framework to build high\-performance multi\-agent systems 
 * 【2025-09-11】[ahujasid / blender-mcp](https://github.com/ahujasid/blender-mcp) - 
 * 【2025-09-11】[NEKOparapa / AiNiee](https://github.com/NEKOparapa/AiNiee) - 一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，Srt Vtt Lrc字幕，Word MD文档等等复杂长文本。
 * 【2025-09-11】[HKUDS / AI-Researcher](https://github.com/HKUDS/AI-Researcher) - "AI-Researcher: Autonomous Scientific Innovation" -- A production-ready version: https://novix.science/chat
@@ -2424,6 +2426,7 @@
 
 ## Javascript
 
+* 【2025-09-12】[github / awesome\-copilot](https://github.com/github/awesome-copilot) - Community\-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot 
 * 【2025-09-11】[debug\-js / debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node js core's debugging technique  Works in Node js and web browsers
 * 【2025-09-09】[firecrawl / firecrawl\-mcp\-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server \- Adds powerful web scraping to Cursor, Claude and any other LLM clients 
 * 【2025-09-08】[mindcraft\-bots / mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
@@ -2969,6 +2972,7 @@
 
 ## Go
 
+* 【2025-09-12】[yaml / go-yaml](https://github.com/yaml/go-yaml) - The YAML org maintained fork of https://github.com/go-yaml/yaml
 * 【2025-09-11】[sjzar / chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data  聊天记录工具，轻松使用自己的聊天数据
 * 【2025-09-10】[yaml / go\-yaml](https://github.com/yaml/go-yaml) - The YAML org maintained fork of https://github com/go\-yaml/yaml
 * 【2025-09-07】[k1LoW / deck](https://github.com/k1LoW/deck) - deck is a tool for creating deck using Markdown and Google Slides 
@@ -3798,6 +3802,7 @@
 
 ## C++
 
+* 【2025-09-12】[ashtf8 / PocketMage_PDA](https://github.com/ashtf8/PocketMage_PDA) - An E\-Ink PDA device using the ESP32 S3 
 * 【2025-09-08】[MrNeRF / LichtFeld\-Studio](https://github.com/MrNeRF/LichtFeld-Studio) - LichtFeld Studio: Where reality and the digital world blend 
 * 【2025-09-07】[duixcom / Duix-Mobile](https://github.com/duixcom/Duix-Mobile) - 🚀 全网效果最好的移动端【实时对话数字人】。 支持本地部署、多模态交互（语音、文本、表情），响应速度低于 1.5 秒，适用于直播、教学、客服、金融、政务等对隐私与实时性要求极高的场景。开箱即用，开发者友好。
 * 【2025-09-03】[cactus-compute / cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones, wearables and AI-native hardware
@@ -4184,6 +4189,7 @@
 
 ## C#
 
+* 【2025-09-12】[Project\-Babble / Baballonia](https://github.com/Project-Babble/Baballonia) - Repo for the new Babble App, free and open eye and face tracking for social VR
 * 【2025-09-11】[Alex\-Rachel / TEngine](https://github.com/Alex-Rachel/TEngine) - Unity框架解决方案\-支持HybridCLR(最好的次时代热更)、Obfuz混淆代码加固与YooAssets(优秀商业级资源框架)。
 * 【2025-09-10】[adospace / reactorui\-maui](https://github.com/adospace/reactorui-maui) - MauiReactor is a MVU UI framework built on top of  NET MAUI
 * 【2025-09-10】[Sidekick-Poe / Sidekick](https://github.com/Sidekick-Poe/Sidekick) - The main repository for the Sidekick project, a companion trade tool for Path of Exile and Path of Exile 2.
@@ -5123,6 +5129,7 @@
 
 ## Unknown
 
+* 【2025-09-12】[karminski / one\-small\-step](https://github.com/karminski/one-small-step) - 这是一个简单的技术科普教程项目，主要聚焦于解释一些有趣的，前沿的技术概念和原理。每篇文章都力求在 5 分钟内阅读完成。
 * 【2025-09-11】[emarco177 / langchain\-course](https://github.com/emarco177/langchain-course) - 
 * 【2025-09-07】[mrsaeeddev / free\-ai\-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources \- 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more \- for everyone!
 * 【2025-09-07】[twelve\-factor / twelve\-factor](https://github.com/twelve-factor/twelve-factor) - The Twelve\-Factor Manifesto
@@ -5773,6 +5780,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-09-12】[ithacaxyz / relay](https://github.com/ithacaxyz/relay) - Transparent cross\-chain transaction routing for EIP\-7702 accounts
 * 【2025-09-11】[pythops / impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 * 【2025-09-11】[Start9Labs / start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 * 【2025-09-09】[Start9Labs / start\-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self\-hosting
@@ -6560,6 +6568,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-12】[CodebuffAI / codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
 * 【2025-09-11】[czlonkowski / n8n\-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 * 【2025-09-10】[EcoPasteHub / EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 \| Cross\-platform clipboard management tool
 * 【2025-09-10】[microsoft / azure\-devops\-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents 
