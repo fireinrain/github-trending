@@ -1341,6 +1341,9 @@
 
 ## Python
 
+* 【2025-09-14】[Arindam200 / awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
+* 【2025-09-14】[Dao\-AILab / quack](https://github.com/Dao-AILab/quack) - A Quirky Assortment of CuTe Kernels
+* 【2025-09-14】[skyzh / tiny\-llm](https://github.com/skyzh/tiny-llm) - A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen 
 * 【2025-09-12】[sentient\-agi / ROMA](https://github.com/sentient-agi/ROMA) - Recursive\-Open\-Meta\-Agent v0 1 (Beta)  A meta\-agent framework to build high\-performance multi\-agent systems 
 * 【2025-09-11】[ahujasid / blender-mcp](https://github.com/ahujasid/blender-mcp) - 
 * 【2025-09-11】[NEKOparapa / AiNiee](https://github.com/NEKOparapa/AiNiee) - 一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，Srt Vtt Lrc字幕，Word MD文档等等复杂长文本。
@@ -4195,6 +4198,7 @@
 
 ## C#
 
+* 【2025-09-14】[EnhancedNetwork / TownofHost\-Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) - TOHE is the best Host\-Only mod for anyone who wants to change their Among Us Experience!
 * 【2025-09-13】[lofcz / LlmTornado](https://github.com/lofcz/LlmTornado) - The  NET library to build AI systems with 100+ LLM APIs: Anthropic, Azure, Cohere, DeepInfra, DeepSeek, Google, Groq, Mistral, Ollama, OpenAI, OpenRouter, Perplexity, vLLM, Voyage, xAI, and many more!
 * 【2025-09-12】[Project\-Babble / Baballonia](https://github.com/Project-Babble/Baballonia) - Repo for the new Babble App, free and open eye and face tracking for social VR
 * 【2025-09-11】[Alex\-Rachel / TEngine](https://github.com/Alex-Rachel/TEngine) - Unity框架解决方案\-支持HybridCLR(最好的次时代热更)、Obfuz混淆代码加固与YooAssets(优秀商业级资源框架)。
@@ -5136,6 +5140,7 @@
 
 ## Unknown
 
+* 【2025-09-14】[Azure / AI\-Landing\-Zones](https://github.com/Azure/AI-Landing-Zones) - The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform and portal
 * 【2025-09-13】[jaw9c / awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) - Remote MCP Servers
 * 【2025-09-13】[iam\-veeramalla / Kubernetes\-Zero\-to\-Hero](https://github.com/iam-veeramalla/Kubernetes-Zero-to-Hero) - Creating this repo with an intent to make Kubernetes easy for begineers  This is a work\-in\-progress repo 
 * 【2025-09-13】[vanshb03 / New\-Grad\-2026](https://github.com/vanshb03/New-Grad-2026) - 2025 & 2026 New grad full\-time roles in SWE, Quant, and PM 
@@ -5790,6 +5795,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-09-14】[vortex-data / vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now a Linux Foundation project.
 * 【2025-09-13】[SuperCuber / dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 * 【2025-09-13】[vortex\-data / vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format  Formerly at @spiraldb, now a Linux Foundation project 
 * 【2025-09-12】[ithacaxyz / relay](https://github.com/ithacaxyz/relay) - Transparent cross\-chain transaction routing for EIP\-7702 accounts
@@ -6580,6 +6586,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-14】[PostHog / posthog.com](https://github.com/PostHog/posthog.com) - Official docs, website, and handbook for PostHog.
+* 【2025-09-14】[jupyterlite / jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 * 【2025-09-13】[PostHog / posthog com](https://github.com/PostHog/posthog.com) - Official docs, website, and handbook for PostHog 
 * 【2025-09-13】[taskforcesh / bullmq](https://github.com/taskforcesh/bullmq) - BullMQ \- Message Queue and Batch processing for NodeJS and Python based on Redis
 * 【2025-09-12】[CodebuffAI / codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
