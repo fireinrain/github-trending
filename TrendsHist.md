@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-09-15】[docker / mcp\-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 * 【2025-09-13】[sentient-agi / ROMA](https://github.com/sentient-agi/ROMA) - Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
 * 【2025-09-12】[trueadm / ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
 * 【2025-09-11】[ahujasid / blender\-mcp](https://github.com/ahujasid/blender-mcp) - 
@@ -2430,6 +2431,8 @@
 
 ## Javascript
 
+* 【2025-09-15】[home\-sweet\-gnome / dash\-to\-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell  This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+  A separate dock is no longer needed for easy access to running and favorited applications 
+* 【2025-09-15】[mindcraft-bots / mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
 * 【2025-09-13】[sohzm / cheating-daddy](https://github.com/sohzm/cheating-daddy) - a free and opensource app that lets you gain an unfair advantage
 * 【2025-09-13】[github / awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 * 【2025-09-12】[github / awesome\-copilot](https://github.com/github/awesome-copilot) - Community\-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot 
@@ -2978,6 +2981,8 @@
 
 ## Go
 
+* 【2025-09-15】[docker / mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
+* 【2025-09-15】[docker / mcp\-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry
 * 【2025-09-12】[yaml / go-yaml](https://github.com/yaml/go-yaml) - The YAML org maintained fork of https://github.com/go-yaml/yaml
 * 【2025-09-11】[sjzar / chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data  聊天记录工具，轻松使用自己的聊天数据
 * 【2025-09-10】[yaml / go\-yaml](https://github.com/yaml/go-yaml) - The YAML org maintained fork of https://github com/go\-yaml/yaml
@@ -4198,6 +4203,7 @@
 
 ## C#
 
+* 【2025-09-15】[TheMulhima / Lumafly](https://github.com/TheMulhima/Lumafly) - A cross platform mod manager for Hollow Knight written in Avalonia 
 * 【2025-09-14】[EnhancedNetwork / TownofHost\-Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) - TOHE is the best Host\-Only mod for anyone who wants to change their Among Us Experience!
 * 【2025-09-13】[lofcz / LlmTornado](https://github.com/lofcz/LlmTornado) - The  NET library to build AI systems with 100+ LLM APIs: Anthropic, Azure, Cohere, DeepInfra, DeepSeek, Google, Groq, Mistral, Ollama, OpenAI, OpenRouter, Perplexity, vLLM, Voyage, xAI, and many more!
 * 【2025-09-12】[Project\-Babble / Baballonia](https://github.com/Project-Babble/Baballonia) - Repo for the new Babble App, free and open eye and face tracking for social VR
@@ -4631,6 +4637,7 @@
 
 ## Html
 
+* 【2025-09-15】[DigitalPlatDev / FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 * 【2025-09-10】[MonkeyGG2 / monkeygg2.github.io](https://github.com/MonkeyGG2/monkeygg2.github.io) - Feature-rich games site with 150+ games. Can be easily deployed with a proxy.
 * 【2025-09-02】[ArjanCodes / examples](https://github.com/ArjanCodes/examples) - All the code examples I use in my videos
 * 【2025-08-31】[MonkeyGG2 / monkeygg2 github io](https://github.com/MonkeyGG2/monkeygg2.github.io) - Feature\-rich games site with 150+ games  Can be easily deployed with a proxy 
@@ -6586,6 +6593,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-15】[chatboxai / chatbox](https://github.com/chatboxai/chatbox) - User\-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama   )
 * 【2025-09-14】[PostHog / posthog.com](https://github.com/PostHog/posthog.com) - Official docs, website, and handbook for PostHog.
 * 【2025-09-14】[jupyterlite / jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 * 【2025-09-13】[PostHog / posthog com](https://github.com/PostHog/posthog.com) - Official docs, website, and handbook for PostHog 
