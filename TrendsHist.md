@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-09-16】[mnh\-jansson / open\-battery\-information](https://github.com/mnh-jansson/open-battery-information) - 
 * 【2025-09-15】[docker / mcp\-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 * 【2025-09-13】[sentient-agi / ROMA](https://github.com/sentient-agi/ROMA) - Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
 * 【2025-09-12】[trueadm / ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
@@ -1342,6 +1343,7 @@
 
 ## Python
 
+* 【2025-09-16】[cheahjs / free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 * 【2025-09-14】[Arindam200 / awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
 * 【2025-09-14】[Dao\-AILab / quack](https://github.com/Dao-AILab/quack) - A Quirky Assortment of CuTe Kernels
 * 【2025-09-14】[skyzh / tiny\-llm](https://github.com/skyzh/tiny-llm) - A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen 
@@ -2431,6 +2433,7 @@
 
 ## Javascript
 
+* 【2025-09-16】[bloodorca / hollow](https://github.com/bloodorca/hollow) - Online Hollow Knight save file editor  
 * 【2025-09-15】[home\-sweet\-gnome / dash\-to\-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell  This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+  A separate dock is no longer needed for easy access to running and favorited applications 
 * 【2025-09-15】[mindcraft-bots / mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
 * 【2025-09-13】[sohzm / cheating-daddy](https://github.com/sohzm/cheating-daddy) - a free and opensource app that lets you gain an unfair advantage
@@ -2981,6 +2984,8 @@
 
 ## Go
 
+* 【2025-09-16】[tbphp / gpt\-load](https://github.com/tbphp/gpt-load) - Multi\-channel AI proxy with intelligent key rotation  智能密钥轮询的多渠道 AI 代理。
+* 【2025-09-16】[docker / mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry
 * 【2025-09-15】[docker / mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 * 【2025-09-15】[docker / mcp\-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry
 * 【2025-09-12】[yaml / go-yaml](https://github.com/yaml/go-yaml) - The YAML org maintained fork of https://github.com/go-yaml/yaml
@@ -3815,6 +3820,8 @@
 
 ## C++
 
+* 【2025-09-16】[mnh-jansson / open-battery-information](https://github.com/mnh-jansson/open-battery-information) - 
+* 【2025-09-16】[skift\-org / skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system
 * 【2025-09-13】[argotorg / solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 * 【2025-09-12】[ashtf8 / PocketMage_PDA](https://github.com/ashtf8/PocketMage_PDA) - An E\-Ink PDA device using the ESP32 S3 
 * 【2025-09-08】[MrNeRF / LichtFeld\-Studio](https://github.com/MrNeRF/LichtFeld-Studio) - LichtFeld Studio: Where reality and the digital world blend 
@@ -4203,6 +4210,7 @@
 
 ## C#
 
+* 【2025-09-16】[ramjke / Translumo](https://github.com/ramjke/Translumo) - Advanced real\-time screen translator for games, hardcoded subtitles in videos, static text and etc 
 * 【2025-09-15】[TheMulhima / Lumafly](https://github.com/TheMulhima/Lumafly) - A cross platform mod manager for Hollow Knight written in Avalonia 
 * 【2025-09-14】[EnhancedNetwork / TownofHost\-Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) - TOHE is the best Host\-Only mod for anyone who wants to change their Among Us Experience!
 * 【2025-09-13】[lofcz / LlmTornado](https://github.com/lofcz/LlmTornado) - The  NET library to build AI systems with 100+ LLM APIs: Anthropic, Azure, Cohere, DeepInfra, DeepSeek, Google, Groq, Mistral, Ollama, OpenAI, OpenRouter, Perplexity, vLLM, Voyage, xAI, and many more!
@@ -5147,6 +5155,7 @@
 
 ## Unknown
 
+* 【2025-09-16】[snarktank / ai\-dev\-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 * 【2025-09-14】[Azure / AI\-Landing\-Zones](https://github.com/Azure/AI-Landing-Zones) - The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform and portal
 * 【2025-09-13】[jaw9c / awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) - Remote MCP Servers
 * 【2025-09-13】[iam\-veeramalla / Kubernetes\-Zero\-to\-Hero](https://github.com/iam-veeramalla/Kubernetes-Zero-to-Hero) - Creating this repo with an intent to make Kubernetes easy for begineers  This is a work\-in\-progress repo 
@@ -5802,6 +5811,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-09-16】[InfinitiBit / graphbit](https://github.com/InfinitiBit/graphbit) - GraphBit is the world’s first enterprise\-grade Agentic AI framework, built on a Rust core with a Python wrapper for unmatched speed, security, and scalability  It enables reliable multi\-agent workflows with minimal CPU and memory usage, making it production\-ready for real\-world enterprise environments 
 * 【2025-09-14】[vortex-data / vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now a Linux Foundation project.
 * 【2025-09-13】[SuperCuber / dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 * 【2025-09-13】[vortex\-data / vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format  Formerly at @spiraldb, now a Linux Foundation project 
@@ -6593,6 +6603,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-16】[czlonkowski / n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
+* 【2025-09-16】[sindresorhus / type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
+* 【2025-09-16】[robertying / learnX](https://github.com/robertying/learnX) - 清华大学网络学堂 App，以 React Native 构建。App for Tsinghua University Web Learning, developed with React Native  ⚛️
 * 【2025-09-15】[chatboxai / chatbox](https://github.com/chatboxai/chatbox) - User\-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama   )
 * 【2025-09-14】[PostHog / posthog.com](https://github.com/PostHog/posthog.com) - Official docs, website, and handbook for PostHog.
 * 【2025-09-14】[jupyterlite / jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
