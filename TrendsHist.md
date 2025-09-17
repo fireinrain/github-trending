@@ -1343,6 +1343,7 @@
 
 ## Python
 
+* 【2025-09-17】[ciromattia / kcc](https://github.com/ciromattia/kcc) - KCC (a k a  Kindle Comic Converter) is a comic and manga converter for ebook readers 
 * 【2025-09-16】[cheahjs / free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 * 【2025-09-14】[Arindam200 / awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
 * 【2025-09-14】[Dao\-AILab / quack](https://github.com/Dao-AILab/quack) - A Quirky Assortment of CuTe Kernels
@@ -3820,6 +3821,7 @@
 
 ## C++
 
+* 【2025-09-17】[MrNeRF / LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio) - LichtFeld Studio: Where reality and the digital world blend.
 * 【2025-09-16】[mnh-jansson / open-battery-information](https://github.com/mnh-jansson/open-battery-information) - 
 * 【2025-09-16】[skift\-org / skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system
 * 【2025-09-13】[argotorg / solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
@@ -4645,6 +4647,7 @@
 
 ## Html
 
+* 【2025-09-17】[FlowFuse / node\-red\-dashboard](https://github.com/FlowFuse/node-red-dashboard) - 
 * 【2025-09-15】[DigitalPlatDev / FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 * 【2025-09-10】[MonkeyGG2 / monkeygg2.github.io](https://github.com/MonkeyGG2/monkeygg2.github.io) - Feature-rich games site with 150+ games. Can be easily deployed with a proxy.
 * 【2025-09-02】[ArjanCodes / examples](https://github.com/ArjanCodes/examples) - All the code examples I use in my videos
@@ -5155,6 +5158,8 @@
 
 ## Unknown
 
+* 【2025-09-17】[snarktank / ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
+* 【2025-09-17】[Azure / AI-Landing-Zones](https://github.com/Azure/AI-Landing-Zones) - The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform and portal
 * 【2025-09-16】[snarktank / ai\-dev\-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 * 【2025-09-14】[Azure / AI\-Landing\-Zones](https://github.com/Azure/AI-Landing-Zones) - The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform and portal
 * 【2025-09-13】[jaw9c / awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) - Remote MCP Servers
@@ -6603,6 +6608,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-17】[freelensapp / freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes
+* 【2025-09-17】[btpf / Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross\-platform eBook reader built with Tauri, Epub js, and Typescript
+* 【2025-09-17】[anthropics / claude-code-action](https://github.com/anthropics/claude-code-action) - 
+* 【2025-09-17】[baturyilmaz / wordpecker-app](https://github.com/baturyilmaz/wordpecker-app) - A personalized language-learning tool that combines Duolingo-style lessons with your own curated vocabulary lists. Seamlessly add words from books, articles, or videos, and revisit them through interactive quizzes and LLM-generated lessons.
 * 【2025-09-16】[czlonkowski / n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 * 【2025-09-16】[sindresorhus / type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 * 【2025-09-16】[robertying / learnX](https://github.com/robertying/learnX) - 清华大学网络学堂 App，以 React Native 构建。App for Tsinghua University Web Learning, developed with React Native  ⚛️
