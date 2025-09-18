@@ -1,5 +1,9 @@
 ## All language
 
+* 【2025-09-18】[category\-labs / monad](https://github.com/category-labs/monad) - 
+* 【2025-09-18】[category-labs / monad-bft](https://github.com/category-labs/monad-bft) - 
+* 【2025-09-18】[Alibaba\-NLP / DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi DeepResearch, the Leading Open\-source DeepResearch Agent
+* 【2025-09-18】[nanobrowser / nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open\-Source Chrome extension for AI\-powered web automation  Run multi\-agent workflows using your own LLM API key  Alternative to OpenAI Operator 
 * 【2025-09-16】[mnh\-jansson / open\-battery\-information](https://github.com/mnh-jansson/open-battery-information) - 
 * 【2025-09-15】[docker / mcp\-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 * 【2025-09-13】[sentient-agi / ROMA](https://github.com/sentient-agi/ROMA) - Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
@@ -1343,6 +1347,7 @@
 
 ## Python
 
+* 【2025-09-18】[Alibaba-NLP / DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi DeepResearch, the Leading Open-source DeepResearch Agent
 * 【2025-09-17】[ciromattia / kcc](https://github.com/ciromattia/kcc) - KCC (a k a  Kindle Comic Converter) is a comic and manga converter for ebook readers 
 * 【2025-09-16】[cheahjs / free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 * 【2025-09-14】[Arindam200 / awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
@@ -2434,6 +2439,7 @@
 
 ## Javascript
 
+* 【2025-09-18】[httptoolkit / frida\-interception\-and\-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to directly MitM all HTTPS traffic from a target mobile application
 * 【2025-09-16】[bloodorca / hollow](https://github.com/bloodorca/hollow) - Online Hollow Knight save file editor  
 * 【2025-09-15】[home\-sweet\-gnome / dash\-to\-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell  This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+  A separate dock is no longer needed for easy access to running and favorited applications 
 * 【2025-09-15】[mindcraft-bots / mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
@@ -3821,6 +3827,8 @@
 
 ## C++
 
+* 【2025-09-18】[category-labs / monad](https://github.com/category-labs/monad) - 
+* 【2025-09-18】[ungive / discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 * 【2025-09-17】[MrNeRF / LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio) - LichtFeld Studio: Where reality and the digital world blend.
 * 【2025-09-16】[mnh-jansson / open-battery-information](https://github.com/mnh-jansson/open-battery-information) - 
 * 【2025-09-16】[skift\-org / skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system
@@ -4647,6 +4655,7 @@
 
 ## Html
 
+* 【2025-09-18】[whatwg / fetch](https://github.com/whatwg/fetch) - Fetch Standard
 * 【2025-09-17】[FlowFuse / node\-red\-dashboard](https://github.com/FlowFuse/node-red-dashboard) - 
 * 【2025-09-15】[DigitalPlatDev / FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
 * 【2025-09-10】[MonkeyGG2 / monkeygg2.github.io](https://github.com/MonkeyGG2/monkeygg2.github.io) - Feature-rich games site with 150+ games. Can be easily deployed with a proxy.
@@ -5158,6 +5167,7 @@
 
 ## Unknown
 
+* 【2025-09-18】[SpotCompiled / SpotC\-Plus\-Plus](https://github.com/SpotCompiled/SpotC-Plus-Plus) - Compiled EeveeSpotify + QOL Enhancements IPA's, the ultimate compilement 
 * 【2025-09-17】[snarktank / ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 * 【2025-09-17】[Azure / AI-Landing-Zones](https://github.com/Azure/AI-Landing-Zones) - The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform and portal
 * 【2025-09-16】[snarktank / ai\-dev\-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
@@ -5816,6 +5826,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-09-18】[asciinema / asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 * 【2025-09-16】[InfinitiBit / graphbit](https://github.com/InfinitiBit/graphbit) - GraphBit is the world’s first enterprise\-grade Agentic AI framework, built on a Rust core with a Python wrapper for unmatched speed, security, and scalability  It enables reliable multi\-agent workflows with minimal CPU and memory usage, making it production\-ready for real\-world enterprise environments 
 * 【2025-09-14】[vortex-data / vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now a Linux Foundation project.
 * 【2025-09-13】[SuperCuber / dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
@@ -6608,6 +6619,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-18】[allweonedev / presentation\-ai](https://github.com/allweonedev/presentation-ai) - Open source AI presentation generator  Create professional slides with customizable themes and AI\-generated content in minutes 
+* 【2025-09-18】[graycoreio / daffodil](https://github.com/graycoreio/daffodil) - Build complex Ecommerce store frontends and connect to any backend https://discord gg/BdaJVZ53sR
 * 【2025-09-17】[freelensapp / freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes
 * 【2025-09-17】[btpf / Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross\-platform eBook reader built with Tauri, Epub js, and Typescript
 * 【2025-09-17】[anthropics / claude-code-action](https://github.com/anthropics/claude-code-action) - 
