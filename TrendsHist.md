@@ -3445,6 +3445,8 @@
 
 ## C
 
+* 【2025-09-19】[MidnightCommander / mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
+* 【2025-09-19】[duixcom / Duix.Avatar](https://github.com/duixcom/Duix.Avatar) - 
 * 【2025-09-13】[cellos51 / balatro-gba](https://github.com/cellos51/balatro-gba) - 
 * 【2025-09-13】[VirtualBox / virtualbox](https://github.com/VirtualBox/virtualbox) - Source code for Oracle VirtualBox
 * 【2025-09-10】[izzyreal / vmpc\-juce](https://github.com/izzyreal/vmpc-juce) - JUCE implementation of VMPC2000XL
@@ -4220,6 +4222,8 @@
 
 ## C#
 
+* 【2025-09-19】[Escartem / AnimeStudio](https://github.com/Escartem/AnimeStudio) - Updated AssetStudio, supports GI 6 0+, HSR 3 5+, ZZZ 2 2+, with improvements and new features (*ﾟ∀ﾟ*)
+* 【2025-09-19】[s1t5 / mail\-archiver](https://github.com/s1t5/mail-archiver) - Mail\-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts  Featuring folder sync, attachment support, mailbox migration and a dashboard 
 * 【2025-09-16】[ramjke / Translumo](https://github.com/ramjke/Translumo) - Advanced real\-time screen translator for games, hardcoded subtitles in videos, static text and etc 
 * 【2025-09-15】[TheMulhima / Lumafly](https://github.com/TheMulhima/Lumafly) - A cross platform mod manager for Hollow Knight written in Avalonia 
 * 【2025-09-14】[EnhancedNetwork / TownofHost\-Enhanced](https://github.com/EnhancedNetwork/TownofHost-Enhanced) - TOHE is the best Host\-Only mod for anyone who wants to change their Among Us Experience!
@@ -6619,6 +6623,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-19】[SmythOS / sre](https://github.com/SmythOS/sre) - The Operating System for Agents
+* 【2025-09-19】[obsidianmd / obsidian\-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault 
+* 【2025-09-19】[kanbn / kan](https://github.com/kanbn/kan) - The open source Trello alternative 
+* 【2025-09-19】[OvidijusParsiunas / deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
+* 【2025-09-19】[allweonedev / presentation-ai](https://github.com/allweonedev/presentation-ai) - Open source AI presentation generator. Create professional slides with customizable themes and AI-generated content in minutes.
 * 【2025-09-18】[allweonedev / presentation\-ai](https://github.com/allweonedev/presentation-ai) - Open source AI presentation generator  Create professional slides with customizable themes and AI\-generated content in minutes 
 * 【2025-09-18】[graycoreio / daffodil](https://github.com/graycoreio/daffodil) - Build complex Ecommerce store frontends and connect to any backend https://discord gg/BdaJVZ53sR
 * 【2025-09-17】[freelensapp / freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes
