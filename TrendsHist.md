@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-09-20】[basecamp / omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
+* 【2025-09-20】[bitnami / charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 * 【2025-09-18】[category\-labs / monad](https://github.com/category-labs/monad) - 
 * 【2025-09-18】[category-labs / monad-bft](https://github.com/category-labs/monad-bft) - 
 * 【2025-09-18】[Alibaba\-NLP / DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi DeepResearch, the Leading Open\-source DeepResearch Agent
@@ -1347,6 +1349,8 @@
 
 ## Python
 
+* 【2025-09-20】[WECENG / ticket\-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择
+* 【2025-09-20】[knownsec / aipyapp](https://github.com/knownsec/aipyapp) - AI\-Powered Python & Python\-Powered AI (Python\-Use)
 * 【2025-09-18】[Alibaba-NLP / DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi DeepResearch, the Leading Open-source DeepResearch Agent
 * 【2025-09-17】[ciromattia / kcc](https://github.com/ciromattia/kcc) - KCC (a k a  Kindle Comic Converter) is a comic and manga converter for ebook readers 
 * 【2025-09-16】[cheahjs / free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
@@ -4222,6 +4226,7 @@
 
 ## C#
 
+* 【2025-09-20】[s1t5 / mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration and a dashboard.
 * 【2025-09-19】[Escartem / AnimeStudio](https://github.com/Escartem/AnimeStudio) - Updated AssetStudio, supports GI 6 0+, HSR 3 5+, ZZZ 2 2+, with improvements and new features (*ﾟ∀ﾟ*)
 * 【2025-09-19】[s1t5 / mail\-archiver](https://github.com/s1t5/mail-archiver) - Mail\-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts  Featuring folder sync, attachment support, mailbox migration and a dashboard 
 * 【2025-09-16】[ramjke / Translumo](https://github.com/ramjke/Translumo) - Advanced real\-time screen translator for games, hardcoded subtitles in videos, static text and etc 
@@ -5171,6 +5176,7 @@
 
 ## Unknown
 
+* 【2025-09-20】[google\-labs\-code / jules\-awesome\-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 * 【2025-09-18】[SpotCompiled / SpotC\-Plus\-Plus](https://github.com/SpotCompiled/SpotC-Plus-Plus) - Compiled EeveeSpotify + QOL Enhancements IPA's, the ultimate compilement 
 * 【2025-09-17】[snarktank / ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 * 【2025-09-17】[Azure / AI-Landing-Zones](https://github.com/Azure/AI-Landing-Zones) - The AI Landing Zone is a secure, resilient and scalable reference architecture and reference implementation in the form of bicep, terraform and portal
@@ -5830,6 +5836,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-09-20】[BloopAI / vibe\-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board to manage your AI coding agents
+* 【2025-09-20】[yobix-ai / extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.
 * 【2025-09-18】[asciinema / asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 * 【2025-09-16】[InfinitiBit / graphbit](https://github.com/InfinitiBit/graphbit) - GraphBit is the world’s first enterprise\-grade Agentic AI framework, built on a Rust core with a Python wrapper for unmatched speed, security, and scalability  It enables reliable multi\-agent workflows with minimal CPU and memory usage, making it production\-ready for real\-world enterprise environments 
 * 【2025-09-14】[vortex-data / vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now a Linux Foundation project.
@@ -6623,6 +6631,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-20】[p0lloc / perfice](https://github.com/p0lloc/perfice) - Self\-tracking app in Svelte 5
+* 【2025-09-20】[kyantech / Palmr](https://github.com/kyantech/Palmr) - 🌴 Palmr  is an open\-source file\-sharing platform focused on privacy and security  It enables users to upload, manage, and share files with features like password protection, custom links, and access control without tracking or limitations  Designed for seamless and secure sharing, Palmr  is completely free 
 * 【2025-09-19】[SmythOS / sre](https://github.com/SmythOS/sre) - The Operating System for Agents
 * 【2025-09-19】[obsidianmd / obsidian\-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault 
 * 【2025-09-19】[kanbn / kan](https://github.com/kanbn/kan) - The open source Trello alternative 
