@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-09-21】[winfunc / opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code \- Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more 
+* 【2025-09-21】[OpenMind / OM1](https://github.com/OpenMind/OM1) - Modular AI runtime for robots
 * 【2025-09-20】[basecamp / omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
 * 【2025-09-20】[bitnami / charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 * 【2025-09-18】[category\-labs / monad](https://github.com/category-labs/monad) - 
@@ -1349,6 +1351,9 @@
 
 ## Python
 
+* 【2025-09-21】[google\-agentic\-commerce / a2a\-x402](https://github.com/google-agentic-commerce/a2a-x402) - The A2A x402 Extension brings cryptocurrency payments to the Agent\-to\-Agent (A2A) protocol, enabling agents to monetize their services through on\-chain payments  This extension revives the spirit of HTTP 402 "Payment Required" for the decentralized agent ecosystem 
+* 【2025-09-21】[anthropics / claude\-code\-sdk\-python](https://github.com/anthropics/claude-code-sdk-python) - 
+* 【2025-09-21】[WECENG / ticket-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择
 * 【2025-09-20】[WECENG / ticket\-purchase](https://github.com/WECENG/ticket-purchase) - 大麦自动抢票，支持人员、城市、日期场次、价格选择
 * 【2025-09-20】[knownsec / aipyapp](https://github.com/knownsec/aipyapp) - AI\-Powered Python & Python\-Powered AI (Python\-Use)
 * 【2025-09-18】[Alibaba-NLP / DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi DeepResearch, the Leading Open-source DeepResearch Agent
@@ -2995,6 +3000,7 @@
 
 ## Go
 
+* 【2025-09-21】[tbphp / gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 * 【2025-09-16】[tbphp / gpt\-load](https://github.com/tbphp/gpt-load) - Multi\-channel AI proxy with intelligent key rotation  智能密钥轮询的多渠道 AI 代理。
 * 【2025-09-16】[docker / mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry
 * 【2025-09-15】[docker / mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
@@ -3449,6 +3455,7 @@
 
 ## C
 
+* 【2025-09-21】[espressif / esp-drone](https://github.com/espressif/esp-drone) - Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.
 * 【2025-09-19】[MidnightCommander / mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
 * 【2025-09-19】[duixcom / Duix.Avatar](https://github.com/duixcom/Duix.Avatar) - 
 * 【2025-09-13】[cellos51 / balatro-gba](https://github.com/cellos51/balatro-gba) - 
@@ -5176,6 +5183,7 @@
 
 ## Unknown
 
+* 【2025-09-21】[guoyue2010 / lxmusic\-](https://github.com/guoyue2010/lxmusic-) - lxmusic(洛雪音乐)全网最新最全音源
 * 【2025-09-20】[google\-labs\-code / jules\-awesome\-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 * 【2025-09-18】[SpotCompiled / SpotC\-Plus\-Plus](https://github.com/SpotCompiled/SpotC-Plus-Plus) - Compiled EeveeSpotify + QOL Enhancements IPA's, the ultimate compilement 
 * 【2025-09-17】[snarktank / ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
@@ -6631,6 +6639,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-21】[chaitin / PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 * 【2025-09-20】[p0lloc / perfice](https://github.com/p0lloc/perfice) - Self\-tracking app in Svelte 5
 * 【2025-09-20】[kyantech / Palmr](https://github.com/kyantech/Palmr) - 🌴 Palmr  is an open\-source file\-sharing platform focused on privacy and security  It enables users to upload, manage, and share files with features like password protection, custom links, and access control without tracking or limitations  Designed for seamless and secure sharing, Palmr  is completely free 
 * 【2025-09-19】[SmythOS / sre](https://github.com/SmythOS/sre) - The Operating System for Agents
