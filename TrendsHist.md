@@ -5844,6 +5844,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-09-22】[HelixDB / helix\-db](https://github.com/HelixDB/helix-db) - HelixDB is a database built from scratch to be the backend for any AI application 
+* 【2025-09-22】[BloopAI / vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board to manage your AI coding agents
 * 【2025-09-20】[BloopAI / vibe\-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board to manage your AI coding agents
 * 【2025-09-20】[yobix-ai / extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.
 * 【2025-09-18】[asciinema / asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
@@ -6639,6 +6641,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-22】[zxh326 / kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard
+* 【2025-09-22】[Merit\-Systems / echo](https://github.com/Merit-Systems/echo) - Echo is a billing in a box solution for all AI APIs
+* 【2025-09-22】[bigcapitalhq / bigcapital](https://github.com/bigcapitalhq/bigcapital) - 💵 Bigcapital is financial accounting with intelligent reporting for faster decision\-making, an open\-source alternative to Quickbooks, Xero, etc 
 * 【2025-09-21】[chaitin / PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 * 【2025-09-20】[p0lloc / perfice](https://github.com/p0lloc/perfice) - Self\-tracking app in Svelte 5
 * 【2025-09-20】[kyantech / Palmr](https://github.com/kyantech/Palmr) - 🌴 Palmr  is an open\-source file\-sharing platform focused on privacy and security  It enables users to upload, manage, and share files with features like password protection, custom links, and access control without tracking or limitations  Designed for seamless and secure sharing, Palmr  is completely free 
