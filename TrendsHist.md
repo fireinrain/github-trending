@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-09-24】[Kludex / uvicorn](https://github.com/Kludex/uvicorn) - An ASGI web server, for Python  🦄
 * 【2025-09-21】[winfunc / opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code \- Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more 
 * 【2025-09-21】[OpenMind / OM1](https://github.com/OpenMind/OM1) - Modular AI runtime for robots
 * 【2025-09-20】[basecamp / omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
@@ -991,6 +992,7 @@
 
 ## Java
 
+* 【2025-09-24】[Jigsaw\-Code / Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS\-over\-HTTPS services on Android
 * 【2025-09-11】[GoogleCloudPlatform / bank-of-anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos) - Retail banking sample application showcasing Kubernetes and Google Cloud
 * 【2025-09-09】[GoogleCloudPlatform / bank\-of\-anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos) - Retail banking sample application showcasing Kubernetes and Google Cloud
 * 【2025-09-09】[TimefoldAI / timefold-quickstarts](https://github.com/TimefoldAI/timefold-quickstarts) - Get started with Timefold quickstarts here. Optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.
@@ -1351,6 +1353,8 @@
 
 ## Python
 
+* 【2025-09-24】[malmeloo / FindMy py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
+* 【2025-09-24】[Olow304 / memvid](https://github.com/Olow304/memvid) - Video\-based AI memory library  Store millions of text chunks in MP4 files with lightning\-fast semantic search  No database needed 
 * 【2025-09-23】[kaixxx / noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription  A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
 * 【2025-09-21】[google\-agentic\-commerce / a2a\-x402](https://github.com/google-agentic-commerce/a2a-x402) - The A2A x402 Extension brings cryptocurrency payments to the Agent\-to\-Agent (A2A) protocol, enabling agents to monetize their services through on\-chain payments  This extension revives the spirit of HTTP 402 "Payment Required" for the decentralized agent ecosystem 
 * 【2025-09-21】[anthropics / claude\-code\-sdk\-python](https://github.com/anthropics/claude-code-sdk-python) - 
@@ -3457,6 +3461,7 @@
 
 ## C
 
+* 【2025-09-24】[zserge / jsmn](https://github.com/zserge/jsmn) - Jsmn is a world fastest JSON parser/tokenizer  This is the official repo replacing the old one at Bitbucket
 * 【2025-09-21】[espressif / esp-drone](https://github.com/espressif/esp-drone) - Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.
 * 【2025-09-19】[MidnightCommander / mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
 * 【2025-09-19】[duixcom / Duix.Avatar](https://github.com/duixcom/Duix.Avatar) - 
@@ -4235,6 +4240,8 @@
 
 ## C#
 
+* 【2025-09-24】[GermanCoding / SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
+* 【2025-09-24】[litedb\-org / LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB \- A  NET NoSQL Document Store in a single data file
 * 【2025-09-20】[s1t5 / mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration and a dashboard.
 * 【2025-09-19】[Escartem / AnimeStudio](https://github.com/Escartem/AnimeStudio) - Updated AssetStudio, supports GI 6 0+, HSR 3 5+, ZZZ 2 2+, with improvements and new features (*ﾟ∀ﾟ*)
 * 【2025-09-19】[s1t5 / mail\-archiver](https://github.com/s1t5/mail-archiver) - Mail\-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts  Featuring folder sync, attachment support, mailbox migration and a dashboard 
@@ -4673,6 +4680,7 @@
 
 ## Html
 
+* 【2025-09-24】[aave / aave\-protocol](https://github.com/aave/aave-protocol) - Aave Protocol Version 1 0 \- Decentralized Lending Pools
 * 【2025-09-18】[whatwg / fetch](https://github.com/whatwg/fetch) - Fetch Standard
 * 【2025-09-17】[FlowFuse / node\-red\-dashboard](https://github.com/FlowFuse/node-red-dashboard) - 
 * 【2025-09-15】[DigitalPlatDev / FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone
@@ -5846,6 +5854,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-09-24】[vi / websocat](https://github.com/vi/websocat) - Command\-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat\-like functions
+* 【2025-09-24】[mediar-ai / terminator](https://github.com/mediar-ai/terminator) - AI-powered desktop automation — open source, MIT-licensed, cross-platform, accessibility-first. Works across all apps and browsers. Inspired by GitHub Actions & Playwright. 100x faster than generic AI agents, >95% success rate, no vendor lock-in.
 * 【2025-09-23】[HelixDB / helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a database built from scratch to be the backend for any AI application.
 * 【2025-09-23】[matrix\-construct / tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
 * 【2025-09-22】[HelixDB / helix\-db](https://github.com/HelixDB/helix-db) - HelixDB is a database built from scratch to be the backend for any AI application 
@@ -6645,6 +6655,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-24】[CodeWithCJ / SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families  Powered by AI  Track food, fitness, water, and health — together 
 * 【2025-09-22】[zxh326 / kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard
 * 【2025-09-22】[Merit\-Systems / echo](https://github.com/Merit-Systems/echo) - Echo is a billing in a box solution for all AI APIs
 * 【2025-09-22】[bigcapitalhq / bigcapital](https://github.com/bigcapitalhq/bigcapital) - 💵 Bigcapital is financial accounting with intelligent reporting for faster decision\-making, an open\-source alternative to Quickbooks, Xero, etc 
