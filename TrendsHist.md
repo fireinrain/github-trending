@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-09-25】[cloudflare / capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript\-native, low\-boilerplate, object\-capability RPC system
+* 【2025-09-25】[HKUDS / RAG\-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG\-Anything: All\-in\-One RAG Framework"
+* 【2025-09-25】[bytedance / Dolphin](https://github.com/bytedance/Dolphin) - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025 
 * 【2025-09-24】[Kludex / uvicorn](https://github.com/Kludex/uvicorn) - An ASGI web server, for Python  🦄
 * 【2025-09-21】[winfunc / opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code \- Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more 
 * 【2025-09-21】[OpenMind / OM1](https://github.com/OpenMind/OM1) - Modular AI runtime for robots
@@ -1353,6 +1356,8 @@
 
 ## Python
 
+* 【2025-09-25】[HKUDS / RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
+* 【2025-09-25】[Klavis\-AI / klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25): MCP integration layers that let AI agents use thousands of tools reliably 
 * 【2025-09-24】[malmeloo / FindMy py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
 * 【2025-09-24】[Olow304 / memvid](https://github.com/Olow304/memvid) - Video\-based AI memory library  Store millions of text chunks in MP4 files with lightning\-fast semantic search  No database needed 
 * 【2025-09-23】[kaixxx / noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription  A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
@@ -2453,6 +2458,7 @@
 
 ## Javascript
 
+* 【2025-09-25】[asterdex / api\-docs](https://github.com/asterdex/api-docs) - 
 * 【2025-09-23】[andrepimenta / claude\-code\-chat](https://github.com/andrepimenta/claude-code-chat) - Beautiful Claude Code Chat Interface for VS Code
 * 【2025-09-18】[httptoolkit / frida\-interception\-and\-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to directly MitM all HTTPS traffic from a target mobile application
 * 【2025-09-16】[bloodorca / hollow](https://github.com/bloodorca/hollow) - Online Hollow Knight save file editor  
@@ -3006,6 +3012,7 @@
 
 ## Go
 
+* 【2025-09-25】[base / node](https://github.com/base/node) - Everything required to run your own Base node
 * 【2025-09-21】[tbphp / gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 * 【2025-09-16】[tbphp / gpt\-load](https://github.com/tbphp/gpt-load) - Multi\-channel AI proxy with intelligent key rotation  智能密钥轮询的多渠道 AI 代理。
 * 【2025-09-16】[docker / mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry
@@ -3461,6 +3468,7 @@
 
 ## C
 
+* 【2025-09-25】[system-linux / FazJammer](https://github.com/system-linux/FazJammer) - A minimal, simple and effective jammer that jams Wi-Fi, BLE and 2.4 GHz band.
 * 【2025-09-24】[zserge / jsmn](https://github.com/zserge/jsmn) - Jsmn is a world fastest JSON parser/tokenizer  This is the official repo replacing the old one at Bitbucket
 * 【2025-09-21】[espressif / esp-drone](https://github.com/espressif/esp-drone) - Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.
 * 【2025-09-19】[MidnightCommander / mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
@@ -3847,6 +3855,7 @@
 
 ## C++
 
+* 【2025-09-25】[Byrom90 / XeUnshackle](https://github.com/Byrom90/XeUnshackle) - Custom Xbox 360 app designed to be used with the Xbox360BadUpdate exploit  Applies a set of HV/Kernel patches & loads the Dashlaunch system module (launch xex) 
 * 【2025-09-18】[category-labs / monad](https://github.com/category-labs/monad) - 
 * 【2025-09-18】[ungive / discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 * 【2025-09-17】[MrNeRF / LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio) - LichtFeld Studio: Where reality and the digital world blend.
@@ -4680,6 +4689,7 @@
 
 ## Html
 
+* 【2025-09-25】[aave / aave-protocol](https://github.com/aave/aave-protocol) - Aave Protocol Version 1.0 - Decentralized Lending Pools
 * 【2025-09-24】[aave / aave\-protocol](https://github.com/aave/aave-protocol) - Aave Protocol Version 1 0 \- Decentralized Lending Pools
 * 【2025-09-18】[whatwg / fetch](https://github.com/whatwg/fetch) - Fetch Standard
 * 【2025-09-17】[FlowFuse / node\-red\-dashboard](https://github.com/FlowFuse/node-red-dashboard) - 
@@ -6655,6 +6665,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-25】[MrLesk / Backlog md](https://github.com/MrLesk/Backlog.md) - Backlog md \- A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 * 【2025-09-24】[CodeWithCJ / SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families  Powered by AI  Track food, fitness, water, and health — together 
 * 【2025-09-22】[zxh326 / kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard
 * 【2025-09-22】[Merit\-Systems / echo](https://github.com/Merit-Systems/echo) - Echo is a billing in a box solution for all AI APIs
