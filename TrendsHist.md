@@ -1356,6 +1356,8 @@
 
 ## Python
 
+* 【2025-09-26】[StanfordVL / BEHAVIOR\-1K](https://github.com/StanfordVL/BEHAVIOR-1K) - BEHAVIOR\-1K: a platform for accelerating Embodied AI research  Join our Discord for support: https://discord gg/bccR5vGFEx
+* 【2025-09-26】[Klavis-AI / klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25): MCP integration layers that let AI agents use thousands of tools reliably.
 * 【2025-09-25】[HKUDS / RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
 * 【2025-09-25】[Klavis\-AI / klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25): MCP integration layers that let AI agents use thousands of tools reliably 
 * 【2025-09-24】[malmeloo / FindMy py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
@@ -4249,6 +4251,8 @@
 
 ## C#
 
+* 【2025-09-26】[avestura / EyesGuard](https://github.com/avestura/EyesGuard) - 👀 Windows Application for protecting your eyes
+* 【2025-09-26】[litedb-org / LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 * 【2025-09-24】[GermanCoding / SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
 * 【2025-09-24】[litedb\-org / LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB \- A  NET NoSQL Document Store in a single data file
 * 【2025-09-20】[s1t5 / mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration and a dashboard.
@@ -4689,6 +4693,7 @@
 
 ## Html
 
+* 【2025-09-26】[PhoenixPE / PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - PhoenixPE allows you to create a customized Rescue/Recovery Environment based on Win10/Win11 
 * 【2025-09-25】[aave / aave-protocol](https://github.com/aave/aave-protocol) - Aave Protocol Version 1.0 - Decentralized Lending Pools
 * 【2025-09-24】[aave / aave\-protocol](https://github.com/aave/aave-protocol) - Aave Protocol Version 1 0 \- Decentralized Lending Pools
 * 【2025-09-18】[whatwg / fetch](https://github.com/whatwg/fetch) - Fetch Standard
@@ -5203,6 +5208,8 @@
 
 ## Unknown
 
+* 【2025-09-26】[TsinghuaC3I / Awesome\-RL\-for\-LRMs](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs) - A Survey of Reinforcement Learning for Large Reasoning Models
+* 【2025-09-26】[Iamrushabhshahh / AWS\-Certified\-Solutions\-Architect\-Associate\-SAA\-C03\-Exam\-Dump\-With\-Solution](https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution) - Comprehensive collection of study materials, practice exams Question, and Personally Solved Mcq to help you prepare for the AWS Certified Solutions Architect – Associate (SAA\-C03) exam 
 * 【2025-09-21】[guoyue2010 / lxmusic\-](https://github.com/guoyue2010/lxmusic-) - lxmusic(洛雪音乐)全网最新最全音源
 * 【2025-09-20】[google\-labs\-code / jules\-awesome\-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 * 【2025-09-18】[SpotCompiled / SpotC\-Plus\-Plus](https://github.com/SpotCompiled/SpotC-Plus-Plus) - Compiled EeveeSpotify + QOL Enhancements IPA's, the ultimate compilement 
@@ -5864,6 +5871,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-09-26】[huggingface / xet\-core](https://github.com/huggingface/xet-core) - xet client tech, used in huggingface_hub
 * 【2025-09-24】[vi / websocat](https://github.com/vi/websocat) - Command\-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat\-like functions
 * 【2025-09-24】[mediar-ai / terminator](https://github.com/mediar-ai/terminator) - AI-powered desktop automation — open source, MIT-licensed, cross-platform, accessibility-first. Works across all apps and browsers. Inspired by GitHub Actions & Playwright. 100x faster than generic AI agents, >95% success rate, no vendor lock-in.
 * 【2025-09-23】[HelixDB / helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a database built from scratch to be the backend for any AI application.
@@ -6665,6 +6673,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-26】[MrLesk / Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
+* 【2025-09-26】[coze\-dev / coze\-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all\-in\-one visual tools, simplifying agent creation, debugging, and deployment like never before  Coze your way to AI Agent creation 
+* 【2025-09-26】[LuanRT / YouTube js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube 
+* 【2025-09-26】[faker\-js / faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node js
 * 【2025-09-25】[MrLesk / Backlog md](https://github.com/MrLesk/Backlog.md) - Backlog md \- A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 * 【2025-09-24】[CodeWithCJ / SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families  Powered by AI  Track food, fitness, water, and health — together 
 * 【2025-09-22】[zxh326 / kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard
