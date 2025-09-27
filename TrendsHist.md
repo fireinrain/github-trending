@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-09-27】[ericciarla / trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI
 * 【2025-09-25】[cloudflare / capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript\-native, low\-boilerplate, object\-capability RPC system
 * 【2025-09-25】[HKUDS / RAG\-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG\-Anything: All\-in\-One RAG Framework"
 * 【2025-09-25】[bytedance / Dolphin](https://github.com/bytedance/Dolphin) - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025 
@@ -995,6 +996,7 @@
 
 ## Java
 
+* 【2025-09-27】[apache / sedona](https://github.com/apache/sedona) - A cluster computing framework for processing large\-scale geospatial data
 * 【2025-09-24】[Jigsaw\-Code / Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS\-over\-HTTPS services on Android
 * 【2025-09-11】[GoogleCloudPlatform / bank-of-anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos) - Retail banking sample application showcasing Kubernetes and Google Cloud
 * 【2025-09-09】[GoogleCloudPlatform / bank\-of\-anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos) - Retail banking sample application showcasing Kubernetes and Google Cloud
@@ -1356,6 +1358,8 @@
 
 ## Python
 
+* 【2025-09-27】[strands-agents / sdk-python](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code.
+* 【2025-09-27】[Wirasm / PRPs\-agentic\-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Prompts, workflows and more for agentic engineering
 * 【2025-09-26】[StanfordVL / BEHAVIOR\-1K](https://github.com/StanfordVL/BEHAVIOR-1K) - BEHAVIOR\-1K: a platform for accelerating Embodied AI research  Join our Discord for support: https://discord gg/bccR5vGFEx
 * 【2025-09-26】[Klavis-AI / klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25): MCP integration layers that let AI agents use thousands of tools reliably.
 * 【2025-09-25】[HKUDS / RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
@@ -4251,6 +4255,7 @@
 
 ## C#
 
+* 【2025-09-27】[syncfusion / maui-toolkit](https://github.com/syncfusion/maui-toolkit) - Syncfusion Toolkit for .NET MAUI offers high-quality UI controls to help you build rich, high-performance applications for iOS, Android, macOS, and Windows from a single codebase
 * 【2025-09-26】[avestura / EyesGuard](https://github.com/avestura/EyesGuard) - 👀 Windows Application for protecting your eyes
 * 【2025-09-26】[litedb-org / LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
 * 【2025-09-24】[GermanCoding / SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) - Windows tray utility / launcher for Syncthing (v2 continued)
@@ -4693,6 +4698,9 @@
 
 ## Html
 
+* 【2025-09-27】[owickstrom / the\-monospace\-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
+* 【2025-09-27】[ibm-developer-skills-network / gkpbt-css-circle](https://github.com/ibm-developer-skills-network/gkpbt-css-circle) - css-circle
+* 【2025-09-27】[dinguschan\-owo / Helios](https://github.com/dinguschan-owo/Helios) - Helios is an COMPLETELY UNBLOCKABLE proxy with tabs that can be static hosted, can be run locally, and is html css js only! This is (as far as i've found) the only true UNBLOCKABLE only HTML proxy that works with any blocking software! Plus its open sauce so you can take this code and build your own proxy! (⭐ PLEASE star if you fork! ⭐)
 * 【2025-09-26】[PhoenixPE / PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - PhoenixPE allows you to create a customized Rescue/Recovery Environment based on Win10/Win11 
 * 【2025-09-25】[aave / aave-protocol](https://github.com/aave/aave-protocol) - Aave Protocol Version 1.0 - Decentralized Lending Pools
 * 【2025-09-24】[aave / aave\-protocol](https://github.com/aave/aave-protocol) - Aave Protocol Version 1 0 \- Decentralized Lending Pools
@@ -5871,6 +5879,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-09-27】[cloudflare / workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 * 【2025-09-26】[huggingface / xet\-core](https://github.com/huggingface/xet-core) - xet client tech, used in huggingface_hub
 * 【2025-09-24】[vi / websocat](https://github.com/vi/websocat) - Command\-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat\-like functions
 * 【2025-09-24】[mediar-ai / terminator](https://github.com/mediar-ai/terminator) - AI-powered desktop automation — open source, MIT-licensed, cross-platform, accessibility-first. Works across all apps and browsers. Inspired by GitHub Actions & Playwright. 100x faster than generic AI agents, >95% success rate, no vendor lock-in.
@@ -6673,6 +6682,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-27】[ccbikai / hacker\-news](https://github.com/ccbikai/hacker-news) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 * 【2025-09-26】[MrLesk / Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 * 【2025-09-26】[coze\-dev / coze\-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all\-in\-one visual tools, simplifying agent creation, debugging, and deployment like never before  Coze your way to AI Agent creation 
 * 【2025-09-26】[LuanRT / YouTube js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube 
