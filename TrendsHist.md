@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-09-28】[imputnet / helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 * 【2025-09-27】[ericciarla / trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI
 * 【2025-09-25】[cloudflare / capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript\-native, low\-boilerplate, object\-capability RPC system
 * 【2025-09-25】[HKUDS / RAG\-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG\-Anything: All\-in\-One RAG Framework"
@@ -996,6 +997,7 @@
 
 ## Java
 
+* 【2025-09-28】[apache / fesod](https://github.com/apache/fesod) - Fast  Easy  Done  Processing Excels without worrying about large files causing OOM 
 * 【2025-09-27】[apache / sedona](https://github.com/apache/sedona) - A cluster computing framework for processing large\-scale geospatial data
 * 【2025-09-24】[Jigsaw\-Code / Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS\-over\-HTTPS services on Android
 * 【2025-09-11】[GoogleCloudPlatform / bank-of-anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos) - Retail banking sample application showcasing Kubernetes and Google Cloud
@@ -1358,6 +1360,8 @@
 
 ## Python
 
+* 【2025-09-28】[Tencent\-Hunyuan / Hunyuan3D\-2 1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) - From Images to High\-Fidelity 3D Assets with Production\-Ready PBR Material
+* 【2025-09-28】[qodo-ai / pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍 (For more advanced: check Qodo Merge)
 * 【2025-09-27】[strands-agents / sdk-python](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code.
 * 【2025-09-27】[Wirasm / PRPs\-agentic\-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Prompts, workflows and more for agentic engineering
 * 【2025-09-26】[StanfordVL / BEHAVIOR\-1K](https://github.com/StanfordVL/BEHAVIOR-1K) - BEHAVIOR\-1K: a platform for accelerating Embodied AI research  Join our Discord for support: https://discord gg/bccR5vGFEx
@@ -2464,6 +2468,7 @@
 
 ## Javascript
 
+* 【2025-09-28】[perplexityai / modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem 
 * 【2025-09-25】[asterdex / api\-docs](https://github.com/asterdex/api-docs) - 
 * 【2025-09-23】[andrepimenta / claude\-code\-chat](https://github.com/andrepimenta/claude-code-chat) - Beautiful Claude Code Chat Interface for VS Code
 * 【2025-09-18】[httptoolkit / frida\-interception\-and\-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to directly MitM all HTTPS traffic from a target mobile application
@@ -4698,6 +4703,7 @@
 
 ## Html
 
+* 【2025-09-28】[dsc\-jssstu / CamPhish](https://github.com/dsc-jssstu/CamPhish) - 
 * 【2025-09-27】[owickstrom / the\-monospace\-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 * 【2025-09-27】[ibm-developer-skills-network / gkpbt-css-circle](https://github.com/ibm-developer-skills-network/gkpbt-css-circle) - css-circle
 * 【2025-09-27】[dinguschan\-owo / Helios](https://github.com/dinguschan-owo/Helios) - Helios is an COMPLETELY UNBLOCKABLE proxy with tabs that can be static hosted, can be run locally, and is html css js only! This is (as far as i've found) the only true UNBLOCKABLE only HTML proxy that works with any blocking software! Plus its open sauce so you can take this code and build your own proxy! (⭐ PLEASE star if you fork! ⭐)
@@ -6682,6 +6688,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-09-28】[ChromeDevTools / devtools\-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
+* 【2025-09-28】[netless\-io / flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom 
 * 【2025-09-27】[ccbikai / hacker\-news](https://github.com/ccbikai/hacker-news) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 * 【2025-09-26】[MrLesk / Backlog.md](https://github.com/MrLesk/Backlog.md) - Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 * 【2025-09-26】[coze\-dev / coze\-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all\-in\-one visual tools, simplifying agent creation, debugging, and deployment like never before  Coze your way to AI Agent creation 
