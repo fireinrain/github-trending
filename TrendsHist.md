@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-09-29】[rapid7 / metasploit\-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 * 【2025-09-28】[imputnet / helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 * 【2025-09-27】[ericciarla / trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI
 * 【2025-09-25】[cloudflare / capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript\-native, low\-boilerplate, object\-capability RPC system
@@ -1360,6 +1361,7 @@
 
 ## Python
 
+* 【2025-09-29】[elliottech / lighter\-python](https://github.com/elliottech/lighter-python) - Public Python SDK for Lighter
 * 【2025-09-28】[Tencent\-Hunyuan / Hunyuan3D\-2 1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) - From Images to High\-Fidelity 3D Assets with Production\-Ready PBR Material
 * 【2025-09-28】[qodo-ai / pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍 (For more advanced: check Qodo Merge)
 * 【2025-09-27】[strands-agents / sdk-python](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code.
@@ -3023,6 +3025,7 @@
 
 ## Go
 
+* 【2025-09-29】[marcopiovanello / yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 * 【2025-09-25】[base / node](https://github.com/base/node) - Everything required to run your own Base node
 * 【2025-09-21】[tbphp / gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 * 【2025-09-16】[tbphp / gpt\-load](https://github.com/tbphp/gpt-load) - Multi\-channel AI proxy with intelligent key rotation  智能密钥轮询的多渠道 AI 代理。
@@ -3479,6 +3482,7 @@
 
 ## C
 
+* 【2025-09-29】[lovyan03 / LovyanGFX](https://github.com/lovyan03/LovyanGFX) - SPI LCD graphics library for ESP32 (ESP\-IDF/ArduinoESP32) / ESP8266 (ArduinoESP8266) / SAMD51(Seeed ArduinoSAMD51)
 * 【2025-09-25】[system-linux / FazJammer](https://github.com/system-linux/FazJammer) - A minimal, simple and effective jammer that jams Wi-Fi, BLE and 2.4 GHz band.
 * 【2025-09-24】[zserge / jsmn](https://github.com/zserge/jsmn) - Jsmn is a world fastest JSON parser/tokenizer  This is the official repo replacing the old one at Bitbucket
 * 【2025-09-21】[espressif / esp-drone](https://github.com/espressif/esp-drone) - Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.
@@ -3866,6 +3870,7 @@
 
 ## C++
 
+* 【2025-09-29】[luanti\-org / luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game\-creation platform with easy modding and game creation
 * 【2025-09-25】[Byrom90 / XeUnshackle](https://github.com/Byrom90/XeUnshackle) - Custom Xbox 360 app designed to be used with the Xbox360BadUpdate exploit  Applies a set of HV/Kernel patches & loads the Dashlaunch system module (launch xex) 
 * 【2025-09-18】[category-labs / monad](https://github.com/category-labs/monad) - 
 * 【2025-09-18】[ungive / discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
@@ -4260,6 +4265,9 @@
 
 ## C#
 
+* 【2025-09-29】[k1tbyte / Wemod\-Patcher](https://github.com/k1tbyte/Wemod-Patcher) - WeMod patcher allows you to get some WeMod Pro features absolutely free
+* 【2025-09-29】[IAmParadox27 / jellyfin\-plugin\-home\-sections](https://github.com/IAmParadox27/jellyfin-plugin-home-sections) - Add server provided home sections to your Jellyfin instance
+* 【2025-09-29】[9p4 / jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
 * 【2025-09-27】[syncfusion / maui-toolkit](https://github.com/syncfusion/maui-toolkit) - Syncfusion Toolkit for .NET MAUI offers high-quality UI controls to help you build rich, high-performance applications for iOS, Android, macOS, and Windows from a single codebase
 * 【2025-09-26】[avestura / EyesGuard](https://github.com/avestura/EyesGuard) - 👀 Windows Application for protecting your eyes
 * 【2025-09-26】[litedb-org / LiteDB](https://github.com/litedb-org/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
@@ -4703,6 +4711,7 @@
 
 ## Html
 
+* 【2025-09-29】[dsc-jssstu / CamPhish](https://github.com/dsc-jssstu/CamPhish) - 
 * 【2025-09-28】[dsc\-jssstu / CamPhish](https://github.com/dsc-jssstu/CamPhish) - 
 * 【2025-09-27】[owickstrom / the\-monospace\-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 * 【2025-09-27】[ibm-developer-skills-network / gkpbt-css-circle](https://github.com/ibm-developer-skills-network/gkpbt-css-circle) - css-circle
@@ -5222,6 +5231,7 @@
 
 ## Unknown
 
+* 【2025-09-29】[rohitg00 / DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity) - DevOps/SRE community is for those folks who are trying to learn or explore DevOps with the help of experienced professionals  Opportunities are open to share 
 * 【2025-09-26】[TsinghuaC3I / Awesome\-RL\-for\-LRMs](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs) - A Survey of Reinforcement Learning for Large Reasoning Models
 * 【2025-09-26】[Iamrushabhshahh / AWS\-Certified\-Solutions\-Architect\-Associate\-SAA\-C03\-Exam\-Dump\-With\-Solution](https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution) - Comprehensive collection of study materials, practice exams Question, and Personally Solved Mcq to help you prepare for the AWS Certified Solutions Architect – Associate (SAA\-C03) exam 
 * 【2025-09-21】[guoyue2010 / lxmusic\-](https://github.com/guoyue2010/lxmusic-) - lxmusic(洛雪音乐)全网最新最全音源
@@ -5885,6 +5895,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-09-29】[abenz1267 / walker](https://github.com/abenz1267/walker) - Multi\-Purpose Launcher with a lot of features  Highly Customizable and fast 
 * 【2025-09-27】[cloudflare / workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 * 【2025-09-26】[huggingface / xet\-core](https://github.com/huggingface/xet-core) - xet client tech, used in huggingface_hub
 * 【2025-09-24】[vi / websocat](https://github.com/vi/websocat) - Command\-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat\-like functions
