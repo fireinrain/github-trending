@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-10-02】[PHPMailer / PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
+* 【2025-10-02】[YILING0013 / AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) - 使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
 * 【2025-10-01】[anthropics / claude\-agent\-sdk\-python](https://github.com/anthropics/claude-agent-sdk-python) - 
 * 【2025-10-01】[cjpais / Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech\-to\-text application that works completely offline 
 * 【2025-09-30】[Done\-0 / fuck\-u\-code](https://github.com/Done-0/fuck-u-code) - Legacy\-Mess Detector – assess the “legacy\-mess level” of your code and output a beautiful report \| 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
@@ -1001,6 +1003,7 @@
 
 ## Java
 
+* 【2025-10-02】[jabrena / cursor-rules-java](https://github.com/jabrena/cursor-rules-java) - A collection of System prompts for Java that help software engineers in their daily programming work & data pipelines. 👉 Your feedback is important to evolve this project. Participate in the following questionnaire: 👈 https://forms.gle/TpNXENjmu45wuXoi6
 * 【2025-10-01】[jabrena / cursor\-rules\-java](https://github.com/jabrena/cursor-rules-java) - A collection of System prompts for Java that help software engineers in their daily programming work & data pipelines  👉 Your feedback is important to evolve this project  Participate in the following questionnaire: 👈 https://forms gle/TpNXENjmu45wuXoi6
 * 【2025-09-28】[apache / fesod](https://github.com/apache/fesod) - Fast  Easy  Done  Processing Excels without worrying about large files causing OOM 
 * 【2025-09-27】[apache / sedona](https://github.com/apache/sedona) - A cluster computing framework for processing large\-scale geospatial data
@@ -1365,6 +1368,7 @@
 
 ## Python
 
+* 【2025-10-02】[google\-deepmind / mujoco_warp](https://github.com/google-deepmind/mujoco_warp) - GPU\-optimized version of the MuJoCo physics simulator, designed for NVIDIA hardware 
 * 【2025-10-01】[anthropics / claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
 * 【2025-10-01】[Oros42 / IMSI\-catcher](https://github.com/Oros42/IMSI-catcher) - This program show you IMSI numbers of cellphones around you 
 * 【2025-10-01】[StanfordVL / BEHAVIOR-1K](https://github.com/StanfordVL/BEHAVIOR-1K) - BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx
@@ -3034,6 +3038,7 @@
 
 ## Go
 
+* 【2025-10-02】[charlie0129 / batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks 
 * 【2025-10-01】[dbos\-inc / dbos\-transact\-golang](https://github.com/dbos-inc/dbos-transact-golang) - Durable Workflow Orchestration with Golang and Postgres
 * 【2025-09-30】[Done-0 / fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
 * 【2025-09-30】[eduardolat / pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user\-friendly web interface! 🌐💾
@@ -3494,6 +3499,7 @@
 
 ## C
 
+* 【2025-10-02】[rfjakob / earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom \- Early OOM Daemon for Linux
 * 【2025-09-29】[lovyan03 / LovyanGFX](https://github.com/lovyan03/LovyanGFX) - SPI LCD graphics library for ESP32 (ESP\-IDF/ArduinoESP32) / ESP8266 (ArduinoESP8266) / SAMD51(Seeed ArduinoSAMD51)
 * 【2025-09-25】[system-linux / FazJammer](https://github.com/system-linux/FazJammer) - A minimal, simple and effective jammer that jams Wi-Fi, BLE and 2.4 GHz band.
 * 【2025-09-24】[zserge / jsmn](https://github.com/zserge/jsmn) - Jsmn is a world fastest JSON parser/tokenizer  This is the official repo replacing the old one at Bitbucket
@@ -4727,6 +4733,7 @@
 
 ## Html
 
+* 【2025-10-02】[bnb\-chain / bnb\-chain github io](https://github.com/bnb-chain/bnb-chain.github.io) - The official documentation for BNB Chain 
 * 【2025-09-29】[dsc-jssstu / CamPhish](https://github.com/dsc-jssstu/CamPhish) - 
 * 【2025-09-28】[dsc\-jssstu / CamPhish](https://github.com/dsc-jssstu/CamPhish) - 
 * 【2025-09-27】[owickstrom / the\-monospace\-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
@@ -5911,6 +5918,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-10-02】[CyberTimon / RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non\-destructive, and GPU\-accelerated RAW image editor built with performance in mind 
+* 【2025-10-02】[MCHPR / MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone 
 * 【2025-09-29】[abenz1267 / walker](https://github.com/abenz1267/walker) - Multi\-Purpose Launcher with a lot of features  Highly Customizable and fast 
 * 【2025-09-27】[cloudflare / workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly
 * 【2025-09-26】[huggingface / xet\-core](https://github.com/huggingface/xet-core) - xet client tech, used in huggingface_hub
@@ -6715,6 +6724,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-10-02】[react-native-maps / react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
+* 【2025-10-02】[salesforcecli / mcp](https://github.com/salesforcecli/mcp) - MCP Server for interacting with Salesforce instances
+* 【2025-10-02】[intellectronica / ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
 * 【2025-10-01】[hangwin / mcp\-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension\-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search 
 * 【2025-10-01】[coinbase / onchainkit](https://github.com/coinbase/onchainkit) - React components and TypeScript utilities to help you build top\-tier onchain apps 
 * 【2025-09-30】[mihomo\-party\-org / clash\-party](https://github.com/mihomo-party-org/clash-party) - Another Mihomo GUI 
