@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-10-05】[paaatrick / playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
+* 【2025-10-05】[glide\-browser / glide](https://github.com/glide-browser/glide) - An extensible and keyboard\-focused web browser
 * 【2025-10-04】[microsoft / agent\-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi\-agent workflows with support for Python and  NET 
 * 【2025-10-04】[amir1376 / ab\-download\-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 * 【2025-10-03】[google / tunix](https://github.com/google/tunix) - A JAX\-native LLM Post\-Training Library
@@ -1008,6 +1010,7 @@
 
 ## Java
 
+* 【2025-10-05】[DhanushNehru / Hacktoberfest2025](https://github.com/DhanushNehru/Hacktoberfest2025) - Hacktoberfest 2025 OPEN FIRST Pull Request \- SUPPORT OPEN SOURCE \- Don't forget to spread love and if you like give us a ⭐️
 * 【2025-10-04】[adityatandon15 / LLD](https://github.com/adityatandon15/LLD) - All Code of LLD Playlist
 * 【2025-10-03】[DSpace / DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
 * 【2025-10-02】[jabrena / cursor-rules-java](https://github.com/jabrena/cursor-rules-java) - A collection of System prompts for Java that help software engineers in their daily programming work & data pipelines. 👉 Your feedback is important to evolve this project. Participate in the following questionnaire: 👈 https://forms.gle/TpNXENjmu45wuXoi6
@@ -2493,6 +2496,7 @@
 
 ## Javascript
 
+* 【2025-10-05】[yep\-yogesh / Guessync](https://github.com/yep-yogesh/Guessync) - A full\-stack, real\-time multiplayer music guessing game built with React, Firebase Auth, Socket IO, MongoDB, and Vite  Integrated with Spotify, YouTube, and GeminiAI to enable AI\-powered hints, audio playback and fuzzy\-matched answers 
 * 【2025-10-03】[Coding\-Solo / godot\-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine  Provides tools for launching the editor, running projects, and capturing debug output 
 * 【2025-10-01】[gkjohnson / three\-mesh\-bvh](https://github.com/gkjohnson/three-mesh-bvh) - A BVH implementation to speed up raycasting and enable spatial queries against three js meshes 
 * 【2025-09-28】[perplexityai / modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem 
@@ -3050,6 +3054,7 @@
 
 ## Go
 
+* 【2025-10-05】[dbos-inc / dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang) - Durable Workflow Orchestration with Golang and Postgres
 * 【2025-10-02】[charlie0129 / batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks 
 * 【2025-10-01】[dbos\-inc / dbos\-transact\-golang](https://github.com/dbos-inc/dbos-transact-golang) - Durable Workflow Orchestration with Golang and Postgres
 * 【2025-09-30】[Done-0 / fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
@@ -3511,6 +3516,7 @@
 
 ## C
 
+* 【2025-10-05】[DanielSant0s / AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) - A complete Javascript environment for creating homebrew applications and games on PlayStation 2 
 * 【2025-10-04】[tvlabs / edge264](https://github.com/tvlabs/edge264) - Simple H 264 decoder
 * 【2025-10-04】[jkuhlmann / cgltf](https://github.com/jkuhlmann/cgltf) - 💠 Single\-file glTF 2 0 loader and writer written in C99
 * 【2025-10-03】[mudita / MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system based on FreeRTOS™ optimized for E Ink displays \- developed for Mudita Pure minimalist phone
@@ -5276,6 +5282,7 @@
 
 ## Unknown
 
+* 【2025-10-05】[google-labs-code / jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 * 【2025-10-04】[doggy8088 / github\-copilot\-configs](https://github.com/doggy8088/github-copilot-configs) - Will 保哥整理的最佳 GitHub Copilot 設定
 * 【2025-09-29】[rohitg00 / DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity) - DevOps/SRE community is for those folks who are trying to learn or explore DevOps with the help of experienced professionals  Opportunities are open to share 
 * 【2025-09-26】[TsinghuaC3I / Awesome\-RL\-for\-LRMs](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs) - A Survey of Reinforcement Learning for Large Reasoning Models
@@ -5941,6 +5948,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-10-05】[matrix-construct / tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
+* 【2025-10-05】[Stremio / stremio\-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
 * 【2025-10-02】[CyberTimon / RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non\-destructive, and GPU\-accelerated RAW image editor built with performance in mind 
 * 【2025-10-02】[MCHPR / MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone 
 * 【2025-09-29】[abenz1267 / walker](https://github.com/abenz1267/walker) - Multi\-Purpose Launcher with a lot of features  Highly Customizable and fast 
@@ -6747,6 +6756,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-10-05】[glide-browser / glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
+* 【2025-10-05】[zilliztech / claude\-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code  Make entire codebase the context for any coding agent 
 * 【2025-10-02】[react-native-maps / react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
 * 【2025-10-02】[salesforcecli / mcp](https://github.com/salesforcecli/mcp) - MCP Server for interacting with Salesforce instances
 * 【2025-10-02】[intellectronica / ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
