@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-10-06】[aandrew\-me / ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
+* 【2025-10-06】[amir1376 / ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 * 【2025-10-05】[paaatrick / playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
 * 【2025-10-05】[glide\-browser / glide](https://github.com/glide-browser/glide) - An extensible and keyboard\-focused web browser
 * 【2025-10-04】[microsoft / agent\-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi\-agent workflows with support for Python and  NET 
@@ -2496,6 +2498,8 @@
 
 ## Javascript
 
+* 【2025-10-06】[aandrew-me / ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
+* 【2025-10-06】[paperwm / PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 * 【2025-10-05】[yep\-yogesh / Guessync](https://github.com/yep-yogesh/Guessync) - A full\-stack, real\-time multiplayer music guessing game built with React, Firebase Auth, Socket IO, MongoDB, and Vite  Integrated with Spotify, YouTube, and GeminiAI to enable AI\-powered hints, audio playback and fuzzy\-matched answers 
 * 【2025-10-03】[Coding\-Solo / godot\-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine  Provides tools for launching the editor, running projects, and capturing debug output 
 * 【2025-10-01】[gkjohnson / three\-mesh\-bvh](https://github.com/gkjohnson/three-mesh-bvh) - A BVH implementation to speed up raycasting and enable spatial queries against three js meshes 
@@ -5282,6 +5286,7 @@
 
 ## Unknown
 
+* 【2025-10-06】[emarco177 / langchain-course](https://github.com/emarco177/langchain-course) - 
 * 【2025-10-05】[google-labs-code / jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 * 【2025-10-04】[doggy8088 / github\-copilot\-configs](https://github.com/doggy8088/github-copilot-configs) - Will 保哥整理的最佳 GitHub Copilot 設定
 * 【2025-09-29】[rohitg00 / DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity) - DevOps/SRE community is for those folks who are trying to learn or explore DevOps with the help of experienced professionals  Opportunities are open to share 
@@ -5948,6 +5953,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-10-06】[Stremio / stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
+* 【2025-10-06】[lanyeeee / jmcomic\-downloader](https://github.com/lanyeeee/jmcomic-downloader) - 禁漫天堂 18comic vip jmcomic 18comic 的多线程下载器，带图形界面 带收藏夹 免费下载收费的漫画，已打包exe 下载速度飞快
 * 【2025-10-05】[matrix-construct / tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
 * 【2025-10-05】[Stremio / stremio\-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
 * 【2025-10-02】[CyberTimon / RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non\-destructive, and GPU\-accelerated RAW image editor built with performance in mind 
