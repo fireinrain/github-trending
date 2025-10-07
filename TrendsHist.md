@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-10-07】[BeehiveInnovations / zen\-mcp\-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one 
+* 【2025-10-07】[openemr / openemr](https://github.com/openemr/openemr) - The most popular open source electronic health records and medical practice management solution 
 * 【2025-10-06】[aandrew\-me / ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
 * 【2025-10-06】[amir1376 / ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 * 【2025-10-05】[paaatrick / playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
@@ -1380,6 +1382,8 @@
 
 ## Python
 
+* 【2025-10-07】[BeehiveInnovations / zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+* 【2025-10-07】[ScrapeGraphAI / Scrapegraph\-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 * 【2025-10-04】[microsoft / agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
 * 【2025-10-04】[yichuan\-w / LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN  Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device 
 * 【2025-10-03】[hsliuping / TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
@@ -3520,6 +3524,7 @@
 
 ## C
 
+* 【2025-10-07】[Cairo\-Dock / cairo\-dock\-core](https://github.com/Cairo-Dock/cairo-dock-core) - Core part of Cairo\-Dock project 
 * 【2025-10-05】[DanielSant0s / AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) - A complete Javascript environment for creating homebrew applications and games on PlayStation 2 
 * 【2025-10-04】[tvlabs / edge264](https://github.com/tvlabs/edge264) - Simple H 264 decoder
 * 【2025-10-04】[jkuhlmann / cgltf](https://github.com/jkuhlmann/cgltf) - 💠 Single\-file glTF 2 0 loader and writer written in C99
@@ -3913,6 +3918,7 @@
 
 ## C++
 
+* 【2025-10-07】[google\-ai\-edge / LiteRT\-LM](https://github.com/google-ai-edge/LiteRT-LM) - 
 * 【2025-10-04】[tile-ai / tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
 * 【2025-10-04】[frankarobotics / franka_ros2](https://github.com/frankarobotics/franka_ros2) - ROS 2 integration for Franka research robots
 * 【2025-10-03】[tile\-ai / tilelang](https://github.com/tile-ai/tilelang) - Domain\-specific language designed to streamline the development of high\-performance GPU/CPU/Accelerators kernels
@@ -5286,6 +5292,7 @@
 
 ## Unknown
 
+* 【2025-10-07】[hyprland\-community / awesome\-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 * 【2025-10-06】[emarco177 / langchain-course](https://github.com/emarco177/langchain-course) - 
 * 【2025-10-05】[google-labs-code / jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 * 【2025-10-04】[doggy8088 / github\-copilot\-configs](https://github.com/doggy8088/github-copilot-configs) - Will 保哥整理的最佳 GitHub Copilot 設定
@@ -6763,6 +6770,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-10-07】[superagent-ai / vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in.
+* 【2025-10-07】[wppconnect\-team / wppconnect](https://github.com/wppconnect-team/wppconnect) - WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination
 * 【2025-10-05】[glide-browser / glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 * 【2025-10-05】[zilliztech / claude\-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code  Make entire codebase the context for any coding agent 
 * 【2025-10-02】[react-native-maps / react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component for iOS + Android
