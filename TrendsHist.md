@@ -1014,6 +1014,7 @@
 
 ## Java
 
+* 【2025-10-08】[jenkinsci / configuration\-as\-code\-plugin](https://github.com/jenkinsci/configuration-as-code-plugin) - Jenkins Configuration as Code Plugin
 * 【2025-10-05】[DhanushNehru / Hacktoberfest2025](https://github.com/DhanushNehru/Hacktoberfest2025) - Hacktoberfest 2025 OPEN FIRST Pull Request \- SUPPORT OPEN SOURCE \- Don't forget to spread love and if you like give us a ⭐️
 * 【2025-10-04】[adityatandon15 / LLD](https://github.com/adityatandon15/LLD) - All Code of LLD Playlist
 * 【2025-10-03】[DSpace / DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
@@ -1382,6 +1383,7 @@
 
 ## Python
 
+* 【2025-10-08】[Fannovel16 / comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux) - ComfyUI's ControlNet Auxiliary Preprocessors
 * 【2025-10-07】[BeehiveInnovations / zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 * 【2025-10-07】[ScrapeGraphAI / Scrapegraph\-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 * 【2025-10-04】[microsoft / agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
@@ -2502,6 +2504,7 @@
 
 ## Javascript
 
+* 【2025-10-08】[basecamp / lexxy](https://github.com/basecamp/lexxy) - 
 * 【2025-10-06】[aandrew-me / ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
 * 【2025-10-06】[paperwm / PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 * 【2025-10-05】[yep\-yogesh / Guessync](https://github.com/yep-yogesh/Guessync) - A full\-stack, real\-time multiplayer music guessing game built with React, Firebase Auth, Socket IO, MongoDB, and Vite  Integrated with Spotify, YouTube, and GeminiAI to enable AI\-powered hints, audio playback and fuzzy\-matched answers 
@@ -3524,6 +3527,7 @@
 
 ## C
 
+* 【2025-10-08】[landley / toybox](https://github.com/landley/toybox) - toybox
 * 【2025-10-07】[Cairo\-Dock / cairo\-dock\-core](https://github.com/Cairo-Dock/cairo-dock-core) - Core part of Cairo\-Dock project 
 * 【2025-10-05】[DanielSant0s / AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) - A complete Javascript environment for creating homebrew applications and games on PlayStation 2 
 * 【2025-10-04】[tvlabs / edge264](https://github.com/tvlabs/edge264) - Simple H 264 decoder
@@ -3918,6 +3922,8 @@
 
 ## C++
 
+* 【2025-10-08】[google-ai-edge / LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - 
+* 【2025-10-08】[luanti-org / luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 * 【2025-10-07】[google\-ai\-edge / LiteRT\-LM](https://github.com/google-ai-edge/LiteRT-LM) - 
 * 【2025-10-04】[tile-ai / tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
 * 【2025-10-04】[frankarobotics / franka_ros2](https://github.com/frankarobotics/franka_ros2) - ROS 2 integration for Franka research robots
@@ -5292,6 +5298,7 @@
 
 ## Unknown
 
+* 【2025-10-08】[Iamrushabhshahh / AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution](https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution) - Comprehensive collection of study materials, practice exams Question, and Personally Solved Mcq to help you prepare for the AWS Certified Solutions Architect – Associate (SAA-C03) exam.
 * 【2025-10-07】[hyprland\-community / awesome\-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 * 【2025-10-06】[emarco177 / langchain-course](https://github.com/emarco177/langchain-course) - 
 * 【2025-10-05】[google-labs-code / jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
@@ -5960,6 +5967,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-10-08】[rivet\-dev / engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 * 【2025-10-06】[Stremio / stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
 * 【2025-10-06】[lanyeeee / jmcomic\-downloader](https://github.com/lanyeeee/jmcomic-downloader) - 禁漫天堂 18comic vip jmcomic 18comic 的多线程下载器，带图形界面 带收藏夹 免费下载收费的漫画，已打包exe 下载速度飞快
 * 【2025-10-05】[matrix-construct / tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
@@ -6770,6 +6778,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-10-08】[cgoinglove / better\-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot  Powered by Agent & MCP & Workflows 
+* 【2025-10-08】[wppconnect-team / wppconnect](https://github.com/wppconnect-team/wppconnect) - WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination
+* 【2025-10-08】[openai / openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
+* 【2025-10-08】[pipeshub-ai / pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai) - The OpenSource Alternative to Glean's Workplace AI
 * 【2025-10-07】[superagent-ai / vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in.
 * 【2025-10-07】[wppconnect\-team / wppconnect](https://github.com/wppconnect-team/wppconnect) - WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination
 * 【2025-10-05】[glide-browser / glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
