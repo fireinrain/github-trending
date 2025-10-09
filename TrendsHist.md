@@ -1014,6 +1014,7 @@
 
 ## Java
 
+* 【2025-10-09】[timestored / qstudio](https://github.com/timestored/qstudio) - qStudio \- Free SQL Analysis Tool
 * 【2025-10-08】[jenkinsci / configuration\-as\-code\-plugin](https://github.com/jenkinsci/configuration-as-code-plugin) - Jenkins Configuration as Code Plugin
 * 【2025-10-05】[DhanushNehru / Hacktoberfest2025](https://github.com/DhanushNehru/Hacktoberfest2025) - Hacktoberfest 2025 OPEN FIRST Pull Request \- SUPPORT OPEN SOURCE \- Don't forget to spread love and if you like give us a ⭐️
 * 【2025-10-04】[adityatandon15 / LLD](https://github.com/adityatandon15/LLD) - All Code of LLD Playlist
@@ -1383,6 +1384,9 @@
 
 ## Python
 
+* 【2025-10-09】[ScrapeGraphAI / Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
+* 【2025-10-09】[giantpinkrobots / varia](https://github.com/giantpinkrobots/varia) - Download manager that supports regular downloads, torrents and videos
+* 【2025-10-09】[feder-cr / Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 * 【2025-10-08】[Fannovel16 / comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux) - ComfyUI's ControlNet Auxiliary Preprocessors
 * 【2025-10-07】[BeehiveInnovations / zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 * 【2025-10-07】[ScrapeGraphAI / Scrapegraph\-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -2504,6 +2508,8 @@
 
 ## Javascript
 
+* 【2025-10-09】[fineanmol / Hacktoberfest2025](https://github.com/fineanmol/Hacktoberfest2025) - Make your first Pull Request on Hacktoberfest 2025  Don't forget to spread love and if you like give us a ⭐️
+* 【2025-10-09】[ServiceNowDevProgram / code\-snippets](https://github.com/ServiceNowDevProgram/code-snippets) - ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs community 
 * 【2025-10-08】[basecamp / lexxy](https://github.com/basecamp/lexxy) - 
 * 【2025-10-06】[aandrew-me / ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
 * 【2025-10-06】[paperwm / PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
@@ -4325,6 +4331,7 @@
 
 ## C#
 
+* 【2025-10-09】[cschneegans / unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
 * 【2025-10-01】[BrighterCommand / Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with  NET and C\# 
 * 【2025-09-30】[builtbybel / xd\-AntiSpy](https://github.com/builtbybel/xd-AntiSpy) - The successor to xp\-AntiSpy, designed for the modern Windows experience
 * 【2025-09-29】[k1tbyte / Wemod\-Patcher](https://github.com/k1tbyte/Wemod-Patcher) - WeMod patcher allows you to get some WeMod Pro features absolutely free
@@ -6778,6 +6785,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-10-09】[cgoinglove / better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent & MCP & Workflows.
+* 【2025-10-09】[tapframe / NuvioStreaming](https://github.com/tapframe/NuvioStreaming) - A simple Media Hub
+* 【2025-10-09】[seerr\-team / seerr](https://github.com/seerr-team/seerr) - Open\-source media request and discovery manager for Jellyfin, Plex, and Emby 
+* 【2025-10-09】[openai / openai\-cs\-agents\-demo](https://github.com/openai/openai-cs-agents-demo) - Demo of a customer service use case implemented with the OpenAI Agents SDK
 * 【2025-10-08】[cgoinglove / better\-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot  Powered by Agent & MCP & Workflows 
 * 【2025-10-08】[wppconnect-team / wppconnect](https://github.com/wppconnect-team/wppconnect) - WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination
 * 【2025-10-08】[openai / openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
