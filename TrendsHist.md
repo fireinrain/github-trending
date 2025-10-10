@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-10-10】[google / computer\-use\-preview](https://github.com/google/computer-use-preview) - 
+* 【2025-10-10】[timelinize / timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+* 【2025-10-10】[PixelGuys / Cubyz](https://github.com/PixelGuys/Cubyz) - Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects 
 * 【2025-10-07】[BeehiveInnovations / zen\-mcp\-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one 
 * 【2025-10-07】[openemr / openemr](https://github.com/openemr/openemr) - The most popular open source electronic health records and medical practice management solution 
 * 【2025-10-06】[aandrew\-me / ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
@@ -1014,6 +1017,7 @@
 
 ## Java
 
+* 【2025-10-10】[Mentra-Community / MentraOS](https://github.com/Mentra-Community/MentraOS) - The open-source OS for smart glasses with dozens of apps. Get captions, AI assistant, notifications, translation, and more. Devs now write 1 app that runs on any pair of smart glases.
 * 【2025-10-09】[timestored / qstudio](https://github.com/timestored/qstudio) - qStudio \- Free SQL Analysis Tool
 * 【2025-10-08】[jenkinsci / configuration\-as\-code\-plugin](https://github.com/jenkinsci/configuration-as-code-plugin) - Jenkins Configuration as Code Plugin
 * 【2025-10-05】[DhanushNehru / Hacktoberfest2025](https://github.com/DhanushNehru/Hacktoberfest2025) - Hacktoberfest 2025 OPEN FIRST Pull Request \- SUPPORT OPEN SOURCE \- Don't forget to spread love and if you like give us a ⭐️
@@ -1384,6 +1388,10 @@
 
 ## Python
 
+* 【2025-10-10】[google / computer-use-preview](https://github.com/google/computer-use-preview) - 
+* 【2025-10-10】[google / langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization 
+* 【2025-10-10】[sapientinc / HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
+* 【2025-10-10】[aws / bedrock\-agentcore\-sdk\-python](https://github.com/aws/bedrock-agentcore-sdk-python) - Python SDK for transforming any AI agent into a production\-ready application  Framework\-agnostic primitives for runtime, memory, authentication, and tools with AWS\-managed infrastructure 
 * 【2025-10-09】[ScrapeGraphAI / Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 * 【2025-10-09】[giantpinkrobots / varia](https://github.com/giantpinkrobots/varia) - Download manager that supports regular downloads, torrents and videos
 * 【2025-10-09】[feder-cr / Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
@@ -5305,6 +5313,7 @@
 
 ## Unknown
 
+* 【2025-10-10】[filipecalegario / awesome\-vibe\-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code 
 * 【2025-10-08】[Iamrushabhshahh / AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution](https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution) - Comprehensive collection of study materials, practice exams Question, and Personally Solved Mcq to help you prepare for the AWS Certified Solutions Architect – Associate (SAA-C03) exam.
 * 【2025-10-07】[hyprland\-community / awesome\-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 * 【2025-10-06】[emarco177 / langchain-course](https://github.com/emarco177/langchain-course) - 
@@ -6785,6 +6794,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-10-10】[erxes / erxes](https://github.com/erxes/erxes) - Experience Operating System (XOS) that unifies marketing, sales, operations, and support — run your core business seamlessly while replacing HubSpot, Zendesk, Linear, Wix and more 
+* 【2025-10-10】[digitalocean / sea\-notes\-saas\-starter\-kit](https://github.com/digitalocean/sea-notes-saas-starter-kit) - A production\-ready Next js SaaS notes starter kit on DigitalOcean App Platform — includes GradientAI, Stripe payments, Resend email, and Spaces storage 
 * 【2025-10-09】[cgoinglove / better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent & MCP & Workflows.
 * 【2025-10-09】[tapframe / NuvioStreaming](https://github.com/tapframe/NuvioStreaming) - A simple Media Hub
 * 【2025-10-09】[seerr\-team / seerr](https://github.com/seerr-team/seerr) - Open\-source media request and discovery manager for Jellyfin, Plex, and Emby 
