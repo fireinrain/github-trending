@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-10-11】[coze-dev / coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 * 【2025-10-10】[google / computer\-use\-preview](https://github.com/google/computer-use-preview) - 
 * 【2025-10-10】[timelinize / timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
 * 【2025-10-10】[PixelGuys / Cubyz](https://github.com/PixelGuys/Cubyz) - Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects 
@@ -1388,6 +1389,8 @@
 
 ## Python
 
+* 【2025-10-11】[bytedance / deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
+* 【2025-10-11】[intruder\-io / autoswagger](https://github.com/intruder-io/autoswagger) - Autoswagger by Intruder \- detect API auth weaknesses
 * 【2025-10-10】[google / computer-use-preview](https://github.com/google/computer-use-preview) - 
 * 【2025-10-10】[google / langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization 
 * 【2025-10-10】[sapientinc / HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
@@ -2516,6 +2519,8 @@
 
 ## Javascript
 
+* 【2025-10-11】[davila7 / claude\-code\-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+* 【2025-10-11】[kairi003 / Get\-cookies txt\-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) - Get cookies txt, NEVER send information outside 
 * 【2025-10-09】[fineanmol / Hacktoberfest2025](https://github.com/fineanmol/Hacktoberfest2025) - Make your first Pull Request on Hacktoberfest 2025  Don't forget to spread love and if you like give us a ⭐️
 * 【2025-10-09】[ServiceNowDevProgram / code\-snippets](https://github.com/ServiceNowDevProgram/code-snippets) - ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs community 
 * 【2025-10-08】[basecamp / lexxy](https://github.com/basecamp/lexxy) - 
@@ -4339,6 +4344,7 @@
 
 ## C#
 
+* 【2025-10-11】[DearVa / Everywhere](https://github.com/DearVa/Everywhere) - A context\-aware AI assistant for your desktop  Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools 
 * 【2025-10-09】[cschneegans / unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
 * 【2025-10-01】[BrighterCommand / Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with  NET and C\# 
 * 【2025-09-30】[builtbybel / xd\-AntiSpy](https://github.com/builtbybel/xd-AntiSpy) - The successor to xp\-AntiSpy, designed for the modern Windows experience
@@ -4788,6 +4794,7 @@
 
 ## Html
 
+* 【2025-10-11】[xeefei / X\-Panel](https://github.com/xeefei/X-Panel) - 〔X\-Panel 面板〕，Xray panel supporting multi\-protocol multi\-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置】生成功能。
 * 【2025-10-04】[bobbyiliev / 101-linux-commands](https://github.com/bobbyiliev/101-linux-commands) - 101 Linux commands Open-source eBook and CLI tool
 * 【2025-10-04】[zaproxy / zap\-extensions](https://github.com/zaproxy/zap-extensions) - ZAP Add\-ons
 * 【2025-10-03】[bobbyiliev / 101\-linux\-commands](https://github.com/bobbyiliev/101-linux-commands) - 101 Linux commands Open\-source eBook and CLI tool
@@ -5313,6 +5320,8 @@
 
 ## Unknown
 
+* 【2025-10-11】[filipecalegario / awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
+* 【2025-10-11】[kirodotdev / Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production 
 * 【2025-10-10】[filipecalegario / awesome\-vibe\-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code 
 * 【2025-10-08】[Iamrushabhshahh / AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution](https://github.com/Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution) - Comprehensive collection of study materials, practice exams Question, and Personally Solved Mcq to help you prepare for the AWS Certified Solutions Architect – Associate (SAA-C03) exam.
 * 【2025-10-07】[hyprland\-community / awesome\-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
@@ -6794,6 +6803,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-10-11】[stravu / crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees  Test, compare approaches & manage AI\-assisted development workflows in one desktop app 
+* 【2025-10-11】[waifu\-project / movie](https://github.com/waifu-project/movie) - 小猫影视是一款全平台的影视播放器, 支持 VOD/JS 扩展源
 * 【2025-10-10】[erxes / erxes](https://github.com/erxes/erxes) - Experience Operating System (XOS) that unifies marketing, sales, operations, and support — run your core business seamlessly while replacing HubSpot, Zendesk, Linear, Wix and more 
 * 【2025-10-10】[digitalocean / sea\-notes\-saas\-starter\-kit](https://github.com/digitalocean/sea-notes-saas-starter-kit) - A production\-ready Next js SaaS notes starter kit on DigitalOcean App Platform — includes GradientAI, Stripe payments, Resend email, and Spaces storage 
 * 【2025-10-09】[cgoinglove / better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent & MCP & Workflows.
