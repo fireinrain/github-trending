@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-10-12】[QwenLM / Qwen3\-VL](https://github.com/QwenLM/Qwen3-VL) - Qwen3\-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud 
+* 【2025-10-12】[davila7 / claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 * 【2025-10-11】[coze-dev / coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 * 【2025-10-10】[google / computer\-use\-preview](https://github.com/google/computer-use-preview) - 
 * 【2025-10-10】[timelinize / timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
@@ -1389,6 +1391,8 @@
 
 ## Python
 
+* 【2025-10-12】[Ksuriuri / index\-tts\-vllm](https://github.com/Ksuriuri/index-tts-vllm) - Added vLLM support to IndexTTS for faster inference 
+* 【2025-10-12】[OpenRLHF / OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy\-to\-use, Scalable and High\-performance RLHF Framework based on Ray (PPO & GRPO & REINFORCE++ & vLLM & Ray & Dynamic Sampling & Async Agentic RL)
 * 【2025-10-11】[bytedance / deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 * 【2025-10-11】[intruder\-io / autoswagger](https://github.com/intruder-io/autoswagger) - Autoswagger by Intruder \- detect API auth weaknesses
 * 【2025-10-10】[google / computer-use-preview](https://github.com/google/computer-use-preview) - 
@@ -5992,6 +5996,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-10-12】[OpenDevicePartnership / patina](https://github.com/OpenDevicePartnership/patina) - Patina Firmware
+* 【2025-10-12】[spieglt / FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross\-platform AirDrop  File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi  No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) in close range 
 * 【2025-10-08】[rivet\-dev / engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 * 【2025-10-06】[Stremio / stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
 * 【2025-10-06】[lanyeeee / jmcomic\-downloader](https://github.com/lanyeeee/jmcomic-downloader) - 禁漫天堂 18comic vip jmcomic 18comic 的多线程下载器，带图形界面 带收藏夹 免费下载收费的漫画，已打包exe 下载速度飞快
@@ -6803,6 +6809,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-10-12】[electron / forge](https://github.com/electron/forge) - A complete tool for building and publishing Electron applications
+* 【2025-10-12】[stan\-smith / FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 * 【2025-10-11】[stravu / crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees  Test, compare approaches & manage AI\-assisted development workflows in one desktop app 
 * 【2025-10-11】[waifu\-project / movie](https://github.com/waifu-project/movie) - 小猫影视是一款全平台的影视播放器, 支持 VOD/JS 扩展源
 * 【2025-10-10】[erxes / erxes](https://github.com/erxes/erxes) - Experience Operating System (XOS) that unifies marketing, sales, operations, and support — run your core business seamlessly while replacing HubSpot, Zendesk, Linear, Wix and more 
