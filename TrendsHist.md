@@ -1391,6 +1391,7 @@
 
 ## Python
 
+* 【2025-10-13】[LuckyOne7777 / ChatGPT\-Micro\-Cap\-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - This repo powers my blog experiment where ChatGPT manages a real\-money micro\-cap stock portfolio 
 * 【2025-10-12】[Ksuriuri / index\-tts\-vllm](https://github.com/Ksuriuri/index-tts-vllm) - Added vLLM support to IndexTTS for faster inference 
 * 【2025-10-12】[OpenRLHF / OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy\-to\-use, Scalable and High\-performance RLHF Framework based on Ray (PPO & GRPO & REINFORCE++ & vLLM & Ray & Dynamic Sampling & Async Agentic RL)
 * 【2025-10-11】[bytedance / deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
@@ -2523,6 +2524,8 @@
 
 ## Javascript
 
+* 【2025-10-13】[scribeocr / scribeocr](https://github.com/scribeocr/scribeocr) - Web interface for recognizing text, proofreading OCR, and creating fully\-digitized documents 
+* 【2025-10-13】[xanderfrangos / twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 * 【2025-10-11】[davila7 / claude\-code\-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 * 【2025-10-11】[kairi003 / Get\-cookies txt\-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) - Get cookies txt, NEVER send information outside 
 * 【2025-10-09】[fineanmol / Hacktoberfest2025](https://github.com/fineanmol/Hacktoberfest2025) - Make your first Pull Request on Hacktoberfest 2025  Don't forget to spread love and if you like give us a ⭐️
@@ -3088,6 +3091,7 @@
 
 ## Go
 
+* 【2025-10-13】[OffchainLabs / prysm](https://github.com/OffchainLabs/prysm) - Go implementation of Ethereum proof of stake
 * 【2025-10-05】[dbos-inc / dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang) - Durable Workflow Orchestration with Golang and Postgres
 * 【2025-10-02】[charlie0129 / batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks 
 * 【2025-10-01】[dbos\-inc / dbos\-transact\-golang](https://github.com/dbos-inc/dbos-transact-golang) - Durable Workflow Orchestration with Golang and Postgres
@@ -3550,6 +3554,7 @@
 
 ## C
 
+* 【2025-10-13】[strongtz / i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support
 * 【2025-10-08】[landley / toybox](https://github.com/landley/toybox) - toybox
 * 【2025-10-07】[Cairo\-Dock / cairo\-dock\-core](https://github.com/Cairo-Dock/cairo-dock-core) - Core part of Cairo\-Dock project 
 * 【2025-10-05】[DanielSant0s / AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) - A complete Javascript environment for creating homebrew applications and games on PlayStation 2 
@@ -3945,6 +3950,7 @@
 
 ## C++
 
+* 【2025-10-13】[ayoubfaouzi / al\-khaser](https://github.com/ayoubfaouzi/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection 
 * 【2025-10-08】[google-ai-edge / LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) - 
 * 【2025-10-08】[luanti-org / luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 * 【2025-10-07】[google\-ai\-edge / LiteRT\-LM](https://github.com/google-ai-edge/LiteRT-LM) - 
@@ -4798,6 +4804,8 @@
 
 ## Html
 
+* 【2025-10-13】[hugo-sid / hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) - Fast, minimal blog with dark mode support.
+* 【2025-10-13】[xeefei / X-Panel](https://github.com/xeefei/X-Panel) - 〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置】生成功能。
 * 【2025-10-11】[xeefei / X\-Panel](https://github.com/xeefei/X-Panel) - 〔X\-Panel 面板〕，Xray panel supporting multi\-protocol multi\-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置】生成功能。
 * 【2025-10-04】[bobbyiliev / 101-linux-commands](https://github.com/bobbyiliev/101-linux-commands) - 101 Linux commands Open-source eBook and CLI tool
 * 【2025-10-04】[zaproxy / zap\-extensions](https://github.com/zaproxy/zap-extensions) - ZAP Add\-ons
@@ -5996,6 +6004,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-10-13】[quinn\-rs / quinn](https://github.com/quinn-rs/quinn) - Async\-friendly QUIC implementation in Rust
 * 【2025-10-12】[OpenDevicePartnership / patina](https://github.com/OpenDevicePartnership/patina) - Patina Firmware
 * 【2025-10-12】[spieglt / FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross\-platform AirDrop  File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi  No network infrastructure required, just two devices with WiFi chips (and optionally Bluetooth) in close range 
 * 【2025-10-08】[rivet\-dev / engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
@@ -6809,6 +6818,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-10-13】[wickenico / WailBrew](https://github.com/wickenico/WailBrew) - Minimalistic Homebrew GUI made with Go, Wails and React 
 * 【2025-10-12】[electron / forge](https://github.com/electron/forge) - A complete tool for building and publishing Electron applications
 * 【2025-10-12】[stan\-smith / FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 * 【2025-10-11】[stravu / crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees  Test, compare approaches & manage AI\-assisted development workflows in one desktop app 
