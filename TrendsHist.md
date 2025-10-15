@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-10-15】[chili\-chips\-ba / wireguard\-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full\-throttle, wire\-speed hardware implementation of Wireguard VPN, using low\-cost Artix7 FPGA with opensource toolchain  If you seek security and privacy, nothing is private in our codebase  Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package  Bujrum!
+* 【2025-10-15】[KellerJordan / modded\-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 3 minutes
+* 【2025-10-15】[volcengine / MineContext](https://github.com/volcengine/MineContext) - MineContext is your proactive context\-aware AI partner（Context\-Engineering+ChatGPT Pulse）
 * 【2025-10-14】[nitrojs / nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit  Create web servers with everything you need and deploy them wherever you prefer 
 * 【2025-10-12】[QwenLM / Qwen3\-VL](https://github.com/QwenLM/Qwen3-VL) - Qwen3\-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud 
 * 【2025-10-12】[davila7 / claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
@@ -1394,6 +1397,8 @@
 
 ## Python
 
+* 【2025-10-15】[KellerJordan / modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 3 minutes
+* 【2025-10-15】[harvard-edge / cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems
 * 【2025-10-14】[harvard\-edge / cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems
 * 【2025-10-14】[LuckyOne7777 / ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
 * 【2025-10-13】[LuckyOne7777 / ChatGPT\-Micro\-Cap\-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - This repo powers my blog experiment where ChatGPT manages a real\-money micro\-cap stock portfolio 
@@ -2529,6 +2534,7 @@
 
 ## Javascript
 
+* 【2025-10-15】[pickle\-com / glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 * 【2025-10-14】[renmu123 / biliLive\-tools](https://github.com/renmu123/biliLive-tools) - 直播一站式处理工具，支持直播录制&视频处理&弹幕处理&录播姬自动上传
 * 【2025-10-13】[scribeocr / scribeocr](https://github.com/scribeocr/scribeocr) - Web interface for recognizing text, proofreading OCR, and creating fully\-digitized documents 
 * 【2025-10-13】[xanderfrangos / twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
@@ -4812,6 +4818,7 @@
 
 ## Html
 
+* 【2025-10-15】[o8oo8o / WebCurl](https://github.com/o8oo8o/WebCurl) - 极简网页版API调试神器
 * 【2025-10-13】[hugo-sid / hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) - Fast, minimal blog with dark mode support.
 * 【2025-10-13】[xeefei / X-Panel](https://github.com/xeefei/X-Panel) - 〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置】生成功能。
 * 【2025-10-11】[xeefei / X\-Panel](https://github.com/xeefei/X-Panel) - 〔X\-Panel 面板〕，Xray panel supporting multi\-protocol multi\-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置】生成功能。
@@ -5340,6 +5347,7 @@
 
 ## Unknown
 
+* 【2025-10-15】[xlenore / ps2-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
 * 【2025-10-14】[Fl4sh9174 / Switch\-Ultrawide\-Mods](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) - 
 * 【2025-10-11】[filipecalegario / awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
 * 【2025-10-11】[kirodotdev / Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production 
@@ -6013,6 +6021,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-10-15】[rgwood / systemctl\-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 * 【2025-10-14】[quinn-rs / quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 * 【2025-10-14】[robertpsoane / ducker](https://github.com/robertpsoane/ducker) - A slightly quackers Docker TUI based on k9s 🦆
 * 【2025-10-13】[quinn\-rs / quinn](https://github.com/quinn-rs/quinn) - Async\-friendly QUIC implementation in Rust
