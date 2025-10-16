@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-10-16】[enactic / openarm](https://github.com/enactic/openarm) - A fully open\-source humanoid arm for physical AI research and deployment in contact\-rich environments 
 * 【2025-10-15】[chili\-chips\-ba / wireguard\-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full\-throttle, wire\-speed hardware implementation of Wireguard VPN, using low\-cost Artix7 FPGA with opensource toolchain  If you seek security and privacy, nothing is private in our codebase  Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package  Bujrum!
 * 【2025-10-15】[KellerJordan / modded\-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 3 minutes
 * 【2025-10-15】[volcengine / MineContext](https://github.com/volcengine/MineContext) - MineContext is your proactive context\-aware AI partner（Context\-Engineering+ChatGPT Pulse）
@@ -1397,6 +1398,8 @@
 
 ## Python
 
+* 【2025-10-16】[coderamp-labs / gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
+* 【2025-10-16】[Junyi\-99 / ChatGPT\-API\-Scanner](https://github.com/Junyi-99/ChatGPT-API-Scanner) - Scan GitHub for available OpenAI API Keys
 * 【2025-10-15】[KellerJordan / modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 3 minutes
 * 【2025-10-15】[harvard-edge / cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems
 * 【2025-10-14】[harvard\-edge / cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems
@@ -2534,6 +2537,8 @@
 
 ## Javascript
 
+* 【2025-10-16】[Wei\-Shaw / claude\-relay\-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS\-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+* 【2025-10-16】[zereight / gitlab-mcp](https://github.com/zereight/gitlab-mcp) - First gitlab mcp for you
 * 【2025-10-15】[pickle\-com / glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 * 【2025-10-14】[renmu123 / biliLive\-tools](https://github.com/renmu123/biliLive-tools) - 直播一站式处理工具，支持直播录制&视频处理&弹幕处理&录播姬自动上传
 * 【2025-10-13】[scribeocr / scribeocr](https://github.com/scribeocr/scribeocr) - Web interface for recognizing text, proofreading OCR, and creating fully\-digitized documents 
@@ -3103,6 +3108,9 @@
 
 ## Go
 
+* 【2025-10-16】[vxcontrol / pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+* 【2025-10-16】[docker / model\-runner](https://github.com/docker/model-runner) - Docker Model Runner
+* 【2025-10-16】[asternic / wuzapi](https://github.com/asternic/wuzapi) - Simple RESTful API for WhatsApp in Golang (using the Whatsmeow multi device library)
 * 【2025-10-13】[OffchainLabs / prysm](https://github.com/OffchainLabs/prysm) - Go implementation of Ethereum proof of stake
 * 【2025-10-05】[dbos-inc / dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang) - Durable Workflow Orchestration with Golang and Postgres
 * 【2025-10-02】[charlie0129 / batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks 
@@ -4368,6 +4376,7 @@
 
 ## C#
 
+* 【2025-10-16】[morkt / GARbro](https://github.com/morkt/GARbro) - Visual Novels resource browser
 * 【2025-10-11】[DearVa / Everywhere](https://github.com/DearVa/Everywhere) - A context\-aware AI assistant for your desktop  Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools 
 * 【2025-10-09】[cschneegans / unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
 * 【2025-10-01】[BrighterCommand / Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with  NET and C\# 
@@ -5347,6 +5356,7 @@
 
 ## Unknown
 
+* 【2025-10-16】[github / copilot\-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal 
 * 【2025-10-15】[xlenore / ps2-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
 * 【2025-10-14】[Fl4sh9174 / Switch\-Ultrawide\-Mods](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) - 
 * 【2025-10-11】[filipecalegario / awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
@@ -6021,6 +6031,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-10-16】[rgwood / systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
+* 【2025-10-16】[dbt-labs / dbt-fusion](https://github.com/dbt-labs/dbt-fusion) - The next-generation engine for dbt
 * 【2025-10-15】[rgwood / systemctl\-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 * 【2025-10-14】[quinn-rs / quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
 * 【2025-10-14】[robertpsoane / ducker](https://github.com/robertpsoane/ducker) - A slightly quackers Docker TUI based on k9s 🦆
@@ -6838,6 +6850,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-10-16】[ThinkInAIXYZ / deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat \- A smart assistant that connects powerful AI to your personal world
 * 【2025-10-14】[steel-dev / steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
 * 【2025-10-14】[kozakdenys / qr\-code\-styling](https://github.com/kozakdenys/qr-code-styling) - Automaticly generate your styled QR code in your web app 
 * 【2025-10-13】[wickenico / WailBrew](https://github.com/wickenico/WailBrew) - Minimalistic Homebrew GUI made with Go, Wails and React 
