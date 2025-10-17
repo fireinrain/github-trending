@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-10-17】[QwenLM / Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 * 【2025-10-16】[enactic / openarm](https://github.com/enactic/openarm) - A fully open\-source humanoid arm for physical AI research and deployment in contact\-rich environments 
 * 【2025-10-15】[chili\-chips\-ba / wireguard\-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full\-throttle, wire\-speed hardware implementation of Wireguard VPN, using low\-cost Artix7 FPGA with opensource toolchain  If you seek security and privacy, nothing is private in our codebase  Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package  Bujrum!
 * 【2025-10-15】[KellerJordan / modded\-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 3 minutes
@@ -1398,6 +1399,8 @@
 
 ## Python
 
+* 【2025-10-17】[milesial / Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
+* 【2025-10-17】[shiyu\-coder / Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
 * 【2025-10-16】[coderamp-labs / gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 * 【2025-10-16】[Junyi\-99 / ChatGPT\-API\-Scanner](https://github.com/Junyi-99/ChatGPT-API-Scanner) - Scan GitHub for available OpenAI API Keys
 * 【2025-10-15】[KellerJordan / modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 3 minutes
@@ -2537,6 +2540,8 @@
 
 ## Javascript
 
+* 【2025-10-17】[carboneio / carbone](https://github.com/carboneio/carbone) - Fast and simple report generator, from JSON to pdf, xslx, docx, odt   
+* 【2025-10-17】[DmytroVasin / DrawPen](https://github.com/DmytroVasin/DrawPen) - DrawPen is a simple screen annotation  Available on macOS, Windows & Linux 
 * 【2025-10-16】[Wei\-Shaw / claude\-relay\-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS\-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 * 【2025-10-16】[zereight / gitlab-mcp](https://github.com/zereight/gitlab-mcp) - First gitlab mcp for you
 * 【2025-10-15】[pickle\-com / glass](https://github.com/pickle-com/glass) - Digital Mind Extension
@@ -3108,6 +3113,7 @@
 
 ## Go
 
+* 【2025-10-17】[kubeflow / trainer](https://github.com/kubeflow/trainer) - Distributed AI Model Training and Fine\-Tuning on Kubernetes
 * 【2025-10-16】[vxcontrol / pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 * 【2025-10-16】[docker / model\-runner](https://github.com/docker/model-runner) - Docker Model Runner
 * 【2025-10-16】[asternic / wuzapi](https://github.com/asternic/wuzapi) - Simple RESTful API for WhatsApp in Golang (using the Whatsmeow multi device library)
@@ -4827,6 +4833,7 @@
 
 ## Html
 
+* 【2025-10-17】[spencerccf / app_settings](https://github.com/spencerccf/app_settings) - Flutter plugin for accessing app phone settings for iOS and Android
 * 【2025-10-15】[o8oo8o / WebCurl](https://github.com/o8oo8o/WebCurl) - 极简网页版API调试神器
 * 【2025-10-13】[hugo-sid / hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) - Fast, minimal blog with dark mode support.
 * 【2025-10-13】[xeefei / X-Panel](https://github.com/xeefei/X-Panel) - 〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置】生成功能。
@@ -5356,6 +5363,8 @@
 
 ## Unknown
 
+* 【2025-10-17】[LLMQuant / quant\-wiki](https://github.com/LLMQuant/quant-wiki) - We are committed to the open\-sourcing quantitative knowledge, aiming to bridge the information gap between the domestic and international quantitative finance industries  我们致力于量化知识的开源与汉化，打破国内外量化金融行业信息差。
+* 【2025-10-17】[github / copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 * 【2025-10-16】[github / copilot\-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal 
 * 【2025-10-15】[xlenore / ps2-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
 * 【2025-10-14】[Fl4sh9174 / Switch\-Ultrawide\-Mods](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) - 
@@ -6031,6 +6040,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-10-17】[lakekeeper / lakekeeper](https://github.com/lakekeeper/lakekeeper) - Lakekeeper is an Apache\-Licensed, secure, fast and easy to use Apache Iceberg REST Catalog written in Rust 
 * 【2025-10-16】[rgwood / systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 * 【2025-10-16】[dbt-labs / dbt-fusion](https://github.com/dbt-labs/dbt-fusion) - The next-generation engine for dbt
 * 【2025-10-15】[rgwood / systemctl\-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
@@ -6850,6 +6860,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-10-17】[stan-smith / FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
+* 【2025-10-17】[microsoft / azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
+* 【2025-10-17】[mongodb\-js / mongodb\-mcp\-server](https://github.com/mongodb-js/mongodb-mcp-server) - A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters 
 * 【2025-10-16】[ThinkInAIXYZ / deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat \- A smart assistant that connects powerful AI to your personal world
 * 【2025-10-14】[steel-dev / steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
 * 【2025-10-14】[kozakdenys / qr\-code\-styling](https://github.com/kozakdenys/qr-code-styling) - Automaticly generate your styled QR code in your web app 
