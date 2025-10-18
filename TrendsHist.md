@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-10-18】[HuLaSpark / HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross\-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）🎉 10月20号 3 0版本重磅发布，敬请期待🎉
+* 【2025-10-18】[shiyu-coder / Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
 * 【2025-10-17】[QwenLM / Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 * 【2025-10-16】[enactic / openarm](https://github.com/enactic/openarm) - A fully open\-source humanoid arm for physical AI research and deployment in contact\-rich environments 
 * 【2025-10-15】[chili\-chips\-ba / wireguard\-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full\-throttle, wire\-speed hardware implementation of Wireguard VPN, using low\-cost Artix7 FPGA with opensource toolchain  If you seek security and privacy, nothing is private in our codebase  Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package  Bujrum!
@@ -1399,6 +1401,9 @@
 
 ## Python
 
+* 【2025-10-18】[gyoridavid / ai_agents_az](https://github.com/gyoridavid/ai_agents_az) - 
+* 【2025-10-18】[0x4m4 / hexstrike\-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc ) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research  Seamlessly bridge LLMs with real\-world offensive security capabilities 
+* 【2025-10-18】[exislow / tidal\-dl\-ng](https://github.com/exislow/tidal-dl-ng) - Multithreaded TIDAL Media Downloader Next Generation! Up to HiRes Lossless / TIDAL MAX 24\-bit, 192 kHz 
 * 【2025-10-17】[milesial / Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
 * 【2025-10-17】[shiyu\-coder / Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
 * 【2025-10-16】[coderamp-labs / gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
@@ -3113,6 +3118,7 @@
 
 ## Go
 
+* 【2025-10-18】[ZenPrivacy / zen\-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad\-blocker and privacy guard for Windows, macOS and Linux
 * 【2025-10-17】[kubeflow / trainer](https://github.com/kubeflow/trainer) - Distributed AI Model Training and Fine\-Tuning on Kubernetes
 * 【2025-10-16】[vxcontrol / pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 * 【2025-10-16】[docker / model\-runner](https://github.com/docker/model-runner) - Docker Model Runner
@@ -3580,6 +3586,7 @@
 
 ## C
 
+* 【2025-10-18】[duixcom / Duix\-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open\-source AI avatar(digital human) toolkit for offline video generation and digital human cloning 
 * 【2025-10-13】[strongtz / i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support
 * 【2025-10-08】[landley / toybox](https://github.com/landley/toybox) - toybox
 * 【2025-10-07】[Cairo\-Dock / cairo\-dock\-core](https://github.com/Cairo-Dock/cairo-dock-core) - Core part of Cairo\-Dock project 
@@ -5363,6 +5370,7 @@
 
 ## Unknown
 
+* 【2025-10-18】[Fl4sh9174 / Switch-Ultrawide-Mods](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) - 
 * 【2025-10-17】[LLMQuant / quant\-wiki](https://github.com/LLMQuant/quant-wiki) - We are committed to the open\-sourcing quantitative knowledge, aiming to bridge the information gap between the domestic and international quantitative finance industries  我们致力于量化知识的开源与汉化，打破国内外量化金融行业信息差。
 * 【2025-10-17】[github / copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 * 【2025-10-16】[github / copilot\-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal 
@@ -6860,6 +6868,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-10-18】[AmanVarshney01 / create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 * 【2025-10-17】[stan-smith / FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 * 【2025-10-17】[microsoft / azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
 * 【2025-10-17】[mongodb\-js / mongodb\-mcp\-server](https://github.com/mongodb-js/mongodb-mcp-server) - A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters 
