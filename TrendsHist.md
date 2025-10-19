@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-10-19】[anthropics / claude\-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude 
 * 【2025-10-18】[HuLaSpark / HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross\-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）🎉 10月20号 3 0版本重磅发布，敬请期待🎉
 * 【2025-10-18】[shiyu-coder / Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
 * 【2025-10-17】[QwenLM / Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
@@ -2545,6 +2546,9 @@
 
 ## Javascript
 
+* 【2025-10-19】[xixu\-me / Xget](https://github.com/xixu-me/Xget) - Ultra\-high\-performance, secure, all\-in\-one acceleration engine for developer resources whose performance far surpasses traditional accelerators, delivering a unified, efficient acceleration experience across multiple platforms \| 超高性能、安全的一站式开发者资源加速引擎，其性能远超传统加速器，提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等
+* 【2025-10-19】[pickle-com / glass](https://github.com/pickle-com/glass) - Digital Mind Extension
+* 【2025-10-19】[handlebars\-lang / handlebars js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids 
 * 【2025-10-17】[carboneio / carbone](https://github.com/carboneio/carbone) - Fast and simple report generator, from JSON to pdf, xslx, docx, odt   
 * 【2025-10-17】[DmytroVasin / DrawPen](https://github.com/DmytroVasin/DrawPen) - DrawPen is a simple screen annotation  Available on macOS, Windows & Linux 
 * 【2025-10-16】[Wei\-Shaw / claude\-relay\-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS\-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
@@ -3118,6 +3122,8 @@
 
 ## Go
 
+* 【2025-10-19】[qualifire\-dev / rogue](https://github.com/qualifire-dev/rogue) - Agents testing framework made easy
+* 【2025-10-19】[ZenPrivacy / zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 * 【2025-10-18】[ZenPrivacy / zen\-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad\-blocker and privacy guard for Windows, macOS and Linux
 * 【2025-10-17】[kubeflow / trainer](https://github.com/kubeflow/trainer) - Distributed AI Model Training and Fine\-Tuning on Kubernetes
 * 【2025-10-16】[vxcontrol / pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
@@ -3586,6 +3592,7 @@
 
 ## C
 
+* 【2025-10-19】[DreamMaoMao / mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwl but no suckless)
 * 【2025-10-18】[duixcom / Duix\-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open\-source AI avatar(digital human) toolkit for offline video generation and digital human cloning 
 * 【2025-10-13】[strongtz / i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support
 * 【2025-10-08】[landley / toybox](https://github.com/landley/toybox) - toybox
@@ -4389,6 +4396,7 @@
 
 ## C#
 
+* 【2025-10-19】[Unity\-Technologies / com unity toonshader](https://github.com/Unity-Technologies/com.unity.toonshader) - Unity Toon Shader
 * 【2025-10-16】[morkt / GARbro](https://github.com/morkt/GARbro) - Visual Novels resource browser
 * 【2025-10-11】[DearVa / Everywhere](https://github.com/DearVa/Everywhere) - A context\-aware AI assistant for your desktop  Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools 
 * 【2025-10-09】[cschneegans / unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
@@ -6048,6 +6056,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-10-19】[zorp\-corp / nockchain](https://github.com/zorp-corp/nockchain) - Nockchain protocol monorepo
 * 【2025-10-17】[lakekeeper / lakekeeper](https://github.com/lakekeeper/lakekeeper) - Lakekeeper is an Apache\-Licensed, secure, fast and easy to use Apache Iceberg REST Catalog written in Rust 
 * 【2025-10-16】[rgwood / systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 * 【2025-10-16】[dbt-labs / dbt-fusion](https://github.com/dbt-labs/dbt-fusion) - The next-generation engine for dbt
@@ -6868,6 +6877,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-10-19】[JordanKnott / taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 * 【2025-10-18】[AmanVarshney01 / create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 * 【2025-10-17】[stan-smith / FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 * 【2025-10-17】[microsoft / azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
