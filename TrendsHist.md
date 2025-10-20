@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-10-20】[anthropics / claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 * 【2025-10-19】[anthropics / claude\-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude 
 * 【2025-10-18】[HuLaSpark / HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross\-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）🎉 10月20号 3 0版本重磅发布，敬请期待🎉
 * 【2025-10-18】[shiyu-coder / Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
@@ -3990,6 +3991,7 @@
 
 ## C++
 
+* 【2025-10-20】[kcat / openal\-soft](https://github.com/kcat/openal-soft) - OpenAL Soft is a software implementation of the OpenAL 3D audio API 
 * 【2025-10-14】[ByteWelder / Tactility](https://github.com/ByteWelder/Tactility) - An operating system for ESP32 devices 
 * 【2025-10-14】[relativty / Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
 * 【2025-10-13】[ayoubfaouzi / al\-khaser](https://github.com/ayoubfaouzi/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection 
@@ -6056,6 +6058,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-10-20】[zorp-corp / nockchain](https://github.com/zorp-corp/nockchain) - Nockchain protocol monorepo
+* 【2025-10-20】[willcrichton / flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code 
 * 【2025-10-19】[zorp\-corp / nockchain](https://github.com/zorp-corp/nockchain) - Nockchain protocol monorepo
 * 【2025-10-17】[lakekeeper / lakekeeper](https://github.com/lakekeeper/lakekeeper) - Lakekeeper is an Apache\-Licensed, secure, fast and easy to use Apache Iceberg REST Catalog written in Rust 
 * 【2025-10-16】[rgwood / systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
@@ -6877,6 +6881,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-10-20】[github / codeql\-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 * 【2025-10-19】[JordanKnott / taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 * 【2025-10-18】[AmanVarshney01 / create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 * 【2025-10-17】[stan-smith / FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
