@@ -2547,6 +2547,7 @@
 
 ## Javascript
 
+* 【2025-10-21】[vanzan01 / claude\-code\-sub\-agent\-collective](https://github.com/vanzan01/claude-code-sub-agent-collective) - 🧠 Context Engineering Research \- Not just another agent collection, but using research and context engineering to function as a collective  Hub\-and\-spoke coordination through Claude Code 
 * 【2025-10-19】[xixu\-me / Xget](https://github.com/xixu-me/Xget) - Ultra\-high\-performance, secure, all\-in\-one acceleration engine for developer resources whose performance far surpasses traditional accelerators, delivering a unified, efficient acceleration experience across multiple platforms \| 超高性能、安全的一站式开发者资源加速引擎，其性能远超传统加速器，提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等
 * 【2025-10-19】[pickle-com / glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 * 【2025-10-19】[handlebars\-lang / handlebars js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids 
@@ -3593,6 +3594,7 @@
 
 ## C
 
+* 【2025-10-21】[johnfanv2 / LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode 
 * 【2025-10-19】[DreamMaoMao / mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwl but no suckless)
 * 【2025-10-18】[duixcom / Duix\-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open\-source AI avatar(digital human) toolkit for offline video generation and digital human cloning 
 * 【2025-10-13】[strongtz / i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support
@@ -3991,6 +3993,7 @@
 
 ## C++
 
+* 【2025-10-21】[PancakeTAS / lsfg\-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
 * 【2025-10-20】[kcat / openal\-soft](https://github.com/kcat/openal-soft) - OpenAL Soft is a software implementation of the OpenAL 3D audio API 
 * 【2025-10-14】[ByteWelder / Tactility](https://github.com/ByteWelder/Tactility) - An operating system for ESP32 devices 
 * 【2025-10-14】[relativty / Relativty](https://github.com/relativty/Relativty) - An open source VR headset with SteamVR supports for $200
@@ -6058,6 +6061,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-10-21】[rivet-dev / engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 * 【2025-10-20】[zorp-corp / nockchain](https://github.com/zorp-corp/nockchain) - Nockchain protocol monorepo
 * 【2025-10-20】[willcrichton / flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code 
 * 【2025-10-19】[zorp\-corp / nockchain](https://github.com/zorp-corp/nockchain) - Nockchain protocol monorepo
@@ -6881,6 +6885,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-10-21】[superdesigndev / superdesign](https://github.com/superdesigndev/superdesign) - Cursor for design \- Open Source
 * 【2025-10-20】[github / codeql\-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 * 【2025-10-19】[JordanKnott / taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
 * 【2025-10-18】[AmanVarshney01 / create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
