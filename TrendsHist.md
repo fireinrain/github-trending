@@ -1030,6 +1030,7 @@
 
 ## Java
 
+* 【2025-10-22】[jd\-opensource / joyagent\-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) - 开源的端到端产品级通用智能体
 * 【2025-10-14】[Geniusay / ChopperBot](https://github.com/Geniusay/ChopperBot) - 虎牙，斗鱼，抖音，BiliBili，TikTok，Twitch🔥热门🔥智能直播视频剪辑发布AI机器人，自动化🤖，全智能化⚙（智能生成切片，标题，封面，简介），可视化👓，平台热门监控🌡，丰富插件随意扩展🕹，快速部署⚡，视频账号打造自动发布🌟，支持DIY🎮
 * 【2025-10-14】[apache / ofbiz\-framework](https://github.com/apache/ofbiz-framework) - Apache OFBiz is an open source product for the automation of enterprise processes  It includes framework components and business applications for ERP, CRM, E\-Business/E\-Commerce, Supply Chain Management and Manufacturing Resource Planning  OFBiz provides a foundation and starting point for reliable, secure and scalable enterprise solutions 
 * 【2025-10-10】[Mentra-Community / MentraOS](https://github.com/Mentra-Community/MentraOS) - The open-source OS for smart glasses with dozens of apps. Get captions, AI assistant, notifications, translation, and more. Devs now write 1 app that runs on any pair of smart glases.
@@ -1403,6 +1404,7 @@
 
 ## Python
 
+* 【2025-10-22】[hyperliquid\-dex / hyperliquid\-python\-sdk](https://github.com/hyperliquid-dex/hyperliquid-python-sdk) - SDK for Hyperliquid API trading with Python 
 * 【2025-10-18】[gyoridavid / ai_agents_az](https://github.com/gyoridavid/ai_agents_az) - 
 * 【2025-10-18】[0x4m4 / hexstrike\-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc ) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research  Seamlessly bridge LLMs with real\-world offensive security capabilities 
 * 【2025-10-18】[exislow / tidal\-dl\-ng](https://github.com/exislow/tidal-dl-ng) - Multithreaded TIDAL Media Downloader Next Generation! Up to HiRes Lossless / TIDAL MAX 24\-bit, 192 kHz 
@@ -2547,6 +2549,8 @@
 
 ## Javascript
 
+* 【2025-10-22】[lioensky / VCPToolBox](https://github.com/lioensky/VCPToolBox) - 一个全新的，强大的AI\-API\-工具交互范式AGI社群系统。独立多Agent封装，非线性超异步工作流，交叉记忆网络，六大插件协议，完整Websocket和WebDav功能，支持分布式部署和算力均衡！
+* 【2025-10-22】[vanzan01 / claude-code-sub-agent-collective](https://github.com/vanzan01/claude-code-sub-agent-collective) - 🧠 Context Engineering Research - Not just another agent collection, but using research and context engineering to function as a collective. Hub-and-spoke coordination through Claude Code.
 * 【2025-10-21】[vanzan01 / claude\-code\-sub\-agent\-collective](https://github.com/vanzan01/claude-code-sub-agent-collective) - 🧠 Context Engineering Research \- Not just another agent collection, but using research and context engineering to function as a collective  Hub\-and\-spoke coordination through Claude Code 
 * 【2025-10-19】[xixu\-me / Xget](https://github.com/xixu-me/Xget) - Ultra\-high\-performance, secure, all\-in\-one acceleration engine for developer resources whose performance far surpasses traditional accelerators, delivering a unified, efficient acceleration experience across multiple platforms \| 超高性能、安全的一站式开发者资源加速引擎，其性能远超传统加速器，提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等
 * 【2025-10-19】[pickle-com / glass](https://github.com/pickle-com/glass) - Digital Mind Extension
@@ -3594,6 +3598,7 @@
 
 ## C
 
+* 【2025-10-22】[duixcom / Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 * 【2025-10-21】[johnfanv2 / LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode 
 * 【2025-10-19】[DreamMaoMao / mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwl but no suckless)
 * 【2025-10-18】[duixcom / Duix\-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open\-source AI avatar(digital human) toolkit for offline video generation and digital human cloning 
@@ -6885,6 +6890,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-10-22】[lingdojo / kanadojo](https://github.com/lingdojo/kanadojo) - Fun, aesthetic, minimalist platform for learning and practicing Japanese online 
+* 【2025-10-22】[rybbit\-io / rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit \- open\-source and privacy\-friendly alternative to Google Analytics that is 10x more intuitive 
 * 【2025-10-21】[superdesigndev / superdesign](https://github.com/superdesigndev/superdesign) - Cursor for design \- Open Source
 * 【2025-10-20】[github / codeql\-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 * 【2025-10-19】[JordanKnott / taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
