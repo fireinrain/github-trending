@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-10-24】[meta\-pytorch / torchforge](https://github.com/meta-pytorch/torchforge) - PyTorch\-native post\-training at scale
+* 【2025-10-24】[guofei9987 / scikit\-opt](https://github.com/guofei9987/scikit-opt) - Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman)
 * 【2025-10-23】[rossant / awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 * 【2025-10-23】[zyronon / TypeWords](https://github.com/zyronon/TypeWords) - 练习英语，一次敲击，一点进步；Practice English, One Keystroke at a Time 
 * 【2025-10-20】[anthropics / claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -1406,6 +1408,8 @@
 
 ## Python
 
+* 【2025-10-24】[meta-pytorch / torchforge](https://github.com/meta-pytorch/torchforge) - PyTorch-native post-training at scale
+* 【2025-10-24】[guofei9987 / scikit-opt](https://github.com/guofei9987/scikit-opt) - Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman)
 * 【2025-10-23】[pollen\-robotics / reachy_mini](https://github.com/pollen-robotics/reachy_mini) - Reachy Mini's SDK
 * 【2025-10-22】[hyperliquid\-dex / hyperliquid\-python\-sdk](https://github.com/hyperliquid-dex/hyperliquid-python-sdk) - SDK for Hyperliquid API trading with Python 
 * 【2025-10-18】[gyoridavid / ai_agents_az](https://github.com/gyoridavid/ai_agents_az) - 
@@ -2552,6 +2556,8 @@
 
 ## Javascript
 
+* 【2025-10-24】[Jackywine / Bella](https://github.com/Jackywine/Bella) - Bella is best
+* 【2025-10-24】[Yuyz0112 / claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse) - A Tool to Visualize Claude Code's LLM Interactions
 * 【2025-10-23】[Yuyz0112 / claude\-code\-reverse](https://github.com/Yuyz0112/claude-code-reverse) - A Tool to Visualize Claude Code's LLM Interactions
 * 【2025-10-23】[hexianWeb / CubeCity](https://github.com/hexianWeb/CubeCity) - A city waiting to be built by you 🏙️🔨✨  Threejs Version (一个等着被你建造的城市)
 * 【2025-10-23】[n00bcodr / Jellyfin\-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience 
@@ -4005,6 +4011,7 @@
 
 ## C++
 
+* 【2025-10-24】[fritzing / fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 * 【2025-10-23】[momo5502 / sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
 * 【2025-10-21】[PancakeTAS / lsfg\-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
 * 【2025-10-20】[kcat / openal\-soft](https://github.com/kcat/openal-soft) - OpenAL Soft is a software implementation of the OpenAL 3D audio API 
@@ -5397,6 +5404,7 @@
 
 ## Unknown
 
+* 【2025-10-24】[MicrosoftDocs / mcp](https://github.com/MicrosoftDocs/mcp) - Official Microsoft Learn MCP Server – powering LLMs and AI agents with real\-time, trusted Microsoft docs & code samples 
 * 【2025-10-18】[Fl4sh9174 / Switch-Ultrawide-Mods](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) - 
 * 【2025-10-17】[LLMQuant / quant\-wiki](https://github.com/LLMQuant/quant-wiki) - We are committed to the open\-sourcing quantitative knowledge, aiming to bridge the information gap between the domestic and international quantitative finance industries  我们致力于量化知识的开源与汉化，打破国内外量化金融行业信息差。
 * 【2025-10-17】[github / copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
@@ -6075,6 +6083,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-10-24】[deuxfleurs\-org / garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3\-compatible object store for small self\-hosted geo\-distributed deployments  Main repo: https://git deuxfleurs fr/Deuxfleurs/garage
 * 【2025-10-21】[rivet-dev / engine](https://github.com/rivet-dev/engine) - Scale and orchestrate RivetKit
 * 【2025-10-20】[zorp-corp / nockchain](https://github.com/zorp-corp/nockchain) - Nockchain protocol monorepo
 * 【2025-10-20】[willcrichton / flowistry](https://github.com/willcrichton/flowistry) - Flowistry is an IDE plugin for Rust that helps you focus on relevant code 
