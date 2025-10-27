@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-10-27】[microsoft / agent\-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents 
 * 【2025-10-25】[isaac\-sim / IsaacSim](https://github.com/isaac-sim/IsaacSim) - NVIDIA Isaac Sim™ is an open\-source application on NVIDIA Omniverse for developing, simulating, and testing AI\-driven robots in realistic virtual environments 
 * 【2025-10-24】[meta\-pytorch / torchforge](https://github.com/meta-pytorch/torchforge) - PyTorch\-native post\-training at scale
 * 【2025-10-24】[guofei9987 / scikit\-opt](https://github.com/guofei9987/scikit-opt) - Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman)
@@ -1411,6 +1412,7 @@
 
 ## Python
 
+* 【2025-10-27】[microsoft / agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 * 【2025-10-26】[moondevonyt / moon\-dev\-ai\-agents](https://github.com/moondevonyt/moon-dev-ai-agents) - autonomous ai agents for trading in python
 * 【2025-10-25】[isaac-sim / IsaacSim](https://github.com/isaac-sim/IsaacSim) - NVIDIA Isaac Sim™ is an open-source application on NVIDIA Omniverse for developing, simulating, and testing AI-driven robots in realistic virtual environments.
 * 【2025-10-24】[meta-pytorch / torchforge](https://github.com/meta-pytorch/torchforge) - PyTorch-native post-training at scale
@@ -3146,6 +3148,8 @@
 
 ## Go
 
+* 【2025-10-27】[Notifuse / notifuse](https://github.com/Notifuse/notifuse) - Notifuse is an open\-source & modern emailing platform
+* 【2025-10-27】[fish2018 / pansou](https://github.com/fish2018/pansou) - PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so 252035 xyz/
 * 【2025-10-25】[julien040 / anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 * 【2025-10-23】[VirusTotal / vt\-cli](https://github.com/VirusTotal/vt-cli) - VirusTotal Command Line Interface
 * 【2025-10-19】[qualifire\-dev / rogue](https://github.com/qualifire-dev/rogue) - Agents testing framework made easy
@@ -4018,6 +4022,7 @@
 
 ## C++
 
+* 【2025-10-27】[SteamClientHomebrew / Millennium](https://github.com/SteamClientHomebrew/Millennium) - Apply themes/skins/customize Steam® after the 2023\-04\-27 Chromium UI update
 * 【2025-10-26】[futo\-org / android\-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab futo org/keyboard/latinime
 * 【2025-10-24】[fritzing / fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 * 【2025-10-23】[momo5502 / sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
@@ -6094,6 +6099,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-10-27】[mozilla / uniffi\-rs](https://github.com/mozilla/uniffi-rs) - a multi\-language bindings generator for rust
 * 【2025-10-26】[meta-pytorch / monarch](https://github.com/meta-pytorch/monarch) - PyTorch Single Controller
 * 【2025-10-26】[boa-dev / boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
 * 【2025-10-26】[ironcalc / IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem
@@ -6925,6 +6931,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-10-27】[linagora / twake\-drive](https://github.com/linagora/twake-drive) - The open\-source alternative to Google Drive 
+* 【2025-10-27】[fosrl / pangolin](https://github.com/fosrl/pangolin) - Identity\-Aware Tunneled Reverse Proxy Server with Dashboard UI
+* 【2025-10-27】[mongodb-js / mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) - A Model Context Protocol server to connect to MongoDB databases and MongoDB Atlas Clusters.
 * 【2025-10-26】[nativescript\-vue / nativescript\-vue](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using Vue and NativeScript 
 * 【2025-10-25】[microsoft / vscode\-copilot\-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
 * 【2025-10-22】[lingdojo / kanadojo](https://github.com/lingdojo/kanadojo) - Fun, aesthetic, minimalist platform for learning and practicing Japanese online 
