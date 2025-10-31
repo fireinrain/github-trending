@@ -1416,6 +1416,10 @@
 
 ## Python
 
+* 【2025-10-31】[Kludex / starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines  🌟
+* 【2025-10-31】[microsoft / Multi-Agent-Custom-Automation-Engine-Solution-Accelerator](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator) - The Multi-Agent Custom Automation Engine Solution Accelerator is an AI-driven system that manages a group of AI agents to accomplish tasks based on user input. Powered by Semantic Kernel, Azure Foundry, Azure Cosmos DB, and infrastructure services, it provides a reference application, allowing you to hit the ground running.
+* 【2025-10-31】[HKUDS / ViMax](https://github.com/HKUDS/ViMax) - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All\-in\-One)"
+* 【2025-10-31】[astral\-sh / ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust 
 * 【2025-10-30】[666ghj / BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 * 【2025-10-30】[thinking\-machines\-lab / tinker\-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post\-training with Tinker
 * 【2025-10-30】[yichuan-w / LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
@@ -4449,6 +4453,8 @@
 
 ## C#
 
+* 【2025-10-31】[Achuan-2 / SlideSCI](https://github.com/Achuan-2/SlideSCI) - PPT plugin, supports one-click to add image titles, copy and paste positions, one-click image alignment, and one-click to insert Markdown (including bold, hyperlinks, and other inline styles, as well as code blocks, LaTeX, and other block-level styles)! PPT插件，支持一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级样式）、便捷导出图片！
+* 【2025-10-31】[jbogard / ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) - With Razor Pages
 * 【2025-10-23】[romanvht / ByeDPIManager](https://github.com/romanvht/ByeDPIManager) - Мини утилита для запуска ByeDPI + ProxiFyre под Windows
 * 【2025-10-19】[Unity\-Technologies / com unity toonshader](https://github.com/Unity-Technologies/com.unity.toonshader) - Unity Toon Shader
 * 【2025-10-16】[morkt / GARbro](https://github.com/morkt/GARbro) - Visual Novels resource browser
@@ -4902,6 +4908,7 @@
 
 ## Html
 
+* 【2025-10-31】[skindhu / Build-A-Large-Language-Model-CN](https://github.com/skindhu/Build-A-Large-Language-Model-CN) - 《Build a Large Language Model (From Scratch)》是一本深入探讨大语言模型原理与实现的电子书，适合希望深入了解 GPT 等大模型架构、训练过程及应用开发的学习者。为了让更多中文读者能够接触到这本极具价值的教材，我决定将其翻译成中文，并通过 GitHub 进行开源共享。
 * 【2025-10-30】[OCA / helpdesk](https://github.com/OCA/helpdesk) - Odoo modules for managing a HelpDesk system
 * 【2025-10-29】[IBM / AssetOpsBench](https://github.com/IBM/AssetOpsBench) - AssetOpsBench \- Industry 4 0
 * 【2025-10-29】[skindhu / Build\-A\-Large\-Language\-Model\-CN](https://github.com/skindhu/Build-A-Large-Language-Model-CN) - 《Build a Large Language Model (From Scratch)》是一本深入探讨大语言模型原理与实现的电子书，适合希望深入了解 GPT 等大模型架构、训练过程及应用开发的学习者。为了让更多中文读者能够接触到这本极具价值的教材，我决定将其翻译成中文，并通过 GitHub 进行开源共享。
@@ -6117,6 +6124,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-10-31】[Fredolx / open\-tv](https://github.com/Fredolx/open-tv) - Ultra\-fast, simple and powerful cross\-platform IPTV app
 * 【2025-10-30】[vrmiguel / pgpad](https://github.com/vrmiguel/pgpad) - [Work in progress] A small, fast cross\-platform database client
 * 【2025-10-30】[op-rs / kona](https://github.com/op-rs/kona) - Monorepo for OP Stack Types, Components, and Services built in Rust.
 * 【2025-10-27】[mozilla / uniffi\-rs](https://github.com/mozilla/uniffi-rs) - a multi\-language bindings generator for rust
@@ -6951,6 +6959,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-10-31】[firebase / firebase\-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
+* 【2025-10-31】[UfoMiao / zcf](https://github.com/UfoMiao/zcf) - Zero\-Config Code Flow for Claude code & Codex
+* 【2025-10-31】[truffle\-ai / dexto](https://github.com/truffle-ai/dexto) - The Intelligence Layer for AI agents  Connect your models, tools, and data to create agentic apps that can think, act and talk to you 
 * 【2025-10-30】[nashaofu / shell360](https://github.com/nashaofu/shell360) - Shell360 is a cross\-platform SSH and SFTP client 
 * 【2025-10-30】[outerbase / studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser  It supports connecting to Postgres, MySQL, and SQLite 
 * 【2025-10-30】[makenotion / notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server
