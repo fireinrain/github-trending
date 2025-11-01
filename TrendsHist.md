@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-11-01】[Wei-Shaw / claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 * 【2025-10-30】[Beingpax / VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice\-to\-text app for macOS to transcribe what you say to text almost instantly
 * 【2025-10-29】[spipm / Depixelization_poc](https://github.com/spipm/Depixelization_poc) - Depix is a PoC for a technique to recover plaintext from pixelized screenshots 
 * 【2025-10-27】[microsoft / agent\-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents 
@@ -1038,6 +1039,8 @@
 
 ## Java
 
+* 【2025-11-01】[Tosencen / XMBOX](https://github.com/Tosencen/XMBOX) - 一个看片儿的空盒子软件，需自行配置源
+* 【2025-11-01】[unicode-org / cldr](https://github.com/unicode-org/cldr) - The home of the Unicode Common Locale Data Repository
 * 【2025-10-30】[jd-opensource / joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) - 开源的端到端产品级通用智能体
 * 【2025-10-28】[strivedi4u / hacktoberfest2025](https://github.com/strivedi4u/hacktoberfest2025) - 🌱 This repository is for beginners who want to contribute to open source through 🎉 Hacktoberfest 2025  🚀 It’s designed to promote learning and growth in 💻 software development with fun 🧩 coding challenges and 🛠️ projects — from basic algorithms to advanced applications  🤝 Join in, contribute, and level up your skills 
 * 【2025-10-26】[torakiki / pdfsam](https://github.com/torakiki/pdfsam) - PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages
@@ -1416,6 +1419,9 @@
 
 ## Python
 
+* 【2025-11-01】[langchain\-ai / deepagents](https://github.com/langchain-ai/deepagents) - 
+* 【2025-11-01】[google\-agentic\-commerce / AP2](https://github.com/google-agentic-commerce/AP2) - Building a Secure and Interoperable Future for AI\-Driven Payments 
+* 【2025-11-01】[stanford-cs336 / spring2025-lectures](https://github.com/stanford-cs336/spring2025-lectures) - 
 * 【2025-10-31】[Kludex / starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines  🌟
 * 【2025-10-31】[microsoft / Multi-Agent-Custom-Automation-Engine-Solution-Accelerator](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator) - The Multi-Agent Custom Automation Engine Solution Accelerator is an AI-driven system that manages a group of AI agents to accomplish tasks based on user input. Powered by Semantic Kernel, Azure Foundry, Azure Cosmos DB, and infrastructure services, it provides a reference application, allowing you to hit the ground running.
 * 【2025-10-31】[HKUDS / ViMax](https://github.com/HKUDS/ViMax) - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All\-in\-One)"
@@ -2576,6 +2582,9 @@
 
 ## Javascript
 
+* 【2025-11-01】[aldenhallak / fishes](https://github.com/aldenhallak/fishes) - 
+* 【2025-11-01】[xixu-me / Xget](https://github.com/xixu-me/Xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources whose performance far surpasses traditional accelerators, delivering a unified, efficient acceleration experience across multiple platforms | 超高性能、安全的一站式开发者资源加速引擎，其性能远超传统加速器，提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等
+* 【2025-11-01】[aunetx / blur\-my\-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
 * 【2025-10-29】[n00bcodr / Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience.
 * 【2025-10-28】[wangwangit / SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
 * 【2025-10-28】[gnmyt / MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days
@@ -4041,6 +4050,8 @@
 
 ## C++
 
+* 【2025-11-01】[mozilla\-ai / llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file 
+* 【2025-11-01】[Redot\-Engine / redot\-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi\-platform 2D and 3D game engine
 * 【2025-10-27】[SteamClientHomebrew / Millennium](https://github.com/SteamClientHomebrew/Millennium) - Apply themes/skins/customize Steam® after the 2023\-04\-27 Chromium UI update
 * 【2025-10-26】[futo\-org / android\-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab futo org/keyboard/latinime
 * 【2025-10-24】[fritzing / fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
@@ -4453,6 +4464,7 @@
 
 ## C#
 
+* 【2025-11-01】[builtbybel / FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
 * 【2025-10-31】[Achuan-2 / SlideSCI](https://github.com/Achuan-2/SlideSCI) - PPT plugin, supports one-click to add image titles, copy and paste positions, one-click image alignment, and one-click to insert Markdown (including bold, hyperlinks, and other inline styles, as well as code blocks, LaTeX, and other block-level styles)! PPT插件，支持一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级样式）、便捷导出图片！
 * 【2025-10-31】[jbogard / ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) - With Razor Pages
 * 【2025-10-23】[romanvht / ByeDPIManager](https://github.com/romanvht/ByeDPIManager) - Мини утилита для запуска ByeDPI + ProxiFyre под Windows
@@ -4908,6 +4920,7 @@
 
 ## Html
 
+* 【2025-11-01】[ranuts / document](https://github.com/ranuts/document) - Perform common file preview and editing via the web 
 * 【2025-10-31】[skindhu / Build-A-Large-Language-Model-CN](https://github.com/skindhu/Build-A-Large-Language-Model-CN) - 《Build a Large Language Model (From Scratch)》是一本深入探讨大语言模型原理与实现的电子书，适合希望深入了解 GPT 等大模型架构、训练过程及应用开发的学习者。为了让更多中文读者能够接触到这本极具价值的教材，我决定将其翻译成中文，并通过 GitHub 进行开源共享。
 * 【2025-10-30】[OCA / helpdesk](https://github.com/OCA/helpdesk) - Odoo modules for managing a HelpDesk system
 * 【2025-10-29】[IBM / AssetOpsBench](https://github.com/IBM/AssetOpsBench) - AssetOpsBench \- Industry 4 0
@@ -5443,6 +5456,7 @@
 
 ## Unknown
 
+* 【2025-11-01】[PCJones / usenet\-guide](https://github.com/PCJones/usenet-guide) - Ein deutscher Einsteiger\-Guide für das Usenet
 * 【2025-10-26】[mrsaeeddev / free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
 * 【2025-10-25】[wea\-f / ByePassHub](https://github.com/wea-f/ByePassHub) - 3500+ UNRESTRICTED unblockers, games, exploits, bookmarklets, and AI
 * 【2025-10-24】[MicrosoftDocs / mcp](https://github.com/MicrosoftDocs/mcp) - Official Microsoft Learn MCP Server – powering LLMs and AI agents with real\-time, trusted Microsoft docs & code samples 
@@ -6124,6 +6138,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-11-01】[lambdaclass / ethrex](https://github.com/lambdaclass/ethrex) - Minimalist, fast and modular implementation of the Ethereum protocol in Rust  L1 and L2 execution client 
 * 【2025-10-31】[Fredolx / open\-tv](https://github.com/Fredolx/open-tv) - Ultra\-fast, simple and powerful cross\-platform IPTV app
 * 【2025-10-30】[vrmiguel / pgpad](https://github.com/vrmiguel/pgpad) - [Work in progress] A small, fast cross\-platform database client
 * 【2025-10-30】[op-rs / kona](https://github.com/op-rs/kona) - Monorepo for OP Stack Types, Components, and Services built in Rust.
@@ -6959,6 +6974,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-11-01】[mg\-chao / snow\-shot](https://github.com/mg-chao/snow-shot) - 超好用的截图工具
 * 【2025-10-31】[firebase / firebase\-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
 * 【2025-10-31】[UfoMiao / zcf](https://github.com/UfoMiao/zcf) - Zero\-Config Code Flow for Claude code & Codex
 * 【2025-10-31】[truffle\-ai / dexto](https://github.com/truffle-ai/dexto) - The Intelligence Layer for AI agents  Connect your models, tools, and data to create agentic apps that can think, act and talk to you 
