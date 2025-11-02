@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-11-02】[get-convex / chef](https://github.com/get-convex/chef) - The only AI app builder that knows backend
+* 【2025-11-02】[suitenumerique / docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales  Built with Django and React 
 * 【2025-11-01】[Wei-Shaw / claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 * 【2025-10-30】[Beingpax / VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice\-to\-text app for macOS to transcribe what you say to text almost instantly
 * 【2025-10-29】[spipm / Depixelization_poc](https://github.com/spipm/Depixelization_poc) - Depix is a PoC for a technique to recover plaintext from pixelized screenshots 
@@ -1419,6 +1421,8 @@
 
 ## Python
 
+* 【2025-11-02】[unitreerobotics / unitree_rl_lab](https://github.com/unitreerobotics/unitree_rl_lab) - This is a repository for reinforcement learning implementation for Unitree robots, based on IsaacLab 
+* 【2025-11-02】[elliottech / lighter-python](https://github.com/elliottech/lighter-python) - Public Python SDK for Lighter
 * 【2025-11-01】[langchain\-ai / deepagents](https://github.com/langchain-ai/deepagents) - 
 * 【2025-11-01】[google\-agentic\-commerce / AP2](https://github.com/google-agentic-commerce/AP2) - Building a Secure and Interoperable Future for AI\-Driven Payments 
 * 【2025-11-01】[stanford-cs336 / spring2025-lectures](https://github.com/stanford-cs336/spring2025-lectures) - 
@@ -3650,6 +3654,7 @@
 
 ## C
 
+* 【2025-11-02】[drh / lcc](https://github.com/drh/lcc) - The lcc retargetable ANSI C compiler
 * 【2025-10-22】[duixcom / Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 * 【2025-10-21】[johnfanv2 / LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode 
 * 【2025-10-19】[DreamMaoMao / mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwl but no suckless)
@@ -4050,6 +4055,7 @@
 
 ## C++
 
+* 【2025-11-02】[mozilla-ai / llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 * 【2025-11-01】[mozilla\-ai / llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file 
 * 【2025-11-01】[Redot\-Engine / redot\-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi\-platform 2D and 3D game engine
 * 【2025-10-27】[SteamClientHomebrew / Millennium](https://github.com/SteamClientHomebrew/Millennium) - Apply themes/skins/customize Steam® after the 2023\-04\-27 Chromium UI update
@@ -5456,6 +5462,7 @@
 
 ## Unknown
 
+* 【2025-11-02】[seapear / AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) - A repository that helps users get affinity software working on GNU/Linux 🐧
 * 【2025-11-01】[PCJones / usenet\-guide](https://github.com/PCJones/usenet-guide) - Ein deutscher Einsteiger\-Guide für das Usenet
 * 【2025-10-26】[mrsaeeddev / free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
 * 【2025-10-25】[wea\-f / ByePassHub](https://github.com/wea-f/ByePassHub) - 3500+ UNRESTRICTED unblockers, games, exploits, bookmarklets, and AI
@@ -6974,6 +6981,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-11-02】[YILS\-LIN / short\-video\-factory](https://github.com/YILS-LIN/short-video-factory) - 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool
+* 【2025-11-02】[manaflow\-ai / cmux](https://github.com/manaflow-ai/cmux) - cmux lets you run Claude Code, Codex CLI, Amp, Gemini CLI, Cursor CLI, Opencode, and other coding agent CLIs in parallel across multiple tasks
+* 【2025-11-02】[richards199999 / Thinking\-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 * 【2025-11-01】[mg\-chao / snow\-shot](https://github.com/mg-chao/snow-shot) - 超好用的截图工具
 * 【2025-10-31】[firebase / firebase\-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
 * 【2025-10-31】[UfoMiao / zcf](https://github.com/UfoMiao/zcf) - Zero\-Config Code Flow for Claude code & Codex
