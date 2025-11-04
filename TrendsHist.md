@@ -3183,6 +3183,8 @@
 
 ## Go
 
+* 【2025-11-04】[raghavyuva / nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
+* 【2025-11-04】[qualifire-dev / rogue](https://github.com/qualifire-dev/rogue) - Agents testing framework made easy
 * 【2025-10-30】[trpc\-group / trpc\-agent\-go](https://github.com/trpc-group/trpc-agent-go) - trpc\-agent\-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools 
 * 【2025-10-30】[Tencent / WeKnora](https://github.com/Tencent/WeKnora) - LLM\-powered framework for deep document understanding, semantic retrieval, and context\-aware answers using RAG paradigm 
 * 【2025-10-28】[AlistGo / alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs  / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
@@ -3660,6 +3662,7 @@
 
 ## C
 
+* 【2025-11-04】[vtereshkov / umka\-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
 * 【2025-11-02】[drh / lcc](https://github.com/drh/lcc) - The lcc retargetable ANSI C compiler
 * 【2025-10-22】[duixcom / Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 * 【2025-10-21】[johnfanv2 / LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode 
@@ -4061,6 +4064,7 @@
 
 ## C++
 
+* 【2025-11-04】[PancakeTAS / lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
 * 【2025-11-02】[mozilla-ai / llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 * 【2025-11-01】[mozilla\-ai / llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file 
 * 【2025-11-01】[Redot\-Engine / redot\-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi\-platform 2D and 3D game engine
@@ -4476,6 +4480,7 @@
 
 ## C#
 
+* 【2025-11-04】[ZehsTeam / REPOLib](https://github.com/ZehsTeam/REPOLib) - Library for adding content to R E P O 
 * 【2025-11-01】[builtbybel / FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
 * 【2025-10-31】[Achuan-2 / SlideSCI](https://github.com/Achuan-2/SlideSCI) - PPT plugin, supports one-click to add image titles, copy and paste positions, one-click image alignment, and one-click to insert Markdown (including bold, hyperlinks, and other inline styles, as well as code blocks, LaTeX, and other block-level styles)! PPT插件，支持一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级样式）、便捷导出图片！
 * 【2025-10-31】[jbogard / ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) - With Razor Pages
@@ -6152,6 +6157,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-11-04】[charlotte\-os / Catten](https://github.com/charlotte-os/Catten) - The Kernel of CharlotteOS, An Experimental Modern Operating System
+* 【2025-11-04】[kaspanet / rusty-kaspa](https://github.com/kaspanet/rusty-kaspa) - Kaspa full-node reference implementation and related libraries in the Rust programming language
 * 【2025-11-01】[lambdaclass / ethrex](https://github.com/lambdaclass/ethrex) - Minimalist, fast and modular implementation of the Ethereum protocol in Rust  L1 and L2 execution client 
 * 【2025-10-31】[Fredolx / open\-tv](https://github.com/Fredolx/open-tv) - Ultra\-fast, simple and powerful cross\-platform IPTV app
 * 【2025-10-30】[vrmiguel / pgpad](https://github.com/vrmiguel/pgpad) - [Work in progress] A small, fast cross\-platform database client
@@ -6988,6 +6995,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-11-04】[hotovo / aider\-desk](https://github.com/hotovo/aider-desk) - Desktop application for Aider AI assistant and much more
+* 【2025-11-04】[tmoroney / auto\-subs](https://github.com/tmoroney/auto-subs) - Instantly generate AI\-powered subtitles on your device  Works standalone or connects to DaVinci Resolve 
+* 【2025-11-04】[mg-chao / snow-shot](https://github.com/mg-chao/snow-shot) - 超好用的截图工具
 * 【2025-11-03】[sst / opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 * 【2025-11-03】[smogon / pokemon\-showdown](https://github.com/smogon/pokemon-showdown) - Pokémon battle simulator 
 * 【2025-11-03】[waifu-project / movie](https://github.com/waifu-project/movie) - 小猫影视是一款全平台的影视播放器, 支持 VOD/JS 扩展源
