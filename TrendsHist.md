@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-11-05】[mudler / edgevpn](https://github.com/mudler/edgevpn) - ⛵ The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 * 【2025-11-03】[GeeeekExplorer / nano\-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 * 【2025-11-03】[moondevonyt / moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents) - autonomous ai agents for trading in python
 * 【2025-11-02】[get-convex / chef](https://github.com/get-convex/chef) - The only AI app builder that knows backend
@@ -3183,6 +3184,7 @@
 
 ## Go
 
+* 【2025-11-05】[ekristen / aws-nuke](https://github.com/ekristen/aws-nuke) - Remove all the resources from an AWS account
 * 【2025-11-04】[raghavyuva / nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
 * 【2025-11-04】[qualifire-dev / rogue](https://github.com/qualifire-dev/rogue) - Agents testing framework made easy
 * 【2025-10-30】[trpc\-group / trpc\-agent\-go](https://github.com/trpc-group/trpc-agent-go) - trpc\-agent\-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools 
@@ -3662,6 +3664,7 @@
 
 ## C
 
+* 【2025-11-05】[vtereshkov / umka-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
 * 【2025-11-04】[vtereshkov / umka\-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
 * 【2025-11-02】[drh / lcc](https://github.com/drh/lcc) - The lcc retargetable ANSI C compiler
 * 【2025-10-22】[duixcom / Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
@@ -4064,6 +4067,8 @@
 
 ## C++
 
+* 【2025-11-05】[jurplel / qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
+* 【2025-11-05】[pqrs\-org / Karabiner\-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner\-Elements is a powerful tool for customizing keyboards on macOS
 * 【2025-11-04】[PancakeTAS / lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
 * 【2025-11-02】[mozilla-ai / llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 * 【2025-11-01】[mozilla\-ai / llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file 
@@ -4480,6 +4485,7 @@
 
 ## C#
 
+* 【2025-11-05】[k1tbyte / Wemod-Patcher](https://github.com/k1tbyte/Wemod-Patcher) - Wand (WeMod) patcher allows you to get some Wand Pro features absolutely free
 * 【2025-11-04】[ZehsTeam / REPOLib](https://github.com/ZehsTeam/REPOLib) - Library for adding content to R E P O 
 * 【2025-11-01】[builtbybel / FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
 * 【2025-10-31】[Achuan-2 / SlideSCI](https://github.com/Achuan-2/SlideSCI) - PPT plugin, supports one-click to add image titles, copy and paste positions, one-click image alignment, and one-click to insert Markdown (including bold, hyperlinks, and other inline styles, as well as code blocks, LaTeX, and other block-level styles)! PPT插件，支持一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级样式）、便捷导出图片！
@@ -4937,6 +4943,7 @@
 
 ## Html
 
+* 【2025-11-05】[hillelkingqt / GeminiDesk](https://github.com/hillelkingqt/GeminiDesk) - An unofficial Electron\-based Gemini Desktop App for Google Gemini – clean, fast, and always accessible 
 * 【2025-11-03】[github / personal\-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer 
 * 【2025-11-01】[ranuts / document](https://github.com/ranuts/document) - Perform common file preview and editing via the web 
 * 【2025-10-31】[skindhu / Build-A-Large-Language-Model-CN](https://github.com/skindhu/Build-A-Large-Language-Model-CN) - 《Build a Large Language Model (From Scratch)》是一本深入探讨大语言模型原理与实现的电子书，适合希望深入了解 GPT 等大模型架构、训练过程及应用开发的学习者。为了让更多中文读者能够接触到这本极具价值的教材，我决定将其翻译成中文，并通过 GitHub 进行开源共享。
@@ -6995,6 +7002,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-11-05】[galacean / engine](https://github.com/galacean/engine) - A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF 
+* 【2025-11-05】[google / adk\-web](https://github.com/google/adk-web) - Agent Development Kit Web (adk web) is the built\-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging 
 * 【2025-11-04】[hotovo / aider\-desk](https://github.com/hotovo/aider-desk) - Desktop application for Aider AI assistant and much more
 * 【2025-11-04】[tmoroney / auto\-subs](https://github.com/tmoroney/auto-subs) - Instantly generate AI\-powered subtitles on your device  Works standalone or connects to DaVinci Resolve 
 * 【2025-11-04】[mg-chao / snow-shot](https://github.com/mg-chao/snow-shot) - 超好用的截图工具
