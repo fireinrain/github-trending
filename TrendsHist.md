@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-11-06】[GoogleCloudPlatform / vertex\-ai\-creative\-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) - GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud 
 * 【2025-11-05】[mudler / edgevpn](https://github.com/mudler/edgevpn) - ⛵ The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 * 【2025-11-03】[GeeeekExplorer / nano\-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 * 【2025-11-03】[moondevonyt / moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents) - autonomous ai agents for trading in python
@@ -2592,6 +2593,8 @@
 
 ## Javascript
 
+* 【2025-11-06】[firecrawl / firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
+* 【2025-11-06】[meodai / color\-names](https://github.com/meodai/color-names) - Large list of handpicked color names 🌈
 * 【2025-11-03】[reisxd / TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV 
 * 【2025-11-01】[aldenhallak / fishes](https://github.com/aldenhallak/fishes) - 
 * 【2025-11-01】[xixu-me / Xget](https://github.com/xixu-me/Xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources whose performance far surpasses traditional accelerators, delivering a unified, efficient acceleration experience across multiple platforms | 超高性能、安全的一站式开发者资源加速引擎，其性能远超传统加速器，提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等
@@ -4943,6 +4946,7 @@
 
 ## Html
 
+* 【2025-11-06】[LangbaseInc / langui](https://github.com/LangbaseInc/langui) - UI for your AI  Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects 
 * 【2025-11-05】[hillelkingqt / GeminiDesk](https://github.com/hillelkingqt/GeminiDesk) - An unofficial Electron\-based Gemini Desktop App for Google Gemini – clean, fast, and always accessible 
 * 【2025-11-03】[github / personal\-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer 
 * 【2025-11-01】[ranuts / document](https://github.com/ranuts/document) - Perform common file preview and editing via the web 
@@ -5481,6 +5485,8 @@
 
 ## Unknown
 
+* 【2025-11-06】[kakoni / awesome\-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources 
+* 【2025-11-06】[LLMQuant / quant-wiki](https://github.com/LLMQuant/quant-wiki) - We are committed to the open-sourcing quantitative knowledge, aiming to bridge the information gap between the domestic and international quantitative finance industries. 我们致力于量化知识的开源与汉化，打破国内外量化金融行业信息差。
 * 【2025-11-02】[seapear / AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) - A repository that helps users get affinity software working on GNU/Linux 🐧
 * 【2025-11-01】[PCJones / usenet\-guide](https://github.com/PCJones/usenet-guide) - Ein deutscher Einsteiger\-Guide für das Usenet
 * 【2025-10-26】[mrsaeeddev / free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
@@ -6164,6 +6170,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-11-06】[supabase / etl](https://github.com/supabase/etl) - Stream your Postgres data anywhere in real\-time  Simple Rust building blocks for change data capture (CDC) pipelines 
+* 【2025-11-06】[tensorchord / VectorChord](https://github.com/tensorchord/VectorChord) - Scalable, fast, and disk\-friendly vector search in Postgres, the successor of pgvecto rs 
+* 【2025-11-06】[lusingander / serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 * 【2025-11-04】[charlotte\-os / Catten](https://github.com/charlotte-os/Catten) - The Kernel of CharlotteOS, An Experimental Modern Operating System
 * 【2025-11-04】[kaspanet / rusty-kaspa](https://github.com/kaspanet/rusty-kaspa) - Kaspa full-node reference implementation and related libraries in the Rust programming language
 * 【2025-11-01】[lambdaclass / ethrex](https://github.com/lambdaclass/ethrex) - Minimalist, fast and modular implementation of the Ethereum protocol in Rust  L1 and L2 execution client 
@@ -7002,6 +7011,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-11-06】[modelcontextprotocol / quickstart\-resources](https://github.com/modelcontextprotocol/quickstart-resources) - A repository of servers and clients from the Model Context Protocol tutorials
 * 【2025-11-05】[galacean / engine](https://github.com/galacean/engine) - A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF 
 * 【2025-11-05】[google / adk\-web](https://github.com/google/adk-web) - Agent Development Kit Web (adk web) is the built\-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging 
 * 【2025-11-04】[hotovo / aider\-desk](https://github.com/hotovo/aider-desk) - Desktop application for Aider AI assistant and much more
