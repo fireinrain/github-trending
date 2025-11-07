@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-11-07】[ad\-on\-is / rachoon](https://github.com/ad-on-is/rachoon) - 🦝 Rachoon — A self\-hostable way to handle invoices
+* 【2025-11-07】[KotatsuApp / Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 * 【2025-11-06】[GoogleCloudPlatform / vertex\-ai\-creative\-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) - GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud 
 * 【2025-11-05】[mudler / edgevpn](https://github.com/mudler/edgevpn) - ⛵ The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 * 【2025-11-03】[GeeeekExplorer / nano\-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
@@ -1426,6 +1428,8 @@
 
 ## Python
 
+* 【2025-11-07】[usestrix / strix](https://github.com/usestrix/strix) - ✨ Open\-source AI hackers for your apps 👨🏻‍💻
+* 【2025-11-07】[TNTwise / REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 * 【2025-11-03】[GeeeekExplorer / nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 * 【2025-11-03】[Pipelex / pipelex](https://github.com/Pipelex/pipelex) - Pipelex: open\-source language for AI Agents to create and run repeatable AI workflows
 * 【2025-11-02】[unitreerobotics / unitree_rl_lab](https://github.com/unitreerobotics/unitree_rl_lab) - This is a repository for reinforcement learning implementation for Unitree robots, based on IsaacLab 
@@ -3187,6 +3191,7 @@
 
 ## Go
 
+* 【2025-11-07】[ayn2op / discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature\-rich Discord terminal (TUI) client 
 * 【2025-11-05】[ekristen / aws-nuke](https://github.com/ekristen/aws-nuke) - Remove all the resources from an AWS account
 * 【2025-11-04】[raghavyuva / nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
 * 【2025-11-04】[qualifire-dev / rogue](https://github.com/qualifire-dev/rogue) - Agents testing framework made easy
@@ -3667,6 +3672,7 @@
 
 ## C
 
+* 【2025-11-07】[xodiosx / XoDos](https://github.com/xodiosx/XoDos) - 
 * 【2025-11-05】[vtereshkov / umka-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
 * 【2025-11-04】[vtereshkov / umka\-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
 * 【2025-11-02】[drh / lcc](https://github.com/drh/lcc) - The lcc retargetable ANSI C compiler
@@ -4070,6 +4076,7 @@
 
 ## C++
 
+* 【2025-11-07】[stereolabs / zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper for the ZED SDK
 * 【2025-11-05】[jurplel / qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
 * 【2025-11-05】[pqrs\-org / Karabiner\-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner\-Elements is a powerful tool for customizing keyboards on macOS
 * 【2025-11-04】[PancakeTAS / lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
@@ -4488,6 +4495,7 @@
 
 ## C#
 
+* 【2025-11-07】[IAmParadox27 / jellyfin-plugin-home-sections](https://github.com/IAmParadox27/jellyfin-plugin-home-sections) - Add server provided home sections to your Jellyfin instance
 * 【2025-11-05】[k1tbyte / Wemod-Patcher](https://github.com/k1tbyte/Wemod-Patcher) - Wand (WeMod) patcher allows you to get some Wand Pro features absolutely free
 * 【2025-11-04】[ZehsTeam / REPOLib](https://github.com/ZehsTeam/REPOLib) - Library for adding content to R E P O 
 * 【2025-11-01】[builtbybel / FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
@@ -4946,6 +4954,8 @@
 
 ## Html
 
+* 【2025-11-07】[Max\-Eee / NeoPass](https://github.com/Max-Eee/NeoPass) - Your Essential Exam Companion for the Iamneo Portal & NPTEL Exams Disguised as NeoExamShield bypass
+* 【2025-11-07】[ovh / docs](https://github.com/ovh/docs) - Official repository containing all docs & guides of OVH Group
 * 【2025-11-06】[LangbaseInc / langui](https://github.com/LangbaseInc/langui) - UI for your AI  Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects 
 * 【2025-11-05】[hillelkingqt / GeminiDesk](https://github.com/hillelkingqt/GeminiDesk) - An unofficial Electron\-based Gemini Desktop App for Google Gemini – clean, fast, and always accessible 
 * 【2025-11-03】[github / personal\-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer 
@@ -5485,6 +5495,7 @@
 
 ## Unknown
 
+* 【2025-11-07】[reqable / reqable\-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 * 【2025-11-06】[kakoni / awesome\-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources 
 * 【2025-11-06】[LLMQuant / quant-wiki](https://github.com/LLMQuant/quant-wiki) - We are committed to the open-sourcing quantitative knowledge, aiming to bridge the information gap between the domestic and international quantitative finance industries. 我们致力于量化知识的开源与汉化，打破国内外量化金融行业信息差。
 * 【2025-11-02】[seapear / AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) - A repository that helps users get affinity software working on GNU/Linux 🐧
@@ -6170,6 +6181,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-11-07】[pythops / bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 * 【2025-11-06】[supabase / etl](https://github.com/supabase/etl) - Stream your Postgres data anywhere in real\-time  Simple Rust building blocks for change data capture (CDC) pipelines 
 * 【2025-11-06】[tensorchord / VectorChord](https://github.com/tensorchord/VectorChord) - Scalable, fast, and disk\-friendly vector search in Postgres, the successor of pgvecto rs 
 * 【2025-11-06】[lusingander / serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
@@ -7011,6 +7023,12 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-11-07】[ad-on-is / rachoon](https://github.com/ad-on-is/rachoon) - 🦝 Rachoon — A self-hostable way to handle invoices
+* 【2025-11-07】[microsoft / SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data 
+* 【2025-11-07】[homarr-labs / homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 30+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
+* 【2025-11-07】[hedgedoc / hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc \- Ideas grow better together
+* 【2025-11-07】[truffle-ai / dexto](https://github.com/truffle-ai/dexto) - The Intelligence Layer for AI agents. Connect your models, tools, and data to create agentic apps that can think, act and talk to you.
+* 【2025-11-07】[kottster / kottster](https://github.com/kottster/kottster) - Instant Node js admin panel  Secure, self\-hosted, and easy to set up
 * 【2025-11-06】[modelcontextprotocol / quickstart\-resources](https://github.com/modelcontextprotocol/quickstart-resources) - A repository of servers and clients from the Model Context Protocol tutorials
 * 【2025-11-05】[galacean / engine](https://github.com/galacean/engine) - A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF 
 * 【2025-11-05】[google / adk\-web](https://github.com/google/adk-web) - Agent Development Kit Web (adk web) is the built\-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging 
