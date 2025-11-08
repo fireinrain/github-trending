@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-11-08】[GoogleCloudPlatform / vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) - GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.
+* 【2025-11-08】[antiwork / gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
 * 【2025-11-07】[ad\-on\-is / rachoon](https://github.com/ad-on-is/rachoon) - 🦝 Rachoon — A self\-hostable way to handle invoices
 * 【2025-11-07】[KotatsuApp / Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
 * 【2025-11-06】[GoogleCloudPlatform / vertex\-ai\-creative\-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) - GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud 
@@ -1428,6 +1430,9 @@
 
 ## Python
 
+* 【2025-11-08】[droidrun / droidrun](https://github.com/droidrun/droidrun) - 
+* 【2025-11-08】[JerBouma / FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300 000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets 
+* 【2025-11-08】[langchain\-ai / langgraph\-swarm\-py](https://github.com/langchain-ai/langgraph-swarm-py) - For your multi\-agent needs
 * 【2025-11-07】[usestrix / strix](https://github.com/usestrix/strix) - ✨ Open\-source AI hackers for your apps 👨🏻‍💻
 * 【2025-11-07】[TNTwise / REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 * 【2025-11-03】[GeeeekExplorer / nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
@@ -4076,6 +4081,7 @@
 
 ## C++
 
+* 【2025-11-08】[nndeploy / nndeploy](https://github.com/nndeploy/nndeploy) - 一款简单易用和高性能的AI部署框架 \| An Easy\-to\-Use and High\-Performance AI Deployment Framework
 * 【2025-11-07】[stereolabs / zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper for the ZED SDK
 * 【2025-11-05】[jurplel / qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
 * 【2025-11-05】[pqrs\-org / Karabiner\-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner\-Elements is a powerful tool for customizing keyboards on macOS
@@ -5495,6 +5501,7 @@
 
 ## Unknown
 
+* 【2025-11-08】[MoonshotAI / Kimi\-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 * 【2025-11-07】[reqable / reqable\-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 * 【2025-11-06】[kakoni / awesome\-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources 
 * 【2025-11-06】[LLMQuant / quant-wiki](https://github.com/LLMQuant/quant-wiki) - We are committed to the open-sourcing quantitative knowledge, aiming to bridge the information gap between the domestic and international quantitative finance industries. 我们致力于量化知识的开源与汉化，打破国内外量化金融行业信息差。
@@ -7023,6 +7030,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-11-08】[ytmdesktop / ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
+* 【2025-11-08】[langchain\-ai / deepagentsjs](https://github.com/langchain-ai/deepagentsjs) - Deep Agents in JS
 * 【2025-11-07】[ad-on-is / rachoon](https://github.com/ad-on-is/rachoon) - 🦝 Rachoon — A self-hostable way to handle invoices
 * 【2025-11-07】[microsoft / SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data 
 * 【2025-11-07】[homarr-labs / homarr](https://github.com/homarr-labs/homarr) - A modern and easy to use dashboard. 30+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.
