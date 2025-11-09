@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-11-09】[TodePond / GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
+* 【2025-11-09】[thinking-machines-lab / tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker
+* 【2025-11-09】[jamwithai / arxiv\-paper\-curator](https://github.com/jamwithai/arxiv-paper-curator) - 
 * 【2025-11-08】[GoogleCloudPlatform / vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) - GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.
 * 【2025-11-08】[antiwork / gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
 * 【2025-11-07】[ad\-on\-is / rachoon](https://github.com/ad-on-is/rachoon) - 🦝 Rachoon — A self\-hostable way to handle invoices
@@ -1430,6 +1433,9 @@
 
 ## Python
 
+* 【2025-11-09】[jamwithai / arxiv-paper-curator](https://github.com/jamwithai/arxiv-paper-curator) - 
+* 【2025-11-09】[google\-deepmind / mujoco_menagerie](https://github.com/google-deepmind/mujoco_menagerie) - A collection of high\-quality models for the MuJoCo physics engine, curated by Google DeepMind 
+* 【2025-11-09】[AI\-Hypercomputer / maxtext](https://github.com/AI-Hypercomputer/maxtext) - A simple, performant and scalable Jax LLM!
 * 【2025-11-08】[droidrun / droidrun](https://github.com/droidrun/droidrun) - 
 * 【2025-11-08】[JerBouma / FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300 000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets 
 * 【2025-11-08】[langchain\-ai / langgraph\-swarm\-py](https://github.com/langchain-ai/langgraph-swarm-py) - For your multi\-agent needs
@@ -2602,6 +2608,7 @@
 
 ## Javascript
 
+* 【2025-11-09】[leukipp / touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e g  Raspberry Pi) with Touch Display 
 * 【2025-11-06】[firecrawl / firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 * 【2025-11-06】[meodai / color\-names](https://github.com/meodai/color-names) - Large list of handpicked color names 🌈
 * 【2025-11-03】[reisxd / TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV 
@@ -3196,6 +3203,9 @@
 
 ## Go
 
+* 【2025-11-09】[google / adk\-go](https://github.com/google/adk-go) - An open\-source, code\-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control 
+* 【2025-11-09】[coze\-dev / coze\-loop](https://github.com/coze-dev/coze-loop) - Next\-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full\-lifecycle management capabilities from development, debugging, and evaluation to monitoring 
+* 【2025-11-09】[beclab / Olares](https://github.com/beclab/Olares) - Olares: An Open\-Source Personal Cloud to Reclaim Your Data
 * 【2025-11-07】[ayn2op / discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature\-rich Discord terminal (TUI) client 
 * 【2025-11-05】[ekristen / aws-nuke](https://github.com/ekristen/aws-nuke) - Remove all the resources from an AWS account
 * 【2025-11-04】[raghavyuva / nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
@@ -5501,6 +5511,8 @@
 
 ## Unknown
 
+* 【2025-11-09】[MoonshotAI / Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
+* 【2025-11-09】[Lets\-DevOps / awesome\-learning](https://github.com/Lets-DevOps/awesome-learning) - A curated list for DevOps learning resources  Join the slack channel to discuss more 
 * 【2025-11-08】[MoonshotAI / Kimi\-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 * 【2025-11-07】[reqable / reqable\-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 * 【2025-11-06】[kakoni / awesome\-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources 
@@ -6188,6 +6200,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-11-09】[zensical / zensical](https://github.com/zensical/zensical) - A modern static site generator by the creators of Material for MkDocs
 * 【2025-11-07】[pythops / bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 * 【2025-11-06】[supabase / etl](https://github.com/supabase/etl) - Stream your Postgres data anywhere in real\-time  Simple Rust building blocks for change data capture (CDC) pipelines 
 * 【2025-11-06】[tensorchord / VectorChord](https://github.com/tensorchord/VectorChord) - Scalable, fast, and disk\-friendly vector search in Postgres, the successor of pgvecto rs 
@@ -7030,6 +7043,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-11-09】[farion1231 / cc\-switch](https://github.com/farion1231/cc-switch) - A cross\-platform desktop app for managing and switching provider configurations & MCP servers for Claude Code and Codex 
 * 【2025-11-08】[ytmdesktop / ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 * 【2025-11-08】[langchain\-ai / deepagentsjs](https://github.com/langchain-ai/deepagentsjs) - Deep Agents in JS
 * 【2025-11-07】[ad-on-is / rachoon](https://github.com/ad-on-is/rachoon) - 🦝 Rachoon — A self-hostable way to handle invoices
