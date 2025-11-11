@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-11-11】[lzhoang2801 / OpCore\-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI
+* 【2025-11-11】[microsoft / call\-center\-ai](https://github.com/microsoft/call-center-ai) - Send a phone call from AI agent, in an API call  Or, directly call the bot from the configured phone number!
+* 【2025-11-11】[opencloud\-eu / opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️This is the main repository of the OpenCloud server  It contains the golang codebase for the backend services 
 * 【2025-11-10】[google / adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 * 【2025-11-10】[HyDE\-Project / HyDE](https://github.com/HyDE-Project/HyDE) - HyDE, your Development Environment 🖥️💻
 * 【2025-11-09】[TodePond / GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
@@ -1054,6 +1057,8 @@
 
 ## Java
 
+* 【2025-11-11】[Jigsaw-Code / Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS-over-HTTPS services on Android
+* 【2025-11-11】[JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 * 【2025-11-03】[typetools / checker\-framework](https://github.com/typetools/checker-framework) - Pluggable type\-checking for Java
 * 【2025-11-01】[Tosencen / XMBOX](https://github.com/Tosencen/XMBOX) - 一个看片儿的空盒子软件，需自行配置源
 * 【2025-11-01】[unicode-org / cldr](https://github.com/unicode-org/cldr) - The home of the Unicode Common Locale Data Repository
@@ -1435,6 +1440,8 @@
 
 ## Python
 
+* 【2025-11-11】[lzhoang2801 / OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI
+* 【2025-11-11】[microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) - Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
 * 【2025-11-10】[OpenHands / OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 * 【2025-11-10】[AI-Hypercomputer / maxtext](https://github.com/AI-Hypercomputer/maxtext) - A simple, performant and scalable Jax LLM!
 * 【2025-11-10】[mozilla\-ai / any\-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface
@@ -2613,6 +2620,9 @@
 
 ## Javascript
 
+* 【2025-11-11】[hotheadhacker / no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
+* 【2025-11-11】[marko\-js / marko](https://github.com/marko-js/marko) - A declarative, HTML\-based language that makes building web apps fun
+* 【2025-11-11】[Stremio / stremio\-addon\-sdk](https://github.com/Stremio/stremio-addon-sdk) - 🧙 A Node js SDK for creating and publishing Stremio add\-ons
 * 【2025-11-10】[kanoqwq / UFI\-TOOLS](https://github.com/kanoqwq/UFI-TOOLS) - A functional tools for zte devices (F50 \| U30 Air)
 * 【2025-11-09】[leukipp / touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e g  Raspberry Pi) with Touch Display 
 * 【2025-11-06】[firecrawl / firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
@@ -3209,6 +3219,7 @@
 
 ## Go
 
+* 【2025-11-11】[opencloud-eu / opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
 * 【2025-11-10】[kimdre / doco\-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 * 【2025-11-09】[google / adk\-go](https://github.com/google/adk-go) - An open\-source, code\-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control 
 * 【2025-11-09】[coze\-dev / coze\-loop](https://github.com/coze-dev/coze-loop) - Next\-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full\-lifecycle management capabilities from development, debugging, and evaluation to monitoring 
@@ -4099,6 +4110,8 @@
 
 ## C++
 
+* 【2025-11-11】[WiVRn / WiVRn](https://github.com/WiVRn/WiVRn) - The Linux OpenXR streaming application to standalone headsets
+* 【2025-11-11】[TheAssassin / AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 * 【2025-11-08】[nndeploy / nndeploy](https://github.com/nndeploy/nndeploy) - 一款简单易用和高性能的AI部署框架 \| An Easy\-to\-Use and High\-Performance AI Deployment Framework
 * 【2025-11-07】[stereolabs / zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper for the ZED SDK
 * 【2025-11-05】[jurplel / qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
@@ -4519,6 +4532,7 @@
 
 ## C#
 
+* 【2025-11-11】[genaray / Arch](https://github.com/genaray/Arch) - A high\-performance C\# based Archetype & Chunks Entity Component System (ECS) with optional multithreading 
 * 【2025-11-07】[IAmParadox27 / jellyfin-plugin-home-sections](https://github.com/IAmParadox27/jellyfin-plugin-home-sections) - Add server provided home sections to your Jellyfin instance
 * 【2025-11-05】[k1tbyte / Wemod-Patcher](https://github.com/k1tbyte/Wemod-Patcher) - Wand (WeMod) patcher allows you to get some Wand Pro features absolutely free
 * 【2025-11-04】[ZehsTeam / REPOLib](https://github.com/ZehsTeam/REPOLib) - Library for adding content to R E P O 
@@ -6209,6 +6223,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-11-11】[regolith\-labs / ore](https://github.com/regolith-labs/ore) - It's time to mine 
+* 【2025-11-11】[UwUDev / ygege](https://github.com/UwUDev/ygege) - High\-performance indexer for YGG Torrent written in Rust
 * 【2025-11-09】[zensical / zensical](https://github.com/zensical/zensical) - A modern static site generator by the creators of Material for MkDocs
 * 【2025-11-07】[pythops / bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 * 【2025-11-06】[supabase / etl](https://github.com/supabase/etl) - Stream your Postgres data anywhere in real\-time  Simple Rust building blocks for change data capture (CDC) pipelines 
