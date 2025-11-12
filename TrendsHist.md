@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-11-12】[serverless-dns / serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
+* 【2025-11-12】[google / adk-web](https://github.com/google/adk-web) - Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging.
+* 【2025-11-12】[WICG / email\-verification\-protocol](https://github.com/WICG/email-verification-protocol) - verified autofill
 * 【2025-11-11】[lzhoang2801 / OpCore\-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI
 * 【2025-11-11】[microsoft / call\-center\-ai](https://github.com/microsoft/call-center-ai) - Send a phone call from AI agent, in an API call  Or, directly call the bot from the configured phone number!
 * 【2025-11-11】[opencloud\-eu / opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️This is the main repository of the OpenCloud server  It contains the golang codebase for the backend services 
@@ -1057,6 +1060,7 @@
 
 ## Java
 
+* 【2025-11-12】[bancika / diy\-layout\-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
 * 【2025-11-11】[Jigsaw-Code / Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS-over-HTTPS services on Android
 * 【2025-11-11】[JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 * 【2025-11-03】[typetools / checker\-framework](https://github.com/typetools/checker-framework) - Pluggable type\-checking for Java
@@ -1440,6 +1444,8 @@
 
 ## Python
 
+* 【2025-11-12】[GibsonAI / Memori](https://github.com/GibsonAI/Memori) - Open\-Source Memory Engine for LLMs, AI Agents & Multi\-Agent Systems
+* 【2025-11-12】[alibaba / ROLL](https://github.com/alibaba/ROLL) - An Efficient and User\-Friendly Scaling Library for Reinforcement Learning with Large Language Models
 * 【2025-11-11】[lzhoang2801 / OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI
 * 【2025-11-11】[microsoft / call-center-ai](https://github.com/microsoft/call-center-ai) - Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
 * 【2025-11-10】[OpenHands / OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -4110,6 +4116,8 @@
 
 ## C++
 
+* 【2025-11-12】[perspective\-dev / perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well\-suited for large and/or streaming datasets 
+* 【2025-11-12】[NVIDIA / CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) - CUDA Library Samples
 * 【2025-11-11】[WiVRn / WiVRn](https://github.com/WiVRn/WiVRn) - The Linux OpenXR streaming application to standalone headsets
 * 【2025-11-11】[TheAssassin / AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 * 【2025-11-08】[nndeploy / nndeploy](https://github.com/nndeploy/nndeploy) - 一款简单易用和高性能的AI部署框架 \| An Easy\-to\-Use and High\-Performance AI Deployment Framework
@@ -4532,6 +4540,7 @@
 
 ## C#
 
+* 【2025-11-12】[lingarr\-translate / lingarr](https://github.com/lingarr-translate/lingarr) - Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language  With automated translation options, Lingarr simplifies translating subtitles 
 * 【2025-11-11】[genaray / Arch](https://github.com/genaray/Arch) - A high\-performance C\# based Archetype & Chunks Entity Component System (ECS) with optional multithreading 
 * 【2025-11-07】[IAmParadox27 / jellyfin-plugin-home-sections](https://github.com/IAmParadox27/jellyfin-plugin-home-sections) - Add server provided home sections to your Jellyfin instance
 * 【2025-11-05】[k1tbyte / Wemod-Patcher](https://github.com/k1tbyte/Wemod-Patcher) - Wand (WeMod) patcher allows you to get some Wand Pro features absolutely free
@@ -5533,6 +5542,8 @@
 
 ## Unknown
 
+* 【2025-11-12】[WICG / email-verification-protocol](https://github.com/WICG/email-verification-protocol) - verified autofill
+* 【2025-11-12】[datawhalechina / team\-learning](https://github.com/datawhalechina/team-learning) - 主要展示Datawhale的组队学习计划。
 * 【2025-11-10】[bobeff / open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 * 【2025-11-09】[MoonshotAI / Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 * 【2025-11-09】[Lets\-DevOps / awesome\-learning](https://github.com/Lets-DevOps/awesome-learning) - A curated list for DevOps learning resources  Join the slack channel to discuss more 
@@ -6223,6 +6234,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-11-12】[regolith-labs / ore](https://github.com/regolith-labs/ore) - It's time to mine.
 * 【2025-11-11】[regolith\-labs / ore](https://github.com/regolith-labs/ore) - It's time to mine 
 * 【2025-11-11】[UwUDev / ygege](https://github.com/UwUDev/ygege) - High\-performance indexer for YGG Torrent written in Rust
 * 【2025-11-09】[zensical / zensical](https://github.com/zensical/zensical) - A modern static site generator by the creators of Material for MkDocs
@@ -7068,6 +7080,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-11-12】[iOfficeAI / AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open\-source GUI app for Gemini CLI — Better Chat UI, Multi\-agent, Multi\-LLMs & apikey polling, Workspace, MCP, Remote WebUi Mode & more \| 🌟 Star if you like it!
 * 【2025-11-10】[farion1231 / cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop app for managing and switching provider configurations & MCP servers for Claude Code and Codex.
 * 【2025-11-10】[chrisbenincasa / tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media \- IPTV backed by Plex/Jellyfin/Emby
 * 【2025-11-09】[farion1231 / cc\-switch](https://github.com/farion1231/cc-switch) - A cross\-platform desktop app for managing and switching provider configurations & MCP servers for Claude Code and Codex 
