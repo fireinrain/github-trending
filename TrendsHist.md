@@ -1444,6 +1444,8 @@
 
 ## Python
 
+* 【2025-11-13】[googlefonts / googlesans\-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
+* 【2025-11-13】[google-agentic-commerce / AP2](https://github.com/google-agentic-commerce/AP2) - Building a Secure and Interoperable Future for AI-Driven Payments.
 * 【2025-11-12】[GibsonAI / Memori](https://github.com/GibsonAI/Memori) - Open\-Source Memory Engine for LLMs, AI Agents & Multi\-Agent Systems
 * 【2025-11-12】[alibaba / ROLL](https://github.com/alibaba/ROLL) - An Efficient and User\-Friendly Scaling Library for Reinforcement Learning with Large Language Models
 * 【2025-11-11】[lzhoang2801 / OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI
@@ -4116,6 +4118,8 @@
 
 ## C++
 
+* 【2025-11-13】[nst / JSONTestSuite](https://github.com/nst/JSONTestSuite) - A comprehensive test suite for RFC 8259 compliant JSON parsers
+* 【2025-11-13】[perspective-dev / perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 * 【2025-11-12】[perspective\-dev / perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well\-suited for large and/or streaming datasets 
 * 【2025-11-12】[NVIDIA / CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) - CUDA Library Samples
 * 【2025-11-11】[WiVRn / WiVRn](https://github.com/WiVRn/WiVRn) - The Linux OpenXR streaming application to standalone headsets
