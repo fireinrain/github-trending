@@ -1444,6 +1444,7 @@
 
 ## Python
 
+* 【2025-11-14】[googlefonts / googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
 * 【2025-11-13】[googlefonts / googlesans\-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
 * 【2025-11-13】[google-agentic-commerce / AP2](https://github.com/google-agentic-commerce/AP2) - Building a Secure and Interoperable Future for AI-Driven Payments.
 * 【2025-11-12】[GibsonAI / Memori](https://github.com/GibsonAI/Memori) - Open\-Source Memory Engine for LLMs, AI Agents & Multi\-Agent Systems
