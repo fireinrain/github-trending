@@ -1444,6 +1444,7 @@
 
 ## Python
 
+* 【2025-11-15】[RLinf / RLinf](https://github.com/RLinf/RLinf) - RLinf is a flexible and scalable open\-source infrastructure designed for post\-training foundation models (LLMs, VLMs, VLAs) via reinforcement learning 
 * 【2025-11-14】[googlefonts / googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
 * 【2025-11-13】[googlefonts / googlesans\-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
 * 【2025-11-13】[google-agentic-commerce / AP2](https://github.com/google-agentic-commerce/AP2) - Building a Secure and Interoperable Future for AI-Driven Payments.
