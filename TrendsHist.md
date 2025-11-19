@@ -4546,6 +4546,7 @@
 
 ## C#
 
+* 【2025-11-19】[qq362946 / Fantasy](https://github.com/qq362946/Fantasy) - C \# Game Framework, but not limited to games  Can be used for non game business development
 * 【2025-11-12】[lingarr\-translate / lingarr](https://github.com/lingarr-translate/lingarr) - Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language  With automated translation options, Lingarr simplifies translating subtitles 
 * 【2025-11-11】[genaray / Arch](https://github.com/genaray/Arch) - A high\-performance C\# based Archetype & Chunks Entity Component System (ECS) with optional multithreading 
 * 【2025-11-07】[IAmParadox27 / jellyfin-plugin-home-sections](https://github.com/IAmParadox27/jellyfin-plugin-home-sections) - Add server provided home sections to your Jellyfin instance
