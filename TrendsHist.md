@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-12-03】[MemoriLabs / Memori](https://github.com/MemoriLabs/Memori) - Open\-Source Memory Engine for LLMs, AI Agents & Multi\-Agent Systems
 * 【2025-11-12】[serverless-dns / serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 * 【2025-11-12】[google / adk-web](https://github.com/google/adk-web) - Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging.
 * 【2025-11-12】[WICG / email\-verification\-protocol](https://github.com/WICG/email-verification-protocol) - verified autofill
