@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-12-05】[basecamp / fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be  Not as it has been 
+* 【2025-12-05】[DayuanJiang / next\-ai\-draw\-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next js web application that integrates AI capabilities with draw io diagrams  This app allows you to create, modify, and enhance diagrams through natural language commands and AI\-assisted visualization 
+* 【2025-12-05】[wshobson / agents](https://github.com/wshobson/agents) - Intelligent automation and multi\-agent orchestration for Claude Code
 * 【2025-12-03】[MemoriLabs / Memori](https://github.com/MemoriLabs/Memori) - Open\-Source Memory Engine for LLMs, AI Agents & Multi\-Agent Systems
 * 【2025-11-12】[serverless-dns / serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 * 【2025-11-12】[google / adk-web](https://github.com/google/adk-web) - Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging.
@@ -1445,6 +1448,7 @@
 
 ## Python
 
+* 【2025-12-05】[zhu\-xlab / GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) - 
 * 【2025-11-26】[langbot-app / LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots / 生产级即时通信机器人开发平台. Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Google Gemini, Nano Banana, Kimi, PPIO, Ollama, MiniMax, SiliconFlow, Qwen, Moonshot, MCP etc. LLM & Agent & RAG
 * 【2025-11-25】[langbot\-app / LangBot](https://github.com/langbot-app/LangBot) - Production\-grade platform for building IM bots / 生产级即时通信机器人开发平台  Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack e g  Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Google Gemini, Nano Banana, Kimi, PPIO, Ollama, MiniMax, SiliconFlow, Qwen, Moonshot, MCP etc  LLM & Agent & RAG
 * 【2025-11-15】[RLinf / RLinf](https://github.com/RLinf/RLinf) - RLinf is a flexible and scalable open\-source infrastructure designed for post\-training foundation models (LLMs, VLMs, VLAs) via reinforcement learning 
@@ -2633,6 +2637,7 @@
 
 ## Javascript
 
+* 【2025-12-05】[ollm / OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node js and using Electron
 * 【2025-11-11】[hotheadhacker / no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 * 【2025-11-11】[marko\-js / marko](https://github.com/marko-js/marko) - A declarative, HTML\-based language that makes building web apps fun
 * 【2025-11-11】[Stremio / stremio\-addon\-sdk](https://github.com/Stremio/stremio-addon-sdk) - 🧙 A Node js SDK for creating and publishing Stremio add\-ons
@@ -3718,6 +3723,7 @@
 
 ## C
 
+* 【2025-12-05】[coredevices / PebbleOS](https://github.com/coredevices/PebbleOS) - 
 * 【2025-11-10】[NMminer1024 / NMMiner](https://github.com/NMminer1024/NMMiner) - A tiny BTC miner base on esp32 series，I'd rather call it BTC lottery
 * 【2025-11-07】[xodiosx / XoDos](https://github.com/xodiosx/XoDos) - 
 * 【2025-11-05】[vtereshkov / umka-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
@@ -4123,6 +4129,7 @@
 
 ## C++
 
+* 【2025-12-05】[uxlfoundation / oneDNN](https://github.com/uxlfoundation/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 * 【2025-11-13】[nst / JSONTestSuite](https://github.com/nst/JSONTestSuite) - A comprehensive test suite for RFC 8259 compliant JSON parsers
 * 【2025-11-13】[perspective-dev / perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 * 【2025-11-12】[perspective\-dev / perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well\-suited for large and/or streaming datasets 
@@ -5011,6 +5018,7 @@
 
 ## Html
 
+* 【2025-12-05】[murtaza\-nasir / speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self\-hosted web application designed for transcribing audio recordings
 * 【2025-12-01】[joyce677 / TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用
 * 【2025-11-07】[Max\-Eee / NeoPass](https://github.com/Max-Eee/NeoPass) - Your Essential Exam Companion for the Iamneo Portal & NPTEL Exams Disguised as NeoExamShield bypass
 * 【2025-11-07】[ovh / docs](https://github.com/ovh/docs) - Official repository containing all docs & guides of OVH Group
@@ -6245,6 +6253,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-12-05】[pamburus / hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human\-readable format 
+* 【2025-12-05】[cfal / shoes](https://github.com/cfal/shoes) - A multi\-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snell, Hysteria2, TUIC v5)
+* 【2025-12-05】[yuezk / GlobalProtect\-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc 
 * 【2025-11-12】[regolith-labs / ore](https://github.com/regolith-labs/ore) - It's time to mine.
 * 【2025-11-11】[regolith\-labs / ore](https://github.com/regolith-labs/ore) - It's time to mine 
 * 【2025-11-11】[UwUDev / ygege](https://github.com/UwUDev/ygege) - High\-performance indexer for YGG Torrent written in Rust
@@ -7091,6 +7102,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-12-05】[DayuanJiang / next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+* 【2025-12-05】[actions / upload\-artifact](https://github.com/actions/upload-artifact) - 
+* 【2025-12-05】[vercel / streamdown](https://github.com/vercel/streamdown) - A drop\-in replacement for react\-markdown, designed for AI\-powered streaming 
+* 【2025-12-05】[ConduitPlatform / Conduit](https://github.com/ConduitPlatform/Conduit) - Batteries\-included backend that works with any stack 
 * 【2025-11-12】[iOfficeAI / AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open\-source GUI app for Gemini CLI — Better Chat UI, Multi\-agent, Multi\-LLMs & apikey polling, Workspace, MCP, Remote WebUi Mode & more \| 🌟 Star if you like it!
 * 【2025-11-10】[farion1231 / cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop app for managing and switching provider configurations & MCP servers for Claude Code and Codex.
 * 【2025-11-10】[chrisbenincasa / tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media \- IPTV backed by Plex/Jellyfin/Emby
