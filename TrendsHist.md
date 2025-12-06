@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-12-06】[sinelaw / fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
+* 【2025-12-06】[microsoft / VibeVoice](https://github.com/microsoft/VibeVoice) - Open\-Source Frontier Voice AI
 * 【2025-12-05】[basecamp / fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be  Not as it has been 
 * 【2025-12-05】[DayuanJiang / next\-ai\-draw\-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next js web application that integrates AI capabilities with draw io diagrams  This app allows you to create, modify, and enhance diagrams through natural language commands and AI\-assisted visualization 
 * 【2025-12-05】[wshobson / agents](https://github.com/wshobson/agents) - Intelligent automation and multi\-agent orchestration for Claude Code
@@ -1448,6 +1450,11 @@
 
 ## Python
 
+* 【2025-12-06】[ModelTC / LightX2V](https://github.com/ModelTC/LightX2V) - Light Video Generation Inference Framework
+* 【2025-12-06】[fastapi\-practices / fastapi_best_architecture](https://github.com/fastapi-practices/fastapi_best_architecture) - 基于 FastAPI 构建的企业级后端架构解决方案
+* 【2025-12-06】[RosettaCommons / foundry](https://github.com/RosettaCommons/foundry) - Central repository for biomolecular foundation models with shared trainers and pipeline components
+* 【2025-12-06】[github / spec\-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec\-Driven Development
+* 【2025-12-06】[zhu-xlab / GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) - 
 * 【2025-12-05】[zhu\-xlab / GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) - 
 * 【2025-11-26】[langbot-app / LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots / 生产级即时通信机器人开发平台. Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Google Gemini, Nano Banana, Kimi, PPIO, Ollama, MiniMax, SiliconFlow, Qwen, Moonshot, MCP etc. LLM & Agent & RAG
 * 【2025-11-25】[langbot\-app / LangBot](https://github.com/langbot-app/LangBot) - Production\-grade platform for building IM bots / 生产级即时通信机器人开发平台  Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack e g  Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Google Gemini, Nano Banana, Kimi, PPIO, Ollama, MiniMax, SiliconFlow, Qwen, Moonshot, MCP etc  LLM & Agent & RAG
@@ -3723,6 +3730,7 @@
 
 ## C
 
+* 【2025-12-06】[stackia / rtp2httpd](https://github.com/stackia/rtp2httpd) - Multicast RTP/RTSP to Unicast HTTP stream converter, optimized for China IPTV
 * 【2025-12-05】[coredevices / PebbleOS](https://github.com/coredevices/PebbleOS) - 
 * 【2025-11-10】[NMminer1024 / NMMiner](https://github.com/NMminer1024/NMMiner) - A tiny BTC miner base on esp32 series，I'd rather call it BTC lottery
 * 【2025-11-07】[xodiosx / XoDos](https://github.com/xodiosx/XoDos) - 
@@ -4129,6 +4137,7 @@
 
 ## C++
 
+* 【2025-12-06】[royshil / obs\-localvocal](https://github.com/royshil/obs-localvocal) - OBS plugin for local speech recognition and captioning using AI
 * 【2025-12-05】[uxlfoundation / oneDNN](https://github.com/uxlfoundation/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 * 【2025-11-13】[nst / JSONTestSuite](https://github.com/nst/JSONTestSuite) - A comprehensive test suite for RFC 8259 compliant JSON parsers
 * 【2025-11-13】[perspective-dev / perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
@@ -7102,6 +7111,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-12-06】[opactorai / Claudable](https://github.com/opactorai/Claudable) - Claudable is an open\-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly 
+* 【2025-12-06】[reconurge / flowsint](https://github.com/reconurge/flowsint) - A modern platform for visual, flexible, and extensible graph\-based investigations  For cybersecurity analysts and investigators 
 * 【2025-12-05】[DayuanJiang / next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
 * 【2025-12-05】[actions / upload\-artifact](https://github.com/actions/upload-artifact) - 
 * 【2025-12-05】[vercel / streamdown](https://github.com/vercel/streamdown) - A drop\-in replacement for react\-markdown, designed for AI\-powered streaming 
