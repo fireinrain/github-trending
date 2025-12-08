@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-12-08】[NVIDIA / cutile\-python](https://github.com/NVIDIA/cutile-python) - cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
+* 【2025-12-08】[BeehiveInnovations / pal\-mcp\-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one 
 * 【2025-12-07】[anthropics / claude\-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 * 【2025-12-06】[sinelaw / fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
 * 【2025-12-06】[microsoft / VibeVoice](https://github.com/microsoft/VibeVoice) - Open\-Source Frontier Voice AI
@@ -1067,6 +1069,7 @@
 
 ## Java
 
+* 【2025-12-08】[google / tsunami\-security\-scanner\-plugins](https://github.com/google/tsunami-security-scanner-plugins) - This project aims to provide a central repository for many useful Tsunami Security Scanner plugins 
 * 【2025-12-07】[1Panel\-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 🔥 新一代的开源 AI CRM 系统。An open\-source AI CRM alternative to Salesforce 
 * 【2025-11-12】[bancika / diy\-layout\-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
 * 【2025-11-11】[Jigsaw-Code / Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS-over-HTTPS services on Android
@@ -1452,6 +1455,9 @@
 
 ## Python
 
+* 【2025-12-08】[NVIDIA / cutile-python](https://github.com/NVIDIA/cutile-python) - cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
+* 【2025-12-08】[BeehiveInnovations / pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+* 【2025-12-08】[DigitalPhonetics / IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - Controllable and fast Text-to-Speech for over 7000 languages!
 * 【2025-12-07】[anthropics / claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 * 【2025-12-07】[qxresearch / qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python hands on tutorial with 50+ Python Application (10 lines of code) By @xiaowuc2
 * 【2025-12-06】[ModelTC / LightX2V](https://github.com/ModelTC/LightX2V) - Light Video Generation Inference Framework
@@ -4572,6 +4578,8 @@
 
 ## C#
 
+* 【2025-12-08】[memstechtips / Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience 
+* 【2025-12-08】[cagritaskn / SplitWire\-Turkey](https://github.com/cagritaskn/SplitWire-Turkey) - SplitWire\-Turkey, çeşitli yöntemlerle kısıt aşma aracı 
 * 【2025-12-07】[okta / okta\-sdk\-dotnet](https://github.com/okta/okta-sdk-dotnet) - A  NET SDK for interacting with the Okta management API, enabling server\-side code to manage Okta users, groups, applications, and more 
 * 【2025-12-07】[unchihugo / FluentFlyout](https://github.com/unchihugo/FluentFlyout) - The modern Flyout app for Windows 11, built with Fluent 2 Design principles  Media, Up Next, and Lock Keys flyouts and more 
 * 【2025-11-19】[qq362946 / Fantasy](https://github.com/qq362946/Fantasy) - C \# Game Framework, but not limited to games  Can be used for non game business development
@@ -5036,6 +5044,7 @@
 
 ## Html
 
+* 【2025-12-08】[newrelic / newrelic\-browser\-agent](https://github.com/newrelic/newrelic-browser-agent) - New Relic Browser Agent
 * 【2025-12-05】[murtaza\-nasir / speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self\-hosted web application designed for transcribing audio recordings
 * 【2025-12-01】[joyce677 / TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用
 * 【2025-11-07】[Max\-Eee / NeoPass](https://github.com/Max-Eee/NeoPass) - Your Essential Exam Companion for the Iamneo Portal & NPTEL Exams Disguised as NeoExamShield bypass
@@ -5579,6 +5588,7 @@
 
 ## Unknown
 
+* 【2025-12-08】[ebertti / awesome\-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 * 【2025-12-07】[agucova / awesome\-esp](https://github.com/agucova/awesome-esp) - 📶 A curated list of awesome ESP8266/32 projects and code
 * 【2025-12-07】[byJoey / cfnew](https://github.com/byJoey/cfnew) - 
 * 【2025-11-12】[WICG / email-verification-protocol](https://github.com/WICG/email-verification-protocol) - verified autofill
@@ -6273,6 +6283,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-12-08】[facet\-rs / facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc  — the last proc macro you should need
 * 【2025-12-05】[pamburus / hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human\-readable format 
 * 【2025-12-05】[cfal / shoes](https://github.com/cfal/shoes) - A multi\-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snell, Hysteria2, TUIC v5)
 * 【2025-12-05】[yuezk / GlobalProtect\-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc 
@@ -7122,6 +7133,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-12-08】[seerr-team / seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+* 【2025-12-08】[base / bridge](https://github.com/base/bridge) - 
+* 【2025-12-08】[sst / models dev](https://github.com/sst/models.dev) - An open\-source database of AI models 
 * 【2025-12-07】[badlogic / pi\-mono](https://github.com/badlogic/pi-mono) - Monorepo for pi packages: TUI library, agent framework, and pod management CLI
 * 【2025-12-07】[wybert / earth\-agent\-chrome\-ext](https://github.com/wybert/earth-agent-chrome-ext) - 
 * 【2025-12-07】[PaperDebugger / paperdebugger](https://github.com/PaperDebugger/paperdebugger) - Paper Debugger is the best overleaf companion
