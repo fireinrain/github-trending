@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-12-09】[cloudflare / vibesdk](https://github.com/cloudflare/vibesdk) - An open\-source vibe coding platform that helps you build your own vibe\-coding platform, built entirely on Cloudflare stack
 * 【2025-12-08】[NVIDIA / cutile\-python](https://github.com/NVIDIA/cutile-python) - cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
 * 【2025-12-08】[BeehiveInnovations / pal\-mcp\-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one 
 * 【2025-12-07】[anthropics / claude\-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
@@ -1069,6 +1070,8 @@
 
 ## Java
 
+* 【2025-12-09】[risin42 / NagramX](https://github.com/risin42/NagramX) - A variant of Nagram with additional features 
+* 【2025-12-09】[ZalithLauncher / ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) - Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices 
 * 【2025-12-08】[google / tsunami\-security\-scanner\-plugins](https://github.com/google/tsunami-security-scanner-plugins) - This project aims to provide a central repository for many useful Tsunami Security Scanner plugins 
 * 【2025-12-07】[1Panel\-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 🔥 新一代的开源 AI CRM 系统。An open\-source AI CRM alternative to Salesforce 
 * 【2025-11-12】[bancika / diy\-layout\-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
@@ -2654,6 +2657,7 @@
 
 ## Javascript
 
+* 【2025-12-09】[thedotmack / claude\-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent\-sdk), and injects relevant context back into future sessions 
 * 【2025-12-05】[ollm / OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node js and using Electron
 * 【2025-11-11】[hotheadhacker / no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 * 【2025-11-11】[marko\-js / marko](https://github.com/marko-js/marko) - A declarative, HTML\-based language that makes building web apps fun
@@ -6283,6 +6287,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-12-09】[Fredolx / open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 * 【2025-12-08】[facet\-rs / facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc  — the last proc macro you should need
 * 【2025-12-05】[pamburus / hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human\-readable format 
 * 【2025-12-05】[cfal / shoes](https://github.com/cfal/shoes) - A multi\-protocol proxy server written in Rust (HTTP, SOCKS5, Vmess, Vless, Shadowsocks, Trojan, Snell, Hysteria2, TUIC v5)
@@ -7133,6 +7138,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-12-09】[jamubc / gemini\-mcp\-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
+* 【2025-12-09】[nicotsx / zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self\-hosters
 * 【2025-12-08】[seerr-team / seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 * 【2025-12-08】[base / bridge](https://github.com/base/bridge) - 
 * 【2025-12-08】[sst / models dev](https://github.com/sst/models.dev) - An open\-source database of AI models 
