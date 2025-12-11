@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-12-11】[agentsmd / agents md](https://github.com/agentsmd/agents.md) - AGENTS md — a simple, open format for guiding coding agents
+* 【2025-12-11】[datawhalechina / hello\-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 * 【2025-12-10】[KaijuEngine / kaiju](https://github.com/KaijuEngine/kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
 * 【2025-12-10】[thedotmack / claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 * 【2025-12-09】[cloudflare / vibesdk](https://github.com/cloudflare/vibesdk) - An open\-source vibe coding platform that helps you build your own vibe\-coding platform, built entirely on Cloudflare stack
@@ -1463,6 +1465,7 @@
 
 ## Python
 
+* 【2025-12-11】[datawhalechina / hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 * 【2025-12-10】[wasserth / TotalSegmentator](https://github.com/wasserth/TotalSegmentator) - Tool for robust segmentation of >100 important anatomical structures in CT and MR images
 * 【2025-12-08】[NVIDIA / cutile-python](https://github.com/NVIDIA/cutile-python) - cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
 * 【2025-12-08】[BeehiveInnovations / pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
@@ -3753,6 +3756,7 @@
 
 ## C
 
+* 【2025-12-11】[linux\-rdma / perftest](https://github.com/linux-rdma/perftest) - Infiniband Verbs Performance Tests
 * 【2025-12-10】[vladelaina / Catime](https://github.com/vladelaina/Catime) - A tiny (803KB) but mighty timer in pure C  Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%) 
 * 【2025-12-06】[stackia / rtp2httpd](https://github.com/stackia/rtp2httpd) - Multicast RTP/RTSP to Unicast HTTP stream converter, optimized for China IPTV
 * 【2025-12-05】[coredevices / PebbleOS](https://github.com/coredevices/PebbleOS) - 
@@ -5599,6 +5603,8 @@
 
 ## Unknown
 
+* 【2025-12-11】[PicoTrex / Awesome\-Nano\-Banana\-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini\-2 5\-flash\-image based model  We also release Nano\-consistent\-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
+* 【2025-12-11】[memstechtips / UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process 
 * 【2025-12-08】[ebertti / awesome\-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 * 【2025-12-07】[agucova / awesome\-esp](https://github.com/agucova/awesome-esp) - 📶 A curated list of awesome ESP8266/32 projects and code
 * 【2025-12-07】[byJoey / cfnew](https://github.com/byJoey/cfnew) - 
@@ -6294,6 +6300,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-12-11】[chipsalliance / caliptra\-sw](https://github.com/chipsalliance/caliptra-sw) - Caliptra software (ROM, FMC, runtime firmware), and libraries/tools needed to build and test
 * 【2025-12-10】[openai / harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt\-oss
 * 【2025-12-09】[Fredolx / open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 * 【2025-12-08】[facet\-rs / facet](https://github.com/facet-rs/facet) - Rust reflection, serialization, deserialization, pretty printing, etc  — the last proc macro you should need
@@ -7146,6 +7153,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-12-11】[agentsmd / agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
+* 【2025-12-11】[remix\-run / remix\-store](https://github.com/remix-run/remix-store) - Remix Store \- Built on Hydrogen
+* 【2025-12-11】[daeuniverse / daed](https://github.com/daeuniverse/daed) - daed, A modern web dashboard for dae 
 * 【2025-12-10】[codeforreal1 / compressO](https://github.com/codeforreal1/compressO) - Convert any video into a tiny size 
 * 【2025-12-09】[jamubc / gemini\-mcp\-tool](https://github.com/jamubc/gemini-mcp-tool) - MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 * 【2025-12-09】[nicotsx / zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self\-hosters
