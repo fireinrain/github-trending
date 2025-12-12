@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-12-12】[tempoxyz / tempo](https://github.com/tempoxyz/tempo) - the blockchain for payments
 * 【2025-12-11】[agentsmd / agents md](https://github.com/agentsmd/agents.md) - AGENTS md — a simple, open format for guiding coding agents
 * 【2025-12-11】[datawhalechina / hello\-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 * 【2025-12-10】[KaijuEngine / kaiju](https://github.com/KaijuEngine/kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
@@ -1074,6 +1075,7 @@
 
 ## Java
 
+* 【2025-12-12】[senzhk / ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB (Useful for Test Automation)
 * 【2025-12-10】[kknifer7 / FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
 * 【2025-12-10】[bastillion\-io / Bastillion](https://github.com/bastillion-io/Bastillion) - A modern, web\-based SSH console and key management tool  Bastillion gives you a clean, browser\-based way to manage SSH access across all your systems  Think of it like a bastion host with a friendly dashboard 
 * 【2025-12-10】[apache / poi](https://github.com/apache/poi) - Mirror of Apache POI gitbox  The Java API for Microsoft Documents 
@@ -1465,6 +1467,8 @@
 
 ## Python
 
+* 【2025-12-12】[zai\-org / GLM\-V](https://github.com/zai-org/GLM-V) - GLM\-4 6V/4 5V/4 1V\-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning
+* 【2025-12-12】[ladaapp / lada](https://github.com/ladaapp/lada) - Restore videos with pixelated/mosaic regions
 * 【2025-12-11】[datawhalechina / hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 * 【2025-12-10】[wasserth / TotalSegmentator](https://github.com/wasserth/TotalSegmentator) - Tool for robust segmentation of >100 important anatomical structures in CT and MR images
 * 【2025-12-08】[NVIDIA / cutile-python](https://github.com/NVIDIA/cutile-python) - cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
@@ -3756,6 +3760,8 @@
 
 ## C
 
+* 【2025-12-12】[DavidXanatos / TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Power full Task Manager
+* 【2025-12-12】[asmvik / yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 * 【2025-12-11】[linux\-rdma / perftest](https://github.com/linux-rdma/perftest) - Infiniband Verbs Performance Tests
 * 【2025-12-10】[vladelaina / Catime](https://github.com/vladelaina/Catime) - A tiny (803KB) but mighty timer in pure C  Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%) 
 * 【2025-12-06】[stackia / rtp2httpd](https://github.com/stackia/rtp2httpd) - Multicast RTP/RTSP to Unicast HTTP stream converter, optimized for China IPTV
@@ -4165,6 +4171,8 @@
 
 ## C++
 
+* 【2025-12-12】[BCN3D / BCN3D\-Moveo](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
+* 【2025-12-12】[juliansteenbakker / flutter_secure_storage](https://github.com/juliansteenbakker/flutter_secure_storage) - A Flutter plugin for securely storing sensitive data using encrypted storage 
 * 【2025-12-06】[royshil / obs\-localvocal](https://github.com/royshil/obs-localvocal) - OBS plugin for local speech recognition and captioning using AI
 * 【2025-12-05】[uxlfoundation / oneDNN](https://github.com/uxlfoundation/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 * 【2025-11-13】[nst / JSONTestSuite](https://github.com/nst/JSONTestSuite) - A comprehensive test suite for RFC 8259 compliant JSON parsers
@@ -5059,6 +5067,7 @@
 
 ## Html
 
+* 【2025-12-12】[keeweb / keeweb](https://github.com/keeweb/keeweb) - Free cross\-platform password manager compatible with KeePass
 * 【2025-12-08】[newrelic / newrelic\-browser\-agent](https://github.com/newrelic/newrelic-browser-agent) - New Relic Browser Agent
 * 【2025-12-05】[murtaza\-nasir / speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self\-hosted web application designed for transcribing audio recordings
 * 【2025-12-01】[joyce677 / TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用
@@ -5603,6 +5612,7 @@
 
 ## Unknown
 
+* 【2025-12-12】[PicoTrex / Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
 * 【2025-12-11】[PicoTrex / Awesome\-Nano\-Banana\-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini\-2 5\-flash\-image based model  We also release Nano\-consistent\-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
 * 【2025-12-11】[memstechtips / UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process 
 * 【2025-12-08】[ebertti / awesome\-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
@@ -6300,6 +6310,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-12-12】[lance\-format / lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI  Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning  Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming  
+* 【2025-12-12】[stakpak / agent](https://github.com/stakpak/agent) - DevOps agent that won't accidentally tweet your AWS credentials 🦀
 * 【2025-12-11】[chipsalliance / caliptra\-sw](https://github.com/chipsalliance/caliptra-sw) - Caliptra software (ROM, FMC, runtime firmware), and libraries/tools needed to build and test
 * 【2025-12-10】[openai / harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt\-oss
 * 【2025-12-09】[Fredolx / open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
@@ -7153,6 +7165,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-12-12】[pnd280 / complexity](https://github.com/pnd280/complexity) - ⚡ Supercharge your favourite AI Chat web apps  Currently supports Perplexity AI 
 * 【2025-12-11】[agentsmd / agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 * 【2025-12-11】[remix\-run / remix\-store](https://github.com/remix-run/remix-store) - Remix Store \- Built on Hydrogen
 * 【2025-12-11】[daeuniverse / daed](https://github.com/daeuniverse/daed) - daed, A modern web dashboard for dae 
