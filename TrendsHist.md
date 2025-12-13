@@ -1075,6 +1075,7 @@
 
 ## Java
 
+* 【2025-12-13】[zinja\-coder / jadx\-ai\-mcp](https://github.com/zinja-coder/jadx-ai-mcp) - Plugin for JADX to integrate MCP server
 * 【2025-12-12】[senzhk / ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB (Useful for Test Automation)
 * 【2025-12-10】[kknifer7 / FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
 * 【2025-12-10】[bastillion\-io / Bastillion](https://github.com/bastillion-io/Bastillion) - A modern, web\-based SSH console and key management tool  Bastillion gives you a clean, browser\-based way to manage SSH access across all your systems  Think of it like a bastion host with a friendly dashboard 
@@ -1467,6 +1468,7 @@
 
 ## Python
 
+* 【2025-12-13】[oomol\-lab / pdf\-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats  This project will focus on processing PDF files of scanned books 
 * 【2025-12-12】[zai\-org / GLM\-V](https://github.com/zai-org/GLM-V) - GLM\-4 6V/4 5V/4 1V\-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning
 * 【2025-12-12】[ladaapp / lada](https://github.com/ladaapp/lada) - Restore videos with pixelated/mosaic regions
 * 【2025-12-11】[datawhalechina / hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
@@ -3271,6 +3273,8 @@
 
 ## Go
 
+* 【2025-12-13】[memodb\-io / Acontext](https://github.com/memodb-io/Acontext) - Context Data Platform for Agents  Join the community❤️: https://discord acontext io
+* 【2025-12-13】[opsre / go\-ldap\-admin](https://github.com/opsre/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 * 【2025-12-07】[tesserato / CodeWeaver](https://github.com/tesserato/CodeWeaver) - Weave your codebase into a single, navigable Markdown document
 * 【2025-12-07】[Adembc / lazyssh](https://github.com/Adembc/lazyssh) - A terminal\-based SSH manager inspired by lazydocker and k9s \- Written in go
 * 【2025-12-07】[docker / cagent](https://github.com/docker/cagent) - Agent Builder and Runtime by Docker Engineering
@@ -4601,6 +4605,8 @@
 
 ## C#
 
+* 【2025-12-13】[immichFrame / ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
+* 【2025-12-13】[MUnique / OpenMU](https://github.com/MUnique/OpenMU) - This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online" 
 * 【2025-12-08】[memstechtips / Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience 
 * 【2025-12-08】[cagritaskn / SplitWire\-Turkey](https://github.com/cagritaskn/SplitWire-Turkey) - SplitWire\-Turkey, çeşitli yöntemlerle kısıt aşma aracı 
 * 【2025-12-07】[okta / okta\-sdk\-dotnet](https://github.com/okta/okta-sdk-dotnet) - A  NET SDK for interacting with the Okta management API, enabling server\-side code to manage Okta users, groups, applications, and more 
@@ -7165,6 +7171,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-12-13】[ChromeDevTools / chrome\-devtools\-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
+* 【2025-12-13】[utmstack / UTMStack](https://github.com/utmstack/UTMStack) - Enterprise\-ready SIEM, SOAR and Compliance powered by real\-time correlation and threat intelligence 
+* 【2025-12-13】[langchain-ai / social-media-agent](https://github.com/langchain-ai/social-media-agent) - 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
+* 【2025-12-13】[rybbit-io / rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 * 【2025-12-12】[pnd280 / complexity](https://github.com/pnd280/complexity) - ⚡ Supercharge your favourite AI Chat web apps  Currently supports Perplexity AI 
 * 【2025-12-11】[agentsmd / agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 * 【2025-12-11】[remix\-run / remix\-store](https://github.com/remix-run/remix-store) - Remix Store \- Built on Hydrogen
