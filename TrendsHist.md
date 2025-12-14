@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-12-14】[ChromeDevTools / chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 * 【2025-12-12】[tempoxyz / tempo](https://github.com/tempoxyz/tempo) - the blockchain for payments
 * 【2025-12-11】[agentsmd / agents md](https://github.com/agentsmd/agents.md) - AGENTS md — a simple, open format for guiding coding agents
 * 【2025-12-11】[datawhalechina / hello\-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
@@ -1075,6 +1076,8 @@
 
 ## Java
 
+* 【2025-12-14】[zinja-coder / jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) - Plugin for JADX to integrate MCP server
+* 【2025-12-14】[octoshrimpy / quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android \- Revived
 * 【2025-12-13】[zinja\-coder / jadx\-ai\-mcp](https://github.com/zinja-coder/jadx-ai-mcp) - Plugin for JADX to integrate MCP server
 * 【2025-12-12】[senzhk / ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB (Useful for Test Automation)
 * 【2025-12-10】[kknifer7 / FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
@@ -1468,6 +1471,8 @@
 
 ## Python
 
+* 【2025-12-14】[mother\-of\-all\-self\-hosting / mash\-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook) - 🐋 Ansible playbook which helps you host various FOSS services as Docker containers on your own server
+* 【2025-12-14】[zhaochenyang20 / Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes/codes for ML SYS.
 * 【2025-12-13】[oomol\-lab / pdf\-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats  This project will focus on processing PDF files of scanned books 
 * 【2025-12-12】[zai\-org / GLM\-V](https://github.com/zai-org/GLM-V) - GLM\-4 6V/4 5V/4 1V\-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning
 * 【2025-12-12】[ladaapp / lada](https://github.com/ladaapp/lada) - Restore videos with pixelated/mosaic regions
@@ -2672,6 +2677,7 @@
 
 ## Javascript
 
+* 【2025-12-14】[asyncapi / spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine\-readable definitions of your asynchronous APIs 
 * 【2025-12-09】[thedotmack / claude\-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent\-sdk), and injects relevant context back into future sessions 
 * 【2025-12-05】[ollm / OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node js and using Electron
 * 【2025-11-11】[hotheadhacker / no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
@@ -3273,6 +3279,8 @@
 
 ## Go
 
+* 【2025-12-14】[trpc-group / trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) - trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.
+* 【2025-12-14】[obot-platform / obot](https://github.com/obot-platform/obot) - Enterprise MCP Platform
 * 【2025-12-13】[memodb\-io / Acontext](https://github.com/memodb-io/Acontext) - Context Data Platform for Agents  Join the community❤️: https://discord acontext io
 * 【2025-12-13】[opsre / go\-ldap\-admin](https://github.com/opsre/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 * 【2025-12-07】[tesserato / CodeWeaver](https://github.com/tesserato/CodeWeaver) - Weave your codebase into a single, navigable Markdown document
@@ -4175,6 +4183,7 @@
 
 ## C++
 
+* 【2025-12-14】[ERGO-Code / HiGHS](https://github.com/ERGO-Code/HiGHS) - Linear optimization software
 * 【2025-12-12】[BCN3D / BCN3D\-Moveo](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
 * 【2025-12-12】[juliansteenbakker / flutter_secure_storage](https://github.com/juliansteenbakker/flutter_secure_storage) - A Flutter plugin for securely storing sensitive data using encrypted storage 
 * 【2025-12-06】[royshil / obs\-localvocal](https://github.com/royshil/obs-localvocal) - OBS plugin for local speech recognition and captioning using AI
@@ -5073,6 +5082,7 @@
 
 ## Html
 
+* 【2025-12-14】[colonelpanichacks / flock\-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
 * 【2025-12-12】[keeweb / keeweb](https://github.com/keeweb/keeweb) - Free cross\-platform password manager compatible with KeePass
 * 【2025-12-08】[newrelic / newrelic\-browser\-agent](https://github.com/newrelic/newrelic-browser-agent) - New Relic Browser Agent
 * 【2025-12-05】[murtaza\-nasir / speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self\-hosted web application designed for transcribing audio recordings
@@ -6316,6 +6326,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-12-14】[Spu7Nix / obamify](https://github.com/Spu7Nix/obamify) - revolutionary new technology that turns any image into obama
 * 【2025-12-12】[lance\-format / lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI  Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning  Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming  
 * 【2025-12-12】[stakpak / agent](https://github.com/stakpak/agent) - DevOps agent that won't accidentally tweet your AWS credentials 🦀
 * 【2025-12-11】[chipsalliance / caliptra\-sw](https://github.com/chipsalliance/caliptra-sw) - Caliptra software (ROM, FMC, runtime firmware), and libraries/tools needed to build and test
@@ -7171,6 +7182,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-12-14】[livekit\-examples / meet](https://github.com/livekit-examples/meet) - Open source video conferencing app built on LiveKit Components, LiveKit Cloud, and Next js 
+* 【2025-12-14】[shuakami / qq\-chat\-exporter](https://github.com/shuakami/qq-chat-exporter) - 🚀 QQ聊天记录、表情包导出工具 \| 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ
 * 【2025-12-13】[ChromeDevTools / chrome\-devtools\-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 * 【2025-12-13】[utmstack / UTMStack](https://github.com/utmstack/UTMStack) - Enterprise\-ready SIEM, SOAR and Compliance powered by real\-time correlation and threat intelligence 
 * 【2025-12-13】[langchain-ai / social-media-agent](https://github.com/langchain-ai/social-media-agent) - 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
