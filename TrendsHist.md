@@ -5082,6 +5082,7 @@
 
 ## Html
 
+* 【2025-12-15】[colonelpanichacks / flock-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
 * 【2025-12-14】[colonelpanichacks / flock\-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
 * 【2025-12-12】[keeweb / keeweb](https://github.com/keeweb/keeweb) - Free cross\-platform password manager compatible with KeePass
 * 【2025-12-08】[newrelic / newrelic\-browser\-agent](https://github.com/newrelic/newrelic-browser-agent) - New Relic Browser Agent
@@ -5628,6 +5629,7 @@
 
 ## Unknown
 
+* 【2025-12-15】[ebertti / awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 * 【2025-12-12】[PicoTrex / Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
 * 【2025-12-11】[PicoTrex / Awesome\-Nano\-Banana\-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini\-2 5\-flash\-image based model  We also release Nano\-consistent\-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
 * 【2025-12-11】[memstechtips / UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process 
@@ -6326,6 +6328,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-12-15】[reacherhq / check\-if\-email\-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust  Comes with a ⚙️ HTTP backend 
+* 【2025-12-15】[dhanji / g3](https://github.com/dhanji/g3) - experiments in goose
 * 【2025-12-14】[Spu7Nix / obamify](https://github.com/Spu7Nix/obamify) - revolutionary new technology that turns any image into obama
 * 【2025-12-12】[lance\-format / lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI  Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning  Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming  
 * 【2025-12-12】[stakpak / agent](https://github.com/stakpak/agent) - DevOps agent that won't accidentally tweet your AWS credentials 🦀
