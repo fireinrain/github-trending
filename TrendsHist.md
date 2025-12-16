@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-12-16】[jellyfin / jellyfin\-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
 * 【2025-12-14】[ChromeDevTools / chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 * 【2025-12-12】[tempoxyz / tempo](https://github.com/tempoxyz/tempo) - the blockchain for payments
 * 【2025-12-11】[agentsmd / agents md](https://github.com/agentsmd/agents.md) - AGENTS md — a simple, open format for guiding coding agents
@@ -1076,6 +1077,8 @@
 
 ## Java
 
+* 【2025-12-16】[MCRcortex / voxy](https://github.com/MCRcortex/voxy) - An LoD rendering mod for minecraft
+* 【2025-12-16】[shmuelzon / home\-assistant\-floor\-plan](https://github.com/shmuelzon/home-assistant-floor-plan) - Home Assistant Floor Plan Generator Plugin For Sweet Home 3D
 * 【2025-12-14】[zinja-coder / jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) - Plugin for JADX to integrate MCP server
 * 【2025-12-14】[octoshrimpy / quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android \- Revived
 * 【2025-12-13】[zinja\-coder / jadx\-ai\-mcp](https://github.com/zinja-coder/jadx-ai-mcp) - Plugin for JADX to integrate MCP server
@@ -1471,6 +1474,7 @@
 
 ## Python
 
+* 【2025-12-16】[firerpa / lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots 
 * 【2025-12-14】[mother\-of\-all\-self\-hosting / mash\-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook) - 🐋 Ansible playbook which helps you host various FOSS services as Docker containers on your own server
 * 【2025-12-14】[zhaochenyang20 / Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes/codes for ML SYS.
 * 【2025-12-13】[oomol\-lab / pdf\-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats  This project will focus on processing PDF files of scanned books 
@@ -3279,6 +3283,9 @@
 
 ## Go
 
+* 【2025-12-16】[VictoriaMetrics / VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs
+* 【2025-12-16】[memodb-io / Acontext](https://github.com/memodb-io/Acontext) - Context Data Platform for Agents. Join the community❤️: https://discord.acontext.io
+* 【2025-12-16】[xpzouying / xiaohongshu\-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - MCP for xiaohongshu com
 * 【2025-12-14】[trpc-group / trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) - trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.
 * 【2025-12-14】[obot-platform / obot](https://github.com/obot-platform/obot) - Enterprise MCP Platform
 * 【2025-12-13】[memodb\-io / Acontext](https://github.com/memodb-io/Acontext) - Context Data Platform for Agents  Join the community❤️: https://discord acontext io
@@ -4183,6 +4190,10 @@
 
 ## C++
 
+* 【2025-12-16】[jellyfin / jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
+* 【2025-12-16】[SpacehuhnTech / WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform
+* 【2025-12-16】[OrcaSlicer / OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G\-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc )
+* 【2025-12-16】[reisxd / TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) - Experience TizenTube on other devices that are not Tizen 
 * 【2025-12-14】[ERGO-Code / HiGHS](https://github.com/ERGO-Code/HiGHS) - Linear optimization software
 * 【2025-12-12】[BCN3D / BCN3D\-Moveo](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
 * 【2025-12-12】[juliansteenbakker / flutter_secure_storage](https://github.com/juliansteenbakker/flutter_secure_storage) - A Flutter plugin for securely storing sensitive data using encrypted storage 
@@ -6328,6 +6339,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-12-16】[reacherhq / check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
+* 【2025-12-16】[probe-rs / probe-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
 * 【2025-12-15】[reacherhq / check\-if\-email\-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust  Comes with a ⚙️ HTTP backend 
 * 【2025-12-15】[dhanji / g3](https://github.com/dhanji/g3) - experiments in goose
 * 【2025-12-14】[Spu7Nix / obamify](https://github.com/Spu7Nix/obamify) - revolutionary new technology that turns any image into obama
@@ -7186,6 +7199,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-12-16】[badlogic / pi-mono](https://github.com/badlogic/pi-mono) - Monorepo for pi packages: TUI library, agent framework, and pod management CLI
+* 【2025-12-16】[wood3n / biu](https://github.com/wood3n/biu) - Bilibili音乐播放器
 * 【2025-12-14】[livekit\-examples / meet](https://github.com/livekit-examples/meet) - Open source video conferencing app built on LiveKit Components, LiveKit Cloud, and Next js 
 * 【2025-12-14】[shuakami / qq\-chat\-exporter](https://github.com/shuakami/qq-chat-exporter) - 🚀 QQ聊天记录、表情包导出工具 \| 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ
 * 【2025-12-13】[ChromeDevTools / chrome\-devtools\-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
