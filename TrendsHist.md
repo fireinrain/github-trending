@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-12-17】[eudoxia0 / hashcards](https://github.com/eudoxia0/hashcards) - A plain text\-based spaced repetition system 
 * 【2025-12-16】[jellyfin / jellyfin\-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
 * 【2025-12-14】[ChromeDevTools / chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 * 【2025-12-12】[tempoxyz / tempo](https://github.com/tempoxyz/tempo) - the blockchain for payments
@@ -1474,6 +1475,8 @@
 
 ## Python
 
+* 【2025-12-17】[facebookresearch / MHR](https://github.com/facebookresearch/MHR) - Momentum Human Rig is an anatomically\-inspired parametric full\-body digital human model developed at Meta  It includes: A parametric body skeletal model; A realistic 3D mesh skinned to the skeleton with levels of detail;A body blendshape and pose corrective model; A facial blendshape model Its design is friendly for both CG and CV communities 
+* 【2025-12-17】[xxnuo / MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 \- 订阅全网大全
 * 【2025-12-16】[firerpa / lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots 
 * 【2025-12-14】[mother\-of\-all\-self\-hosting / mash\-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook) - 🐋 Ansible playbook which helps you host various FOSS services as Docker containers on your own server
 * 【2025-12-14】[zhaochenyang20 / Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes/codes for ML SYS.
@@ -2681,6 +2684,8 @@
 
 ## Javascript
 
+* 【2025-12-17】[leeoniya / uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
+* 【2025-12-17】[siteboon / claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code or Cursor CLI on mobile and web with Claude Code UI  Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 * 【2025-12-14】[asyncapi / spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine\-readable definitions of your asynchronous APIs 
 * 【2025-12-09】[thedotmack / claude\-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent\-sdk), and injects relevant context back into future sessions 
 * 【2025-12-05】[ollm / OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node js and using Electron
@@ -3283,6 +3288,7 @@
 
 ## Go
 
+* 【2025-12-17】[vllm\-project / semantic\-router](https://github.com/vllm-project/semantic-router) - Intelligent Router for Mixture\-of\-Models
 * 【2025-12-16】[VictoriaMetrics / VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs
 * 【2025-12-16】[memodb-io / Acontext](https://github.com/memodb-io/Acontext) - Context Data Platform for Agents. Join the community❤️: https://discord.acontext.io
 * 【2025-12-16】[xpzouying / xiaohongshu\-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - MCP for xiaohongshu com
@@ -3779,6 +3785,7 @@
 
 ## C
 
+* 【2025-12-17】[DroneBridge / ESP32](https://github.com/DroneBridge/ESP32) - DroneBridge for ESP32  A secure & transparent telemetry link with support for WiFi and ESP\-NOW  Supporting MAVLink, MSP, LTM or any other protocol
 * 【2025-12-12】[DavidXanatos / TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Power full Task Manager
 * 【2025-12-12】[asmvik / yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 * 【2025-12-11】[linux\-rdma / perftest](https://github.com/linux-rdma/perftest) - Infiniband Verbs Performance Tests
@@ -5640,6 +5647,8 @@
 
 ## Unknown
 
+* 【2025-12-17】[automata / aicodeguide](https://github.com/automata/aicodeguide) - AI Code Guide is a roadmap to start coding with AI
+* 【2025-12-17】[afshinea / stanford\-cme\-295\-transformers\-large\-language\-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) - VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models
 * 【2025-12-15】[ebertti / awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 * 【2025-12-12】[PicoTrex / Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
 * 【2025-12-11】[PicoTrex / Awesome\-Nano\-Banana\-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini\-2 5\-flash\-image based model  We also release Nano\-consistent\-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
@@ -6339,6 +6348,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-12-17】[lance-format / lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 * 【2025-12-16】[reacherhq / check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 * 【2025-12-16】[probe-rs / probe-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
 * 【2025-12-15】[reacherhq / check\-if\-email\-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust  Comes with a ⚙️ HTTP backend 
@@ -7199,6 +7209,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-12-17】[shuakami / qq-chat-exporter](https://github.com/shuakami/qq-chat-exporter) - 🚀 QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ
 * 【2025-12-16】[badlogic / pi-mono](https://github.com/badlogic/pi-mono) - Monorepo for pi packages: TUI library, agent framework, and pod management CLI
 * 【2025-12-16】[wood3n / biu](https://github.com/wood3n/biu) - Bilibili音乐播放器
 * 【2025-12-14】[livekit\-examples / meet](https://github.com/livekit-examples/meet) - Open source video conferencing app built on LiveKit Components, LiveKit Cloud, and Next js 
