@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-12-18】[NVIDIA\-NeMo / Gym](https://github.com/NVIDIA-NeMo/Gym) - Build RL environments for LLM training
 * 【2025-12-17】[eudoxia0 / hashcards](https://github.com/eudoxia0/hashcards) - A plain text\-based spaced repetition system 
 * 【2025-12-16】[jellyfin / jellyfin\-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
 * 【2025-12-14】[ChromeDevTools / chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
@@ -1475,6 +1476,9 @@
 
 ## Python
 
+* 【2025-12-18】[NVIDIA-NeMo / Gym](https://github.com/NVIDIA-NeMo/Gym) - Build RL environments for LLM training
+* 【2025-12-18】[strands\-agents / samples](https://github.com/strands-agents/samples) - Agent samples built using the Strands Agents SDK 
+* 【2025-12-18】[wecode\-ai / Wegent](https://github.com/wecode-ai/Wegent) - An open\-source platform to define, organize, and run Agentic AI 
 * 【2025-12-17】[facebookresearch / MHR](https://github.com/facebookresearch/MHR) - Momentum Human Rig is an anatomically\-inspired parametric full\-body digital human model developed at Meta  It includes: A parametric body skeletal model; A realistic 3D mesh skinned to the skeleton with levels of detail;A body blendshape and pose corrective model; A facial blendshape model Its design is friendly for both CG and CV communities 
 * 【2025-12-17】[xxnuo / MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 \- 订阅全网大全
 * 【2025-12-16】[firerpa / lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots 
@@ -3288,6 +3292,8 @@
 
 ## Go
 
+* 【2025-12-18】[vllm-project / semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Router for Mixture-of-Models
+* 【2025-12-18】[opsre / go-ldap-admin](https://github.com/opsre/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 * 【2025-12-17】[vllm\-project / semantic\-router](https://github.com/vllm-project/semantic-router) - Intelligent Router for Mixture\-of\-Models
 * 【2025-12-16】[VictoriaMetrics / VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs
 * 【2025-12-16】[memodb-io / Acontext](https://github.com/memodb-io/Acontext) - Context Data Platform for Agents. Join the community❤️: https://discord.acontext.io
@@ -4632,6 +4638,7 @@
 
 ## C#
 
+* 【2025-12-18】[Shane32 / QRCoder](https://github.com/Shane32/QRCoder) - A pure C\# Open Source QR Code implementation
 * 【2025-12-13】[immichFrame / ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 * 【2025-12-13】[MUnique / OpenMU](https://github.com/MUnique/OpenMU) - This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online" 
 * 【2025-12-08】[memstechtips / Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience 
@@ -6348,6 +6355,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-12-18】[cobalt\-org / liquid\-rust](https://github.com/cobalt-org/liquid-rust) - Liquid templating for Rust
 * 【2025-12-17】[lance-format / lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 * 【2025-12-16】[reacherhq / check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 * 【2025-12-16】[probe-rs / probe-rs](https://github.com/probe-rs/probe-rs) - A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host
