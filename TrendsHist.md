@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-12-19】[astral-sh / ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 * 【2025-12-18】[NVIDIA\-NeMo / Gym](https://github.com/NVIDIA-NeMo/Gym) - Build RL environments for LLM training
 * 【2025-12-17】[eudoxia0 / hashcards](https://github.com/eudoxia0/hashcards) - A plain text\-based spaced repetition system 
 * 【2025-12-16】[jellyfin / jellyfin\-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
@@ -3791,6 +3792,7 @@
 
 ## C
 
+* 【2025-12-19】[scallyw4g / bonsai](https://github.com/scallyw4g/bonsai) - The procedural generation voxel engine
 * 【2025-12-17】[DroneBridge / ESP32](https://github.com/DroneBridge/ESP32) - DroneBridge for ESP32  A secure & transparent telemetry link with support for WiFi and ESP\-NOW  Supporting MAVLink, MSP, LTM or any other protocol
 * 【2025-12-12】[DavidXanatos / TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Power full Task Manager
 * 【2025-12-12】[asmvik / yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -5107,6 +5109,7 @@
 
 ## Html
 
+* 【2025-12-19】[jonasstrehle / supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️Browser fingerprinting via favicon!
 * 【2025-12-15】[colonelpanichacks / flock-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
 * 【2025-12-14】[colonelpanichacks / flock\-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
 * 【2025-12-12】[keeweb / keeweb](https://github.com/keeweb/keeweb) - Free cross\-platform password manager compatible with KeePass
@@ -7217,6 +7220,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-12-19】[evi0s / WMPFDebugger](https://github.com/evi0s/WMPFDebugger) - Yet another WeChat miniapp debugger on Windows
 * 【2025-12-17】[shuakami / qq-chat-exporter](https://github.com/shuakami/qq-chat-exporter) - 🚀 QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ
 * 【2025-12-16】[badlogic / pi-mono](https://github.com/badlogic/pi-mono) - Monorepo for pi packages: TUI library, agent framework, and pod management CLI
 * 【2025-12-16】[wood3n / biu](https://github.com/wood3n/biu) - Bilibili音乐播放器
