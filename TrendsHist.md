@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-12-20】[sgl\-project / mini\-sglang](https://github.com/sgl-project/mini-sglang) - 
+* 【2025-12-20】[google / adk\-js](https://github.com/google/adk-js) - An open\-source, code\-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control 
 * 【2025-12-19】[astral-sh / ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 * 【2025-12-18】[NVIDIA\-NeMo / Gym](https://github.com/NVIDIA-NeMo/Gym) - Build RL environments for LLM training
 * 【2025-12-17】[eudoxia0 / hashcards](https://github.com/eudoxia0/hashcards) - A plain text\-based spaced repetition system 
@@ -1477,6 +1479,8 @@
 
 ## Python
 
+* 【2025-12-20】[sgl-project / mini-sglang](https://github.com/sgl-project/mini-sglang) - 
+* 【2025-12-20】[pollen-robotics / reachy_mini](https://github.com/pollen-robotics/reachy_mini) - Reachy Mini's SDK
 * 【2025-12-18】[NVIDIA-NeMo / Gym](https://github.com/NVIDIA-NeMo/Gym) - Build RL environments for LLM training
 * 【2025-12-18】[strands\-agents / samples](https://github.com/strands-agents/samples) - Agent samples built using the Strands Agents SDK 
 * 【2025-12-18】[wecode\-ai / Wegent](https://github.com/wecode-ai/Wegent) - An open\-source platform to define, organize, and run Agentic AI 
@@ -2689,6 +2693,7 @@
 
 ## Javascript
 
+* 【2025-12-20】[jiawanlong / Cesium\-Examples](https://github.com/jiawanlong/Cesium-Examples) - CesiumJS2025年最新Examples，200多个原生示例：自定义纹理、地形开挖、可视域分析、洪水淹没、缓冲分析、日照分析、方量分析、通透分析、剖面、单体化、视频融合、视频投射、雨雪雾、天空盒、场景出图、体积云、闪电、视锥体、雷达扫描、水波纹、动态扩散点、电子围栏、粒子效果、物理引擎、克里金、海流、大数据可视化、坐标转换、相机、飞行漫游、瓦片加载、xyz、tms、wms、wmts、天地图、高德、百度、wkt、shp、geojson、pbf、地形、entity、模型、海量数据、Primitive、gif、聚合、czml、字体图标、运动、3Dtiles、模型偏移、等等。。
 * 【2025-12-17】[leeoniya / uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 * 【2025-12-17】[siteboon / claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code or Cursor CLI on mobile and web with Claude Code UI  Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 * 【2025-12-14】[asyncapi / spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine\-readable definitions of your asynchronous APIs 
@@ -5109,6 +5114,7 @@
 
 ## Html
 
+* 【2025-12-20】[murtaza-nasir / speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self-hosted web application designed for transcribing audio recordings
 * 【2025-12-19】[jonasstrehle / supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️Browser fingerprinting via favicon!
 * 【2025-12-15】[colonelpanichacks / flock-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
 * 【2025-12-14】[colonelpanichacks / flock\-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
@@ -7220,6 +7226,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-12-20】[google / adk-js](https://github.com/google/adk-js) - An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+* 【2025-12-20】[danielmiessler / Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Personal AI Infrastructure for upgrading humans 
+* 【2025-12-20】[TheNetsky / Microsoft\-Rewards\-Script](https://github.com/TheNetsky/Microsoft-Rewards-Script) - Automated Microsoft Rewards script, using TypeScript, Cheerio and Playwright 
 * 【2025-12-19】[evi0s / WMPFDebugger](https://github.com/evi0s/WMPFDebugger) - Yet another WeChat miniapp debugger on Windows
 * 【2025-12-17】[shuakami / qq-chat-exporter](https://github.com/shuakami/qq-chat-exporter) - 🚀 QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ
 * 【2025-12-16】[badlogic / pi-mono](https://github.com/badlogic/pi-mono) - Monorepo for pi packages: TUI library, agent framework, and pod management CLI
