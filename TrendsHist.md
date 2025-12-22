@@ -1083,6 +1083,7 @@
 
 ## Java
 
+* 【2025-12-22】[Xed\-Editor / Xed\-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 * 【2025-12-16】[MCRcortex / voxy](https://github.com/MCRcortex/voxy) - An LoD rendering mod for minecraft
 * 【2025-12-16】[shmuelzon / home\-assistant\-floor\-plan](https://github.com/shmuelzon/home-assistant-floor-plan) - Home Assistant Floor Plan Generator Plugin For Sweet Home 3D
 * 【2025-12-14】[zinja-coder / jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) - Plugin for JADX to integrate MCP server
@@ -1480,6 +1481,7 @@
 
 ## Python
 
+* 【2025-12-22】[city96 / ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
 * 【2025-12-21】[NVIDIA / NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) - The NVIDIA NeMo Agent toolkit is an open-source library for efficiently connecting and optimizing teams of AI agents.
 * 【2025-12-21】[atlassian / atlassian\-mcp\-server](https://github.com/atlassian/atlassian-mcp-server) - Remote MCP Server that securely connects Jira and Confluence with your LLM, IDE, or agent platform of choice 
 * 【2025-12-20】[sgl-project / mini-sglang](https://github.com/sgl-project/mini-sglang) - 
@@ -2696,6 +2698,7 @@
 
 ## Javascript
 
+* 【2025-12-22】[huangxd- / danmu_api](https://github.com/huangxd-/danmu_api) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人韩巴弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
 * 【2025-12-21】[BrowserWorks / waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
 * 【2025-12-21】[jiawanlong / Cesium-Examples](https://github.com/jiawanlong/Cesium-Examples) - CesiumJS2025年最新Examples，200多个原生示例：自定义纹理、地形开挖、可视域分析、洪水淹没、缓冲分析、日照分析、方量分析、通透分析、剖面、单体化、视频融合、视频投射、雨雪雾、天空盒、场景出图、体积云、闪电、视锥体、雷达扫描、水波纹、动态扩散点、电子围栏、粒子效果、物理引擎、克里金、海流、大数据可视化、坐标转换、相机、飞行漫游、瓦片加载、xyz、tms、wms、wmts、天地图、高德、百度、wkt、shp、geojson、pbf、地形、entity、模型、海量数据、Primitive、gif、聚合、czml、字体图标、运动、3Dtiles、模型偏移、等等。。
 * 【2025-12-21】[huangxd\- / danmu_api](https://github.com/huangxd-/danmu_api) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人韩巴弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
@@ -4218,6 +4221,8 @@
 
 ## C++
 
+* 【2025-12-22】[chongdashu / unreal\-mcp](https://github.com/chongdashu/unreal-mcp) - Enable AI assistant clients like Cursor, Windsurf and Claude Desktop to control Unreal Engine through natural language using the Model Context Protocol (MCP) 
+* 【2025-12-22】[futo-org / android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 * 【2025-12-16】[jellyfin / jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
 * 【2025-12-16】[SpacehuhnTech / WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform
 * 【2025-12-16】[OrcaSlicer / OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G\-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc )
@@ -7234,6 +7239,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-12-22】[nuxt-content / docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
 * 【2025-12-21】[nuxt\-content / docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown 
 * 【2025-12-21】[sparkjsdev / spark](https://github.com/sparkjsdev/spark) - ✨ An advanced 3D Gaussian Splatting renderer for THREE js
 * 【2025-12-20】[google / adk-js](https://github.com/google/adk-js) - An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
