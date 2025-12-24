@@ -1,5 +1,8 @@
 ## All language
 
+* 【2025-12-24】[safety\-research / bloom](https://github.com/safety-research/bloom) - bloom \- evaluate any behavior immediately  🌸🌱
+* 【2025-12-24】[xerrors / Yuxi\-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs  Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP 
+* 【2025-12-24】[vllm-project / vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
 * 【2025-12-23】[anthropics / skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 * 【2025-12-23】[rendercv / rendercv](https://github.com/rendercv/rendercv) - Typst\-based CV/resume generator for academics and engineers
 * 【2025-12-23】[Semperis / EntraGoat](https://github.com/Semperis/EntraGoat) - A deliberately vulnerable Microsoft Entra ID environment  Learn identity security through hands\-on, realistic attack challenges 
@@ -1487,6 +1490,8 @@
 
 ## Python
 
+* 【2025-12-24】[safety-research / bloom](https://github.com/safety-research/bloom) - bloom - evaluate any behavior immediately  🌸🌱
+* 【2025-12-24】[xerrors / Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
 * 【2025-12-23】[vllm\-project / vllm\-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni\-modality models
 * 【2025-12-22】[city96 / ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
 * 【2025-12-21】[NVIDIA / NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) - The NVIDIA NeMo Agent toolkit is an open-source library for efficiently connecting and optimizing teams of AI agents.
@@ -3316,6 +3321,8 @@
 
 ## Go
 
+* 【2025-12-24】[5rahim / seanime](https://github.com/5rahim/seanime) - Open\-source media server with a web interface and desktop app for anime and manga 
+* 【2025-12-24】[evilmartians / lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects 
 * 【2025-12-23】[WCY\-dt / MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross\-platform desktop RSS reader  一个现代化、跨平台的 RSS 阅读器 
 * 【2025-12-21】[bitxeno / atvloadly](https://github.com/bitxeno/atvloadly) - Easily sideload the IPA to AppleTV
 * 【2025-12-18】[vllm-project / semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Router for Mixture-of-Models
@@ -4670,6 +4677,9 @@
 
 ## C#
 
+* 【2025-12-24】[database64128 / youtube\-dl\-wpf](https://github.com/database64128/youtube-dl-wpf) - WPF GUI for youtube\-dl and yt\-dlp 
+* 【2025-12-24】[STranslate / STranslate](https://github.com/STranslate/STranslate) - A ready\-to\-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
+* 【2025-12-24】[IvanMurzak / Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - AI-powered bridge connecting LLMs and advanced AI agents to the Unity Editor via the Model Context Protocol (MCP). Chat with AI to generate code, debug errors, and automate game development tasks directly within your project.
 * 【2025-12-18】[Shane32 / QRCoder](https://github.com/Shane32/QRCoder) - A pure C\# Open Source QR Code implementation
 * 【2025-12-13】[immichFrame / ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 * 【2025-12-13】[MUnique / OpenMU](https://github.com/MUnique/OpenMU) - This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online" 
@@ -5139,6 +5149,7 @@
 
 ## Html
 
+* 【2025-12-24】[wujunwei928 / parse-video-py](https://github.com/wujunwei928/parse-video-py) - Python短视频去水印爬虫：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频...
 * 【2025-12-23】[wujunwei928 / parse\-video\-py](https://github.com/wujunwei928/parse-video-py) - Python短视频去水印爬虫：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频   
 * 【2025-12-23】[EllatharTheHalfling / DnD\-Books](https://github.com/EllatharTheHalfling/DnD-Books) - 
 * 【2025-12-20】[murtaza-nasir / speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self-hosted web application designed for transcribing audio recordings
@@ -7257,6 +7268,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-12-24】[tambo-ai / tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
+* 【2025-12-24】[kizuna-ai-lab / sokuji](https://github.com/kizuna-ai-lab/sokuji) - Live speech translation application built with Electron 34 and React, using OpenAI's Realtime API.
+* 【2025-12-24】[tractordev / apptron](https://github.com/tractordev/apptron) - Local\-first development platform
 * 【2025-12-23】[tambo\-ai / tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 * 【2025-12-23】[kizuna\-ai\-lab / sokuji](https://github.com/kizuna-ai-lab/sokuji) - Live speech translation application built with Electron 34 and React, using OpenAI's Realtime API 
 * 【2025-12-23】[afkarxyz / SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required 
