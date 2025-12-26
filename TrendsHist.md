@@ -1092,6 +1092,8 @@
 
 ## Java
 
+* 【2025-12-26】[1Panel-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce.
+* 【2025-12-26】[jlortiz0 / PlayerCollars](https://github.com/jlortiz0/PlayerCollars) - Minecraft mod that allows players to wear collars
 * 【2025-12-23】[AsamK / signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 * 【2025-12-23】[FabricMC / fabric\-api](https://github.com/FabricMC/fabric-api) - Essential hooks for modding with Fabric 
 * 【2025-12-22】[Xed\-Editor / Xed\-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
@@ -1492,6 +1494,7 @@
 
 ## Python
 
+* 【2025-12-26】[OpenDCAI / DataFlow](https://github.com/OpenDCAI/DataFlow) - Easy Data Preparation with latest LLMs\-based Operators and Pipelines 
 * 【2025-12-25】[zai\-org / GLM\-4 5](https://github.com/zai-org/GLM-4.5) - GLM\-4 5: Agentic, Reasoning, and Coding (ARC) Foundation Models
 * 【2025-12-24】[safety-research / bloom](https://github.com/safety-research/bloom) - bloom - evaluate any behavior immediately  🌸🌱
 * 【2025-12-24】[xerrors / Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
@@ -2713,6 +2716,8 @@
 
 ## Javascript
 
+* 【2025-12-26】[pucherot / Pi Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector  Check the devices connected and alert you with unknown devices  It also warns of the disconnection of "always connected" devices
+* 【2025-12-26】[parcoil / sparkle](https://github.com/parcoil/sparkle) - A Windows app to debloat and optimize your PC
 * 【2025-12-23】[justlovemaki / AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!
 * 【2025-12-23】[kanoqwq / UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS) - A functional tools for zte devices (F50 | U30 Air)
 * 【2025-12-22】[huangxd- / danmu_api](https://github.com/huangxd-/danmu_api) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人韩巴弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
@@ -3324,6 +3329,8 @@
 
 ## Go
 
+* 【2025-12-26】[WCY-dt / MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross-platform, and free AI RSS reader. 一个现代化、跨平台且免费的 AI RSS 阅读器.
+* 【2025-12-26】[coze-dev / coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
 * 【2025-12-24】[5rahim / seanime](https://github.com/5rahim/seanime) - Open\-source media server with a web interface and desktop app for anime and manga 
 * 【2025-12-24】[evilmartians / lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects 
 * 【2025-12-23】[WCY\-dt / MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross\-platform desktop RSS reader  一个现代化、跨平台的 RSS 阅读器 
@@ -4241,6 +4248,8 @@
 
 ## C++
 
+* 【2025-12-26】[alibaba / rtp\-llm](https://github.com/alibaba/rtp-llm) - RTP\-LLM: Alibaba's high\-performance LLM inference engine for diverse applications 
+* 【2025-12-26】[jd\-opensource / xllm](https://github.com/jd-opensource/xllm) - A high\-performance inference engine for LLMs, optimized for diverse AI accelerators 
 * 【2025-12-25】[zeldaret / tp](https://github.com/zeldaret/tp) - Decompilation of The Legend of Zelda: Twilight Princess
 * 【2025-12-25】[SpriteOvO / AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
 * 【2025-12-23】[chongdashu / unreal-mcp](https://github.com/chongdashu/unreal-mcp) - Enable AI assistant clients like Cursor, Windsurf and Claude Desktop to control Unreal Engine through natural language using the Model Context Protocol (MCP).
@@ -4682,6 +4691,7 @@
 
 ## C#
 
+* 【2025-12-26】[Alex4SSB / ADB\-Explorer](https://github.com/Alex4SSB/ADB-Explorer) - A fluent UI for ADB on Windows
 * 【2025-12-24】[database64128 / youtube\-dl\-wpf](https://github.com/database64128/youtube-dl-wpf) - WPF GUI for youtube\-dl and yt\-dlp 
 * 【2025-12-24】[STranslate / STranslate](https://github.com/STranslate/STranslate) - A ready\-to\-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 * 【2025-12-24】[IvanMurzak / Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - AI-powered bridge connecting LLMs and advanced AI agents to the Unity Editor via the Model Context Protocol (MCP). Chat with AI to generate code, debug errors, and automate game development tasks directly within your project.
@@ -6410,6 +6420,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-12-26】[orhun / tuitar](https://github.com/orhun/tuitar) - A portable guitar training tool & DIY kit 🎛️🎸
+* 【2025-12-26】[teamclouday / AndroidMic](https://github.com/teamclouday/AndroidMic) - Use your Android phone as a microphone for your PC
+* 【2025-12-26】[tonbo\-io / tonbo](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded database for serverless and edge runtimes 
 * 【2025-12-23】[mullvad / gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust
 * 【2025-12-23】[cloudflare / boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 * 【2025-12-18】[cobalt\-org / liquid\-rust](https://github.com/cobalt-org/liquid-rust) - Liquid templating for Rust
@@ -7274,6 +7287,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-12-26】[antvis / Infographic](https://github.com/antvis/Infographic) - 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
 * 【2025-12-25】[sst / models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
 * 【2025-12-24】[tambo-ai / tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 * 【2025-12-24】[kizuna-ai-lab / sokuji](https://github.com/kizuna-ai-lab/sokuji) - Live speech translation application built with Electron 34 and React, using OpenAI's Realtime API.
