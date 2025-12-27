@@ -1,5 +1,6 @@
 ## All language
 
+* 【2025-12-27】[flowsurface\-rs / flowsurface](https://github.com/flowsurface-rs/flowsurface) - A native desktop charting platform for crypto markets
 * 【2025-12-25】[apurvsinghgautam / robin](https://github.com/apurvsinghgautam/robin) - AI\-Powered Dark Web OSINT Tool
 * 【2025-12-25】[facebookresearch / dinov3](https://github.com/facebookresearch/dinov3) - Reference PyTorch implementation and models for DINOv3
 * 【2025-12-24】[safety\-research / bloom](https://github.com/safety-research/bloom) - bloom \- evaluate any behavior immediately  🌸🌱
@@ -1494,6 +1495,9 @@
 
 ## Python
 
+* 【2025-12-27】[TauricResearch / TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi\-Agents LLM Financial Trading Framework
+* 【2025-12-27】[HKUDS / VideoRAG](https://github.com/HKUDS/VideoRAG) - [KDD'2026] "VideoRAG: Chat with Your Videos"
+* 【2025-12-27】[laude\-institute / harbor](https://github.com/laude-institute/harbor) - Harbor is a framework for running agent evaluations and creating and using RL environments 
 * 【2025-12-26】[OpenDCAI / DataFlow](https://github.com/OpenDCAI/DataFlow) - Easy Data Preparation with latest LLMs\-based Operators and Pipelines 
 * 【2025-12-25】[zai\-org / GLM\-4 5](https://github.com/zai-org/GLM-4.5) - GLM\-4 5: Agentic, Reasoning, and Coding (ARC) Foundation Models
 * 【2025-12-24】[safety-research / bloom](https://github.com/safety-research/bloom) - bloom - evaluate any behavior immediately  🌸🌱
@@ -2716,6 +2720,7 @@
 
 ## Javascript
 
+* 【2025-12-27】[renmu123 / biliLive-tools](https://github.com/renmu123/biliLive-tools) - 直播一站式处理工具，支持直播录制&视频处理&弹幕处理&录播姬自动上传
 * 【2025-12-26】[pucherot / Pi Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector  Check the devices connected and alert you with unknown devices  It also warns of the disconnection of "always connected" devices
 * 【2025-12-26】[parcoil / sparkle](https://github.com/parcoil/sparkle) - A Windows app to debloat and optimize your PC
 * 【2025-12-23】[justlovemaki / AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!
@@ -3329,6 +3334,7 @@
 
 ## Go
 
+* 【2025-12-27】[xpzouying / xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - MCP for xiaohongshu.com
 * 【2025-12-26】[WCY-dt / MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross-platform, and free AI RSS reader. 一个现代化、跨平台且免费的 AI RSS 阅读器.
 * 【2025-12-26】[coze-dev / coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
 * 【2025-12-24】[5rahim / seanime](https://github.com/5rahim/seanime) - Open\-source media server with a web interface and desktop app for anime and manga 
@@ -4248,6 +4254,7 @@
 
 ## C++
 
+* 【2025-12-27】[alibaba / rtp-llm](https://github.com/alibaba/rtp-llm) - RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.
 * 【2025-12-26】[alibaba / rtp\-llm](https://github.com/alibaba/rtp-llm) - RTP\-LLM: Alibaba's high\-performance LLM inference engine for diverse applications 
 * 【2025-12-26】[jd\-opensource / xllm](https://github.com/jd-opensource/xllm) - A high\-performance inference engine for LLMs, optimized for diverse AI accelerators 
 * 【2025-12-25】[zeldaret / tp](https://github.com/zeldaret/tp) - Decompilation of The Legend of Zelda: Twilight Princess
@@ -5164,6 +5171,7 @@
 
 ## Html
 
+* 【2025-12-27】[D-Ogi / WatermarkRemover-AI](https://github.com/D-Ogi/WatermarkRemover-AI) - AI-Powered Watermark Remover using Florence-2 and LaMA Models: A Python application leveraging state-of-the-art deep learning models to effectively remove watermarks from images with a user-friendly PyQt6 interface.
 * 【2025-12-24】[wujunwei928 / parse-video-py](https://github.com/wujunwei928/parse-video-py) - Python短视频去水印爬虫：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频...
 * 【2025-12-23】[wujunwei928 / parse\-video\-py](https://github.com/wujunwei928/parse-video-py) - Python短视频去水印爬虫：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频   
 * 【2025-12-23】[EllatharTheHalfling / DnD\-Books](https://github.com/EllatharTheHalfling/DnD-Books) - 
@@ -6420,6 +6428,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2025-12-27】[flowsurface-rs / flowsurface](https://github.com/flowsurface-rs/flowsurface) - A native desktop charting platform for crypto markets
 * 【2025-12-26】[orhun / tuitar](https://github.com/orhun/tuitar) - A portable guitar training tool & DIY kit 🎛️🎸
 * 【2025-12-26】[teamclouday / AndroidMic](https://github.com/teamclouday/AndroidMic) - Use your Android phone as a microphone for your PC
 * 【2025-12-26】[tonbo\-io / tonbo](https://github.com/tonbo-io/tonbo) - Tonbo is an embedded database for serverless and edge runtimes 
