@@ -1,5 +1,7 @@
 ## All language
 
+* 【2025-12-29】[tw93 / Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac 
+* 【2025-12-29】[Sergeydigl3 / zapret\-discord\-youtube\-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux) - (NOW ONLY FOR NFTABLES) Port zapret\-discord\-youtube from Flowseal and bol\-van for easy to use on linux
 * 【2025-12-28】[agrinman / tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL 
 * 【2025-12-27】[flowsurface\-rs / flowsurface](https://github.com/flowsurface-rs/flowsurface) - A native desktop charting platform for crypto markets
 * 【2025-12-25】[apurvsinghgautam / robin](https://github.com/apurvsinghgautam/robin) - AI\-Powered Dark Web OSINT Tool
@@ -2724,6 +2726,7 @@
 
 ## Javascript
 
+* 【2025-12-29】[elementdavv / internet_archive_downloader](https://github.com/elementdavv/internet_archive_downloader) - A chrome/firefox extension that download books from Internet Archive(archive org) and HathiTrust Digital Library (hathitrust org)
 * 【2025-12-27】[renmu123 / biliLive-tools](https://github.com/renmu123/biliLive-tools) - 直播一站式处理工具，支持直播录制&视频处理&弹幕处理&录播姬自动上传
 * 【2025-12-26】[pucherot / Pi Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector  Check the devices connected and alert you with unknown devices  It also warns of the disconnection of "always connected" devices
 * 【2025-12-26】[parcoil / sparkle](https://github.com/parcoil/sparkle) - A Windows app to debloat and optimize your PC
@@ -3338,6 +3341,8 @@
 
 ## Go
 
+* 【2025-12-29】[looplj / axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI ( Chat Completion, Responses), Anthropic, Gemini and AI SDK compatible API
+* 【2025-12-29】[nginx / nginx\-gateway\-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane 
 * 【2025-12-27】[xpzouying / xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - MCP for xiaohongshu.com
 * 【2025-12-26】[WCY-dt / MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross-platform, and free AI RSS reader. 一个现代化、跨平台且免费的 AI RSS 阅读器.
 * 【2025-12-26】[coze-dev / coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
@@ -3844,6 +3849,8 @@
 
 ## C
 
+* 【2025-12-29】[streetpea / chiaki\-ng](https://github.com/streetpea/chiaki-ng) - Next\-Generation of Chiaki (the open\-source remote play client for PlayStation)
+* 【2025-12-29】[cgsecurity / testdisk](https://github.com/cgsecurity/testdisk) - TestDisk & PhotoRec
 * 【2025-12-28】[toniebox-reverse-engineering / teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) - teddyCloud is an open source server replacement for the Boxine Cloud
 * 【2025-12-21】[timescale / pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance\-ranked full\-text search  Postgres OSS licensed 
 * 【2025-12-19】[scallyw4g / bonsai](https://github.com/scallyw4g/bonsai) - The procedural generation voxel engine
@@ -7306,6 +7313,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-12-29】[supreme\-gg\-gg / instagram\-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's terminal UI app \- The ultimate weapon against brainrot
+* 【2025-12-29】[webpro\-nl / knip](https://github.com/webpro-nl/knip) - ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects  Knip it before you ship it!
 * 【2025-12-26】[antvis / Infographic](https://github.com/antvis/Infographic) - 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
 * 【2025-12-25】[sst / models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
 * 【2025-12-24】[tambo-ai / tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
