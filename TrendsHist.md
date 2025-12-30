@@ -1500,6 +1500,7 @@
 
 ## Python
 
+* 【2025-12-30】[mampfes / hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) - Home Assistant integration framework for (garbage collection) schedules
 * 【2025-12-28】[vibrantlabsai / ragas](https://github.com/vibrantlabsai/ragas) - Supercharge Your LLM Application Evaluations 🚀
 * 【2025-12-27】[TauricResearch / TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi\-Agents LLM Financial Trading Framework
 * 【2025-12-27】[HKUDS / VideoRAG](https://github.com/HKUDS/VideoRAG) - [KDD'2026] "VideoRAG: Chat with Your Videos"
@@ -2726,6 +2727,8 @@
 
 ## Javascript
 
+* 【2025-12-30】[nagix / mini\-tokyo\-3d](https://github.com/nagix/mini-tokyo-3d) - A real\-time 3D digital map of Tokyo's public transport system
+* 【2025-12-30】[ganeshrvel / openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP \- Advanced Android File Transfer Application for macOS
 * 【2025-12-29】[elementdavv / internet_archive_downloader](https://github.com/elementdavv/internet_archive_downloader) - A chrome/firefox extension that download books from Internet Archive(archive org) and HathiTrust Digital Library (hathitrust org)
 * 【2025-12-27】[renmu123 / biliLive-tools](https://github.com/renmu123/biliLive-tools) - 直播一站式处理工具，支持直播录制&视频处理&弹幕处理&录播姬自动上传
 * 【2025-12-26】[pucherot / Pi Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector  Check the devices connected and alert you with unknown devices  It also warns of the disconnection of "always connected" devices
@@ -3341,6 +3344,7 @@
 
 ## Go
 
+* 【2025-12-30】[oxc\-project / tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
 * 【2025-12-29】[looplj / axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI ( Chat Completion, Responses), Anthropic, Gemini and AI SDK compatible API
 * 【2025-12-29】[nginx / nginx\-gateway\-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane 
 * 【2025-12-27】[xpzouying / xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - MCP for xiaohongshu.com
@@ -3849,6 +3853,10 @@
 
 ## C
 
+* 【2025-12-30】[mruby / mruby](https://github.com/mruby/mruby) - Lightweight Ruby
+* 【2025-12-30】[vysheng / tg](https://github.com/vysheng/tg) - telegram\-cli
+* 【2025-12-30】[basil00 / WinDivert](https://github.com/basil00/WinDivert) - WinDivert: Windows Packet Divert
+* 【2025-12-30】[dsp56300 / gearmulator](https://github.com/dsp56300/gearmulator) - Low Level Emulation of classic VA synths & effects of the late 90s/2000s by emulating the used ICs
 * 【2025-12-29】[streetpea / chiaki\-ng](https://github.com/streetpea/chiaki-ng) - Next\-Generation of Chiaki (the open\-source remote play client for PlayStation)
 * 【2025-12-29】[cgsecurity / testdisk](https://github.com/cgsecurity/testdisk) - TestDisk & PhotoRec
 * 【2025-12-28】[toniebox-reverse-engineering / teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) - teddyCloud is an open source server replacement for the Boxine Cloud
@@ -4711,6 +4719,8 @@
 
 ## C#
 
+* 【2025-12-30】[jayfunc / BetterLyrics](https://github.com/jayfunc/BetterLyrics) - An elegant and deeply customizable lyrics & player app, built with WinUI3/Win2D \| 一款优雅且高度自定义的歌词/播放器应用，基于 WinUI3/Win2D 构建
+* 【2025-12-30】[Extremelyd1 / HKMP](https://github.com/Extremelyd1/HKMP) - Hollow Knight Multiplayer
 * 【2025-12-26】[Alex4SSB / ADB\-Explorer](https://github.com/Alex4SSB/ADB-Explorer) - A fluent UI for ADB on Windows
 * 【2025-12-24】[database64128 / youtube\-dl\-wpf](https://github.com/database64128/youtube-dl-wpf) - WPF GUI for youtube\-dl and yt\-dlp 
 * 【2025-12-24】[STranslate / STranslate](https://github.com/STranslate/STranslate) - A ready\-to\-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
@@ -5184,6 +5194,8 @@
 
 ## Html
 
+* 【2025-12-30】[EllatharTheHalfling / DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books) - 
+* 【2025-12-30】[json\-schema\-org / website](https://github.com/json-schema-org/website) - JSON Schema website
 * 【2025-12-28】[FrizzleM / BreakFree](https://github.com/FrizzleM/BreakFree) - A free iOS shortcut that lets you sideload unlimited apps on your iOS and iPadOS device using an exploit (involves DNSs and public certificates) 
 * 【2025-12-27】[D-Ogi / WatermarkRemover-AI](https://github.com/D-Ogi/WatermarkRemover-AI) - AI-Powered Watermark Remover using Florence-2 and LaMA Models: A Python application leveraging state-of-the-art deep learning models to effectively remove watermarks from images with a user-friendly PyQt6 interface.
 * 【2025-12-24】[wujunwei928 / parse-video-py](https://github.com/wujunwei928/parse-video-py) - Python短视频去水印爬虫：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频...
@@ -7313,6 +7325,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2025-12-30】[xtermjs / xterm js](https://github.com/xtermjs/xterm.js) - A terminal for the web
+* 【2025-12-30】[supreme-gg-gg / instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's terminal UI app - The ultimate weapon against brainrot
+* 【2025-12-30】[OneKeyHQ / app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
+* 【2025-12-30】[darrenhinde / OpenAgents](https://github.com/darrenhinde/OpenAgents) - AI agent framework for plan\-first development workflows with approval\-based execution  Multi\-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode
+* 【2025-12-30】[likec4 / likec4](https://github.com/likec4/likec4) - Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
 * 【2025-12-29】[supreme\-gg\-gg / instagram\-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's terminal UI app \- The ultimate weapon against brainrot
 * 【2025-12-29】[webpro\-nl / knip](https://github.com/webpro-nl/knip) - ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects  Knip it before you ship it!
 * 【2025-12-26】[antvis / Infographic](https://github.com/antvis/Infographic) - 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
