@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-01-01】[google\-gemini / computer\-use\-preview](https://github.com/google-gemini/computer-use-preview) - 
 * 【2025-12-31】[timescale / pg\-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation  Helps AI coding tools generate better PostgreSQL code 
 * 【2025-12-29】[tw93 / Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac 
 * 【2025-12-29】[Sergeydigl3 / zapret\-discord\-youtube\-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux) - (NOW ONLY FOR NFTABLES) Port zapret\-discord\-youtube from Flowseal and bol\-van for easy to use on linux
@@ -1501,6 +1502,9 @@
 
 ## Python
 
+* 【2026-01-01】[google-gemini / computer-use-preview](https://github.com/google-gemini/computer-use-preview) - 
+* 【2026-01-01】[tencent-ailab / SongGeneration](https://github.com/tencent-ailab/SongGeneration) - The official code repository for LeVo: High-Quality Song Generation with Multi-Preference Alignment
+* 【2026-01-01】[meizhong986 / WhisperJAV](https://github.com/meizhong986/WhisperJAV) - 
 * 【2025-12-31】[timescale / pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 * 【2025-12-31】[tencent\-ailab / SongGeneration](https://github.com/tencent-ailab/SongGeneration) - The official code repository for LeVo: High\-Quality Song Generation with Multi\-Preference Alignment
 * 【2025-12-30】[mampfes / hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) - Home Assistant integration framework for (garbage collection) schedules
@@ -3348,6 +3352,7 @@
 
 ## Go
 
+* 【2026-01-01】[dundee / gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 * 【2025-12-31】[rishikanthc / Scriberr](https://github.com/rishikanthc/Scriberr) - Self\-hosted AI audio transcription
 * 【2025-12-30】[oxc\-project / tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
 * 【2025-12-29】[looplj / axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI ( Chat Completion, Responses), Anthropic, Gemini and AI SDK compatible API
@@ -7330,6 +7335,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-01-01】[giselles\-ai / giselle](https://github.com/giselles-ai/giselle) - Giselle: AI App Builder  Open Source 
 * 【2025-12-30】[xtermjs / xterm js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 * 【2025-12-30】[supreme-gg-gg / instagram-cli](https://github.com/supreme-gg-gg/instagram-cli) - Instagram's terminal UI app - The ultimate weapon against brainrot
 * 【2025-12-30】[OneKeyHQ / app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
