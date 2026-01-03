@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-01-03】[HQarroum / docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 * 【2026-01-02】[awslabs / amazon\-bedrock\-agentcore\-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples) - Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real\-world deployment 
 * 【2026-01-02】[HQarroum / docker\-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service 
 * 【2026-01-02】[Polymarket / agents](https://github.com/Polymarket/agents) - Trade autonomously on Polymarket using AI Agents
@@ -1101,6 +1102,7 @@
 
 ## Java
 
+* 【2026-01-03】[mamiiblt / instafel](https://github.com/mamiiblt/instafel) - Instafel provides fast & up\-to\-date Instagram Alpha experience for everyone!
 * 【2025-12-28】[Xed-Editor / Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 * 【2025-12-28】[higress\-group / himarket](https://github.com/higress-group/himarket) - HiMarket is an enterprise\-level "AI Capability Marketplace and Developer Ecosystem Hub " It is not merely a simple aggregation of traditional APIs, but rather a comprehensive platform that packages, publishes, manages, and operates core AI assets such as enterprise Model APIs, MCP Servers, Agent APIs, etc , through standardized product formats 
 * 【2025-12-26】[1Panel-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce.
@@ -1505,6 +1507,7 @@
 
 ## Python
 
+* 【2026-01-03】[QwenLM / Qwen\-Image](https://github.com/QwenLM/Qwen-Image) - Qwen\-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing 
 * 【2026-01-01】[google-gemini / computer-use-preview](https://github.com/google-gemini/computer-use-preview) - 
 * 【2026-01-01】[tencent-ailab / SongGeneration](https://github.com/tencent-ailab/SongGeneration) - The official code repository for LeVo: High-Quality Song Generation with Multi-Preference Alignment
 * 【2026-01-01】[meizhong986 / WhisperJAV](https://github.com/meizhong986/WhisperJAV) - 
@@ -2737,6 +2740,8 @@
 
 ## Javascript
 
+* 【2026-01-03】[mrrfv / cloudflare\-gateway\-pihole\-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) - Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains \- free alternative to NextDNS, Pi\-hole and AdGuard
+* 【2026-01-03】[cameroncooke / XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode\-related tools for integration with AI assistants and other MCP clients 
 * 【2026-01-02】[sismics / docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 * 【2025-12-31】[nagix / mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) - A real-time 3D digital map of Tokyo's public transport system
 * 【2025-12-30】[nagix / mini\-tokyo\-3d](https://github.com/nagix/mini-tokyo-3d) - A real\-time 3D digital map of Tokyo's public transport system
@@ -3356,6 +3361,9 @@
 
 ## Go
 
+* 【2026-01-03】[autobrr / qui](https://github.com/autobrr/qui) - A fast, single\-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross\-seed across trackers  Go + React 
+* 【2026-01-03】[danielpaulus / go\-ios](https://github.com/danielpaulus/go-ios) - This is an operating system independent implementation of iOS device features  You can run UI tests, launch or kill apps, install apps etc  with it 
+* 【2026-01-03】[getfider / fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 * 【2026-01-02】[krau / SaveAny\-Bot](https://github.com/krau/SaveAny-Bot) - Save Any Telegram File to Anywhere 📂 (Alist, Disk, Webdav, S3   )   Support restrict saving content and beyond telegram 
 * 【2026-01-02】[nginx / kubernetes\-ingress](https://github.com/nginx/kubernetes-ingress) - NGINX and NGINX Plus Ingress Controllers for Kubernetes
 * 【2026-01-01】[dundee / gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
@@ -4290,6 +4298,7 @@
 
 ## C++
 
+* 【2026-01-03】[azahar-emu / azahar](https://github.com/azahar-emu/azahar) - An open-source 3DS emulator project based on Citra.
 * 【2026-01-02】[BatchDrake / SigDigger](https://github.com/BatchDrake/SigDigger) - Qt\-based digital signal analyzer, using Suscan core and Sigutils DSP library
 * 【2026-01-02】[hn / bsh\-home\-appliances](https://github.com/hn/bsh-home-appliances) - BSH Bosch Siemens home appliances reverse engineering: D\-Bus, washing machine, dryer electronics
 * 【2026-01-02】[surge\-synthesizer / OB\-Xf](https://github.com/surge-synthesizer/OB-Xf) - OB\-Xf is a continuation and modernatization of the last open source release of OB\-Xd by 2DaT and later discoDSP  It is inspired by the venerable Oberheim OB\-X  Get the nightly https://github com/surge\-synthesizer/OB\-Xf/releases/tag/Nightly
@@ -5213,6 +5222,7 @@
 
 ## Html
 
+* 【2026-01-03】[nisrulz / app\-privacy\-policy\-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
 * 【2026-01-02】[koush / vysor io](https://github.com/koush/vysor.io) - Vysor \- Mirror and Control your Phone
 * 【2026-01-02】[GeeDook / mirava](https://github.com/GeeDook/mirava) - Mirava is a curated list of Iranian package mirrors, providing reliable and fast access to essential software resources within Iran 
 * 【2025-12-30】[EllatharTheHalfling / DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books) - 
@@ -5771,6 +5781,8 @@
 
 ## Unknown
 
+* 【2026-01-03】[FoundationVision / Waver](https://github.com/FoundationVision/Waver) - Industry\-level video foundation model for unified Text\-to\-Video (T2V) and Image\-to\-Video (I2V) generation 
+* 【2026-01-03】[chartjs / awesome](https://github.com/chartjs/awesome) - A curated list of awesome Chart js resources and libraries
 * 【2025-12-25】[xiaobaigroup / ClashBox](https://github.com/xiaobaigroup/ClashBox) - HarmonyOS NEXT的代理软件
 * 【2025-12-23】[WildKernels / OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS) - OnePlus Kernels with KernelSU & SUSFS
 * 【2025-12-23】[afshinea / stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) - VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models
@@ -7347,6 +7359,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-01-03】[autobrr / netronome](https://github.com/autobrr/netronome) - Netronome is a modern network speed testing and monitoring tool built with Go and React 
+* 【2026-01-03】[antvis / mcp\-server\-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp contains 25+ visual charts using @antvis  Using for chart generation and data analysis 
+* 【2026-01-03】[Polymarket / clob\-client](https://github.com/Polymarket/clob-client) - Typescript client for the Polymarket CLOB
 * 【2026-01-02】[amantus\-ai / vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal & command your agents on the go 
 * 【2026-01-01】[giselles\-ai / giselle](https://github.com/giselles-ai/giselle) - Giselle: AI App Builder  Open Source 
 * 【2025-12-30】[xtermjs / xterm js](https://github.com/xtermjs/xterm.js) - A terminal for the web
