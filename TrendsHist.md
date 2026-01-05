@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-01-05】[anomalyco / opencode](https://github.com/anomalyco/opencode) - The open source coding agent 
 * 【2026-01-04】[beancount / beancount](https://github.com/beancount/beancount) - Beancount: Double\-Entry Accounting from Text Files 
 * 【2026-01-03】[HQarroum / docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 * 【2026-01-02】[awslabs / amazon\-bedrock\-agentcore\-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples) - Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real\-world deployment 
@@ -1103,6 +1104,7 @@
 
 ## Java
 
+* 【2026-01-05】[FiguraMC / Figura](https://github.com/FiguraMC/Figura) - Extensively customize your character with Figura!
 * 【2026-01-03】[mamiiblt / instafel](https://github.com/mamiiblt/instafel) - Instafel provides fast & up\-to\-date Instagram Alpha experience for everyone!
 * 【2025-12-28】[Xed-Editor / Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 * 【2025-12-28】[higress\-group / himarket](https://github.com/higress-group/himarket) - HiMarket is an enterprise\-level "AI Capability Marketplace and Developer Ecosystem Hub " It is not merely a simple aggregation of traditional APIs, but rather a comprehensive platform that packages, publishes, manages, and operates core AI assets such as enterprise Model APIs, MCP Servers, Agent APIs, etc , through standardized product formats 
@@ -1508,6 +1510,10 @@
 
 ## Python
 
+* 【2026-01-05】[PennyLaneAI / pennylane](https://github.com/PennyLaneAI/pennylane) - PennyLane is a cross\-platform Python library for quantum computing, quantum machine learning, and quantum chemistry  Built by researchers, for research 
+* 【2026-01-05】[PrimeIntellect-ai / verifiers](https://github.com/PrimeIntellect-ai/verifiers) - Our library for RL environments + evals
+* 【2026-01-05】[wasmerio / Python\-Scripts](https://github.com/wasmerio/Python-Scripts) - A curated list of python scripts for automating your tasks
+* 【2026-01-05】[GodsScion / Auto_job_applier_linkedIn](https://github.com/GodsScion/Auto_job_applier_linkedIn) - Make your job hunt easy by automating your application process with this Auto Applier
 * 【2026-01-04】[QwenLM / Qwen-Image](https://github.com/QwenLM/Qwen-Image) - Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing.
 * 【2026-01-04】[absadiki / whatsapp\-msgstore\-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer) - Free, open source and cross\-platform app to decrypt, read and view the Whatsapp msgstore db database
 * 【2026-01-03】[QwenLM / Qwen\-Image](https://github.com/QwenLM/Qwen-Image) - Qwen\-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing 
@@ -3365,6 +3371,7 @@
 
 ## Go
 
+* 【2026-01-05】[johannesboyne / gofakes3](https://github.com/johannesboyne/gofakes3) - A simple fake AWS S3 object storage (used for local test\-runs against AWS S3 APIs)
 * 【2026-01-04】[danielpaulus / go-ios](https://github.com/danielpaulus/go-ios) - This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.
 * 【2026-01-04】[nginx / nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 * 【2026-01-03】[autobrr / qui](https://github.com/autobrr/qui) - A fast, single\-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross\-seed across trackers  Go + React 
@@ -4304,6 +4311,7 @@
 
 ## C++
 
+* 【2026-01-05】[OpenStarbound / OpenStarbound](https://github.com/OpenStarbound/OpenStarbound) - 
 * 【2026-01-03】[azahar-emu / azahar](https://github.com/azahar-emu/azahar) - An open-source 3DS emulator project based on Citra.
 * 【2026-01-02】[BatchDrake / SigDigger](https://github.com/BatchDrake/SigDigger) - Qt\-based digital signal analyzer, using Suscan core and Sigutils DSP library
 * 【2026-01-02】[hn / bsh\-home\-appliances](https://github.com/hn/bsh-home-appliances) - BSH Bosch Siemens home appliances reverse engineering: D\-Bus, washing machine, dryer electronics
@@ -6494,6 +6502,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-01-05】[rust-lang / crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
+* 【2026-01-05】[tansu\-io / tansu](https://github.com/tansu-io/tansu) - Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake
 * 【2026-01-02】[jnsahaj / lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff, Instant AI Git Commit message, Git changes summary from the CLI (no API key required)
 * 【2025-12-28】[lanyeeee / jmcomic-downloader](https://github.com/lanyeeee/jmcomic-downloader) - 禁漫天堂 18comic.vip jmcomic 18comic 的多线程下载器，带图形界面 带收藏夹 免费下载收费的漫画，已打包exe 下载速度飞快
 * 【2025-12-28】[SpikeHD / Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
