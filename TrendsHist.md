@@ -1510,6 +1510,7 @@
 
 ## Python
 
+* 【2026-01-06】[github / spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 * 【2026-01-05】[PennyLaneAI / pennylane](https://github.com/PennyLaneAI/pennylane) - PennyLane is a cross\-platform Python library for quantum computing, quantum machine learning, and quantum chemistry  Built by researchers, for research 
 * 【2026-01-05】[PrimeIntellect-ai / verifiers](https://github.com/PrimeIntellect-ai/verifiers) - Our library for RL environments + evals
 * 【2026-01-05】[wasmerio / Python\-Scripts](https://github.com/wasmerio/Python-Scripts) - A curated list of python scripts for automating your tasks
@@ -6502,6 +6503,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-01-06】[fjall\-rs / fjall](https://github.com/fjall-rs/fjall) - 🗻 Log\-structured, embeddable key\-value storage engine written in Rust
 * 【2026-01-05】[rust-lang / crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
 * 【2026-01-05】[tansu\-io / tansu](https://github.com/tansu-io/tansu) - Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake
 * 【2026-01-02】[jnsahaj / lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff, Instant AI Git Commit message, Git changes summary from the CLI (no API key required)
@@ -7376,6 +7378,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-01-06】[vladmeer / polymarket\-copy\-trading\-bot](https://github.com/vladmeer/polymarket-copy-trading-bot) - Polymarket Copy Trading Bot \|\| Polymarket trading bot  Polymarket Copy Trading Bot \|\| Polymarket trading bot  Polymarket Copy Trading Bot \|\| Polymarket trading bot
 * 【2026-01-04】[shareAI\-lab / Kode\-cli](https://github.com/shareAI-lab/Kode-cli) - Design for post human  Kode is one unit agent for every human & computer task
 * 【2026-01-03】[autobrr / netronome](https://github.com/autobrr/netronome) - Netronome is a modern network speed testing and monitoring tool built with Go and React 
 * 【2026-01-03】[antvis / mcp\-server\-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp contains 25+ visual charts using @antvis  Using for chart generation and data analysis 
