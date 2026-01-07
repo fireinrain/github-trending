@@ -1104,6 +1104,7 @@
 
 ## Java
 
+* 【2026-01-07】[google / copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories 
 * 【2026-01-05】[FiguraMC / Figura](https://github.com/FiguraMC/Figura) - Extensively customize your character with Figura!
 * 【2026-01-03】[mamiiblt / instafel](https://github.com/mamiiblt/instafel) - Instafel provides fast & up\-to\-date Instagram Alpha experience for everyone!
 * 【2025-12-28】[Xed-Editor / Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
@@ -1510,6 +1511,7 @@
 
 ## Python
 
+* 【2026-01-07】[docling\-project / docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 * 【2026-01-06】[github / spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 * 【2026-01-05】[PennyLaneAI / pennylane](https://github.com/PennyLaneAI/pennylane) - PennyLane is a cross\-platform Python library for quantum computing, quantum machine learning, and quantum chemistry  Built by researchers, for research 
 * 【2026-01-05】[PrimeIntellect-ai / verifiers](https://github.com/PrimeIntellect-ai/verifiers) - Our library for RL environments + evals
@@ -2750,6 +2752,7 @@
 
 ## Javascript
 
+* 【2026-01-07】[prateek-chaubey / YTPro](https://github.com/prateek-chaubey/YTPro) - Youtube client with older Android version support, background player, Google Gemini ✨ and many more features.
 * 【2026-01-04】[heyitsnoah / claudesidian](https://github.com/heyitsnoah/claudesidian) - 
 * 【2026-01-03】[mrrfv / cloudflare\-gateway\-pihole\-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) - Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains \- free alternative to NextDNS, Pi\-hole and AdGuard
 * 【2026-01-03】[cameroncooke / XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode\-related tools for integration with AI assistants and other MCP clients 
@@ -3372,6 +3375,7 @@
 
 ## Go
 
+* 【2026-01-07】[abhinavxd / libredesk](https://github.com/abhinavxd/libredesk) - Modern, open source, self\-hosted customer support desk  Single binary app 
 * 【2026-01-05】[johannesboyne / gofakes3](https://github.com/johannesboyne/gofakes3) - A simple fake AWS S3 object storage (used for local test\-runs against AWS S3 APIs)
 * 【2026-01-04】[danielpaulus / go-ios](https://github.com/danielpaulus/go-ios) - This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.
 * 【2026-01-04】[nginx / nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
@@ -3891,6 +3895,7 @@
 
 ## C
 
+* 【2026-01-07】[HermanChen / mpp](https://github.com/HermanChen/mpp) - Rockchip MPP(Media Process Platfrom)
 * 【2025-12-30】[mruby / mruby](https://github.com/mruby/mruby) - Lightweight Ruby
 * 【2025-12-30】[vysheng / tg](https://github.com/vysheng/tg) - telegram\-cli
 * 【2025-12-30】[basil00 / WinDivert](https://github.com/basil00/WinDivert) - WinDivert: Windows Packet Divert
@@ -4312,6 +4317,8 @@
 
 ## C++
 
+* 【2026-01-07】[realsenseai / librealsense](https://github.com/realsenseai/librealsense) - RealSense SDK
+* 【2026-01-07】[univrsal / input\-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
 * 【2026-01-05】[OpenStarbound / OpenStarbound](https://github.com/OpenStarbound/OpenStarbound) - 
 * 【2026-01-03】[azahar-emu / azahar](https://github.com/azahar-emu/azahar) - An open-source 3DS emulator project based on Citra.
 * 【2026-01-02】[BatchDrake / SigDigger](https://github.com/BatchDrake/SigDigger) - Qt\-based digital signal analyzer, using Suscan core and Sigutils DSP library
@@ -4762,6 +4769,7 @@
 
 ## C#
 
+* 【2026-01-07】[ImAiiR / QobuzDownloaderX](https://github.com/ImAiiR/QobuzDownloaderX) - QBDLX is a program that downloads streams directly from Qobuz
 * 【2025-12-30】[jayfunc / BetterLyrics](https://github.com/jayfunc/BetterLyrics) - An elegant and deeply customizable lyrics & player app, built with WinUI3/Win2D \| 一款优雅且高度自定义的歌词/播放器应用，基于 WinUI3/Win2D 构建
 * 【2025-12-30】[Extremelyd1 / HKMP](https://github.com/Extremelyd1/HKMP) - Hollow Knight Multiplayer
 * 【2025-12-26】[Alex4SSB / ADB\-Explorer](https://github.com/Alex4SSB/ADB-Explorer) - A fluent UI for ADB on Windows
@@ -5237,6 +5245,7 @@
 
 ## Html
 
+* 【2026-01-07】[apache / ozone\-site](https://github.com/apache/ozone-site) - Website for Apache Ozone
 * 【2026-01-03】[nisrulz / app\-privacy\-policy\-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
 * 【2026-01-02】[koush / vysor io](https://github.com/koush/vysor.io) - Vysor \- Mirror and Control your Phone
 * 【2026-01-02】[GeeDook / mirava](https://github.com/GeeDook/mirava) - Mirava is a curated list of Iranian package mirrors, providing reliable and fast access to essential software resources within Iran 
@@ -5796,6 +5805,7 @@
 
 ## Unknown
 
+* 【2026-01-07】[anthropics / claude\-agent\-sdk\-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
 * 【2026-01-04】[kepano / kepano\-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template  A bottom\-up approach to note\-taking and organizing things I am interested in 
 * 【2026-01-03】[FoundationVision / Waver](https://github.com/FoundationVision/Waver) - Industry\-level video foundation model for unified Text\-to\-Video (T2V) and Image\-to\-Video (I2V) generation 
 * 【2026-01-03】[chartjs / awesome](https://github.com/chartjs/awesome) - A curated list of awesome Chart js resources and libraries
@@ -7378,6 +7388,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-01-07】[anomalyco / models dev](https://github.com/anomalyco/models.dev) - An open\-source database of AI models 
+* 【2026-01-07】[numman\-ali / opencode\-openai\-codex\-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions \- uses OpenAI's official authentication method
+* 【2026-01-07】[lzghzr / MDR_Proxy](https://github.com/lzghzr/MDR_Proxy) - 索尼无线耳机更新程序 SoundConnect 本地代理工具
 * 【2026-01-06】[vladmeer / polymarket\-copy\-trading\-bot](https://github.com/vladmeer/polymarket-copy-trading-bot) - Polymarket Copy Trading Bot \|\| Polymarket trading bot  Polymarket Copy Trading Bot \|\| Polymarket trading bot  Polymarket Copy Trading Bot \|\| Polymarket trading bot
 * 【2026-01-04】[shareAI\-lab / Kode\-cli](https://github.com/shareAI-lab/Kode-cli) - Design for post human  Kode is one unit agent for every human & computer task
 * 【2026-01-03】[autobrr / netronome](https://github.com/autobrr/netronome) - Netronome is a modern network speed testing and monitoring tool built with Go and React 
