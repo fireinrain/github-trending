@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-01-08】[memvid / memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents  Replace complex RAG pipelines with a serverless, single\-file memory layer  Give your agents instant retrieval and long\-term memory 
+* 【2026-01-08】[MiroMindAI / MiroThinker](https://github.com/MiroMindAI/MiroThinker) - MiroThinker is a series of open\-source search agent designed to advance tool\-augmented reasoning and information\-seeking capabilities 
 * 【2026-01-05】[anomalyco / opencode](https://github.com/anomalyco/opencode) - The open source coding agent 
 * 【2026-01-04】[beancount / beancount](https://github.com/beancount/beancount) - Beancount: Double\-Entry Accounting from Text Files 
 * 【2026-01-03】[HQarroum / docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
@@ -1511,6 +1513,9 @@
 
 ## Python
 
+* 【2026-01-08】[camel\-ai / owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi\-Agent Assistance in Real\-World Task Automation
+* 【2026-01-08】[trustgraph\-ai / trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Context Graph Factory for AI  Build, manage, and deploy AI\-optimized Context Graphs 
+* 【2026-01-08】[facebookresearch / sam\-audio](https://github.com/facebookresearch/sam-audio) - The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM\-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to use the model 
 * 【2026-01-07】[docling\-project / docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 * 【2026-01-06】[github / spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 * 【2026-01-05】[PennyLaneAI / pennylane](https://github.com/PennyLaneAI/pennylane) - PennyLane is a cross\-platform Python library for quantum computing, quantum machine learning, and quantum chemistry  Built by researchers, for research 
@@ -4317,6 +4322,7 @@
 
 ## C++
 
+* 【2026-01-08】[Redot-Engine / redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
 * 【2026-01-07】[realsenseai / librealsense](https://github.com/realsenseai/librealsense) - RealSense SDK
 * 【2026-01-07】[univrsal / input\-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
 * 【2026-01-05】[OpenStarbound / OpenStarbound](https://github.com/OpenStarbound/OpenStarbound) - 
@@ -7388,6 +7394,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-01-08】[firecrawl / open\-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
+* 【2026-01-08】[hangwin / mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
+* 【2026-01-08】[YILS-LIN / short-video-factory](https://github.com/YILS-LIN/short-video-factory) - 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool
 * 【2026-01-07】[anomalyco / models dev](https://github.com/anomalyco/models.dev) - An open\-source database of AI models 
 * 【2026-01-07】[numman\-ali / opencode\-openai\-codex\-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions \- uses OpenAI's official authentication method
 * 【2026-01-07】[lzghzr / MDR_Proxy](https://github.com/lzghzr/MDR_Proxy) - 索尼无线耳机更新程序 SoundConnect 本地代理工具
