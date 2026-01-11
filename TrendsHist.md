@@ -1109,6 +1109,7 @@
 
 ## Java
 
+* 【2026-01-11】[iflytek / astron\-agent](https://github.com/iflytek/astron-agent) - Enterprise\-grade, commercial\-friendly agentic workflow platform for building next\-generation SuperAgents 
 * 【2026-01-10】[OpenAEV-Platform / openaev](https://github.com/OpenAEV-Platform/openaev) - Open Adversarial Exposure Validation Platform
 * 【2026-01-09】[OpenAEV\-Platform / openaev](https://github.com/OpenAEV-Platform/openaev) - Open Adversarial Exposure Validation Platform
 * 【2026-01-07】[google / copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories 
@@ -1518,6 +1519,7 @@
 
 ## Python
 
+* 【2026-01-11】[EveryInc / compound\-engineering\-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
 * 【2026-01-10】[Comfy\-Org / ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface 
 * 【2026-01-09】[NevaMind-AI / memU](https://github.com/NevaMind-AI/memU) - Memory infrastructure for LLMs and AI agents
 * 【2026-01-09】[hiyouga / LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine\-Tuning of 100+ LLMs & VLMs (ACL 2024)
@@ -4333,6 +4335,7 @@
 
 ## C++
 
+* 【2026-01-11】[livinamuk / Hell2025](https://github.com/livinamuk/Hell2025) - 
 * 【2026-01-09】[UPBGE / upbge](https://github.com/UPBGE/upbge) - UPBGE, the best integrated game engine in Blender
 * 【2026-01-08】[Redot-Engine / redot-engine](https://github.com/Redot-Engine/redot-engine) - Redot Engine – Multi-platform 2D and 3D game engine
 * 【2026-01-07】[realsenseai / librealsense](https://github.com/realsenseai/librealsense) - RealSense SDK
@@ -5824,6 +5827,8 @@
 
 ## Unknown
 
+* 【2026-01-11】[anthropics / claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
+* 【2026-01-11】[samuelmarina / is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 * 【2026-01-10】[samuelmarina / is\-even](https://github.com/samuelmarina/is-even) - Is a number even?
 * 【2026-01-07】[anthropics / claude\-agent\-sdk\-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
 * 【2026-01-04】[kepano / kepano\-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template  A bottom\-up approach to note\-taking and organizing things I am interested in 
@@ -6533,6 +6538,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-01-11】[jlucaso1 / whatsapp\-rust](https://github.com/jlucaso1/whatsapp-rust) - Whatsapp client written purely in Rust based on whatsmeow and baileys
 * 【2026-01-06】[fjall\-rs / fjall](https://github.com/fjall-rs/fjall) - 🗻 Log\-structured, embeddable key\-value storage engine written in Rust
 * 【2026-01-05】[rust-lang / crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry
 * 【2026-01-05】[tansu\-io / tansu](https://github.com/tansu-io/tansu) - Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake
