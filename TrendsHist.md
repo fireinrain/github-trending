@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-01-13】[frankbria / ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
 * 【2026-01-12】[frankbria / ralph\-claude\-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
 * 【2026-01-10】[obra / superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 * 【2026-01-09】[NVlabs / alpasim](https://github.com/NVlabs/alpasim) - 
@@ -1521,6 +1522,7 @@
 
 ## Python
 
+* 【2026-01-13】[leochlon / pythea](https://github.com/leochlon/pythea) - 
 * 【2026-01-11】[EveryInc / compound\-engineering\-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
 * 【2026-01-10】[Comfy\-Org / ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface 
 * 【2026-01-09】[NevaMind-AI / memU](https://github.com/NevaMind-AI/memU) - Memory infrastructure for LLMs and AI agents
@@ -4797,6 +4799,7 @@
 
 ## C#
 
+* 【2026-01-13】[iiDk-the-actual / iis.Stupid.Menu](https://github.com/iiDk-the-actual/iis.Stupid.Menu) - A mod menu for Gorilla Tag with over 1000+ mods
 * 【2026-01-07】[ImAiiR / QobuzDownloaderX](https://github.com/ImAiiR/QobuzDownloaderX) - QBDLX is a program that downloads streams directly from Qobuz
 * 【2025-12-30】[jayfunc / BetterLyrics](https://github.com/jayfunc/BetterLyrics) - An elegant and deeply customizable lyrics & player app, built with WinUI3/Win2D \| 一款优雅且高度自定义的歌词/播放器应用，基于 WinUI3/Win2D 构建
 * 【2025-12-30】[Extremelyd1 / HKMP](https://github.com/Extremelyd1/HKMP) - Hollow Knight Multiplayer
@@ -5834,6 +5837,8 @@
 
 ## Unknown
 
+* 【2026-01-13】[mithi / robotics\-coursework](https://github.com/mithi/robotics-coursework) - 🤖 Places where you can learn robotics (and stuff like that) online 🤖
+* 【2026-01-13】[kiloreux / awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources
 * 【2026-01-12】[kiloreux / awesome\-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources
 * 【2026-01-11】[anthropics / claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
 * 【2026-01-11】[samuelmarina / is-even](https://github.com/samuelmarina/is-even) - Is a number even?
@@ -7422,6 +7427,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-01-13】[fal\-ai\-community / video\-starter\-kit](https://github.com/fal-ai-community/video-starter-kit) - Enable AI models for video production in the browser
+* 【2026-01-13】[modstart\-lib / linkandroid](https://github.com/modstart-lib/linkandroid) - Link Android and PC easily! 全能手机连接助手！
 * 【2026-01-12】[Open-Dev-Society / OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 * 【2026-01-10】[Open\-Dev\-Society / OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open\-source alternative to expensive market platforms  Track real\-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free 
 * 【2026-01-09】[microsoft / vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
