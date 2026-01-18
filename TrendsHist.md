@@ -1527,6 +1527,8 @@
 
 ## Python
 
+* 【2026-01-18】[OpenBMB / VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM: Tokenizer\-Free TTS for Context\-Aware Speech Generation and True\-to\-Life Voice Cloning
+* 【2026-01-18】[Wirasm / PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Prompts, workflows and more for agentic engineering
 * 【2026-01-17】[neuphonic / neutts](https://github.com/neuphonic/neutts) - On\-device TTS model by Neuphonic
 * 【2026-01-17】[camel-ai / owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 * 【2026-01-17】[modelscope / evalscope](https://github.com/modelscope/evalscope) - A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking 
@@ -2787,6 +2789,7 @@
 
 ## Javascript
 
+* 【2026-01-18】[fex-team / kityminder](https://github.com/fex-team/kityminder) - 百度脑图
 * 【2026-01-16】[fex\-team / kityminder](https://github.com/fex-team/kityminder) - 百度脑图
 * 【2026-01-14】[yawiii / ComfyUI\-Prompt\-Assistant](https://github.com/yawiii/ComfyUI-Prompt-Assistant) - 提示词小助手可以一键调用智谱、硅基流动、gemini、本地ollama、百度等大语言模型服务，实现提示词翻译、润色扩写、图片反推。支持提示词预设实现一键插入、历史提示词查找等功能。是一个全能型提示词插件。The Prompt Assistant enables one\-click access to LLMs/VLMs for prompt translation, expansion, and image captioning  It also supports one\-click preset insertion and historical prompt search 
 * 【2026-01-12】[MarSeventh / CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
@@ -3414,6 +3417,7 @@
 
 ## Go
 
+* 【2026-01-18】[kubernetes\-sigs / ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources
 * 【2026-01-17】[loong / go-concurrency-exercises](https://github.com/loong/go-concurrency-exercises) - Hands on exercises with real-life examples to study and practice Go concurrency patterns. Test-cases are provided to verify your answers.
 * 【2026-01-17】[getarcaneapp / arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 * 【2026-01-16】[loong / go\-concurrency\-exercises](https://github.com/loong/go-concurrency-exercises) - Hands on exercises with real\-life examples to study and practice Go concurrency patterns  Test\-cases are provided to verify your answers 
@@ -3940,6 +3944,7 @@
 
 ## C
 
+* 【2026-01-18】[ValveSoftware / wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 * 【2026-01-16】[shorepine / tulipcc](https://github.com/shorepine/tulipcc) - The Tulip Creative Computer \- a portable Python synthesizer for music and graphics
 * 【2026-01-07】[HermanChen / mpp](https://github.com/HermanChen/mpp) - Rockchip MPP(Media Process Platfrom)
 * 【2025-12-30】[mruby / mruby](https://github.com/mruby/mruby) - Lightweight Ruby
@@ -4363,6 +4368,7 @@
 
 ## C++
 
+* 【2026-01-18】[Crementif / BotW\-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
 * 【2026-01-17】[1q23lyc45 / KitsuneMagisk](https://github.com/1q23lyc45/KitsuneMagisk) - A fork of KitsuneMagisk  Thanks to the original author @HuskyDG 
 * 【2026-01-16】[openvinotoolkit / openvino.genai](https://github.com/openvinotoolkit/openvino.genai) - Run Generative AI models with simple C++/Python API and using OpenVINO Runtime
 * 【2026-01-15】[subsurface / subsurface](https://github.com/subsurface/subsurface) - This is the official upstream of the Subsurface divelog program
@@ -4824,6 +4830,8 @@
 
 ## C#
 
+* 【2026-01-18】[dotnet / XAMLStudio](https://github.com/dotnet/XAMLStudio) - XAML Studio is a rapid prototyping tool for WinUI\-based XAML that can then be easily copied into Visual Studio!
+* 【2026-01-18】[RawAccelOfficial / rawaccel](https://github.com/RawAccelOfficial/rawaccel) - kernel mode mouse accel
 * 【2026-01-15】[XKaguya / LenovoLegionToolkit](https://github.com/XKaguya/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops 
 * 【2026-01-13】[iiDk-the-actual / iis.Stupid.Menu](https://github.com/iiDk-the-actual/iis.Stupid.Menu) - A mod menu for Gorilla Tag with over 1000+ mods
 * 【2026-01-07】[ImAiiR / QobuzDownloaderX](https://github.com/ImAiiR/QobuzDownloaderX) - QBDLX is a program that downloads streams directly from Qobuz
@@ -5302,6 +5310,7 @@
 
 ## Html
 
+* 【2026-01-18】[rickstaa / awesome\-adsb](https://github.com/rickstaa/awesome-adsb) - 📡 A curated list of awesome ASD\-B tools, projects, images, resources and other shiny things 
 * 【2026-01-16】[duckdb / duckdb\-web](https://github.com/duckdb/duckdb-web) - 🐤 DuckDB website and documentation
 * 【2026-01-09】[mgaudet / CompilerJobs](https://github.com/mgaudet/CompilerJobs) - A listing of compiler, language and runtime teams for people looking for jobs in this area
 * 【2026-01-07】[apache / ozone\-site](https://github.com/apache/ozone-site) - Website for Apache Ozone
@@ -5864,6 +5873,7 @@
 
 ## Unknown
 
+* 【2026-01-18】[travisvn / awesome\-claude\-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 * 【2026-01-17】[obra / superpowers\-marketplace](https://github.com/obra/superpowers-marketplace) - Curated Claude Code plugin marketplace
 * 【2026-01-13】[mithi / robotics\-coursework](https://github.com/mithi/robotics-coursework) - 🤖 Places where you can learn robotics (and stuff like that) online 🤖
 * 【2026-01-13】[kiloreux / awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources
@@ -7460,6 +7470,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-01-18】[stack\-chan / stack\-chan](https://github.com/stack-chan/stack-chan) - A JavaScript\-driven M5Stack\-embedded super\-kawaii robot 
 * 【2026-01-17】[mihomo-party-org / clash-party](https://github.com/mihomo-party-org/clash-party) - Another Mihomo GUI.
 * 【2026-01-17】[vercel / ai\-elements](https://github.com/vercel/ai-elements) - AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI\-native applications faster 
 * 【2026-01-16】[eigent-ai / eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
