@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-01-19】[tobi / try](https://github.com/tobi/try) - fresh directories for every vibe
 * 【2026-01-17】[Gentleman\-Programming / Gentleman Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) - My personal configuration for LazyVim !
 * 【2026-01-16】[eigent\-ai / eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity 
 * 【2026-01-15】[dev\-sec / ansible\-collection\-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
@@ -1527,6 +1528,8 @@
 
 ## Python
 
+* 【2026-01-19】[NVlabs / PyCuVSLAM](https://github.com/NVlabs/PyCuVSLAM) - Highly accurate and efficient VSLAM system for Python
+* 【2026-01-19】[freemocap / freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
 * 【2026-01-18】[OpenBMB / VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM: Tokenizer\-Free TTS for Context\-Aware Speech Generation and True\-to\-Life Voice Cloning
 * 【2026-01-18】[Wirasm / PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Prompts, workflows and more for agentic engineering
 * 【2026-01-17】[neuphonic / neutts](https://github.com/neuphonic/neutts) - On\-device TTS model by Neuphonic
@@ -2789,6 +2792,8 @@
 
 ## Javascript
 
+* 【2026-01-19】[alam00000 / bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
+* 【2026-01-19】[Coding-Solo / godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
 * 【2026-01-18】[fex-team / kityminder](https://github.com/fex-team/kityminder) - 百度脑图
 * 【2026-01-16】[fex\-team / kityminder](https://github.com/fex-team/kityminder) - 百度脑图
 * 【2026-01-14】[yawiii / ComfyUI\-Prompt\-Assistant](https://github.com/yawiii/ComfyUI-Prompt-Assistant) - 提示词小助手可以一键调用智谱、硅基流动、gemini、本地ollama、百度等大语言模型服务，实现提示词翻译、润色扩写、图片反推。支持提示词预设实现一键插入、历史提示词查找等功能。是一个全能型提示词插件。The Prompt Assistant enables one\-click access to LLMs/VLMs for prompt translation, expansion, and image captioning  It also supports one\-click preset insertion and historical prompt search 
@@ -6589,6 +6594,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-01-19】[max\-sixty / worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 * 【2026-01-16】[datahaven-xyz / datahaven](https://github.com/datahaven-xyz/datahaven) - An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer
 * 【2026-01-15】[Pumpkin-MC / Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 * 【2026-01-15】[datahaven\-xyz / datahaven](https://github.com/datahaven-xyz/datahaven) - An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer
@@ -7470,6 +7476,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-01-19】[Nagi\-ovo / gemini\-voyager](https://github.com/Nagi-ovo/gemini-voyager) - An all\-in\-one enhancement suite for Google Gemini \- timeline navigation, folder management, prompt library, and chat export in one powerful extension 
 * 【2026-01-18】[stack\-chan / stack\-chan](https://github.com/stack-chan/stack-chan) - A JavaScript\-driven M5Stack\-embedded super\-kawaii robot 
 * 【2026-01-17】[mihomo-party-org / clash-party](https://github.com/mihomo-party-org/clash-party) - Another Mihomo GUI.
 * 【2026-01-17】[vercel / ai\-elements](https://github.com/vercel/ai-elements) - AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI\-native applications faster 
