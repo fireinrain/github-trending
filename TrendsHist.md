@@ -1528,6 +1528,9 @@
 
 ## Python
 
+* 【2026-01-20】[The\-Pocket / PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100\-line LLM framework  Let Agents build Agents!
+* 【2026-01-20】[ComposioHQ / awesome\-claude\-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+* 【2026-01-20】[yusufkaraaslan / Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 * 【2026-01-19】[NVlabs / PyCuVSLAM](https://github.com/NVlabs/PyCuVSLAM) - Highly accurate and efficient VSLAM system for Python
 * 【2026-01-19】[freemocap / freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
 * 【2026-01-18】[OpenBMB / VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM: Tokenizer\-Free TTS for Context\-Aware Speech Generation and True\-to\-Life Voice Cloning
@@ -3949,6 +3952,7 @@
 
 ## C
 
+* 【2026-01-20】[voidtools / voidImageViewer](https://github.com/voidtools/voidImageViewer) - Lightweight image viewer for Windows with animated GIF/WEBP support
 * 【2026-01-18】[ValveSoftware / wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 * 【2026-01-16】[shorepine / tulipcc](https://github.com/shorepine/tulipcc) - The Tulip Creative Computer \- a portable Python synthesizer for music and graphics
 * 【2026-01-07】[HermanChen / mpp](https://github.com/HermanChen/mpp) - Rockchip MPP(Media Process Platfrom)
@@ -4373,6 +4377,7 @@
 
 ## C++
 
+* 【2026-01-20】[quickshell\-mirror / quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 * 【2026-01-18】[Crementif / BotW\-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
 * 【2026-01-17】[1q23lyc45 / KitsuneMagisk](https://github.com/1q23lyc45/KitsuneMagisk) - A fork of KitsuneMagisk  Thanks to the original author @HuskyDG 
 * 【2026-01-16】[openvinotoolkit / openvino.genai](https://github.com/openvinotoolkit/openvino.genai) - Run Generative AI models with simple C++/Python API and using OpenVINO Runtime
@@ -5878,6 +5883,7 @@
 
 ## Unknown
 
+* 【2026-01-20】[ycccccccy / echotrace](https://github.com/ycccccccy/echotrace) - EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 \| EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records
 * 【2026-01-18】[travisvn / awesome\-claude\-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 * 【2026-01-17】[obra / superpowers\-marketplace](https://github.com/obra/superpowers-marketplace) - Curated Claude Code plugin marketplace
 * 【2026-01-13】[mithi / robotics\-coursework](https://github.com/mithi/robotics-coursework) - 🤖 Places where you can learn robotics (and stuff like that) online 🤖
@@ -6594,6 +6600,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-01-20】[mikeyobrien / ralph\-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 * 【2026-01-19】[max\-sixty / worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 * 【2026-01-16】[datahaven-xyz / datahaven](https://github.com/datahaven-xyz/datahaven) - An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer
 * 【2026-01-15】[Pumpkin-MC / Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
@@ -7476,6 +7483,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-01-20】[Nagi-ovo / gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) - An all-in-one enhancement suite for Google Gemini - timeline navigation, folder management, prompt library, and chat export in one powerful extension.
+* 【2026-01-20】[dyoshikawa / rulesync](https://github.com/dyoshikawa/rulesync) - 
+* 【2026-01-20】[readest / readest](https://github.com/readest/readest) - Readest is a modern, feature\-rich ebook reader designed for avid readers offering seamless cross\-platform access, powerful tools, and an intuitive interface to elevate your reading experience 
 * 【2026-01-19】[Nagi\-ovo / gemini\-voyager](https://github.com/Nagi-ovo/gemini-voyager) - An all\-in\-one enhancement suite for Google Gemini \- timeline navigation, folder management, prompt library, and chat export in one powerful extension 
 * 【2026-01-18】[stack\-chan / stack\-chan](https://github.com/stack-chan/stack-chan) - A JavaScript\-driven M5Stack\-embedded super\-kawaii robot 
 * 【2026-01-17】[mihomo-party-org / clash-party](https://github.com/mihomo-party-org/clash-party) - Another Mihomo GUI.
