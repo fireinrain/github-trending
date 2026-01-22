@@ -1529,6 +1529,8 @@
 
 ## Python
 
+* 【2026-01-22】[datawhalechina / all-in-rag](https://github.com/datawhalechina/all-in-rag) - 🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/
+* 【2026-01-22】[karpathy / nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy 
 * 【2026-01-21】[verygoodplugins / automem](https://github.com/verygoodplugins/automem) - AutoMem is a graph\-vector memory service that gives AI assistants durable, relational memory:
 * 【2026-01-21】[EveryInc / compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
 * 【2026-01-21】[thu\-ml / tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning library 
@@ -6604,6 +6606,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-01-22】[skim-rs / skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 * 【2026-01-21】[mikeyobrien / ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 * 【2026-01-21】[skim\-rs / skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 * 【2026-01-21】[max-sixty / worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
@@ -7490,6 +7493,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-01-22】[ryoppippi / ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files 
+* 【2026-01-22】[vladmeer / polymarket-copy-trading-bot](https://github.com/vladmeer/polymarket-copy-trading-bot) - polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot
+* 【2026-01-22】[virattt / dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
+* 【2026-01-22】[amruthpillai / reactive\-resume](https://github.com/amruthpillai/reactive-resume) - A one\-of\-a\-kind resume builder that keeps your privacy in mind  Completely secure, customizable, portable, open\-source and free forever  Try it out today!
 * 【2026-01-21】[darrenhinde / OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan\-first development workflows with approval\-based execution  Multi\-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode
 * 【2026-01-20】[Nagi-ovo / gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) - An all-in-one enhancement suite for Google Gemini - timeline navigation, folder management, prompt library, and chat export in one powerful extension.
 * 【2026-01-20】[dyoshikawa / rulesync](https://github.com/dyoshikawa/rulesync) - 
