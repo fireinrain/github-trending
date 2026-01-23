@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-01-23】[nexmoe / VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 * 【2026-01-19】[tobi / try](https://github.com/tobi/try) - fresh directories for every vibe
 * 【2026-01-17】[Gentleman\-Programming / Gentleman Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) - My personal configuration for LazyVim !
 * 【2026-01-16】[eigent\-ai / eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity 
@@ -2801,6 +2802,7 @@
 
 ## Javascript
 
+* 【2026-01-23】[databricks\-industry\-solutions / pixels](https://github.com/databricks-industry-solutions/pixels) - Facilitates simple large scale processing of HLS Medical images, documents, zip files  OHIF Viewer, 2 segmentation models and interactive learning 
 * 【2026-01-19】[alam00000 / bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 * 【2026-01-19】[Coding-Solo / godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
 * 【2026-01-18】[fex-team / kityminder](https://github.com/fex-team/kityminder) - 百度脑图
@@ -3431,6 +3433,7 @@
 
 ## Go
 
+* 【2026-01-23】[kubernetes\-sigs / agent\-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent\-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes 
 * 【2026-01-18】[kubernetes\-sigs / ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources
 * 【2026-01-17】[loong / go-concurrency-exercises](https://github.com/loong/go-concurrency-exercises) - Hands on exercises with real-life examples to study and practice Go concurrency patterns. Test-cases are provided to verify your answers.
 * 【2026-01-17】[getarcaneapp / arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -4383,6 +4386,7 @@
 
 ## C++
 
+* 【2026-01-23】[KhronosGroup / SPIRV\-Tools](https://github.com/KhronosGroup/SPIRV-Tools) - 
 * 【2026-01-20】[quickshell\-mirror / quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 * 【2026-01-18】[Crementif / BotW\-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
 * 【2026-01-17】[1q23lyc45 / KitsuneMagisk](https://github.com/1q23lyc45/KitsuneMagisk) - A fork of KitsuneMagisk  Thanks to the original author @HuskyDG 
@@ -5889,6 +5893,8 @@
 
 ## Unknown
 
+* 【2026-01-23】[johnjago / awesome\-free\-software](https://github.com/johnjago/awesome-free-software) - Curated list of open\-source, free as in freedom software 
+* 【2026-01-23】[Makememo / MemoAI](https://github.com/Makememo/MemoAI) - MemoAI Video to translated text, subtitles and notes made easy 
 * 【2026-01-20】[ycccccccy / echotrace](https://github.com/ycccccccy/echotrace) - EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 \| EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records
 * 【2026-01-18】[travisvn / awesome\-claude\-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 * 【2026-01-17】[obra / superpowers\-marketplace](https://github.com/obra/superpowers-marketplace) - Curated Claude Code plugin marketplace
