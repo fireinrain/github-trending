@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-01-24】[OpenBMB / UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low\-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+* 【2026-01-24】[lyogavin / airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 * 【2026-01-23】[nexmoe / VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 * 【2026-01-19】[tobi / try](https://github.com/tobi/try) - fresh directories for every vibe
 * 【2026-01-17】[Gentleman\-Programming / Gentleman Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) - My personal configuration for LazyVim !
@@ -1117,6 +1119,7 @@
 
 ## Java
 
+* 【2026-01-24】[iflytek / astron-agent](https://github.com/iflytek/astron-agent) - Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 * 【2026-01-21】[gaul / s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 * 【2026-01-15】[nroduit / Weasis](https://github.com/nroduit/Weasis) - Weasis is a web\-based DICOM viewer for advanced medical imaging and seamless PACS integration 
 * 【2026-01-12】[TrackerControl / tracker\-control\-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads 
@@ -1530,6 +1533,7 @@
 
 ## Python
 
+* 【2026-01-24】[ruvnet / wifi\-densepose](https://github.com/ruvnet/wifi-densepose) - Production\-ready implementation of InvisPose \- a revolutionary WiFi\-based dense human pose estimation system that enables real\-time full\-body tracking through walls using commodity mesh routers
 * 【2026-01-22】[datawhalechina / all-in-rag](https://github.com/datawhalechina/all-in-rag) - 🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/
 * 【2026-01-22】[karpathy / nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy 
 * 【2026-01-21】[verygoodplugins / automem](https://github.com/verygoodplugins/automem) - AutoMem is a graph\-vector memory service that gives AI assistants durable, relational memory:
@@ -3961,6 +3965,8 @@
 
 ## C
 
+* 【2026-01-24】[X11Libre / xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
+* 【2026-01-24】[sqfmi / Watchy](https://github.com/sqfmi/Watchy) - Watchy \- An Open Source E\-Ink Smartwatch
 * 【2026-01-20】[voidtools / voidImageViewer](https://github.com/voidtools/voidImageViewer) - Lightweight image viewer for Windows with animated GIF/WEBP support
 * 【2026-01-18】[ValveSoftware / wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 * 【2026-01-16】[shorepine / tulipcc](https://github.com/shorepine/tulipcc) - The Tulip Creative Computer \- a portable Python synthesizer for music and graphics
@@ -5330,6 +5336,7 @@
 
 ## Html
 
+* 【2026-01-24】[Jeffallan / claude\-skills](https://github.com/Jeffallan/claude-skills) - 65 Specialized Skills for Full\-Stack Developers \- Transform Claude Code into your expert pair programmer
 * 【2026-01-18】[rickstaa / awesome\-adsb](https://github.com/rickstaa/awesome-adsb) - 📡 A curated list of awesome ASD\-B tools, projects, images, resources and other shiny things 
 * 【2026-01-16】[duckdb / duckdb\-web](https://github.com/duckdb/duckdb-web) - 🐤 DuckDB website and documentation
 * 【2026-01-09】[mgaudet / CompilerJobs](https://github.com/mgaudet/CompilerJobs) - A listing of compiler, language and runtime teams for people looking for jobs in this area
@@ -7499,6 +7506,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-01-24】[tonyantony300 / alt\-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud \- any size, any format, no accounts, no restrictions 
+* 【2026-01-24】[LOG1997 / log\-lottery](https://github.com/LOG1997/log-lottery) - 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。
+* 【2026-01-24】[colanode / colanode](https://github.com/colanode/colanode) - Open\-source and local\-first Slack and Notion alternative that puts you in control of your data
 * 【2026-01-22】[ryoppippi / ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files 
 * 【2026-01-22】[vladmeer / polymarket-copy-trading-bot](https://github.com/vladmeer/polymarket-copy-trading-bot) - polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot polymarket trading bot polymarket copy trading bot
 * 【2026-01-22】[virattt / dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
