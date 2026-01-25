@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-01-25】[AI4Finance-Foundation / FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀
 * 【2026-01-24】[OpenBMB / UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low\-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 * 【2026-01-24】[lyogavin / airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 * 【2026-01-23】[nexmoe / VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
@@ -1119,6 +1120,7 @@
 
 ## Java
 
+* 【2026-01-25】[agentscope\-ai / agentscope\-java](https://github.com/agentscope-ai/agentscope-java) - AgentScope Java: Agent\-Oriented Programming for Building LLM Applications
 * 【2026-01-24】[iflytek / astron-agent](https://github.com/iflytek/astron-agent) - Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 * 【2026-01-21】[gaul / s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 * 【2026-01-15】[nroduit / Weasis](https://github.com/nroduit/Weasis) - Weasis is a web\-based DICOM viewer for advanced medical imaging and seamless PACS integration 
@@ -1533,6 +1535,8 @@
 
 ## Python
 
+* 【2026-01-25】[business\-science / ai\-data\-science\-team](https://github.com/business-science/ai-data-science-team) - An AI\-powered data science team of agents to help you perform common data science tasks 10X faster 
+* 【2026-01-25】[AI4Finance\-Foundation / FinRL\-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) - For trading  Please star 
 * 【2026-01-24】[ruvnet / wifi\-densepose](https://github.com/ruvnet/wifi-densepose) - Production\-ready implementation of InvisPose \- a revolutionary WiFi\-based dense human pose estimation system that enables real\-time full\-body tracking through walls using commodity mesh routers
 * 【2026-01-22】[datawhalechina / all-in-rag](https://github.com/datawhalechina/all-in-rag) - 🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/
 * 【2026-01-22】[karpathy / nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy 
@@ -2806,6 +2810,8 @@
 
 ## Javascript
 
+* 【2026-01-25】[apinanaivot / IKEA\-3D\-Model\-Download\-Button](https://github.com/apinanaivot/IKEA-3D-Model-Download-Button) - Adds ability to download models from IKEA website
+* 【2026-01-25】[lackeyjb / playwright\-skill](https://github.com/lackeyjb/playwright-skill) - Claude Code Skill for browser automation with Playwright  Model\-invoked \- Claude autonomously writes and executes custom automation for testing and validation 
 * 【2026-01-23】[databricks\-industry\-solutions / pixels](https://github.com/databricks-industry-solutions/pixels) - Facilitates simple large scale processing of HLS Medical images, documents, zip files  OHIF Viewer, 2 segmentation models and interactive learning 
 * 【2026-01-19】[alam00000 / bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 * 【2026-01-19】[Coding-Solo / godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
@@ -4392,6 +4398,7 @@
 
 ## C++
 
+* 【2026-01-25】[Crementif / BotW-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
 * 【2026-01-23】[KhronosGroup / SPIRV\-Tools](https://github.com/KhronosGroup/SPIRV-Tools) - 
 * 【2026-01-20】[quickshell\-mirror / quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 * 【2026-01-18】[Crementif / BotW\-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
@@ -4856,6 +4863,7 @@
 
 ## C#
 
+* 【2026-01-25】[microsoft / winappCli](https://github.com/microsoft/winappCli) - winapp, the Windows App Development CLI, is a single command\-line interface for managing Windows SDKs, packaging, generating app identity, manifests, certificates, and using build tools with any app framework 
 * 【2026-01-18】[dotnet / XAMLStudio](https://github.com/dotnet/XAMLStudio) - XAML Studio is a rapid prototyping tool for WinUI\-based XAML that can then be easily copied into Visual Studio!
 * 【2026-01-18】[RawAccelOfficial / rawaccel](https://github.com/RawAccelOfficial/rawaccel) - kernel mode mouse accel
 * 【2026-01-15】[XKaguya / LenovoLegionToolkit](https://github.com/XKaguya/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops 
@@ -5336,6 +5344,7 @@
 
 ## Html
 
+* 【2026-01-25】[Jeffallan / claude-skills](https://github.com/Jeffallan/claude-skills) - 65 Specialized Skills for Full-Stack Developers - Transform Claude Code into your expert pair programmer
 * 【2026-01-24】[Jeffallan / claude\-skills](https://github.com/Jeffallan/claude-skills) - 65 Specialized Skills for Full\-Stack Developers \- Transform Claude Code into your expert pair programmer
 * 【2026-01-18】[rickstaa / awesome\-adsb](https://github.com/rickstaa/awesome-adsb) - 📡 A curated list of awesome ASD\-B tools, projects, images, resources and other shiny things 
 * 【2026-01-16】[duckdb / duckdb\-web](https://github.com/duckdb/duckdb-web) - 🐤 DuckDB website and documentation
@@ -6619,6 +6628,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-01-25】[git\-ai\-project / git\-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI\-generated code in your repos
+* 【2026-01-25】[Haleclipse / CCometixLine](https://github.com/Haleclipse/CCometixLine) - Claude Code statusline tool written in Rust
 * 【2026-01-22】[skim-rs / skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 * 【2026-01-21】[mikeyobrien / ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration
 * 【2026-01-21】[skim\-rs / skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
@@ -7506,6 +7517,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-01-25】[gemini\-cli\-extensions / workspace](https://github.com/gemini-cli-extensions/workspace) - Access Google Workspace when using Gemini CLI
+* 【2026-01-25】[vendurehq / vendure](https://github.com/vendurehq/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL 
 * 【2026-01-24】[tonyantony300 / alt\-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud \- any size, any format, no accounts, no restrictions 
 * 【2026-01-24】[LOG1997 / log\-lottery](https://github.com/LOG1997/log-lottery) - 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。
 * 【2026-01-24】[colanode / colanode](https://github.com/colanode/colanode) - Open\-source and local\-first Slack and Notion alternative that puts you in control of your data
