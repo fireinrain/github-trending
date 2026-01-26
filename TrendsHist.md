@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-01-26】[Psiphon\-Inc / conduit](https://github.com/Psiphon-Inc/conduit) - Conduit Client
 * 【2026-01-25】[AI4Finance-Foundation / FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀
 * 【2026-01-24】[OpenBMB / UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low\-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 * 【2026-01-24】[lyogavin / airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
@@ -1120,6 +1121,7 @@
 
 ## Java
 
+* 【2026-01-26】[jarvis2f / telegram\-files](https://github.com/jarvis2f/telegram-files) - A self\-hosted Telegram file downloader for continuous, stable, and unattended downloads 
 * 【2026-01-25】[agentscope\-ai / agentscope\-java](https://github.com/agentscope-ai/agentscope-java) - AgentScope Java: Agent\-Oriented Programming for Building LLM Applications
 * 【2026-01-24】[iflytek / astron-agent](https://github.com/iflytek/astron-agent) - Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 * 【2026-01-21】[gaul / s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
@@ -1535,6 +1537,8 @@
 
 ## Python
 
+* 【2026-01-26】[business-science / ai-data-science-team](https://github.com/business-science/ai-data-science-team) - An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
+* 【2026-01-26】[bee-san / Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 * 【2026-01-25】[business\-science / ai\-data\-science\-team](https://github.com/business-science/ai-data-science-team) - An AI\-powered data science team of agents to help you perform common data science tasks 10X faster 
 * 【2026-01-25】[AI4Finance\-Foundation / FinRL\-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) - For trading  Please star 
 * 【2026-01-24】[ruvnet / wifi\-densepose](https://github.com/ruvnet/wifi-densepose) - Production\-ready implementation of InvisPose \- a revolutionary WiFi\-based dense human pose estimation system that enables real\-time full\-body tracking through walls using commodity mesh routers
@@ -3443,6 +3447,7 @@
 
 ## Go
 
+* 【2026-01-26】[githubnext / gh\-aw](https://github.com/githubnext/gh-aw) - GitHub Agentic Workflows
 * 【2026-01-23】[kubernetes\-sigs / agent\-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent\-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes 
 * 【2026-01-18】[kubernetes\-sigs / ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources
 * 【2026-01-17】[loong / go-concurrency-exercises](https://github.com/loong/go-concurrency-exercises) - Hands on exercises with real-life examples to study and practice Go concurrency patterns. Test-cases are provided to verify your answers.
@@ -5344,6 +5349,9 @@
 
 ## Html
 
+* 【2026-01-26】[ONLYOFFICE / web-apps](https://github.com/ONLYOFFICE/web-apps) - The frontend for ONLYOFFICE Document Server which builds the program interface
+* 【2026-01-26】[OWASP-BLT / BLT](https://github.com/OWASP-BLT/BLT) - OWASP BLT - Bug Logging Tools
+* 【2026-01-26】[sinavm / sinavm](https://github.com/sinavm/sinavm) - مواقعی که اینترنت ملی و محدود است، بدون نیاز به وی پی ان می‌توانید به محتوای کانال‌ها و کانفیگ‌های فیلترشکن دسترسی پیدا کنید
 * 【2026-01-25】[Jeffallan / claude-skills](https://github.com/Jeffallan/claude-skills) - 65 Specialized Skills for Full-Stack Developers - Transform Claude Code into your expert pair programmer
 * 【2026-01-24】[Jeffallan / claude\-skills](https://github.com/Jeffallan/claude-skills) - 65 Specialized Skills for Full\-Stack Developers \- Transform Claude Code into your expert pair programmer
 * 【2026-01-18】[rickstaa / awesome\-adsb](https://github.com/rickstaa/awesome-adsb) - 📡 A curated list of awesome ASD\-B tools, projects, images, resources and other shiny things 
@@ -6628,6 +6636,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-01-26】[git-ai-project / git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
+* 【2026-01-26】[tonybanters / oxwm](https://github.com/tonybanters/oxwm) - 
 * 【2026-01-25】[git\-ai\-project / git\-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI\-generated code in your repos
 * 【2026-01-25】[Haleclipse / CCometixLine](https://github.com/Haleclipse/CCometixLine) - Claude Code statusline tool written in Rust
 * 【2026-01-22】[skim-rs / skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
@@ -7517,6 +7527,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-01-26】[Psiphon-Inc / conduit](https://github.com/Psiphon-Inc/conduit) - Conduit Client
 * 【2026-01-25】[gemini\-cli\-extensions / workspace](https://github.com/gemini-cli-extensions/workspace) - Access Google Workspace when using Gemini CLI
 * 【2026-01-25】[vendurehq / vendure](https://github.com/vendurehq/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL 
 * 【2026-01-24】[tonyantony300 / alt\-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud \- any size, any format, no accounts, no restrictions 
