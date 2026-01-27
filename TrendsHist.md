@@ -1537,6 +1537,7 @@
 
 ## Python
 
+* 【2026-01-27】[Comfy-Org / ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 * 【2026-01-26】[business-science / ai-data-science-team](https://github.com/business-science/ai-data-science-team) - An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
 * 【2026-01-26】[bee-san / Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 * 【2026-01-25】[business\-science / ai\-data\-science\-team](https://github.com/business-science/ai-data-science-team) - An AI\-powered data science team of agents to help you perform common data science tasks 10X faster 
@@ -2814,6 +2815,10 @@
 
 ## Javascript
 
+* 【2026-01-27】[evolus / pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use 
+* 【2026-01-27】[linuxmint / cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features 
+* 【2026-01-27】[Stremio / stremio-addon-sdk](https://github.com/Stremio/stremio-addon-sdk) - 🧙 A Node.js SDK for creating and publishing Stremio add-ons
+* 【2026-01-27】[yctimlin / mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) - 
 * 【2026-01-25】[apinanaivot / IKEA\-3D\-Model\-Download\-Button](https://github.com/apinanaivot/IKEA-3D-Model-Download-Button) - Adds ability to download models from IKEA website
 * 【2026-01-25】[lackeyjb / playwright\-skill](https://github.com/lackeyjb/playwright-skill) - Claude Code Skill for browser automation with Playwright  Model\-invoked \- Claude autonomously writes and executes custom automation for testing and validation 
 * 【2026-01-23】[databricks\-industry\-solutions / pixels](https://github.com/databricks-industry-solutions/pixels) - Facilitates simple large scale processing of HLS Medical images, documents, zip files  OHIF Viewer, 2 segmentation models and interactive learning 
@@ -3447,6 +3452,8 @@
 
 ## Go
 
+* 【2026-01-27】[kubernetes-sigs / gateway-api-inference-extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension) - Gateway API Inference Extension
+* 【2026-01-27】[TecharoHQ / anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 * 【2026-01-26】[githubnext / gh\-aw](https://github.com/githubnext/gh-aw) - GitHub Agentic Workflows
 * 【2026-01-23】[kubernetes\-sigs / agent\-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent\-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes 
 * 【2026-01-18】[kubernetes\-sigs / ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources
@@ -3976,6 +3983,7 @@
 
 ## C
 
+* 【2026-01-27】[geo\-tp / ESP32\-Bus\-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web\-Based CLI That Speaks Every Protocol
 * 【2026-01-24】[X11Libre / xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 * 【2026-01-24】[sqfmi / Watchy](https://github.com/sqfmi/Watchy) - Watchy \- An Open Source E\-Ink Smartwatch
 * 【2026-01-20】[voidtools / voidImageViewer](https://github.com/voidtools/voidImageViewer) - Lightweight image viewer for Windows with animated GIF/WEBP support
@@ -4868,6 +4876,8 @@
 
 ## C#
 
+* 【2026-01-27】[andrewmd5 / Borderless\-Gaming](https://github.com/andrewmd5/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt\-tabs 
+* 【2026-01-27】[ModernFlyouts\-Community / ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows 
 * 【2026-01-25】[microsoft / winappCli](https://github.com/microsoft/winappCli) - winapp, the Windows App Development CLI, is a single command\-line interface for managing Windows SDKs, packaging, generating app identity, manifests, certificates, and using build tools with any app framework 
 * 【2026-01-18】[dotnet / XAMLStudio](https://github.com/dotnet/XAMLStudio) - XAML Studio is a rapid prototyping tool for WinUI\-based XAML that can then be easily copied into Visual Studio!
 * 【2026-01-18】[RawAccelOfficial / rawaccel](https://github.com/RawAccelOfficial/rawaccel) - kernel mode mouse accel
@@ -6636,6 +6646,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-01-27】[storytold / artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+* 【2026-01-27】[jely2002 / youtube\-dl\-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader \- A cross\-platform GUI for youtube\-dl made in Rust with Tauri and Vue + Typescript 
 * 【2026-01-26】[git-ai-project / git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 * 【2026-01-26】[tonybanters / oxwm](https://github.com/tonybanters/oxwm) - 
 * 【2026-01-25】[git\-ai\-project / git\-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI\-generated code in your repos
@@ -7527,6 +7539,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-01-27】[caelestia\-dots / caelestia](https://github.com/caelestia-dots/caelestia) - A very segsy rice
+* 【2026-01-27】[wechat\-article / wechat\-article\-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。 支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
 * 【2026-01-26】[Psiphon-Inc / conduit](https://github.com/Psiphon-Inc/conduit) - Conduit Client
 * 【2026-01-25】[gemini\-cli\-extensions / workspace](https://github.com/gemini-cli-extensions/workspace) - Access Google Workspace when using Gemini CLI
 * 【2026-01-25】[vendurehq / vendure](https://github.com/vendurehq/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL 
