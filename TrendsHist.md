@@ -1121,6 +1121,8 @@
 
 ## Java
 
+* 【2026-01-28】[agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) - AgentScope Java: Agent-Oriented Programming for Building LLM Applications
+* 【2026-01-28】[Vineflower / vineflower](https://github.com/Vineflower/vineflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality  Fork of the Fernflower decompiler 
 * 【2026-01-26】[jarvis2f / telegram\-files](https://github.com/jarvis2f/telegram-files) - A self\-hosted Telegram file downloader for continuous, stable, and unattended downloads 
 * 【2026-01-25】[agentscope\-ai / agentscope\-java](https://github.com/agentscope-ai/agentscope-java) - AgentScope Java: Agent\-Oriented Programming for Building LLM Applications
 * 【2026-01-24】[iflytek / astron-agent](https://github.com/iflytek/astron-agent) - Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
@@ -2815,6 +2817,7 @@
 
 ## Javascript
 
+* 【2026-01-28】[anomalyco / opencode\-anthropic\-auth](https://github.com/anomalyco/opencode-anthropic-auth) - 
 * 【2026-01-27】[evolus / pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use 
 * 【2026-01-27】[linuxmint / cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features 
 * 【2026-01-27】[Stremio / stremio-addon-sdk](https://github.com/Stremio/stremio-addon-sdk) - 🧙 A Node.js SDK for creating and publishing Stremio add-ons
@@ -3452,6 +3455,7 @@
 
 ## Go
 
+* 【2026-01-28】[elC0mpa / aws\-doctor](https://github.com/elC0mpa/aws-doctor) - Diagnose AWS costs, detect idle resources, and optimize cloud spending directly from your terminal  🩺 ☁️
 * 【2026-01-27】[kubernetes-sigs / gateway-api-inference-extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension) - Gateway API Inference Extension
 * 【2026-01-27】[TecharoHQ / anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 * 【2026-01-26】[githubnext / gh\-aw](https://github.com/githubnext/gh-aw) - GitHub Agentic Workflows
@@ -3983,6 +3987,7 @@
 
 ## C
 
+* 【2026-01-28】[geo-tp / ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 * 【2026-01-27】[geo\-tp / ESP32\-Bus\-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web\-Based CLI That Speaks Every Protocol
 * 【2026-01-24】[X11Libre / xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 * 【2026-01-24】[sqfmi / Watchy](https://github.com/sqfmi/Watchy) - Watchy \- An Open Source E\-Ink Smartwatch
@@ -4411,6 +4416,7 @@
 
 ## C++
 
+* 【2026-01-28】[N64Recomp / N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 * 【2026-01-25】[Crementif / BotW-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
 * 【2026-01-23】[KhronosGroup / SPIRV\-Tools](https://github.com/KhronosGroup/SPIRV-Tools) - 
 * 【2026-01-20】[quickshell\-mirror / quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
@@ -5927,6 +5933,7 @@
 
 ## Unknown
 
+* 【2026-01-28】[cosai\-oasis / ws4\-secure\-design\-agentic\-systems](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems) - Repository for CoSAI Workstream 4, Secure Design Patterns for Agentic Systems
 * 【2026-01-23】[johnjago / awesome\-free\-software](https://github.com/johnjago/awesome-free-software) - Curated list of open\-source, free as in freedom software 
 * 【2026-01-23】[Makememo / MemoAI](https://github.com/Makememo/MemoAI) - MemoAI Video to translated text, subtitles and notes made easy 
 * 【2026-01-20】[ycccccccy / echotrace](https://github.com/ycccccccy/echotrace) - EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 \| EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records
@@ -7539,6 +7546,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-01-28】[wechat-article / wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。 支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
+* 【2026-01-28】[firecrawl / open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
+* 【2026-01-28】[t0bst4r / home\-assistant\-matter\-hub](https://github.com/t0bst4r/home-assistant-matter-hub) - Publish your Home\-Assistant Instance using Matter 
 * 【2026-01-27】[caelestia\-dots / caelestia](https://github.com/caelestia-dots/caelestia) - A very segsy rice
 * 【2026-01-27】[wechat\-article / wechat\-article\-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。 支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
 * 【2026-01-26】[Psiphon-Inc / conduit](https://github.com/Psiphon-Inc/conduit) - Conduit Client
