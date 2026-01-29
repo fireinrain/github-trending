@@ -1,5 +1,11 @@
 ## All language
 
+* 【2026-01-29】[moltbot / moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant  Any OS  Any Platform  The lobster way  🦞
+* 【2026-01-29】[modelcontextprotocol / ext\-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol \- standard for UIs embedded AI chatbots, served by MCP servers
+* 【2026-01-29】[MoonshotAI / kimi\-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent 
+* 【2026-01-29】[lobehub / lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you  We are taking agent harness to the next level — enabling multi\-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction 
+* 【2026-01-29】[ran\-j / PS2Recomp](https://github.com/ran-j/PS2Recomp) - Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
+* 【2026-01-29】[GetStream / Vision\-Agents](https://github.com/GetStream/Vision-Agents) - Open Vision Agents by Stream  Build Vision Agents quickly with any model or video provider  Uses Stream's edge network for ultra\-low latency 
 * 【2026-01-26】[Psiphon\-Inc / conduit](https://github.com/Psiphon-Inc/conduit) - Conduit Client
 * 【2026-01-25】[AI4Finance-Foundation / FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀
 * 【2026-01-24】[OpenBMB / UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low\-Code MCP Framework for Building Complex and Innovative RAG Pipelines
@@ -1539,6 +1545,9 @@
 
 ## Python
 
+* 【2026-01-29】[MoonshotAI / kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
+* 【2026-01-29】[GetStream / Vision-Agents](https://github.com/GetStream/Vision-Agents) - Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.
+* 【2026-01-29】[NVIDIA / earth2studio](https://github.com/NVIDIA/earth2studio) - Open\-source deep\-learning framework for exploring, building and deploying AI weather/climate workflows 
 * 【2026-01-27】[Comfy-Org / ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 * 【2026-01-26】[business-science / ai-data-science-team](https://github.com/business-science/ai-data-science-team) - An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
 * 【2026-01-26】[bee-san / Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -2817,6 +2826,7 @@
 
 ## Javascript
 
+* 【2026-01-29】[qrev\-ai / qrev](https://github.com/qrev-ai/qrev) - 🔥 🔥 🔥 QRev is an Open Source AI First alternative to Salesforce  It's what Salesforce would be if it was built today, starting with AI 
 * 【2026-01-28】[anomalyco / opencode\-anthropic\-auth](https://github.com/anomalyco/opencode-anthropic-auth) - 
 * 【2026-01-27】[evolus / pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use 
 * 【2026-01-27】[linuxmint / cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features 
@@ -3987,6 +3997,7 @@
 
 ## C
 
+* 【2026-01-29】[NVIDIA / libnvidia\-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
 * 【2026-01-28】[geo-tp / ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 * 【2026-01-27】[geo\-tp / ESP32\-Bus\-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web\-Based CLI That Speaks Every Protocol
 * 【2026-01-24】[X11Libre / xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
@@ -4416,6 +4427,7 @@
 
 ## C++
 
+* 【2026-01-29】[ran-j / PS2Recomp](https://github.com/ran-j/PS2Recomp) - Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 * 【2026-01-28】[N64Recomp / N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 * 【2026-01-25】[Crementif / BotW-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
 * 【2026-01-23】[KhronosGroup / SPIRV\-Tools](https://github.com/KhronosGroup/SPIRV-Tools) - 
@@ -4882,6 +4894,7 @@
 
 ## C#
 
+* 【2026-01-29】[Facepunch / sbox\-public](https://github.com/Facepunch/sbox-public) - s&box is a modern game engine, built on Valve's Source 2 and the latest  NET technology, it provides a modern intuitive editor for creating games
 * 【2026-01-27】[andrewmd5 / Borderless\-Gaming](https://github.com/andrewmd5/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt\-tabs 
 * 【2026-01-27】[ModernFlyouts\-Community / ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows 
 * 【2026-01-25】[microsoft / winappCli](https://github.com/microsoft/winappCli) - winapp, the Windows App Development CLI, is a single command\-line interface for managing Windows SDKs, packaging, generating app identity, manifests, certificates, and using build tools with any app framework 
@@ -5365,6 +5378,7 @@
 
 ## Html
 
+* 【2026-01-29】[adongwanai / AgentGuide](https://github.com/adongwanai/AgentGuide) - https://adongwanai github io/AgentGuide \| AI Agent开发指南 \| LangGraph实战 \| 高级RAG \| 转行大模型 \| 大模型面试 \| 算法工程师 \| 面试题库 \| 强化学习｜数据合成
 * 【2026-01-26】[ONLYOFFICE / web-apps](https://github.com/ONLYOFFICE/web-apps) - The frontend for ONLYOFFICE Document Server which builds the program interface
 * 【2026-01-26】[OWASP-BLT / BLT](https://github.com/OWASP-BLT/BLT) - OWASP BLT - Bug Logging Tools
 * 【2026-01-26】[sinavm / sinavm](https://github.com/sinavm/sinavm) - مواقعی که اینترنت ملی و محدود است، بدون نیاز به وی پی ان می‌توانید به محتوای کانال‌ها و کانفیگ‌های فیلترشکن دسترسی پیدا کنید
@@ -5933,6 +5947,7 @@
 
 ## Unknown
 
+* 【2026-01-29】[weitianxin / Awesome\-Agentic\-Reasoning](https://github.com/weitianxin/Awesome-Agentic-Reasoning) - A curated list of papers and resources based on the survey "Agentic Reasoning for Large Language Models"
 * 【2026-01-28】[cosai\-oasis / ws4\-secure\-design\-agentic\-systems](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems) - Repository for CoSAI Workstream 4, Secure Design Patterns for Agentic Systems
 * 【2026-01-23】[johnjago / awesome\-free\-software](https://github.com/johnjago/awesome-free-software) - Curated list of open\-source, free as in freedom software 
 * 【2026-01-23】[Makememo / MemoAI](https://github.com/Makememo/MemoAI) - MemoAI Video to translated text, subtitles and notes made easy 
@@ -7546,6 +7561,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-01-29】[modelcontextprotocol / ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
+* 【2026-01-29】[suitenumerique / meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit 
+* 【2026-01-29】[letta\-ai / letta\-code](https://github.com/letta-ai/letta-code) - The memory\-first coding agent
+* 【2026-01-29】[tonyantony300 / alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 * 【2026-01-28】[wechat-article / wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。 支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
 * 【2026-01-28】[firecrawl / open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 * 【2026-01-28】[t0bst4r / home\-assistant\-matter\-hub](https://github.com/t0bst4r/home-assistant-matter-hub) - Publish your Home\-Assistant Instance using Matter 
