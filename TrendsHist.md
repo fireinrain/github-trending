@@ -1548,6 +1548,7 @@
 
 ## Python
 
+* 【2026-01-31】[Tencent-Hunyuan / HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) - HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation
 * 【2026-01-30】[datalab-to / chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
 * 【2026-01-30】[Tencent\-Hunyuan / HunyuanImage\-3 0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) - HunyuanImage\-3 0: A Powerful Native Multimodal Model for Image Generation
 * 【2026-01-30】[trailofbits / publications](https://github.com/trailofbits/publications) - Publications from Trail of Bits
@@ -2832,6 +2833,7 @@
 
 ## Javascript
 
+* 【2026-01-31】[steven-jianhao-li / zotero-AI-Butler](https://github.com/steven-jianhao-li/zotero-AI-Butler) - 【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！
 * 【2026-01-30】[steven\-jianhao\-li / zotero\-AI\-Butler](https://github.com/steven-jianhao-li/zotero-AI-Butler) - 【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！
 * 【2026-01-29】[qrev\-ai / qrev](https://github.com/qrev-ai/qrev) - 🔥 🔥 🔥 QRev is an Open Source AI First alternative to Salesforce  It's what Salesforce would be if it was built today, starting with AI 
 * 【2026-01-28】[anomalyco / opencode\-anthropic\-auth](https://github.com/anomalyco/opencode-anthropic-auth) - 
@@ -3472,6 +3474,7 @@
 
 ## Go
 
+* 【2026-01-31】[kubernetes-retired / dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
 * 【2026-01-30】[kubernetes\-retired / dashboard](https://github.com/kubernetes-retired/dashboard) - General\-purpose web UI for Kubernetes clusters
 * 【2026-01-28】[elC0mpa / aws\-doctor](https://github.com/elC0mpa/aws-doctor) - Diagnose AWS costs, detect idle resources, and optimize cloud spending directly from your terminal  🩺 ☁️
 * 【2026-01-27】[kubernetes-sigs / gateway-api-inference-extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension) - Gateway API Inference Extension
@@ -7575,6 +7578,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-01-31】[archestra-ai / archestra](https://github.com/archestra-ai/archestra) - Secure gateway for MCP, A2A, LLM; MCP registry & orchestrator
+* 【2026-01-31】[zhukunpenglinyutong / idea-claude-code-gui](https://github.com/zhukunpenglinyutong/idea-claude-code-gui) - IDEA Claude Code GUI Plugin
 * 【2026-01-30】[openclaw / openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant  Any OS  Any Platform  The lobster way  🦞
 * 【2026-01-30】[archestra\-ai / archestra](https://github.com/archestra-ai/archestra) - Secure gateway for MCP, A2A, LLM; MCP registry & orchestrator
 * 【2026-01-30】[zhukunpenglinyutong / idea\-claude\-code\-gui](https://github.com/zhukunpenglinyutong/idea-claude-code-gui) - IDEA Claude Code GUI Plugin
