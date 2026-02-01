@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-02-01】[ThePrimeagen / 99](https://github.com/ThePrimeagen/99) - Neovim AI agent done right
+* 【2026-02-01】[anthropics / claude\-plugins\-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic\-managed directory of high quality Claude Code Plugins 
+* 【2026-02-01】[AlexanderGrooff / mermaid\-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
 * 【2026-01-30】[openclaw / moltbot](https://github.com/openclaw/moltbot) - Your own personal AI assistant  Any OS  Any Platform  The lobster way  🦞
 * 【2026-01-30】[anomalyco / opencode-anthropic-auth](https://github.com/anomalyco/opencode-anthropic-auth) - 
 * 【2026-01-30】[microsoft / playwright\-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions  Record and generate Playwright code, inspect selectors and take screenshots 
@@ -1548,6 +1551,8 @@
 
 ## Python
 
+* 【2026-02-01】[fastino\-ai / GLiNER2](https://github.com/fastino-ai/GLiNER2) - Unified Schema\-Based Information Extraction
+* 【2026-02-01】[atlassian / atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Remote MCP Server that securely connects Jira and Confluence with your LLM, IDE, or agent platform of choice.
 * 【2026-01-31】[Tencent-Hunyuan / HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) - HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation
 * 【2026-01-30】[datalab-to / chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
 * 【2026-01-30】[Tencent\-Hunyuan / HunyuanImage\-3 0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) - HunyuanImage\-3 0: A Powerful Native Multimodal Model for Image Generation
@@ -2833,6 +2838,7 @@
 
 ## Javascript
 
+* 【2026-02-01】[Acode\-Foundation / Acode](https://github.com/Acode-Foundation/Acode) - Acode \- powerful text/code editor for android
 * 【2026-01-31】[steven-jianhao-li / zotero-AI-Butler](https://github.com/steven-jianhao-li/zotero-AI-Butler) - 【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！
 * 【2026-01-30】[steven\-jianhao\-li / zotero\-AI\-Butler](https://github.com/steven-jianhao-li/zotero-AI-Butler) - 【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！
 * 【2026-01-29】[qrev\-ai / qrev](https://github.com/qrev-ai/qrev) - 🔥 🔥 🔥 QRev is an Open Source AI First alternative to Salesforce  It's what Salesforce would be if it was built today, starting with AI 
@@ -3474,6 +3480,8 @@
 
 ## Go
 
+* 【2026-02-01】[AlexanderGrooff / mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
+* 【2026-02-01】[NoFxAiOS / nofx](https://github.com/NoFxAiOS/nofx) - AI Trading OS: Multi\-AI, multi\-exchange trading infrastructure with Strategy Studio 
 * 【2026-01-31】[kubernetes-retired / dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
 * 【2026-01-30】[kubernetes\-retired / dashboard](https://github.com/kubernetes-retired/dashboard) - General\-purpose web UI for Kubernetes clusters
 * 【2026-01-28】[elC0mpa / aws\-doctor](https://github.com/elC0mpa/aws-doctor) - Diagnose AWS costs, detect idle resources, and optimize cloud spending directly from your terminal  🩺 ☁️
@@ -4438,6 +4446,7 @@
 
 ## C++
 
+* 【2026-02-01】[oceanbase / seekdb](https://github.com/oceanbase/seekdb) - The AI\-Native Search Database  Unifies vector, text, structured and semi\-structured data in a single engine, enabling hybrid search and in\-database AI workflows 
 * 【2026-01-29】[ran-j / PS2Recomp](https://github.com/ran-j/PS2Recomp) - Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 * 【2026-01-28】[N64Recomp / N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 * 【2026-01-25】[Crementif / BotW-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
@@ -4905,6 +4914,7 @@
 
 ## C#
 
+* 【2026-02-01】[Ruben2776 / PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable picture viewer
 * 【2026-01-30】[Facepunch / sbox-public](https://github.com/Facepunch/sbox-public) - s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 * 【2026-01-29】[Facepunch / sbox\-public](https://github.com/Facepunch/sbox-public) - s&box is a modern game engine, built on Valve's Source 2 and the latest  NET technology, it provides a modern intuitive editor for creating games
 * 【2026-01-27】[andrewmd5 / Borderless\-Gaming](https://github.com/andrewmd5/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt\-tabs 
@@ -5390,6 +5400,7 @@
 
 ## Html
 
+* 【2026-02-01】[nisrulz / app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
 * 【2026-01-30】[remorses / playwriter](https://github.com/remorses/playwriter) - MCP to control your Chrome window via extension  Runs Playwright code in a stateful sandbox 
 * 【2026-01-29】[adongwanai / AgentGuide](https://github.com/adongwanai/AgentGuide) - https://adongwanai github io/AgentGuide \| AI Agent开发指南 \| LangGraph实战 \| 高级RAG \| 转行大模型 \| 大模型面试 \| 算法工程师 \| 面试题库 \| 强化学习｜数据合成
 * 【2026-01-26】[ONLYOFFICE / web-apps](https://github.com/ONLYOFFICE/web-apps) - The frontend for ONLYOFFICE Document Server which builds the program interface
@@ -5960,6 +5971,9 @@
 
 ## Unknown
 
+* 【2026-02-01】[BehiSecc / awesome\-claude\-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills 
+* 【2026-02-01】[666OS / ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
+* 【2026-02-01】[awslabs / aidlc\-workflows](https://github.com/awslabs/aidlc-workflows) - 
 * 【2026-01-30】[microsoft / playwright-cli](https://github.com/microsoft/playwright-cli) - CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
 * 【2026-01-29】[weitianxin / Awesome\-Agentic\-Reasoning](https://github.com/weitianxin/Awesome-Agentic-Reasoning) - A curated list of papers and resources based on the survey "Agentic Reasoning for Large Language Models"
 * 【2026-01-28】[cosai\-oasis / ws4\-secure\-design\-agentic\-systems](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems) - Repository for CoSAI Workstream 4, Secure Design Patterns for Agentic Systems
@@ -6682,6 +6696,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-02-01】[lbjlaq / Antigravity\-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher  One\-click seamless account switching for Antigravity Tools  Built with Tauri v2 + React (Rust) 专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+* 【2026-02-01】[khcrysalis / Impactor](https://github.com/khcrysalis/Impactor) - Feature rich iOS/tvOS sideloading application written in Rust  Formerly known as PlumeImpactor 
+* 【2026-02-01】[pgdogdev / pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder 
 * 【2026-01-30】[zampierilucas / scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler
 * 【2026-01-30】[tursodatabase / agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents 
 * 【2026-01-30】[Moulberry / PandoraLauncher](https://github.com/Moulberry/PandoraLauncher) - Pandora is a modern Minecraft launcher that balances ease\-of\-use with powerful instance management features
@@ -7578,6 +7595,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-02-01】[amilich / isometric\-city](https://github.com/amilich/isometric-city) - IsoCity: City building simulation game 
+* 【2026-02-01】[pedramamini / Maestro](https://github.com/pedramamini/Maestro) - Agent Orchestration Command Center
 * 【2026-01-31】[archestra-ai / archestra](https://github.com/archestra-ai/archestra) - Secure gateway for MCP, A2A, LLM; MCP registry & orchestrator
 * 【2026-01-31】[zhukunpenglinyutong / idea-claude-code-gui](https://github.com/zhukunpenglinyutong/idea-claude-code-gui) - IDEA Claude Code GUI Plugin
 * 【2026-01-30】[openclaw / openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant  Any OS  Any Platform  The lobster way  🦞
