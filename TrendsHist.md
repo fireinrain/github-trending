@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-02-02】[amantus-ai / vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal & command your agents on the go.
+* 【2026-02-02】[steipete / CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login 
+* 【2026-02-02】[vita\-epfl / Stable\-Video\-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity) - [ICLR 26] Stable Video Infinity: Infinite\-Length Video Generation with Error Recycling
 * 【2026-02-01】[ThePrimeagen / 99](https://github.com/ThePrimeagen/99) - Neovim AI agent done right
 * 【2026-02-01】[anthropics / claude\-plugins\-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic\-managed directory of high quality Claude Code Plugins 
 * 【2026-02-01】[AlexanderGrooff / mermaid\-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
@@ -1133,6 +1136,7 @@
 
 ## Java
 
+* 【2026-02-02】[Trainguy9512 / locomotion](https://github.com/Trainguy9512/locomotion) - 
 * 【2026-01-28】[agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) - AgentScope Java: Agent-Oriented Programming for Building LLM Applications
 * 【2026-01-28】[Vineflower / vineflower](https://github.com/Vineflower/vineflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality  Fork of the Fernflower decompiler 
 * 【2026-01-26】[jarvis2f / telegram\-files](https://github.com/jarvis2f/telegram-files) - A self\-hosted Telegram file downloader for continuous, stable, and unattended downloads 
@@ -1551,6 +1555,8 @@
 
 ## Python
 
+* 【2026-02-02】[vita-epfl / Stable-Video-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity) - [ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling
+* 【2026-02-02】[ThanhNguyxn / SheerID\-Verification\-Tool](https://github.com/ThanhNguyxn/SheerID-Verification-Tool) - A lightweight tool for integrating and testing SheerID verification workflows  It simplifies API requests, handles responses, and supports eligibility checks for programs like student 
 * 【2026-02-01】[fastino\-ai / GLiNER2](https://github.com/fastino-ai/GLiNER2) - Unified Schema\-Based Information Extraction
 * 【2026-02-01】[atlassian / atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Remote MCP Server that securely connects Jira and Confluence with your LLM, IDE, or agent platform of choice.
 * 【2026-01-31】[Tencent-Hunyuan / HunyuanImage-3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) - HunyuanImage-3.0: A Powerful Native Multimodal Model for Image Generation
@@ -2838,6 +2844,7 @@
 
 ## Javascript
 
+* 【2026-02-02】[Acode-Foundation / Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
 * 【2026-02-01】[Acode\-Foundation / Acode](https://github.com/Acode-Foundation/Acode) - Acode \- powerful text/code editor for android
 * 【2026-01-31】[steven-jianhao-li / zotero-AI-Butler](https://github.com/steven-jianhao-li/zotero-AI-Butler) - 【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！
 * 【2026-01-30】[steven\-jianhao\-li / zotero\-AI\-Butler](https://github.com/steven-jianhao-li/zotero-AI-Butler) - 【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！
@@ -3480,6 +3487,7 @@
 
 ## Go
 
+* 【2026-02-02】[free5gc / free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network based on 3GPP R15
 * 【2026-02-01】[AlexanderGrooff / mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
 * 【2026-02-01】[NoFxAiOS / nofx](https://github.com/NoFxAiOS/nofx) - AI Trading OS: Multi\-AI, multi\-exchange trading infrastructure with Strategy Studio 
 * 【2026-01-31】[kubernetes-retired / dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
@@ -4446,6 +4454,7 @@
 
 ## C++
 
+* 【2026-02-02】[wled / WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 * 【2026-02-01】[oceanbase / seekdb](https://github.com/oceanbase/seekdb) - The AI\-Native Search Database  Unifies vector, text, structured and semi\-structured data in a single engine, enabling hybrid search and in\-database AI workflows 
 * 【2026-01-29】[ran-j / PS2Recomp](https://github.com/ran-j/PS2Recomp) - Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
 * 【2026-01-28】[N64Recomp / N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
@@ -5400,6 +5409,8 @@
 
 ## Html
 
+* 【2026-02-02】[codingforentrepreneurs / 30\-Days\-of\-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days 
+* 【2026-02-02】[Philip2809 / neato\-connected](https://github.com/Philip2809/neato-connected) - Control your neato vacuum cleaner locally via home assistant!
 * 【2026-02-01】[nisrulz / app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
 * 【2026-01-30】[remorses / playwriter](https://github.com/remorses/playwriter) - MCP to control your Chrome window via extension  Runs Playwright code in a stateful sandbox 
 * 【2026-01-29】[adongwanai / AgentGuide](https://github.com/adongwanai/AgentGuide) - https://adongwanai github io/AgentGuide \| AI Agent开发指南 \| LangGraph实战 \| 高级RAG \| 转行大模型 \| 大模型面试 \| 算法工程师 \| 面试题库 \| 强化学习｜数据合成
@@ -6696,6 +6707,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-02-02】[pop-os / cosmic-comp](https://github.com/pop-os/cosmic-comp) - Compositor for the COSMIC desktop environment
 * 【2026-02-01】[lbjlaq / Antigravity\-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher  One\-click seamless account switching for Antigravity Tools  Built with Tauri v2 + React (Rust) 专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 * 【2026-02-01】[khcrysalis / Impactor](https://github.com/khcrysalis/Impactor) - Feature rich iOS/tvOS sideloading application written in Rust  Formerly known as PlumeImpactor 
 * 【2026-02-01】[pgdogdev / pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder 
