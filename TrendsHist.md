@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-02-03】[langchain-ai / rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) - 
 * 【2026-02-02】[amantus-ai / vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal & command your agents on the go.
 * 【2026-02-02】[steipete / CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login 
 * 【2026-02-02】[vita\-epfl / Stable\-Video\-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity) - [ICLR 26] Stable Video Infinity: Infinite\-Length Video Generation with Error Recycling
@@ -1136,6 +1137,7 @@
 
 ## Java
 
+* 【2026-02-03】[pgjdbc / pgjdbc](https://github.com/pgjdbc/pgjdbc) - Postgresql JDBC Driver
 * 【2026-02-02】[Trainguy9512 / locomotion](https://github.com/Trainguy9512/locomotion) - 
 * 【2026-01-28】[agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) - AgentScope Java: Agent-Oriented Programming for Building LLM Applications
 * 【2026-01-28】[Vineflower / vineflower](https://github.com/Vineflower/vineflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality  Fork of the Fernflower decompiler 
@@ -2844,6 +2846,7 @@
 
 ## Javascript
 
+* 【2026-02-03】[databricks-industry-solutions / pixels](https://github.com/databricks-industry-solutions/pixels) - Facilitates simple large scale processing of HLS Medical images, documents, zip files. OHIF Viewer, 2 segmentation models and interactive learning.
 * 【2026-02-02】[Acode-Foundation / Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
 * 【2026-02-01】[Acode\-Foundation / Acode](https://github.com/Acode-Foundation/Acode) - Acode \- powerful text/code editor for android
 * 【2026-01-31】[steven-jianhao-li / zotero-AI-Butler](https://github.com/steven-jianhao-li/zotero-AI-Butler) - 【Zotero AI 管家】调用大模型，自动精读论文库里的论文，总结为Zotero笔记。支持主流大模型平台！您只需像往常一样把文献丢进 Zotero， 管家会自动帮您精读论文，将文章揉碎了总结为笔记，让您“十分钟完全了解”这篇论文！
@@ -4024,6 +4027,7 @@
 
 ## C
 
+* 【2026-02-03】[libsdl\-org / SDL_mixer](https://github.com/libsdl-org/SDL_mixer) - An audio mixer that supports various file formats for Simple Directmedia Layer 
 * 【2026-01-29】[NVIDIA / libnvidia\-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
 * 【2026-01-28】[geo-tp / ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 * 【2026-01-27】[geo\-tp / ESP32\-Bus\-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web\-Based CLI That Speaks Every Protocol
@@ -4923,6 +4927,7 @@
 
 ## C#
 
+* 【2026-02-03】[Taiizor / Sucrose](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers 
 * 【2026-02-01】[Ruben2776 / PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable picture viewer
 * 【2026-01-30】[Facepunch / sbox-public](https://github.com/Facepunch/sbox-public) - s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 * 【2026-01-29】[Facepunch / sbox\-public](https://github.com/Facepunch/sbox-public) - s&box is a modern game engine, built on Valve's Source 2 and the latest  NET technology, it provides a modern intuitive editor for creating games
@@ -5409,6 +5414,7 @@
 
 ## Html
 
+* 【2026-02-03】[codingforentrepreneurs / 30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
 * 【2026-02-02】[codingforentrepreneurs / 30\-Days\-of\-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days 
 * 【2026-02-02】[Philip2809 / neato\-connected](https://github.com/Philip2809/neato-connected) - Control your neato vacuum cleaner locally via home assistant!
 * 【2026-02-01】[nisrulz / app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
@@ -5982,6 +5988,7 @@
 
 ## Unknown
 
+* 【2026-02-03】[BehiSecc / awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills.
 * 【2026-02-01】[BehiSecc / awesome\-claude\-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills 
 * 【2026-02-01】[666OS / ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
 * 【2026-02-01】[awslabs / aidlc\-workflows](https://github.com/awslabs/aidlc-workflows) - 
@@ -6707,6 +6714,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-02-03】[zerocore\-ai / microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self\-hosted sandboxes for ai agents
 * 【2026-02-02】[pop-os / cosmic-comp](https://github.com/pop-os/cosmic-comp) - Compositor for the COSMIC desktop environment
 * 【2026-02-01】[lbjlaq / Antigravity\-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher  One\-click seamless account switching for Antigravity Tools  Built with Tauri v2 + React (Rust) 专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 * 【2026-02-01】[khcrysalis / Impactor](https://github.com/khcrysalis/Impactor) - Feature rich iOS/tvOS sideloading application written in Rust  Formerly known as PlumeImpactor 
