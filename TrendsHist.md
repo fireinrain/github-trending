@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-02-05】[disler / claude\-code\-hooks\-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code Hooks
 * 【2026-02-04】[masoncl / review\-prompts](https://github.com/masoncl/review-prompts) - AI review prompts
 * 【2026-02-04】[openai / skills](https://github.com/openai/skills) - Skills Catalog for Codex
 * 【2026-02-04】[automazeio / ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution 
@@ -1561,6 +1562,7 @@
 
 ## Python
 
+* 【2026-02-05】[disler / claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code Hooks
 * 【2026-02-04】[masoncl / review-prompts](https://github.com/masoncl/review-prompts) - AI review prompts
 * 【2026-02-04】[shareAI\-lab / learn\-claude\-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all You need \- Write a nano Claude Code 0 \- 1
 * 【2026-02-02】[vita-epfl / Stable-Video-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity) - [ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling
@@ -2852,6 +2854,7 @@
 
 ## Javascript
 
+* 【2026-02-05】[maxandrews / Epstein-doc-explorer](https://github.com/maxandrews/Epstein-doc-explorer) - a graph explorer of the Epstein emails
 * 【2026-02-04】[maxandrews / Epstein\-doc\-explorer](https://github.com/maxandrews/Epstein-doc-explorer) - a graph explorer of the Epstein emails
 * 【2026-02-04】[pshenok / server\-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture  Build infrastructure, survive traffic, learn scaling 
 * 【2026-02-03】[databricks-industry-solutions / pixels](https://github.com/databricks-industry-solutions/pixels) - Facilitates simple large scale processing of HLS Medical images, documents, zip files. OHIF Viewer, 2 segmentation models and interactive learning.
@@ -3498,6 +3501,7 @@
 
 ## Go
 
+* 【2026-02-05】[github / gh\-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 * 【2026-02-04】[steveyegge / beads](https://github.com/steveyegge/beads) - Beads \- A memory upgrade for your coding agent
 * 【2026-02-02】[free5gc / free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network based on 3GPP R15
 * 【2026-02-01】[AlexanderGrooff / mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) - Render Mermaid graphs inside your terminal
@@ -4036,6 +4040,7 @@
 
 ## C
 
+* 【2026-02-05】[surge\-synthesizer / shortcircuit\-xt](https://github.com/surge-synthesizer/shortcircuit-xt) - Download the beta here : https://github com/surge\-synthesizer/shortcircuit\-xt/releases/tag/Nightly
 * 【2026-02-04】[armel / uv\-k1\-k5v3\-firmware\-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github com/armel/uv\-k5\-firmware\-custom by @muzkr and @armel
 * 【2026-02-03】[libsdl\-org / SDL_mixer](https://github.com/libsdl-org/SDL_mixer) - An audio mixer that supports various file formats for Simple Directmedia Layer 
 * 【2026-01-29】[NVIDIA / libnvidia\-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
@@ -5425,6 +5430,7 @@
 
 ## Html
 
+* 【2026-02-05】[zaproxy / zap-extensions](https://github.com/zaproxy/zap-extensions) - ZAP Add-ons
 * 【2026-02-03】[codingforentrepreneurs / 30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
 * 【2026-02-02】[codingforentrepreneurs / 30\-Days\-of\-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days 
 * 【2026-02-02】[Philip2809 / neato\-connected](https://github.com/Philip2809/neato-connected) - Control your neato vacuum cleaner locally via home assistant!
