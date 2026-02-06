@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-02-06】[ZeroTworu / anet](https://github.com/ZeroTworu/anet) - Simple Rust VPN Client / Server
+* 【2026-02-06】[AstrBotDevs / AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features  Your clawdbot alternative  ✨
 * 【2026-02-05】[disler / claude\-code\-hooks\-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code Hooks
 * 【2026-02-04】[masoncl / review\-prompts](https://github.com/masoncl/review-prompts) - AI review prompts
 * 【2026-02-04】[openai / skills](https://github.com/openai/skills) - Skills Catalog for Codex
@@ -1562,6 +1564,8 @@
 
 ## Python
 
+* 【2026-02-06】[chenyme / grok2api](https://github.com/chenyme/grok2api) - 基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。
+* 【2026-02-06】[GH05TCREW / pentestagent](https://github.com/GH05TCREW/pentestagent) - PentestAgent is an AI agent framework for black\-box security testing, supporting bug bounty, red\-team, and penetration testing workflows 
 * 【2026-02-05】[disler / claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code Hooks
 * 【2026-02-04】[masoncl / review-prompts](https://github.com/masoncl/review-prompts) - AI review prompts
 * 【2026-02-04】[shareAI\-lab / learn\-claude\-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all You need \- Write a nano Claude Code 0 \- 1
@@ -2854,6 +2858,8 @@
 
 ## Javascript
 
+* 【2026-02-06】[koosoli / ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag\-and\-drop editor for ESPHome displays (E\-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app 
+* 【2026-02-06】[YUZU\-Hub / appscreen](https://github.com/YUZU-Hub/appscreen) - Create screenshots for the iOS App Store
 * 【2026-02-05】[maxandrews / Epstein-doc-explorer](https://github.com/maxandrews/Epstein-doc-explorer) - a graph explorer of the Epstein emails
 * 【2026-02-04】[maxandrews / Epstein\-doc\-explorer](https://github.com/maxandrews/Epstein-doc-explorer) - a graph explorer of the Epstein emails
 * 【2026-02-04】[pshenok / server\-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture  Build infrastructure, survive traffic, learn scaling 
@@ -6005,6 +6011,7 @@
 
 ## Unknown
 
+* 【2026-02-06】[obra / superpowers-marketplace](https://github.com/obra/superpowers-marketplace) - Curated Claude Code plugin marketplace
 * 【2026-02-04】[kirodotdev / powers](https://github.com/kirodotdev/powers) - Powers add specialized context and tools to the Kiro agents on\-demand  No more MCP context overload 
 * 【2026-02-03】[BehiSecc / awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills.
 * 【2026-02-01】[BehiSecc / awesome\-claude\-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills 
@@ -7634,6 +7641,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-02-06】[aidenybai / react\-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
 * 【2026-02-04】[vm0-ai / vm0](https://github.com/vm0-ai/vm0) - the easiest way to run natural language-described workflows automatically
 * 【2026-02-04】[KuekHaoYang / KVideo](https://github.com/KuekHaoYang/KVideo) - 一个基于 Next js 16 构建的现代化视频聚合播放平台。采用独特的 "Liquid Glass" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。
 * 【2026-02-04】[gemini\-cli\-extensions / security](https://github.com/gemini-cli-extensions/security) - Google's Security extension for the Gemini CLI that finds vulnerabilities in your code changes and pull requests 
