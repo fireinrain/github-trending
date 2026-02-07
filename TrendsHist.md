@@ -1564,6 +1564,10 @@
 
 ## Python
 
+* 【2026-02-07】[ComposioHQ / awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+* 【2026-02-07】[shareAI-lab / learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all You need - Write a nano Claude Code 0 - 1
+* 【2026-02-07】[SWE\-agent / mini\-swe\-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line  Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE\-bench verified!
+* 【2026-02-07】[httpie / cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI — modern, user\-friendly command\-line HTTP client for the API era  JSON support, colors, sessions, downloads, plugins & more 
 * 【2026-02-06】[chenyme / grok2api](https://github.com/chenyme/grok2api) - 基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。
 * 【2026-02-06】[GH05TCREW / pentestagent](https://github.com/GH05TCREW/pentestagent) - PentestAgent is an AI agent framework for black\-box security testing, supporting bug bounty, red\-team, and penetration testing workflows 
 * 【2026-02-05】[disler / claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code Hooks
@@ -3507,6 +3511,7 @@
 
 ## Go
 
+* 【2026-02-07】[github / gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 * 【2026-02-05】[github / gh\-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 * 【2026-02-04】[steveyegge / beads](https://github.com/steveyegge/beads) - Beads \- A memory upgrade for your coding agent
 * 【2026-02-02】[free5gc / free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network based on 3GPP R15
@@ -4046,6 +4051,7 @@
 
 ## C
 
+* 【2026-02-07】[bol\-van / zapret2](https://github.com/bol-van/zapret2) - anti\-dpi software
 * 【2026-02-05】[surge\-synthesizer / shortcircuit\-xt](https://github.com/surge-synthesizer/shortcircuit-xt) - Download the beta here : https://github com/surge\-synthesizer/shortcircuit\-xt/releases/tag/Nightly
 * 【2026-02-04】[armel / uv\-k1\-k5v3\-firmware\-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github com/armel/uv\-k5\-firmware\-custom by @muzkr and @armel
 * 【2026-02-03】[libsdl\-org / SDL_mixer](https://github.com/libsdl-org/SDL_mixer) - An audio mixer that supports various file formats for Simple Directmedia Layer 
@@ -4479,6 +4485,9 @@
 
 ## C++
 
+* 【2026-02-07】[deepseek\-ai / 3FS](https://github.com/deepseek-ai/3FS) - A high\-performance distributed file system designed to address the challenges of AI training and inference workloads 
+* 【2026-02-07】[echavet / MitsubishiCN105ESPHome](https://github.com/echavet/MitsubishiCN105ESPHome) - ESPHome firmware inspired by GeoffDavis’s esphome\-mitsubishiheatpump, directly integrating the SwiCago library within its codebase 
+* 【2026-02-07】[jd-opensource / xllm](https://github.com/jd-opensource/xllm) - A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
 * 【2026-02-04】[StrikerX3 / Ymir](https://github.com/StrikerX3/Ymir) - Sega Saturn emulator
 * 【2026-02-02】[wled / WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 * 【2026-02-01】[oceanbase / seekdb](https://github.com/oceanbase/seekdb) - The AI\-Native Search Database  Unifies vector, text, structured and semi\-structured data in a single engine, enabling hybrid search and in\-database AI workflows 
@@ -6011,6 +6020,8 @@
 
 ## Unknown
 
+* 【2026-02-07】[google / mcp](https://github.com/google/mcp) - Google 💚 MCP
+* 【2026-02-07】[ShepAlderson / copilot\-orchestra](https://github.com/ShepAlderson/copilot-orchestra) - 
 * 【2026-02-06】[obra / superpowers-marketplace](https://github.com/obra/superpowers-marketplace) - Curated Claude Code plugin marketplace
 * 【2026-02-04】[kirodotdev / powers](https://github.com/kirodotdev/powers) - Powers add specialized context and tools to the Kiro agents on\-demand  No more MCP context overload 
 * 【2026-02-03】[BehiSecc / awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills.
@@ -6739,6 +6750,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-02-07】[microsoft / litebox](https://github.com/microsoft/litebox) - A security\-focused library OS supporting kernel\- and user\-mode execution
+* 【2026-02-07】[lbjlaq / Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 * 【2026-02-04】[katanemo / plano](https://github.com/katanemo/plano) - Delivery infrastructure for agentic apps \- Plano is an AI\-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework) 
 * 【2026-02-03】[zerocore\-ai / microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self\-hosted sandboxes for ai agents
 * 【2026-02-02】[pop-os / cosmic-comp](https://github.com/pop-os/cosmic-comp) - Compositor for the COSMIC desktop environment
@@ -7641,6 +7654,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-02-07】[FranciscoMoretti / chatjs](https://github.com/FranciscoMoretti/chatjs) - Production\-ready AI chat template  Start here and make it your own  Formerly Sparka AI
 * 【2026-02-06】[aidenybai / react\-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
 * 【2026-02-04】[vm0-ai / vm0](https://github.com/vm0-ai/vm0) - the easiest way to run natural language-described workflows automatically
 * 【2026-02-04】[KuekHaoYang / KVideo](https://github.com/KuekHaoYang/KVideo) - 一个基于 Next js 16 构建的现代化视频聚合播放平台。采用独特的 "Liquid Glass" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。
