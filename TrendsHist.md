@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-02-08】[KeygraphHQ / shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps  Shannon has achieved a 96 15% success rate on the hint\-free, source\-aware XBOW Benchmark 
+* 【2026-02-08】[p\-e\-w / heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 * 【2026-02-06】[ZeroTworu / anet](https://github.com/ZeroTworu/anet) - Simple Rust VPN Client / Server
 * 【2026-02-06】[AstrBotDevs / AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features  Your clawdbot alternative  ✨
 * 【2026-02-05】[disler / claude\-code\-hooks\-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code Hooks
@@ -1564,6 +1566,8 @@
 
 ## Python
 
+* 【2026-02-08】[p-e-w / heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
+* 【2026-02-08】[ruvnet / wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
 * 【2026-02-07】[ComposioHQ / awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 * 【2026-02-07】[shareAI-lab / learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all You need - Write a nano Claude Code 0 - 1
 * 【2026-02-07】[SWE\-agent / mini\-swe\-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line  Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE\-bench verified!
@@ -2862,6 +2866,7 @@
 
 ## Javascript
 
+* 【2026-02-08】[xinnan\-tech / xiaozhi\-esp32\-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi\-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi\-esp32, helps you quickly build an ESP32 device control server 
 * 【2026-02-06】[koosoli / ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag\-and\-drop editor for ESPHome displays (E\-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app 
 * 【2026-02-06】[YUZU\-Hub / appscreen](https://github.com/YUZU-Hub/appscreen) - Create screenshots for the iOS App Store
 * 【2026-02-05】[maxandrews / Epstein-doc-explorer](https://github.com/maxandrews/Epstein-doc-explorer) - a graph explorer of the Epstein emails
@@ -4051,6 +4056,7 @@
 
 ## C
 
+* 【2026-02-08】[Snowflake\-Labs / pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access
 * 【2026-02-07】[bol\-van / zapret2](https://github.com/bol-van/zapret2) - anti\-dpi software
 * 【2026-02-05】[surge\-synthesizer / shortcircuit\-xt](https://github.com/surge-synthesizer/shortcircuit-xt) - Download the beta here : https://github com/surge\-synthesizer/shortcircuit\-xt/releases/tag/Nightly
 * 【2026-02-04】[armel / uv\-k1\-k5v3\-firmware\-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github com/armel/uv\-k5\-firmware\-custom by @muzkr and @armel
@@ -6020,6 +6026,7 @@
 
 ## Unknown
 
+* 【2026-02-08】[ShepAlderson / copilot-orchestra](https://github.com/ShepAlderson/copilot-orchestra) - 
 * 【2026-02-07】[google / mcp](https://github.com/google/mcp) - Google 💚 MCP
 * 【2026-02-07】[ShepAlderson / copilot\-orchestra](https://github.com/ShepAlderson/copilot-orchestra) - 
 * 【2026-02-06】[obra / superpowers-marketplace](https://github.com/obra/superpowers-marketplace) - Curated Claude Code plugin marketplace
@@ -6750,6 +6757,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-02-08】[11happy / cpx](https://github.com/11happy/cpx) - cp reimagined
 * 【2026-02-07】[microsoft / litebox](https://github.com/microsoft/litebox) - A security\-focused library OS supporting kernel\- and user\-mode execution
 * 【2026-02-07】[lbjlaq / Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 * 【2026-02-04】[katanemo / plano](https://github.com/katanemo/plano) - Delivery infrastructure for agentic apps \- Plano is an AI\-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework) 
@@ -7654,6 +7662,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-02-08】[AndyMik90 / Auto\-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi\-session AI coding
+* 【2026-02-08】[shrimbly / node\-banana](https://github.com/shrimbly/node-banana) - Free and open node based generative workflows 
 * 【2026-02-07】[FranciscoMoretti / chatjs](https://github.com/FranciscoMoretti/chatjs) - Production\-ready AI chat template  Start here and make it your own  Formerly Sparka AI
 * 【2026-02-06】[aidenybai / react\-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
 * 【2026-02-04】[vm0-ai / vm0](https://github.com/vm0-ai/vm0) - the easiest way to run natural language-described workflows automatically
