@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-02-09】[pydantic / monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
+* 【2026-02-09】[home\-assistant / addons](https://github.com/home-assistant/addons) - ➕ Docker add\-ons for Home Assistant
 * 【2026-02-08】[KeygraphHQ / shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps  Shannon has achieved a 96 15% success rate on the hint\-free, source\-aware XBOW Benchmark 
 * 【2026-02-08】[p\-e\-w / heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 * 【2026-02-06】[ZeroTworu / anet](https://github.com/ZeroTworu/anet) - Simple Rust VPN Client / Server
@@ -1566,6 +1568,7 @@
 
 ## Python
 
+* 【2026-02-09】[huggingface / speech\-to\-speech](https://github.com/huggingface/speech-to-speech) - Speech To Speech: an effort for an open\-sourced and modular GPT4\-o
 * 【2026-02-08】[p-e-w / heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 * 【2026-02-08】[ruvnet / wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
 * 【2026-02-07】[ComposioHQ / awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -3516,6 +3519,7 @@
 
 ## Go
 
+* 【2026-02-09】[ramonvermeulen / whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go  Discover, explore, and understand your LAN in an intuitive way  Knock Knock   who's there? 🚪
 * 【2026-02-07】[github / gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 * 【2026-02-05】[github / gh\-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 * 【2026-02-04】[steveyegge / beads](https://github.com/steveyegge/beads) - Beads \- A memory upgrade for your coding agent
@@ -4056,6 +4060,7 @@
 
 ## C
 
+* 【2026-02-09】[bol-van / zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 * 【2026-02-08】[Snowflake\-Labs / pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access
 * 【2026-02-07】[bol\-van / zapret2](https://github.com/bol-van/zapret2) - anti\-dpi software
 * 【2026-02-05】[surge\-synthesizer / shortcircuit\-xt](https://github.com/surge-synthesizer/shortcircuit-xt) - Download the beta here : https://github com/surge\-synthesizer/shortcircuit\-xt/releases/tag/Nightly
@@ -4964,6 +4969,7 @@
 
 ## C#
 
+* 【2026-02-09】[Whisparr / Whisparr](https://github.com/Whisparr/Whisparr) - 
 * 【2026-02-03】[Taiizor / Sucrose](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers 
 * 【2026-02-01】[Ruben2776 / PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable picture viewer
 * 【2026-01-30】[Facepunch / sbox-public](https://github.com/Facepunch/sbox-public) - s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
@@ -6757,6 +6763,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-02-09】[karinushka / paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS 
 * 【2026-02-08】[11happy / cpx](https://github.com/11happy/cpx) - cp reimagined
 * 【2026-02-07】[microsoft / litebox](https://github.com/microsoft/litebox) - A security\-focused library OS supporting kernel\- and user\-mode execution
 * 【2026-02-07】[lbjlaq / Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
