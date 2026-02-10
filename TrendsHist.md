@@ -1148,6 +1148,7 @@
 
 ## Java
 
+* 【2026-02-10】[realnnpg / Glazed](https://github.com/realnnpg/Glazed) - Meteor client addon for DonutSMP
 * 【2026-02-03】[pgjdbc / pgjdbc](https://github.com/pgjdbc/pgjdbc) - Postgresql JDBC Driver
 * 【2026-02-02】[Trainguy9512 / locomotion](https://github.com/Trainguy9512/locomotion) - 
 * 【2026-01-28】[agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) - AgentScope Java: Agent-Oriented Programming for Building LLM Applications
@@ -1568,6 +1569,8 @@
 
 ## Python
 
+* 【2026-02-10】[IAmTomShaw / f1\-race\-replay](https://github.com/IAmTomShaw/f1-race-replay) - An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️
+* 【2026-02-10】[ulab\-uiuc / LLMRouter](https://github.com/ulab-uiuc/LLMRouter) - LLMRouter: An Open\-Source Library for LLM Routing
 * 【2026-02-09】[huggingface / speech\-to\-speech](https://github.com/huggingface/speech-to-speech) - Speech To Speech: an effort for an open\-sourced and modular GPT4\-o
 * 【2026-02-08】[p-e-w / heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 * 【2026-02-08】[ruvnet / wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
@@ -4969,6 +4972,7 @@
 
 ## C#
 
+* 【2026-02-10】[C7\-Game / Prototype](https://github.com/C7-Game/Prototype) - OpenCiv3 is an open\-source, cross\-platform, mod\-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C\#, with capabilities inspired by the best of the 4X genre and lessons learned from modding Civ3 
 * 【2026-02-09】[Whisparr / Whisparr](https://github.com/Whisparr/Whisparr) - 
 * 【2026-02-03】[Taiizor / Sucrose](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers 
 * 【2026-02-01】[Ruben2776 / PicView](https://github.com/Ruben2776/PicView) - Fast, free and customizable picture viewer
@@ -6763,6 +6767,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-02-10】[barter-rs / barter-rs](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading & backtesting systems
+* 【2026-02-10】[containers / libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization\-based process isolation capabilities
 * 【2026-02-09】[karinushka / paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS 
 * 【2026-02-08】[11happy / cpx](https://github.com/11happy/cpx) - cp reimagined
 * 【2026-02-07】[microsoft / litebox](https://github.com/microsoft/litebox) - A security\-focused library OS supporting kernel\- and user\-mode execution
