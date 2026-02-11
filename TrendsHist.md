@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-02-11】[carlvellotti / claude\-code\-pm\-course](https://github.com/carlvellotti/claude-code-pm-course) - Interactive course teaching Product Managers how to use Claude Code effectively
 * 【2026-02-09】[pydantic / monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 * 【2026-02-09】[home\-assistant / addons](https://github.com/home-assistant/addons) - ➕ Docker add\-ons for Home Assistant
 * 【2026-02-08】[KeygraphHQ / shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps  Shannon has achieved a 96 15% success rate on the hint\-free, source\-aware XBOW Benchmark 
@@ -1148,6 +1149,7 @@
 
 ## Java
 
+* 【2026-02-11】[eddyizm / tempus](https://github.com/eddyizm/tempus) - An open source and lightweight music client for Subsonic, designed and built natively for Android 
 * 【2026-02-10】[realnnpg / Glazed](https://github.com/realnnpg/Glazed) - Meteor client addon for DonutSMP
 * 【2026-02-03】[pgjdbc / pgjdbc](https://github.com/pgjdbc/pgjdbc) - Postgresql JDBC Driver
 * 【2026-02-02】[Trainguy9512 / locomotion](https://github.com/Trainguy9512/locomotion) - 
@@ -1569,6 +1571,8 @@
 
 ## Python
 
+* 【2026-02-11】[baserow / baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code  Open source platform available on cloud and self\-hosted  GDPR, HIPAA, SOC 2 compliant  Best Airtable alternative 
+* 【2026-02-11】[suyiiyii / AutoGLM\-GUI](https://github.com/suyiiyii/AutoGLM-GUI) - AutoGLM 的现代化 Web 图形界面 \- 让 AI 自动化操作 Android 设备变得简单 已进化为你的专属自动化生产力工具
 * 【2026-02-10】[IAmTomShaw / f1\-race\-replay](https://github.com/IAmTomShaw/f1-race-replay) - An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️
 * 【2026-02-10】[ulab\-uiuc / LLMRouter](https://github.com/ulab-uiuc/LLMRouter) - LLMRouter: An Open\-Source Library for LLM Routing
 * 【2026-02-09】[huggingface / speech\-to\-speech](https://github.com/huggingface/speech-to-speech) - Speech To Speech: an effort for an open\-sourced and modular GPT4\-o
@@ -2872,6 +2876,7 @@
 
 ## Javascript
 
+* 【2026-02-11】[dwyl / learn\-postgresql](https://github.com/dwyl/learn-postgresql) - 🐘 Learn how to use PostgreSQL and Structured Query Language (SQL) to store and query your relational data  🔍
 * 【2026-02-08】[xinnan\-tech / xiaozhi\-esp32\-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi\-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi\-esp32, helps you quickly build an ESP32 device control server 
 * 【2026-02-06】[koosoli / ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag\-and\-drop editor for ESPHome displays (E\-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app 
 * 【2026-02-06】[YUZU\-Hub / appscreen](https://github.com/YUZU-Hub/appscreen) - Create screenshots for the iOS App Store
@@ -6036,6 +6041,7 @@
 
 ## Unknown
 
+* 【2026-02-11】[awslabs / aidlc-workflows](https://github.com/awslabs/aidlc-workflows) - AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents
 * 【2026-02-08】[ShepAlderson / copilot-orchestra](https://github.com/ShepAlderson/copilot-orchestra) - 
 * 【2026-02-07】[google / mcp](https://github.com/google/mcp) - Google 💚 MCP
 * 【2026-02-07】[ShepAlderson / copilot\-orchestra](https://github.com/ShepAlderson/copilot-orchestra) - 
@@ -6767,6 +6773,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-02-11】[Moonholder / Wuwa_Mod_Fixer](https://github.com/Moonholder/Wuwa_Mod_Fixer) - 
+* 【2026-02-11】[Roblox / studio\-rust\-mcp\-server](https://github.com/Roblox/studio-rust-mcp-server) - Standalone Roblox Studio MCP Server
 * 【2026-02-10】[barter-rs / barter-rs](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading & backtesting systems
 * 【2026-02-10】[containers / libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization\-based process isolation capabilities
 * 【2026-02-09】[karinushka / paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS 
@@ -7675,6 +7683,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-02-11】[markmanx / isoflow](https://github.com/markmanx/isoflow) - 
+* 【2026-02-11】[yikart / AiToEarn](https://github.com/yikart/AiToEarn) - Let's use AI to Earn!
+* 【2026-02-11】[steipete / oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck  Invoke GPT\-5 Pro with a custom context and files 
 * 【2026-02-08】[AndyMik90 / Auto\-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi\-session AI coding
 * 【2026-02-08】[shrimbly / node\-banana](https://github.com/shrimbly/node-banana) - Free and open node based generative workflows 
 * 【2026-02-07】[FranciscoMoretti / chatjs](https://github.com/FranciscoMoretti/chatjs) - Production\-ready AI chat template  Start here and make it your own  Formerly Sparka AI
