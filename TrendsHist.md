@@ -1571,6 +1571,9 @@
 
 ## Python
 
+* 【2026-02-12】[coleam00 / context\-engineering\-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding \- it's the way to actually make AI coding assistants work  Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!
+* 【2026-02-12】[The-Pocket / PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
+* 【2026-02-12】[element\-hq / synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted + Rust
 * 【2026-02-11】[baserow / baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code  Open source platform available on cloud and self\-hosted  GDPR, HIPAA, SOC 2 compliant  Best Airtable alternative 
 * 【2026-02-11】[suyiiyii / AutoGLM\-GUI](https://github.com/suyiiyii/AutoGLM-GUI) - AutoGLM 的现代化 Web 图形界面 \- 让 AI 自动化操作 Android 设备变得简单 已进化为你的专属自动化生产力工具
 * 【2026-02-10】[IAmTomShaw / f1\-race\-replay](https://github.com/IAmTomShaw/f1-race-replay) - An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️
@@ -2876,6 +2879,7 @@
 
 ## Javascript
 
+* 【2026-02-12】[liuw1535 / antigravity2api\-nodejs](https://github.com/liuw1535/antigravity2api-nodejs) - 
 * 【2026-02-11】[dwyl / learn\-postgresql](https://github.com/dwyl/learn-postgresql) - 🐘 Learn how to use PostgreSQL and Structured Query Language (SQL) to store and query your relational data  🔍
 * 【2026-02-08】[xinnan\-tech / xiaozhi\-esp32\-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi\-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi\-esp32, helps you quickly build an ESP32 device control server 
 * 【2026-02-06】[koosoli / ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag\-and\-drop editor for ESPHome displays (E\-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app 
@@ -3527,6 +3531,7 @@
 
 ## Go
 
+* 【2026-02-12】[asheshgoplani / agent\-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents  One TUI for Claude, Gemini, OpenCode, Codex, and more 
 * 【2026-02-09】[ramonvermeulen / whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go  Discover, explore, and understand your LAN in an intuitive way  Knock Knock   who's there? 🚪
 * 【2026-02-07】[github / gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 * 【2026-02-05】[github / gh\-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
@@ -4504,6 +4509,7 @@
 
 ## C++
 
+* 【2026-02-12】[alibaba / zvec](https://github.com/alibaba/zvec) - A lightweight, lightning\-fast, in\-process vector database
 * 【2026-02-07】[deepseek\-ai / 3FS](https://github.com/deepseek-ai/3FS) - A high\-performance distributed file system designed to address the challenges of AI training and inference workloads 
 * 【2026-02-07】[echavet / MitsubishiCN105ESPHome](https://github.com/echavet/MitsubishiCN105ESPHome) - ESPHome firmware inspired by GeoffDavis’s esphome\-mitsubishiheatpump, directly integrating the SwiCago library within its codebase 
 * 【2026-02-07】[jd-opensource / xllm](https://github.com/jd-opensource/xllm) - A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
@@ -4977,6 +4983,7 @@
 
 ## C#
 
+* 【2026-02-12】[microsoft / mcp\-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session\-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments 
 * 【2026-02-10】[C7\-Game / Prototype](https://github.com/C7-Game/Prototype) - OpenCiv3 is an open\-source, cross\-platform, mod\-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C\#, with capabilities inspired by the best of the 4X genre and lessons learned from modding Civ3 
 * 【2026-02-09】[Whisparr / Whisparr](https://github.com/Whisparr/Whisparr) - 
 * 【2026-02-03】[Taiizor / Sucrose](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers 
@@ -5466,6 +5473,7 @@
 
 ## Html
 
+* 【2026-02-12】[OCA / server\-brand](https://github.com/OCA/server-brand) - 
 * 【2026-02-05】[zaproxy / zap-extensions](https://github.com/zaproxy/zap-extensions) - ZAP Add-ons
 * 【2026-02-03】[codingforentrepreneurs / 30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
 * 【2026-02-02】[codingforentrepreneurs / 30\-Days\-of\-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days 
@@ -6041,6 +6049,7 @@
 
 ## Unknown
 
+* 【2026-02-12】[PCJones / usenet-guide](https://github.com/PCJones/usenet-guide) - Ein deutscher Einsteiger-Guide für das Usenet
 * 【2026-02-11】[awslabs / aidlc-workflows](https://github.com/awslabs/aidlc-workflows) - AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents
 * 【2026-02-08】[ShepAlderson / copilot-orchestra](https://github.com/ShepAlderson/copilot-orchestra) - 
 * 【2026-02-07】[google / mcp](https://github.com/google/mcp) - Google 💚 MCP
@@ -6773,6 +6782,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-02-12】[freenet / freenet\-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 * 【2026-02-11】[Moonholder / Wuwa_Mod_Fixer](https://github.com/Moonholder/Wuwa_Mod_Fixer) - 
 * 【2026-02-11】[Roblox / studio\-rust\-mcp\-server](https://github.com/Roblox/studio-rust-mcp-server) - Standalone Roblox Studio MCP Server
 * 【2026-02-10】[barter-rs / barter-rs](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading & backtesting systems
