@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-02-13】[cinnyapp / cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 * 【2026-02-11】[carlvellotti / claude\-code\-pm\-course](https://github.com/carlvellotti/claude-code-pm-course) - Interactive course teaching Product Managers how to use Claude Code effectively
 * 【2026-02-09】[pydantic / monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 * 【2026-02-09】[home\-assistant / addons](https://github.com/home-assistant/addons) - ➕ Docker add\-ons for Home Assistant
@@ -1149,6 +1150,7 @@
 
 ## Java
 
+* 【2026-02-13】[freerouting / freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto\-router
 * 【2026-02-11】[eddyizm / tempus](https://github.com/eddyizm/tempus) - An open source and lightweight music client for Subsonic, designed and built natively for Android 
 * 【2026-02-10】[realnnpg / Glazed](https://github.com/realnnpg/Glazed) - Meteor client addon for DonutSMP
 * 【2026-02-03】[pgjdbc / pgjdbc](https://github.com/pgjdbc/pgjdbc) - Postgresql JDBC Driver
@@ -1571,6 +1573,8 @@
 
 ## Python
 
+* 【2026-02-13】[Tencent / AngelSlim](https://github.com/Tencent/AngelSlim) - Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency 
+* 【2026-02-13】[coleam00 / context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!
 * 【2026-02-12】[coleam00 / context\-engineering\-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding \- it's the way to actually make AI coding assistants work  Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!
 * 【2026-02-12】[The-Pocket / PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 * 【2026-02-12】[element\-hq / synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted + Rust
@@ -2879,6 +2883,7 @@
 
 ## Javascript
 
+* 【2026-02-13】[pshenok / server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 * 【2026-02-12】[liuw1535 / antigravity2api\-nodejs](https://github.com/liuw1535/antigravity2api-nodejs) - 
 * 【2026-02-11】[dwyl / learn\-postgresql](https://github.com/dwyl/learn-postgresql) - 🐘 Learn how to use PostgreSQL and Structured Query Language (SQL) to store and query your relational data  🔍
 * 【2026-02-08】[xinnan\-tech / xiaozhi\-esp32\-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi\-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi\-esp32, helps you quickly build an ESP32 device control server 
@@ -3531,6 +3536,7 @@
 
 ## Go
 
+* 【2026-02-13】[bia\-pain\-bache / BPB\-Wizard](https://github.com/bia-pain-bache/BPB-Wizard) - A wizard to facilitate BPB Panel deployment and management 
 * 【2026-02-12】[asheshgoplani / agent\-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents  One TUI for Claude, Gemini, OpenCode, Codex, and more 
 * 【2026-02-09】[ramonvermeulen / whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go  Discover, explore, and understand your LAN in an intuitive way  Knock Knock   who's there? 🚪
 * 【2026-02-07】[github / gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
@@ -4509,6 +4515,7 @@
 
 ## C++
 
+* 【2026-02-13】[huaweicloud / huaweicloud\-sdk\-cpp\-v3](https://github.com/huaweicloud/huaweicloud-sdk-cpp-v3) - 
 * 【2026-02-12】[alibaba / zvec](https://github.com/alibaba/zvec) - A lightweight, lightning\-fast, in\-process vector database
 * 【2026-02-07】[deepseek\-ai / 3FS](https://github.com/deepseek-ai/3FS) - A high\-performance distributed file system designed to address the challenges of AI training and inference workloads 
 * 【2026-02-07】[echavet / MitsubishiCN105ESPHome](https://github.com/echavet/MitsubishiCN105ESPHome) - ESPHome firmware inspired by GeoffDavis’s esphome\-mitsubishiheatpump, directly integrating the SwiCago library within its codebase 
@@ -5473,6 +5480,7 @@
 
 ## Html
 
+* 【2026-02-13】[rekryt / iplist](https://github.com/rekryt/iplist) - IP Address Collection and Management Service with multiple output formats: mikrotik, json, text, ipset, nfset, clashx, keenetic, switchy, amnezia
 * 【2026-02-12】[OCA / server\-brand](https://github.com/OCA/server-brand) - 
 * 【2026-02-05】[zaproxy / zap-extensions](https://github.com/zaproxy/zap-extensions) - ZAP Add-ons
 * 【2026-02-03】[codingforentrepreneurs / 30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
@@ -6049,6 +6057,8 @@
 
 ## Unknown
 
+* 【2026-02-13】[teamspeak / teamspeak6\-server](https://github.com/teamspeak/teamspeak6-server) - This TeamSpeak 6 Server Beta repository contains the latest beta version of the TeamSpeak 6 Server software, offering early access to improvements and bug fixes  This beta release is intended for testing and feedback before the stable version launch 
+* 【2026-02-13】[iCHAIT / awesome\-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS 
 * 【2026-02-12】[PCJones / usenet-guide](https://github.com/PCJones/usenet-guide) - Ein deutscher Einsteiger-Guide für das Usenet
 * 【2026-02-11】[awslabs / aidlc-workflows](https://github.com/awslabs/aidlc-workflows) - AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents
 * 【2026-02-08】[ShepAlderson / copilot-orchestra](https://github.com/ShepAlderson/copilot-orchestra) - 
@@ -6782,6 +6792,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-02-13】[conaticus / FileExplorer](https://github.com/conaticus/FileExplorer) - Fast file explorer written with Tauri and React 
+* 【2026-02-13】[Polymarket / rs\-clob\-client](https://github.com/Polymarket/rs-clob-client) - Polymarket Rust CLOB Client
 * 【2026-02-12】[freenet / freenet\-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 * 【2026-02-11】[Moonholder / Wuwa_Mod_Fixer](https://github.com/Moonholder/Wuwa_Mod_Fixer) - 
 * 【2026-02-11】[Roblox / studio\-rust\-mcp\-server](https://github.com/Roblox/studio-rust-mcp-server) - Standalone Roblox Studio MCP Server
@@ -7693,6 +7705,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-02-13】[gemini-cli-extensions / workspace](https://github.com/gemini-cli-extensions/workspace) - Access Google Workspace when using Gemini CLI
+* 【2026-02-13】[spacebarchat / server](https://github.com/spacebarchat/server) - Spacebar server \- A reimplementation of the Discord com backend, built with Typescript and love
 * 【2026-02-11】[markmanx / isoflow](https://github.com/markmanx/isoflow) - 
 * 【2026-02-11】[yikart / AiToEarn](https://github.com/yikart/AiToEarn) - Let's use AI to Earn!
 * 【2026-02-11】[steipete / oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck  Invoke GPT\-5 Pro with a custom context and files 
