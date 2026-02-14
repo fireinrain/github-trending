@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-02-14】[SynkraAI / aios\-core](https://github.com/SynkraAI/aios-core) - Synkra AIOS: AI\-Orchestrated System for Full Stack Development \- Core Framework v4 0
+* 【2026-02-14】[google\-deepmind / superhuman](https://github.com/google-deepmind/superhuman) - 
+* 【2026-02-14】[DebugSwift / DebugSwift](https://github.com/DebugSwift/DebugSwift) - A toolkit to make debugging iOS applications easier 🚀
 * 【2026-02-13】[cinnyapp / cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 * 【2026-02-11】[carlvellotti / claude\-code\-pm\-course](https://github.com/carlvellotti/claude-code-pm-course) - Interactive course teaching Product Managers how to use Claude Code effectively
 * 【2026-02-09】[pydantic / monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
@@ -1573,6 +1576,9 @@
 
 ## Python
 
+* 【2026-02-14】[K\-Dense\-AI / claude\-scientific\-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use scientific skills for Claude
+* 【2026-02-14】[element-hq / synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted + Rust
+* 【2026-02-14】[jamwithai / production\-agentic\-rag\-course](https://github.com/jamwithai/production-agentic-rag-course) - 
 * 【2026-02-13】[Tencent / AngelSlim](https://github.com/Tencent/AngelSlim) - Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency 
 * 【2026-02-13】[coleam00 / context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!
 * 【2026-02-12】[coleam00 / context\-engineering\-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding \- it's the way to actually make AI coding assistants work  Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!
@@ -2883,6 +2889,7 @@
 
 ## Javascript
 
+* 【2026-02-14】[SynkraAI / aios-core](https://github.com/SynkraAI/aios-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
 * 【2026-02-13】[pshenok / server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 * 【2026-02-12】[liuw1535 / antigravity2api\-nodejs](https://github.com/liuw1535/antigravity2api-nodejs) - 
 * 【2026-02-11】[dwyl / learn\-postgresql](https://github.com/dwyl/learn-postgresql) - 🐘 Learn how to use PostgreSQL and Structured Query Language (SQL) to store and query your relational data  🔍
@@ -3536,6 +3543,7 @@
 
 ## Go
 
+* 【2026-02-14】[hakwerk / labca](https://github.com/hakwerk/labca) - A private Certificate Authority for internal (lab) use, based on the open source ACME Automated Certificate Management Environment implementation from Let's Encrypt (tm) 
 * 【2026-02-13】[bia\-pain\-bache / BPB\-Wizard](https://github.com/bia-pain-bache/BPB-Wizard) - A wizard to facilitate BPB Panel deployment and management 
 * 【2026-02-12】[asheshgoplani / agent\-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents  One TUI for Claude, Gemini, OpenCode, Codex, and more 
 * 【2026-02-09】[ramonvermeulen / whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go  Discover, explore, and understand your LAN in an intuitive way  Knock Knock   who's there? 🚪
@@ -6057,6 +6065,8 @@
 
 ## Unknown
 
+* 【2026-02-14】[travisvn / awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
+* 【2026-02-14】[open\-saas\-directory / awesome\-native\-macosx\-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) - Curated list of lightweight native macOS apps built with Swift, SwiftUI & AppKit  Best native Mac applications for productivity, development & utilities  No Electron bloat  ⭐
 * 【2026-02-13】[teamspeak / teamspeak6\-server](https://github.com/teamspeak/teamspeak6-server) - This TeamSpeak 6 Server Beta repository contains the latest beta version of the TeamSpeak 6 Server software, offering early access to improvements and bug fixes  This beta release is intended for testing and feedback before the stable version launch 
 * 【2026-02-13】[iCHAIT / awesome\-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS 
 * 【2026-02-12】[PCJones / usenet-guide](https://github.com/PCJones/usenet-guide) - Ein deutscher Einsteiger-Guide für das Usenet
@@ -6792,6 +6802,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-02-14】[NVIDIA / bare\-metal\-manager\-core](https://github.com/NVIDIA/bare-metal-manager-core) - NVIDIA Bare Metal Manager \- Hardware Lifecycle Management and multitenant networking
 * 【2026-02-13】[conaticus / FileExplorer](https://github.com/conaticus/FileExplorer) - Fast file explorer written with Tauri and React 
 * 【2026-02-13】[Polymarket / rs\-clob\-client](https://github.com/Polymarket/rs-clob-client) - Polymarket Rust CLOB Client
 * 【2026-02-12】[freenet / freenet\-core](https://github.com/freenet/freenet-core) - Declare your digital independence
