@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-02-18】[steipete / summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file  Get the gist  CLI and Chrome Extension 
 * 【2026-02-16】[steipete / gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts 
 * 【2026-02-16】[moonshine\-ai / moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 * 【2026-02-15】[letta-ai / letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
@@ -1156,6 +1157,7 @@
 
 ## Java
 
+* 【2026-02-18】[jarvis2f / telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 * 【2026-02-17】[crimera / piko](https://github.com/crimera/piko) - morphe patches for twitter
 * 【2026-02-16】[kousen / claude\-code\-training](https://github.com/kousen/claude-code-training) - Slides and demos for a training course on Claude Code
 * 【2026-02-13】[freerouting / freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto\-router
@@ -1581,6 +1583,9 @@
 
 ## Python
 
+* 【2026-02-18】[kaifcodec / user\-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️🫆 (2\-in\-1) Emaill and Username OSINT tool that analyzes username and email presence across multiple platforms, intended for security research, investigations, legitimate analysis
+* 【2026-02-18】[0x4m4 / hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.
+* 【2026-02-18】[HKUDS / AI\-Trader](https://github.com/HKUDS/AI-Trader) - "AI\-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade ai Tech Report Link: https://arxiv org/abs/2512 10971
 * 【2026-02-16】[mistralai / mistral\-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
 * 【2026-02-15】[music-assistant / server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
 * 【2026-02-15】[docling-project / docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
@@ -2897,6 +2902,7 @@
 
 ## Javascript
 
+* 【2026-02-18】[thalesgroup\-cert / Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher \- Open Source AI\-powered Cyber Threat Intelligence & Hunting Platform  Developed with Django & React JS 
 * 【2026-02-16】[gsd-build / get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 * 【2026-02-16】[dler\-io / Rules](https://github.com/dler-io/Rules) - 
 * 【2026-02-15】[gsd\-build / get\-shit\-done](https://github.com/gsd-build/get-shit-done) - A light\-weight and powerful meta\-prompting, context engineering and spec\-driven development system for Claude Code and OpenCode 
@@ -4101,6 +4107,7 @@
 
 ## C
 
+* 【2026-02-18】[SAT\-R / sa2](https://github.com/SAT-R/sa2) - A decompilation and port of Sonic Advance 2 \- a GameBoy Advance game written in C
 * 【2026-02-17】[paxx12 / SnapmakerU1-Extended-Firmware](https://github.com/paxx12/SnapmakerU1-Extended-Firmware) - Custom and repackaged Snapmaker U1 firmware
 * 【2026-02-17】[oerg866 / win98-quickinstall](https://github.com/oerg866/win98-quickinstall) - A framework + installer to (very) quickly install Windows 98 on anything from a 486 up to a modern system
 * 【2026-02-17】[ProjectNyxian / Nyxian](https://github.com/ProjectNyxian/Nyxian) - IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel virtualization layer for those apps 
@@ -5025,6 +5032,8 @@
 
 ## C#
 
+* 【2026-02-18】[Valour\-Software / Valour](https://github.com/Valour-Software/Valour) - Valour is bringing communities into the future with unique features, blazing performance, and respect for users 
+* 【2026-02-18】[V1ck3s / octo\-fiesta](https://github.com/V1ck3s/octo-fiesta) - A Subsonic API proxy server that transparently integrates multiple music streaming providers as sources 
 * 【2026-02-17】[SteamAutoCracks / Steam\-auto\-crack](https://github.com/SteamAutoCracks/Steam-auto-crack) - Steam Game Automatic Cracker
 * 【2026-02-12】[microsoft / mcp\-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session\-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments 
 * 【2026-02-10】[C7\-Game / Prototype](https://github.com/C7-Game/Prototype) - OpenCiv3 is an open\-source, cross\-platform, mod\-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C\#, with capabilities inspired by the best of the 4X genre and lessons learned from modding Civ3 
@@ -5516,6 +5525,8 @@
 
 ## Html
 
+* 【2026-02-18】[ruzin / stenoai](https://github.com/ruzin/stenoai) - Privacy focused AI powered meeting notes using locally hosted Small Language Models
+* 【2026-02-18】[Philip2809 / neato-connected](https://github.com/Philip2809/neato-connected) - Control your neato vacuum cleaner locally via home assistant!
 * 【2026-02-13】[rekryt / iplist](https://github.com/rekryt/iplist) - IP Address Collection and Management Service with multiple output formats: mikrotik, json, text, ipset, nfset, clashx, keenetic, switchy, amnezia
 * 【2026-02-12】[OCA / server\-brand](https://github.com/OCA/server-brand) - 
 * 【2026-02-05】[zaproxy / zap-extensions](https://github.com/zaproxy/zap-extensions) - ZAP Add-ons
@@ -6831,6 +6842,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-02-18】[dmtrKovalenko / fff nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim
+* 【2026-02-18】[martin\-olivier / airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software mainly based on aircrack\-ng tools suite
+* 【2026-02-18】[pimalaya / himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 * 【2026-02-16】[ruvnet / ruvector](https://github.com/ruvnet/ruvector) - A distributed vector database that learns  Store embeddings, query with Cypher, scale horizontally with Raft consensus, and let the index improve itself through Graph Neural Networks 
 * 【2026-02-16】[NVIDIA / bare-metal-manager-core](https://github.com/NVIDIA/bare-metal-manager-core) - NVIDIA Bare Metal Manager - Hardware Lifecycle Management and multitenant networking
 * 【2026-02-15】[jely2002 / youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
@@ -7749,6 +7763,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-02-18】[open\-mercato / open\-mercato](https://github.com/open-mercato/open-mercato) - AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth  It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything  Better than Django, Retool and other alternatives \- and Enterprise Grade!
+* 【2026-02-18】[tobi / qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever  Tracking current sota approaches while being all local
 * 【2026-02-16】[breaking\-brake / cc\-wf\-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio
 * 【2026-02-16】[amicalhq / amical](https://github.com/amicalhq/amical) - 🎙️ AI Dictation App \- Open Source and Local\-first ⚡ Type 3x faster, no keyboard needed  🆓 Powered by open source models, works offline, fast and accurate 
 * 【2026-02-16】[YishenTu / claudian](https://github.com/YishenTu/claudian) - An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
