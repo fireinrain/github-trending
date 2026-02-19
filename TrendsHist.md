@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-02-19】[HailToDodongo / pyrite64](https://github.com/HailToDodongo/pyrite64) - N64 Game\-Engine and Editor using libdragon & tiny3d
+* 【2026-02-19】[p2r3 / convert](https://github.com/p2r3/convert) - Truly universal online file converter
 * 【2026-02-18】[steipete / summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file  Get the gist  CLI and Chrome Extension 
 * 【2026-02-16】[steipete / gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts 
 * 【2026-02-16】[moonshine\-ai / moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
@@ -1157,6 +1159,7 @@
 
 ## Java
 
+* 【2026-02-19】[uber / uForwarder](https://github.com/uber/uForwarder) - Apache Kafka is an open\-source distributed event streaming platform used by thousands of companies  uForwarder aims to address several pain points while using Apache Kafka for pub\-sub message queueing at scale, including partition scalability and head\-of\-line blocking 
 * 【2026-02-18】[jarvis2f / telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 * 【2026-02-17】[crimera / piko](https://github.com/crimera/piko) - morphe patches for twitter
 * 【2026-02-16】[kousen / claude\-code\-training](https://github.com/kousen/claude-code-training) - Slides and demos for a training course on Claude Code
@@ -1583,6 +1586,11 @@
 
 ## Python
 
+* 【2026-02-19】[mistralai / mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
+* 【2026-02-19】[NVIDIA\-NeMo / Automodel](https://github.com/NVIDIA-NeMo/Automodel) - Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
+* 【2026-02-19】[SemiAnalysisAI / InferenceX](https://github.com/SemiAnalysisAI/InferenceX) - Open Source Continuous Inference Benchmarking Qwen3 5, DeepSeek, GPTOSS \- GB200 NVL72 vs MI355X vs B200 vs GB300 NVL72 vs H100 & soon™ TPUv6e/v7/Trainium2/3
+* 【2026-02-19】[databricks\-solutions / ai\-dev\-kit](https://github.com/databricks-solutions/ai-dev-kit) - Databricks Toolkit for Coding Agents provided by Field Engineering
+* 【2026-02-19】[mavlink / mavlink](https://github.com/mavlink/mavlink) - Marshalling / communication library for drones 
 * 【2026-02-18】[kaifcodec / user\-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️🫆 (2\-in\-1) Emaill and Username OSINT tool that analyzes username and email presence across multiple platforms, intended for security research, investigations, legitimate analysis
 * 【2026-02-18】[0x4m4 / hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.
 * 【2026-02-18】[HKUDS / AI\-Trader](https://github.com/HKUDS/AI-Trader) - "AI\-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade ai Tech Report Link: https://arxiv org/abs/2512 10971
@@ -3560,6 +3568,7 @@
 
 ## Go
 
+* 【2026-02-19】[asheshgoplani / agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 * 【2026-02-17】[micro\-editor / micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal\-based text editor
 * 【2026-02-17】[github / gh\-aw\-mcpg](https://github.com/github/gh-aw-mcpg) - Github Agentic Workflows MCP Gateway
 * 【2026-02-16】[steipete / wacli](https://github.com/steipete/wacli) - WhatsApp CLI
@@ -4107,6 +4116,7 @@
 
 ## C
 
+* 【2026-02-19】[andreknieriem / headunit\-revived](https://github.com/andreknieriem/headunit-revived) - Headunit App for displaying Android Auto
 * 【2026-02-18】[SAT\-R / sa2](https://github.com/SAT-R/sa2) - A decompilation and port of Sonic Advance 2 \- a GameBoy Advance game written in C
 * 【2026-02-17】[paxx12 / SnapmakerU1-Extended-Firmware](https://github.com/paxx12/SnapmakerU1-Extended-Firmware) - Custom and repackaged Snapmaker U1 firmware
 * 【2026-02-17】[oerg866 / win98-quickinstall](https://github.com/oerg866/win98-quickinstall) - A framework + installer to (very) quickly install Windows 98 on anything from a 486 up to a modern system
@@ -4553,6 +4563,7 @@
 
 ## C++
 
+* 【2026-02-19】[KhronosGroup / Vulkan\-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - Open\-Source Vulkan C++ API
 * 【2026-02-17】[RunanywhereAI / runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
 * 【2026-02-17】[kavan010 / black_hole](https://github.com/kavan010/black_hole) - Black hole simulation project:
 * 【2026-02-16】[RunanywhereAI / runanywhere\-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
@@ -5032,6 +5043,7 @@
 
 ## C#
 
+* 【2026-02-19】[CodingWonders / MicroWin](https://github.com/CodingWonders/MicroWin) - The future home of MicroWin 
 * 【2026-02-18】[Valour\-Software / Valour](https://github.com/Valour-Software/Valour) - Valour is bringing communities into the future with unique features, blazing performance, and respect for users 
 * 【2026-02-18】[V1ck3s / octo\-fiesta](https://github.com/V1ck3s/octo-fiesta) - A Subsonic API proxy server that transparently integrates multiple music streaming providers as sources 
 * 【2026-02-17】[SteamAutoCracks / Steam\-auto\-crack](https://github.com/SteamAutoCracks/Steam-auto-crack) - Steam Game Automatic Cracker
@@ -6104,6 +6116,7 @@
 
 ## Unknown
 
+* 【2026-02-19】[user1342 / Awesome\-Android\-Reverse\-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools 
 * 【2026-02-15】[OldUnreal / UT2004Patches](https://github.com/OldUnreal/UT2004Patches) - 
 * 【2026-02-14】[travisvn / awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 * 【2026-02-14】[open\-saas\-directory / awesome\-native\-macosx\-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) - Curated list of lightweight native macOS apps built with Swift, SwiftUI & AppKit  Best native Mac applications for productivity, development & utilities  No Electron bloat  ⭐
@@ -6842,6 +6855,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-02-19】[dmtrKovalenko / fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim
 * 【2026-02-18】[dmtrKovalenko / fff nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim
 * 【2026-02-18】[martin\-olivier / airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software mainly based on aircrack\-ng tools suite
 * 【2026-02-18】[pimalaya / himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
@@ -7763,6 +7777,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-02-19】[cloudflare / kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications 
+* 【2026-02-19】[shrimbly / node-banana](https://github.com/shrimbly/node-banana) - Free and open node based generative workflows.
 * 【2026-02-18】[open\-mercato / open\-mercato](https://github.com/open-mercato/open-mercato) - AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth  It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything  Better than Django, Retool and other alternatives \- and Enterprise Grade!
 * 【2026-02-18】[tobi / qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever  Tracking current sota approaches while being all local
 * 【2026-02-16】[breaking\-brake / cc\-wf\-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio
