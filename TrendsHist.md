@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-02-20】[RichardAtCT / claude\-code\-telegram](https://github.com/RichardAtCT/claude-code-telegram) - A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence 
+* 【2026-02-20】[open-mercato / open-mercato](https://github.com/open-mercato/open-mercato) - AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!
+* 【2026-02-20】[LlamaGenAI / awesome\-free\-saas](https://github.com/LlamaGenAI/awesome-free-saas) - an awesome list of free SaaS (software as a service) for you 
 * 【2026-02-19】[HailToDodongo / pyrite64](https://github.com/HailToDodongo/pyrite64) - N64 Game\-Engine and Editor using libdragon & tiny3d
 * 【2026-02-19】[p2r3 / convert](https://github.com/p2r3/convert) - Truly universal online file converter
 * 【2026-02-18】[steipete / summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file  Get the gist  CLI and Chrome Extension 
@@ -1159,6 +1162,7 @@
 
 ## Java
 
+* 【2026-02-20】[adityatandon15 / Low\-Level\-Design\-Course](https://github.com/adityatandon15/Low-Level-Design-Course) - All Code of LLD Playlist
 * 【2026-02-19】[uber / uForwarder](https://github.com/uber/uForwarder) - Apache Kafka is an open\-source distributed event streaming platform used by thousands of companies  uForwarder aims to address several pain points while using Apache Kafka for pub\-sub message queueing at scale, including partition scalability and head\-of\-line blocking 
 * 【2026-02-18】[jarvis2f / telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 * 【2026-02-17】[crimera / piko](https://github.com/crimera/piko) - morphe patches for twitter
@@ -1586,6 +1590,7 @@
 
 ## Python
 
+* 【2026-02-20】[RichardAtCT / claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) - A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
 * 【2026-02-19】[mistralai / mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
 * 【2026-02-19】[NVIDIA\-NeMo / Automodel](https://github.com/NVIDIA-NeMo/Automodel) - Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
 * 【2026-02-19】[SemiAnalysisAI / InferenceX](https://github.com/SemiAnalysisAI/InferenceX) - Open Source Continuous Inference Benchmarking Qwen3 5, DeepSeek, GPTOSS \- GB200 NVL72 vs MI355X vs B200 vs GB300 NVL72 vs H100 & soon™ TPUv6e/v7/Trainium2/3
@@ -4116,6 +4121,8 @@
 
 ## C
 
+* 【2026-02-20】[DragonMinded / libdragon](https://github.com/DragonMinded/libdragon) - Open source library for N64 development 
+* 【2026-02-20】[GameTec\-live / ChameleonUltraGUI](https://github.com/GameTec-live/ChameleonUltraGUI) - A GUI for the Chameleon Ultra written in Flutter for crossplatform
 * 【2026-02-19】[andreknieriem / headunit\-revived](https://github.com/andreknieriem/headunit-revived) - Headunit App for displaying Android Auto
 * 【2026-02-18】[SAT\-R / sa2](https://github.com/SAT-R/sa2) - A decompilation and port of Sonic Advance 2 \- a GameBoy Advance game written in C
 * 【2026-02-17】[paxx12 / SnapmakerU1-Extended-Firmware](https://github.com/paxx12/SnapmakerU1-Extended-Firmware) - Custom and repackaged Snapmaker U1 firmware
@@ -4563,6 +4570,7 @@
 
 ## C++
 
+* 【2026-02-20】[blackboardsh / electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross\-platform desktop apps with Typescript 
 * 【2026-02-19】[KhronosGroup / Vulkan\-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - Open\-Source Vulkan C++ API
 * 【2026-02-17】[RunanywhereAI / runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
 * 【2026-02-17】[kavan010 / black_hole](https://github.com/kavan010/black_hole) - Black hole simulation project:
@@ -5043,6 +5051,8 @@
 
 ## C#
 
+* 【2026-02-20】[oocx / tfplan2md](https://github.com/oocx/tfplan2md) - Convert terraform plans (json) into human readable markdown for easier review of changes in pull requests 
+* 【2026-02-20】[V1ck3s / octo-fiesta](https://github.com/V1ck3s/octo-fiesta) - A Subsonic API proxy server that transparently integrates multiple music streaming providers as sources.
 * 【2026-02-19】[CodingWonders / MicroWin](https://github.com/CodingWonders/MicroWin) - The future home of MicroWin 
 * 【2026-02-18】[Valour\-Software / Valour](https://github.com/Valour-Software/Valour) - Valour is bringing communities into the future with unique features, blazing performance, and respect for users 
 * 【2026-02-18】[V1ck3s / octo\-fiesta](https://github.com/V1ck3s/octo-fiesta) - A Subsonic API proxy server that transparently integrates multiple music streaming providers as sources 
@@ -6116,6 +6126,7 @@
 
 ## Unknown
 
+* 【2026-02-20】[LlamaGenAI / awesome-free-saas](https://github.com/LlamaGenAI/awesome-free-saas) - an awesome list of free SaaS (software as a service) for you.
 * 【2026-02-19】[user1342 / Awesome\-Android\-Reverse\-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools 
 * 【2026-02-15】[OldUnreal / UT2004Patches](https://github.com/OldUnreal/UT2004Patches) - 
 * 【2026-02-14】[travisvn / awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
@@ -7777,6 +7788,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-02-20】[anomalyco / opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+* 【2026-02-20】[RooCodeInc / Roo\-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor 
 * 【2026-02-19】[cloudflare / kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications 
 * 【2026-02-19】[shrimbly / node-banana](https://github.com/shrimbly/node-banana) - Free and open node based generative workflows.
 * 【2026-02-18】[open\-mercato / open\-mercato](https://github.com/open-mercato/open-mercato) - AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth  It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything  Better than Django, Retool and other alternatives \- and Enterprise Grade!
