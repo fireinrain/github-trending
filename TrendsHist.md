@@ -1,5 +1,11 @@
 ## All language
 
+* 【2026-02-21】[anthropics / claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
+* 【2026-02-21】[Effect\-TS / effect\-smol](https://github.com/Effect-TS/effect-smol) - Core libraries and experimental work for Effect v4
+* 【2026-02-21】[roboflow / trackers](https://github.com/roboflow/trackers) - Trackers gives you clean, modular re\-implementations of leading multi\-object tracking algorithms released under the permissive Apache 2 0 license  You combine them with any detection model you already use 
+* 【2026-02-21】[huggingface / skills](https://github.com/huggingface/skills) - 
+* 【2026-02-21】[databricks-solutions / ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) - Databricks Toolkit for Coding Agents provided by Field Engineering
+* 【2026-02-21】[friendlyarm / Actions\-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt) - Build FriendlyWrt using GitHub Actions
 * 【2026-02-20】[RichardAtCT / claude\-code\-telegram](https://github.com/RichardAtCT/claude-code-telegram) - A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence 
 * 【2026-02-20】[open-mercato / open-mercato](https://github.com/open-mercato/open-mercato) - AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!
 * 【2026-02-20】[LlamaGenAI / awesome\-free\-saas](https://github.com/LlamaGenAI/awesome-free-saas) - an awesome list of free SaaS (software as a service) for you 
@@ -1590,6 +1596,8 @@
 
 ## Python
 
+* 【2026-02-21】[Crosstalk\-Solutions / unifi\-toolkit](https://github.com/Crosstalk-Solutions/unifi-toolkit) - A suite of tools for UniFi network management
+* 【2026-02-21】[666ghj / MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything  简洁通用的群体智能引擎，预测万物
 * 【2026-02-20】[RichardAtCT / claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) - A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
 * 【2026-02-19】[mistralai / mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
 * 【2026-02-19】[NVIDIA\-NeMo / Automodel](https://github.com/NVIDIA-NeMo/Automodel) - Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
@@ -2915,6 +2923,7 @@
 
 ## Javascript
 
+* 【2026-02-21】[ZackAkil / immersive\-language\-learning\-with\-live\-api](https://github.com/ZackAkil/immersive-language-learning-with-live-api) - Immergo is an immersive language learning application powered by the Google Gemini Live SDK  It simulates real\-world roleplay scenarios (e g , buying a bus ticket, ordering coffee) to help users practice speaking in various languages with an AI that acts as a native speaker 
 * 【2026-02-18】[thalesgroup\-cert / Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher \- Open Source AI\-powered Cyber Threat Intelligence & Hunting Platform  Developed with Django & React JS 
 * 【2026-02-16】[gsd-build / get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 * 【2026-02-16】[dler\-io / Rules](https://github.com/dler-io/Rules) - 
@@ -4570,6 +4579,7 @@
 
 ## C++
 
+* 【2026-02-21】[surge-synthesizer / OB-Xf](https://github.com/surge-synthesizer/OB-Xf) - OB-Xf is a continuation and modernatization of the last open source release of OB-Xd by 2DaT and later discoDSP. It is inspired by the venerable Oberheim OB-X. Get the nightly https://github.com/surge-synthesizer/OB-Xf/releases/tag/Nightly
 * 【2026-02-20】[blackboardsh / electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross\-platform desktop apps with Typescript 
 * 【2026-02-19】[KhronosGroup / Vulkan\-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - Open\-Source Vulkan C++ API
 * 【2026-02-17】[RunanywhereAI / runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
@@ -5547,6 +5557,7 @@
 
 ## Html
 
+* 【2026-02-21】[f / prompts chat](https://github.com/f/prompts.chat) - a k a  Awesome ChatGPT Prompts  Share, discover, and collect prompts from the community  Free and open source — self\-host for your organization with complete privacy 
 * 【2026-02-18】[ruzin / stenoai](https://github.com/ruzin/stenoai) - Privacy focused AI powered meeting notes using locally hosted Small Language Models
 * 【2026-02-18】[Philip2809 / neato-connected](https://github.com/Philip2809/neato-connected) - Control your neato vacuum cleaner locally via home assistant!
 * 【2026-02-13】[rekryt / iplist](https://github.com/rekryt/iplist) - IP Address Collection and Management Service with multiple output formats: mikrotik, json, text, ipset, nfset, clashx, keenetic, switchy, amnezia
@@ -7788,6 +7799,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-02-21】[Effect-TS / effect-smol](https://github.com/Effect-TS/effect-smol) - Core libraries and experimental work for Effect v4
+* 【2026-02-21】[junhoyeo / tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini CLI, Cursor IDE, AmpCode, Factory Droid, and Kimi Code CLI • 🏅Global Leaderboard + 2D/3D Contributions Graph
 * 【2026-02-20】[anomalyco / opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 * 【2026-02-20】[RooCodeInc / Roo\-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor 
 * 【2026-02-19】[cloudflare / kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications 
