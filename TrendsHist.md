@@ -1170,6 +1170,7 @@
 
 ## Java
 
+* 【2026-02-23】[Stryker\-Defense\-Inc / strykerapp](https://github.com/Stryker-Defense-Inc/strykerapp) - Magic tool for pentest from your android device!
 * 【2026-02-20】[adityatandon15 / Low\-Level\-Design\-Course](https://github.com/adityatandon15/Low-Level-Design-Course) - All Code of LLD Playlist
 * 【2026-02-19】[uber / uForwarder](https://github.com/uber/uForwarder) - Apache Kafka is an open\-source distributed event streaming platform used by thousands of companies  uForwarder aims to address several pain points while using Apache Kafka for pub\-sub message queueing at scale, including partition scalability and head\-of\-line blocking 
 * 【2026-02-18】[jarvis2f / telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
@@ -1598,6 +1599,7 @@
 
 ## Python
 
+* 【2026-02-23】[mihail911 / modern\-software\-dev\-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
 * 【2026-02-22】[Crosstalk-Solutions / unifi-toolkit](https://github.com/Crosstalk-Solutions/unifi-toolkit) - A suite of tools for UniFi network management
 * 【2026-02-21】[Crosstalk\-Solutions / unifi\-toolkit](https://github.com/Crosstalk-Solutions/unifi-toolkit) - A suite of tools for UniFi network management
 * 【2026-02-21】[666ghj / MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything  简洁通用的群体智能引擎，预测万物
@@ -2926,6 +2928,7 @@
 
 ## Javascript
 
+* 【2026-02-23】[gamosoft / NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self\-Hosted Knowledge Base
 * 【2026-02-22】[expo / skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
 * 【2026-02-21】[ZackAkil / immersive\-language\-learning\-with\-live\-api](https://github.com/ZackAkil/immersive-language-learning-with-live-api) - Immergo is an immersive language learning application powered by the Google Gemini Live SDK  It simulates real\-world roleplay scenarios (e g , buying a bus ticket, ordering coffee) to help users practice speaking in various languages with an AI that acts as a native speaker 
 * 【2026-02-18】[thalesgroup\-cert / Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher \- Open Source AI\-powered Cyber Threat Intelligence & Hunting Platform  Developed with Django & React JS 
@@ -5068,6 +5071,8 @@
 
 ## C#
 
+* 【2026-02-23】[BigheadSMZ / Zelda-LA-DX-HD-Updated](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated) - A PC Port of The Legend of Zelda: Link's Awakening.
+* 【2026-02-23】[Valour-Software / Valour](https://github.com/Valour-Software/Valour) - Valour is bringing communities into the future with unique features, blazing performance, and respect for users.
 * 【2026-02-22】[BigheadSMZ / Zelda\-LA\-DX\-HD\-Updated](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated) - A PC Port of The Legend of Zelda: Link's Awakening 
 * 【2026-02-20】[oocx / tfplan2md](https://github.com/oocx/tfplan2md) - Convert terraform plans (json) into human readable markdown for easier review of changes in pull requests 
 * 【2026-02-20】[V1ck3s / octo-fiesta](https://github.com/V1ck3s/octo-fiesta) - A Subsonic API proxy server that transparently integrates multiple music streaming providers as sources.
@@ -6886,6 +6891,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-02-23】[raine / workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero\-friction parallel dev
 * 【2026-02-19】[dmtrKovalenko / fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim
 * 【2026-02-18】[dmtrKovalenko / fff nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim
 * 【2026-02-18】[martin\-olivier / airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software mainly based on aircrack\-ng tools suite
