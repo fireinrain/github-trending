@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-02-28】[ruvnet / ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude  Deploy intelligent multi\-agent swarms, coordinate autonomous workflows, and build conversational AI systems  Features enterprise\-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 * 【2026-02-25】[GVCLab / PersonaLive](https://github.com/GVCLab/PersonaLive) - [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming
 * 【2026-02-24】[muratcankoylan / Agent\-Skills\-for\-Context\-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi\-agent architectures, and production agent systems  Use when building, optimizing, or debugging agent systems that require effective context management 
 * 【2026-02-22】[abhigyanpatwari / GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero\-Server Code Intelligence Engine \- GitNexus is a client\-side knowledge graph creator that runs entirely in your browser  Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent  Perfect for code exploration
@@ -1602,6 +1603,9 @@
 
 ## Python
 
+* 【2026-02-28】[bytedance / trae\-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM\-based agent for general purpose software engineering tasks 
+* 【2026-02-28】[4thfever / cultivation\-world\-simulator](https://github.com/4thfever/cultivation-world-simulator) - 基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。\| An open\-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world 
+* 【2026-02-28】[agentscope\-ai / agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust 
 * 【2026-02-27】[alibaba / OpenSandbox](https://github.com/alibaba/OpenSandbox) - OpenSandbox is a general\-purpose sandbox platform for AI applications, offering multi\-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training 
 * 【2026-02-25】[smittix / intercept](https://github.com/smittix/intercept) - iNTERCEPT, a free and open\-source platform that unites the best signal intelligence tools into a single, accessible interface 
 * 【2026-02-25】[anthropics / claude\-code\-security\-review](https://github.com/anthropics/claude-code-security-review) - An AI\-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities 
@@ -2940,6 +2944,9 @@
 
 ## Javascript
 
+* 【2026-02-28】[mozilla\-firefox / firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser 
+* 【2026-02-28】[nasa-gibs / worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery
+* 【2026-02-28】[vercel-labs / agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 * 【2026-02-27】[vercel\-labs / agent\-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 * 【2026-02-27】[AikidoSec / safe\-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, and pnpx with Aikido Safe Chain  Free to use, no tokens required 
 * 【2026-02-27】[nasa\-gibs / worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full\-resolution satellite imagery
@@ -3609,6 +3616,7 @@
 
 ## Go
 
+* 【2026-02-28】[DanielLavrushin / b4](https://github.com/DanielLavrushin/b4) - Network packet processor with a friendly UI for circumventing Deep Packet Inspection (DPI) systems 
 * 【2026-02-27】[Wei-Shaw / sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 * 【2026-02-27】[rapidaai / voice\-ai](https://github.com/rapidaai/voice-ai) - Rapida is an open\-source, end\-to\-end voice AI orchestration platform for building real\-time conversational voice agents with audio streaming, STT, TTS, VAD, multi\-channel integration, agent state management, and observability 
 * 【2026-02-26】[xdevplatform / xurl](https://github.com/xdevplatform/xurl) - The official CLI for the X API
@@ -4617,6 +4625,7 @@
 
 ## C++
 
+* 【2026-02-28】[autowarefoundation / autoware_vision_pilot](https://github.com/autowarefoundation/autoware_vision_pilot) - Free self\-driving car stack \- fully open\-source ADAS and autonomous driving system
 * 【2026-02-26】[NVlabs / GR00T\-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) - Welcome to GR00T Whole\-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers  This includes: Decoupled WBC models used in NVIDIA Isaac\-Gr00t, Gr00t N1 5 and N1 6 and GEAR\-SONIC
 * 【2026-02-22】[Zylann / godot_voxel](https://github.com/Zylann/godot_voxel) - Voxel module for Godot Engine
 * 【2026-02-21】[surge-synthesizer / OB-Xf](https://github.com/surge-synthesizer/OB-Xf) - OB-Xf is a continuation and modernatization of the last open source release of OB-Xd by 2DaT and later discoDSP. It is inspired by the venerable Oberheim OB-X. Get the nightly https://github.com/surge-synthesizer/OB-Xf/releases/tag/Nightly
@@ -5101,6 +5110,7 @@
 
 ## C#
 
+* 【2026-02-28】[fpindej / netrock](https://github.com/fpindej/netrock) - SaaS starter kit for small productions—  NET 10 Clean Architecture API + SvelteKit frontend, fully dockerized  Fork it, init it, ship your product 
 * 【2026-02-25】[IAmParadox27 / jellyfin\-plugin\-file\-transformation](https://github.com/IAmParadox27/jellyfin-plugin-file-transformation) - Jellyfin plugin that allows other plugins to manipulate the content served by jellyfin\-web without modifying the web source directly 
 * 【2026-02-23】[BigheadSMZ / Zelda-LA-DX-HD-Updated](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated) - A PC Port of The Legend of Zelda: Link's Awakening.
 * 【2026-02-23】[Valour-Software / Valour](https://github.com/Valour-Software/Valour) - Valour is bringing communities into the future with unique features, blazing performance, and respect for users.
@@ -7855,6 +7865,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-02-28】[lak7 / devildev](https://github.com/lak7/devildev) - DevilDev aims to be spec driven lovable which is better and open src
+* 【2026-02-28】[ailyProject / aily\-blockly](https://github.com/ailyProject/aily-blockly) - AI IDE for hardware development, support Arduino, MicroPython, ESP32, STM32, RP2040, Nrf5x   
+* 【2026-02-28】[vercel\-labs / just\-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents
+* 【2026-02-28】[vercel / chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more 
 * 【2026-02-27】[code-yeongyu / oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 * 【2026-02-25】[tiann / hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
 * 【2026-02-24】[code\-yeongyu / oh\-my\-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
