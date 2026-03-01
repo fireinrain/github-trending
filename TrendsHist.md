@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-03-01】[NousResearch / hermes\-agent](https://github.com/NousResearch/hermes-agent) - 
+* 【2026-03-01】[superset\-sh / superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era \- Run an army of Claude Code, Codex, etc  on your machine
+* 【2026-03-01】[datagouv / datagouv\-mcp](https://github.com/datagouv/datagouv-mcp) - Official data gouv fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation 
 * 【2026-02-28】[ruvnet / ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude  Deploy intelligent multi\-agent swarms, coordinate autonomous workflows, and build conversational AI systems  Features enterprise\-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 * 【2026-02-25】[GVCLab / PersonaLive](https://github.com/GVCLab/PersonaLive) - [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming
 * 【2026-02-24】[muratcankoylan / Agent\-Skills\-for\-Context\-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi\-agent architectures, and production agent systems  Use when building, optimizing, or debugging agent systems that require effective context management 
@@ -1603,6 +1606,10 @@
 
 ## Python
 
+* 【2026-03-01】[NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent) - 
+* 【2026-03-01】[datagouv / datagouv-mcp](https://github.com/datagouv/datagouv-mcp) - Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.
+* 【2026-03-01】[ginobefun / agentic\-design\-patterns\-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版
+* 【2026-03-01】[leggedrobotics / rsl_rl](https://github.com/leggedrobotics/rsl_rl) - A fast and simple implementation of learning algorithms for robotics 
 * 【2026-02-28】[bytedance / trae\-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM\-based agent for general purpose software engineering tasks 
 * 【2026-02-28】[4thfever / cultivation\-world\-simulator](https://github.com/4thfever/cultivation-world-simulator) - 基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。\| An open\-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world 
 * 【2026-02-28】[agentscope\-ai / agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust 
@@ -2944,6 +2951,9 @@
 
 ## Javascript
 
+* 【2026-03-01】[mozilla-firefox / firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
+* 【2026-03-01】[xinnan-tech / xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
+* 【2026-03-01】[datawhalechina / easy\-vibe](https://github.com/datawhalechina/easy-vibe) - vibe coding from 0 to 1 ｜ vibecoding 零基础教程 ｜ 产品原型、AI 能力集成、前后端开发、多平台应用开发教程
 * 【2026-02-28】[mozilla\-firefox / firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser 
 * 【2026-02-28】[nasa-gibs / worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery
 * 【2026-02-28】[vercel-labs / agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
@@ -6192,6 +6202,7 @@
 
 ## Unknown
 
+* 【2026-03-01】[VoltAgent / awesome\-agent\-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 380+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others 
 * 【2026-02-26】[ottosulin / awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) - A collection of awesome resources related AI security
 * 【2026-02-25】[lerrua / remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) - Lista de empresas com trabalho remoto no Brasil
 * 【2026-02-25】[ottosulin / awesome\-ai\-security](https://github.com/ottosulin/awesome-ai-security) - A collection of awesome resources related AI security
@@ -6937,6 +6948,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-03-01】[hank9999 / kiro rs](https://github.com/hank9999/kiro.rs) - A Kiro Client in Rust
 * 【2026-02-27】[OlaProeis / Ferrite](https://github.com/OlaProeis/Ferrite) - A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files  Built with Rust and egui for a native, responsive experience 
 * 【2026-02-27】[Polymarket / rs-clob-client](https://github.com/Polymarket/rs-clob-client) - Polymarket Rust CLOB Client
 * 【2026-02-25】[erikjuhani / basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
@@ -7865,6 +7877,12 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-03-01】[superset-sh / superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+* 【2026-03-01】[dontriskit / awesome\-ai\-system\-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools  Perfect for AI agent builders and prompt engineers  Incuding: ChatGPT, Claude, Perplexity, Manus, Claude\-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI 
+* 【2026-03-01】[AndyMik90 / Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
+* 【2026-03-01】[ailyProject / aily-blockly](https://github.com/ailyProject/aily-blockly) - AI IDE for hardware development, support Arduino, MicroPython, ESP32, STM32, RP2040, Nrf5x...
+* 【2026-03-01】[Anionex / banana\-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出可编辑ppt \- An AI\-native PPT generator based on nano banana pro🍌
+* 【2026-03-01】[fastrepl / char](https://github.com/fastrepl/char) - AI notepad for meetings
 * 【2026-02-28】[lak7 / devildev](https://github.com/lak7/devildev) - DevilDev aims to be spec driven lovable which is better and open src
 * 【2026-02-28】[ailyProject / aily\-blockly](https://github.com/ailyProject/aily-blockly) - AI IDE for hardware development, support Arduino, MicroPython, ESP32, STM32, RP2040, Nrf5x   
 * 【2026-02-28】[vercel\-labs / just\-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents
