@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-03-02】[K-Dense-AI / claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 * 【2026-03-01】[NousResearch / hermes\-agent](https://github.com/NousResearch/hermes-agent) - 
 * 【2026-03-01】[superset\-sh / superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era \- Run an army of Claude Code, Codex, etc  on your machine
 * 【2026-03-01】[datagouv / datagouv\-mcp](https://github.com/datagouv/datagouv-mcp) - Official data gouv fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation 
@@ -1606,6 +1607,7 @@
 
 ## Python
 
+* 【2026-03-02】[jamwithai / production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) - 
 * 【2026-03-01】[NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent) - 
 * 【2026-03-01】[datagouv / datagouv-mcp](https://github.com/datagouv/datagouv-mcp) - Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.
 * 【2026-03-01】[ginobefun / agentic\-design\-patterns\-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版
@@ -4181,6 +4183,8 @@
 
 ## C
 
+* 【2026-03-02】[heiher / hev\-socks5\-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A lightweight, fast and reliable tun2socks
+* 【2026-03-02】[Unidata / netcdf\-c](https://github.com/Unidata/netcdf-c) - Official GitHub repository for netCDF\-C libraries and utilities 
 * 【2026-02-26】[Vatuu / silent-hill-decomp](https://github.com/Vatuu/silent-hill-decomp) - An in-progress decompilation of the 1.1 US release of Silent Hill on the Playstation 1.
 * 【2026-02-25】[Vatuu / silent\-hill\-decomp](https://github.com/Vatuu/silent-hill-decomp) - An in\-progress decompilation of the 1 1 US release of Silent Hill on the Playstation 1 
 * 【2026-02-24】[SAT-R / sa2](https://github.com/SAT-R/sa2) - A decompilation and port of Sonic Advance 2 - a GameBoy Advance game written in C
@@ -4635,6 +4639,7 @@
 
 ## C++
 
+* 【2026-03-02】[FastFlowLM / FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes  Just like Ollama \- but purpose\-built and deeply optimized for the AMD NPUs 
 * 【2026-02-28】[autowarefoundation / autoware_vision_pilot](https://github.com/autowarefoundation/autoware_vision_pilot) - Free self\-driving car stack \- fully open\-source ADAS and autonomous driving system
 * 【2026-02-26】[NVlabs / GR00T\-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) - Welcome to GR00T Whole\-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers  This includes: Decoupled WBC models used in NVIDIA Isaac\-Gr00t, Gr00t N1 5 and N1 6 and GEAR\-SONIC
 * 【2026-02-22】[Zylann / godot_voxel](https://github.com/Zylann/godot_voxel) - Voxel module for Godot Engine
