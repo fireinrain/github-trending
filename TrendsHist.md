@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-03-03】[ruvnet / RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real\-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video 
 * 【2026-03-02】[K-Dense-AI / claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 * 【2026-03-01】[NousResearch / hermes\-agent](https://github.com/NousResearch/hermes-agent) - 
 * 【2026-03-01】[superset\-sh / superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era \- Run an army of Claude Code, Codex, etc  on your machine
@@ -1607,6 +1608,7 @@
 
 ## Python
 
+* 【2026-03-03】[TheCraigHewitt / seomachine](https://github.com/TheCraigHewitt/seomachine) - A specialized Claude Code workspace for creating long\-form, SEO\-optimized blog content for any business  This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience 
 * 【2026-03-02】[jamwithai / production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) - 
 * 【2026-03-01】[NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent) - 
 * 【2026-03-01】[datagouv / datagouv-mcp](https://github.com/datagouv/datagouv-mcp) - Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.
@@ -2953,6 +2955,8 @@
 
 ## Javascript
 
+* 【2026-03-03】[datawhalechina / easy-vibe](https://github.com/datawhalechina/easy-vibe) - vibe coding from 0 to 1 ｜ vibecoding 零基础教程 ｜ 产品原型、AI 能力集成、前后端开发、多平台应用开发教程 ｜ Tutorial on Product Prototype, AI Capability Integration, Frontend and Backend Development, and Multi-platform Application Development
+* 【2026-03-03】[tiagozip / cap](https://github.com/tiagozip/cap) - The privacy\-first, self\-hosted CAPTCHA for the modern web 
 * 【2026-03-01】[mozilla-firefox / firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 * 【2026-03-01】[xinnan-tech / xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 * 【2026-03-01】[datawhalechina / easy\-vibe](https://github.com/datawhalechina/easy-vibe) - vibe coding from 0 to 1 ｜ vibecoding 零基础教程 ｜ 产品原型、AI 能力集成、前后端开发、多平台应用开发教程
@@ -4639,6 +4643,7 @@
 
 ## C++
 
+* 【2026-03-03】[microsoft / MIDI](https://github.com/microsoft/MIDI) - Windows MIDI Services
 * 【2026-03-02】[FastFlowLM / FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes  Just like Ollama \- but purpose\-built and deeply optimized for the AMD NPUs 
 * 【2026-02-28】[autowarefoundation / autoware_vision_pilot](https://github.com/autowarefoundation/autoware_vision_pilot) - Free self\-driving car stack \- fully open\-source ADAS and autonomous driving system
 * 【2026-02-26】[NVlabs / GR00T\-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) - Welcome to GR00T Whole\-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers  This includes: Decoupled WBC models used in NVIDIA Isaac\-Gr00t, Gr00t N1 5 and N1 6 and GEAR\-SONIC
@@ -5626,6 +5631,7 @@
 
 ## Html
 
+* 【2026-03-03】[PanSalut / Koffan](https://github.com/PanSalut/Koffan) - Free selfhosted groceries list for families and shared households
 * 【2026-02-22】[f / prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * 【2026-02-21】[f / prompts chat](https://github.com/f/prompts.chat) - a k a  Awesome ChatGPT Prompts  Share, discover, and collect prompts from the community  Free and open source — self\-host for your organization with complete privacy 
 * 【2026-02-18】[ruzin / stenoai](https://github.com/ruzin/stenoai) - Privacy focused AI powered meeting notes using locally hosted Small Language Models
@@ -6207,6 +6213,9 @@
 
 ## Unknown
 
+* 【2026-03-03】[bmorelli25 / Become\-A\-Full\-Stack\-Web\-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
+* 【2026-03-03】[WildKernels / GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) - GKI Kernels with KernelSU & SUSFS
+* 【2026-03-03】[ad\-si / awesome\-3d\-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
 * 【2026-03-01】[VoltAgent / awesome\-agent\-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 380+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others 
 * 【2026-02-26】[ottosulin / awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) - A collection of awesome resources related AI security
 * 【2026-02-25】[lerrua / remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) - Lista de empresas com trabalho remoto no Brasil
@@ -6953,6 +6962,10 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-03-03】[raphaelmansuy / edgequake](https://github.com/raphaelmansuy/edgequake) - High\-performance GraphRAG inspired from LightRag written in Rust
+* 【2026-03-03】[ad\-si / Woxi](https://github.com/ad-si/Woxi) - Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)
+* 【2026-03-03】[zs1083339604 / FaceWinUnlock\-Tauri](https://github.com/zs1083339604/FaceWinUnlock-Tauri) - 一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 Credential Provider (DLL) 注入 Windows 登录界面，结合前端 Vue 3 和后端 OpenCV 人脸识别算法，为用户提供类似 Windows Hello 的解锁体验。
+* 【2026-03-03】[rojo\-rbx / rojo](https://github.com/rojo-rbx/rojo) - Rojo enables Roblox developers to use professional\-grade software engineering tools
 * 【2026-03-01】[hank9999 / kiro rs](https://github.com/hank9999/kiro.rs) - A Kiro Client in Rust
 * 【2026-02-27】[OlaProeis / Ferrite](https://github.com/OlaProeis/Ferrite) - A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files  Built with Rust and egui for a native, responsive experience 
 * 【2026-02-27】[Polymarket / rs-clob-client](https://github.com/Polymarket/rs-clob-client) - Polymarket Rust CLOB Client
