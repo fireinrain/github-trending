@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-03-04】[agentscope-ai / agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
+* 【2026-03-04】[agentscope\-ai / ReMe](https://github.com/agentscope-ai/ReMe) - ReMe: Memory Management Kit for Agents \- Remember Me, Refine Me 
 * 【2026-03-03】[ruvnet / RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real\-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video 
 * 【2026-03-02】[K-Dense-AI / claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 * 【2026-03-01】[NousResearch / hermes\-agent](https://github.com/NousResearch/hermes-agent) - 
@@ -1178,6 +1180,7 @@
 
 ## Java
 
+* 【2026-03-04】[Tornaco / Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
 * 【2026-02-25】[re-zero001 / LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) - Useless LSPosed Framework Fork
 * 【2026-02-23】[Stryker\-Defense\-Inc / strykerapp](https://github.com/Stryker-Defense-Inc/strykerapp) - Magic tool for pentest from your android device!
 * 【2026-02-20】[adityatandon15 / Low\-Level\-Design\-Course](https://github.com/adityatandon15/Low-Level-Design-Course) - All Code of LLD Playlist
@@ -1608,6 +1611,7 @@
 
 ## Python
 
+* 【2026-03-04】[agentscope-ai / ReMe](https://github.com/agentscope-ai/ReMe) - ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 * 【2026-03-03】[TheCraigHewitt / seomachine](https://github.com/TheCraigHewitt/seomachine) - A specialized Claude Code workspace for creating long\-form, SEO\-optimized blog content for any business  This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience 
 * 【2026-03-02】[jamwithai / production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) - 
 * 【2026-03-01】[NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent) - 
@@ -3632,6 +3636,7 @@
 
 ## Go
 
+* 【2026-03-04】[acepanel / panel](https://github.com/acepanel/panel) - ⚡ AcePanel \- Enterprise server operation and maintenance management panel
 * 【2026-02-28】[DanielLavrushin / b4](https://github.com/DanielLavrushin/b4) - Network packet processor with a friendly UI for circumventing Deep Packet Inspection (DPI) systems 
 * 【2026-02-27】[Wei-Shaw / sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 * 【2026-02-27】[rapidaai / voice\-ai](https://github.com/rapidaai/voice-ai) - Rapida is an open\-source, end\-to\-end voice AI orchestration platform for building real\-time conversational voice agents with audio streaming, STT, TTS, VAD, multi\-channel integration, agent state management, and observability 
@@ -4187,6 +4192,7 @@
 
 ## C
 
+* 【2026-03-04】[pret / pokefirered](https://github.com/pret/pokefirered) - Decompilation of Pokémon FireRed/LeafGreen
 * 【2026-03-02】[heiher / hev\-socks5\-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A lightweight, fast and reliable tun2socks
 * 【2026-03-02】[Unidata / netcdf\-c](https://github.com/Unidata/netcdf-c) - Official GitHub repository for netCDF\-C libraries and utilities 
 * 【2026-02-26】[Vatuu / silent-hill-decomp](https://github.com/Vatuu/silent-hill-decomp) - An in-progress decompilation of the 1.1 US release of Silent Hill on the Playstation 1.
@@ -4643,6 +4649,7 @@
 
 ## C++
 
+* 【2026-03-04】[GRAnimated / MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 11 210% \- Decompilation of Minecraft: Legacy Console Edition
 * 【2026-03-03】[microsoft / MIDI](https://github.com/microsoft/MIDI) - Windows MIDI Services
 * 【2026-03-02】[FastFlowLM / FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes  Just like Ollama \- but purpose\-built and deeply optimized for the AMD NPUs 
 * 【2026-02-28】[autowarefoundation / autoware_vision_pilot](https://github.com/autowarefoundation/autoware_vision_pilot) - Free self\-driving car stack \- fully open\-source ADAS and autonomous driving system
@@ -5130,6 +5137,7 @@
 
 ## C#
 
+* 【2026-03-04】[Justsenger / ExHyperV](https://github.com/Justsenger/ExHyperV) - The Excalibur of Hyper\-V / Hyper\-V 神器
 * 【2026-02-28】[fpindej / netrock](https://github.com/fpindej/netrock) - SaaS starter kit for small productions—  NET 10 Clean Architecture API + SvelteKit frontend, fully dockerized  Fork it, init it, ship your product 
 * 【2026-02-25】[IAmParadox27 / jellyfin\-plugin\-file\-transformation](https://github.com/IAmParadox27/jellyfin-plugin-file-transformation) - Jellyfin plugin that allows other plugins to manipulate the content served by jellyfin\-web without modifying the web source directly 
 * 【2026-02-23】[BigheadSMZ / Zelda-LA-DX-HD-Updated](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated) - A PC Port of The Legend of Zelda: Link's Awakening.
@@ -6213,6 +6221,7 @@
 
 ## Unknown
 
+* 【2026-03-04】[msitarzewski / agency\-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips** \- From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers  Each agent is a specialized expert with personality, processes, and proven deliverables 
 * 【2026-03-03】[bmorelli25 / Become\-A\-Full\-Stack\-Web\-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 * 【2026-03-03】[WildKernels / GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) - GKI Kernels with KernelSU & SUSFS
 * 【2026-03-03】[ad\-si / awesome\-3d\-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
@@ -6962,6 +6971,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-03-04】[marlocarlo / psmux](https://github.com/marlocarlo/psmux) - Tmux on Windows Powershell \- tmux for PowerShell, Windows Terminal, cmd exe  Includes psmux, pmux, and tmux commands  This is native Powershell Tmux designed for Windows in Rust 🦀
+* 【2026-03-04】[zs1083339604 / FaceWinUnlock-Tauri](https://github.com/zs1083339604/FaceWinUnlock-Tauri) - 一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 Credential Provider (DLL) 注入 Windows 登录界面，结合前端 Vue 3 和后端 OpenCV 人脸识别算法，为用户提供类似 Windows Hello 的解锁体验。
 * 【2026-03-03】[raphaelmansuy / edgequake](https://github.com/raphaelmansuy/edgequake) - High\-performance GraphRAG inspired from LightRag written in Rust
 * 【2026-03-03】[ad\-si / Woxi](https://github.com/ad-si/Woxi) - Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)
 * 【2026-03-03】[zs1083339604 / FaceWinUnlock\-Tauri](https://github.com/zs1083339604/FaceWinUnlock-Tauri) - 一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 Credential Provider (DLL) 注入 Windows 登录界面，结合前端 Vue 3 和后端 OpenCV 人脸识别算法，为用户提供类似 Windows Hello 的解锁体验。
