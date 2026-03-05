@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-03-05】[msitarzewski / agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 * 【2026-03-04】[agentscope-ai / agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
 * 【2026-03-04】[agentscope\-ai / ReMe](https://github.com/agentscope-ai/ReMe) - ReMe: Memory Management Kit for Agents \- Remember Me, Refine Me 
 * 【2026-03-03】[ruvnet / RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real\-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video 
@@ -1180,6 +1181,7 @@
 
 ## Java
 
+* 【2026-03-05】[adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) - All Code of LLD Playlist
 * 【2026-03-04】[Tornaco / Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
 * 【2026-02-25】[re-zero001 / LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) - Useless LSPosed Framework Fork
 * 【2026-02-23】[Stryker\-Defense\-Inc / strykerapp](https://github.com/Stryker-Defense-Inc/strykerapp) - Magic tool for pentest from your android device!
@@ -1611,6 +1613,11 @@
 
 ## Python
 
+* 【2026-03-05】[Aider\-AI / aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+* 【2026-03-05】[NVIDIA\-NeMo / Megatron\-Bridge](https://github.com/NVIDIA-NeMo/Megatron-Bridge) - Training library for Megatron\-based models with bidirectional Hugging Face conversion capability
+* 【2026-03-05】[alirezarezvani / claude\-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real\-world Usage  Including Claude Code Subagents, Claude Code Commnads
+* 【2026-03-05】[openai / gpt\-oss](https://github.com/openai/gpt-oss) - gpt\-oss\-120b and gpt\-oss\-20b are two open\-weight language models by OpenAI
+* 【2026-03-05】[ZHZisZZ / dllm](https://github.com/ZHZisZZ/dllm) - dLLM: Simple Diffusion Language Modeling
 * 【2026-03-04】[agentscope-ai / ReMe](https://github.com/agentscope-ai/ReMe) - ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 * 【2026-03-03】[TheCraigHewitt / seomachine](https://github.com/TheCraigHewitt/seomachine) - A specialized Claude Code workspace for creating long\-form, SEO\-optimized blog content for any business  This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience 
 * 【2026-03-02】[jamwithai / production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) - 
@@ -2959,6 +2966,9 @@
 
 ## Javascript
 
+* 【2026-03-05】[lackeyjb / playwright-skill](https://github.com/lackeyjb/playwright-skill) - Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
+* 【2026-03-05】[sindresorhus / eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
+* 【2026-03-05】[obsidianmd / obsidian\-translations](https://github.com/obsidianmd/obsidian-translations) - Help translate Obsidian into your language 
 * 【2026-03-03】[datawhalechina / easy-vibe](https://github.com/datawhalechina/easy-vibe) - vibe coding from 0 to 1 ｜ vibecoding 零基础教程 ｜ 产品原型、AI 能力集成、前后端开发、多平台应用开发教程 ｜ Tutorial on Product Prototype, AI Capability Integration, Frontend and Backend Development, and Multi-platform Application Development
 * 【2026-03-03】[tiagozip / cap](https://github.com/tiagozip/cap) - The privacy\-first, self\-hosted CAPTCHA for the modern web 
 * 【2026-03-01】[mozilla-firefox / firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -6221,6 +6231,8 @@
 
 ## Unknown
 
+* 【2026-03-05】[QwenLM / Qwen3 5](https://github.com/QwenLM/Qwen3.5) - Qwen3 5 is the large language model series developed by Qwen team, Alibaba Cloud 
+* 【2026-03-05】[cloudflare / skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare 
 * 【2026-03-04】[msitarzewski / agency\-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips** \- From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers  Each agent is a specialized expert with personality, processes, and proven deliverables 
 * 【2026-03-03】[bmorelli25 / Become\-A\-Full\-Stack\-Web\-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 * 【2026-03-03】[WildKernels / GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) - GKI Kernels with KernelSU & SUSFS
@@ -6971,6 +6983,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-03-05】[yfedoseev / pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - The fastest PDF library for Python and Rust  Text extraction, image extraction, markdown conversion, PDF creation & editing  0 8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs  MIT/Apache\-2 0 
 * 【2026-03-04】[marlocarlo / psmux](https://github.com/marlocarlo/psmux) - Tmux on Windows Powershell \- tmux for PowerShell, Windows Terminal, cmd exe  Includes psmux, pmux, and tmux commands  This is native Powershell Tmux designed for Windows in Rust 🦀
 * 【2026-03-04】[zs1083339604 / FaceWinUnlock-Tauri](https://github.com/zs1083339604/FaceWinUnlock-Tauri) - 一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 Credential Provider (DLL) 注入 Windows 登录界面，结合前端 Vue 3 和后端 OpenCV 人脸识别算法，为用户提供类似 Windows Hello 的解锁体验。
 * 【2026-03-03】[raphaelmansuy / edgequake](https://github.com/raphaelmansuy/edgequake) - High\-performance GraphRAG inspired from LightRag written in Rust
@@ -7906,6 +7919,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-03-05】[FalkorDB / QueryWeaver](https://github.com/FalkorDB/QueryWeaver) - An open\-source Text2SQL tool that transforms natural language into SQL using graph\-powered schema understanding  Ask your database questions in plain English, QueryWeaver handles the weaving 
 * 【2026-03-01】[superset-sh / superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 * 【2026-03-01】[dontriskit / awesome\-ai\-system\-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools  Perfect for AI agent builders and prompt engineers  Incuding: ChatGPT, Claude, Perplexity, Manus, Claude\-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI 
 * 【2026-03-01】[AndyMik90 / Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
