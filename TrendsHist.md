@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-03-08】[agentjido / jido](https://github.com/agentjido/jido) - 🤖 Autonomous agent framework for Elixir  Built for distributed, autonomous behavior and dynamic workflows 
+* 【2026-03-08】[alibaba / page\-agent](https://github.com/alibaba/page-agent) - JavaScript in\-page GUI agent  Control web interfaces with natural language 
 * 【2026-03-07】[microsoft / hve-core](https://github.com/microsoft/hve-core) - A refined collection of Hyper Velocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots
 * 【2026-03-07】[lingfengQAQ / webnovel\-writer](https://github.com/lingfengQAQ/webnovel-writer) - 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
 * 【2026-03-07】[aidenybai / react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
@@ -1619,6 +1621,9 @@
 
 ## Python
 
+* 【2026-03-08】[AIDC-AI / Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+* 【2026-03-08】[fastino-ai / GLiNER2](https://github.com/fastino-ai/GLiNER2) - Unified Schema-Based Information Extraction
+* 【2026-03-08】[teng\-lin / notebooklm\-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API for Google NotebookLM
 * 【2026-03-07】[lingfengQAQ / webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) - 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
 * 【2026-03-06】[Aider-AI / aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 * 【2026-03-06】[microsoft / apm](https://github.com/microsoft/apm) - Agent Package Manager
@@ -2976,6 +2981,8 @@
 
 ## Javascript
 
+* 【2026-03-08】[pbakaus / impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design 
+* 【2026-03-08】[jarrodwatts / claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 * 【2026-03-07】[SynkraAI / aiox-core](https://github.com/SynkraAI/aiox-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
 * 【2026-03-07】[jarrodwatts / claude\-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening \- context usage, active tools, running agents, and todo progress
 * 【2026-03-06】[SynkraAI / aiox\-core](https://github.com/SynkraAI/aiox-core) - Synkra AIOS: AI\-Orchestrated System for Full Stack Development \- Core Framework v4 0
@@ -3659,6 +3666,7 @@
 
 ## Go
 
+* 【2026-03-08】[docker / docker\-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 * 【2026-03-07】[matlab / matlab\-mcp\-core\-server](https://github.com/matlab/matlab-mcp-core-server) - Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®  This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code 
 * 【2026-03-06】[Ed1s0nZ / CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - CyberStrikeAI is an AI\-native security testing platform built in Go  It integrates 100+ security tools, an intelligent orchestration engine, role\-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities 
 * 【2026-03-06】[canopy-network / canopy](https://github.com/canopy-network/canopy) - The official go implementation of the Canopy Network protocol
@@ -4218,6 +4226,7 @@
 
 ## C
 
+* 【2026-03-08】[waveshareteam / e\-Paper](https://github.com/waveshareteam/e-Paper) - 
 * 【2026-03-07】[allkern / iris](https://github.com/allkern/iris) - Sony PlayStation 2 emulator for Windows, Linux and macOS
 * 【2026-03-07】[emersion / mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 * 【2026-03-04】[pret / pokefirered](https://github.com/pret/pokefirered) - Decompilation of Pokémon FireRed/LeafGreen
@@ -6253,6 +6262,7 @@
 
 ## Unknown
 
+* 【2026-03-08】[VoltAgent / awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 500+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
 * 【2026-03-06】[QwenLM / Qwen3.5](https://github.com/QwenLM/Qwen3.5) - Qwen3.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 * 【2026-03-06】[gemini\-cli\-extensions / conductor](https://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features 
 * 【2026-03-06】[heilcheng / awesome\-agent\-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Antigravity, Copilot, VS Code)
@@ -7008,6 +7018,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-03-08】[SaladDay / cc\-switch\-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross\-platform CLI All\-in\-One assistant tool for Claude Code, Codex & Gemini CLI 
 * 【2026-03-07】[ccfddl / ccf\-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
 * 【2026-03-06】[konkers / irminsul](https://github.com/konkers/irminsul) - Data exporter for Genshin Impact
 * 【2026-03-05】[yfedoseev / pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - The fastest PDF library for Python and Rust  Text extraction, image extraction, markdown conversion, PDF creation & editing  0 8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs  MIT/Apache\-2 0 
@@ -7946,6 +7957,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-03-08】[alibaba / page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
+* 【2026-03-08】[openai / openai\-cua\-sample\-app](https://github.com/openai/openai-cua-sample-app) - Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments 
 * 【2026-03-07】[kepano / defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown 
 * 【2026-03-07】[livekit\-examples / agent\-starter\-react](https://github.com/livekit-examples/agent-starter-react) - A complete voice AI frontend app for LiveKit Agents with Next js
 * 【2026-03-07】[breaking-brake / cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio
