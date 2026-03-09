@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-03-09】[teng-lin / notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API for Google NotebookLM
 * 【2026-03-08】[agentjido / jido](https://github.com/agentjido/jido) - 🤖 Autonomous agent framework for Elixir  Built for distributed, autonomous behavior and dynamic workflows 
 * 【2026-03-08】[alibaba / page\-agent](https://github.com/alibaba/page-agent) - JavaScript in\-page GUI agent  Control web interfaces with natural language 
 * 【2026-03-07】[microsoft / hve-core](https://github.com/microsoft/hve-core) - A refined collection of Hyper Velocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots
@@ -1621,6 +1622,7 @@
 
 ## Python
 
+* 【2026-03-09】[the\-momentum / open\-wearables](https://github.com/the-momentum/open-wearables) - Self\-hosted platform to unify wearable health data through one AI\-ready API 
 * 【2026-03-08】[AIDC-AI / Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 * 【2026-03-08】[fastino-ai / GLiNER2](https://github.com/fastino-ai/GLiNER2) - Unified Schema-Based Information Extraction
 * 【2026-03-08】[teng\-lin / notebooklm\-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API for Google NotebookLM
@@ -2981,6 +2983,8 @@
 
 ## Javascript
 
+* 【2026-03-09】[apify / agent\-skills](https://github.com/apify/agent-skills) - Collection of Apify Agent Skills
+* 【2026-03-09】[decolua / 9router](https://github.com/decolua/9router) - Universal AI Proxy for Claude Code, Codex, Cursor \| OpenAI, Claude, Gemini, Copilot
 * 【2026-03-08】[pbakaus / impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design 
 * 【2026-03-08】[jarrodwatts / claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 * 【2026-03-07】[SynkraAI / aiox-core](https://github.com/SynkraAI/aiox-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
@@ -3666,6 +3670,7 @@
 
 ## Go
 
+* 【2026-03-09】[docker / docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 * 【2026-03-08】[docker / docker\-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 * 【2026-03-07】[matlab / matlab\-mcp\-core\-server](https://github.com/matlab/matlab-mcp-core-server) - Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®  This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code 
 * 【2026-03-06】[Ed1s0nZ / CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - CyberStrikeAI is an AI\-native security testing platform built in Go  It integrates 100+ security tools, an intelligent orchestration engine, role\-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities 
@@ -4226,6 +4231,7 @@
 
 ## C
 
+* 【2026-03-09】[armel / uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
 * 【2026-03-08】[waveshareteam / e\-Paper](https://github.com/waveshareteam/e-Paper) - 
 * 【2026-03-07】[allkern / iris](https://github.com/allkern/iris) - Sony PlayStation 2 emulator for Windows, Linux and macOS
 * 【2026-03-07】[emersion / mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
@@ -4686,6 +4692,7 @@
 
 ## C++
 
+* 【2026-03-09】[allenk / GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - Gemini Nano Banana / Pro watermark maintenance tool
 * 【2026-03-07】[NVlabs / GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t N1.5 and N1.6 and GEAR-SONIC
 * 【2026-03-07】[opengisch / QField](https://github.com/opengisch/QField) - A simplified touch optimized interface for QGIS
 * 【2026-03-04】[GRAnimated / MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 11 210% \- Decompilation of Minecraft: Legacy Console Edition
@@ -7957,6 +7964,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-03-09】[openai / openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.
+* 【2026-03-09】[iii\-hq / iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Worker, and Trigger 
 * 【2026-03-08】[alibaba / page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 * 【2026-03-08】[openai / openai\-cua\-sample\-app](https://github.com/openai/openai-cua-sample-app) - Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments 
 * 【2026-03-07】[kepano / defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown 
