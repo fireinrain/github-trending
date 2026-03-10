@@ -1189,6 +1189,8 @@
 
 ## Java
 
+* 【2026-03-10】[woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
+* 【2026-03-10】[MewX / light\-novel\-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) - [CASUALLY MAINTAINED] 轻小说文库 (Wenku8 com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。
 * 【2026-03-07】[SonarSource / sonarqube\-mcp\-server](https://github.com/SonarSource/sonarqube-mcp-server) - SonarQube MCP Server
 * 【2026-03-05】[adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) - All Code of LLD Playlist
 * 【2026-03-04】[Tornaco / Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
@@ -1622,6 +1624,7 @@
 
 ## Python
 
+* 【2026-03-10】[strands-agents / samples](https://github.com/strands-agents/samples) - Agent samples built using the Strands Agents SDK.
 * 【2026-03-09】[the\-momentum / open\-wearables](https://github.com/the-momentum/open-wearables) - Self\-hosted platform to unify wearable health data through one AI\-ready API 
 * 【2026-03-08】[AIDC-AI / Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 * 【2026-03-08】[fastino-ai / GLiNER2](https://github.com/fastino-ai/GLiNER2) - Unified Schema-Based Information Extraction
@@ -2983,6 +2986,8 @@
 
 ## Javascript
 
+* 【2026-03-10】[apify / agent-skills](https://github.com/apify/agent-skills) - Collection of Apify Agent Skills
+* 【2026-03-10】[technomancer702 / nodecast\-tv](https://github.com/technomancer702/nodecast-tv) - A self\-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser  It's built with performance in mind and handles large libraries smoothly 
 * 【2026-03-09】[apify / agent\-skills](https://github.com/apify/agent-skills) - Collection of Apify Agent Skills
 * 【2026-03-09】[decolua / 9router](https://github.com/decolua/9router) - Universal AI Proxy for Claude Code, Codex, Cursor \| OpenAI, Claude, Gemini, Copilot
 * 【2026-03-08】[pbakaus / impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design 
@@ -3670,6 +3675,7 @@
 
 ## Go
 
+* 【2026-03-10】[pocket\-id / pocket\-id](https://github.com/pocket-id/pocket-id) - A simple and easy\-to\-use OIDC provider that allows users to authenticate with their passkeys to your services 
 * 【2026-03-09】[docker / docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 * 【2026-03-08】[docker / docker\-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 * 【2026-03-07】[matlab / matlab\-mcp\-core\-server](https://github.com/matlab/matlab-mcp-core-server) - Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®  This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code 
@@ -4692,6 +4698,8 @@
 
 ## C++
 
+* 【2026-03-10】[pjasicek / OpenClaw](https://github.com/pjasicek/OpenClaw) - Reimplementation of Captain Claw (1997) platformer
+* 【2026-03-10】[GDRETools / gdsdecomp](https://github.com/GDRETools/gdsdecomp) - Godot reverse engineering tools
 * 【2026-03-09】[allenk / GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - Gemini Nano Banana / Pro watermark maintenance tool
 * 【2026-03-07】[NVlabs / GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t N1.5 and N1.6 and GEAR-SONIC
 * 【2026-03-07】[opengisch / QField](https://github.com/opengisch/QField) - A simplified touch optimized interface for QGIS
@@ -5183,6 +5191,7 @@
 
 ## C#
 
+* 【2026-03-10】[EllyVR / VRCVideoCacher](https://github.com/EllyVR/VRCVideoCacher) - 
 * 【2026-03-07】[themidnightgospel / Imposter](https://github.com/themidnightgospel/Imposter) - Fast and Memory\-Efficient Mocking Library
 * 【2026-03-04】[Justsenger / ExHyperV](https://github.com/Justsenger/ExHyperV) - The Excalibur of Hyper\-V / Hyper\-V 神器
 * 【2026-02-28】[fpindej / netrock](https://github.com/fpindej/netrock) - SaaS starter kit for small productions—  NET 10 Clean Architecture API + SvelteKit frontend, fully dockerized  Fork it, init it, ship your product 
@@ -6269,6 +6278,7 @@
 
 ## Unknown
 
+* 【2026-03-10】[00quebec / Synthid\-Bypass](https://github.com/00quebec/Synthid-Bypass) - Ai safety research showing a working bypass to Google's synthid on Nano Banana Pro
 * 【2026-03-08】[VoltAgent / awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 500+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
 * 【2026-03-06】[QwenLM / Qwen3.5](https://github.com/QwenLM/Qwen3.5) - Qwen3.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 * 【2026-03-06】[gemini\-cli\-extensions / conductor](https://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features 
@@ -7025,6 +7035,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-03-10】[ki\-editor / ki\-editor](https://github.com/ki-editor/ki-editor) - 
 * 【2026-03-08】[SaladDay / cc\-switch\-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross\-platform CLI All\-in\-One assistant tool for Claude Code, Codex & Gemini CLI 
 * 【2026-03-07】[ccfddl / ccf\-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
 * 【2026-03-06】[konkers / irminsul](https://github.com/konkers/irminsul) - Data exporter for Genshin Impact
