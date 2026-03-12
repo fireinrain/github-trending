@@ -1624,6 +1624,8 @@
 
 ## Python
 
+* 【2026-03-12】[langflow\-ai / openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval\-Augmented Generation platform built on Langflow, Docling, and Opensearch 
+* 【2026-03-12】[vectorize\-io / hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
 * 【2026-03-11】[modelscope / sirchmunk](https://github.com/modelscope/sirchmunk) - 🐿️ Sirchmunk: Raw data to self\-evolving intelligence, real\-time 
 * 【2026-03-11】[volcengine / OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open\-source context database designed specifically for AI Agents(such as openclaw)  OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self\-evolving 
 * 【2026-03-10】[strands-agents / samples](https://github.com/strands-agents/samples) - Agent samples built using the Strands Agents SDK.
@@ -3677,6 +3679,7 @@
 
 ## Go
 
+* 【2026-03-12】[fengshao1227 / ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令
 * 【2026-03-11】[fengshao1227 / ccg\-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作开发工具集 \- 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令
 * 【2026-03-10】[pocket\-id / pocket\-id](https://github.com/pocket-id/pocket-id) - A simple and easy\-to\-use OIDC provider that allows users to authenticate with their passkeys to your services 
 * 【2026-03-09】[docker / docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
@@ -4701,6 +4704,7 @@
 
 ## C++
 
+* 【2026-03-12】[yuaotian / antigravity\-proxy](https://github.com/yuaotian/antigravity-proxy) - 🚀 Transparent proxy injector for Antigravity  Force SOCKS5/HTTP proxy without TUN mode on Windows  \| 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。
 * 【2026-03-11】[imputnet / helium\-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows (no auto\-updates yet)
 * 【2026-03-10】[pjasicek / OpenClaw](https://github.com/pjasicek/OpenClaw) - Reimplementation of Captain Claw (1997) platformer
 * 【2026-03-10】[GDRETools / gdsdecomp](https://github.com/GDRETools/gdsdecomp) - Godot reverse engineering tools
@@ -5195,6 +5199,7 @@
 
 ## C#
 
+* 【2026-03-12】[Devolutions / UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers  Could be terribly described as a package manager manager to manage your package managers
 * 【2026-03-10】[EllyVR / VRCVideoCacher](https://github.com/EllyVR/VRCVideoCacher) - 
 * 【2026-03-07】[themidnightgospel / Imposter](https://github.com/themidnightgospel/Imposter) - Fast and Memory\-Efficient Mocking Library
 * 【2026-03-04】[Justsenger / ExHyperV](https://github.com/Justsenger/ExHyperV) - The Excalibur of Hyper\-V / Hyper\-V 神器
@@ -5699,6 +5704,7 @@
 
 ## Html
 
+* 【2026-03-12】[mhattingpete / claude\-skills\-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) - Claude Code Skills for software engineering workflows \- Git automation, testing, and code review
 * 【2026-03-06】[wilsonzlin / fastrender](https://github.com/wilsonzlin/fastrender) - Experimental new browser engine
 * 【2026-03-03】[PanSalut / Koffan](https://github.com/PanSalut/Koffan) - Free selfhosted groceries list for families and shared households
 * 【2026-02-22】[f / prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -6282,6 +6288,7 @@
 
 ## Unknown
 
+* 【2026-03-12】[kepano / obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 * 【2026-03-11】[kepano / obsidian\-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian  Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI 
 * 【2026-03-10】[00quebec / Synthid\-Bypass](https://github.com/00quebec/Synthid-Bypass) - Ai safety research showing a working bypass to Google's synthid on Nano Banana Pro
 * 【2026-03-08】[VoltAgent / awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 500+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
@@ -7980,6 +7987,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-03-12】[backnotprop / plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans visually, share with your team, send feedback to agents with one click 
+* 【2026-03-12】[gommzystudio / device\-activity\-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more)  This PoC demonstrates how delivery receipts + RTT timing leak sensitive device\-activity patterns  (WhatsApp / Signal)
+* 【2026-03-12】[libukai / awesome\-agent\-skills](https://github.com/libukai/awesome-agent-skills) - Agent Skills 终极指南：快速入门、资源推荐、精选技能与工具集合 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Featured&Toolkits
+* 【2026-03-12】[DaKheera47 / job\-ops](https://github.com/DaKheera47/job-ops) - job\-ops: DevOps principles applied to job hunting  A self\-hosted pipeline to track, analyze, and assist your application process
 * 【2026-03-11】[openclaw / clawhub](https://github.com/openclaw/clawhub) - Skill Directory for OpenClaw
 * 【2026-03-09】[openai / openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.
 * 【2026-03-09】[iii\-hq / iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Worker, and Trigger 
