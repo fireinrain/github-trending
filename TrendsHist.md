@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-03-13】[langflow-ai / openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
+* 【2026-03-13】[vectorize-io / hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
+* 【2026-03-13】[google / A2UI](https://github.com/google/A2UI) - 
 * 【2026-03-09】[teng-lin / notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API for Google NotebookLM
 * 【2026-03-08】[agentjido / jido](https://github.com/agentjido/jido) - 🤖 Autonomous agent framework for Elixir  Built for distributed, autonomous behavior and dynamic workflows 
 * 【2026-03-08】[alibaba / page\-agent](https://github.com/alibaba/page-agent) - JavaScript in\-page GUI agent  Control web interfaces with natural language 
@@ -1189,6 +1192,7 @@
 
 ## Java
 
+* 【2026-03-13】[Eaglercraft\-Archive / Eaglercraftx\-1 8 8\-src](https://github.com/Eaglercraft-Archive/Eaglercraftx-1.8.8-src) - Mirrored source code for eaglercraftx 1 8 8(newest version)
 * 【2026-03-10】[woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
 * 【2026-03-10】[MewX / light\-novel\-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) - [CASUALLY MAINTAINED] 轻小说文库 (Wenku8 com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。
 * 【2026-03-07】[SonarSource / sonarqube\-mcp\-server](https://github.com/SonarSource/sonarqube-mcp-server) - SonarQube MCP Server
@@ -1624,6 +1628,7 @@
 
 ## Python
 
+* 【2026-03-13】[langchain-ai / deepagents](https://github.com/langchain-ai/deepagents) - Deep Agents is an agent harness built on langchain and langgraph. Deep Agents are equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - making them well-equipped to handle complex agentic tasks.
 * 【2026-03-12】[langflow\-ai / openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval\-Augmented Generation platform built on Langflow, Docling, and Opensearch 
 * 【2026-03-12】[vectorize\-io / hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
 * 【2026-03-11】[modelscope / sirchmunk](https://github.com/modelscope/sirchmunk) - 🐿️ Sirchmunk: Raw data to self\-evolving intelligence, real\-time 
@@ -2990,6 +2995,7 @@
 
 ## Javascript
 
+* 【2026-03-13】[covibes / zeroshot](https://github.com/covibes/zeroshot) - Your autonomous engineering team in a CLI  Point Zeroshot at an issue, walk away, and return to production\-grade code  Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI 
 * 【2026-03-10】[apify / agent-skills](https://github.com/apify/agent-skills) - Collection of Apify Agent Skills
 * 【2026-03-10】[technomancer702 / nodecast\-tv](https://github.com/technomancer702/nodecast-tv) - A self\-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser  It's built with performance in mind and handles large libraries smoothly 
 * 【2026-03-09】[apify / agent\-skills](https://github.com/apify/agent-skills) - Collection of Apify Agent Skills
@@ -4704,6 +4710,7 @@
 
 ## C++
 
+* 【2026-03-13】[yuaotian / antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) - 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. | 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。
 * 【2026-03-12】[yuaotian / antigravity\-proxy](https://github.com/yuaotian/antigravity-proxy) - 🚀 Transparent proxy injector for Antigravity  Force SOCKS5/HTTP proxy without TUN mode on Windows  \| 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。
 * 【2026-03-11】[imputnet / helium\-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows (no auto\-updates yet)
 * 【2026-03-10】[pjasicek / OpenClaw](https://github.com/pjasicek/OpenClaw) - Reimplementation of Captain Claw (1997) platformer
@@ -5704,6 +5711,7 @@
 
 ## Html
 
+* 【2026-03-13】[mhattingpete / claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) - Claude Code Skills for software engineering workflows - Git automation, testing, and code review
 * 【2026-03-12】[mhattingpete / claude\-skills\-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) - Claude Code Skills for software engineering workflows \- Git automation, testing, and code review
 * 【2026-03-06】[wilsonzlin / fastrender](https://github.com/wilsonzlin/fastrender) - Experimental new browser engine
 * 【2026-03-03】[PanSalut / Koffan](https://github.com/PanSalut/Koffan) - Free selfhosted groceries list for families and shared households
@@ -6288,6 +6296,7 @@
 
 ## Unknown
 
+* 【2026-03-13】[Shichun\-Liu / Agent\-Memory\-Paper\-List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - The paper list of "Memory in the Age of AI Agents: A Survey"
 * 【2026-03-12】[kepano / obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 * 【2026-03-11】[kepano / obsidian\-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian  Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI 
 * 【2026-03-10】[00quebec / Synthid\-Bypass](https://github.com/00quebec/Synthid-Bypass) - Ai safety research showing a working bypass to Google's synthid on Nano Banana Pro
@@ -7987,6 +7996,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-03-13】[7836246 / cursor2api](https://github.com/7836246/cursor2api) - 将 Cursor API 转换为 OpenAI/Anthropic 兼容格式的代理服务。提供 Claude Code工具及图片支持。
+* 【2026-03-13】[Dimillian / CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
+* 【2026-03-13】[EpicenterHQ / epicenter](https://github.com/EpicenterHQ/epicenter) - Open\-source, local\-first apps that share a single folder of plain text and SQLite 
 * 【2026-03-12】[backnotprop / plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans visually, share with your team, send feedback to agents with one click 
 * 【2026-03-12】[gommzystudio / device\-activity\-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more)  This PoC demonstrates how delivery receipts + RTT timing leak sensitive device\-activity patterns  (WhatsApp / Signal)
 * 【2026-03-12】[libukai / awesome\-agent\-skills](https://github.com/libukai/awesome-agent-skills) - Agent Skills 终极指南：快速入门、资源推荐、精选技能与工具集合 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Featured&Toolkits
