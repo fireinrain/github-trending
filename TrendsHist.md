@@ -2995,6 +2995,7 @@
 
 ## Javascript
 
+* 【2026-03-14】[libaxuan / cursor2api\-go](https://github.com/libaxuan/cursor2api-go) - Free claude\-sonnet\-4 6 \| cursor不倒我不倒🙏 ❌ 不支持 tools / function calling / MCP
 * 【2026-03-13】[covibes / zeroshot](https://github.com/covibes/zeroshot) - Your autonomous engineering team in a CLI  Point Zeroshot at an issue, walk away, and return to production\-grade code  Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI 
 * 【2026-03-10】[apify / agent-skills](https://github.com/apify/agent-skills) - Collection of Apify Agent Skills
 * 【2026-03-10】[technomancer702 / nodecast\-tv](https://github.com/technomancer702/nodecast-tv) - A self\-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser  It's built with performance in mind and handles large libraries smoothly 
@@ -6296,6 +6297,7 @@
 
 ## Unknown
 
+* 【2026-03-14】[OWASP / wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services 
 * 【2026-03-13】[Shichun\-Liu / Agent\-Memory\-Paper\-List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - The paper list of "Memory in the Age of AI Agents: A Survey"
 * 【2026-03-12】[kepano / obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 * 【2026-03-11】[kepano / obsidian\-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian  Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI 
@@ -7996,6 +7998,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-03-14】[thesysdev / openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI
+* 【2026-03-14】[dmno\-dev / varlock](https://github.com/dmno-dev/varlock) -  env files built for sharing powered by @env\-spec decorator comments
+* 【2026-03-14】[zed\-industries / claude\-agent\-acp](https://github.com/zed-industries/claude-agent-acp) - Use Claude Agent SDK from any ACP client such as Zed!
 * 【2026-03-13】[7836246 / cursor2api](https://github.com/7836246/cursor2api) - 将 Cursor API 转换为 OpenAI/Anthropic 兼容格式的代理服务。提供 Claude Code工具及图片支持。
 * 【2026-03-13】[Dimillian / CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 * 【2026-03-13】[EpicenterHQ / epicenter](https://github.com/EpicenterHQ/epicenter) - Open\-source, local\-first apps that share a single folder of plain text and SQLite 
