@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-03-16】[Crosstalk-Solutions / project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+* 【2026-03-16】[shanraisshan / claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
+* 【2026-03-16】[voidzero\-dev / vite\-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development  It manages your runtime, package manager, and frontend toolchain in one place 
 * 【2026-03-15】[dimensionalOS / dimos](https://github.com/dimensionalOS/dimos) - The Dimensional Framework
 * 【2026-03-13】[langflow-ai / openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
 * 【2026-03-13】[vectorize-io / hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
@@ -1630,6 +1633,7 @@
 
 ## Python
 
+* 【2026-03-16】[FoundationAgents / MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi\-Agent Framework: First AI Software Company, Towards Natural Language Programming
 * 【2026-03-15】[originalankur / maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs  MapToPoster lets you create and export visually striking map posters with code 
 * 【2026-03-13】[langchain-ai / deepagents](https://github.com/langchain-ai/deepagents) - Deep Agents is an agent harness built on langchain and langgraph. Deep Agents are equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - making them well-equipped to handle complex agentic tasks.
 * 【2026-03-12】[langflow\-ai / openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval\-Augmented Generation platform built on Langflow, Docling, and Opensearch 
@@ -2998,6 +3002,7 @@
 
 ## Javascript
 
+* 【2026-03-16】[Axorax / awesome\-free\-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
 * 【2026-03-15】[SheepChef / Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，古文风文本加密工具
 * 【2026-03-14】[libaxuan / cursor2api\-go](https://github.com/libaxuan/cursor2api-go) - Free claude\-sonnet\-4 6 \| cursor不倒我不倒🙏 ❌ 不支持 tools / function calling / MCP
 * 【2026-03-13】[covibes / zeroshot](https://github.com/covibes/zeroshot) - Your autonomous engineering team in a CLI  Point Zeroshot at an issue, walk away, and return to production\-grade code  Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI 
@@ -4254,6 +4259,7 @@
 
 ## C
 
+* 【2026-03-16】[datlechin / TablePro](https://github.com/datlechin/TablePro) - A fast, native macOS database client with built\-in AI assistant 
 * 【2026-03-09】[armel / uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
 * 【2026-03-08】[waveshareteam / e\-Paper](https://github.com/waveshareteam/e-Paper) - 
 * 【2026-03-07】[allkern / iris](https://github.com/allkern/iris) - Sony PlayStation 2 emulator for Windows, Linux and macOS
@@ -4715,6 +4721,7 @@
 
 ## C++
 
+* 【2026-03-16】[imputnet / helium-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows (no auto-updates yet)
 * 【2026-03-13】[yuaotian / antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) - 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. | 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。
 * 【2026-03-12】[yuaotian / antigravity\-proxy](https://github.com/yuaotian/antigravity-proxy) - 🚀 Transparent proxy injector for Antigravity  Force SOCKS5/HTTP proxy without TUN mode on Windows  \| 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。
 * 【2026-03-11】[imputnet / helium\-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows (no auto\-updates yet)
@@ -6302,6 +6309,7 @@
 
 ## Unknown
 
+* 【2026-03-16】[KalyanKS\-NLP / llm\-engineer\-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of 120+ LLM libraries category wise 
 * 【2026-03-14】[OWASP / wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services 
 * 【2026-03-13】[Shichun\-Liu / Agent\-Memory\-Paper\-List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - The paper list of "Memory in the Age of AI Agents: A Survey"
 * 【2026-03-12】[kepano / obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
@@ -7063,6 +7071,10 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-03-16】[voidzero-dev / vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
+* 【2026-03-16】[vercel\-labs / agent\-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
+* 【2026-03-16】[tobilg / polyglot](https://github.com/tobilg/polyglot) - Rust/Wasm\-powered SQL transpiler for more than 30 SQL dialects
+* 【2026-03-16】[rojo-rbx / rojo](https://github.com/rojo-rbx/rojo) - Rojo enables Roblox developers to use professional-grade software engineering tools
 * 【2026-03-15】[SaladDay / cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 * 【2026-03-10】[ki\-editor / ki\-editor](https://github.com/ki-editor/ki-editor) - 
 * 【2026-03-08】[SaladDay / cc\-switch\-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross\-platform CLI All\-in\-One assistant tool for Claude Code, Codex & Gemini CLI 
@@ -8004,6 +8016,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-03-16】[awslabs / fullstack\-solution\-template\-for\-agentcore](https://github.com/awslabs/fullstack-solution-template-for-agentcore) - Flexible Fullstack solution template for production\-ready deployments of any use case on Amazon Bedrock AgentCore 
+* 【2026-03-16】[vudovn / antigravity-kit](https://github.com/vudovn/antigravity-kit) - 
 * 【2026-03-15】[Crosstalk\-Solutions / project\-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N O M A D, is a self\-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere 
 * 【2026-03-15】[dreamhunter2333 / cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 * 【2026-03-15】[getnao / nao](https://github.com/getnao/nao) - 👾 nao is an open source analytics agent  (1) Create context with nao\-core cli, (2) deploy nao chat interface for everyone
