@@ -1196,6 +1196,9 @@
 
 ## Java
 
+* 【2026-03-17】[NightscoutFoundation / xDrip](https://github.com/NightscoutFoundation/xDrip) - Nightscout version of xDrip+
+* 【2026-03-17】[tlaplus / tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+  The TLA+Toolbox is an IDE for TLA+ 
+* 【2026-03-17】[GTNewHorizons / GT5\-Unofficial](https://github.com/GTNewHorizons/GT5-Unofficial) - Decompiled and modified version of GT5 07 07
 * 【2026-03-15】[googleapis / google\-cloud\-java](https://github.com/googleapis/google-cloud-java) - Google Cloud Client Library for Java
 * 【2026-03-13】[Eaglercraft\-Archive / Eaglercraftx\-1 8 8\-src](https://github.com/Eaglercraft-Archive/Eaglercraftx-1.8.8-src) - Mirrored source code for eaglercraftx 1 8 8(newest version)
 * 【2026-03-10】[woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
@@ -1633,6 +1636,7 @@
 
 ## Python
 
+* 【2026-03-17】[ZhuLinsen / daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖  LLM\-powered stock analysis system for A/H/US markets 
 * 【2026-03-16】[FoundationAgents / MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi\-Agent Framework: First AI Software Company, Towards Natural Language Programming
 * 【2026-03-15】[originalankur / maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs  MapToPoster lets you create and export visually striking map posters with code 
 * 【2026-03-13】[langchain-ai / deepagents](https://github.com/langchain-ai/deepagents) - Deep Agents is an agent harness built on langchain and langgraph. Deep Agents are equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - making them well-equipped to handle complex agentic tasks.
@@ -6309,6 +6313,7 @@
 
 ## Unknown
 
+* 【2026-03-17】[Shichun-Liu / Agent-Memory-Paper-List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - The paper list of "Memory in the Age of AI Agents: A Survey"
 * 【2026-03-16】[KalyanKS\-NLP / llm\-engineer\-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of 120+ LLM libraries category wise 
 * 【2026-03-14】[OWASP / wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services 
 * 【2026-03-13】[Shichun\-Liu / Agent\-Memory\-Paper\-List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - The paper list of "Memory in the Age of AI Agents: A Survey"
@@ -7071,6 +7076,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-03-17】[vercel-labs / agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
+* 【2026-03-17】[mayocream / koharu](https://github.com/mayocream/koharu) - ML\-powered manga translator, written in Rust 
 * 【2026-03-16】[voidzero-dev / vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 * 【2026-03-16】[vercel\-labs / agent\-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 * 【2026-03-16】[tobilg / polyglot](https://github.com/tobilg/polyglot) - Rust/Wasm\-powered SQL transpiler for more than 30 SQL dialects
