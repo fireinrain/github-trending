@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-03-19】[newton\-physics / newton](https://github.com/newton-physics/newton) - An open\-source, GPU\-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers 
+* 【2026-03-19】[langchain-ai / open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 * 【2026-03-16】[Crosstalk-Solutions / project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 * 【2026-03-16】[shanraisshan / claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 * 【2026-03-16】[voidzero\-dev / vite\-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development  It manages your runtime, package manager, and frontend toolchain in one place 
@@ -1196,6 +1198,8 @@
 
 ## Java
 
+* 【2026-03-19】[opendataloader\-project / opendataloader\-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI\-ready data  Automate PDF accessibility  Open\-source 
+* 【2026-03-19】[mit\-cml / appinventor\-sources](https://github.com/mit-cml/appinventor-sources) - MIT App Inventor Public Open Source
 * 【2026-03-17】[NightscoutFoundation / xDrip](https://github.com/NightscoutFoundation/xDrip) - Nightscout version of xDrip+
 * 【2026-03-17】[tlaplus / tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+  The TLA+Toolbox is an IDE for TLA+ 
 * 【2026-03-17】[GTNewHorizons / GT5\-Unofficial](https://github.com/GTNewHorizons/GT5-Unofficial) - Decompiled and modified version of GT5 07 07
@@ -1636,6 +1640,9 @@
 
 ## Python
 
+* 【2026-03-19】[newton-physics / newton](https://github.com/newton-physics/newton) - An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
+* 【2026-03-19】[am\-will / codex\-skills](https://github.com/am-will/codex-skills) - 
+* 【2026-03-19】[plastic\-labs / honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 * 【2026-03-18】[financial\-datasets / mcp\-server](https://github.com/financial-datasets/mcp-server) - An MCP server for interacting with the Financial Datasets stock market API 
 * 【2026-03-17】[ZhuLinsen / daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖  LLM\-powered stock analysis system for A/H/US markets 
 * 【2026-03-16】[FoundationAgents / MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi\-Agent Framework: First AI Software Company, Towards Natural Language Programming
@@ -3007,6 +3014,8 @@
 
 ## Javascript
 
+* 【2026-03-19】[affaan-m / everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+* 【2026-03-19】[andrewyng / context\-hub](https://github.com/andrewyng/context-hub) - 
 * 【2026-03-18】[affaan\-m / everything\-claude\-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system  Skills, instincts, memory, security, and research\-first development for Claude Code, Codex, Opencode, Cursor and beyond 
 * 【2026-03-18】[coreyhaines31 / marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents  CRO, copywriting, SEO, analytics, and growth engineering 
 * 【2026-03-18】[wwebjs / whatsapp\-web js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
@@ -3703,6 +3712,8 @@
 
 ## Go
 
+* 【2026-03-19】[certimate\-go / certimate](https://github.com/certimate-go/certimate) - An open\-source and free self\-hosted SSL certificates ACME tool, automates the full\-cycle of issuance, deployment, renewal, and monitoring visually  完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
+* 【2026-03-19】[perses / perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation  Already supports Prometheus, Tempo, Loki and Pyroscope \- more data sources to come!
 * 【2026-03-18】[9seconds / mtg](https://github.com/9seconds/mtg) - Highly opinionated MTPROTO proxy for Telegram
 * 【2026-03-12】[fengshao1227 / ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令
 * 【2026-03-11】[fengshao1227 / ccg\-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作开发工具集 \- 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令
@@ -4268,6 +4279,8 @@
 
 ## C
 
+* 【2026-03-19】[ACreTeam / ac\-decomp](https://github.com/ACreTeam/ac-decomp) - Decompilation in progress of Animal Crossing for the Nintendo GameCube 
+* 【2026-03-19】[wiredtiger / wiredtiger](https://github.com/wiredtiger/wiredtiger) - WiredTiger's source tree
 * 【2026-03-16】[datlechin / TablePro](https://github.com/datlechin/TablePro) - A fast, native macOS database client with built\-in AI assistant 
 * 【2026-03-09】[armel / uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
 * 【2026-03-08】[waveshareteam / e\-Paper](https://github.com/waveshareteam/e-Paper) - 
@@ -4730,6 +4743,7 @@
 
 ## C++
 
+* 【2026-03-19】[NVIDIA / TensorRT\-Edge\-LLM](https://github.com/NVIDIA/TensorRT-Edge-LLM) - High\-performance, light\-weight C++ LLM and VLM Inference Software for Physical AI
 * 【2026-03-18】[widelands / widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real\-time strategy game with singleplayer campaigns and a multiplayer mode  The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it 
 * 【2026-03-16】[imputnet / helium-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows (no auto-updates yet)
 * 【2026-03-13】[yuaotian / antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) - 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. | 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。
@@ -5228,6 +5242,7 @@
 
 ## C#
 
+* 【2026-03-19】[MobiFlight / MobiFlight\-Connector](https://github.com/MobiFlight/MobiFlight-Connector) - MobiFlight is an open source project that allows you to create your own home cockpit for your favorite flight simulator in a flexible, affordable and extremely user\-friendly way 
 * 【2026-03-18】[Alex-Rachel / TEngine](https://github.com/Alex-Rachel/TEngine) - Unity框架解决方案-支持HybridCLR(最好的次时代热更)、Obfuz混淆代码加固与YooAssets(优秀商业级资源框架)。
 * 【2026-03-12】[Devolutions / UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers  Could be terribly described as a package manager manager to manage your package managers
 * 【2026-03-10】[EllyVR / VRCVideoCacher](https://github.com/EllyVR/VRCVideoCacher) - 
@@ -5734,6 +5749,8 @@
 
 ## Html
 
+* 【2026-03-19】[baojie / shiji\-kb](https://github.com/baojie/shiji-kb) - 
+* 【2026-03-19】[nibzard / awesome\-agentic\-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 * 【2026-03-18】[bnb-chain / bnb-chain.github.io](https://github.com/bnb-chain/bnb-chain.github.io) - The official documentation for BNB Chain.
 * 【2026-03-15】[shanraisshan / claude\-code\-best\-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 * 【2026-03-13】[mhattingpete / claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) - Claude Code Skills for software engineering workflows - Git automation, testing, and code review
@@ -7085,6 +7102,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-03-19】[screenpipe / screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done  record  search  automate  all local, all private, all yours 
+* 【2026-03-19】[zerocore-ai / microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource secure local-first sandboxes for ai agents
 * 【2026-03-17】[vercel-labs / agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 * 【2026-03-17】[mayocream / koharu](https://github.com/mayocream/koharu) - ML\-powered manga translator, written in Rust 
 * 【2026-03-16】[voidzero-dev / vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
@@ -8032,6 +8051,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-03-19】[AnmolSaini16 / mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components  100% Free, Zero config, one command setup 
+* 【2026-03-19】[FlorianBruniaux / claude\-code\-ultimate\-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production\-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet"  Whether it's the "ultimate" guide to Claude Code will be up to the reader :)
 * 【2026-03-18】[fluxerapp / fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities  Self\-hosting and more activity in this repository is coming very soon! See the README 
 * 【2026-03-18】[hicccc77 / WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow \- 一个本地的微信聊天记录导出和年度报告应用
 * 【2026-03-16】[awslabs / fullstack\-solution\-template\-for\-agentcore](https://github.com/awslabs/fullstack-solution-template-for-agentcore) - Flexible Fullstack solution template for production\-ready deployments of any use case on Amazon Bedrock AgentCore 
