@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-03-20】[opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+* 【2026-03-20】[mobile\-dev\-inc / Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
 * 【2026-03-19】[newton\-physics / newton](https://github.com/newton-physics/newton) - An open\-source, GPU\-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers 
 * 【2026-03-19】[langchain-ai / open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 * 【2026-03-16】[Crosstalk-Solutions / project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
@@ -3712,6 +3714,8 @@
 
 ## Go
 
+* 【2026-03-20】[entireio / cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning 
+* 【2026-03-20】[certimate-go / certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
 * 【2026-03-19】[certimate\-go / certimate](https://github.com/certimate-go/certimate) - An open\-source and free self\-hosted SSL certificates ACME tool, automates the full\-cycle of issuance, deployment, renewal, and monitoring visually  完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
 * 【2026-03-19】[perses / perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation  Already supports Prometheus, Tempo, Loki and Pyroscope \- more data sources to come!
 * 【2026-03-18】[9seconds / mtg](https://github.com/9seconds/mtg) - Highly opinionated MTPROTO proxy for Telegram
@@ -4279,6 +4283,8 @@
 
 ## C
 
+* 【2026-03-20】[charlesvestal / move\-everything](https://github.com/charlesvestal/move-everything) - Move Everything
+* 【2026-03-20】[ACreTeam / ac-decomp](https://github.com/ACreTeam/ac-decomp) - Decompilation in progress of Animal Crossing for the Nintendo GameCube.
 * 【2026-03-19】[ACreTeam / ac\-decomp](https://github.com/ACreTeam/ac-decomp) - Decompilation in progress of Animal Crossing for the Nintendo GameCube 
 * 【2026-03-19】[wiredtiger / wiredtiger](https://github.com/wiredtiger/wiredtiger) - WiredTiger's source tree
 * 【2026-03-16】[datlechin / TablePro](https://github.com/datlechin/TablePro) - A fast, native macOS database client with built\-in AI assistant 
@@ -4743,6 +4749,7 @@
 
 ## C++
 
+* 【2026-03-20】[intrinsic\-dev / aic](https://github.com/intrinsic-dev/aic) - Toolkit for the AI for Industry Challenge
 * 【2026-03-19】[NVIDIA / TensorRT\-Edge\-LLM](https://github.com/NVIDIA/TensorRT-Edge-LLM) - High\-performance, light\-weight C++ LLM and VLM Inference Software for Physical AI
 * 【2026-03-18】[widelands / widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real\-time strategy game with singleplayer campaigns and a multiplayer mode  The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it 
 * 【2026-03-16】[imputnet / helium-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows (no auto-updates yet)
@@ -5749,6 +5756,8 @@
 
 ## Html
 
+* 【2026-03-20】[baojie / shiji-kb](https://github.com/baojie/shiji-kb) - 
+* 【2026-03-20】[Commando\-X / vuln\-bank](https://github.com/Commando-X/vuln-bank) - A deliberately vulnerable banking application designed for practicing Security Testing of Web App, APIs, AI integrated App and secure code reviews  Features common vulnerabilities found in real\-world applications, making it an ideal platform for security professionals, developers, and enthusiasts to learn pentesting and secure coding practices 
 * 【2026-03-19】[baojie / shiji\-kb](https://github.com/baojie/shiji-kb) - 
 * 【2026-03-19】[nibzard / awesome\-agentic\-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 * 【2026-03-18】[bnb-chain / bnb-chain.github.io](https://github.com/bnb-chain/bnb-chain.github.io) - The official documentation for BNB Chain.
@@ -8051,6 +8060,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-03-20】[DaKheera47 / job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
+* 【2026-03-20】[langchain-ai / deepagentsjs](https://github.com/langchain-ai/deepagentsjs) - Deep Agents in JS
+* 【2026-03-20】[genlayerlabs / genlayer\-project\-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) - 
 * 【2026-03-19】[AnmolSaini16 / mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components  100% Free, Zero config, one command setup 
 * 【2026-03-19】[FlorianBruniaux / claude\-code\-ultimate\-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production\-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet"  Whether it's the "ultimate" guide to Claude Code will be up to the reader :)
 * 【2026-03-18】[fluxerapp / fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities  Self\-hosting and more activity in this repository is coming very soon! See the README 
