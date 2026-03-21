@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-03-21】[vas3k / TaxHacker](https://github.com/vas3k/TaxHacker) - Self\-hosted AI accounting app  LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 * 【2026-03-20】[opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 * 【2026-03-20】[mobile\-dev\-inc / Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
 * 【2026-03-19】[newton\-physics / newton](https://github.com/newton-physics/newton) - An open\-source, GPU\-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers 
@@ -1642,6 +1643,7 @@
 
 ## Python
 
+* 【2026-03-21】[BiFangKNT / mtga](https://github.com/BiFangKNT/mtga) - 基于本地代理的方式，绕过 IDE 的固定模型服务商限制
 * 【2026-03-19】[newton-physics / newton](https://github.com/newton-physics/newton) - An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
 * 【2026-03-19】[am\-will / codex\-skills](https://github.com/am-will/codex-skills) - 
 * 【2026-03-19】[plastic\-labs / honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
@@ -3714,6 +3716,7 @@
 
 ## Go
 
+* 【2026-03-21】[masterking32 / MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) - Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low\-overhead ARQ, SOCKS5 multiplexing, resolver load balancing, and high packet\-loss stability 
 * 【2026-03-20】[entireio / cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning 
 * 【2026-03-20】[certimate-go / certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
 * 【2026-03-19】[certimate\-go / certimate](https://github.com/certimate-go/certimate) - An open\-source and free self\-hosted SSL certificates ACME tool, automates the full\-cycle of issuance, deployment, renewal, and monitoring visually  完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
@@ -5756,6 +5759,7 @@
 
 ## Html
 
+* 【2026-03-21】[Commando-X / vuln-bank](https://github.com/Commando-X/vuln-bank) - A deliberately vulnerable banking application designed for practicing Security Testing of Web App, APIs, AI integrated App and secure code reviews. Features common vulnerabilities found in real-world applications, making it an ideal platform for security professionals, developers, and enthusiasts to learn pentesting and secure coding practices.
 * 【2026-03-20】[baojie / shiji-kb](https://github.com/baojie/shiji-kb) - 
 * 【2026-03-20】[Commando\-X / vuln\-bank](https://github.com/Commando-X/vuln-bank) - A deliberately vulnerable banking application designed for practicing Security Testing of Web App, APIs, AI integrated App and secure code reviews  Features common vulnerabilities found in real\-world applications, making it an ideal platform for security professionals, developers, and enthusiasts to learn pentesting and secure coding practices 
 * 【2026-03-19】[baojie / shiji\-kb](https://github.com/baojie/shiji-kb) - 
@@ -8060,6 +8064,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-03-21】[code\-yeongyu / oh\-my\-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness \- previously oh\-my\-opencode
+* 【2026-03-21】[southleft / figma\-console\-mcp](https://github.com/southleft/figma-console-mcp) - Your design system as an API  Connect AI to Figma for extraction, creation, and debugging 
 * 【2026-03-20】[DaKheera47 / job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 * 【2026-03-20】[langchain-ai / deepagentsjs](https://github.com/langchain-ai/deepagentsjs) - Deep Agents in JS
 * 【2026-03-20】[genlayerlabs / genlayer\-project\-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) - 
