@@ -1643,6 +1643,9 @@
 
 ## Python
 
+* 【2026-03-22】[opengaming / osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
+* 【2026-03-22】[meta\-pytorch / OpenEnv](https://github.com/meta-pytorch/OpenEnv) - An interface library for RL post training with environments 
+* 【2026-03-22】[facebookresearch / vjepa2](https://github.com/facebookresearch/vjepa2) - PyTorch code and models for VJEPA2 self\-supervised learning from video 
 * 【2026-03-21】[BiFangKNT / mtga](https://github.com/BiFangKNT/mtga) - 基于本地代理的方式，绕过 IDE 的固定模型服务商限制
 * 【2026-03-19】[newton-physics / newton](https://github.com/newton-physics/newton) - An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
 * 【2026-03-19】[am\-will / codex\-skills](https://github.com/am-will/codex-skills) - 
@@ -3018,6 +3021,7 @@
 
 ## Javascript
 
+* 【2026-03-22】[zhw2590582 / ArtPlayer](https://github.com/zhw2590582/ArtPlayer) - 🎨 ArtPlayer js is a modern and full featured HTML5 video player
 * 【2026-03-19】[affaan-m / everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 * 【2026-03-19】[andrewyng / context\-hub](https://github.com/andrewyng/context-hub) - 
 * 【2026-03-18】[affaan\-m / everything\-claude\-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system  Skills, instincts, memory, security, and research\-first development for Claude Code, Codex, Opencode, Cursor and beyond 
@@ -4286,6 +4290,7 @@
 
 ## C
 
+* 【2026-03-22】[heiher / hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A lightweight, fast and reliable tun2socks
 * 【2026-03-20】[charlesvestal / move\-everything](https://github.com/charlesvestal/move-everything) - Move Everything
 * 【2026-03-20】[ACreTeam / ac-decomp](https://github.com/ACreTeam/ac-decomp) - Decompilation in progress of Animal Crossing for the Nintendo GameCube.
 * 【2026-03-19】[ACreTeam / ac\-decomp](https://github.com/ACreTeam/ac-decomp) - Decompilation in progress of Animal Crossing for the Nintendo GameCube 
@@ -8064,6 +8069,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-03-22】[google\-labs\-code / stitch\-skills](https://github.com/google-labs-code/stitch-skills) - 
 * 【2026-03-21】[code\-yeongyu / oh\-my\-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness \- previously oh\-my\-opencode
 * 【2026-03-21】[southleft / figma\-console\-mcp](https://github.com/southleft/figma-console-mcp) - Your design system as an API  Connect AI to Figma for extraction, creation, and debugging 
 * 【2026-03-20】[DaKheera47 / job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
