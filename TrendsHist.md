@@ -1201,6 +1201,7 @@
 
 ## Java
 
+* 【2026-03-23】[navinreddy20 / Javacode](https://github.com/navinreddy20/Javacode) - 
 * 【2026-03-19】[opendataloader\-project / opendataloader\-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI\-ready data  Automate PDF accessibility  Open\-source 
 * 【2026-03-19】[mit\-cml / appinventor\-sources](https://github.com/mit-cml/appinventor-sources) - MIT App Inventor Public Open Source
 * 【2026-03-17】[NightscoutFoundation / xDrip](https://github.com/NightscoutFoundation/xDrip) - Nightscout version of xDrip+
@@ -1643,6 +1644,9 @@
 
 ## Python
 
+* 【2026-03-23】[plastic-labs / honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
+* 【2026-03-23】[langchain\-ai / local\-deep\-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
+* 【2026-03-23】[meta-pytorch / OpenEnv](https://github.com/meta-pytorch/OpenEnv) - An interface library for RL post training with environments.
 * 【2026-03-22】[opengaming / osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 * 【2026-03-22】[meta\-pytorch / OpenEnv](https://github.com/meta-pytorch/OpenEnv) - An interface library for RL post training with environments 
 * 【2026-03-22】[facebookresearch / vjepa2](https://github.com/facebookresearch/vjepa2) - PyTorch code and models for VJEPA2 self\-supervised learning from video 
@@ -3720,6 +3724,7 @@
 
 ## Go
 
+* 【2026-03-23】[modu\-ai / moai\-adk](https://github.com/modu-ai/moai-adk) - MoAI \- Agentic Development Kit
 * 【2026-03-21】[masterking32 / MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) - Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low\-overhead ARQ, SOCKS5 multiplexing, resolver load balancing, and high packet\-loss stability 
 * 【2026-03-20】[entireio / cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning 
 * 【2026-03-20】[certimate-go / certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
@@ -5257,6 +5262,7 @@
 
 ## C#
 
+* 【2026-03-23】[github / gh\-gei](https://github.com/github/gh-gei) - Migration CLI for GitHub to GitHub migrations
 * 【2026-03-19】[MobiFlight / MobiFlight\-Connector](https://github.com/MobiFlight/MobiFlight-Connector) - MobiFlight is an open source project that allows you to create your own home cockpit for your favorite flight simulator in a flexible, affordable and extremely user\-friendly way 
 * 【2026-03-18】[Alex-Rachel / TEngine](https://github.com/Alex-Rachel/TEngine) - Unity框架解决方案-支持HybridCLR(最好的次时代热更)、Obfuz混淆代码加固与YooAssets(优秀商业级资源框架)。
 * 【2026-03-12】[Devolutions / UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers  Could be terribly described as a package manager manager to manage your package managers
@@ -5764,6 +5770,7 @@
 
 ## Html
 
+* 【2026-03-23】[QiuSimons / luci\-app\-daed](https://github.com/QiuSimons/luci-app-daed) - 
 * 【2026-03-21】[Commando-X / vuln-bank](https://github.com/Commando-X/vuln-bank) - A deliberately vulnerable banking application designed for practicing Security Testing of Web App, APIs, AI integrated App and secure code reviews. Features common vulnerabilities found in real-world applications, making it an ideal platform for security professionals, developers, and enthusiasts to learn pentesting and secure coding practices.
 * 【2026-03-20】[baojie / shiji-kb](https://github.com/baojie/shiji-kb) - 
 * 【2026-03-20】[Commando\-X / vuln\-bank](https://github.com/Commando-X/vuln-bank) - A deliberately vulnerable banking application designed for practicing Security Testing of Web App, APIs, AI integrated App and secure code reviews  Features common vulnerabilities found in real\-world applications, making it an ideal platform for security professionals, developers, and enthusiasts to learn pentesting and secure coding practices 
@@ -7120,6 +7127,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-03-23】[ruvnet / RuVector](https://github.com/ruvnet/RuVector) - RuVector is a High Performance, Real\-Time, Self\-Learning, Vector Graph Neural Network, and Database built in Rust 
+* 【2026-03-23】[njbrake / agent\-of\-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi dev, Copilot CLI Coding Agent Terminal Session manager via tmux and git Worktrees
 * 【2026-03-19】[screenpipe / screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done  record  search  automate  all local, all private, all yours 
 * 【2026-03-19】[zerocore-ai / microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource secure local-first sandboxes for ai agents
 * 【2026-03-17】[vercel-labs / agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
@@ -8069,6 +8078,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-03-23】[different\-ai / openwork](https://github.com/different-ai/openwork) - An open\-source alternative to Claude Cowork built for teams, powered by opencode
+* 【2026-03-23】[ItzCrazyKns / Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI\-powered answering engine 
+* 【2026-03-23】[microsoft / aspire](https://github.com/microsoft/aspire) - Aspire is the tool for code\-first, extensible, observable dev and deploy 
+* 【2026-03-23】[google-labs-code / stitch-skills](https://github.com/google-labs-code/stitch-skills) - 
 * 【2026-03-22】[google\-labs\-code / stitch\-skills](https://github.com/google-labs-code/stitch-skills) - 
 * 【2026-03-21】[code\-yeongyu / oh\-my\-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness \- previously oh\-my\-opencode
 * 【2026-03-21】[southleft / figma\-console\-mcp](https://github.com/southleft/figma-console-mcp) - Your design system as an API  Connect AI to Figma for extraction, creation, and debugging 
