@@ -1201,6 +1201,7 @@
 
 ## Java
 
+* 【2026-03-24】[Snailclimb / interview\-guide](https://github.com/Snailclimb/interview-guide) - 基于 Spring Boot 4 0 + Java 21 + Spring AI + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。
 * 【2026-03-23】[navinreddy20 / Javacode](https://github.com/navinreddy20/Javacode) - 
 * 【2026-03-19】[opendataloader\-project / opendataloader\-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI\-ready data  Automate PDF accessibility  Open\-source 
 * 【2026-03-19】[mit\-cml / appinventor\-sources](https://github.com/mit-cml/appinventor-sources) - MIT App Inventor Public Open Source
@@ -3724,6 +3725,7 @@
 
 ## Go
 
+* 【2026-03-24】[supabase / cli](https://github.com/supabase/cli) - Supabase CLI  Manage postgres migrations, run Supabase locally, deploy edge functions  Postgres backups  Generating types from your database schema 
 * 【2026-03-23】[modu\-ai / moai\-adk](https://github.com/modu-ai/moai-adk) - MoAI \- Agentic Development Kit
 * 【2026-03-21】[masterking32 / MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) - Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low\-overhead ARQ, SOCKS5 multiplexing, resolver load balancing, and high packet\-loss stability 
 * 【2026-03-20】[entireio / cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning 
@@ -6363,6 +6365,7 @@
 
 ## Unknown
 
+* 【2026-03-24】[TaoWangzj / Awesome\-Face\-Restoration](https://github.com/TaoWangzj/Awesome-Face-Restoration) - A comprehensive list of recources (papers, repositories etc ) about face restoration methods 
 * 【2026-03-18】[WangRongsheng / awesome\-LLM\-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） \| Summary of the world's best LLM resources 
 * 【2026-03-17】[Shichun-Liu / Agent-Memory-Paper-List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - The paper list of "Memory in the Age of AI Agents: A Survey"
 * 【2026-03-16】[KalyanKS\-NLP / llm\-engineer\-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of 120+ LLM libraries category wise 
@@ -7127,6 +7130,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-03-24】[njbrake / agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI Coding Agent Terminal Session manager via tmux and git Worktrees
 * 【2026-03-23】[ruvnet / RuVector](https://github.com/ruvnet/RuVector) - RuVector is a High Performance, Real\-Time, Self\-Learning, Vector Graph Neural Network, and Database built in Rust 
 * 【2026-03-23】[njbrake / agent\-of\-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi dev, Copilot CLI Coding Agent Terminal Session manager via tmux and git Worktrees
 * 【2026-03-19】[screenpipe / screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done  record  search  automate  all local, all private, all yours 
@@ -8078,6 +8082,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-03-24】[pascalorg / editor](https://github.com/pascalorg/editor) - 
 * 【2026-03-23】[different\-ai / openwork](https://github.com/different-ai/openwork) - An open\-source alternative to Claude Cowork built for teams, powered by opencode
 * 【2026-03-23】[ItzCrazyKns / Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI\-powered answering engine 
 * 【2026-03-23】[microsoft / aspire](https://github.com/microsoft/aspire) - Aspire is the tool for code\-first, extensible, observable dev and deploy 
