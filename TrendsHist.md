@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-03-25】[mvanhorn / last30days\-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web \- then synthesizes a grounded summary
 * 【2026-03-21】[vas3k / TaxHacker](https://github.com/vas3k/TaxHacker) - Self\-hosted AI accounting app  LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 * 【2026-03-20】[opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 * 【2026-03-20】[mobile\-dev\-inc / Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
@@ -1201,6 +1202,7 @@
 
 ## Java
 
+* 【2026-03-25】[Snailclimb / interview-guide](https://github.com/Snailclimb/interview-guide) - 基于 Spring Boot 4.0 + Java 21 + Spring AI + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。
 * 【2026-03-24】[Snailclimb / interview\-guide](https://github.com/Snailclimb/interview-guide) - 基于 Spring Boot 4 0 + Java 21 + Spring AI + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。
 * 【2026-03-23】[navinreddy20 / Javacode](https://github.com/navinreddy20/Javacode) - 
 * 【2026-03-19】[opendataloader\-project / opendataloader\-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI\-ready data  Automate PDF accessibility  Open\-source 
@@ -1645,6 +1647,7 @@
 
 ## Python
 
+* 【2026-03-25】[mvanhorn / last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 * 【2026-03-23】[plastic-labs / honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 * 【2026-03-23】[langchain\-ai / local\-deep\-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 * 【2026-03-23】[meta-pytorch / OpenEnv](https://github.com/meta-pytorch/OpenEnv) - An interface library for RL post training with environments.
@@ -3026,6 +3029,9 @@
 
 ## Javascript
 
+* 【2026-03-25】[sligter / LandPPT](https://github.com/sligter/LandPPT) - 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿。
+* 【2026-03-25】[heshengtao / super\-agent\-party](https://github.com/heshengtao/super-agent-party) - ⭐ All\-in\-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
+* 【2026-03-25】[jeffshee / gnome\-ext\-hanabi](https://github.com/jeffshee/gnome-ext-hanabi) - Live Wallpaper for GNOME
 * 【2026-03-22】[zhw2590582 / ArtPlayer](https://github.com/zhw2590582/ArtPlayer) - 🎨 ArtPlayer js is a modern and full featured HTML5 video player
 * 【2026-03-19】[affaan-m / everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 * 【2026-03-19】[andrewyng / context\-hub](https://github.com/andrewyng/context-hub) - 
@@ -3725,6 +3731,9 @@
 
 ## Go
 
+* 【2026-03-25】[kubernetes-sigs / agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.
+* 【2026-03-25】[krau / SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - Save Any Telegram File to Anywhere 📂 (Alist, Disk, Webdav, S3, Rclone...) . Support restrict saving content and files beyond telegram.
+* 【2026-03-25】[smtg\-ai / claude\-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp 
 * 【2026-03-24】[supabase / cli](https://github.com/supabase/cli) - Supabase CLI  Manage postgres migrations, run Supabase locally, deploy edge functions  Postgres backups  Generating types from your database schema 
 * 【2026-03-23】[modu\-ai / moai\-adk](https://github.com/modu-ai/moai-adk) - MoAI \- Agentic Development Kit
 * 【2026-03-21】[masterking32 / MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) - Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low\-overhead ARQ, SOCKS5 multiplexing, resolver load balancing, and high packet\-loss stability 
@@ -6365,6 +6374,7 @@
 
 ## Unknown
 
+* 【2026-03-25】[TaoWangzj / Awesome-Face-Restoration](https://github.com/TaoWangzj/Awesome-Face-Restoration) - A comprehensive list of recources (papers, repositories etc.) about face restoration methods.
 * 【2026-03-24】[TaoWangzj / Awesome\-Face\-Restoration](https://github.com/TaoWangzj/Awesome-Face-Restoration) - A comprehensive list of recources (papers, repositories etc ) about face restoration methods 
 * 【2026-03-18】[WangRongsheng / awesome\-LLM\-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） \| Summary of the world's best LLM resources 
 * 【2026-03-17】[Shichun-Liu / Agent-Memory-Paper-List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - The paper list of "Memory in the Age of AI Agents: A Survey"
@@ -7130,6 +7140,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-03-25】[Zackriya\-Solutions / meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust  100% local processing  no cloud required  Meetily (Meetly Ai \- https://meetily ai) is the \#1 Self\-hosted, Open\-source Ai meeting note taker for macOS & Windows 
+* 【2026-03-25】[rivet\-dev / rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads  Built for AI agents, collaborative apps, and durable execution 
 * 【2026-03-24】[njbrake / agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI Coding Agent Terminal Session manager via tmux and git Worktrees
 * 【2026-03-23】[ruvnet / RuVector](https://github.com/ruvnet/RuVector) - RuVector is a High Performance, Real\-Time, Self\-Learning, Vector Graph Neural Network, and Database built in Rust 
 * 【2026-03-23】[njbrake / agent\-of\-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Pi dev, Copilot CLI Coding Agent Terminal Session manager via tmux and git Worktrees
@@ -8082,6 +8094,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-03-25】[davideast / stitch\-mcp](https://github.com/davideast/stitch-mcp) - A CLI for moving AI\-generated UI designs from Google’s Stitch platform into your development workflow 
 * 【2026-03-24】[pascalorg / editor](https://github.com/pascalorg/editor) - 
 * 【2026-03-23】[different\-ai / openwork](https://github.com/different-ai/openwork) - An open\-source alternative to Claude Cowork built for teams, powered by opencode
 * 【2026-03-23】[ItzCrazyKns / Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI\-powered answering engine 
