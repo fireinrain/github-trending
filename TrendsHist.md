@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-03-27】[Yeachan\-Heo / oh\-my\-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams\-first Multi\-agent orchestration for Claude Code
 * 【2026-03-26】[letta\-ai / claude\-subconscious](https://github.com/letta-ai/claude-subconscious) - Give Claude Code a subconscious
 * 【2026-03-25】[mvanhorn / last30days\-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web \- then synthesizes a grounded summary
 * 【2026-03-21】[vas3k / TaxHacker](https://github.com/vas3k/TaxHacker) - Self\-hosted AI accounting app  LLM analyzer for receipts, invoices, transactions with custom prompts and categories
@@ -1648,6 +1649,7 @@
 
 ## Python
 
+* 【2026-03-27】[deepseek\-ai / Engram](https://github.com/deepseek-ai/Engram) - Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
 * 【2026-03-26】[trustgraph-ai / trustgraph](https://github.com/trustgraph-ai/trustgraph) - The context development platform. Store, enrich, and retrieve structured knowledge with graph-native infrastructure, semantic retrieval, and portable context cores.
 * 【2026-03-26】[TheSmallHanCat / flow2api](https://github.com/TheSmallHanCat/flow2api) - 无限次数的banana pro！逆向账号池，支持负载均衡、AT自动刷新、缓存策略、代理等。Q交流群1073237297
 * 【2026-03-26】[TencentBlueKing / blueking-paas](https://github.com/TencentBlueKing/blueking-paas) - 蓝鲸智云 PaaS 平台是一个开放式的开发平台，让开发者可以方便快捷地创建、开发、部署和管理 SaaS 应用。它提供了完善的前后台开发框架、服务总线（ESB）、API Gateway、调度引擎、公共组件 等服务。旨在帮助用户快速、低成本的构建免运维运营系统与支撑工具。
@@ -3737,6 +3739,8 @@
 
 ## Go
 
+* 【2026-03-27】[riba2534 / feishu\-cli](https://github.com/riba2534/feishu-cli) - 
+* 【2026-03-27】[kubernetes-sigs / ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources
 * 【2026-03-26】[s\-rah / onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web 
 * 【2026-03-26】[smtg-ai / claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 * 【2026-03-25】[kubernetes-sigs / agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.
@@ -5790,6 +5794,7 @@
 
 ## Html
 
+* 【2026-03-27】[itskovacs / trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner  Self\-hosted 
 * 【2026-03-23】[QiuSimons / luci\-app\-daed](https://github.com/QiuSimons/luci-app-daed) - 
 * 【2026-03-21】[Commando-X / vuln-bank](https://github.com/Commando-X/vuln-bank) - A deliberately vulnerable banking application designed for practicing Security Testing of Web App, APIs, AI integrated App and secure code reviews. Features common vulnerabilities found in real-world applications, making it an ideal platform for security professionals, developers, and enthusiasts to learn pentesting and secure coding practices.
 * 【2026-03-20】[baojie / shiji-kb](https://github.com/baojie/shiji-kb) - 
@@ -8104,6 +8109,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-03-27】[Yeachan-Heo / oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 * 【2026-03-26】[letta-ai / claude-subconscious](https://github.com/letta-ai/claude-subconscious) - Give Claude Code a subconscious
 * 【2026-03-25】[davideast / stitch\-mcp](https://github.com/davideast/stitch-mcp) - A CLI for moving AI\-generated UI designs from Google’s Stitch platform into your development workflow 
 * 【2026-03-24】[pascalorg / editor](https://github.com/pascalorg/editor) - 
