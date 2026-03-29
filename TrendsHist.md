@@ -1205,6 +1205,7 @@
 
 ## Java
 
+* 【2026-03-29】[JingMatrix / Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 * 【2026-03-25】[Snailclimb / interview-guide](https://github.com/Snailclimb/interview-guide) - 基于 Spring Boot 4.0 + Java 21 + Spring AI + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。
 * 【2026-03-24】[Snailclimb / interview\-guide](https://github.com/Snailclimb/interview-guide) - 基于 Spring Boot 4 0 + Java 21 + Spring AI + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。
 * 【2026-03-23】[navinreddy20 / Javacode](https://github.com/navinreddy20/Javacode) - 
@@ -3040,6 +3041,7 @@
 
 ## Javascript
 
+* 【2026-03-29】[figma / mcp-server-guide](https://github.com/figma/mcp-server-guide) - A guide on how to use the Figma MCP server
 * 【2026-03-28】[figma / mcp\-server\-guide](https://github.com/figma/mcp-server-guide) - A guide on how to use the Figma MCP server
 * 【2026-03-28】[breschio / drawbridge](https://github.com/breschio/drawbridge) - Design editor for Claude Code and Cursor  "Figma Comments" for the browser, are sent directly to Claude Code and Cursor as prompts 
 * 【2026-03-28】[WordPress / agent-skills](https://github.com/WordPress/agent-skills) - Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices
@@ -3747,6 +3749,7 @@
 
 ## Go
 
+* 【2026-03-29】[riba2534 / feishu-cli](https://github.com/riba2534/feishu-cli) - 
 * 【2026-03-28】[harness / harness](https://github.com/harness/harness) - Harness Open Source is an end\-to\-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries 
 * 【2026-03-28】[Agent\-Field / agentfield](https://github.com/Agent-Field/agentfield) - Framework for AI Backend  Build and run AI agents like microservices \- scalable, observable, and identity\-aware from day one 
 * 【2026-03-28】[GMSSH / GMSSH](https://github.com/GMSSH/GMSSH) - GMSSH: Desktop\-Grade AI\-Driven Operations Terminal High Performance · Non\-Intrusive · AI\-Powered;GMSSH 桌面级 AI 运维终端 高性能·AI 智驱
@@ -5298,6 +5301,7 @@
 
 ## C#
 
+* 【2026-03-29】[SirDiabo / N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher) - A Launcher that Downloads and Updates N64 Recompilations
 * 【2026-03-23】[github / gh\-gei](https://github.com/github/gh-gei) - Migration CLI for GitHub to GitHub migrations
 * 【2026-03-19】[MobiFlight / MobiFlight\-Connector](https://github.com/MobiFlight/MobiFlight-Connector) - MobiFlight is an open source project that allows you to create your own home cockpit for your favorite flight simulator in a flexible, affordable and extremely user\-friendly way 
 * 【2026-03-18】[Alex-Rachel / TEngine](https://github.com/Alex-Rachel/TEngine) - Unity框架解决方案-支持HybridCLR(最好的次时代热更)、Obfuz混淆代码加固与YooAssets(优秀商业级资源框架)。
@@ -8122,6 +8126,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-03-29】[benjitaylor / agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents 
+* 【2026-03-29】[vercel\-labs / json\-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 * 【2026-03-28】[nrslib / takt](https://github.com/nrslib/takt) - TAKT Agent Koordination Topology \- Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML
 * 【2026-03-28】[Fission\-AI / OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec\-driven development (SDD) for AI coding assistants 
 * 【2026-03-27】[Yeachan-Heo / oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
