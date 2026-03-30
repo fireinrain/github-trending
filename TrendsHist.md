@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-03-30】[luongnv89 / claude\-howto](https://github.com/luongnv89/claude-howto) - A visual, example\-driven guide to Claude Code — from basic concepts to advanced agents, with copy\-paste templates that bring immediate value 
 * 【2026-03-28】[SakanaAI / AI\-Scientist\-v2](https://github.com/SakanaAI/AI-Scientist-v2) - The AI Scientist\-v2: Workshop\-Level Automated Scientific Discovery via Agentic Tree Search
 * 【2026-03-27】[Yeachan\-Heo / oh\-my\-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams\-first Multi\-agent orchestration for Claude Code
 * 【2026-03-26】[letta\-ai / claude\-subconscious](https://github.com/letta-ai/claude-subconscious) - Give Claude Code a subconscious
@@ -1651,6 +1652,7 @@
 
 ## Python
 
+* 【2026-03-30】[luongnv89 / claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 * 【2026-03-28】[SakanaAI / AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
 * 【2026-03-28】[trailofbits / skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 * 【2026-03-28】[ruc\-datalab / DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) - DeepAnalyze is the first agentic LLM for autonomous data science  🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！
@@ -4332,6 +4334,8 @@
 
 ## C
 
+* 【2026-03-30】[lambertjamesd / n64brew2025](https://github.com/lambertjamesd/n64brew2025) - Our team entry for the 2025 brew game jam
+* 【2026-03-30】[HighCodeh / TentacleOS](https://github.com/HighCodeh/TentacleOS) - Firmware High Boy
 * 【2026-03-28】[LedgerHQ / ledger\-secure\-sdk](https://github.com/LedgerHQ/ledger-secure-sdk) - Device app kit
 * 【2026-03-26】[Cybereason\-Public / owLSM](https://github.com/Cybereason-Public/owLSM) - Sigma Rules Engine inside the Linux Kernel using eBPF  Focusing on prevention capabilities
 * 【2026-03-22】[heiher / hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A lightweight, fast and reliable tun2socks
@@ -7171,6 +7175,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-03-30】[cargo\-bins / cargo\-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
 * 【2026-03-26】[Zackriya-Solutions / meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.
 * 【2026-03-25】[Zackriya\-Solutions / meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust  100% local processing  no cloud required  Meetily (Meetly Ai \- https://meetily ai) is the \#1 Self\-hosted, Open\-source Ai meeting note taker for macOS & Windows 
 * 【2026-03-25】[rivet\-dev / rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads  Built for AI agents, collaborative apps, and durable execution 
@@ -8126,6 +8131,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-03-30】[FlorianBruniaux / claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader :)
 * 【2026-03-29】[benjitaylor / agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents 
 * 【2026-03-29】[vercel\-labs / json\-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 * 【2026-03-28】[nrslib / takt](https://github.com/nrslib/takt) - TAKT Agent Koordination Topology \- Define how AI agents coordinate, where humans intervene, and what gets recorded — in YAML
