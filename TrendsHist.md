@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-04-01】[Dimillian / Skills](https://github.com/Dimillian/Skills) - My Codex Skills
 * 【2026-03-30】[luongnv89 / claude\-howto](https://github.com/luongnv89/claude-howto) - A visual, example\-driven guide to Claude Code — from basic concepts to advanced agents, with copy\-paste templates that bring immediate value 
 * 【2026-03-28】[SakanaAI / AI\-Scientist\-v2](https://github.com/SakanaAI/AI-Scientist-v2) - The AI Scientist\-v2: Workshop\-Level Automated Scientific Discovery via Agentic Tree Search
 * 【2026-03-27】[Yeachan\-Heo / oh\-my\-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams\-first Multi\-agent orchestration for Claude Code
@@ -1206,6 +1207,8 @@
 
 ## Java
 
+* 【2026-04-01】[maxwai / NClientV3](https://github.com/maxwai/NClientV3) - An unofficial NHentai android client
+* 【2026-04-01】[iflytek / astron\-rpa](https://github.com/iflytek/astron-rpa) - Agent\-ready RPA suite with out\-of\-the\-box automation tools  Built for individuals and enterprises 
 * 【2026-03-31】[anddea / revanced\-patches](https://github.com/anddea/revanced-patches) - 🧩 Patches for ReVanced
 * 【2026-03-31】[databricks / databricks\-sdk\-java](https://github.com/databricks/databricks-sdk-java) - Databricks SDK for Java
 * 【2026-03-29】[JingMatrix / Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
@@ -1654,6 +1657,8 @@
 
 ## Python
 
+* 【2026-04-01】[SkyworkAI / Matrix\-Game](https://github.com/SkyworkAI/Matrix-Game) - Matrix\-Game 3 0: Real\-Time and Streaming Interactive World Model with Long\-Horizon Memory
+* 【2026-04-01】[Oros42 / IMSI-catcher](https://github.com/Oros42/IMSI-catcher) - This program show you IMSI numbers of cellphones around you.
 * 【2026-03-30】[luongnv89 / claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 * 【2026-03-28】[SakanaAI / AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
 * 【2026-03-28】[trailofbits / skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
@@ -3045,6 +3050,9 @@
 
 ## Javascript
 
+* 【2026-04-01】[ChrisWiles / claude\-code\-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
+* 【2026-04-01】[Dispatcharr / Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
+* 【2026-04-01】[idinging / freemail](https://github.com/idinging/freemail) - Cloudflare 域名邮箱系统 临时邮箱系统 domain mail tempmail
 * 【2026-03-31】[libaxuan / cursor2api-go](https://github.com/libaxuan/cursor2api-go) - Free claude-sonnet-4.6 | cursor不倒我不倒🙏 ❌
 * 【2026-03-29】[figma / mcp-server-guide](https://github.com/figma/mcp-server-guide) - A guide on how to use the Figma MCP server
 * 【2026-03-28】[figma / mcp\-server\-guide](https://github.com/figma/mcp-server-guide) - A guide on how to use the Figma MCP server
@@ -4338,6 +4346,7 @@
 
 ## C
 
+* 【2026-04-01】[LNH\-team / pico\-launcher](https://github.com/LNH-team/pico-launcher) - Rom browser frontend for Pico Loader 
 * 【2026-03-30】[lambertjamesd / n64brew2025](https://github.com/lambertjamesd/n64brew2025) - Our team entry for the 2025 brew game jam
 * 【2026-03-30】[HighCodeh / TentacleOS](https://github.com/HighCodeh/TentacleOS) - Firmware High Boy
 * 【2026-03-28】[LedgerHQ / ledger\-secure\-sdk](https://github.com/LedgerHQ/ledger-secure-sdk) - Device app kit
@@ -5310,6 +5319,8 @@
 
 ## C#
 
+* 【2026-04-01】[Timmoth / RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab 
+* 【2026-04-01】[builtbybel / Winslopr](https://github.com/builtbybel/Winslopr) - Windows Slop Remover
 * 【2026-03-31】[rajko\-horvat / OpenCiv1](https://github.com/rajko-horvat/OpenCiv1) - Open source rewrite of the original Civilization 1 Game designed by Sid Meier and Bruce Shelley in year 1991
 * 【2026-03-31】[Altinn / altinn\-studio](https://github.com/Altinn/altinn-studio) - Next generation open source Altinn platform and applications 
 * 【2026-03-29】[SirDiabo / N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher) - A Launcher that Downloads and Updates N64 Recompilations
@@ -5821,6 +5832,7 @@
 
 ## Html
 
+* 【2026-04-01】[Systems\-Modeling / SysML\-v2\-Release](https://github.com/Systems-Modeling/SysML-v2-Release) - The latest incremental release of SysML v2  Start here 
 * 【2026-03-28】[OCA / server\-backend](https://github.com/OCA/server-backend) - 
 * 【2026-03-27】[itskovacs / trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner  Self\-hosted 
 * 【2026-03-23】[QiuSimons / luci\-app\-daed](https://github.com/QiuSimons/luci-app-daed) - 
@@ -6416,6 +6428,9 @@
 
 ## Unknown
 
+* 【2026-04-01】[Kavex / GameDev\-Resources](https://github.com/Kavex/GameDev-Resources) - 🎮 🎲 A wonderful list of Game Development resources 
+* 【2026-04-01】[antonbabenko / terraform\-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu \- testing, modules, CI/CD, and production patterns
+* 【2026-04-01】[Leey21 / awesome\-ai\-research\-writing](https://github.com/Leey21/awesome-ai-research-writing) - Elevate your AI research writing, no more tedious polishing ✨
 * 【2026-03-25】[TaoWangzj / Awesome-Face-Restoration](https://github.com/TaoWangzj/Awesome-Face-Restoration) - A comprehensive list of recources (papers, repositories etc.) about face restoration methods.
 * 【2026-03-24】[TaoWangzj / Awesome\-Face\-Restoration](https://github.com/TaoWangzj/Awesome-Face-Restoration) - A comprehensive list of recources (papers, repositories etc ) about face restoration methods 
 * 【2026-03-18】[WangRongsheng / awesome\-LLM\-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） \| Summary of the world's best LLM resources 
@@ -7182,6 +7197,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-04-01】[qxcnm / Codex\-Manager](https://github.com/qxcnm/Codex-Manager) - 一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。
 * 【2026-03-31】[base / base](https://github.com/base/base) - All components used for running Base
 * 【2026-03-31】[QuipNetwork / hashsigs\-rs](https://github.com/QuipNetwork/hashsigs-rs) - Hash\-based post quantum signatures in Rust
 * 【2026-03-31】[gotempsh / temps](https://github.com/gotempsh/temps) - Self host your own Vercel
@@ -8141,6 +8157,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-04-01】[coder / mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development
 * 【2026-03-30】[FlorianBruniaux / claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader :)
 * 【2026-03-29】[benjitaylor / agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents 
 * 【2026-03-29】[vercel\-labs / json\-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
