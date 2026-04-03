@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-04-03】[Yeachan\-Heo / oh\-my\-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX \- Oh My codeX: Your codex is not alone  Add hooks, agent teams, HUDs, and so much more 
 * 【2026-04-01】[Dimillian / Skills](https://github.com/Dimillian/Skills) - My Codex Skills
 * 【2026-03-30】[luongnv89 / claude\-howto](https://github.com/luongnv89/claude-howto) - A visual, example\-driven guide to Claude Code — from basic concepts to advanced agents, with copy\-paste templates that bring immediate value 
 * 【2026-03-28】[SakanaAI / AI\-Scientist\-v2](https://github.com/SakanaAI/AI-Scientist-v2) - The AI Scientist\-v2: Workshop\-Level Automated Scientific Discovery via Agentic Tree Search
@@ -1207,6 +1208,10 @@
 
 ## Java
 
+* 【2026-04-03】[nageoffer / ragent](https://github.com/nageoffer/ragent) - 企业级 Agentic RAG 智能体 \- 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。
+* 【2026-04-03】[iflytek / astron-rpa](https://github.com/iflytek/astron-rpa) - Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.
+* 【2026-04-03】[spring\-ai\-community / spring\-ai\-agent\-utils](https://github.com/spring-ai-community/spring-ai-agent-utils) - A Spring AI library that brings Claude Code\-inspired tools and agent skills to your AI applications 
+* 【2026-04-03】[googleapis / google-cloud-java](https://github.com/googleapis/google-cloud-java) - Google Cloud Client Library for Java
 * 【2026-04-02】[mit-cml / appinventor-sources](https://github.com/mit-cml/appinventor-sources) - MIT App Inventor Public Open Source
 * 【2026-04-01】[maxwai / NClientV3](https://github.com/maxwai/NClientV3) - An unofficial NHentai android client
 * 【2026-04-01】[iflytek / astron\-rpa](https://github.com/iflytek/astron-rpa) - Agent\-ready RPA suite with out\-of\-the\-box automation tools  Built for individuals and enterprises 
@@ -1658,6 +1663,8 @@
 
 ## Python
 
+* 【2026-04-03】[zai\-org / GLM\-OCR](https://github.com/zai-org/GLM-OCR) - GLM\-OCR: Accurate × Fast × Comprehensive
+* 【2026-04-03】[Alishahryar1 / free\-claude\-code](https://github.com/Alishahryar1/free-claude-code) - Use claude\-code for free in the terminal, VSCode extension or via discord like openclaw
 * 【2026-04-02】[NVIDIA / Model\-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc  It compresses deep learning models for downstream deployment frameworks like TensorRT\-LLM, TensorRT, vLLM, etc  to optimize inference speed 
 * 【2026-04-02】[allenai / OLMo\-core](https://github.com/allenai/OLMo-core) - PyTorch building blocks for the OLMo ecosystem
 * 【2026-04-02】[gumyr / build123d](https://github.com/gumyr/build123d) - A python CAD programming library
@@ -3054,6 +3061,8 @@
 
 ## Javascript
 
+* 【2026-04-03】[sgoudelis / ground\-station](https://github.com/sgoudelis/ground-station) - Ground Station is all\-in\-one satellite monitoring suite
+* 【2026-04-03】[ComposioHQ / open\-claude\-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
 * 【2026-04-02】[ChrisWiles / claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 * 【2026-04-02】[AikidoSec / safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, and pnpx with Aikido Safe Chain. Free to use, no tokens required.
 * 【2026-04-01】[ChrisWiles / claude\-code\-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
@@ -3768,6 +3777,7 @@
 
 ## Go
 
+* 【2026-04-03】[777genius / claude\-notifications\-go](https://github.com/777genius/claude-notifications-go) - 🔔 Cross\-platform smart notifications plugin for Claude Code  6 types  Click\-to\-focus  1 line installation  Instant  Analyze context  Zero dependencies  webhooks (ntfy, slack, telegram   )  Linux, MacOS, Windows 
 * 【2026-04-02】[electrikmilk / cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
 * 【2026-04-02】[octelium / octelium](https://github.com/octelium/octelium) - A next\-gen FOSS self\-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok\-alternative and a homelab infrastructure 
 * 【2026-04-02】[joshmedeski / sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
@@ -4356,6 +4366,7 @@
 
 ## C
 
+* 【2026-04-03】[ARM-software / CMSIS_6](https://github.com/ARM-software/CMSIS_6) - CMSIS version 6 (successor of CMSIS_5)
 * 【2026-04-02】[ARM\-software / CMSIS_6](https://github.com/ARM-software/CMSIS_6) - CMSIS version 6 (successor of CMSIS_5)
 * 【2026-04-01】[LNH\-team / pico\-launcher](https://github.com/LNH-team/pico-launcher) - Rom browser frontend for Pico Loader 
 * 【2026-03-30】[lambertjamesd / n64brew2025](https://github.com/lambertjamesd/n64brew2025) - Our team entry for the 2025 brew game jam
@@ -7214,6 +7225,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-04-03】[rivet-dev / rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
+* 【2026-04-03】[psmux / psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell \- tmux for PowerShell, Windows Terminal, cmd exe  Includes psmux, pmux, and tmux commands  This is native Powershell Tmux designed for Windows in Rust 🦀
 * 【2026-04-02】[antinomyhq / forgecode](https://github.com/antinomyhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 * 【2026-04-01】[qxcnm / Codex\-Manager](https://github.com/qxcnm/Codex-Manager) - 一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。
 * 【2026-03-31】[base / base](https://github.com/base/base) - All components used for running Base
@@ -8175,6 +8188,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-04-03】[Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 * 【2026-04-02】[shareAI\-lab / Kode\-Agent](https://github.com/shareAI-lab/Kode-Agent) - Kode Agent — Design for post\-human workflows  One unit agent for every human & computer task 
 * 【2026-04-01】[coder / mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development
 * 【2026-03-30】[FlorianBruniaux / claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) - A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready templates for Claude Code features, guides on agentic workflows, and a lot of great learning materials, including quizzes and a handy "cheatsheet". Whether it's the "ultimate" guide to Claude Code will be up to the reader :)
