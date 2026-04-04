@@ -1208,6 +1208,7 @@
 
 ## Java
 
+* 【2026-04-04】[GTNewHorizons / GT5-Unofficial](https://github.com/GTNewHorizons/GT5-Unofficial) - Decompiled and modified version of GT5.07.07
 * 【2026-04-03】[nageoffer / ragent](https://github.com/nageoffer/ragent) - 企业级 Agentic RAG 智能体 \- 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。
 * 【2026-04-03】[iflytek / astron-rpa](https://github.com/iflytek/astron-rpa) - Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.
 * 【2026-04-03】[spring\-ai\-community / spring\-ai\-agent\-utils](https://github.com/spring-ai-community/spring-ai-agent-utils) - A Spring AI library that brings Claude Code\-inspired tools and agent skills to your AI applications 
@@ -1663,6 +1664,7 @@
 
 ## Python
 
+* 【2026-04-04】[Alishahryar1 / free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
 * 【2026-04-03】[zai\-org / GLM\-OCR](https://github.com/zai-org/GLM-OCR) - GLM\-OCR: Accurate × Fast × Comprehensive
 * 【2026-04-03】[Alishahryar1 / free\-claude\-code](https://github.com/Alishahryar1/free-claude-code) - Use claude\-code for free in the terminal, VSCode extension or via discord like openclaw
 * 【2026-04-02】[NVIDIA / Model\-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc  It compresses deep learning models for downstream deployment frameworks like TensorRT\-LLM, TensorRT, vLLM, etc  to optimize inference speed 
@@ -3061,6 +3063,8 @@
 
 ## Javascript
 
+* 【2026-04-04】[ComposioHQ / open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
+* 【2026-04-04】[sgoudelis / ground-station](https://github.com/sgoudelis/ground-station) - Ground Station is all-in-one satellite monitoring suite
 * 【2026-04-03】[sgoudelis / ground\-station](https://github.com/sgoudelis/ground-station) - Ground Station is all\-in\-one satellite monitoring suite
 * 【2026-04-03】[ComposioHQ / open\-claude\-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
 * 【2026-04-02】[ChrisWiles / claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
@@ -3777,6 +3781,8 @@
 
 ## Go
 
+* 【2026-04-04】[QuantumNous / new\-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution  It supports cross\-converting various LLMs into OpenAI\-compatible, Claude\-compatible, or Gemini\-compatible formats  A centralized gateway for personal and enterprise model management  🍥
+* 【2026-04-04】[ghuntley / how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
 * 【2026-04-03】[777genius / claude\-notifications\-go](https://github.com/777genius/claude-notifications-go) - 🔔 Cross\-platform smart notifications plugin for Claude Code  6 types  Click\-to\-focus  1 line installation  Instant  Analyze context  Zero dependencies  webhooks (ntfy, slack, telegram   )  Linux, MacOS, Windows 
 * 【2026-04-02】[electrikmilk / cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
 * 【2026-04-02】[octelium / octelium](https://github.com/octelium/octelium) - A next\-gen FOSS self\-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok\-alternative and a homelab infrastructure 
@@ -5344,6 +5350,7 @@
 
 ## C#
 
+* 【2026-04-04】[dotnet / skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with  NET and C\#
 * 【2026-04-01】[Timmoth / RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab 
 * 【2026-04-01】[builtbybel / Winslopr](https://github.com/builtbybel/Winslopr) - Windows Slop Remover
 * 【2026-03-31】[rajko\-horvat / OpenCiv1](https://github.com/rajko-horvat/OpenCiv1) - Open source rewrite of the original Civilization 1 Game designed by Sid Meier and Bruce Shelley in year 1991
@@ -5857,6 +5864,7 @@
 
 ## Html
 
+* 【2026-04-04】[nirholas / XActions](https://github.com/nirholas/XActions) - ⚡ The Complete X/Twitter Automation Toolkit — Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts  No API fees  Open source  Unfollow people who don't follow back  Monitor real\-time analytics  Auto follow, like, comment, scrape, without API 
 * 【2026-04-02】[nibzard / awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 * 【2026-04-02】[OCA / server-backend](https://github.com/OCA/server-backend) - 
 * 【2026-04-01】[Systems\-Modeling / SysML\-v2\-Release](https://github.com/Systems-Modeling/SysML-v2-Release) - The latest incremental release of SysML v2  Start here 
@@ -6455,6 +6463,7 @@
 
 ## Unknown
 
+* 【2026-04-04】[Seeed\-Projects / reBot\-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) - Open Source Robotic Arm for All Developers
 * 【2026-04-02】[shuaidaoya / FreeNodes](https://github.com/shuaidaoya/FreeNodes) - 因调整需要，项目暂时停更1\-2个月，休整完毕后会如期回归，感谢理解与等待。过渡节点订阅已更新至下方链接！！！每4小时自动更新🤖，支持v2ray、clash等各种代理软件，利用SubsCheck\-Win\-GUI自动从节点池爬取免费节点分享
 * 【2026-04-01】[Kavex / GameDev\-Resources](https://github.com/Kavex/GameDev-Resources) - 🎮 🎲 A wonderful list of Game Development resources 
 * 【2026-04-01】[antonbabenko / terraform\-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu \- testing, modules, CI/CD, and production patterns
@@ -7225,6 +7234,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-04-04】[always\-further / nono](https://github.com/always-further/nono) - Kernel\-enforced agent sandbox  Capability\-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance  Run your agents in a zero\-trust environment 
+* 【2026-04-04】[lightonai / next\-plaid](https://github.com/lightonai/next-plaid) - NextPlaid, ColGREP: Multi\-vector search, from database to coding agents 
 * 【2026-04-03】[rivet-dev / rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 * 【2026-04-03】[psmux / psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell \- tmux for PowerShell, Windows Terminal, cmd exe  Includes psmux, pmux, and tmux commands  This is native Powershell Tmux designed for Windows in Rust 🦀
 * 【2026-04-02】[antinomyhq / forgecode](https://github.com/antinomyhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
@@ -8188,6 +8199,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-04-04】[multica\-ai / multica](https://github.com/multica-ai/multica) - 
+* 【2026-04-04】[code-yeongyu / oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 * 【2026-04-03】[Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 * 【2026-04-02】[shareAI\-lab / Kode\-Agent](https://github.com/shareAI-lab/Kode-Agent) - Kode Agent — Design for post\-human workflows  One unit agent for every human & computer task 
 * 【2026-04-01】[coder / mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development
