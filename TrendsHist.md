@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-04-06】[google\-ai\-edge / gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on\-device ML/GenAI use cases and allows people to try and use models locally 
 * 【2026-04-03】[Yeachan\-Heo / oh\-my\-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX \- Oh My codeX: Your codex is not alone  Add hooks, agent teams, HUDs, and so much more 
 * 【2026-04-01】[Dimillian / Skills](https://github.com/Dimillian/Skills) - My Codex Skills
 * 【2026-03-30】[luongnv89 / claude\-howto](https://github.com/luongnv89/claude-howto) - A visual, example\-driven guide to Claude Code — from basic concepts to advanced agents, with copy\-paste templates that bring immediate value 
@@ -1664,6 +1665,7 @@
 
 ## Python
 
+* 【2026-04-06】[atilaahmettaner / tradingview\-mcp](https://github.com/atilaahmettaner/tradingview-mcp) - Advanced TradingView MCP Server for AI\-powered market analysis  Real\-time crypto & stock screening, technical indicators, Bollinger Band intelligence, and candlestick patterns  Works with Claude Desktop & AI assistants  Multi\-exchange support (Binance, KuCoin, Bybit+)  Open source trading toolkit 
 * 【2026-04-05】[imbue\-ai / mngr](https://github.com/imbue-ai/mngr) - CLI for managing agents
 * 【2026-04-04】[Alishahryar1 / free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
 * 【2026-04-03】[zai\-org / GLM\-OCR](https://github.com/zai-org/GLM-OCR) - GLM\-OCR: Accurate × Fast × Comprehensive
@@ -3064,6 +3066,8 @@
 
 ## Javascript
 
+* 【2026-04-06】[rohitg00 / awesome\-claude\-code\-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code \-\- 135 agents, 35 curated skills (+400,000 via SkillKit), 42 commands, 150+ plugins, 19 hooks, 15 rules, 7 templates, 8 MCP configs, and more 
+* 【2026-04-06】[ComposioHQ / awesome\-claude\-plugins](https://github.com/ComposioHQ/awesome-claude-plugins) - A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system 
 * 【2026-04-05】[wwebjs / whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 * 【2026-04-04】[ComposioHQ / open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
 * 【2026-04-04】[sgoudelis / ground-station](https://github.com/sgoudelis/ground-station) - Ground Station is all-in-one satellite monitoring suite
@@ -3783,6 +3787,7 @@
 
 ## Go
 
+* 【2026-04-06】[rudrankriyam / App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
 * 【2026-04-05】[QuantumNous / new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 * 【2026-04-05】[sipeed / picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 * 【2026-04-05】[rudrankriyam / App\-Store\-Connect\-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API  Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more  JSON\-first, no interactive prompts
@@ -8204,6 +8209,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-04-06】[ResearAI / DeepScientist](https://github.com/ResearAI/DeepScientist) - Now, Stronger AI Pushes Frontiers, Stronger Our Shared Future 
+* 【2026-04-06】[koala73 / worldmonitor](https://github.com/koala73/worldmonitor) - Real\-time global intelligence dashboard  AI\-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+* 【2026-04-06】[campfirein / byterover\-cli](https://github.com/campfirein/byterover-cli) - ByteRover CLI (brv) \- The portable memory layer for autonomous coding agents (formerly Cipher)
 * 【2026-04-05】[vercel-labs / just-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents
 * 【2026-04-05】[github / copilot\-sdk](https://github.com/github/copilot-sdk) - Multi\-platform SDK for integrating GitHub Copilot Agent into apps and services
 * 【2026-04-04】[multica\-ai / multica](https://github.com/multica-ai/multica) - 
