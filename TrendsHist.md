@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-04-07】[google-ai-edge / gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+* 【2026-04-07】[aaif\-goose / goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions \- install, execute, edit, and test with any LLM
+* 【2026-04-07】[NVIDIA / personaplex](https://github.com/NVIDIA/personaplex) - PersonaPlex code 
 * 【2026-04-06】[google\-ai\-edge / gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on\-device ML/GenAI use cases and allows people to try and use models locally 
 * 【2026-04-03】[Yeachan\-Heo / oh\-my\-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX \- Oh My codeX: Your codex is not alone  Add hooks, agent teams, HUDs, and so much more 
 * 【2026-04-01】[Dimillian / Skills](https://github.com/Dimillian/Skills) - My Codex Skills
@@ -1665,6 +1668,7 @@
 
 ## Python
 
+* 【2026-04-07】[HKUDS / DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: Agent\-Native Personalized Learning Assistant"
 * 【2026-04-06】[atilaahmettaner / tradingview\-mcp](https://github.com/atilaahmettaner/tradingview-mcp) - Advanced TradingView MCP Server for AI\-powered market analysis  Real\-time crypto & stock screening, technical indicators, Bollinger Band intelligence, and candlestick patterns  Works with Claude Desktop & AI assistants  Multi\-exchange support (Binance, KuCoin, Bybit+)  Open source trading toolkit 
 * 【2026-04-05】[imbue\-ai / mngr](https://github.com/imbue-ai/mngr) - CLI for managing agents
 * 【2026-04-04】[Alishahryar1 / free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
@@ -3066,6 +3070,8 @@
 
 ## Javascript
 
+* 【2026-04-07】[rohitg00 / awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via SkillKit), 42 commands, 150+ plugins, 19 hooks, 15 rules, 7 templates, 8 MCP configs, and more.
+* 【2026-04-07】[ComposioHQ / awesome-claude-plugins](https://github.com/ComposioHQ/awesome-claude-plugins) - A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.
 * 【2026-04-06】[rohitg00 / awesome\-claude\-code\-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code \-\- 135 agents, 35 curated skills (+400,000 via SkillKit), 42 commands, 150+ plugins, 19 hooks, 15 rules, 7 templates, 8 MCP configs, and more 
 * 【2026-04-06】[ComposioHQ / awesome\-claude\-plugins](https://github.com/ComposioHQ/awesome-claude-plugins) - A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system 
 * 【2026-04-05】[wwebjs / whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
@@ -5874,6 +5880,7 @@
 
 ## Html
 
+* 【2026-04-07】[mergisi / awesome\-openclaw\-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production\-ready AI agent templates for OpenClaw  SOUL md configs across 19 categories  Submit yours!
 * 【2026-04-04】[nirholas / XActions](https://github.com/nirholas/XActions) - ⚡ The Complete X/Twitter Automation Toolkit — Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts  No API fees  Open source  Unfollow people who don't follow back  Monitor real\-time analytics  Auto follow, like, comment, scrape, without API 
 * 【2026-04-02】[nibzard / awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 * 【2026-04-02】[OCA / server-backend](https://github.com/OCA/server-backend) - 
@@ -6473,6 +6480,9 @@
 
 ## Unknown
 
+* 【2026-04-07】[Seeed-Projects / reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) - Open Source Robotic Arm for All Developers
+* 【2026-04-07】[mezod / awesome\-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
+* 【2026-04-07】[YU\-deep / Awesome\-Latent\-Space](https://github.com/YU-deep/Awesome-Latent-Space) - A paper list of Awesome Latent Space 
 * 【2026-04-04】[Seeed\-Projects / reBot\-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) - Open Source Robotic Arm for All Developers
 * 【2026-04-02】[shuaidaoya / FreeNodes](https://github.com/shuaidaoya/FreeNodes) - 因调整需要，项目暂时停更1\-2个月，休整完毕后会如期回归，感谢理解与等待。过渡节点订阅已更新至下方链接！！！每4小时自动更新🤖，支持v2ray、clash等各种代理软件，利用SubsCheck\-Win\-GUI自动从节点池爬取免费节点分享
 * 【2026-04-01】[Kavex / GameDev\-Resources](https://github.com/Kavex/GameDev-Resources) - 🎮 🎲 A wonderful list of Game Development resources 
@@ -7244,6 +7254,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-04-07】[aaif-goose / goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+* 【2026-04-07】[zhom / donutbrowser](https://github.com/zhom/donutbrowser) - Simple Yet Powerful Anti\-Detect Browser 🍩
 * 【2026-04-04】[always\-further / nono](https://github.com/always-further/nono) - Kernel\-enforced agent sandbox  Capability\-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance  Run your agents in a zero\-trust environment 
 * 【2026-04-04】[lightonai / next\-plaid](https://github.com/lightonai/next-plaid) - NextPlaid, ColGREP: Multi\-vector search, from database to coding agents 
 * 【2026-04-03】[rivet-dev / rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
@@ -8209,6 +8221,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-04-07】[qwibitai / nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security  Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 * 【2026-04-06】[ResearAI / DeepScientist](https://github.com/ResearAI/DeepScientist) - Now, Stronger AI Pushes Frontiers, Stronger Our Shared Future 
 * 【2026-04-06】[koala73 / worldmonitor](https://github.com/koala73/worldmonitor) - Real\-time global intelligence dashboard  AI\-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 * 【2026-04-06】[campfirein / byterover\-cli](https://github.com/campfirein/byterover-cli) - ByteRover CLI (brv) \- The portable memory layer for autonomous coding agents (formerly Cipher)
