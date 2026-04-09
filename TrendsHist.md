@@ -1670,6 +1670,8 @@
 
 ## Python
 
+* 【2026-04-09】[atilaahmettaner / tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) - Advanced TradingView MCP Server for AI-powered market analysis. Real-time crypto & stock screening, technical indicators, Bollinger Band intelligence, and candlestick patterns. Works with Claude Desktop & AI assistants. Multi-exchange support (Binance, KuCoin, Bybit+). Open source trading toolkit.
+* 【2026-04-09】[HKUDS / AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
 * 【2026-04-08】[NVIDIA\-NeMo / DataDesigner](https://github.com/NVIDIA-NeMo/DataDesigner) - 🎨 NeMo Data Designer: Generate high\-quality synthetic data from scratch or from seed data 
 * 【2026-04-07】[HKUDS / DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: Agent\-Native Personalized Learning Assistant"
 * 【2026-04-06】[atilaahmettaner / tradingview\-mcp](https://github.com/atilaahmettaner/tradingview-mcp) - Advanced TradingView MCP Server for AI\-powered market analysis  Real\-time crypto & stock screening, technical indicators, Bollinger Band intelligence, and candlestick patterns  Works with Claude Desktop & AI assistants  Multi\-exchange support (Binance, KuCoin, Bybit+)  Open source trading toolkit 
@@ -3073,6 +3075,8 @@
 
 ## Javascript
 
+* 【2026-04-09】[Anil\-matcha / Open\-Higgsfield\-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI) - Open\-source alternative to Higgsfield AI — Free AI image generation & cinema studio with 20+ models (Flux, SDXL, Midjourney, Ideogram)  Self\-hosted, customizable, MIT licensed 
+* 【2026-04-09】[foxhui / WebAI2API](https://github.com/foxhui/WebAI2API) - WebAI2API: 基于 Camoufox 的网页 AI 转 API 工具，支持 LMArena/Gemini等，多窗口并发与账号隔离。 \| Web AI to OpenAI API via Camoufox  Supports LMArena/Gemini and more, multi\-window concurrency & account isolation 
 * 【2026-04-08】[levnikolaevich / claude\-code\-skills](https://github.com/levnikolaevich/claude-code-skills) - Plugin suite + bundled MCP servers for Claude Code  Full delivery lifecycle: Agile pipeline with multi\-model AI review, project bootstrap, documentation generation, codebase audits, performance optimization, community workflows  Includes hex\-line (hash\-verified editing), hex\-graph (code knowledge graph), and hex\-ssh (remote SSH) MCP servers 
 * 【2026-04-08】[stephengpope / thepopebot](https://github.com/stephengpope/thepopebot) - The Pope Bot is an autonomous AI agent that you can configure and build to do just about anything you want, all day, everyday, 24/7 
 * 【2026-04-07】[rohitg00 / awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via SkillKit), 42 commands, 150+ plugins, 19 hooks, 15 rules, 7 templates, 8 MCP configs, and more.
@@ -3798,6 +3802,7 @@
 
 ## Go
 
+* 【2026-04-09】[sivchari / kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
 * 【2026-04-06】[rudrankriyam / App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
 * 【2026-04-05】[QuantumNous / new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 * 【2026-04-05】[sipeed / picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
@@ -4867,6 +4872,7 @@
 
 ## C++
 
+* 【2026-04-09】[google / jsir](https://github.com/google/jsir) - Next\-generation JavaScript analysis tooling
 * 【2026-04-02】[doodlum / skyrim\-community\-shaders](https://github.com/doodlum/skyrim-community-shaders) - Community\-driven advanced graphics modifications for AE, SE and VR 
 * 【2026-04-02】[solvespace / solvespace](https://github.com/solvespace/solvespace) - Parametric 2d/3d CAD
 * 【2026-04-02】[Azure / azure\-sdk\-for\-cpp](https://github.com/Azure/azure-sdk-for-cpp) - This repository is for active development of the Azure SDK for C++  For consumers of the SDK we recommend visiting our versioned developer docs at https://azure github io/azure\-sdk\-for\-cpp 
@@ -7262,6 +7268,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-04-09】[rivet\-dev / agent\-os](https://github.com/rivet-dev/agent-os) - A portable open\-source operating system for agents  ~6 ms coldstarts, 32x cheaper than sandboxes  Powered by WebAssembly and V8 isolates 
+* 【2026-04-09】[LalitMaganti / syntaqlite](https://github.com/LalitMaganti/syntaqlite) - A parser, formatter, validator, and language server for SQLite SQL  Built on SQLite's own grammar and tokenizer
 * 【2026-04-08】[Ataraxy\-Labs / sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control CLI  Entity\-level diff, blame, graph, and impact analysis for code  21 languages via tree\-sitter 
 * 【2026-04-08】[iii-hq / iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 * 【2026-04-07】[aaif-goose / goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -8231,6 +8239,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-04-09】[VoltAgent / voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
+* 【2026-04-09】[lukilabs / craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
+* 【2026-04-09】[EtienneLescot / n8n\-as\-code](https://github.com/EtienneLescot/n8n-as-code) - Give your AI agent n8n superpowers  537 nodes with full schemas, 7,700+ templates, Git\-like sync, and TypeScript workflows 
 * 【2026-04-08】[xandemon / developer\-icons](https://github.com/xandemon/developer-icons) - A collection of well\-optimized SVG tech logos for developers and designers—customizable, scalable, and free 
 * 【2026-04-08】[lukilabs / craft\-agents\-oss](https://github.com/lukilabs/craft-agents-oss) - 
 * 【2026-04-07】[qwibitai / nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security  Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
