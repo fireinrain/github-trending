@@ -1670,6 +1670,7 @@
 
 ## Python
 
+* 【2026-04-10】[z\-lab / dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 * 【2026-04-09】[atilaahmettaner / tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) - Advanced TradingView MCP Server for AI-powered market analysis. Real-time crypto & stock screening, technical indicators, Bollinger Band intelligence, and candlestick patterns. Works with Claude Desktop & AI assistants. Multi-exchange support (Binance, KuCoin, Bybit+). Open source trading toolkit.
 * 【2026-04-09】[HKUDS / AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
 * 【2026-04-08】[NVIDIA\-NeMo / DataDesigner](https://github.com/NVIDIA-NeMo/DataDesigner) - 🎨 NeMo Data Designer: Generate high\-quality synthetic data from scratch or from seed data 
@@ -3075,6 +3076,7 @@
 
 ## Javascript
 
+* 【2026-04-10】[Anil-matcha / Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI) - Open-source alternative to Higgsfield AI — Free AI image generation & cinema studio with 20+ models (Flux, SDXL, Midjourney, Ideogram). Self-hosted, customizable, MIT licensed.
 * 【2026-04-09】[Anil\-matcha / Open\-Higgsfield\-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI) - Open\-source alternative to Higgsfield AI — Free AI image generation & cinema studio with 20+ models (Flux, SDXL, Midjourney, Ideogram)  Self\-hosted, customizable, MIT licensed 
 * 【2026-04-09】[foxhui / WebAI2API](https://github.com/foxhui/WebAI2API) - WebAI2API: 基于 Camoufox 的网页 AI 转 API 工具，支持 LMArena/Gemini等，多窗口并发与账号隔离。 \| Web AI to OpenAI API via Camoufox  Supports LMArena/Gemini and more, multi\-window concurrency & account isolation 
 * 【2026-04-08】[levnikolaevich / claude\-code\-skills](https://github.com/levnikolaevich/claude-code-skills) - Plugin suite + bundled MCP servers for Claude Code  Full delivery lifecycle: Agile pipeline with multi\-model AI review, project bootstrap, documentation generation, codebase audits, performance optimization, community workflows  Includes hex\-line (hash\-verified editing), hex\-graph (code knowledge graph), and hex\-ssh (remote SSH) MCP servers 
@@ -3802,6 +3804,7 @@
 
 ## Go
 
+* 【2026-04-10】[rapidaai / voice-ai](https://github.com/rapidaai/voice-ai) - Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents with audio streaming, STT, TTS, VAD, multi-channel integration, agent state management, and observability.
 * 【2026-04-09】[sivchari / kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
 * 【2026-04-06】[rudrankriyam / App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
 * 【2026-04-05】[QuantumNous / new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
@@ -5377,6 +5380,7 @@
 
 ## C#
 
+* 【2026-04-10】[KSP\-CKAN / CKAN](https://github.com/KSP-CKAN/CKAN) - The Comprehensive Kerbal Archive Network
 * 【2026-04-04】[dotnet / skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with  NET and C\#
 * 【2026-04-01】[Timmoth / RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab 
 * 【2026-04-01】[builtbybel / Winslopr](https://github.com/builtbybel/Winslopr) - Windows Slop Remover
@@ -6491,6 +6495,10 @@
 
 ## Unknown
 
+* 【2026-04-10】[gztchan / awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
+* 【2026-04-10】[noamseg / interview\-coach\-skill](https://github.com/noamseg/interview-coach-skill) - 
+* 【2026-04-10】[WICG / html\-in\-canvas](https://github.com/WICG/html-in-canvas) - 
+* 【2026-04-10】[zai\-org / GLM\-5](https://github.com/zai-org/GLM-5) - GLM\-5: From Vibe Coding to Agentic Engineering
 * 【2026-04-08】[forrestchang / andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - 
 * 【2026-04-08】[blader / humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI\-generated writing from text
 * 【2026-04-08】[gztchan / awesome\-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world 
@@ -8239,6 +8247,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-04-10】[multica-ai / multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+* 【2026-04-10】[run\-llama / liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open\-source document parser
+* 【2026-04-10】[RhysSullivan / executor](https://github.com/RhysSullivan/executor) - The missing integration layer for AI agents  Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment 
 * 【2026-04-09】[VoltAgent / voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 * 【2026-04-09】[lukilabs / craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
 * 【2026-04-09】[EtienneLescot / n8n\-as\-code](https://github.com/EtienneLescot/n8n-as-code) - Give your AI agent n8n superpowers  537 nodes with full schemas, 7,700+ templates, Git\-like sync, and TypeScript workflows 
