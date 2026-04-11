@@ -1670,6 +1670,7 @@
 
 ## Python
 
+* 【2026-04-11】[FloatingPragma / observer\-patch\-holography](https://github.com/FloatingPragma/observer-patch-holography) - OPH is an active research program aiming to construct a fundamental theory of physics from observer consistency 
 * 【2026-04-10】[z\-lab / dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 * 【2026-04-09】[atilaahmettaner / tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) - Advanced TradingView MCP Server for AI-powered market analysis. Real-time crypto & stock screening, technical indicators, Bollinger Band intelligence, and candlestick patterns. Works with Claude Desktop & AI assistants. Multi-exchange support (Binance, KuCoin, Bybit+). Open source trading toolkit.
 * 【2026-04-09】[HKUDS / AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
@@ -3076,6 +3077,9 @@
 
 ## Javascript
 
+* 【2026-04-11】[jo\-inc / camofox\-browser](https://github.com/jo-inc/camofox-browser) - Headless browser automation server for AI agents to visit sites that are usually blocked
+* 【2026-04-11】[lazaroagomez / BeatDock](https://github.com/lazaroagomez/BeatDock) - 🎵 Free, open\-source, self\-hosted Discord music bot with slash commands and Docker deployment  Features YouTube playback, queue management, and multilingual support 
+* 【2026-04-11】[Haleclipse / CodexDesktop\-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild) - Codex Desktop App \- Cross\-platform Rebuild
 * 【2026-04-10】[Anil-matcha / Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI) - Open-source alternative to Higgsfield AI — Free AI image generation & cinema studio with 20+ models (Flux, SDXL, Midjourney, Ideogram). Self-hosted, customizable, MIT licensed.
 * 【2026-04-09】[Anil\-matcha / Open\-Higgsfield\-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI) - Open\-source alternative to Higgsfield AI — Free AI image generation & cinema studio with 20+ models (Flux, SDXL, Midjourney, Ideogram)  Self\-hosted, customizable, MIT licensed 
 * 【2026-04-09】[foxhui / WebAI2API](https://github.com/foxhui/WebAI2API) - WebAI2API: 基于 Camoufox 的网页 AI 转 API 工具，支持 LMArena/Gemini等，多窗口并发与账号隔离。 \| Web AI to OpenAI API via Camoufox  Supports LMArena/Gemini and more, multi\-window concurrency & account isolation 
@@ -4875,6 +4879,7 @@
 
 ## C++
 
+* 【2026-04-11】[Euro\-Office / desktop\-apps](https://github.com/Euro-Office/desktop-apps) - 
 * 【2026-04-09】[google / jsir](https://github.com/google/jsir) - Next\-generation JavaScript analysis tooling
 * 【2026-04-02】[doodlum / skyrim\-community\-shaders](https://github.com/doodlum/skyrim-community-shaders) - Community\-driven advanced graphics modifications for AE, SE and VR 
 * 【2026-04-02】[solvespace / solvespace](https://github.com/solvespace/solvespace) - Parametric 2d/3d CAD
@@ -5895,6 +5900,7 @@
 
 ## Html
 
+* 【2026-04-11】[gn\-math / gn\-math\-DONTDMCA](https://github.com/gn-math/gn-math-DONTDMCA) - PLEASE DO NOT DMCA THIS, NO GAME ASSETS ARE HOSTED HERE
 * 【2026-04-07】[mergisi / awesome\-openclaw\-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production\-ready AI agent templates for OpenClaw  SOUL md configs across 19 categories  Submit yours!
 * 【2026-04-04】[nirholas / XActions](https://github.com/nirholas/XActions) - ⚡ The Complete X/Twitter Automation Toolkit — Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts  No API fees  Open source  Unfollow people who don't follow back  Monitor real\-time analytics  Auto follow, like, comment, scrape, without API 
 * 【2026-04-02】[nibzard / awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
@@ -6495,6 +6501,9 @@
 
 ## Unknown
 
+* 【2026-04-11】[Leey21 / awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) - Elevate your AI research writing, no more tedious polishing ✨
+* 【2026-04-11】[zai-org / GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering
+* 【2026-04-11】[WICG / html-in-canvas](https://github.com/WICG/html-in-canvas) - 
 * 【2026-04-10】[gztchan / awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 * 【2026-04-10】[noamseg / interview\-coach\-skill](https://github.com/noamseg/interview-coach-skill) - 
 * 【2026-04-10】[WICG / html\-in\-canvas](https://github.com/WICG/html-in-canvas) - 
@@ -7276,6 +7285,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-04-11】[qufei1993 / skills\-hub](https://github.com/qufei1993/skills-hub) - A cross\-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere” 
 * 【2026-04-09】[rivet\-dev / agent\-os](https://github.com/rivet-dev/agent-os) - A portable open\-source operating system for agents  ~6 ms coldstarts, 32x cheaper than sandboxes  Powered by WebAssembly and V8 isolates 
 * 【2026-04-09】[LalitMaganti / syntaqlite](https://github.com/LalitMaganti/syntaqlite) - A parser, formatter, validator, and language server for SQLite SQL  Built on SQLite's own grammar and tokenizer
 * 【2026-04-08】[Ataraxy\-Labs / sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control CLI  Entity\-level diff, blame, graph, and impact analysis for code  21 languages via tree\-sitter 
@@ -8247,6 +8257,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-04-11】[zhukunpenglinyutong / jetbrains\-cc\-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude Code and Codex GUI Plugin
+* 【2026-04-11】[hellodigua / ChatLab](https://github.com/hellodigua/ChatLab) - Rediscover your social memories with local, AI\-powered analysis  本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
 * 【2026-04-10】[multica-ai / multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 * 【2026-04-10】[run\-llama / liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open\-source document parser
 * 【2026-04-10】[RhysSullivan / executor](https://github.com/RhysSullivan/executor) - The missing integration layer for AI agents  Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment 
