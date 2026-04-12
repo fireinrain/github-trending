@@ -1670,6 +1670,8 @@
 
 ## Python
 
+* 【2026-04-12】[aloshdenny / reverse\-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
+* 【2026-04-12】[K\-Dense\-AI / scientific\-agent\-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing 
 * 【2026-04-11】[FloatingPragma / observer\-patch\-holography](https://github.com/FloatingPragma/observer-patch-holography) - OPH is an active research program aiming to construct a fundamental theory of physics from observer consistency 
 * 【2026-04-10】[z\-lab / dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 * 【2026-04-09】[atilaahmettaner / tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) - Advanced TradingView MCP Server for AI-powered market analysis. Real-time crypto & stock screening, technical indicators, Bollinger Band intelligence, and candlestick patterns. Works with Claude Desktop & AI assistants. Multi-exchange support (Binance, KuCoin, Bybit+). Open source trading toolkit.
@@ -3077,6 +3079,7 @@
 
 ## Javascript
 
+* 【2026-04-12】[jo-inc / camofox-browser](https://github.com/jo-inc/camofox-browser) - Headless browser automation server for AI agents to visit sites that are usually blocked
 * 【2026-04-11】[jo\-inc / camofox\-browser](https://github.com/jo-inc/camofox-browser) - Headless browser automation server for AI agents to visit sites that are usually blocked
 * 【2026-04-11】[lazaroagomez / BeatDock](https://github.com/lazaroagomez/BeatDock) - 🎵 Free, open\-source, self\-hosted Discord music bot with slash commands and Docker deployment  Features YouTube playback, queue management, and multilingual support 
 * 【2026-04-11】[Haleclipse / CodexDesktop\-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild) - Codex Desktop App \- Cross\-platform Rebuild
@@ -3808,6 +3811,7 @@
 
 ## Go
 
+* 【2026-04-12】[googleapis / mcp\-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases 
 * 【2026-04-10】[rapidaai / voice-ai](https://github.com/rapidaai/voice-ai) - Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents with audio streaming, STT, TTS, VAD, multi-channel integration, agent state management, and observability.
 * 【2026-04-09】[sivchari / kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
 * 【2026-04-06】[rudrankriyam / App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
@@ -4879,6 +4883,7 @@
 
 ## C++
 
+* 【2026-04-12】[nvidia\-isaac / cuVSLAM](https://github.com/nvidia-isaac/cuVSLAM) - cuVSLAM: CUDA\-Accelerated Visual Odometry and Mapping
 * 【2026-04-11】[Euro\-Office / desktop\-apps](https://github.com/Euro-Office/desktop-apps) - 
 * 【2026-04-09】[google / jsir](https://github.com/google/jsir) - Next\-generation JavaScript analysis tooling
 * 【2026-04-02】[doodlum / skyrim\-community\-shaders](https://github.com/doodlum/skyrim-community-shaders) - Community\-driven advanced graphics modifications for AE, SE and VR 
@@ -5385,6 +5390,8 @@
 
 ## C#
 
+* 【2026-04-12】[ErsatzTV / ErsatzTV\-legacy](https://github.com/ErsatzTV/ErsatzTV-legacy) - Open\-source platform that transforms your personal media library into live, custom TV channels 
+* 【2026-04-12】[NuGet / NuGetGallery](https://github.com/NuGet/NuGetGallery) - NuGet Gallery is a package repository that powers https://www nuget org  Use this repo for reporting NuGet org issues 
 * 【2026-04-10】[KSP\-CKAN / CKAN](https://github.com/KSP-CKAN/CKAN) - The Comprehensive Kerbal Archive Network
 * 【2026-04-04】[dotnet / skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with  NET and C\#
 * 【2026-04-01】[Timmoth / RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab 
@@ -5900,6 +5907,7 @@
 
 ## Html
 
+* 【2026-04-12】[gn-math / gn-math-DONTDMCA](https://github.com/gn-math/gn-math-DONTDMCA) - PLEASE DO NOT DMCA THIS, NO GAME ASSETS ARE HOSTED HERE
 * 【2026-04-11】[gn\-math / gn\-math\-DONTDMCA](https://github.com/gn-math/gn-math-DONTDMCA) - PLEASE DO NOT DMCA THIS, NO GAME ASSETS ARE HOSTED HERE
 * 【2026-04-07】[mergisi / awesome\-openclaw\-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production\-ready AI agent templates for OpenClaw  SOUL md configs across 19 categories  Submit yours!
 * 【2026-04-04】[nirholas / XActions](https://github.com/nirholas/XActions) - ⚡ The Complete X/Twitter Automation Toolkit — Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts  No API fees  Open source  Unfollow people who don't follow back  Monitor real\-time analytics  Auto follow, like, comment, scrape, without API 
@@ -6501,6 +6509,7 @@
 
 ## Unknown
 
+* 【2026-04-12】[Goochbeater / Spiritual\-Spell\-Red\-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) - A repo for jailbreaking various LLMs, mainly Claude
 * 【2026-04-11】[Leey21 / awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) - Elevate your AI research writing, no more tedious polishing ✨
 * 【2026-04-11】[zai-org / GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering
 * 【2026-04-11】[WICG / html-in-canvas](https://github.com/WICG/html-in-canvas) - 
@@ -8257,6 +8266,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-04-12】[snarktank / ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete 
+* 【2026-04-12】[wrtnlabs / autobe](https://github.com/wrtnlabs/autobe) - AI Vibe Coding Agent of TS backend server, enhanced by compiler skills, generating 100% working code
 * 【2026-04-11】[zhukunpenglinyutong / jetbrains\-cc\-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude Code and Codex GUI Plugin
 * 【2026-04-11】[hellodigua / ChatLab](https://github.com/hellodigua/ChatLab) - Rediscover your social memories with local, AI\-powered analysis  本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
 * 【2026-04-10】[multica-ai / multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
