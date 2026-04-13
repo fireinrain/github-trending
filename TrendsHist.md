@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-04-13】[zhayujie / CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt\-on\-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。
 * 【2026-04-08】[forrestchang / andrej\-karpathy\-skills](https://github.com/forrestchang/andrej-karpathy-skills) - 
 * 【2026-04-07】[google-ai-edge / gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 * 【2026-04-07】[aaif\-goose / goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions \- install, execute, edit, and test with any LLM
@@ -1670,6 +1671,8 @@
 
 ## Python
 
+* 【2026-04-13】[itigges22 / ATLAS](https://github.com/itigges22/ATLAS) - Adaptive Test\-time Learning and Autonomous Specialization
+* 【2026-04-13】[aloshdenny / reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
 * 【2026-04-12】[aloshdenny / reverse\-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
 * 【2026-04-12】[K\-Dense\-AI / scientific\-agent\-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing 
 * 【2026-04-11】[FloatingPragma / observer\-patch\-holography](https://github.com/FloatingPragma/observer-patch-holography) - OPH is an active research program aiming to construct a fundamental theory of physics from observer consistency 
@@ -3079,6 +3082,8 @@
 
 ## Javascript
 
+* 【2026-04-13】[Anil\-matcha / Open\-Generative\-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open\-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free AI image generation & cinema studio with 20+ models (Flux, SDXL, Midjourney, Ideogram)  Self\-hosted, customizable, MIT licensed 
+* 【2026-04-13】[robinebers / openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing  OpenUsage is free and open source 
 * 【2026-04-12】[jo-inc / camofox-browser](https://github.com/jo-inc/camofox-browser) - Headless browser automation server for AI agents to visit sites that are usually blocked
 * 【2026-04-11】[jo\-inc / camofox\-browser](https://github.com/jo-inc/camofox-browser) - Headless browser automation server for AI agents to visit sites that are usually blocked
 * 【2026-04-11】[lazaroagomez / BeatDock](https://github.com/lazaroagomez/BeatDock) - 🎵 Free, open\-source, self\-hosted Discord music bot with slash commands and Docker deployment  Features YouTube playback, queue management, and multilingual support 
@@ -3811,6 +3816,9 @@
 
 ## Go
 
+* 【2026-04-13】[googleapis / mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
+* 【2026-04-13】[anthropics / anthropic\-cli](https://github.com/anthropics/anthropic-cli) - The CLI for the Claude API
+* 【2026-04-13】[versity / versitygw](https://github.com/versity/versitygw) - versity s3 gateway
 * 【2026-04-12】[googleapis / mcp\-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases 
 * 【2026-04-10】[rapidaai / voice-ai](https://github.com/rapidaai/voice-ai) - Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents with audio streaming, STT, TTS, VAD, multi-channel integration, agent state management, and observability.
 * 【2026-04-09】[sivchari / kumo](https://github.com/sivchari/kumo) - A lightweight AWS service emulator written in Go
@@ -4409,6 +4417,7 @@
 
 ## C
 
+* 【2026-04-13】[Limine\-Bootloader / Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager 
 * 【2026-04-03】[ARM-software / CMSIS_6](https://github.com/ARM-software/CMSIS_6) - CMSIS version 6 (successor of CMSIS_5)
 * 【2026-04-02】[ARM\-software / CMSIS_6](https://github.com/ARM-software/CMSIS_6) - CMSIS version 6 (successor of CMSIS_5)
 * 【2026-04-01】[LNH\-team / pico\-launcher](https://github.com/LNH-team/pico-launcher) - Rom browser frontend for Pico Loader 
@@ -4883,6 +4892,7 @@
 
 ## C++
 
+* 【2026-04-13】[nvidia-isaac / cuVSLAM](https://github.com/nvidia-isaac/cuVSLAM) - cuVSLAM: CUDA-Accelerated Visual Odometry and Mapping
 * 【2026-04-12】[nvidia\-isaac / cuVSLAM](https://github.com/nvidia-isaac/cuVSLAM) - cuVSLAM: CUDA\-Accelerated Visual Odometry and Mapping
 * 【2026-04-11】[Euro\-Office / desktop\-apps](https://github.com/Euro-Office/desktop-apps) - 
 * 【2026-04-09】[google / jsir](https://github.com/google/jsir) - Next\-generation JavaScript analysis tooling
@@ -6509,6 +6519,9 @@
 
 ## Unknown
 
+* 【2026-04-13】[Goochbeater / Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) - A repo for jailbreaking various LLMs, mainly Claude
+* 【2026-04-13】[aarora4 / Awesome\-Prediction\-Market\-Tools](https://github.com/aarora4/Awesome-Prediction-Market-Tools) - A curated list of Prediction Market Tools \- AI Agents, Analytics, APIs, Dashboards, Copy Trading, Alerting, Tracking and More!!
+* 【2026-04-13】[kepano / kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
 * 【2026-04-12】[Goochbeater / Spiritual\-Spell\-Red\-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) - A repo for jailbreaking various LLMs, mainly Claude
 * 【2026-04-11】[Leey21 / awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) - Elevate your AI research writing, no more tedious polishing ✨
 * 【2026-04-11】[zai-org / GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering
@@ -7294,6 +7307,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-04-13】[nearai / ironclaw](https://github.com/nearai/ironclaw) - IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security
 * 【2026-04-11】[qufei1993 / skills\-hub](https://github.com/qufei1993/skills-hub) - A cross\-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere” 
 * 【2026-04-09】[rivet\-dev / agent\-os](https://github.com/rivet-dev/agent-os) - A portable open\-source operating system for agents  ~6 ms coldstarts, 32x cheaper than sandboxes  Powered by WebAssembly and V8 isolates 
 * 【2026-04-09】[LalitMaganti / syntaqlite](https://github.com/LalitMaganti/syntaqlite) - A parser, formatter, validator, and language server for SQLite SQL  Built on SQLite's own grammar and tokenizer
@@ -8266,6 +8280,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-04-13】[jamiepine / voicebox](https://github.com/jamiepine/voicebox) - The open\-source voice synthesis studio
+* 【2026-04-13】[yousifamanuel / terraink](https://github.com/yousifamanuel/terraink) - TerraInk: The Cartographic Poster Engine that creates unique and customizable map posters
+* 【2026-04-13】[obsidianmd / obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
+* 【2026-04-13】[tinyfish\-io / tinyfish\-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) - A collection of sample apps and recipes built with the TinyFish web agent  Open\-source examples for you to learn & build!
 * 【2026-04-12】[snarktank / ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete 
 * 【2026-04-12】[wrtnlabs / autobe](https://github.com/wrtnlabs/autobe) - AI Vibe Coding Agent of TS backend server, enhanced by compiler skills, generating 100% working code
 * 【2026-04-11】[zhukunpenglinyutong / jetbrains\-cc\-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude Code and Codex GUI Plugin
