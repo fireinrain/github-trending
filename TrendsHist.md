@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-04-15】[chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 * 【2026-04-13】[zhayujie / CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt\-on\-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。
 * 【2026-04-08】[forrestchang / andrej\-karpathy\-skills](https://github.com/forrestchang/andrej-karpathy-skills) - 
 * 【2026-04-07】[google-ai-edge / gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
@@ -1672,6 +1673,9 @@
 
 ## Python
 
+* 【2026-04-15】[hugohe3 / ppt\-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed
+* 【2026-04-15】[paperswithbacktest / awesome\-systematic\-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading 
+* 【2026-04-15】[Tracer\-Cloud / opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents  The open source toolkit for the AI era ✨
 * 【2026-04-13】[itigges22 / ATLAS](https://github.com/itigges22/ATLAS) - Adaptive Test\-time Learning and Autonomous Specialization
 * 【2026-04-13】[aloshdenny / reverse-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
 * 【2026-04-12】[aloshdenny / reverse\-SynthID](https://github.com/aloshdenny/reverse-SynthID) - reverse engineering Gemini's SynthID detection
@@ -3083,6 +3087,7 @@
 
 ## Javascript
 
+* 【2026-04-15】[antvis / chart\-visualization\-skills](https://github.com/antvis/chart-visualization-skills) - ⛏️ Turning data into a visual language for better thinking with Skills 
 * 【2026-04-14】[codebymitch / TitanBot](https://github.com/codebymitch/TitanBot) - A powerful, all\-in\-one Discord assistant built for every server  🛠️
 * 【2026-04-13】[Anil\-matcha / Open\-Generative\-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open\-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free AI image generation & cinema studio with 20+ models (Flux, SDXL, Midjourney, Ideogram)  Self\-hosted, customizable, MIT licensed 
 * 【2026-04-13】[robinebers / openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing  OpenUsage is free and open source 
@@ -4420,6 +4425,7 @@
 
 ## C
 
+* 【2026-04-15】[bellard / mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 * 【2026-04-14】[Limine-Bootloader / Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
 * 【2026-04-13】[Limine\-Bootloader / Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager 
 * 【2026-04-03】[ARM-software / CMSIS_6](https://github.com/ARM-software/CMSIS_6) - CMSIS version 6 (successor of CMSIS_5)
@@ -7313,6 +7319,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-04-15】[superradcompany / microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local, cross\-platform and programmable sandboxes for AI agents
+* 【2026-04-15】[Lampese / codex\-switcher](https://github.com/Lampese/codex-switcher) - A Desktop Application for Managing Multiple OpenAI Codex CLI Accounts
 * 【2026-04-13】[nearai / ironclaw](https://github.com/nearai/ironclaw) - IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security
 * 【2026-04-11】[qufei1993 / skills\-hub](https://github.com/qufei1993/skills-hub) - A cross\-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere” 
 * 【2026-04-09】[rivet\-dev / agent\-os](https://github.com/rivet-dev/agent-os) - A portable open\-source operating system for agents  ~6 ms coldstarts, 32x cheaper than sandboxes  Powered by WebAssembly and V8 isolates 
@@ -8286,6 +8294,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-04-15】[pablodelucca / pixel\-agents](https://github.com/pablodelucca/pixel-agents) - Pixel office 
+* 【2026-04-15】[vercel\-labs / skills](https://github.com/vercel-labs/skills) - The open agent skills tool \- npx skills
 * 【2026-04-14】[diegosouzapw / OmniRoute](https://github.com/diegosouzapw/OmniRoute) - OmniRoute is an AI gateway for multi\-provider LLMs: an OpenAI\-compatible endpoint with smart routing, load balancing, retries, and fallbacks  Add policies, rate limits, caching, and observability for reliable, cost\-aware inference 
 * 【2026-04-13】[jamiepine / voicebox](https://github.com/jamiepine/voicebox) - The open\-source voice synthesis studio
 * 【2026-04-13】[yousifamanuel / terraink](https://github.com/yousifamanuel/terraink) - TerraInk: The Cartographic Poster Engine that creates unique and customizable map posters
