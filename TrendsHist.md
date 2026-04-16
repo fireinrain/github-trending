@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-04-16】[vercel\-labs / open\-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents 
+* 【2026-04-16】[lsdefine / GenericAgent](https://github.com/lsdefine/GenericAgent) - Self\-evolving agent: grows skill tree from 3 3K\-line seed, achieving full system control with 6x less token consumption
+* 【2026-04-16】[Donchitos / Claude\-Code\-Game\-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy 
 * 【2026-04-15】[chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 * 【2026-04-13】[zhayujie / CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt\-on\-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。
 * 【2026-04-08】[forrestchang / andrej\-karpathy\-skills](https://github.com/forrestchang/andrej-karpathy-skills) - 
@@ -1673,6 +1676,7 @@
 
 ## Python
 
+* 【2026-04-16】[Tracer-Cloud / opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era ✨
 * 【2026-04-15】[hugohe3 / ppt\-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed
 * 【2026-04-15】[paperswithbacktest / awesome\-systematic\-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading 
 * 【2026-04-15】[Tracer\-Cloud / opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents  The open source toolkit for the AI era ✨
@@ -7319,6 +7323,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-04-16】[Ataraxy-Labs / sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 24 languages via tree-sitter.
+* 【2026-04-16】[Lampese / codex-switcher](https://github.com/Lampese/codex-switcher) - A Desktop Application for Managing Multiple OpenAI Codex CLI Accounts
+* 【2026-04-16】[hank9999 / kiro.rs](https://github.com/hank9999/kiro.rs) - A Kiro Client in Rust
 * 【2026-04-15】[superradcompany / microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local, cross\-platform and programmable sandboxes for AI agents
 * 【2026-04-15】[Lampese / codex\-switcher](https://github.com/Lampese/codex-switcher) - A Desktop Application for Managing Multiple OpenAI Codex CLI Accounts
 * 【2026-04-13】[nearai / ironclaw](https://github.com/nearai/ironclaw) - IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security
@@ -8294,6 +8301,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-04-16】[vercel-labs / open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents.
+* 【2026-04-16】[ColeMurray / background\-agents](https://github.com/ColeMurray/background-agents) - An open\-source background agents coding system
+* 【2026-04-16】[Fission-AI / OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
+* 【2026-04-16】[zhukunpenglinyutong / desktop\-cc\-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) - CC GUI 客户端（专为开发者打造的VibeCoding平台）
 * 【2026-04-15】[pablodelucca / pixel\-agents](https://github.com/pablodelucca/pixel-agents) - Pixel office 
 * 【2026-04-15】[vercel\-labs / skills](https://github.com/vercel-labs/skills) - The open agent skills tool \- npx skills
 * 【2026-04-14】[diegosouzapw / OmniRoute](https://github.com/diegosouzapw/OmniRoute) - OmniRoute is an AI gateway for multi\-provider LLMs: an OpenAI\-compatible endpoint with smart routing, load balancing, retries, and fallbacks  Add policies, rate limits, caching, and observability for reliable, cost\-aware inference 
