@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-04-18】[SimoneAvogadro / android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app's reverse engineering
+* 【2026-04-18】[Donchitos / Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+* 【2026-04-18】[pingdotgg / t3code](https://github.com/pingdotgg/t3code) - 
 * 【2026-04-17】[z-lab / dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 * 【2026-04-17】[EvoMap / evolver](https://github.com/EvoMap/evolver) - The GEP\-Powered Self\-Evolution Engine for AI Agents  Genome Evolution Protocol  \| evomap ai
 * 【2026-04-17】[SimoneAvogadro / android\-reverse\-engineering\-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app's reverse engineering
@@ -1221,6 +1224,8 @@
 
 ## Java
 
+* 【2026-04-18】[niumoo / bing\-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
+* 【2026-04-18】[PeterCxy / Shelter](https://github.com/PeterCxy/Shelter) - This repository is a mirror of https://gitea angry im/PeterCxy/Shelter  For bug reports, use https://lists sr ht/~petercxy/shelter
 * 【2026-04-14】[MegaMek / megamek](https://github.com/MegaMek/megamek) - MegaMek is a networked Java clone of BattleTech, a turn\-based sci\-fi boardgame for 2+ players  Fight using giant robots, tanks, and/or infantry on a hex\-based map 
 * 【2026-04-08】[DataDog / datadog\-api\-client\-java](https://github.com/DataDog/datadog-api-client-java) - Java client for the Datadog API
 * 【2026-04-04】[GTNewHorizons / GT5-Unofficial](https://github.com/GTNewHorizons/GT5-Unofficial) - Decompiled and modified version of GT5.07.07
@@ -1679,6 +1684,7 @@
 
 ## Python
 
+* 【2026-04-18】[nv\-tlabs / lyra](https://github.com/nv-tlabs/lyra) - Project Lyra: Open Generative 3D World Models
 * 【2026-04-17】[jundot / omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 * 【2026-04-17】[oobabooga / textgen](https://github.com/oobabooga/textgen) - The original local LLM interface  Text, vision, tool\-calling, training  UI + API, 100% offline and private 
 * 【2026-04-16】[Tracer-Cloud / opensre](https://github.com/Tracer-Cloud/opensre) - Build your own AI SRE agents. The open source toolkit for the AI era ✨
@@ -3096,6 +3102,7 @@
 
 ## Javascript
 
+* 【2026-04-18】[cursor / plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 * 【2026-04-17】[antvis / chart-visualization-skills](https://github.com/antvis/chart-visualization-skills) - ⛏️ Turning data into a visual language for better thinking with Skills.
 * 【2026-04-17】[0xsdeo / AntiDebug_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker) - JavaScript Reverse Tools \-\- JS逆向工具
 * 【2026-04-15】[antvis / chart\-visualization\-skills](https://github.com/antvis/chart-visualization-skills) - ⛏️ Turning data into a visual language for better thinking with Skills 
@@ -3834,6 +3841,8 @@
 
 ## Go
 
+* 【2026-04-18】[oisee / vibing\-steampunk](https://github.com/oisee/vibing-steampunk) - vs\-punk: ADT to MCP bridge \- Vibe code in ABAP / AMDP
+* 【2026-04-18】[matlab / matlab-mcp-core-server](https://github.com/matlab/matlab-mcp-core-server) - Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®. This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code.
 * 【2026-04-17】[runkids / skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing  Supporting Codex, Claude Code, OpenClaw & more
 * 【2026-04-14】[cirruslabs / orchard](https://github.com/cirruslabs/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
 * 【2026-04-13】[googleapis / mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
@@ -4437,6 +4446,7 @@
 
 ## C
 
+* 【2026-04-18】[Filoppi / Luma\-Framework](https://github.com/Filoppi/Luma-Framework) - Luma is DX11 games modding framework based on the ReShade Addon system  Multiple mods are currently included, the biggest one being Prey (2017), which refactors its post processing rendering phase (e g  adding HDR support, DLSS)  Mod list here: https://github com/Filoppi/Luma\-Framework/wiki/Mods\-List
 * 【2026-04-15】[bellard / mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 * 【2026-04-14】[Limine-Bootloader / Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
 * 【2026-04-13】[Limine\-Bootloader / Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager 
@@ -4914,6 +4924,7 @@
 
 ## C++
 
+* 【2026-04-18】[jarczakpawel / BMCU\-C\-PJARCZAK](https://github.com/jarczakpawel/BMCU-C-PJARCZAK) - BMCU 370C (Hall) firmware for Bambu Lab A1 / A1 mini / P1S with buffer calibration \- all known issues fixed, 100% AMS\-compatible behavior 
 * 【2026-04-17】[torch\-spyre / torch\-spyre](https://github.com/torch-spyre/torch-spyre) - 
 * 【2026-04-14】[lightgbm\-org / LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks 
 * 【2026-04-13】[nvidia-isaac / cuVSLAM](https://github.com/nvidia-isaac/cuVSLAM) - cuVSLAM: CUDA-Accelerated Visual Odometry and Mapping
@@ -5424,6 +5435,7 @@
 
 ## C#
 
+* 【2026-04-18】[aelassas / servy](https://github.com/aelassas/servy) - Run Any App as a Native Windows Service \- Modern Alternative to NSSM, WinSW & FireDaemon Pro
 * 【2026-04-17】[FakeFishGames / Barotrauma](https://github.com/FakeFishGames/Barotrauma) - A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa 
 * 【2026-04-14】[KSP-CKAN / CKAN](https://github.com/KSP-CKAN/CKAN) - The Comprehensive Kerbal Archive Network
 * 【2026-04-12】[ErsatzTV / ErsatzTV\-legacy](https://github.com/ErsatzTV/ErsatzTV-legacy) - Open\-source platform that transforms your personal media library into live, custom TV channels 
@@ -5943,6 +5955,7 @@
 
 ## Html
 
+* 【2026-04-18】[xindoo / agentic\-design\-patterns](https://github.com/xindoo/agentic-design-patterns) - 谷歌新书Agent设计模式(agentic design patterns)最佳中文版，持续优化。附：在线阅读、pdf和epub电子书下载。
 * 【2026-04-17】[microsoft / zerotrustassessment](https://github.com/microsoft/zerotrustassessment) - Repository for the Zero Trust Assessment project
 * 【2026-04-12】[gn-math / gn-math-DONTDMCA](https://github.com/gn-math/gn-math-DONTDMCA) - PLEASE DO NOT DMCA THIS, NO GAME ASSETS ARE HOSTED HERE
 * 【2026-04-11】[gn\-math / gn\-math\-DONTDMCA](https://github.com/gn-math/gn-math-DONTDMCA) - PLEASE DO NOT DMCA THIS, NO GAME ASSETS ARE HOSTED HERE
@@ -6546,6 +6559,7 @@
 
 ## Unknown
 
+* 【2026-04-18】[antonbabenko / terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 * 【2026-04-13】[Goochbeater / Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) - A repo for jailbreaking various LLMs, mainly Claude
 * 【2026-04-13】[aarora4 / Awesome\-Prediction\-Market\-Tools](https://github.com/aarora4/Awesome-Prediction-Market-Tools) - A curated list of Prediction Market Tools \- AI Agents, Analytics, APIs, Dashboards, Copy Trading, Alerting, Tracking and More!!
 * 【2026-04-13】[kepano / kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
@@ -7334,6 +7348,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-04-18】[firecrawl / pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 * 【2026-04-17】[firecrawl / pdf\-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction  Intelligently detects scanned vs text\-based PDFs to enable smart routing decisions 
 * 【2026-04-17】[NVIDIA / ncx\-infra\-controller\-core](https://github.com/NVIDIA/ncx-infra-controller-core) - NCX Infra Controller \- Hardware Lifecycle Management and multitenant networking
 * 【2026-04-17】[qxcnm / Codex-Manager](https://github.com/qxcnm/Codex-Manager) - 一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。
@@ -8316,6 +8331,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-04-18】[calcom / cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
+* 【2026-04-18】[sirmalloc / ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more 
 * 【2026-04-17】[calcom / cal diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone 
 * 【2026-04-17】[quemsah / awesome\-claude\-plugins](https://github.com/quemsah/awesome-claude-plugins) - Automated collection of Claude Code plugin adoption metrics across GitHub repositories using n8n workflows
 * 【2026-04-16】[vercel-labs / open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents.
