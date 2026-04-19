@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-04-19】[thunderbird / thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models  Own your data  Eliminate vendor lock\-in 
+* 【2026-04-19】[aaddrick / claude\-desktop\-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Debian\-based Linux distributions
+* 【2026-04-19】[tractorjuice / arc\-kit](https://github.com/tractorjuice/arc-kit) - Enterprise Architecture Governance & Vendor Procurement Toolkit
 * 【2026-04-18】[SimoneAvogadro / android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) - Claude Code skill to support Android app's reverse engineering
 * 【2026-04-18】[Donchitos / Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 * 【2026-04-18】[pingdotgg / t3code](https://github.com/pingdotgg/t3code) - 
@@ -1224,6 +1227,7 @@
 
 ## Java
 
+* 【2026-04-19】[AzureAD / microsoft\-authentication\-library\-common\-for\-android](https://github.com/AzureAD/microsoft-authentication-library-common-for-android) - Common code used by both the Active Directory Authentication Library (ADAL) and the Microsoft Authentication Library (MSAL)
 * 【2026-04-18】[niumoo / bing\-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
 * 【2026-04-18】[PeterCxy / Shelter](https://github.com/PeterCxy/Shelter) - This repository is a mirror of https://gitea angry im/PeterCxy/Shelter  For bug reports, use https://lists sr ht/~petercxy/shelter
 * 【2026-04-14】[MegaMek / megamek](https://github.com/MegaMek/megamek) - MegaMek is a networked Java clone of BattleTech, a turn\-based sci\-fi boardgame for 2+ players  Fight using giant robots, tanks, and/or infantry on a hex\-based map 
@@ -1684,6 +1688,8 @@
 
 ## Python
 
+* 【2026-04-19】[nv-tlabs / lyra](https://github.com/nv-tlabs/lyra) - Project Lyra: Open Generative 3D World Models
+* 【2026-04-19】[AI4Finance-Foundation / FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) - FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading
 * 【2026-04-18】[nv\-tlabs / lyra](https://github.com/nv-tlabs/lyra) - Project Lyra: Open Generative 3D World Models
 * 【2026-04-17】[jundot / omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 * 【2026-04-17】[oobabooga / textgen](https://github.com/oobabooga/textgen) - The original local LLM interface  Text, vision, tool\-calling, training  UI + API, 100% offline and private 
@@ -3102,6 +3108,8 @@
 
 ## Javascript
 
+* 【2026-04-19】[prem\-k\-r / MaterialYouNewTab](https://github.com/prem-k-r/MaterialYouNewTab) - MY NewTab: A Simple New Tab (browser's home page) inspired with Google's 'Material You' design
+* 【2026-04-19】[firebase / agent\-skills](https://github.com/firebase/agent-skills) - Agent Skills for Firebase
 * 【2026-04-18】[cursor / plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 * 【2026-04-17】[antvis / chart-visualization-skills](https://github.com/antvis/chart-visualization-skills) - ⛏️ Turning data into a visual language for better thinking with Skills.
 * 【2026-04-17】[0xsdeo / AntiDebug_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker) - JavaScript Reverse Tools \-\- JS逆向工具
@@ -5955,6 +5963,8 @@
 
 ## Html
 
+* 【2026-04-19】[tractorjuice / arc-kit](https://github.com/tractorjuice/arc-kit) - Enterprise Architecture Governance & Vendor Procurement Toolkit
+* 【2026-04-19】[xindoo / agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns) - 谷歌新书Agent设计模式(agentic design patterns)最佳中文版，持续优化。附：在线阅读、pdf和epub电子书下载。
 * 【2026-04-18】[xindoo / agentic\-design\-patterns](https://github.com/xindoo/agentic-design-patterns) - 谷歌新书Agent设计模式(agentic design patterns)最佳中文版，持续优化。附：在线阅读、pdf和epub电子书下载。
 * 【2026-04-17】[microsoft / zerotrustassessment](https://github.com/microsoft/zerotrustassessment) - Repository for the Zero Trust Assessment project
 * 【2026-04-12】[gn-math / gn-math-DONTDMCA](https://github.com/gn-math/gn-math-DONTDMCA) - PLEASE DO NOT DMCA THIS, NO GAME ASSETS ARE HOSTED HERE
@@ -6559,6 +6569,10 @@
 
 ## Unknown
 
+* 【2026-04-19】[multica\-ai / andrej\-karpathy\-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls 
+* 【2026-04-19】[KalyanKS-NLP / llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of 120+ LLM libraries category wise.
+* 【2026-04-19】[QwenLM / Qwen3 6](https://github.com/QwenLM/Qwen3.6) - Qwen3 6 is the large language model series developed by Qwen team, Alibaba Group 
+* 【2026-04-19】[anthropics / claude\-ai\-mcp](https://github.com/anthropics/claude-ai-mcp) - 
 * 【2026-04-18】[antonbabenko / terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 * 【2026-04-13】[Goochbeater / Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) - A repo for jailbreaking various LLMs, mainly Claude
 * 【2026-04-13】[aarora4 / Awesome\-Prediction\-Market\-Tools](https://github.com/aarora4/Awesome-Prediction-Market-Tools) - A curated list of Prediction Market Tools \- AI Agents, Analytics, APIs, Dashboards, Copy Trading, Alerting, Tracking and More!!
@@ -8331,6 +8345,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-04-19】[bitwarden / ai\-plugins](https://github.com/bitwarden/ai-plugins) - AI plugin marketplace 
 * 【2026-04-18】[calcom / cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 * 【2026-04-18】[sirmalloc / ccstatusline](https://github.com/sirmalloc/ccstatusline) - 🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more 
 * 【2026-04-17】[calcom / cal diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone 
