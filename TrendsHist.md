@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-04-20】[Fincept\-Corporation / FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data\-driven decision\-making in a user\-friendly environment 
 * 【2026-04-19】[thunderbird / thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models  Own your data  Eliminate vendor lock\-in 
 * 【2026-04-19】[aaddrick / claude\-desktop\-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Debian\-based Linux distributions
 * 【2026-04-19】[tractorjuice / arc\-kit](https://github.com/tractorjuice/arc-kit) - Enterprise Architecture Governance & Vendor Procurement Toolkit
@@ -1227,6 +1228,7 @@
 
 ## Java
 
+* 【2026-04-20】[DataDog / datadog-api-client-java](https://github.com/DataDog/datadog-api-client-java) - Java client for the Datadog API
 * 【2026-04-19】[AzureAD / microsoft\-authentication\-library\-common\-for\-android](https://github.com/AzureAD/microsoft-authentication-library-common-for-android) - Common code used by both the Active Directory Authentication Library (ADAL) and the Microsoft Authentication Library (MSAL)
 * 【2026-04-18】[niumoo / bing\-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
 * 【2026-04-18】[PeterCxy / Shelter](https://github.com/PeterCxy/Shelter) - This repository is a mirror of https://gitea angry im/PeterCxy/Shelter  For bug reports, use https://lists sr ht/~petercxy/shelter
@@ -1688,6 +1690,9 @@
 
 ## Python
 
+* 【2026-04-20】[Fincept-Corporation / FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+* 【2026-04-20】[barry\-far / V2ray\-Config](https://github.com/barry-far/V2ray-Config) - Free V2ray Configs, Updating Every 15 minutes  🚀🌐
+* 【2026-04-20】[sngyai / Sequoia\-X](https://github.com/sngyai/Sequoia-X) - A股自动选股程序，实现了海龟交易法则、缠中说禅牛市买点，以及其他若干种技术形态
 * 【2026-04-19】[nv-tlabs / lyra](https://github.com/nv-tlabs/lyra) - Project Lyra: Open Generative 3D World Models
 * 【2026-04-19】[AI4Finance-Foundation / FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) - FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading
 * 【2026-04-18】[nv\-tlabs / lyra](https://github.com/nv-tlabs/lyra) - Project Lyra: Open Generative 3D World Models
@@ -3108,6 +3113,7 @@
 
 ## Javascript
 
+* 【2026-04-20】[prem-k-r / MaterialYouNewTab](https://github.com/prem-k-r/MaterialYouNewTab) - MY NewTab: A Simple New Tab (browser's home page) inspired with Google's 'Material You' design
 * 【2026-04-19】[prem\-k\-r / MaterialYouNewTab](https://github.com/prem-k-r/MaterialYouNewTab) - MY NewTab: A Simple New Tab (browser's home page) inspired with Google's 'Material You' design
 * 【2026-04-19】[firebase / agent\-skills](https://github.com/firebase/agent-skills) - Agent Skills for Firebase
 * 【2026-04-18】[cursor / plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
@@ -3849,6 +3855,8 @@
 
 ## Go
 
+* 【2026-04-20】[tphakala / birdnet\-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer
+* 【2026-04-20】[HexmosTech / git\-lrc](https://github.com/HexmosTech/git-lrc) - Free, Unlimited AI Code Reviews That Run on Commit
 * 【2026-04-18】[oisee / vibing\-steampunk](https://github.com/oisee/vibing-steampunk) - vs\-punk: ADT to MCP bridge \- Vibe code in ABAP / AMDP
 * 【2026-04-18】[matlab / matlab-mcp-core-server](https://github.com/matlab/matlab-mcp-core-server) - Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®. This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code.
 * 【2026-04-17】[runkids / skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing  Supporting Codex, Claude Code, OpenClaw & more
@@ -4454,6 +4462,7 @@
 
 ## C
 
+* 【2026-04-20】[iczelia / bzip3](https://github.com/iczelia/bzip3) - A better and stronger spiritual successor to BZip2 
 * 【2026-04-18】[Filoppi / Luma\-Framework](https://github.com/Filoppi/Luma-Framework) - Luma is DX11 games modding framework based on the ReShade Addon system  Multiple mods are currently included, the biggest one being Prey (2017), which refactors its post processing rendering phase (e g  adding HDR support, DLSS)  Mod list here: https://github com/Filoppi/Luma\-Framework/wiki/Mods\-List
 * 【2026-04-15】[bellard / mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
 * 【2026-04-14】[Limine-Bootloader / Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
@@ -5443,6 +5452,7 @@
 
 ## C#
 
+* 【2026-04-20】[Seafoam\-Labs / Shelly\-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind 
 * 【2026-04-18】[aelassas / servy](https://github.com/aelassas/servy) - Run Any App as a Native Windows Service \- Modern Alternative to NSSM, WinSW & FireDaemon Pro
 * 【2026-04-17】[FakeFishGames / Barotrauma](https://github.com/FakeFishGames/Barotrauma) - A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa 
 * 【2026-04-14】[KSP-CKAN / CKAN](https://github.com/KSP-CKAN/CKAN) - The Comprehensive Kerbal Archive Network
@@ -6569,6 +6579,8 @@
 
 ## Unknown
 
+* 【2026-04-20】[hesamsheikh / awesome\-openclaw\-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier 
+* 【2026-04-20】[QwenLM / Qwen3.6](https://github.com/QwenLM/Qwen3.6) - Qwen3.6 is the large language model series developed by Qwen team, Alibaba Group.
 * 【2026-04-19】[multica\-ai / andrej\-karpathy\-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls 
 * 【2026-04-19】[KalyanKS-NLP / llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of 120+ LLM libraries category wise.
 * 【2026-04-19】[QwenLM / Qwen3 6](https://github.com/QwenLM/Qwen3.6) - Qwen3 6 is the large language model series developed by Qwen team, Alibaba Group 
@@ -7362,6 +7374,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-04-20】[tw93 / Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out\-of\-the\-box terminal built for AI coding 
 * 【2026-04-18】[firecrawl / pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 * 【2026-04-17】[firecrawl / pdf\-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction  Intelligently detects scanned vs text\-based PDFs to enable smart routing decisions 
 * 【2026-04-17】[NVIDIA / ncx\-infra\-controller\-core](https://github.com/NVIDIA/ncx-infra-controller-core) - NCX Infra Controller \- Hardware Lifecycle Management and multitenant networking
