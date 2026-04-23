@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-04-23】[vercel-labs / skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 * 【2026-04-22】[dayanch96 / YTLite](https://github.com/dayanch96/YTLite) - A flexible enhancer for YouTube on iOS
 * 【2026-04-20】[Fincept\-Corporation / FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data\-driven decision\-making in a user\-friendly environment 
 * 【2026-04-19】[thunderbird / thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models  Own your data  Eliminate vendor lock\-in 
@@ -1229,6 +1230,8 @@
 
 ## Java
 
+* 【2026-04-23】[xandergos / terrain\-diffusion\-mc](https://github.com/xandergos/terrain-diffusion-mc) - 
+* 【2026-04-23】[iterate-ch / cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 * 【2026-04-20】[DataDog / datadog-api-client-java](https://github.com/DataDog/datadog-api-client-java) - Java client for the Datadog API
 * 【2026-04-19】[AzureAD / microsoft\-authentication\-library\-common\-for\-android](https://github.com/AzureAD/microsoft-authentication-library-common-for-android) - Common code used by both the Active Directory Authentication Library (ADAL) and the Microsoft Authentication Library (MSAL)
 * 【2026-04-18】[niumoo / bing\-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
@@ -3120,6 +3123,7 @@
 
 ## Javascript
 
+* 【2026-04-23】[a5c\-ai / babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination\-free self\-orchestration
 * 【2026-04-22】[Anil-matcha / Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 * 【2026-04-21】[bugbasesecurity / pentest\-copilot](https://github.com/bugbasesecurity/pentest-copilot) - Pentest Copilot is an AI\-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows 
 * 【2026-04-20】[prem-k-r / MaterialYouNewTab](https://github.com/prem-k-r/MaterialYouNewTab) - MY NewTab: A Simple New Tab (browser's home page) inspired with Google's 'Material You' design
@@ -5989,6 +5993,7 @@
 
 ## Html
 
+* 【2026-04-23】[pedrohcgs / claude\-code\-my\-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) - A ready\-to\-fork Claude Code template for academics using LaTeX/Beamer + R  Multi\-agent review, quality gates, adversarial QA, and replication protocols 
 * 【2026-04-21】[mergisi / awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 * 【2026-04-19】[tractorjuice / arc-kit](https://github.com/tractorjuice/arc-kit) - Enterprise Architecture Governance & Vendor Procurement Toolkit
 * 【2026-04-19】[xindoo / agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns) - 谷歌新书Agent设计模式(agentic design patterns)最佳中文版，持续优化。附：在线阅读、pdf和epub电子书下载。
@@ -6596,6 +6601,9 @@
 
 ## Unknown
 
+* 【2026-04-23】[iCHAIT / awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
+* 【2026-04-23】[MoonshotAI / Kimi\-K2 5](https://github.com/MoonshotAI/Kimi-K2.5) - Moonshot's most powerful model
+* 【2026-04-23】[op7418 / Humanizer\-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 * 【2026-04-22】[eudk / awesome\-ai\-tools](https://github.com/eudk/awesome-ai-tools) - 🔴 VERY LARGE AI TOOL LIST! 🔴 Curated list of AI Tools \- Updated 2026
 * 【2026-04-20】[hesamsheikh / awesome\-openclaw\-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier 
 * 【2026-04-20】[QwenLM / Qwen3.6](https://github.com/QwenLM/Qwen3.6) - Qwen3.6 is the large language model series developed by Qwen team, Alibaba Group.
@@ -7392,6 +7400,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-04-23】[rtk\-ai / rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60\-90% on common dev commands  Single Rust binary, zero dependencies
 * 【2026-04-21】[tailcallhq / forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 * 【2026-04-20】[tw93 / Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out\-of\-the\-box terminal built for AI coding 
 * 【2026-04-18】[firecrawl / pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
@@ -8377,6 +8386,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-04-23】[vscode-icons / vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
 * 【2026-04-22】[feremabraz / bloomberg\-terminal](https://github.com/feremabraz/bloomberg-terminal) - Bloomberg\-like terminal with AI  It uses Redis with AlphaVantage data and local simulations to avoid hitting the API too much 
 * 【2026-04-21】[zilliztech / claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 * 【2026-04-21】[vercel\-labs / portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs  For humans and agents 
