@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-04-24】[huggingface / ml\-intern](https://github.com/huggingface/ml-intern) - 🤗 ml\-intern: an open\-source ML engineer that reads papers, trains models, and ships ML models
+* 【2026-04-24】[mksglu / context\-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents  Sandboxes tool output, 98% reduction  12 platforms
 * 【2026-04-23】[vercel-labs / skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 * 【2026-04-22】[dayanch96 / YTLite](https://github.com/dayanch96/YTLite) - A flexible enhancer for YouTube on iOS
 * 【2026-04-20】[Fincept\-Corporation / FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data\-driven decision\-making in a user\-friendly environment 
@@ -1230,6 +1232,7 @@
 
 ## Java
 
+* 【2026-04-24】[xandergos / terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc) - 
 * 【2026-04-23】[xandergos / terrain\-diffusion\-mc](https://github.com/xandergos/terrain-diffusion-mc) - 
 * 【2026-04-23】[iterate-ch / cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 * 【2026-04-20】[DataDog / datadog-api-client-java](https://github.com/DataDog/datadog-api-client-java) - Java client for the Datadog API
@@ -1694,6 +1697,7 @@
 
 ## Python
 
+* 【2026-04-24】[huggingface / ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 * 【2026-04-22】[OthmanAdi / planning\-with\-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus\-style persistent markdown planning — the workflow pattern behind the $2B acquisition 
 * 【2026-04-22】[PrefectHQ / fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients 
 * 【2026-04-21】[alexzhang13 / rlm](https://github.com/alexzhang13/rlm) - General plug\-and\-play inference library for Recursive Language Models (RLMs), supporting various sandboxes 
@@ -3123,6 +3127,9 @@
 
 ## Javascript
 
+* 【2026-04-24】[Mathieu2301 / TradingView\-API](https://github.com/Mathieu2301/TradingView-API) - 📈 Get real\-time stocks from TradingView
+* 【2026-04-24】[XCQ0607 / lxserver](https://github.com/XCQ0607/lxserver) - LX Music 数据同步服务端，同时支持了部分lx\-music\-desktop的网页端实现。
+* 【2026-04-24】[microsoft / power\-platform\-skills](https://github.com/microsoft/power-platform-skills) - A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions 
 * 【2026-04-23】[a5c\-ai / babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination\-free self\-orchestration
 * 【2026-04-22】[Anil-matcha / Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 * 【2026-04-21】[bugbasesecurity / pentest\-copilot](https://github.com/bugbasesecurity/pentest-copilot) - Pentest Copilot is an AI\-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows 
@@ -4960,6 +4967,7 @@
 
 ## C++
 
+* 【2026-04-24】[intel / llm\-scaler](https://github.com/intel/llm-scaler) - 
 * 【2026-04-18】[jarczakpawel / BMCU\-C\-PJARCZAK](https://github.com/jarczakpawel/BMCU-C-PJARCZAK) - BMCU 370C (Hall) firmware for Bambu Lab A1 / A1 mini / P1S with buffer calibration \- all known issues fixed, 100% AMS\-compatible behavior 
 * 【2026-04-17】[torch\-spyre / torch\-spyre](https://github.com/torch-spyre/torch-spyre) - 
 * 【2026-04-14】[lightgbm\-org / LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks 
@@ -5471,6 +5479,7 @@
 
 ## C#
 
+* 【2026-04-24】[AgOpenGPS\-Official / AgOpenGPS](https://github.com/AgOpenGPS-Official/AgOpenGPS) - Ag Precision Mapping, Section Control and Guidance Software
 * 【2026-04-22】[BasisVR / Basis](https://github.com/BasisVR/Basis) - Basis is an open\-source social framework for VR and Desktop usage 
 * 【2026-04-20】[Seafoam\-Labs / Shelly\-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind 
 * 【2026-04-18】[aelassas / servy](https://github.com/aelassas/servy) - Run Any App as a Native Windows Service \- Modern Alternative to NSSM, WinSW & FireDaemon Pro
@@ -6601,6 +6610,8 @@
 
 ## Unknown
 
+* 【2026-04-24】[LukasNiessen / terrashark](https://github.com/LukasNiessen/terrashark) - Terraform Skill for Claude Code and Codex  LLMs hallucinate a lot with Terraform \- TerraShark fixes this  It eliminates hallucinations, is designed for modular and secure code and grounds your IaC in the official Hashicorp Terraform best practices 
+* 【2026-04-24】[microsoft / powerbi\-modeling\-mcp](https://github.com/microsoft/powerbi-modeling-mcp) - The Power BI Modeling MCP Server, brings Power BI semantic modeling capabilities to your AI agents 
 * 【2026-04-23】[iCHAIT / awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 * 【2026-04-23】[MoonshotAI / Kimi\-K2 5](https://github.com/MoonshotAI/Kimi-K2.5) - Moonshot's most powerful model
 * 【2026-04-23】[op7418 / Humanizer\-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
@@ -7400,6 +7411,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-04-24】[emanuele\-em / proxelar](https://github.com/emanuele-em/proxelar) - A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your app is doing  Forward & reverse modes, TLS interception, TUI, terminal, and web GUI 
+* 【2026-04-24】[rtk-ai / rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+* 【2026-04-24】[AlexsJones / llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers  One command to find what runs on your hardware 
 * 【2026-04-23】[rtk\-ai / rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60\-90% on common dev commands  Single Rust binary, zero dependencies
 * 【2026-04-21】[tailcallhq / forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 * 【2026-04-20】[tw93 / Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out\-of\-the\-box terminal built for AI coding 
@@ -8386,6 +8400,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-04-24】[mksglu / context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms
+* 【2026-04-24】[phodal / routa](https://github.com/phodal/routa) - Workspace\-first multi\-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/ A2A support across web and desktop 
+* 【2026-04-24】[potato47 / ccc\-devtools](https://github.com/potato47/ccc-devtools) - Cocos Creator 网页调试工具，运行时查看、修改节点树，实时更新节点属性，可视化显示缓存资源。
 * 【2026-04-23】[vscode-icons / vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code
 * 【2026-04-22】[feremabraz / bloomberg\-terminal](https://github.com/feremabraz/bloomberg-terminal) - Bloomberg\-like terminal with AI  It uses Redis with AlphaVantage data and local simulations to avoid hitting the API too much 
 * 【2026-04-21】[zilliztech / claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
