@@ -1,5 +1,9 @@
 ## All language
 
+* 【2026-04-26】[mattpocock / skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my  claude directory 
+* 【2026-04-26】[RooCodeInc / Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
+* 【2026-04-26】[Universal\-Commerce\-Protocol / ucp](https://github.com/Universal-Commerce-Protocol/ucp) - Specification and documentation for the Universal Commerce Protocol (UCP)
+* 【2026-04-26】[ComposioHQ / awesome\-codex\-skills](https://github.com/ComposioHQ/awesome-codex-skills) - A curated list of practical Codex skills for automating workflows across the Codex CLI and API 
 * 【2026-04-25】[higress\-group / higress](https://github.com/higress-group/higress) - 🤖 AI Gateway \| AI Native API Gateway
 * 【2026-04-24】[huggingface / ml\-intern](https://github.com/huggingface/ml-intern) - 🤗 ml\-intern: an open\-source ML engineer that reads papers, trains models, and ships ML models
 * 【2026-04-24】[mksglu / context\-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents  Sandboxes tool output, 98% reduction  12 platforms
@@ -1233,6 +1237,7 @@
 
 ## Java
 
+* 【2026-04-26】[ByteByteGoHq / coding\-interview\-patterns](https://github.com/ByteByteGoHq/coding-interview-patterns) - 
 * 【2026-04-25】[spring-ai-community / spring-ai-agent-utils](https://github.com/spring-ai-community/spring-ai-agent-utils) - A Spring AI library that brings Claude Code-inspired tools and agent skills to your AI applications.
 * 【2026-04-24】[xandergos / terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc) - 
 * 【2026-04-23】[xandergos / terrain\-diffusion\-mc](https://github.com/xandergos/terrain-diffusion-mc) - 
@@ -1699,6 +1704,9 @@
 
 ## Python
 
+* 【2026-04-26】[Universal-Commerce-Protocol / ucp](https://github.com/Universal-Commerce-Protocol/ucp) - Specification and documentation for the Universal Commerce Protocol (UCP)
+* 【2026-04-26】[ComposioHQ / awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+* 【2026-04-26】[zilliztech / memsearch](https://github.com/zilliztech/memsearch) - A Markdown\-first memory system, a standalone library for any AI agent  Inspired by OpenClaw 
 * 【2026-04-24】[huggingface / ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 * 【2026-04-22】[OthmanAdi / planning\-with\-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus\-style persistent markdown planning — the workflow pattern behind the $2B acquisition 
 * 【2026-04-22】[PrefectHQ / fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients 
@@ -3129,6 +3137,8 @@
 
 ## Javascript
 
+* 【2026-04-26】[Haleclipse / CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild) - Codex Desktop App - Cross-platform Rebuild
+* 【2026-04-26】[browserbase / skills](https://github.com/browserbase/skills) - Claude Agent SDK with a web browsing tool
 * 【2026-04-25】[Mathieu2301 / TradingView-API](https://github.com/Mathieu2301/TradingView-API) - 📈 Get real-time stocks from TradingView
 * 【2026-04-25】[linagora / twake-drive](https://github.com/linagora/twake-drive) - Twake Drive Web App
 * 【2026-04-24】[Mathieu2301 / TradingView\-API](https://github.com/Mathieu2301/TradingView-API) - 📈 Get real\-time stocks from TradingView
@@ -3879,6 +3889,7 @@
 
 ## Go
 
+* 【2026-04-26】[gastownhall / gascity](https://github.com/gastownhall/gascity) - Orchestration\-builder SDK for multi\-agent coding workflows
 * 【2026-04-25】[operacle / checkcle](https://github.com/operacle/checkcle) - CheckCle is a self\-hosted, open\-source monitoring platform for seamless, real\-time full\-stack systems, applications, and infrastructure  It provides real\-time uptime monitoring, distributed checks, incident tracking, and alerts  All deployable anywhere 
 * 【2026-04-25】[gastownhall / beads](https://github.com/gastownhall/beads) - Beads \- A memory upgrade for your coding agent
 * 【2026-04-25】[higress-group / higress](https://github.com/higress-group/higress) - 🤖 AI Gateway | AI Native API Gateway
@@ -5487,6 +5498,8 @@
 
 ## C#
 
+* 【2026-04-26】[k1tbyte / Wand\-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) - Advanced UX and interoperability extension for Wand (WeMod) app
+* 【2026-04-26】[Rhythia / Client](https://github.com/Rhythia/Client) - Aim\-based rhythm game client, built in Godot 4
 * 【2026-04-25】[Facepunch / Facepunch Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Another fucking c\# Steamworks implementation
 * 【2026-04-24】[AgOpenGPS\-Official / AgOpenGPS](https://github.com/AgOpenGPS-Official/AgOpenGPS) - Ag Precision Mapping, Section Control and Guidance Software
 * 【2026-04-22】[BasisVR / Basis](https://github.com/BasisVR/Basis) - Basis is an open\-source social framework for VR and Desktop usage 
@@ -6620,6 +6633,7 @@
 
 ## Unknown
 
+* 【2026-04-26】[hardikpandya / stop\-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 * 【2026-04-24】[LukasNiessen / terrashark](https://github.com/LukasNiessen/terrashark) - Terraform Skill for Claude Code and Codex  LLMs hallucinate a lot with Terraform \- TerraShark fixes this  It eliminates hallucinations, is designed for modular and secure code and grounds your IaC in the official Hashicorp Terraform best practices 
 * 【2026-04-24】[microsoft / powerbi\-modeling\-mcp](https://github.com/microsoft/powerbi-modeling-mcp) - The Power BI Modeling MCP Server, brings Power BI semantic modeling capabilities to your AI agents 
 * 【2026-04-23】[iCHAIT / awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -7421,6 +7435,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-04-26】[tinyhumansai / openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence  Private, Simple and extremely powerful 
+* 【2026-04-26】[zed-industries / codex-acp](https://github.com/zed-industries/codex-acp) - 
+* 【2026-04-26】[kenforthewin / atomic](https://github.com/kenforthewin/atomic) - Self\-hosted, semantically\-connected personal knowledge base
 * 【2026-04-25】[zed\-industries / codex\-acp](https://github.com/zed-industries/codex-acp) - 
 * 【2026-04-25】[tonhowtf / omniget](https://github.com/tonhowtf/omniget) - Desktop app to download videos, courses  YouTube, Instagram, TikTok, Bilibili (哔哩哔哩), Douyin (抖音), 小红书, 快手, 优酷, Hotmart, Udemy, Kiwify, Telegram, and 1000+ more via yt\-dlp  Download torrents and send files between devices over P2P 
 * 【2026-04-24】[emanuele\-em / proxelar](https://github.com/emanuele-em/proxelar) - A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your app is doing  Forward & reverse modes, TLS interception, TUI, terminal, and web GUI 
@@ -8412,6 +8429,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-04-26】[nilbuild / developer\-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers 
+* 【2026-04-26】[vrtmrz / obsidian\-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
+* 【2026-04-26】[alvinunreal / oh\-my\-opencode\-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine\-tuned oh\-my\-opencode fork, consumes much less tokens
 * 【2026-04-25】[Adam-CAD / CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
 * 【2026-04-24】[mksglu / context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms
 * 【2026-04-24】[phodal / routa](https://github.com/phodal/routa) - Workspace\-first multi\-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/ A2A support across web and desktop 
