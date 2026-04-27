@@ -3137,6 +3137,8 @@
 
 ## Javascript
 
+* 【2026-04-27】[LibreSpark / LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
+* 【2026-04-27】[libnoname / noname](https://github.com/libnoname/noname) - 
 * 【2026-04-26】[Haleclipse / CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild) - Codex Desktop App - Cross-platform Rebuild
 * 【2026-04-26】[browserbase / skills](https://github.com/browserbase/skills) - Claude Agent SDK with a web browsing tool
 * 【2026-04-25】[Mathieu2301 / TradingView-API](https://github.com/Mathieu2301/TradingView-API) - 📈 Get real-time stocks from TradingView
@@ -3889,6 +3891,9 @@
 
 ## Go
 
+* 【2026-04-27】[agentscope\-ai / HiClaw](https://github.com/agentscope-ai/HiClaw) - An open\-source Collaborative Multi\-Agent OS for transparent, human\-in\-the\-loop task coordination via Matrix rooms 
+* 【2026-04-27】[ParsaKSH / spoof-tunnel](https://github.com/ParsaKSH/spoof-tunnel) - client-server tunnel with IP-Spoofing
+* 【2026-04-27】[Gentleman\-Programming / engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents  Agent\-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI 
 * 【2026-04-26】[gastownhall / gascity](https://github.com/gastownhall/gascity) - Orchestration\-builder SDK for multi\-agent coding workflows
 * 【2026-04-25】[operacle / checkcle](https://github.com/operacle/checkcle) - CheckCle is a self\-hosted, open\-source monitoring platform for seamless, real\-time full\-stack systems, applications, and infrastructure  It provides real\-time uptime monitoring, distributed checks, incident tracking, and alerts  All deployable anywhere 
 * 【2026-04-25】[gastownhall / beads](https://github.com/gastownhall/beads) - Beads \- A memory upgrade for your coding agent
@@ -4504,6 +4509,7 @@
 
 ## C
 
+* 【2026-04-27】[DeusData / codebase\-memory\-mcp](https://github.com/DeusData/codebase-memory-mcp) - High\-performance code intelligence MCP server  Indexes codebases into a persistent knowledge graph — average repo in milliseconds  66 languages, sub\-ms queries, 99% fewer tokens  Single static binary, zero dependencies 
 * 【2026-04-25】[m5stack / StackChan](https://github.com/m5stack/StackChan) - StackChan open source!
 * 【2026-04-22】[Mbed\-TLS / TF\-PSA\-Crypto](https://github.com/Mbed-TLS/TF-PSA-Crypto) - Reference implementation of the PSA Cryptography API
 * 【2026-04-21】[Zaneham / BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open\-source CUDA compiler targeting multiple GPU architectures  Compiles  cu to AMD and Tenstorrent GPU's
@@ -4986,6 +4992,7 @@
 
 ## C++
 
+* 【2026-04-27】[tile\-ai / tilelang\-ascend](https://github.com/tile-ai/tilelang-ascend) - Ascend TileLang adapter
 * 【2026-04-24】[intel / llm\-scaler](https://github.com/intel/llm-scaler) - 
 * 【2026-04-18】[jarczakpawel / BMCU\-C\-PJARCZAK](https://github.com/jarczakpawel/BMCU-C-PJARCZAK) - BMCU 370C (Hall) firmware for Bambu Lab A1 / A1 mini / P1S with buffer calibration \- all known issues fixed, 100% AMS\-compatible behavior 
 * 【2026-04-17】[torch\-spyre / torch\-spyre](https://github.com/torch-spyre/torch-spyre) - 
@@ -5498,6 +5505,7 @@
 
 ## C#
 
+* 【2026-04-27】[k1tbyte / Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) - Advanced UX and interoperability extension for Wand (WeMod) app
 * 【2026-04-26】[k1tbyte / Wand\-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) - Advanced UX and interoperability extension for Wand (WeMod) app
 * 【2026-04-26】[Rhythia / Client](https://github.com/Rhythia/Client) - Aim\-based rhythm game client, built in Godot 4
 * 【2026-04-25】[Facepunch / Facepunch Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Another fucking c\# Steamworks implementation
@@ -7435,6 +7443,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-04-27】[brave / adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 * 【2026-04-26】[tinyhumansai / openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence  Private, Simple and extremely powerful 
 * 【2026-04-26】[zed-industries / codex-acp](https://github.com/zed-industries/codex-acp) - 
 * 【2026-04-26】[kenforthewin / atomic](https://github.com/kenforthewin/atomic) - Self\-hosted, semantically\-connected personal knowledge base
@@ -8429,6 +8438,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-04-27】[different-ai / openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
 * 【2026-04-26】[nilbuild / developer\-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers 
 * 【2026-04-26】[vrtmrz / obsidian\-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
 * 【2026-04-26】[alvinunreal / oh\-my\-opencode\-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine\-tuned oh\-my\-opencode fork, consumes much less tokens
