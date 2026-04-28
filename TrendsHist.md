@@ -1237,6 +1237,7 @@
 
 ## Java
 
+* 【2026-04-28】[MojoLauncher / MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) - A Minecraft: Java Edition launcher, based on PojavLauncher
 * 【2026-04-26】[ByteByteGoHq / coding\-interview\-patterns](https://github.com/ByteByteGoHq/coding-interview-patterns) - 
 * 【2026-04-25】[spring-ai-community / spring-ai-agent-utils](https://github.com/spring-ai-community/spring-ai-agent-utils) - A Spring AI library that brings Claude Code-inspired tools and agent skills to your AI applications.
 * 【2026-04-24】[xandergos / terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc) - 
@@ -1704,6 +1705,10 @@
 
 ## Python
 
+* 【2026-04-28】[hydropix / TranslateBooksWithLLMs](https://github.com/hydropix/TranslateBooksWithLLMs) - Translate full\-length books and documents with Ollama, OpenAI (comptatible), Gemini, Mistral, Poe or OpenRouter  Preserves formatting  Resumes where you left off  No file size limits 
+* 【2026-04-28】[nikopueringer / CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
+* 【2026-04-28】[openai / openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) - Demo of a customer service use case implemented with the OpenAI Agents SDK
+* 【2026-04-28】[facebookresearch / ai4animationpy](https://github.com/facebookresearch/ai4animationpy) - A Python framework for AI\-driven character animation using neural networks 
 * 【2026-04-26】[Universal-Commerce-Protocol / ucp](https://github.com/Universal-Commerce-Protocol/ucp) - Specification and documentation for the Universal Commerce Protocol (UCP)
 * 【2026-04-26】[ComposioHQ / awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 * 【2026-04-26】[zilliztech / memsearch](https://github.com/zilliztech/memsearch) - A Markdown\-first memory system, a standalone library for any AI agent  Inspired by OpenClaw 
@@ -3137,6 +3142,8 @@
 
 ## Javascript
 
+* 【2026-04-28】[fspecii / ace\-step\-ui](https://github.com/fspecii/ace-step-ui) - 🎵 The Ultimate Open Source Suno Alternative \- Professional UI for ACE\-Step 1 5 AI Music Generation  Free, local, unlimited  Stop paying for Suno!
+* 【2026-04-28】[prompt\-security / clawsec](https://github.com/prompt-security/clawsec) - A complete security skill suite for OpenClaw's and NanoClaw agents (and variants)  Protect your SOUL md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification  All from one installable suite 
 * 【2026-04-27】[LibreSpark / LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
 * 【2026-04-27】[libnoname / noname](https://github.com/libnoname/noname) - 
 * 【2026-04-26】[Haleclipse / CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild) - Codex Desktop App - Cross-platform Rebuild
@@ -3891,6 +3898,9 @@
 
 ## Go
 
+* 【2026-04-28】[agentscope-ai / HiClaw](https://github.com/agentscope-ai/HiClaw) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
+* 【2026-04-28】[shridarpatil / whatomate](https://github.com/shridarpatil/whatomate) - Whatomate is an open\-source WhatsApp integration
+* 【2026-04-28】[Gentleman-Programming / engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
 * 【2026-04-27】[agentscope\-ai / HiClaw](https://github.com/agentscope-ai/HiClaw) - An open\-source Collaborative Multi\-Agent OS for transparent, human\-in\-the\-loop task coordination via Matrix rooms 
 * 【2026-04-27】[ParsaKSH / spoof-tunnel](https://github.com/ParsaKSH/spoof-tunnel) - client-server tunnel with IP-Spoofing
 * 【2026-04-27】[Gentleman\-Programming / engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents  Agent\-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI 
@@ -4509,6 +4519,7 @@
 
 ## C
 
+* 【2026-04-28】[RightNow\-AI / picolm](https://github.com/RightNow-AI/picolm) - Run a 1\-billion parameter LLM on a $10 board with 256MB RAM
 * 【2026-04-27】[DeusData / codebase\-memory\-mcp](https://github.com/DeusData/codebase-memory-mcp) - High\-performance code intelligence MCP server  Indexes codebases into a persistent knowledge graph — average repo in milliseconds  66 languages, sub\-ms queries, 99% fewer tokens  Single static binary, zero dependencies 
 * 【2026-04-25】[m5stack / StackChan](https://github.com/m5stack/StackChan) - StackChan open source!
 * 【2026-04-22】[Mbed\-TLS / TF\-PSA\-Crypto](https://github.com/Mbed-TLS/TF-PSA-Crypto) - Reference implementation of the PSA Cryptography API
@@ -4992,6 +5003,7 @@
 
 ## C++
 
+* 【2026-04-28】[BruceDevices / firmware](https://github.com/BruceDevices/firmware) - Predatory ESP32 Firmware
 * 【2026-04-27】[tile\-ai / tilelang\-ascend](https://github.com/tile-ai/tilelang-ascend) - Ascend TileLang adapter
 * 【2026-04-24】[intel / llm\-scaler](https://github.com/intel/llm-scaler) - 
 * 【2026-04-18】[jarczakpawel / BMCU\-C\-PJARCZAK](https://github.com/jarczakpawel/BMCU-C-PJARCZAK) - BMCU 370C (Hall) firmware for Bambu Lab A1 / A1 mini / P1S with buffer calibration \- all known issues fixed, 100% AMS\-compatible behavior 
@@ -5505,6 +5517,8 @@
 
 ## C#
 
+* 【2026-04-28】[Seafoam-Labs / Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
+* 【2026-04-28】[scp222thj / MalumMenu](https://github.com/scp222thj/MalumMenu) - An easy\-to\-use Among Us cheat menu with a simple GUI and lots of useful modules 
 * 【2026-04-27】[k1tbyte / Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) - Advanced UX and interoperability extension for Wand (WeMod) app
 * 【2026-04-26】[k1tbyte / Wand\-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) - Advanced UX and interoperability extension for Wand (WeMod) app
 * 【2026-04-26】[Rhythia / Client](https://github.com/Rhythia/Client) - Aim\-based rhythm game client, built in Godot 4
@@ -6032,6 +6046,7 @@
 
 ## Html
 
+* 【2026-04-28】[nicobailon / visual\-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 * 【2026-04-25】[CoolDude2349 / Offline\-HTML\-Games\-Pack](https://github.com/CoolDude2349/Offline-HTML-Games-Pack) - 300 offline HTML games, each on a single file
 * 【2026-04-23】[pedrohcgs / claude\-code\-my\-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) - A ready\-to\-fork Claude Code template for academics using LaTeX/Beamer + R  Multi\-agent review, quality gates, adversarial QA, and replication protocols 
 * 【2026-04-21】[mergisi / awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
@@ -6641,6 +6656,7 @@
 
 ## Unknown
 
+* 【2026-04-28】[aarora4 / Awesome-Prediction-Market-Tools](https://github.com/aarora4/Awesome-Prediction-Market-Tools) - A curated list of Prediction Market Tools - AI Agents, Analytics, APIs, Dashboards, Copy Trading, Alerting, Tracking and More!!
 * 【2026-04-26】[hardikpandya / stop\-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 * 【2026-04-24】[LukasNiessen / terrashark](https://github.com/LukasNiessen/terrashark) - Terraform Skill for Claude Code and Codex  LLMs hallucinate a lot with Terraform \- TerraShark fixes this  It eliminates hallucinations, is designed for modular and secure code and grounds your IaC in the official Hashicorp Terraform best practices 
 * 【2026-04-24】[microsoft / powerbi\-modeling\-mcp](https://github.com/microsoft/powerbi-modeling-mcp) - The Power BI Modeling MCP Server, brings Power BI semantic modeling capabilities to your AI agents 
@@ -7443,6 +7459,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-04-28】[Michael\-A\-Kuykendall / shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python\-free Rust inference server — OpenAI\-API compatible  GGUF + SafeTensors, hot model swap, auto\-discovery, single binary  FREE now, FREE forever 
+* 【2026-04-28】[fynnfluegge / agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents \- from idea to merge, hands\-free
+* 【2026-04-28】[temidaradev / kopuz](https://github.com/temidaradev/kopuz) - Another music player but written in rust using dioxus (local files and jellyfin supported)
 * 【2026-04-27】[brave / adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 * 【2026-04-26】[tinyhumansai / openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence  Private, Simple and extremely powerful 
 * 【2026-04-26】[zed-industries / codex-acp](https://github.com/zed-industries/codex-acp) - 
