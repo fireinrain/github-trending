@@ -1241,6 +1241,8 @@
 
 ## Java
 
+* 【2026-05-02】[lax1dude / eaglerxserver](https://github.com/lax1dude/eaglerxserver) - 
+* 【2026-05-02】[aizhimou / pigeon\-pod](https://github.com/aizhimou/pigeon-pod) - Listen to YouTube & Bilibili  Anywhere 
 * 【2026-04-30】[SonarSource / sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) - SonarQube MCP Server
 * 【2026-04-28】[MojoLauncher / MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) - A Minecraft: Java Edition launcher, based on PojavLauncher
 * 【2026-04-26】[ByteByteGoHq / coding\-interview\-patterns](https://github.com/ByteByteGoHq/coding-interview-patterns) - 
@@ -1710,6 +1712,8 @@
 
 ## Python
 
+* 【2026-05-02】[Lightricks / LTX\-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX\-2 audio–video generative model 
+* 【2026-05-02】[the-momentum / open-wearables](https://github.com/the-momentum/open-wearables) - Self-hosted platform to unify wearable health data through one AI-ready API.
 * 【2026-04-30】[shaxiu / XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
 * 【2026-04-30】[hugohe3 / ppt-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
 * 【2026-04-28】[hydropix / TranslateBooksWithLLMs](https://github.com/hydropix/TranslateBooksWithLLMs) - Translate full\-length books and documents with Ollama, OpenAI (comptatible), Gemini, Mistral, Poe or OpenRouter  Preserves formatting  Resumes where you left off  No file size limits 
@@ -3149,6 +3153,8 @@
 
 ## Javascript
 
+* 【2026-05-02】[vava-nessa / free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
+* 【2026-05-02】[microsoft / power-platform-skills](https://github.com/microsoft/power-platform-skills) - A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.
 * 【2026-05-01】[vava\-nessa / free\-coding\-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
 * 【2026-04-30】[QuiteAFancyEmerald / InvisiProxy](https://github.com/QuiteAFancyEmerald/InvisiProxy) - InvisiProxy LTS is a web proxy service that helps you access websites that may be blocked by your network, government or policy all within your browser with no download or setup  It does this securely and with additional privacy features  Browse Tor/Onion sites in any browser, hide browsing activity and bypass filters  (Star if you fork it!)
 * 【2026-04-30】[andrewyng / context-hub](https://github.com/andrewyng/context-hub) - 
@@ -5021,6 +5027,7 @@
 
 ## C++
 
+* 【2026-05-02】[sirius\-db / sirius](https://github.com/sirius-db/sirius) - 
 * 【2026-05-01】[lemonade\-sdk / lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs  Join our discord: https://discord gg/5xXzkMu8Zk
 * 【2026-04-29】[hyperfield / ai-file-sorter](https://github.com/hyperfield/ai-file-sorter) - Cross-platform desktop application for content-aware file organization and renaming. Supports local and remote LLMs, preview-based workflows, and fully user-controlled changes.
 * 【2026-04-28】[BruceDevices / firmware](https://github.com/BruceDevices/firmware) - Predatory ESP32 Firmware
@@ -5537,6 +5544,7 @@
 
 ## C#
 
+* 【2026-05-02】[openclaw / openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) - Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension
 * 【2026-04-30】[Facepunch / sandbox](https://github.com/Facepunch/sandbox) - Sandbox mode for s&box
 * 【2026-04-29】[MattParkerDev / SharpIDE](https://github.com/MattParkerDev/SharpIDE) - A modern, cross platform IDE for  NET, built with  NET & Godot
 * 【2026-04-29】[openclaw / openclaw\-windows\-node](https://github.com/openclaw/openclaw-windows-node) - Windows companion suite for OpenClaw \- System Tray app, Shared library, Node, and PowerToys Command Palette extension
@@ -6069,6 +6077,8 @@
 
 ## Html
 
+* 【2026-05-02】[mrshu / github\-statuses](https://github.com/mrshu/github-statuses) - The "Missing GitHub Status Page" \-\- a Flat Data attempt at historically documenting GitHub statuses
+* 【2026-05-02】[pedrohcgs / claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) - A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.
 * 【2026-05-01】[ringhyacinth / Star\-Office\-UI](https://github.com/ringhyacinth/Star-Office-UI) - A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents  Code under MIT; art assets for non\-commercial learning only 
 * 【2026-04-28】[nicobailon / visual\-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 * 【2026-04-25】[CoolDude2349 / Offline\-HTML\-Games\-Pack](https://github.com/CoolDude2349/Offline-HTML-Games-Pack) - 300 offline HTML games, each on a single file
@@ -7486,6 +7496,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-02】[Hmbown / DeepSeek\-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
+* 【2026-05-02】[razvandimescu / numa](https://github.com/razvandimescu/numa) - Portable DNS resolver in Rust —  numa local domains, ad blocking, developer overrides
 * 【2026-05-01】[dmtrKovalenko / fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 * 【2026-04-30】[agentgateway / agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 * 【2026-04-30】[datadog\-labs / pup](https://github.com/datadog-labs/pup) - Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products 
@@ -8490,6 +8502,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-02】[777genius / claude_agent_teams_ui](https://github.com/777genius/claude_agent_teams_ui) - You're the CTO, agents are your team  They handle tasks on their own, message each other, and review each other's work  You just watch the kanban board and give high\-level commands  Codex/Claude/OpenCode(75+ LLM providers)  Build your AI company 
+* 【2026-05-02】[bradygaster / squad](https://github.com/bradygaster/squad) - Squad: AI agent teams for any project
+* 【2026-05-02】[Snouzy / workout\-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open\-source fitness coaching platform  Create workout plans, track progress, and access a comprehensive exercise database 
 * 【2026-05-01】[chaitin / MonkeyCode](https://github.com/chaitin/MonkeyCode) - AI 开发平台，内置云端开发环境，并支持业内最全的顶尖大模型。无论是开发项目、做调研、写文档，还是分析数据、处理任务，打开浏览器就能随时开始，让 AI 持续帮你推进工作
 * 【2026-04-30】[vercel-labs / portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 * 【2026-04-30】[zhukunpenglinyutong / desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) - CC GUI 客户端（专为开发者打造的VibeCoding平台）
