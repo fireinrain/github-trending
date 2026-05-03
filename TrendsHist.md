@@ -1241,6 +1241,8 @@
 
 ## Java
 
+* 【2026-05-03】[LiteLDev / LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid) - A launcher designed for Minecraft Bedrock Edition on Android
+* 【2026-05-03】[aizhimou / pigeon-pod](https://github.com/aizhimou/pigeon-pod) - Listen to YouTube & Bilibili. Anywhere.
 * 【2026-05-02】[lax1dude / eaglerxserver](https://github.com/lax1dude/eaglerxserver) - 
 * 【2026-05-02】[aizhimou / pigeon\-pod](https://github.com/aizhimou/pigeon-pod) - Listen to YouTube & Bilibili  Anywhere 
 * 【2026-04-30】[SonarSource / sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) - SonarQube MCP Server
@@ -1712,6 +1714,8 @@
 
 ## Python
 
+* 【2026-05-03】[tirth8205 / code\-review\-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code  Builds a persistent map of your codebase so Claude reads only what matters — 6 8× fewer tokens on reviews and up to 49× on daily coding tasks 
+* 【2026-05-03】[Q00 / ouroboros](https://github.com/Q00/ouroboros) - Agent OS: Stop prompting  Start specifying 
 * 【2026-05-02】[Lightricks / LTX\-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX\-2 audio–video generative model 
 * 【2026-05-02】[the-momentum / open-wearables](https://github.com/the-momentum/open-wearables) - Self-hosted platform to unify wearable health data through one AI-ready API.
 * 【2026-04-30】[shaxiu / XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
@@ -3153,6 +3157,7 @@
 
 ## Javascript
 
+* 【2026-05-03】[tetherto / qvac](https://github.com/tetherto/qvac) - QVAC \- Local AI SDK and libraries for building private, cross\-platform, peer\-to\-peer AI applications  Run LLMs, speech\-to\-text, translation, and more locally on Linux, macOS, Windows, Android, and iOS 
 * 【2026-05-02】[vava-nessa / free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
 * 【2026-05-02】[microsoft / power-platform-skills](https://github.com/microsoft/power-platform-skills) - A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.
 * 【2026-05-01】[vava\-nessa / free\-coding\-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
@@ -5544,6 +5549,7 @@
 
 ## C#
 
+* 【2026-05-03】[erikdarlingdata / PerformanceMonitor](https://github.com/erikdarlingdata/PerformanceMonitor) - Free, open\-source SQL Server performance monitoring — 32 collectors, real\-time alerts, graphical plan viewer, MCP server for AI analysis  Supports SQL 2016\-2025, Azure SQL, AWS RDS 
 * 【2026-05-02】[openclaw / openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) - Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension
 * 【2026-04-30】[Facepunch / sandbox](https://github.com/Facepunch/sandbox) - Sandbox mode for s&box
 * 【2026-04-29】[MattParkerDev / SharpIDE](https://github.com/MattParkerDev/SharpIDE) - A modern, cross platform IDE for  NET, built with  NET & Godot
@@ -6077,6 +6083,8 @@
 
 ## Html
 
+* 【2026-05-03】[PrefectHQ / prefab](https://github.com/PrefectHQ/prefab) - 🎨 The generative UI framework that even humans can use 
+* 【2026-05-03】[CoolDude2349 / Offline-HTML-Games-Pack](https://github.com/CoolDude2349/Offline-HTML-Games-Pack) - 300 offline HTML games, each on a single file
 * 【2026-05-02】[mrshu / github\-statuses](https://github.com/mrshu/github-statuses) - The "Missing GitHub Status Page" \-\- a Flat Data attempt at historically documenting GitHub statuses
 * 【2026-05-02】[pedrohcgs / claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) - A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.
 * 【2026-05-01】[ringhyacinth / Star\-Office\-UI](https://github.com/ringhyacinth/Star-Office-UI) - A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents  Code under MIT; art assets for non\-commercial learning only 
@@ -6690,6 +6698,7 @@
 
 ## Unknown
 
+* 【2026-05-03】[vanshb03 / Summer2027\-Internships](https://github.com/vanshb03/Summer2027-Internships) - Collection of Summer 2026 tech internships!
 * 【2026-05-01】[hesamsheikh / awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
 * 【2026-04-29】[andyrewlee / awesome\-agent\-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
 * 【2026-04-29】[speedyapply / 2026\-SWE\-College\-Jobs](https://github.com/speedyapply/2026-SWE-College-Jobs) - 2026 SWE internship & new graduate job list updated daily
@@ -7496,6 +7505,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-03】[Hmbown / DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
+* 【2026-05-03】[dnakov / litter](https://github.com/dnakov/litter) - 
 * 【2026-05-02】[Hmbown / DeepSeek\-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
 * 【2026-05-02】[razvandimescu / numa](https://github.com/razvandimescu/numa) - Portable DNS resolver in Rust —  numa local domains, ad blocking, developer overrides
 * 【2026-05-01】[dmtrKovalenko / fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
@@ -8502,6 +8513,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-03】[Snouzy / workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 * 【2026-05-02】[777genius / claude_agent_teams_ui](https://github.com/777genius/claude_agent_teams_ui) - You're the CTO, agents are your team  They handle tasks on their own, message each other, and review each other's work  You just watch the kanban board and give high\-level commands  Codex/Claude/OpenCode(75+ LLM providers)  Build your AI company 
 * 【2026-05-02】[bradygaster / squad](https://github.com/bradygaster/squad) - Squad: AI agent teams for any project
 * 【2026-05-02】[Snouzy / workout\-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open\-source fitness coaching platform  Create workout plans, track progress, and access a comprehensive exercise database 
