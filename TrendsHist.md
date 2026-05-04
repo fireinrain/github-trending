@@ -1241,6 +1241,8 @@
 
 ## Java
 
+* 【2026-05-04】[ljeng / cheat\-sheet](https://github.com/ljeng/cheat-sheet) - Knowledge base for software engineers and research engineers
+* 【2026-05-04】[j\-shelfwood / voxy\-neoforge](https://github.com/j-shelfwood/voxy-neoforge) - Unofficial NeoForge 1 21 1 port of Voxy (LOD mod) by MCRcortex \- Community maintained
 * 【2026-05-03】[LiteLDev / LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid) - A launcher designed for Minecraft Bedrock Edition on Android
 * 【2026-05-03】[aizhimou / pigeon-pod](https://github.com/aizhimou/pigeon-pod) - Listen to YouTube & Bilibili. Anywhere.
 * 【2026-05-02】[lax1dude / eaglerxserver](https://github.com/lax1dude/eaglerxserver) - 
@@ -1714,6 +1716,8 @@
 
 ## Python
 
+* 【2026-05-04】[hiddify / Hiddify\-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi\-user anti\-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy 
+* 【2026-05-04】[conorluddy / ios\-simulator\-skill](https://github.com/conorluddy/ios-simulator-skill) - An IOS Simulator Skill for ClaudeCode  Use it to optimise Claude's ability to build, run and interact with your apps  I mainly use it as an xcodebuild wrapper to save context 
 * 【2026-05-03】[tirth8205 / code\-review\-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code  Builds a persistent map of your codebase so Claude reads only what matters — 6 8× fewer tokens on reviews and up to 49× on daily coding tasks 
 * 【2026-05-03】[Q00 / ouroboros](https://github.com/Q00/ouroboros) - Agent OS: Stop prompting  Start specifying 
 * 【2026-05-02】[Lightricks / LTX\-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX\-2 audio–video generative model 
@@ -3157,6 +3161,7 @@
 
 ## Javascript
 
+* 【2026-05-04】[badrisnarayanan / antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)
 * 【2026-05-03】[tetherto / qvac](https://github.com/tetherto/qvac) - QVAC \- Local AI SDK and libraries for building private, cross\-platform, peer\-to\-peer AI applications  Run LLMs, speech\-to\-text, translation, and more locally on Linux, macOS, Windows, Android, and iOS 
 * 【2026-05-02】[vava-nessa / free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
 * 【2026-05-02】[microsoft / power-platform-skills](https://github.com/microsoft/power-platform-skills) - A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.
@@ -3920,6 +3925,7 @@
 
 ## Go
 
+* 【2026-05-04】[Gentleman\-Programming / gentle\-ai](https://github.com/Gentleman-Programming/gentle-ai) - 
 * 【2026-04-30】[chenhg5 / cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
 * 【2026-04-30】[Agent-Field / agentfield](https://github.com/Agent-Field/agentfield) - Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one.
 * 【2026-04-30】[richkuo / go\-trader](https://github.com/richkuo/go-trader) - Crypto trading bot — backtesting, paper trading, live trading with risk management
@@ -5549,6 +5555,8 @@
 
 ## C#
 
+* 【2026-05-04】[Facepunch / sbox\-scenestaging](https://github.com/Facepunch/sbox-scenestaging) - A staging area for the scene system
+* 【2026-05-04】[voidstrap / Voidstrap](https://github.com/voidstrap/Voidstrap) - Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements 
 * 【2026-05-03】[erikdarlingdata / PerformanceMonitor](https://github.com/erikdarlingdata/PerformanceMonitor) - Free, open\-source SQL Server performance monitoring — 32 collectors, real\-time alerts, graphical plan viewer, MCP server for AI analysis  Supports SQL 2016\-2025, Azure SQL, AWS RDS 
 * 【2026-05-02】[openclaw / openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) - Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension
 * 【2026-04-30】[Facepunch / sandbox](https://github.com/Facepunch/sandbox) - Sandbox mode for s&box
@@ -6083,6 +6091,7 @@
 
 ## Html
 
+* 【2026-05-04】[nicobailon / visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 * 【2026-05-03】[PrefectHQ / prefab](https://github.com/PrefectHQ/prefab) - 🎨 The generative UI framework that even humans can use 
 * 【2026-05-03】[CoolDude2349 / Offline-HTML-Games-Pack](https://github.com/CoolDude2349/Offline-HTML-Games-Pack) - 300 offline HTML games, each on a single file
 * 【2026-05-02】[mrshu / github\-statuses](https://github.com/mrshu/github-statuses) - The "Missing GitHub Status Page" \-\- a Flat Data attempt at historically documenting GitHub statuses
@@ -7505,6 +7514,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-04】[xingkongliang / skills\-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more 
+* 【2026-05-04】[zeroclaw\-labs / zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 * 【2026-05-03】[Hmbown / DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
 * 【2026-05-03】[dnakov / litter](https://github.com/dnakov/litter) - 
 * 【2026-05-02】[Hmbown / DeepSeek\-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
@@ -8513,6 +8524,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-04】[nexu\-io / nexu](https://github.com/nexu-io/nexu) - The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click  Works with Claude Code, Codex & any LLM  BYOK, Oauth, local\-first, chat from your phone 24/7 
+* 【2026-05-04】[BlackHatDevX / openspot\-music\-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free and open\-source music streaming application designed for a seamless, high\-fidelity listening experience  Built with a modern tech stack, it features a beautiful, responsive UI that looks great on any device 
 * 【2026-05-03】[Snouzy / workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 * 【2026-05-02】[777genius / claude_agent_teams_ui](https://github.com/777genius/claude_agent_teams_ui) - You're the CTO, agents are your team  They handle tasks on their own, message each other, and review each other's work  You just watch the kanban board and give high\-level commands  Codex/Claude/OpenCode(75+ LLM providers)  Build your AI company 
 * 【2026-05-02】[bradygaster / squad](https://github.com/bradygaster/squad) - Squad: AI agent teams for any project
