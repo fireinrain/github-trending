@@ -1241,6 +1241,8 @@
 
 ## Java
 
+* 【2026-05-05】[ljeng / cheat-sheet](https://github.com/ljeng/cheat-sheet) - Knowledge base for software engineers and research engineers
+* 【2026-05-05】[spring-projects / spring-integration](https://github.com/spring-projects/spring-integration) - Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP)
 * 【2026-05-04】[ljeng / cheat\-sheet](https://github.com/ljeng/cheat-sheet) - Knowledge base for software engineers and research engineers
 * 【2026-05-04】[j\-shelfwood / voxy\-neoforge](https://github.com/j-shelfwood/voxy-neoforge) - Unofficial NeoForge 1 21 1 port of Voxy (LOD mod) by MCRcortex \- Community maintained
 * 【2026-05-03】[LiteLDev / LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid) - A launcher designed for Minecraft Bedrock Edition on Android
@@ -1716,6 +1718,9 @@
 
 ## Python
 
+* 【2026-05-05】[raullenchai / Rapid\-MLX](https://github.com/raullenchai/Rapid-MLX) - The fastest local AI engine for Apple Silicon  4 2x faster than Ollama, 0 08s cached TTFT, 100% tool calling  17 tool parsers, prompt cache, reasoning separation, cloud routing  Drop\-in OpenAI replacement  Works with Claude Code, Cursor, Aider 
+* 【2026-05-05】[alexgreensh / token\-optimizer](https://github.com/alexgreensh/token-optimizer) - Find the ghost tokens  Fix them  Survive compaction  Avoid context quality decay 
+* 【2026-05-05】[Lightricks / LTX-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
 * 【2026-05-04】[hiddify / Hiddify\-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi\-user anti\-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy 
 * 【2026-05-04】[conorluddy / ios\-simulator\-skill](https://github.com/conorluddy/ios-simulator-skill) - An IOS Simulator Skill for ClaudeCode  Use it to optimise Claude's ability to build, run and interact with your apps  I mainly use it as an xcodebuild wrapper to save context 
 * 【2026-05-03】[tirth8205 / code\-review\-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code  Builds a persistent map of your codebase so Claude reads only what matters — 6 8× fewer tokens on reviews and up to 49× on daily coding tasks 
@@ -3925,6 +3930,8 @@
 
 ## Go
 
+* 【2026-05-05】[pranshuparmar / witr](https://github.com/pranshuparmar/witr) - Why is this running?
+* 【2026-05-05】[floatpane / matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library  Never leave your command line to check your inbox or send an email again!
 * 【2026-05-04】[Gentleman\-Programming / gentle\-ai](https://github.com/Gentleman-Programming/gentle-ai) - 
 * 【2026-04-30】[chenhg5 / cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms.
 * 【2026-04-30】[Agent-Field / agentfield](https://github.com/Agent-Field/agentfield) - Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one.
@@ -4551,6 +4558,7 @@
 
 ## C
 
+* 【2026-05-05】[NetHack / NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
 * 【2026-04-30】[WeebLabs / DSPi](https://github.com/WeebLabs/DSPi) - A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350)  Official Discord: https://discord gg/RCyqxAQ5xS
 * 【2026-04-29】[open\-telemetry / opentelemetry\-ebpf\-instrumentation](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation) - 
 * 【2026-04-29】[Mbed-TLS / TF-PSA-Crypto](https://github.com/Mbed-TLS/TF-PSA-Crypto) - Reference implementation of the PSA Cryptography API
@@ -5555,6 +5563,7 @@
 
 ## C#
 
+* 【2026-05-05】[Aether\-Tools / CustomizePlus](https://github.com/Aether-Tools/CustomizePlus) - Dalamud plugin designed to give you better control over your Final Fantasy XIV character appearance 
 * 【2026-05-04】[Facepunch / sbox\-scenestaging](https://github.com/Facepunch/sbox-scenestaging) - A staging area for the scene system
 * 【2026-05-04】[voidstrap / Voidstrap](https://github.com/voidstrap/Voidstrap) - Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements 
 * 【2026-05-03】[erikdarlingdata / PerformanceMonitor](https://github.com/erikdarlingdata/PerformanceMonitor) - Free, open\-source SQL Server performance monitoring — 32 collectors, real\-time alerts, graphical plan viewer, MCP server for AI analysis  Supports SQL 2016\-2025, Azure SQL, AWS RDS 
@@ -6091,6 +6100,7 @@
 
 ## Html
 
+* 【2026-05-05】[OpenAEC\-Foundation / open\-pdf\-studio](https://github.com/OpenAEC-Foundation/open-pdf-studio) - 
 * 【2026-05-04】[nicobailon / visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 * 【2026-05-03】[PrefectHQ / prefab](https://github.com/PrefectHQ/prefab) - 🎨 The generative UI framework that even humans can use 
 * 【2026-05-03】[CoolDude2349 / Offline-HTML-Games-Pack](https://github.com/CoolDude2349/Offline-HTML-Games-Pack) - 300 offline HTML games, each on a single file
@@ -6707,6 +6717,7 @@
 
 ## Unknown
 
+* 【2026-05-05】[VoltAgent / awesome\-openclaw\-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills  5,400+ skills filtered and categorized from the official OpenClaw Skills Registry 🦞
 * 【2026-05-03】[vanshb03 / Summer2027\-Internships](https://github.com/vanshb03/Summer2027-Internships) - Collection of Summer 2026 tech internships!
 * 【2026-05-01】[hesamsheikh / awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
 * 【2026-04-29】[andyrewlee / awesome\-agent\-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
@@ -7514,6 +7525,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-05】[xingkongliang / skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more.
 * 【2026-05-04】[xingkongliang / skills\-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more 
 * 【2026-05-04】[zeroclaw\-labs / zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 * 【2026-05-03】[Hmbown / DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
@@ -8524,6 +8536,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-05】[withastro / flue](https://github.com/withastro/flue) - The sandbox agent framework 
+* 【2026-05-05】[openclaw / acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions
+* 【2026-05-05】[Vexa-ai / vexa](https://github.com/Vexa-ai/vexa) - Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.
 * 【2026-05-04】[nexu\-io / nexu](https://github.com/nexu-io/nexu) - The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click  Works with Claude Code, Codex & any LLM  BYOK, Oauth, local\-first, chat from your phone 24/7 
 * 【2026-05-04】[BlackHatDevX / openspot\-music\-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free and open\-source music streaming application designed for a seamless, high\-fidelity listening experience  Built with a modern tech stack, it features a beautiful, responsive UI that looks great on any device 
 * 【2026-05-03】[Snouzy / workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
