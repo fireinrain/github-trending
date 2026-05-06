@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-05-06】[bwya77 / vscode\-dark\-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
 * 【2026-05-01】[ghostty-org / ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 * 【2026-04-30】[warpdotdev / warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal 
 * 【2026-04-30】[1jehuang / jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
@@ -1241,6 +1242,8 @@
 
 ## Java
 
+* 【2026-05-06】[AidanPark / openclaw\-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
+* 【2026-05-06】[deltachat / deltachat\-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat\-shared tools and games for Android
 * 【2026-05-05】[ljeng / cheat-sheet](https://github.com/ljeng/cheat-sheet) - Knowledge base for software engineers and research engineers
 * 【2026-05-05】[spring-projects / spring-integration](https://github.com/spring-projects/spring-integration) - Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP)
 * 【2026-05-04】[ljeng / cheat\-sheet](https://github.com/ljeng/cheat-sheet) - Knowledge base for software engineers and research engineers
@@ -1718,6 +1721,9 @@
 
 ## Python
 
+* 【2026-05-06】[raullenchai / Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
+* 【2026-05-06】[CloakHQ / CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test  Drop\-in Playwright replacement with source\-level fingerprint patches  30/30 tests passed 
+* 【2026-05-06】[ahujasid / ableton\-mcp](https://github.com/ahujasid/ableton-mcp) - 
 * 【2026-05-05】[raullenchai / Rapid\-MLX](https://github.com/raullenchai/Rapid-MLX) - The fastest local AI engine for Apple Silicon  4 2x faster than Ollama, 0 08s cached TTFT, 100% tool calling  17 tool parsers, prompt cache, reasoning separation, cloud routing  Drop\-in OpenAI replacement  Works with Claude Code, Cursor, Aider 
 * 【2026-05-05】[alexgreensh / token\-optimizer](https://github.com/alexgreensh/token-optimizer) - Find the ghost tokens  Fix them  Survive compaction  Avoid context quality decay 
 * 【2026-05-05】[Lightricks / LTX-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
@@ -3930,6 +3936,7 @@
 
 ## Go
 
+* 【2026-05-06】[Gentleman-Programming / gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) - 
 * 【2026-05-05】[pranshuparmar / witr](https://github.com/pranshuparmar/witr) - Why is this running?
 * 【2026-05-05】[floatpane / matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library  Never leave your command line to check your inbox or send an email again!
 * 【2026-05-04】[Gentleman\-Programming / gentle\-ai](https://github.com/Gentleman-Programming/gentle-ai) - 
@@ -4558,6 +4565,8 @@
 
 ## C
 
+* 【2026-05-06】[ClusterM / wg\-obfuscator](https://github.com/ClusterM/wg-obfuscator) - WireGuard Obfuscator \- simple obfuscator for WireGuard  Useful if your ISP/government blocks WireGuard traffic 
+* 【2026-05-06】[DeusData / codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 155 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 * 【2026-05-05】[NetHack / NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
 * 【2026-04-30】[WeebLabs / DSPi](https://github.com/WeebLabs/DSPi) - A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350)  Official Discord: https://discord gg/RCyqxAQ5xS
 * 【2026-04-29】[open\-telemetry / opentelemetry\-ebpf\-instrumentation](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation) - 
@@ -5046,6 +5055,7 @@
 
 ## C++
 
+* 【2026-05-06】[jarczakpawel / BMCU-C-PJARCZAK](https://github.com/jarczakpawel/BMCU-C-PJARCZAK) - BMCU 370C (Hall) firmware for Bambu Lab A1 / A1 mini / P1S with buffer calibration - all known issues fixed, 100% AMS-compatible behavior.
 * 【2026-05-02】[sirius\-db / sirius](https://github.com/sirius-db/sirius) - 
 * 【2026-05-01】[lemonade\-sdk / lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs  Join our discord: https://discord gg/5xXzkMu8Zk
 * 【2026-04-29】[hyperfield / ai-file-sorter](https://github.com/hyperfield/ai-file-sorter) - Cross-platform desktop application for content-aware file organization and renaming. Supports local and remote LLMs, preview-based workflows, and fully user-controlled changes.
@@ -5563,6 +5573,9 @@
 
 ## C#
 
+* 【2026-05-06】[Aether-Tools / CustomizePlus](https://github.com/Aether-Tools/CustomizePlus) - Dalamud plugin designed to give you better control over your Final Fantasy XIV character appearance.
+* 【2026-05-06】[mcp\-servers\-for\-revit / mcp\-servers\-for\-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit) - 🔥💧🤖 Sparx fork of the mcp\-servers\-for\-revit/revit\-mcp project
+* 【2026-05-06】[PCL\-Community / PCL\-CE](https://github.com/PCL-Community/PCL-CE) - PCL 社区版 由社区开发者维护与管理
 * 【2026-05-05】[Aether\-Tools / CustomizePlus](https://github.com/Aether-Tools/CustomizePlus) - Dalamud plugin designed to give you better control over your Final Fantasy XIV character appearance 
 * 【2026-05-04】[Facepunch / sbox\-scenestaging](https://github.com/Facepunch/sbox-scenestaging) - A staging area for the scene system
 * 【2026-05-04】[voidstrap / Voidstrap](https://github.com/voidstrap/Voidstrap) - Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements 
@@ -6717,6 +6730,7 @@
 
 ## Unknown
 
+* 【2026-05-06】[hardikpandya / stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 * 【2026-05-05】[VoltAgent / awesome\-openclaw\-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills  5,400+ skills filtered and categorized from the official OpenClaw Skills Registry 🦞
 * 【2026-05-03】[vanshb03 / Summer2027\-Internships](https://github.com/vanshb03/Summer2027-Internships) - Collection of Summer 2026 tech internships!
 * 【2026-05-01】[hesamsheikh / awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
@@ -8536,6 +8550,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-06】[vercel\-labs / ai\-cli](https://github.com/vercel-labs/ai-cli) - Generate anything from your terminal
 * 【2026-05-05】[withastro / flue](https://github.com/withastro/flue) - The sandbox agent framework 
 * 【2026-05-05】[openclaw / acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions
 * 【2026-05-05】[Vexa-ai / vexa](https://github.com/Vexa-ai/vexa) - Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.
