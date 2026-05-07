@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-05-07】[addyosmani / agent\-skills](https://github.com/addyosmani/agent-skills) - Production\-grade engineering skills for AI coding agents 
+* 【2026-05-07】[anthropics / financial\-services](https://github.com/anthropics/financial-services) - 
+* 【2026-05-07】[bwya77 / vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
 * 【2026-05-06】[bwya77 / vscode\-dark\-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
 * 【2026-05-01】[ghostty-org / ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 * 【2026-04-30】[warpdotdev / warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal 
@@ -1242,6 +1245,7 @@
 
 ## Java
 
+* 【2026-05-07】[deltachat / deltachat-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat-shared tools and games for Android
 * 【2026-05-06】[AidanPark / openclaw\-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
 * 【2026-05-06】[deltachat / deltachat\-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat\-shared tools and games for Android
 * 【2026-05-05】[ljeng / cheat-sheet](https://github.com/ljeng/cheat-sheet) - Knowledge base for software engineers and research engineers
@@ -1721,6 +1725,8 @@
 
 ## Python
 
+* 【2026-05-07】[anthropics / financial-services](https://github.com/anthropics/financial-services) - 
+* 【2026-05-07】[kyutai\-labs / pocket\-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
 * 【2026-05-06】[raullenchai / Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
 * 【2026-05-06】[CloakHQ / CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test  Drop\-in Playwright replacement with source\-level fingerprint patches  30/30 tests passed 
 * 【2026-05-06】[ahujasid / ableton\-mcp](https://github.com/ahujasid/ableton-mcp) - 
@@ -3936,6 +3942,7 @@
 
 ## Go
 
+* 【2026-05-07】[bjarneo / cliamp](https://github.com/bjarneo/cliamp) - cliamp \- Terminal music player inspired by winamp
 * 【2026-05-06】[Gentleman-Programming / gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) - 
 * 【2026-05-05】[pranshuparmar / witr](https://github.com/pranshuparmar/witr) - Why is this running?
 * 【2026-05-05】[floatpane / matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library  Never leave your command line to check your inbox or send an email again!
@@ -5055,6 +5062,7 @@
 
 ## C++
 
+* 【2026-05-07】[awalol / DS5Dongle](https://github.com/awalol/DS5Dongle) - Turn your Pico 2 W into a DualSense 5 dongle 
 * 【2026-05-06】[jarczakpawel / BMCU-C-PJARCZAK](https://github.com/jarczakpawel/BMCU-C-PJARCZAK) - BMCU 370C (Hall) firmware for Bambu Lab A1 / A1 mini / P1S with buffer calibration - all known issues fixed, 100% AMS-compatible behavior.
 * 【2026-05-02】[sirius\-db / sirius](https://github.com/sirius-db/sirius) - 
 * 【2026-05-01】[lemonade\-sdk / lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs  Join our discord: https://discord gg/5xXzkMu8Zk
@@ -5573,6 +5581,7 @@
 
 ## C#
 
+* 【2026-05-07】[mcp-servers-for-revit / mcp-servers-for-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit) - 🔥💧🤖 Sparx fork of the mcp-servers-for-revit/revit-mcp project
 * 【2026-05-06】[Aether-Tools / CustomizePlus](https://github.com/Aether-Tools/CustomizePlus) - Dalamud plugin designed to give you better control over your Final Fantasy XIV character appearance.
 * 【2026-05-06】[mcp\-servers\-for\-revit / mcp\-servers\-for\-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit) - 🔥💧🤖 Sparx fork of the mcp\-servers\-for\-revit/revit\-mcp project
 * 【2026-05-06】[PCL\-Community / PCL\-CE](https://github.com/PCL-Community/PCL-CE) - PCL 社区版 由社区开发者维护与管理
@@ -6730,6 +6739,7 @@
 
 ## Unknown
 
+* 【2026-05-07】[jim\-schwoebel / awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents 
 * 【2026-05-06】[hardikpandya / stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 * 【2026-05-05】[VoltAgent / awesome\-openclaw\-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills  5,400+ skills filtered and categorized from the official OpenClaw Skills Registry 🦞
 * 【2026-05-03】[vanshb03 / Summer2027\-Internships](https://github.com/vanshb03/Summer2027-Internships) - Collection of Summer 2026 tech internships!
@@ -7539,6 +7549,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-07】[googleworkspace / cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command\-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more  Dynamically built from Google Discovery Service  Includes AI agent skills 
+* 【2026-05-07】[RightNow\-AI / openfang](https://github.com/RightNow-AI/openfang) - Open\-source Agent Operating System
+* 【2026-05-07】[fastrepl / anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 * 【2026-05-05】[xingkongliang / skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more.
 * 【2026-05-04】[xingkongliang / skills\-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more 
 * 【2026-05-04】[zeroclaw\-labs / zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
