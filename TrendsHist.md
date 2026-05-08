@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-05-08】[addyosmani / agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 * 【2026-05-07】[addyosmani / agent\-skills](https://github.com/addyosmani/agent-skills) - Production\-grade engineering skills for AI coding agents 
 * 【2026-05-07】[anthropics / financial\-services](https://github.com/anthropics/financial-services) - 
 * 【2026-05-07】[bwya77 / vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
@@ -1725,6 +1726,8 @@
 
 ## Python
 
+* 【2026-05-08】[Open\-LLM\-VTuber / Open\-LLM\-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) - Talk to any LLM with hands\-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
+* 【2026-05-08】[openai / plugins](https://github.com/openai/plugins) - OpenAI Plugins
 * 【2026-05-07】[anthropics / financial-services](https://github.com/anthropics/financial-services) - 
 * 【2026-05-07】[kyutai\-labs / pocket\-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
 * 【2026-05-06】[raullenchai / Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
@@ -3178,6 +3181,7 @@
 
 ## Javascript
 
+* 【2026-05-08】[Zen4\-bit / Proxima](https://github.com/Zen4-bit/Proxima) - Multi\-AI MCP Server \- Connect ChatGPT, Claude, Gemini & Perplexity to your coding tools without any API
 * 【2026-05-04】[badrisnarayanan / antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)
 * 【2026-05-03】[tetherto / qvac](https://github.com/tetherto/qvac) - QVAC \- Local AI SDK and libraries for building private, cross\-platform, peer\-to\-peer AI applications  Run LLMs, speech\-to\-text, translation, and more locally on Linux, macOS, Windows, Android, and iOS 
 * 【2026-05-02】[vava-nessa / free-coding-models](https://github.com/vava-nessa/free-coding-models) - Find, benchmark and install in CLI 200+ FREE coding LLM models across 20+ providers in real time
@@ -3942,6 +3946,7 @@
 
 ## Go
 
+* 【2026-05-08】[MercuryTechnologies / mercury\-cli](https://github.com/MercuryTechnologies/mercury-cli) - 
 * 【2026-05-07】[bjarneo / cliamp](https://github.com/bjarneo/cliamp) - cliamp \- Terminal music player inspired by winamp
 * 【2026-05-06】[Gentleman-Programming / gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) - 
 * 【2026-05-05】[pranshuparmar / witr](https://github.com/pranshuparmar/witr) - Why is this running?
@@ -5581,6 +5586,8 @@
 
 ## C#
 
+* 【2026-05-08】[Pronwan / rustplus\-desktop](https://github.com/Pronwan/rustplus-desktop) - Rust+ Desktop App (unofficial)
+* 【2026-05-08】[redis-windows / redis-windows](https://github.com/redis-windows/redis-windows) - Redis 6.0.20 6.2.18 7.0.15 7.2.8 7.4.3 8.0.0 for Windows
 * 【2026-05-07】[mcp-servers-for-revit / mcp-servers-for-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit) - 🔥💧🤖 Sparx fork of the mcp-servers-for-revit/revit-mcp project
 * 【2026-05-06】[Aether-Tools / CustomizePlus](https://github.com/Aether-Tools/CustomizePlus) - Dalamud plugin designed to give you better control over your Final Fantasy XIV character appearance.
 * 【2026-05-06】[mcp\-servers\-for\-revit / mcp\-servers\-for\-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit) - 🔥💧🤖 Sparx fork of the mcp\-servers\-for\-revit/revit\-mcp project
@@ -6122,6 +6129,7 @@
 
 ## Html
 
+* 【2026-05-08】[horilla / horilla\-hr](https://github.com/horilla/horilla-hr) - Horilla is a free and open source HR and CRM software 
 * 【2026-05-05】[OpenAEC\-Foundation / open\-pdf\-studio](https://github.com/OpenAEC-Foundation/open-pdf-studio) - 
 * 【2026-05-04】[nicobailon / visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 * 【2026-05-03】[PrefectHQ / prefab](https://github.com/PrefectHQ/prefab) - 🎨 The generative UI framework that even humans can use 
@@ -6739,6 +6747,7 @@
 
 ## Unknown
 
+* 【2026-05-08】[jim-schwoebel / awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
 * 【2026-05-07】[jim\-schwoebel / awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents 
 * 【2026-05-06】[hardikpandya / stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 * 【2026-05-05】[VoltAgent / awesome\-openclaw\-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills  5,400+ skills filtered and categorized from the official OpenClaw Skills Registry 🦞
@@ -7549,6 +7558,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-08】[RightNow-AI / openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
+* 【2026-05-08】[DataDog / pup](https://github.com/DataDog/pup) - Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products 
+* 【2026-05-08】[solana\-foundation / pay](https://github.com/solana-foundation/pay) - Let your agents pay for any API
 * 【2026-05-07】[googleworkspace / cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command\-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more  Dynamically built from Google Discovery Service  Includes AI agent skills 
 * 【2026-05-07】[RightNow\-AI / openfang](https://github.com/RightNow-AI/openfang) - Open\-source Agent Operating System
 * 【2026-05-07】[fastrepl / anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
