@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-05-09】[flutter / skills](https://github.com/flutter/skills) - 
 * 【2026-05-08】[addyosmani / agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 * 【2026-05-07】[addyosmani / agent\-skills](https://github.com/addyosmani/agent-skills) - Production\-grade engineering skills for AI coding agents 
 * 【2026-05-07】[anthropics / financial\-services](https://github.com/anthropics/financial-services) - 
@@ -3181,6 +3182,7 @@
 
 ## Javascript
 
+* 【2026-05-09】[Zen4-bit / Proxima](https://github.com/Zen4-bit/Proxima) - Multi-AI MCP Server - Connect ChatGPT, Claude, Gemini & Perplexity to your coding tools without any API
 * 【2026-05-08】[Zen4\-bit / Proxima](https://github.com/Zen4-bit/Proxima) - Multi\-AI MCP Server \- Connect ChatGPT, Claude, Gemini & Perplexity to your coding tools without any API
 * 【2026-05-04】[badrisnarayanan / antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)
 * 【2026-05-03】[tetherto / qvac](https://github.com/tetherto/qvac) - QVAC \- Local AI SDK and libraries for building private, cross\-platform, peer\-to\-peer AI applications  Run LLMs, speech\-to\-text, translation, and more locally on Linux, macOS, Windows, Android, and iOS 
@@ -5586,6 +5588,7 @@
 
 ## C#
 
+* 【2026-05-09】[Pronwan / rustplus-desktop](https://github.com/Pronwan/rustplus-desktop) - Rust+ Desktop App (unofficial)
 * 【2026-05-08】[Pronwan / rustplus\-desktop](https://github.com/Pronwan/rustplus-desktop) - Rust+ Desktop App (unofficial)
 * 【2026-05-08】[redis-windows / redis-windows](https://github.com/redis-windows/redis-windows) - Redis 6.0.20 6.2.18 7.0.15 7.2.8 7.4.3 8.0.0 for Windows
 * 【2026-05-07】[mcp-servers-for-revit / mcp-servers-for-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit) - 🔥💧🤖 Sparx fork of the mcp-servers-for-revit/revit-mcp project
@@ -8575,6 +8578,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-09】[vercel-labs / json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
+* 【2026-05-09】[colbymchenry / codegraph](https://github.com/colbymchenry/codegraph) - Pre\-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local
+* 【2026-05-09】[earendil\-works / pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+* 【2026-05-09】[rohitg00 / agentmemory](https://github.com/rohitg00/agentmemory) - \#1 Persistent memory for AI coding agents based on real\-world benchmarks
+* 【2026-05-09】[github / copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 * 【2026-05-06】[vercel\-labs / ai\-cli](https://github.com/vercel-labs/ai-cli) - Generate anything from your terminal
 * 【2026-05-05】[withastro / flue](https://github.com/withastro/flue) - The sandbox agent framework 
 * 【2026-05-05】[openclaw / acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol (ACP) sessions
