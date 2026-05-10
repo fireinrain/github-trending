@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-05-10】[oracle\-devrel / oracle\-ai\-developer\-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub) - Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services
 * 【2026-05-09】[flutter / skills](https://github.com/flutter/skills) - 
 * 【2026-05-08】[addyosmani / agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 * 【2026-05-07】[addyosmani / agent\-skills](https://github.com/addyosmani/agent-skills) - Production\-grade engineering skills for AI coding agents 
@@ -3182,6 +3183,8 @@
 
 ## Javascript
 
+* 【2026-05-10】[justlovemaki / AIClient2API](https://github.com/justlovemaki/AIClient2API) - Simulates Gemini CLI, Antigravity, Codex, Grok, and Kiro client requests, compatible with the OpenAI API  It supports thousands of Gemini model requests per day and offers free use of the built\-in Claude model in Kiro  Easily connect to any client via the API, making AI development more efficient!
+* 【2026-05-10】[presenton / presenton](https://github.com/presenton/presenton) - Open\-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
 * 【2026-05-09】[Zen4-bit / Proxima](https://github.com/Zen4-bit/Proxima) - Multi-AI MCP Server - Connect ChatGPT, Claude, Gemini & Perplexity to your coding tools without any API
 * 【2026-05-08】[Zen4\-bit / Proxima](https://github.com/Zen4-bit/Proxima) - Multi\-AI MCP Server \- Connect ChatGPT, Claude, Gemini & Perplexity to your coding tools without any API
 * 【2026-05-04】[badrisnarayanan / antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)
@@ -4579,6 +4582,7 @@
 
 ## C
 
+* 【2026-05-10】[califio / publications](https://github.com/califio/publications) - Publications from Calif
 * 【2026-05-06】[ClusterM / wg\-obfuscator](https://github.com/ClusterM/wg-obfuscator) - WireGuard Obfuscator \- simple obfuscator for WireGuard  Useful if your ISP/government blocks WireGuard traffic 
 * 【2026-05-06】[DeusData / codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 155 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 * 【2026-05-05】[NetHack / NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
@@ -5588,6 +5592,7 @@
 
 ## C#
 
+* 【2026-05-10】[Alchyr / BaseLib\-StS2](https://github.com/Alchyr/BaseLib-StS2) - Mod for Slay the Spire 2 to standardize content additions
 * 【2026-05-09】[Pronwan / rustplus-desktop](https://github.com/Pronwan/rustplus-desktop) - Rust+ Desktop App (unofficial)
 * 【2026-05-08】[Pronwan / rustplus\-desktop](https://github.com/Pronwan/rustplus-desktop) - Rust+ Desktop App (unofficial)
 * 【2026-05-08】[redis-windows / redis-windows](https://github.com/redis-windows/redis-windows) - Redis 6.0.20 6.2.18 7.0.15 7.2.8 7.4.3 8.0.0 for Windows
@@ -6750,6 +6755,8 @@
 
 ## Unknown
 
+* 【2026-05-10】[vinegarhq / sober](https://github.com/vinegarhq/sober) - Runtime for Roblox on Linux
+* 【2026-05-10】[VoltAgent / awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 * 【2026-05-08】[jim-schwoebel / awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
 * 【2026-05-07】[jim\-schwoebel / awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents 
 * 【2026-05-06】[hardikpandya / stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
@@ -7561,6 +7568,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-10】[fables\-tales / rubyfmt](https://github.com/fables-tales/rubyfmt) - Ruby Autoformatter!
 * 【2026-05-08】[RightNow-AI / openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 * 【2026-05-08】[DataDog / pup](https://github.com/DataDog/pup) - Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products 
 * 【2026-05-08】[solana\-foundation / pay](https://github.com/solana-foundation/pay) - Let your agents pay for any API
@@ -8578,6 +8586,13 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-10】[vellum\-ai / vellum\-assistant](https://github.com/vellum-ai/vellum-assistant) - A personal AI assistant that evolves with you  Memory, personality, proactive reach\-outs — across macOS, Telegram, and Slack 
+* 【2026-05-10】[earendil-works / pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+* 【2026-05-10】[heygen\-com / hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML  Render video  Built for agents 
+* 【2026-05-10】[amruthpillai / reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+* 【2026-05-10】[maziggy / bambuddy](https://github.com/maziggy/bambuddy) - A self\-hosted print archive and management system for Bambu Lab 3D printers
+* 【2026-05-10】[millionco / react\-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React  This catches it
+* 【2026-05-10】[tinyfish-io / tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) - A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build!
 * 【2026-05-09】[vercel-labs / json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 * 【2026-05-09】[colbymchenry / codegraph](https://github.com/colbymchenry/codegraph) - Pre\-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local
 * 【2026-05-09】[earendil\-works / pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
