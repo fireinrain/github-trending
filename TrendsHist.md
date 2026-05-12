@@ -1728,6 +1728,10 @@
 
 ## Python
 
+* 【2026-05-12】[jwadow / kiro\-gateway](https://github.com/jwadow/kiro-gateway) - 👻 Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer)  Use free Claude models with any client 
+* 【2026-05-12】[ylytdeng / wechat\-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4 0 database decryptor \- extract keys from memory, decrypt SQLCipher 4 databases, real\-time message monitor
+* 【2026-05-12】[wanshuiyin / Auto\-claude\-code\-research\-in\-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto\-Research\-In\-Sleep) — Lightweight Markdown\-only skills for autonomous ML research: cross\-model review loops, idea discovery, and experiment automation  No framework, no lock\-in — works with Claude Code, Codex, OpenClaw, or any LLM agent 
+* 【2026-05-12】[romainsimon / paperasse](https://github.com/romainsimon/paperasse) - 🇫🇷 Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire,    
 * 【2026-05-11】[zai-org / GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate × Fast × Comprehensive
 * 【2026-05-08】[Open\-LLM\-VTuber / Open\-LLM\-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) - Talk to any LLM with hands\-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
 * 【2026-05-08】[openai / plugins](https://github.com/openai/plugins) - OpenAI Plugins
@@ -3953,6 +3957,8 @@
 
 ## Go
 
+* 【2026-05-12】[BenedictKing / ccx](https://github.com/BenedictKing/ccx) - Claude / Codex / Gemini API Proxy \- CCX
+* 【2026-05-12】[gesellix / Bose\-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices
 * 【2026-05-11】[microsoft / waza](https://github.com/microsoft/waza) - CLI / Framework for Agent Skills \- create, test, measure and improve skill quality and effectiveness
 * 【2026-05-08】[MercuryTechnologies / mercury\-cli](https://github.com/MercuryTechnologies/mercury-cli) - 
 * 【2026-05-07】[bjarneo / cliamp](https://github.com/bjarneo/cliamp) - cliamp \- Terminal music player inspired by winamp
@@ -4585,6 +4591,8 @@
 
 ## C
 
+* 【2026-05-12】[MrPowerGamerBR / Butterscotch](https://github.com/MrPowerGamerBR/Butterscotch) - 🥧 An open source re\-implementation of GameMaker: Studio's runner (YoYo Runner), targeting Undertale v1 08 (Bytecode Version 16)
+* 【2026-05-12】[meshcore\-dev / MeshCore](https://github.com/meshcore-dev/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 * 【2026-05-11】[facebook / openzl](https://github.com/facebook/openzl) - A novel data compression framework
 * 【2026-05-10】[califio / publications](https://github.com/califio/publications) - Publications from Calif
 * 【2026-05-06】[ClusterM / wg\-obfuscator](https://github.com/ClusterM/wg-obfuscator) - WireGuard Obfuscator \- simple obfuscator for WireGuard  Useful if your ISP/government blocks WireGuard traffic 
@@ -5077,6 +5085,7 @@
 
 ## C++
 
+* 【2026-05-12】[quickshell-mirror / quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 * 【2026-05-11】[gazebosim / gz\-sim](https://github.com/gazebosim/gz-sim) - Open source robotics simulator  The latest version of Gazebo 
 * 【2026-05-11】[lemonade-sdk / lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 * 【2026-05-07】[awalol / DS5Dongle](https://github.com/awalol/DS5Dongle) - Turn your Pico 2 W into a DualSense 5 dongle 
@@ -6143,6 +6152,7 @@
 
 ## Html
 
+* 【2026-05-12】[rust\-lang / blog rust\-lang org](https://github.com/rust-lang/blog.rust-lang.org) - Home of the Rust and Inside Rust blogs
 * 【2026-05-08】[horilla / horilla\-hr](https://github.com/horilla/horilla-hr) - Horilla is a free and open source HR and CRM software 
 * 【2026-05-05】[OpenAEC\-Foundation / open\-pdf\-studio](https://github.com/OpenAEC-Foundation/open-pdf-studio) - 
 * 【2026-05-04】[nicobailon / visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
@@ -8593,6 +8603,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-12】[cartesiancs / map3d](https://github.com/cartesiancs/map3d) - 🗺️ Generate City 3D map with R3F  Include building and road information 
+* 【2026-05-12】[silvertakana / worldwideview](https://github.com/silvertakana/worldwideview) - 
+* 【2026-05-12】[heygen-com / hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+* 【2026-05-12】[THU\-MAIC / OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi\-Agent Interactive Classroom — Get an immersive, multi\-agent learning experience in just one click
+* 【2026-05-12】[garrytan / gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 * 【2026-05-11】[millionco / react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 * 【2026-05-10】[vellum\-ai / vellum\-assistant](https://github.com/vellum-ai/vellum-assistant) - A personal AI assistant that evolves with you  Memory, personality, proactive reach\-outs — across macOS, Telegram, and Slack 
 * 【2026-05-10】[earendil-works / pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
