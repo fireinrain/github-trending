@@ -1728,6 +1728,9 @@
 
 ## Python
 
+* 【2026-05-13】[Imbad0202 / academic\-research\-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
+* 【2026-05-13】[openinterpreter / open\-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+* 【2026-05-13】[zhangfengcdt / memoir](https://github.com/zhangfengcdt/memoir) - Hierarchical Agent Memory with Git\-Like Version Control
 * 【2026-05-12】[jwadow / kiro\-gateway](https://github.com/jwadow/kiro-gateway) - 👻 Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer)  Use free Claude models with any client 
 * 【2026-05-12】[ylytdeng / wechat\-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4 0 database decryptor \- extract keys from memory, decrypt SQLCipher 4 databases, real\-time message monitor
 * 【2026-05-12】[wanshuiyin / Auto\-claude\-code\-research\-in\-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto\-Research\-In\-Sleep) — Lightweight Markdown\-only skills for autonomous ML research: cross\-model review loops, idea discovery, and experiment automation  No framework, no lock\-in — works with Claude Code, Codex, OpenClaw, or any LLM agent 
@@ -5085,6 +5088,8 @@
 
 ## C++
 
+* 【2026-05-13】[encounter / aurora](https://github.com/encounter/aurora) - A source\-level GameCube & Wii compatibility layer
+* 【2026-05-13】[zeldaret / tww](https://github.com/zeldaret/tww) - Decompilation of The Legend of Zelda: The Wind Waker
 * 【2026-05-12】[quickshell-mirror / quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 * 【2026-05-11】[gazebosim / gz\-sim](https://github.com/gazebosim/gz-sim) - Open source robotics simulator  The latest version of Gazebo 
 * 【2026-05-11】[lemonade-sdk / lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
@@ -5607,6 +5612,8 @@
 
 ## C#
 
+* 【2026-05-13】[Greedeks / GTweak](https://github.com/Greedeks/GTweak) - Portable Tool for an Ideal Windows Setup
+* 【2026-05-13】[microsoft / Power\-CAT\-Copilot\-Studio\-Kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit) - 
 * 【2026-05-10】[Alchyr / BaseLib\-StS2](https://github.com/Alchyr/BaseLib-StS2) - Mod for Slay the Spire 2 to standardize content additions
 * 【2026-05-09】[Pronwan / rustplus-desktop](https://github.com/Pronwan/rustplus-desktop) - Rust+ Desktop App (unofficial)
 * 【2026-05-08】[Pronwan / rustplus\-desktop](https://github.com/Pronwan/rustplus-desktop) - Rust+ Desktop App (unofficial)
@@ -6152,6 +6159,7 @@
 
 ## Html
 
+* 【2026-05-13】[CyberAlbSecOP / Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning 
 * 【2026-05-12】[rust\-lang / blog rust\-lang org](https://github.com/rust-lang/blog.rust-lang.org) - Home of the Rust and Inside Rust blogs
 * 【2026-05-08】[horilla / horilla\-hr](https://github.com/horilla/horilla-hr) - Horilla is a free and open source HR and CRM software 
 * 【2026-05-05】[OpenAEC\-Foundation / open\-pdf\-studio](https://github.com/OpenAEC-Foundation/open-pdf-studio) - 
@@ -6771,6 +6779,7 @@
 
 ## Unknown
 
+* 【2026-05-13】[ParthJadhav / app\-store\-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI
 * 【2026-05-10】[vinegarhq / sober](https://github.com/vinegarhq/sober) - Runtime for Roblox on Linux
 * 【2026-05-10】[VoltAgent / awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 * 【2026-05-08】[jim-schwoebel / awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
@@ -7584,6 +7593,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-13】[hj01857655 / kiro\-account\-manager](https://github.com/hj01857655/kiro-account-manager) - 🚀 智能管理 Kiro IDE 账号，一键切换，配额监控 \| 官网：https://kiro\-website\-six vercel app
+* 【2026-05-13】[agavra / tuicr](https://github.com/agavra/tuicr) - a terminal UI for local code review
+* 【2026-05-13】[zizmorcore / zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 * 【2026-05-11】[domcyrus / rustnet](https://github.com/domcyrus/rustnet) - Per\-process network monitoring for your terminal with deep packet inspection  Cross\-platform, sandboxed 
 * 【2026-05-10】[fables\-tales / rubyfmt](https://github.com/fables-tales/rubyfmt) - Ruby Autoformatter!
 * 【2026-05-08】[RightNow-AI / openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
@@ -8603,6 +8615,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-13】[THU-MAIC / OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 * 【2026-05-12】[cartesiancs / map3d](https://github.com/cartesiancs/map3d) - 🗺️ Generate City 3D map with R3F  Include building and road information 
 * 【2026-05-12】[silvertakana / worldwideview](https://github.com/silvertakana/worldwideview) - 
 * 【2026-05-12】[heygen-com / hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
