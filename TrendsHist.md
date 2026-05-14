@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-05-14】[K-Dense-AI / scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+* 【2026-05-14】[supertone\-inc / supertonic](https://github.com/supertone-inc/supertonic) - Lightning\-Fast, On\-Device, Multilingual TTS — running natively via ONNX 
+* 【2026-05-14】[ton\-blockchain / acton](https://github.com/ton-blockchain/acton) - Toolchain for TON smart contract development and beyond
 * 【2026-05-10】[oracle\-devrel / oracle\-ai\-developer\-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub) - Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services
 * 【2026-05-09】[flutter / skills](https://github.com/flutter/skills) - 
 * 【2026-05-08】[addyosmani / agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -1728,6 +1731,7 @@
 
 ## Python
 
+* 【2026-05-14】[CloakHQ / CloakBrowser\-Manager](https://github.com/CloakHQ/CloakBrowser-Manager) - Web\-based browser profile manager for CloakBrowser — create, launch, and manage isolated browser profiles with unique fingerprints  Free, self\-hosted Multilogin alternative
 * 【2026-05-13】[Imbad0202 / academic\-research\-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 * 【2026-05-13】[openinterpreter / open\-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 * 【2026-05-13】[zhangfengcdt / memoir](https://github.com/zhangfengcdt/memoir) - Hierarchical Agent Memory with Git\-Like Version Control
@@ -3191,6 +3195,9 @@
 
 ## Javascript
 
+* 【2026-05-14】[microsoft / agent\-academy](https://github.com/microsoft/agent-academy) - Curated lessons on getting started building agents with Copilot Studio
+* 【2026-05-14】[evidence-dev / evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
+* 【2026-05-14】[notionnext\-org / NotionNext](https://github.com/notionnext-org/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options  No server required, zero threshold to set up a website  Designed for Notion and all creators )
 * 【2026-05-11】[heshengtao / super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
 * 【2026-05-10】[justlovemaki / AIClient2API](https://github.com/justlovemaki/AIClient2API) - Simulates Gemini CLI, Antigravity, Codex, Grok, and Kiro client requests, compatible with the OpenAI API  It supports thousands of Gemini model requests per day and offers free use of the built\-in Claude model in Kiro  Easily connect to any client via the API, making AI development more efficient!
 * 【2026-05-10】[presenton / presenton](https://github.com/presenton/presenton) - Open\-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
@@ -4594,6 +4601,7 @@
 
 ## C
 
+* 【2026-05-14】[bdth\-7777777 / OLED_UI](https://github.com/bdth-7777777/OLED_UI) - 一个丝滑的、可以轻松部署的OLED UI界面，包含基本的多级菜单，窗口等组件。
 * 【2026-05-12】[MrPowerGamerBR / Butterscotch](https://github.com/MrPowerGamerBR/Butterscotch) - 🥧 An open source re\-implementation of GameMaker: Studio's runner (YoYo Runner), targeting Undertale v1 08 (Bytecode Version 16)
 * 【2026-05-12】[meshcore\-dev / MeshCore](https://github.com/meshcore-dev/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
 * 【2026-05-11】[facebook / openzl](https://github.com/facebook/openzl) - A novel data compression framework
@@ -5088,6 +5096,7 @@
 
 ## C++
 
+* 【2026-05-14】[geo\-tp / ESP32\-Bit\-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web\-Based CLI That Speaks Every Protocol
 * 【2026-05-13】[encounter / aurora](https://github.com/encounter/aurora) - A source\-level GameCube & Wii compatibility layer
 * 【2026-05-13】[zeldaret / tww](https://github.com/zeldaret/tww) - Decompilation of The Legend of Zelda: The Wind Waker
 * 【2026-05-12】[quickshell-mirror / quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
@@ -6779,6 +6788,7 @@
 
 ## Unknown
 
+* 【2026-05-14】[op7418 / Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 * 【2026-05-13】[ParthJadhav / app\-store\-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI
 * 【2026-05-10】[vinegarhq / sober](https://github.com/vinegarhq/sober) - Runtime for Roblox on Linux
 * 【2026-05-10】[VoltAgent / awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
@@ -7593,6 +7603,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-14】[ton-blockchain / acton](https://github.com/ton-blockchain/acton) - Toolchain for TON smart contract development and beyond
+* 【2026-05-14】[NVIDIA / OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents 
+* 【2026-05-14】[hj01857655 / kiro-account-manager](https://github.com/hj01857655/kiro-account-manager) - 🚀 智能管理 Kiro IDE 账号，一键切换，配额监控 | 官网：https://kiro-website-six.vercel.app
 * 【2026-05-13】[hj01857655 / kiro\-account\-manager](https://github.com/hj01857655/kiro-account-manager) - 🚀 智能管理 Kiro IDE 账号，一键切换，配额监控 \| 官网：https://kiro\-website\-six vercel app
 * 【2026-05-13】[agavra / tuicr](https://github.com/agavra/tuicr) - a terminal UI for local code review
 * 【2026-05-13】[zizmorcore / zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
@@ -8615,6 +8628,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-14】[ErlichLiu / Proma](https://github.com/ErlichLiu/Proma) - 把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用、灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正跑在你每天用的地方。
 * 【2026-05-13】[THU-MAIC / OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 * 【2026-05-12】[cartesiancs / map3d](https://github.com/cartesiancs/map3d) - 🗺️ Generate City 3D map with R3F  Include building and road information 
 * 【2026-05-12】[silvertakana / worldwideview](https://github.com/silvertakana/worldwideview) - 
