@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-05-15】[supertone-inc / supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+* 【2026-05-15】[NVIDIA\-AI\-Blueprints / video\-search\-and\-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - Suite of reference architectures for building GPU\-accelerated vision agents and AI\-powered video analytics applications 
 * 【2026-05-14】[K-Dense-AI / scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 * 【2026-05-14】[supertone\-inc / supertonic](https://github.com/supertone-inc/supertonic) - Lightning\-Fast, On\-Device, Multilingual TTS — running natively via ONNX 
 * 【2026-05-14】[ton\-blockchain / acton](https://github.com/ton-blockchain/acton) - Toolchain for TON smart contract development and beyond
@@ -1731,6 +1733,12 @@
 
 ## Python
 
+* 【2026-05-15】[NVIDIA-AI-Blueprints / video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
+* 【2026-05-15】[wanshuiyin / Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
+* 【2026-05-15】[OthmanAdi / planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+* 【2026-05-15】[zubair\-trabzada / geo\-seo\-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO\-first SEO skill for Claude Code  Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform\-specific optimization, and PDF reports  If you want learn how to sell this to real businesses, check out the skool community
+* 【2026-05-15】[awslabs / agent\-plugins](https://github.com/awslabs/agent-plugins) - Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS 
+* 【2026-05-15】[argosopentech / argos\-translate](https://github.com/argosopentech/argos-translate) - Open\-source offline translation library written in Python
 * 【2026-05-14】[CloakHQ / CloakBrowser\-Manager](https://github.com/CloakHQ/CloakBrowser-Manager) - Web\-based browser profile manager for CloakBrowser — create, launch, and manage isolated browser profiles with unique fingerprints  Free, self\-hosted Multilogin alternative
 * 【2026-05-13】[Imbad0202 / academic\-research\-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 * 【2026-05-13】[openinterpreter / open\-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
@@ -3195,6 +3203,9 @@
 
 ## Javascript
 
+* 【2026-05-15】[Axorax / awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
+* 【2026-05-15】[hzm0321 / real\-time\-fund](https://github.com/hzm0321/real-time-fund) - 基金实时估值查看
+* 【2026-05-15】[notionnext-org / NotionNext](https://github.com/notionnext-org/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 * 【2026-05-14】[microsoft / agent\-academy](https://github.com/microsoft/agent-academy) - Curated lessons on getting started building agents with Copilot Studio
 * 【2026-05-14】[evidence-dev / evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
 * 【2026-05-14】[notionnext\-org / NotionNext](https://github.com/notionnext-org/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options  No server required, zero threshold to set up a website  Designed for Notion and all creators )
@@ -6788,6 +6799,8 @@
 
 ## Unknown
 
+* 【2026-05-15】[caramaschiHG / awesome\-ai\-agents\-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) - 🤖 The most comprehensive list of AI agents, frameworks & tools in 2026  300+ resources · 20+ categories · Updated monthly 
+* 【2026-05-15】[0PandaDEV / awesome\-windows](https://github.com/0PandaDEV/awesome-windows) - An awesome & curated list of tools and apps for Windows 10/11 
 * 【2026-05-14】[op7418 / Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 * 【2026-05-13】[ParthJadhav / app\-store\-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI
 * 【2026-05-10】[vinegarhq / sober](https://github.com/vinegarhq/sober) - Runtime for Roblox on Linux
@@ -7603,6 +7616,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-15】[Jakedismo / codegraph\-rust](https://github.com/Jakedismo/codegraph-rust) - 100% Rust implementation of code graphRAG with blazing fast AST+FastML parsing, surrealDB backend and advanced agentic code analysis tools through MCP for efficient code agent context management
 * 【2026-05-14】[ton-blockchain / acton](https://github.com/ton-blockchain/acton) - Toolchain for TON smart contract development and beyond
 * 【2026-05-14】[NVIDIA / OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents 
 * 【2026-05-14】[hj01857655 / kiro-account-manager](https://github.com/hj01857655/kiro-account-manager) - 🚀 智能管理 Kiro IDE 账号，一键切换，配额监控 | 官网：https://kiro-website-six.vercel.app
