@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-05-16】[joeseesun / qiaomu\-anything\-to\-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) - Claude Skill: Multi\-source content processor for NotebookLM  Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc 
 * 【2026-05-15】[supertone-inc / supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 * 【2026-05-15】[NVIDIA\-AI\-Blueprints / video\-search\-and\-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - Suite of reference architectures for building GPU\-accelerated vision agents and AI\-powered video analytics applications 
 * 【2026-05-14】[K-Dense-AI / scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
@@ -1253,6 +1254,8 @@
 
 ## Java
 
+* 【2026-05-16】[iflytek / skillhub](https://github.com/iflytek/skillhub) - Self\-hosted, open\-source agent skill registry for enterprises  Publish & version skill packages, govern with RBAC and audit logs, deploy on\-premise with Docker or Kubernetes 
+* 【2026-05-16】[kousen / claude-code-training](https://github.com/kousen/claude-code-training) - Slides and demos for a training course on Claude Code
 * 【2026-05-07】[deltachat / deltachat-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat-shared tools and games for Android
 * 【2026-05-06】[AidanPark / openclaw\-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
 * 【2026-05-06】[deltachat / deltachat\-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat\-shared tools and games for Android
@@ -1733,6 +1736,9 @@
 
 ## Python
 
+* 【2026-05-16】[joeseesun / qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) - Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
+* 【2026-05-16】[CodeBoarding / CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases
+* 【2026-05-16】[awslabs / agent-plugins](https://github.com/awslabs/agent-plugins) - Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS.
 * 【2026-05-15】[NVIDIA-AI-Blueprints / video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
 * 【2026-05-15】[wanshuiyin / Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
 * 【2026-05-15】[OthmanAdi / planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
@@ -3203,6 +3209,9 @@
 
 ## Javascript
 
+* 【2026-05-16】[ykdojo / claude\-code\-tips](https://github.com/ykdojo/claude-code-tips) - 45 tips for getting the most out of Claude Code, from basics to advanced \- includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container  Also includes the dx plugin 
+* 【2026-05-16】[phuc\-nt / my\-translator](https://github.com/phuc-nt/my-translator) - Real\-time speech translation — macOS & Windows, free TTS, no server, your API keys only
+* 【2026-05-16】[oracle / skills](https://github.com/oracle/skills) - Oracle DB Skills is a curated library of 100+ practical, documentation\-backed guides for working with Oracle Database, organized by domain
 * 【2026-05-15】[Axorax / awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
 * 【2026-05-15】[hzm0321 / real\-time\-fund](https://github.com/hzm0321/real-time-fund) - 基金实时估值查看
 * 【2026-05-15】[notionnext-org / NotionNext](https://github.com/notionnext-org/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
@@ -3978,6 +3987,9 @@
 
 ## Go
 
+* 【2026-05-16】[richkuo / go-trader](https://github.com/richkuo/go-trader) - Crypto trading bot — backtesting, paper trading, live trading with risk management
+* 【2026-05-16】[komari\-monitor / komari](https://github.com/komari-monitor/komari) - A simple server monitor tool 
+* 【2026-05-16】[llm\-d / llm\-d\-router](https://github.com/llm-d/llm-d-router) - llm\-d Router: The intelligent entry point for inference requests
 * 【2026-05-12】[BenedictKing / ccx](https://github.com/BenedictKing/ccx) - Claude / Codex / Gemini API Proxy \- CCX
 * 【2026-05-12】[gesellix / Bose\-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices
 * 【2026-05-11】[microsoft / waza](https://github.com/microsoft/waza) - CLI / Framework for Agent Skills \- create, test, measure and improve skill quality and effectiveness
@@ -5107,6 +5119,7 @@
 
 ## C++
 
+* 【2026-05-16】[electronicarts / mesh2splat](https://github.com/electronicarts/mesh2splat) - Fast mesh to 3D gaussian splat conversion
 * 【2026-05-14】[geo\-tp / ESP32\-Bit\-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web\-Based CLI That Speaks Every Protocol
 * 【2026-05-13】[encounter / aurora](https://github.com/encounter/aurora) - A source\-level GameCube & Wii compatibility layer
 * 【2026-05-13】[zeldaret / tww](https://github.com/zeldaret/tww) - Decompilation of The Legend of Zelda: The Wind Waker
@@ -6179,6 +6192,7 @@
 
 ## Html
 
+* 【2026-05-16】[ShubhangiRoy12 / MooVit](https://github.com/ShubhangiRoy12/MooVit) - MooVit is a smart real\-time safety assistant that helps visually impaired users by detecting people, vehicles, signals, and obstacles, and gives voice alerts to guide them safely in traffic and road environments  Designed for accessibility and easy use 
 * 【2026-05-13】[CyberAlbSecOP / Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning 
 * 【2026-05-12】[rust\-lang / blog rust\-lang org](https://github.com/rust-lang/blog.rust-lang.org) - Home of the Rust and Inside Rust blogs
 * 【2026-05-08】[horilla / horilla\-hr](https://github.com/horilla/horilla-hr) - Horilla is a free and open source HR and CRM software 
@@ -6799,6 +6813,7 @@
 
 ## Unknown
 
+* 【2026-05-16】[ParthJadhav / app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI
 * 【2026-05-15】[caramaschiHG / awesome\-ai\-agents\-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) - 🤖 The most comprehensive list of AI agents, frameworks & tools in 2026  300+ resources · 20+ categories · Updated monthly 
 * 【2026-05-15】[0PandaDEV / awesome\-windows](https://github.com/0PandaDEV/awesome-windows) - An awesome & curated list of tools and apps for Windows 10/11 
 * 【2026-05-14】[op7418 / Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
@@ -7616,6 +7631,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-16】[Jakedismo / codegraph-rust](https://github.com/Jakedismo/codegraph-rust) - 100% Rust implementation of code graphRAG with blazing fast AST+FastML parsing, surrealDB backend and advanced agentic code analysis tools through MCP for efficient code agent context management
+* 【2026-05-16】[juspay / hyperswitch\-prism](https://github.com/juspay/hyperswitch-prism) - One library \| Many payment processors \| Scale to multiple processors with few lines of code 
+* 【2026-05-16】[NVIDIA / infra\-controller\-core](https://github.com/NVIDIA/infra-controller-core) - NVIDIA Infra Controller \- Hardware Lifecycle Management and multitenant networking
 * 【2026-05-15】[Jakedismo / codegraph\-rust](https://github.com/Jakedismo/codegraph-rust) - 100% Rust implementation of code graphRAG with blazing fast AST+FastML parsing, surrealDB backend and advanced agentic code analysis tools through MCP for efficient code agent context management
 * 【2026-05-14】[ton-blockchain / acton](https://github.com/ton-blockchain/acton) - Toolchain for TON smart contract development and beyond
 * 【2026-05-14】[NVIDIA / OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents 
@@ -8642,6 +8660,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-16】[mengxi\-ream / read\-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog \- Open Source Immersive Translate \| 🐸 陪读蛙 \- 开源沉浸式翻译
 * 【2026-05-14】[ErlichLiu / Proma](https://github.com/ErlichLiu/Proma) - 把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用、灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正跑在你每天用的地方。
 * 【2026-05-13】[THU-MAIC / OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 * 【2026-05-12】[cartesiancs / map3d](https://github.com/cartesiancs/map3d) - 🗺️ Generate City 3D map with R3F  Include building and road information 
