@@ -1736,6 +1736,9 @@
 
 ## Python
 
+* 【2026-05-17】[HKUDS / CLI\-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI\-Anything: Making ALL Software Agent\-Native" \-\- CLI\-Hub: https://clianything cc/
+* 【2026-05-17】[dograh\-hq / dograh](https://github.com/dograh-hq/dograh) - Open Source Voice Agent Platform
+* 【2026-05-17】[BigBodyCobain / Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open\-source intelligence for the global theater  Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface  Hook an AI agent up to have it parse through data and find previously unseen correlations  The knowledge is available to all but rarely aggregated in the open, until now 
 * 【2026-05-16】[joeseesun / qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) - Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
 * 【2026-05-16】[CodeBoarding / CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases
 * 【2026-05-16】[awslabs / agent-plugins](https://github.com/awslabs/agent-plugins) - Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS.
@@ -3209,6 +3212,10 @@
 
 ## Javascript
 
+* 【2026-05-17】[ykdojo / claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin.
+* 【2026-05-17】[phuc-nt / my-translator](https://github.com/phuc-nt/my-translator) - Real-time speech translation — macOS & Windows, free TTS, no server, your API keys only
+* 【2026-05-17】[adobe / skills](https://github.com/adobe/skills) - Adobe Skills for Agents
+* 【2026-05-17】[renatoasse / opensquad](https://github.com/renatoasse/opensquad) - 
 * 【2026-05-16】[ykdojo / claude\-code\-tips](https://github.com/ykdojo/claude-code-tips) - 45 tips for getting the most out of Claude Code, from basics to advanced \- includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container  Also includes the dx plugin 
 * 【2026-05-16】[phuc\-nt / my\-translator](https://github.com/phuc-nt/my-translator) - Real\-time speech translation — macOS & Windows, free TTS, no server, your API keys only
 * 【2026-05-16】[oracle / skills](https://github.com/oracle/skills) - Oracle DB Skills is a curated library of 100+ practical, documentation\-backed guides for working with Oracle Database, organized by domain
@@ -3987,6 +3994,7 @@
 
 ## Go
 
+* 【2026-05-17】[gastownhall / gastown](https://github.com/gastownhall/gastown) - Gas Town \- multi\-agent workspace manager
 * 【2026-05-16】[richkuo / go-trader](https://github.com/richkuo/go-trader) - Crypto trading bot — backtesting, paper trading, live trading with risk management
 * 【2026-05-16】[komari\-monitor / komari](https://github.com/komari-monitor/komari) - A simple server monitor tool 
 * 【2026-05-16】[llm\-d / llm\-d\-router](https://github.com/llm-d/llm-d-router) - llm\-d Router: The intelligent entry point for inference requests
@@ -4624,6 +4632,7 @@
 
 ## C
 
+* 【2026-05-17】[CrazyCritic89 / SteamHapticsSinger](https://github.com/CrazyCritic89/SteamHapticsSinger) - This project is a fork of SteamControllerSinger which aims to be a successor 
 * 【2026-05-14】[bdth\-7777777 / OLED_UI](https://github.com/bdth-7777777/OLED_UI) - 一个丝滑的、可以轻松部署的OLED UI界面，包含基本的多级菜单，窗口等组件。
 * 【2026-05-12】[MrPowerGamerBR / Butterscotch](https://github.com/MrPowerGamerBR/Butterscotch) - 🥧 An open source re\-implementation of GameMaker: Studio's runner (YoYo Runner), targeting Undertale v1 08 (Bytecode Version 16)
 * 【2026-05-12】[meshcore\-dev / MeshCore](https://github.com/meshcore-dev/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
@@ -5645,6 +5654,7 @@
 
 ## C#
 
+* 【2026-05-17】[PCL-Community / PCL-CE](https://github.com/PCL-Community/PCL-CE) - PCL 社区版 由社区开发者维护与管理
 * 【2026-05-13】[Greedeks / GTweak](https://github.com/Greedeks/GTweak) - Portable Tool for an Ideal Windows Setup
 * 【2026-05-13】[microsoft / Power\-CAT\-Copilot\-Studio\-Kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit) - 
 * 【2026-05-10】[Alchyr / BaseLib\-StS2](https://github.com/Alchyr/BaseLib-StS2) - Mod for Slay the Spire 2 to standardize content additions
@@ -6813,6 +6823,7 @@
 
 ## Unknown
 
+* 【2026-05-17】[hyperspaceai / agi](https://github.com/hyperspaceai/agi) - The first distributed AGI system  Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here  Fully peer\-to\-peer  Join from your browser or CLI 
 * 【2026-05-16】[ParthJadhav / app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI
 * 【2026-05-15】[caramaschiHG / awesome\-ai\-agents\-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) - 🤖 The most comprehensive list of AI agents, frameworks & tools in 2026  300+ resources · 20+ categories · Updated monthly 
 * 【2026-05-15】[0PandaDEV / awesome\-windows](https://github.com/0PandaDEV/awesome-windows) - An awesome & curated list of tools and apps for Windows 10/11 
@@ -7631,6 +7642,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-17】[ilysenko / codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Run OpenAI Codex Desktop on Linux - automated installer
+* 【2026-05-17】[octos\-org / octos](https://github.com/octos-org/octos) - Octos \- Agentic Operating Systems
 * 【2026-05-16】[Jakedismo / codegraph-rust](https://github.com/Jakedismo/codegraph-rust) - 100% Rust implementation of code graphRAG with blazing fast AST+FastML parsing, surrealDB backend and advanced agentic code analysis tools through MCP for efficient code agent context management
 * 【2026-05-16】[juspay / hyperswitch\-prism](https://github.com/juspay/hyperswitch-prism) - One library \| Many payment processors \| Scale to multiple processors with few lines of code 
 * 【2026-05-16】[NVIDIA / infra\-controller\-core](https://github.com/NVIDIA/infra-controller-core) - NVIDIA Infra Controller \- Hardware Lifecycle Management and multitenant networking
@@ -8660,6 +8673,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-17】[Raiper34 / spooty](https://github.com/Raiper34/spooty) - Self\-hosted spotify downloader
+* 【2026-05-17】[getsentry / XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects 
+* 【2026-05-17】[tech\-leads\-club / agent\-skills](https://github.com/tech-leads-club/agent-skills) - The secure, validated skill registry for professional AI coding agents  Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence 
 * 【2026-05-16】[mengxi\-ream / read\-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog \- Open Source Immersive Translate \| 🐸 陪读蛙 \- 开源沉浸式翻译
 * 【2026-05-14】[ErlichLiu / Proma](https://github.com/ErlichLiu/Proma) - 把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用、灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正跑在你每天用的地方。
 * 【2026-05-13】[THU-MAIC / OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
