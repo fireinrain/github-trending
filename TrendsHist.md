@@ -1,5 +1,11 @@
 ## All language
 
+* 【2026-05-18】[HKUDS / CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+* 【2026-05-18】[tech-leads-club / agent-skills](https://github.com/tech-leads-club/agent-skills) - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
+* 【2026-05-18】[NirDiamant / agents\-towards\-production](https://github.com/NirDiamant/agents-towards-production) - End\-to\-end, code\-first tutorials for building production\-grade GenAI agents  From prototype to enterprise deployment 
+* 【2026-05-18】[dograh-hq / dograh](https://github.com/dograh-hq/dograh) - Open Source Voice Agent Platform
+* 【2026-05-18】[Light\-Heart\-Labs / DreamServer](https://github.com/Light-Heart-Labs/DreamServer) - Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation  No cloud, no subscriptions 
+* 【2026-05-18】[plausible / analytics](https://github.com/plausible/analytics) - Open source, privacy\-first web analytics  Lightweight, cookie\-free Google Analytics alternative  Self\-hosted or cloud 
 * 【2026-05-16】[joeseesun / qiaomu\-anything\-to\-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) - Claude Skill: Multi\-source content processor for NotebookLM  Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc 
 * 【2026-05-15】[supertone-inc / supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 * 【2026-05-15】[NVIDIA\-AI\-Blueprints / video\-search\-and\-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - Suite of reference architectures for building GPU\-accelerated vision agents and AI\-powered video analytics applications 
@@ -1736,6 +1742,9 @@
 
 ## Python
 
+* 【2026-05-18】[Light-Heart-Labs / DreamServer](https://github.com/Light-Heart-Labs/DreamServer) - Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.
+* 【2026-05-18】[Andyyyy64 / whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware  Ranked by real, recency\-aware benchmarks, not parameter count  One command, run it instantly 
+* 【2026-05-18】[GuDong2003 / xianyu\-auto\-reply\-fix](https://github.com/GuDong2003/xianyu-auto-reply-fix) - 闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台
 * 【2026-05-17】[HKUDS / CLI\-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI\-Anything: Making ALL Software Agent\-Native" \-\- CLI\-Hub: https://clianything cc/
 * 【2026-05-17】[dograh\-hq / dograh](https://github.com/dograh-hq/dograh) - Open Source Voice Agent Platform
 * 【2026-05-17】[BigBodyCobain / Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open\-source intelligence for the global theater  Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface  Hook an AI agent up to have it parse through data and find previously unseen correlations  The knowledge is available to all but rarely aggregated in the open, until now 
@@ -3212,6 +3221,9 @@
 
 ## Javascript
 
+* 【2026-05-18】[jackwener / OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website & Tool Your CLI  A universal CLI Hub and AI\-native runtime  Transform any website, Electron app, or local binary into a standardized command\-line interface  Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT md integration 
+* 【2026-05-18】[viru0909\-dev / nyay\-setu\-working](https://github.com/viru0909-dev/nyay-setu-working) - Digitalization of Judiciary System
+* 【2026-05-18】[pdone / lx\-music\-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
 * 【2026-05-17】[ykdojo / claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin.
 * 【2026-05-17】[phuc-nt / my-translator](https://github.com/phuc-nt/my-translator) - Real-time speech translation — macOS & Windows, free TTS, no server, your API keys only
 * 【2026-05-17】[adobe / skills](https://github.com/adobe/skills) - Adobe Skills for Agents
@@ -3994,6 +4006,9 @@
 
 ## Go
 
+* 【2026-05-18】[bruin\-data / dac](https://github.com/bruin-data/dac) - DaC is a dashboard\-as\-code tool  Build interactive dashboards using YAML and JSX  Built\-in semantic layer  Get your agents to build standardized, reviewable dashboards 
+* 【2026-05-18】[sleuth\-io / sx](https://github.com/sleuth-io/sx) - sx is a package manager for AI coding assistants
+* 【2026-05-18】[kernel / kernel\-images](https://github.com/kernel/kernel-images) - Browsers\-as\-a\-service for automations and web agents
 * 【2026-05-17】[gastownhall / gastown](https://github.com/gastownhall/gastown) - Gas Town \- multi\-agent workspace manager
 * 【2026-05-16】[richkuo / go-trader](https://github.com/richkuo/go-trader) - Crypto trading bot — backtesting, paper trading, live trading with risk management
 * 【2026-05-16】[komari\-monitor / komari](https://github.com/komari-monitor/komari) - A simple server monitor tool 
@@ -4632,6 +4647,7 @@
 
 ## C
 
+* 【2026-05-18】[Internet\-Architecture\-and\-Security / PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) - 🎯 A general\-purpose protocol stack analysis and debugging tool based on eBPF 🧰
 * 【2026-05-17】[CrazyCritic89 / SteamHapticsSinger](https://github.com/CrazyCritic89/SteamHapticsSinger) - This project is a fork of SteamControllerSinger which aims to be a successor 
 * 【2026-05-14】[bdth\-7777777 / OLED_UI](https://github.com/bdth-7777777/OLED_UI) - 一个丝滑的、可以轻松部署的OLED UI界面，包含基本的多级菜单，窗口等组件。
 * 【2026-05-12】[MrPowerGamerBR / Butterscotch](https://github.com/MrPowerGamerBR/Butterscotch) - 🥧 An open source re\-implementation of GameMaker: Studio's runner (YoYo Runner), targeting Undertale v1 08 (Bytecode Version 16)
@@ -5654,6 +5670,7 @@
 
 ## C#
 
+* 【2026-05-18】[Agustinm28 / Optiscaler\-Client](https://github.com/Agustinm28/Optiscaler-Client) - A modern manager for OptiScaler
 * 【2026-05-17】[PCL-Community / PCL-CE](https://github.com/PCL-Community/PCL-CE) - PCL 社区版 由社区开发者维护与管理
 * 【2026-05-13】[Greedeks / GTweak](https://github.com/Greedeks/GTweak) - Portable Tool for an Ideal Windows Setup
 * 【2026-05-13】[microsoft / Power\-CAT\-Copilot\-Studio\-Kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit) - 
@@ -6202,6 +6219,7 @@
 
 ## Html
 
+* 【2026-05-18】[ringhyacinth / Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) - A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.
 * 【2026-05-16】[ShubhangiRoy12 / MooVit](https://github.com/ShubhangiRoy12/MooVit) - MooVit is a smart real\-time safety assistant that helps visually impaired users by detecting people, vehicles, signals, and obstacles, and gives voice alerts to guide them safely in traffic and road environments  Designed for accessibility and easy use 
 * 【2026-05-13】[CyberAlbSecOP / Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning 
 * 【2026-05-12】[rust\-lang / blog rust\-lang org](https://github.com/rust-lang/blog.rust-lang.org) - Home of the Rust and Inside Rust blogs
@@ -6823,6 +6841,8 @@
 
 ## Unknown
 
+* 【2026-05-18】[bendc / frontend\-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices 
+* 【2026-05-18】[multica-ai / andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 * 【2026-05-17】[hyperspaceai / agi](https://github.com/hyperspaceai/agi) - The first distributed AGI system  Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here  Fully peer\-to\-peer  Join from your browser or CLI 
 * 【2026-05-16】[ParthJadhav / app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI
 * 【2026-05-15】[caramaschiHG / awesome\-ai\-agents\-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) - 🤖 The most comprehensive list of AI agents, frameworks & tools in 2026  300+ resources · 20+ categories · Updated monthly 
@@ -7642,6 +7662,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-18】[tokio\-rs / toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust
 * 【2026-05-17】[ilysenko / codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Run OpenAI Codex Desktop on Linux - automated installer
 * 【2026-05-17】[octos\-org / octos](https://github.com/octos-org/octos) - Octos \- Agentic Operating Systems
 * 【2026-05-16】[Jakedismo / codegraph-rust](https://github.com/Jakedismo/codegraph-rust) - 100% Rust implementation of code graphRAG with blazing fast AST+FastML parsing, surrealDB backend and advanced agentic code analysis tools through MCP for efficient code agent context management
@@ -8673,6 +8694,12 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-18】[NousResearch / hermes\-paperclip\-adapter](https://github.com/NousResearch/hermes-paperclip-adapter) - Paperclip adapter for Hermes Agent — run Hermes as a managed employee in a Paperclip company
+* 【2026-05-18】[eshaham / israeli\-bank\-scrapers](https://github.com/eshaham/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies
+* 【2026-05-18】[nilbuild / developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+* 【2026-05-18】[lee\-to / ai\-factory](https://github.com/lee-to/ai-factory) - You want to build with AI, but setting up the right context, prompts, and workflows takes time  AI Factory handles all of that so you can focus on what matters — shipping quality code 
+* 【2026-05-18】[getsentry / junior](https://github.com/getsentry/junior) - 
+* 【2026-05-18】[rohitg00 / skillkit](https://github.com/rohitg00/skillkit) - Supercharge AI coding agents with portable skills  Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more
 * 【2026-05-17】[Raiper34 / spooty](https://github.com/Raiper34/spooty) - Self\-hosted spotify downloader
 * 【2026-05-17】[getsentry / XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects 
 * 【2026-05-17】[tech\-leads\-club / agent\-skills](https://github.com/tech-leads-club/agent-skills) - The secure, validated skill registry for professional AI coding agents  Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence 
