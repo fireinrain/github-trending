@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-05-19】[Imbad0202 / academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 * 【2026-05-18】[HKUDS / CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 * 【2026-05-18】[tech-leads-club / agent-skills](https://github.com/tech-leads-club/agent-skills) - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
 * 【2026-05-18】[NirDiamant / agents\-towards\-production](https://github.com/NirDiamant/agents-towards-production) - End\-to\-end, code\-first tutorials for building production\-grade GenAI agents  From prototype to enterprise deployment 
@@ -1260,6 +1261,8 @@
 
 ## Java
 
+* 【2026-05-19】[Katana\-Official / SPatch\-Update](https://github.com/Katana-Official/SPatch-Update) - Update for SPatch nightly
+* 【2026-05-19】[j-shelfwood / voxy-neoforge](https://github.com/j-shelfwood/voxy-neoforge) - Unofficial NeoForge 1.21.1 port of Voxy (LOD mod) by MCRcortex - Community maintained
 * 【2026-05-16】[iflytek / skillhub](https://github.com/iflytek/skillhub) - Self\-hosted, open\-source agent skill registry for enterprises  Publish & version skill packages, govern with RBAC and audit logs, deploy on\-premise with Docker or Kubernetes 
 * 【2026-05-16】[kousen / claude-code-training](https://github.com/kousen/claude-code-training) - Slides and demos for a training course on Claude Code
 * 【2026-05-07】[deltachat / deltachat-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat-shared tools and games for Android
@@ -1742,6 +1745,8 @@
 
 ## Python
 
+* 【2026-05-19】[mattzh72 / articraft](https://github.com/mattzh72/articraft) - An Agentic System for Scalable Articulated 3D Asset Generation
+* 【2026-05-19】[zinja\-coder / jadx\-mcp\-server](https://github.com/zinja-coder/jadx-mcp-server) - MCP server for JADX\-AI Plugin
 * 【2026-05-18】[Light-Heart-Labs / DreamServer](https://github.com/Light-Heart-Labs/DreamServer) - Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.
 * 【2026-05-18】[Andyyyy64 / whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware  Ranked by real, recency\-aware benchmarks, not parameter count  One command, run it instantly 
 * 【2026-05-18】[GuDong2003 / xianyu\-auto\-reply\-fix](https://github.com/GuDong2003/xianyu-auto-reply-fix) - 闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台
@@ -3221,6 +3226,10 @@
 
 ## Javascript
 
+* 【2026-05-19】[affaan\-m / ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system  Skills, instincts, memory, security, and research\-first development for Claude Code, Codex, Opencode, Cursor and beyond 
+* 【2026-05-19】[truelockmc / streambert](https://github.com/truelockmc/streambert) - A cross\-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World  Zero Ads and Tracking
+* 【2026-05-19】[anubhavxdev / Event\-management\-system\-main](https://github.com/anubhavxdev/Event-management-system-main) - Full\-stack event management system with QR ticketing, real\-time check\-ins, organizer dashboards, and role\-based access  Stack: Node js · React · MongoDB · Socket IO · Tailwind CSS
+* 【2026-05-19】[viru0909-dev / nyay-setu-working](https://github.com/viru0909-dev/nyay-setu-working) - Digitalization of Judiciary System
 * 【2026-05-18】[jackwener / OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website & Tool Your CLI  A universal CLI Hub and AI\-native runtime  Transform any website, Electron app, or local binary into a standardized command\-line interface  Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT md integration 
 * 【2026-05-18】[viru0909\-dev / nyay\-setu\-working](https://github.com/viru0909-dev/nyay-setu-working) - Digitalization of Judiciary System
 * 【2026-05-18】[pdone / lx\-music\-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
@@ -4006,6 +4015,10 @@
 
 ## Go
 
+* 【2026-05-19】[wesm / agentsview](https://github.com/wesm/agentsview) - Local\-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and 14 other agents  Also: 100x faster replacement for ccusage!
+* 【2026-05-19】[hkdb / aerion](https://github.com/hkdb/aerion) - An Open Source Lightweight E\-Mail Client
+* 【2026-05-19】[anthropics / anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic's safety-first language model APIs via Go
+* 【2026-05-19】[haierkeys / fast\-note\-sync\-service](https://github.com/haierkeys/fast-note-sync-service) - High\-performance, low\-latency note synchronization, online management, and remote REST API service platform 
 * 【2026-05-18】[bruin\-data / dac](https://github.com/bruin-data/dac) - DaC is a dashboard\-as\-code tool  Build interactive dashboards using YAML and JSX  Built\-in semantic layer  Get your agents to build standardized, reviewable dashboards 
 * 【2026-05-18】[sleuth\-io / sx](https://github.com/sleuth-io/sx) - sx is a package manager for AI coding assistants
 * 【2026-05-18】[kernel / kernel\-images](https://github.com/kernel/kernel-images) - Browsers\-as\-a\-service for automations and web agents
@@ -5670,6 +5683,7 @@
 
 ## C#
 
+* 【2026-05-19】[Agustinm28 / Optiscaler-Client](https://github.com/Agustinm28/Optiscaler-Client) - A modern manager for OptiScaler
 * 【2026-05-18】[Agustinm28 / Optiscaler\-Client](https://github.com/Agustinm28/Optiscaler-Client) - A modern manager for OptiScaler
 * 【2026-05-17】[PCL-Community / PCL-CE](https://github.com/PCL-Community/PCL-CE) - PCL 社区版 由社区开发者维护与管理
 * 【2026-05-13】[Greedeks / GTweak](https://github.com/Greedeks/GTweak) - Portable Tool for an Ideal Windows Setup
@@ -6841,6 +6855,9 @@
 
 ## Unknown
 
+* 【2026-05-19】[yvoronoy / awesome\-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English 
+* 【2026-05-19】[tmylla / Awesome\-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) - An overview of LLMs for cybersecurity 
+* 【2026-05-19】[datawhalechina / team-learning](https://github.com/datawhalechina/team-learning) - 主要展示Datawhale的组队学习计划。
 * 【2026-05-18】[bendc / frontend\-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices 
 * 【2026-05-18】[multica-ai / andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 * 【2026-05-17】[hyperspaceai / agi](https://github.com/hyperspaceai/agi) - The first distributed AGI system  Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here  Fully peer\-to\-peer  Join from your browser or CLI 
@@ -7662,6 +7679,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-19】[zeroclaw-labs / zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 * 【2026-05-18】[tokio\-rs / toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust
 * 【2026-05-17】[ilysenko / codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Run OpenAI Codex Desktop on Linux - automated installer
 * 【2026-05-17】[octos\-org / octos](https://github.com/octos-org/octos) - Octos \- Agentic Operating Systems
@@ -8694,6 +8712,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-19】[nanocoai / nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security  Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+* 【2026-05-19】[lukilabs / beautiful\-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
+* 【2026-05-19】[rmyndharis / OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self\-Hosted WhatsApp API Gateway
 * 【2026-05-18】[NousResearch / hermes\-paperclip\-adapter](https://github.com/NousResearch/hermes-paperclip-adapter) - Paperclip adapter for Hermes Agent — run Hermes as a managed employee in a Paperclip company
 * 【2026-05-18】[eshaham / israeli\-bank\-scrapers](https://github.com/eshaham/israeli-bank-scrapers) - Provide scrapers for all major Israeli banks and credit card companies
 * 【2026-05-18】[nilbuild / developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
