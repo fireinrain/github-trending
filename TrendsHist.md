@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-05-20】[Diolinux / PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 * 【2026-05-19】[Imbad0202 / academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 * 【2026-05-18】[HKUDS / CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 * 【2026-05-18】[tech-leads-club / agent-skills](https://github.com/tech-leads-club/agent-skills) - The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.
@@ -1261,6 +1262,7 @@
 
 ## Java
 
+* 【2026-05-20】[mubashardev / WaEnhancerX](https://github.com/mubashardev/WaEnhancerX) - 1  Wa Enhancer X \| WhatsApp tools for Android
 * 【2026-05-19】[Katana\-Official / SPatch\-Update](https://github.com/Katana-Official/SPatch-Update) - Update for SPatch nightly
 * 【2026-05-19】[j-shelfwood / voxy-neoforge](https://github.com/j-shelfwood/voxy-neoforge) - Unofficial NeoForge 1.21.1 port of Voxy (LOD mod) by MCRcortex - Community maintained
 * 【2026-05-16】[iflytek / skillhub](https://github.com/iflytek/skillhub) - Self\-hosted, open\-source agent skill registry for enterprises  Publish & version skill packages, govern with RBAC and audit logs, deploy on\-premise with Docker or Kubernetes 
@@ -1745,6 +1747,9 @@
 
 ## Python
 
+* 【2026-05-20】[HanaokaYuzu / Gemini\-API](https://github.com/HanaokaYuzu/Gemini-API) - ✨ Reverse\-engineered Python API for Google Gemini web app
+* 【2026-05-20】[Flowseal / tg\-ws\-proxy](https://github.com/Flowseal/tg-ws-proxy) - Local MTProto proxy server for partial bypassing of Telegram loading
+* 【2026-05-20】[tirth8205 / code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 * 【2026-05-19】[mattzh72 / articraft](https://github.com/mattzh72/articraft) - An Agentic System for Scalable Articulated 3D Asset Generation
 * 【2026-05-19】[zinja\-coder / jadx\-mcp\-server](https://github.com/zinja-coder/jadx-mcp-server) - MCP server for JADX\-AI Plugin
 * 【2026-05-18】[Light-Heart-Labs / DreamServer](https://github.com/Light-Heart-Labs/DreamServer) - Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.
@@ -6855,6 +6860,7 @@
 
 ## Unknown
 
+* 【2026-05-20】[android / skills](https://github.com/android/skills) - 
 * 【2026-05-19】[yvoronoy / awesome\-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English 
 * 【2026-05-19】[tmylla / Awesome\-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) - An overview of LLMs for cybersecurity 
 * 【2026-05-19】[datawhalechina / team-learning](https://github.com/datawhalechina/team-learning) - 主要展示Datawhale的组队学习计划。
