@@ -1,5 +1,9 @@
 ## All language
 
+* 【2026-05-21】[rohitg00 / ai\-engineering\-from\-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it  Build it  Ship it for others 
+* 【2026-05-21】[can1357 / oh\-my\-pi](https://github.com/can1357/oh-my-pi) - ⌥ AI Coding agent for the terminal — hash\-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+* 【2026-05-21】[opentoonz / opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz \- An open\-source full\-featured 2D animation creation software
+* 【2026-05-21】[zakirullin / files md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking  A simple app for your  md files 
 * 【2026-05-20】[Diolinux / PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 * 【2026-05-19】[Imbad0202 / academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 * 【2026-05-18】[HKUDS / CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
@@ -1747,6 +1751,9 @@
 
 ## Python
 
+* 【2026-05-21】[rohitg00 / ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
+* 【2026-05-21】[karpathy / autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single\-GPU nanochat training automatically
+* 【2026-05-21】[PastKing / tgbot\-verify](https://github.com/PastKing/tgbot-verify) - 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
 * 【2026-05-20】[HanaokaYuzu / Gemini\-API](https://github.com/HanaokaYuzu/Gemini-API) - ✨ Reverse\-engineered Python API for Google Gemini web app
 * 【2026-05-20】[Flowseal / tg\-ws\-proxy](https://github.com/Flowseal/tg-ws-proxy) - Local MTProto proxy server for partial bypassing of Telegram loading
 * 【2026-05-20】[tirth8205 / code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
@@ -3231,6 +3238,7 @@
 
 ## Javascript
 
+* 【2026-05-21】[rohitg00 / pro\-workflow](https://github.com/rohitg00/pro-workflow) - Claude Code learns from your corrections: self\-correcting memory that compounds over 50+ sessions  Context engineering, parallel worktrees, agent teams, and 17 battle\-tested skills 
 * 【2026-05-19】[affaan\-m / ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system  Skills, instincts, memory, security, and research\-first development for Claude Code, Codex, Opencode, Cursor and beyond 
 * 【2026-05-19】[truelockmc / streambert](https://github.com/truelockmc/streambert) - A cross\-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World  Zero Ads and Tracking
 * 【2026-05-19】[anubhavxdev / Event\-management\-system\-main](https://github.com/anubhavxdev/Event-management-system-main) - Full\-stack event management system with QR ticketing, real\-time check\-ins, organizer dashboards, and role\-based access  Stack: Node js · React · MongoDB · Socket IO · Tailwind CSS
@@ -4020,6 +4028,8 @@
 
 ## Go
 
+* 【2026-05-21】[zakirullin / files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. A simple app for your .md files.
+* 【2026-05-21】[Armur\-Ai / Pentest\-Swarm\-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Autonomous penetration testing using a swarm of AI agents  Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes  Built with Go, Claude API, and 7+ native security tools 
 * 【2026-05-19】[wesm / agentsview](https://github.com/wesm/agentsview) - Local\-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and 14 other agents  Also: 100x faster replacement for ccusage!
 * 【2026-05-19】[hkdb / aerion](https://github.com/hkdb/aerion) - An Open Source Lightweight E\-Mail Client
 * 【2026-05-19】[anthropics / anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic's safety-first language model APIs via Go
@@ -5688,6 +5698,8 @@
 
 ## C#
 
+* 【2026-05-21】[ss14Starlight / space\-station\-14](https://github.com/ss14Starlight/space-station-14) - An open source project aimed at creating unique mechanics and a pleasant game atmosphere in the game Space Station 14
+* 【2026-05-21】[BrianLima / UWPHook](https://github.com/BrianLima/UWPHook) - 🔗 Add your Windows Store or UWP games to Steam
 * 【2026-05-19】[Agustinm28 / Optiscaler-Client](https://github.com/Agustinm28/Optiscaler-Client) - A modern manager for OptiScaler
 * 【2026-05-18】[Agustinm28 / Optiscaler\-Client](https://github.com/Agustinm28/Optiscaler-Client) - A modern manager for OptiScaler
 * 【2026-05-17】[PCL-Community / PCL-CE](https://github.com/PCL-Community/PCL-CE) - PCL 社区版 由社区开发者维护与管理
@@ -6238,6 +6250,7 @@
 
 ## Html
 
+* 【2026-05-21】[sovereign / sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more 
 * 【2026-05-18】[ringhyacinth / Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) - A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.
 * 【2026-05-16】[ShubhangiRoy12 / MooVit](https://github.com/ShubhangiRoy12/MooVit) - MooVit is a smart real\-time safety assistant that helps visually impaired users by detecting people, vehicles, signals, and obstacles, and gives voice alerts to guide them safely in traffic and road environments  Designed for accessibility and easy use 
 * 【2026-05-13】[CyberAlbSecOP / Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning 
@@ -6860,6 +6873,7 @@
 
 ## Unknown
 
+* 【2026-05-21】[WangRongsheng / awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
 * 【2026-05-20】[android / skills](https://github.com/android/skills) - 
 * 【2026-05-19】[yvoronoy / awesome\-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English 
 * 【2026-05-19】[tmylla / Awesome\-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) - An overview of LLMs for cybersecurity 
@@ -7685,6 +7699,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-21】[bountyyfi / lonkero](https://github.com/bountyyfi/lonkero) - Lonkero \- Wraps around your attack surface  Professional\-grade scanner for real penetration testing  Fast  Modular  Rust 
 * 【2026-05-19】[zeroclaw-labs / zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 * 【2026-05-18】[tokio\-rs / toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust
 * 【2026-05-17】[ilysenko / codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Run OpenAI Codex Desktop on Linux - automated installer
@@ -8718,6 +8733,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-21】[can1357 / oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+* 【2026-05-21】[Lum1104 / Understand\-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach > graphs that impress  Turn any code into an interactive knowledge graph you can explore, search, and ask questions about  Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more 
 * 【2026-05-19】[nanocoai / nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security  Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
 * 【2026-05-19】[lukilabs / beautiful\-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 * 【2026-05-19】[rmyndharis / OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self\-Hosted WhatsApp API Gateway
