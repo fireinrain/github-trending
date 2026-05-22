@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-05-22】[antoinezambelli / forge](https://github.com/antoinezambelli/forge) - A Python framework for self\-hosted LLM tool\-calling and multi\-step agentic workflows
+* 【2026-05-22】[Lum1104 / Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 * 【2026-05-21】[rohitg00 / ai\-engineering\-from\-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it  Build it  Ship it for others 
 * 【2026-05-21】[can1357 / oh\-my\-pi](https://github.com/can1357/oh-my-pi) - ⌥ AI Coding agent for the terminal — hash\-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 * 【2026-05-21】[opentoonz / opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz \- An open\-source full\-featured 2D animation creation software
@@ -3238,6 +3240,8 @@
 
 ## Javascript
 
+* 【2026-05-22】[mnfst / awesome\-free\-llm\-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API (API Keys)
+* 【2026-05-22】[fbsamples / whatsapp\-business\-jaspers\-market](https://github.com/fbsamples/whatsapp-business-jaspers-market) - Sample Whatsapp App \- Jasper's Market
 * 【2026-05-21】[rohitg00 / pro\-workflow](https://github.com/rohitg00/pro-workflow) - Claude Code learns from your corrections: self\-correcting memory that compounds over 50+ sessions  Context engineering, parallel worktrees, agent teams, and 17 battle\-tested skills 
 * 【2026-05-19】[affaan\-m / ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system  Skills, instincts, memory, security, and research\-first development for Claude Code, Codex, Opencode, Cursor and beyond 
 * 【2026-05-19】[truelockmc / streambert](https://github.com/truelockmc/streambert) - A cross\-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World  Zero Ads and Tracking
@@ -4028,6 +4032,9 @@
 
 ## Go
 
+* 【2026-05-22】[cinar / indicator](https://github.com/cinar/indicator) - Indicator Go delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework  No dependencies, just pure simplicity  ✨ See how! 👀
+* 【2026-05-22】[luckyPipewrench / pipelock](https://github.com/luckyPipewrench/pipelock) - Open\-source AI agent firewall for MCP security: agent egress control, DLP, SSRF, and prompt injection defense 
+* 【2026-05-22】[safedep / pmg](https://github.com/safedep/pmg) - PMG protects developers, AI agents from malicious open source packages using proxy, sandbox and SafeDep's threat intelligence feed 
 * 【2026-05-21】[zakirullin / files.md](https://github.com/zakirullin/files.md) - 🌱 Private, quiet space for thinking. A simple app for your .md files.
 * 【2026-05-21】[Armur\-Ai / Pentest\-Swarm\-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Autonomous penetration testing using a swarm of AI agents  Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes  Built with Go, Claude API, and 7+ native security tools 
 * 【2026-05-19】[wesm / agentsview](https://github.com/wesm/agentsview) - Local\-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and 14 other agents  Also: 100x faster replacement for ccusage!
@@ -4675,6 +4682,9 @@
 
 ## C
 
+* 【2026-05-22】[OpenTenBase / OpenTenBase](https://github.com/OpenTenBase/OpenTenBase) - OpenTenBase is an enterprise\-level distributed HTAP open source database 
+* 【2026-05-22】[meshcore-dev / MeshCore](https://github.com/meshcore-dev/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
+* 【2026-05-22】[Boxingbruin / Pandemonium](https://github.com/Boxingbruin/Pandemonium) - Game jam!
 * 【2026-05-18】[Internet\-Architecture\-and\-Security / PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) - 🎯 A general\-purpose protocol stack analysis and debugging tool based on eBPF 🧰
 * 【2026-05-17】[CrazyCritic89 / SteamHapticsSinger](https://github.com/CrazyCritic89/SteamHapticsSinger) - This project is a fork of SteamControllerSinger which aims to be a successor 
 * 【2026-05-14】[bdth\-7777777 / OLED_UI](https://github.com/bdth-7777777/OLED_UI) - 一个丝滑的、可以轻松部署的OLED UI界面，包含基本的多级菜单，窗口等组件。
@@ -5172,6 +5182,7 @@
 
 ## C++
 
+* 【2026-05-22】[OpenTenBase / TXSQL](https://github.com/OpenTenBase/TXSQL) - 
 * 【2026-05-16】[electronicarts / mesh2splat](https://github.com/electronicarts/mesh2splat) - Fast mesh to 3D gaussian splat conversion
 * 【2026-05-14】[geo\-tp / ESP32\-Bit\-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web\-Based CLI That Speaks Every Protocol
 * 【2026-05-13】[encounter / aurora](https://github.com/encounter/aurora) - A source\-level GameCube & Wii compatibility layer
@@ -6250,6 +6261,7 @@
 
 ## Html
 
+* 【2026-05-22】[karpathy / jobs](https://github.com/karpathy/jobs) - A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data  This is not a report, a paper, or a serious economic publication — it is a development tool for exploring BLS data visually 
 * 【2026-05-21】[sovereign / sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more 
 * 【2026-05-18】[ringhyacinth / Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) - A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.
 * 【2026-05-16】[ShubhangiRoy12 / MooVit](https://github.com/ShubhangiRoy12/MooVit) - MooVit is a smart real\-time safety assistant that helps visually impaired users by detecting people, vehicles, signals, and obstacles, and gives voice alerts to guide them safely in traffic and road environments  Designed for accessibility and easy use 
@@ -7699,6 +7711,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-22】[mmalmi / nostr\-vpn](https://github.com/mmalmi/nostr-vpn) - 
+* 【2026-05-22】[Polymarket / polymarket\-cli](https://github.com/Polymarket/polymarket-cli) - 
 * 【2026-05-21】[bountyyfi / lonkero](https://github.com/bountyyfi/lonkero) - Lonkero \- Wraps around your attack surface  Professional\-grade scanner for real penetration testing  Fast  Modular  Rust 
 * 【2026-05-19】[zeroclaw-labs / zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 * 【2026-05-18】[tokio\-rs / toasty](https://github.com/tokio-rs/toasty) - An async ORM for Rust
@@ -8733,6 +8747,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-22】[software\-mansion / argent](https://github.com/software-mansion/argent) - An agentic toolkit to control, debug, and profile iOS and Android apps  Made by Software Mansion 
 * 【2026-05-21】[can1357 / oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 * 【2026-05-21】[Lum1104 / Understand\-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach > graphs that impress  Turn any code into an interactive knowledge graph you can explore, search, and ask questions about  Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more 
 * 【2026-05-19】[nanocoai / nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security  Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
