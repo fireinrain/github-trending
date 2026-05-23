@@ -1268,6 +1268,7 @@
 
 ## Java
 
+* 【2026-05-23】[ArcadeData / arcadedb](https://github.com/ArcadeData/arcadedb) - ArcadeDB Multi\-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis  ArcadeDB is a conceptual fork of OrientDB, the first Multi\-Model DBMS  ArcadeDB supports Vector Embeddings 
 * 【2026-05-20】[mubashardev / WaEnhancerX](https://github.com/mubashardev/WaEnhancerX) - 1  Wa Enhancer X \| WhatsApp tools for Android
 * 【2026-05-19】[Katana\-Official / SPatch\-Update](https://github.com/Katana-Official/SPatch-Update) - Update for SPatch nightly
 * 【2026-05-19】[j-shelfwood / voxy-neoforge](https://github.com/j-shelfwood/voxy-neoforge) - Unofficial NeoForge 1.21.1 port of Voxy (LOD mod) by MCRcortex - Community maintained
@@ -1753,6 +1754,9 @@
 
 ## Python
 
+* 【2026-05-23】[facebookresearch / sam3](https://github.com/facebookresearch/sam3) - The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show how to use the model 
+* 【2026-05-23】[aiming\-lab / AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous & self\-evolving research from idea to paper  Chat an Idea  Get a Paper  🦞
+* 【2026-05-23】[microsoft / agent\-governance\-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero\-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents  Covers 10/10 OWASP Agentic Top 10 
 * 【2026-05-21】[rohitg00 / ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 * 【2026-05-21】[karpathy / autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single\-GPU nanochat training automatically
 * 【2026-05-21】[PastKing / tgbot\-verify](https://github.com/PastKing/tgbot-verify) - 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
@@ -3240,6 +3244,7 @@
 
 ## Javascript
 
+* 【2026-05-23】[zarazhangrui / follow\-builders](https://github.com/zarazhangrui/follow-builders) - AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries  Follow builders, not influencers 
 * 【2026-05-22】[mnfst / awesome\-free\-llm\-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API (API Keys)
 * 【2026-05-22】[fbsamples / whatsapp\-business\-jaspers\-market](https://github.com/fbsamples/whatsapp-business-jaspers-market) - Sample Whatsapp App \- Jasper's Market
 * 【2026-05-21】[rohitg00 / pro\-workflow](https://github.com/rohitg00/pro-workflow) - Claude Code learns from your corrections: self\-correcting memory that compounds over 50+ sessions  Context engineering, parallel worktrees, agent teams, and 17 battle\-tested skills 
@@ -5709,6 +5714,8 @@
 
 ## C#
 
+* 【2026-05-23】[iOfficeAI / OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite purpose\-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files  Free, open\-source, single binary, no Office installation required 
+* 【2026-05-23】[velopack / velopack](https://github.com/velopack/velopack) - Installer and automatic update framework for cross\-platform desktop applications
 * 【2026-05-21】[ss14Starlight / space\-station\-14](https://github.com/ss14Starlight/space-station-14) - An open source project aimed at creating unique mechanics and a pleasant game atmosphere in the game Space Station 14
 * 【2026-05-21】[BrianLima / UWPHook](https://github.com/BrianLima/UWPHook) - 🔗 Add your Windows Store or UWP games to Steam
 * 【2026-05-19】[Agustinm28 / Optiscaler-Client](https://github.com/Agustinm28/Optiscaler-Client) - A modern manager for OptiScaler
@@ -6261,6 +6268,8 @@
 
 ## Html
 
+* 【2026-05-23】[majiayu000 / claude\-skill\-registry](https://github.com/majiayu000/claude-skill-registry) - The most comprehensive Claude Code skills registry \| Web Search: https://skills\-registry\-web vercel app
+* 【2026-05-23】[janavipandole / Cara](https://github.com/janavipandole/Cara) - E\-Commerce Website is a modern, responsive, and fully functional online shopping platform built to deliver a smooth and user\-friendly experience  This project allows users to browse products, add them to cart, and securely checkout  It features a clean UI, product search, categories, and order management 
 * 【2026-05-22】[karpathy / jobs](https://github.com/karpathy/jobs) - A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data  This is not a report, a paper, or a serious economic publication — it is a development tool for exploring BLS data visually 
 * 【2026-05-21】[sovereign / sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more 
 * 【2026-05-18】[ringhyacinth / Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) - A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.
@@ -7711,6 +7720,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-23】[mmalmi / nostr-vpn](https://github.com/mmalmi/nostr-vpn) - 
 * 【2026-05-22】[mmalmi / nostr\-vpn](https://github.com/mmalmi/nostr-vpn) - 
 * 【2026-05-22】[Polymarket / polymarket\-cli](https://github.com/Polymarket/polymarket-cli) - 
 * 【2026-05-21】[bountyyfi / lonkero](https://github.com/bountyyfi/lonkero) - Lonkero \- Wraps around your attack surface  Professional\-grade scanner for real penetration testing  Fast  Modular  Rust 
@@ -8747,6 +8757,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-23】[MemTensor / MemOS](https://github.com/MemTensor/MemOS) - Self\-evolving memory OS for LLM & AI Agents: ultra\-persistent memory, hybrid\-retrieval, and cross\-task skill reuse, with 35 24% token savings
 * 【2026-05-22】[software\-mansion / argent](https://github.com/software-mansion/argent) - An agentic toolkit to control, debug, and profile iOS and Android apps  Made by Software Mansion 
 * 【2026-05-21】[can1357 / oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 * 【2026-05-21】[Lum1104 / Understand\-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach > graphs that impress  Turn any code into an interactive knowledge graph you can explore, search, and ask questions about  Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more 
