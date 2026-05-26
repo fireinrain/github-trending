@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-05-26】[affaan-m / ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+* 【2026-05-26】[Leonxlnx / taste\-skill](https://github.com/Leonxlnx/taste-skill) - Taste\-Skill \- gives your AI good taste  stops the AI from generating boring, generic slop
 * 【2026-05-25】[anthropics / knowledge\-work\-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 * 【2026-05-25】[manaflow-ai / cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 * 【2026-05-24】[mukul975 / Anthropic\-Cybersecurity\-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2 0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2 0
@@ -1273,6 +1275,7 @@
 
 ## Java
 
+* 【2026-05-26】[AuthMe / AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded) - The best authentication plugin for the Bukkit/Spigot API!
 * 【2026-05-25】[microsoft / copilot-for-eclipse](https://github.com/microsoft/copilot-for-eclipse) - GitHub Copilot plugin for Eclipse IDE
 * 【2026-05-24】[microsoft / copilot\-for\-eclipse](https://github.com/microsoft/copilot-for-eclipse) - GitHub Copilot plugin for Eclipse IDE
 * 【2026-05-23】[ArcadeData / arcadedb](https://github.com/ArcadeData/arcadedb) - ArcadeDB Multi\-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis  ArcadeDB is a conceptual fork of OrientDB, the first Multi\-Model DBMS  ArcadeDB supports Vector Embeddings 
@@ -1761,6 +1764,9 @@
 
 ## Python
 
+* 【2026-05-26】[microsoft / agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
+* 【2026-05-26】[st\-tech / ppf\-contact\-solver](https://github.com/st-tech/ppf-contact-solver) - A contact solver for physics\-based simulations involving 👚 shells, 🪵 solids and 🪢 rods 
+* 【2026-05-26】[freqtrade / freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
 * 【2026-05-25】[anthropics / knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 * 【2026-05-25】[bleachbit / bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 * 【2026-05-25】[elder\-plinius / OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) - OBLITERATE THE CHAINS THAT BIND YOU
@@ -4048,6 +4054,7 @@
 
 ## Go
 
+* 【2026-05-26】[openclaw / gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal 
 * 【2026-05-25】[mvanhorn / cli\-printing\-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity  This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands 
 * 【2026-05-22】[cinar / indicator](https://github.com/cinar/indicator) - Indicator Go delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework  No dependencies, just pure simplicity  ✨ See how! 👀
 * 【2026-05-22】[luckyPipewrench / pipelock](https://github.com/luckyPipewrench/pipelock) - Open\-source AI agent firewall for MCP security: agent egress control, DLP, SSRF, and prompt injection defense 
@@ -4699,6 +4706,7 @@
 
 ## C
 
+* 【2026-05-26】[EchoStretch / kstuff-lite](https://github.com/EchoStretch/kstuff-lite) - 
 * 【2026-05-25】[streetpea / chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 * 【2026-05-25】[EchoStretch / kstuff\-lite](https://github.com/EchoStretch/kstuff-lite) - 
 * 【2026-05-24】[vChewing / vChewing\-macOS](https://github.com/vChewing/vChewing-macOS) - 唯音輸入法 macOS 版，恐怕是截至目前為止在功能多樣性方面最強的第三方免費 macOS 系統專用輸入法，採純 Swift 語言寫就。唯音的著力點是盡可能在力所能及的範圍內將整個產品的功能做得更好用，搭配特製的簡體中文與繁體中文專用辭庫。是純粹的簡體中文注音輸入法（也內贈原生繁體中文輸入模式），更具諸多唯音特色功能。目前研發管理工作均在 AtomGit 進行。
@@ -5732,6 +5740,9 @@
 
 ## C#
 
+* 【2026-05-26】[MiniMax\-AI / skills](https://github.com/MiniMax-AI/skills) - 
+* 【2026-05-26】[Polytoria / polytoria\-game](https://github.com/Polytoria/polytoria-game) - Polytoria, a multiplayer gaming platform built with Godot and  NET
+* 【2026-05-26】[ed0ard / CS2\-Bot\-Improver](https://github.com/ed0ard/CS2-Bot-Improver) - CS2\-Bot\-Improver is a plugin for Counter\-Strike 2 that improves bots' aim, movement, nade throwing, personalities, strategies, etc  Aims to enhance your experience when playing against bots offline or with friends  It can be installed on both clients and servers 
 * 【2026-05-25】[cagritaskn / SplitWire-Turkey](https://github.com/cagritaskn/SplitWire-Turkey) - SplitWire-Turkey, çeşitli yöntemlerle kısıt aşma aracı.
 * 【2026-05-23】[iOfficeAI / OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite purpose\-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files  Free, open\-source, single binary, no Office installation required 
 * 【2026-05-23】[velopack / velopack](https://github.com/velopack/velopack) - Installer and automatic update framework for cross\-platform desktop applications
@@ -6287,6 +6298,7 @@
 
 ## Html
 
+* 【2026-05-26】[whale\-Yd00 / freeapp](https://github.com/whale-Yd00/freeapp) - 一个ai聊天项目
 * 【2026-05-24】[OCA / stock\-logistics\-warehouse](https://github.com/OCA/stock-logistics-warehouse) - Odoo Warehouse Management Addons
 * 【2026-05-23】[majiayu000 / claude\-skill\-registry](https://github.com/majiayu000/claude-skill-registry) - The most comprehensive Claude Code skills registry \| Web Search: https://skills\-registry\-web vercel app
 * 【2026-05-23】[janavipandole / Cara](https://github.com/janavipandole/Cara) - E\-Commerce Website is a modern, responsive, and fully functional online shopping platform built to deliver a smooth and user\-friendly experience  This project allows users to browse products, add them to cart, and securely checkout  It features a clean UI, product search, categories, and order management 
@@ -6914,6 +6926,8 @@
 
 ## Unknown
 
+* 【2026-05-26】[Makerr-Studio / CentrifugalDustSeparator-](https://github.com/Makerr-Studio/CentrifugalDustSeparator-) - Centrifugal Dust Separator - 3D Files for printing
+* 【2026-05-26】[anthropics / claude\-plugins\-community](https://github.com/anthropics/claude-plugins-community) - Community plugin marketplace for Claude Cowork and Claude Code  Read\-only mirror — submit plugins at clau de/plugin\-directory\-submission 
 * 【2026-05-21】[WangRongsheng / awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
 * 【2026-05-20】[android / skills](https://github.com/android/skills) - 
 * 【2026-05-19】[yvoronoy / awesome\-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English 
@@ -7740,6 +7754,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-26】[grpc / grpc-rust](https://github.com/grpc/grpc-rust) - A native gRPC client & server implementation with async/await support.
 * 【2026-05-24】[grpc / grpc\-rust](https://github.com/grpc/grpc-rust) - A native gRPC client & server implementation with async/await support 
 * 【2026-05-23】[mmalmi / nostr-vpn](https://github.com/mmalmi/nostr-vpn) - 
 * 【2026-05-22】[mmalmi / nostr\-vpn](https://github.com/mmalmi/nostr-vpn) - 
@@ -8778,6 +8793,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-26】[NateBJones\-Projects / OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking  One database, one AI gateway, one chat channel — any AI plugs in  No middleware, no SaaS 
 * 【2026-05-24】[chenglou / pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 * 【2026-05-24】[GoogleChrome / modern\-web\-guidance\-src](https://github.com/GoogleChrome/modern-web-guidance-src) - 
 * 【2026-05-23】[MemTensor / MemOS](https://github.com/MemTensor/MemOS) - Self\-evolving memory OS for LLM & AI Agents: ultra\-persistent memory, hybrid\-retrieval, and cross\-task skill reuse, with 35 24% token savings
