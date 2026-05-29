@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-05-29】[OpenMOSS / MOSS\-TTS](https://github.com/OpenMOSS/MOSS-TTS) - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI AI and the OpenMOSS team  It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS 
 * 【2026-05-28】[Chachamaru127 / claude\-code\-harness](https://github.com/Chachamaru127/claude-code-harness) - Claude Code Dedicated Development Harness \- Achieving High\-Quality Development Through an Autonomous Plan→Work→Review Cycle
 * 【2026-05-27】[Leonxlnx / taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 * 【2026-05-27】[st-tech / ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver) - A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.
@@ -1768,6 +1769,10 @@
 
 ## Python
 
+* 【2026-05-29】[OpenMOSS / MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.
+* 【2026-05-29】[microsoft / RAMPART](https://github.com/microsoft/RAMPART) - A pytest\-native safety and security testing framework for agentic AI applications
+* 【2026-05-29】[ariadng / metatrader\-mcp\-server](https://github.com/ariadng/metatrader-mcp-server) - Model Context Protocol (MCP) to enable AI LLMs to trade using MetaTrader platform
+* 【2026-05-29】[adithya\-s\-k / omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks
 * 【2026-05-28】[NVIDIA-NeMo / Megatron-Bridge](https://github.com/NVIDIA-NeMo/Megatron-Bridge) - Training library for Megatron-based models with bidirectional Hugging Face conversion capability
 * 【2026-05-27】[francescopace / espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻 \- Motion detection system based on Wi\-Fi spectre analysis (CSI), with Home Assistant integration 
 * 【2026-05-26】[microsoft / agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
@@ -3267,6 +3272,8 @@
 
 ## Javascript
 
+* 【2026-05-29】[zarazhangrui / frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
+* 【2026-05-29】[bugbasesecurity / pentest-copilot](https://github.com/bugbasesecurity/pentest-copilot) - Pentest Copilot is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows.
 * 【2026-05-28】[zarazhangrui / frontend\-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 * 【2026-05-27】[calesthio / Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent  Watches the world from multiple data sources and pings you when something changes 
 * 【2026-05-27】[KoStard / forgecad\-public\-kit](https://github.com/KoStard/forgecad-public-kit) - Public companion kit for ForgeCAD: examples, agent skills, docs links, and issue tracking  The hosted CAD app and core source live elsewhere 
@@ -4063,6 +4070,7 @@
 
 ## Go
 
+* 【2026-05-29】[kenn\-io / roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code 
 * 【2026-05-28】[kulikov0 / whitelist\-bypass](https://github.com/kulikov0/whitelist-bypass) - 
 * 【2026-05-28】[bia-pain-bache / BPB-Wizard](https://github.com/bia-pain-bache/BPB-Wizard) - A wizard to facilitate BPB Panel deployment and management.
 * 【2026-05-28】[james\-6\-23 / codex2api](https://github.com/james-6-23/codex2api) - Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
@@ -6315,6 +6323,8 @@
 
 ## Html
 
+* 【2026-05-29】[rebane2001 / xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
+* 【2026-05-29】[S3DFX\-CYBER / GSoC\-Org\-Finder\-](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-) - Find your perfect GSoC 2026 organization\- filter all 184 selected orgs by your tech stack, language, and domain  No install needed 
 * 【2026-05-28】[revfactory / harness](https://github.com/revfactory/harness) - A meta\-skill that designs domain\-specific agent teams, defines specialized agents, and generates the skills they use 
 * 【2026-05-28】[lijigang / ljg\-skills](https://github.com/lijigang/ljg-skills) - 
 * 【2026-05-28】[whale-Yd00 / freeapp](https://github.com/whale-Yd00/freeapp) - 一个ai聊天项目
@@ -6946,6 +6956,7 @@
 
 ## Unknown
 
+* 【2026-05-29】[speedyapply / 2026-SWE-College-Jobs](https://github.com/speedyapply/2026-SWE-College-Jobs) - 2026 SWE internship & new graduate job list updated daily
 * 【2026-05-28】[KimYx0207 / AI\-Coding\-Guide\-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - Claude Code + OpenClaw + Codex 中文教程 \| 36篇完整教程 \| 18万字 \| 三线学习路径 \| 小白到企业实战
 * 【2026-05-26】[Makerr-Studio / CentrifugalDustSeparator-](https://github.com/Makerr-Studio/CentrifugalDustSeparator-) - Centrifugal Dust Separator - 3D Files for printing
 * 【2026-05-26】[anthropics / claude\-plugins\-community](https://github.com/anthropics/claude-plugins-community) - Community plugin marketplace for Claude Cowork and Claude Code  Read\-only mirror — submit plugins at clau de/plugin\-directory\-submission 
@@ -7775,6 +7786,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-29】[run-llama / liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 * 【2026-05-28】[silvia\-odwyer / photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
 * 【2026-05-27】[Hmbown / CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek v4 coding agent in terminal
 * 【2026-05-27】[mozilla / cargo\-vet](https://github.com/mozilla/cargo-vet) - supply\-chain security for Rust
@@ -8817,6 +8829,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-29】[Sync\-in / server](https://github.com/Sync-in/server) - Sync\-in Server · Secure, open\-source platform for file storage, sharing, collaboration, and syncing 
 * 【2026-05-28】[orval\-labs / orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type\-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats  🍺
 * 【2026-05-27】[alpic\-ai / skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a full\-stack TypeScript framework for MCP Apps and ChatGPT Apps  Type\-safe  React\-powered  Platform\-agnostic 
 * 【2026-05-27】[kil0bit\-kb / scrcpy\-gui](https://github.com/kil0bit-kb/scrcpy-gui) - A modern, high\-performance GUI for the scrcpy
