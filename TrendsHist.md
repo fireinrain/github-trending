@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-05-30】[galilai\-group / stable\-worldmodel](https://github.com/galilai-group/stable-worldmodel) - A platform for reproducible world model research and evaluation
+* 【2026-05-30】[Biohub / esm](https://github.com/Biohub/esm) - 
 * 【2026-05-29】[OpenMOSS / MOSS\-TTS](https://github.com/OpenMOSS/MOSS-TTS) - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI AI and the OpenMOSS team  It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS 
 * 【2026-05-28】[Chachamaru127 / claude\-code\-harness](https://github.com/Chachamaru127/claude-code-harness) - Claude Code Dedicated Development Harness \- Achieving High\-Quality Development Through an Autonomous Plan→Work→Review Cycle
 * 【2026-05-27】[Leonxlnx / taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
@@ -1279,6 +1281,7 @@
 
 ## Java
 
+* 【2026-05-30】[OtterMind / Chat2DB](https://github.com/OtterMind/Chat2DB) - AI\-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more 
 * 【2026-05-27】[Stonewuu / ai\-fusion\-video](https://github.com/Stonewuu/ai-fusion-video) - 【融光】 \- 基于 Agent 的全流程AI短剧/漫剧/视频创作平台
 * 【2026-05-26】[AuthMe / AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded) - The best authentication plugin for the Bukkit/Spigot API!
 * 【2026-05-25】[microsoft / copilot-for-eclipse](https://github.com/microsoft/copilot-for-eclipse) - GitHub Copilot plugin for Eclipse IDE
@@ -1769,6 +1772,10 @@
 
 ## Python
 
+* 【2026-05-30】[galilai-group / stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) - A platform for reproducible world model research and evaluation
+* 【2026-05-30】[zakirkun / deep\-eye](https://github.com/zakirkun/deep-eye) - Deep Eye orchestrates multiple AI providers (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral, OpenRouter, LiteLLM, LM Studio) for intelligent payload generation, scans targets for 45+ vulnerability types, and produces professional reports with compliance mapping 
+* 【2026-05-30】[ai\-boost / awesome\-harness\-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration 
+* 【2026-05-30】[NVlabs / Eagle](https://github.com/NVlabs/Eagle) - Eagle: Frontier Vision\-Language Models with Data\-Centric Strategies
 * 【2026-05-29】[OpenMOSS / MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.
 * 【2026-05-29】[microsoft / RAMPART](https://github.com/microsoft/RAMPART) - A pytest\-native safety and security testing framework for agentic AI applications
 * 【2026-05-29】[ariadng / metatrader\-mcp\-server](https://github.com/ariadng/metatrader-mcp-server) - Model Context Protocol (MCP) to enable AI LLMs to trade using MetaTrader platform
@@ -3272,6 +3279,7 @@
 
 ## Javascript
 
+* 【2026-05-30】[hitesh\-kumar123 / Travel\-Plans\-](https://github.com/hitesh-kumar123/Travel-Plans-) - PackGo: Your ultimate travel companion  Built with React, Redux, Node js & MongoDB to seamlessly plan trips, track budgets, check weather, and organize bookings in one intuitive dashboard 
 * 【2026-05-29】[zarazhangrui / frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 * 【2026-05-29】[bugbasesecurity / pentest-copilot](https://github.com/bugbasesecurity/pentest-copilot) - Pentest Copilot is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows.
 * 【2026-05-28】[zarazhangrui / frontend\-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
@@ -4070,6 +4078,7 @@
 
 ## Go
 
+* 【2026-05-30】[kenn-io / roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 * 【2026-05-29】[kenn\-io / roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code 
 * 【2026-05-28】[kulikov0 / whitelist\-bypass](https://github.com/kulikov0/whitelist-bypass) - 
 * 【2026-05-28】[bia-pain-bache / BPB-Wizard](https://github.com/bia-pain-bache/BPB-Wizard) - A wizard to facilitate BPB Panel deployment and management.
@@ -5764,6 +5773,7 @@
 
 ## C#
 
+* 【2026-05-30】[SirDiabo / GithubLauncher](https://github.com/SirDiabo/GithubLauncher) - A Launcher that Downloads and Updates Applications from Github Releases
 * 【2026-05-27】[ed0ard / CS2-Bot-Improver](https://github.com/ed0ard/CS2-Bot-Improver) - CS2-Bot-Improver is a plugin for Counter-Strike 2 that improves bots' aim, movement, nade throwing, personalities, strategies, etc. Aims to enhance your experience when playing against bots offline or with friends. It can be installed on both clients and servers.
 * 【2026-05-26】[MiniMax\-AI / skills](https://github.com/MiniMax-AI/skills) - 
 * 【2026-05-26】[Polytoria / polytoria\-game](https://github.com/Polytoria/polytoria-game) - Polytoria, a multiplayer gaming platform built with Godot and  NET
@@ -6956,6 +6966,7 @@
 
 ## Unknown
 
+* 【2026-05-30】[andyrewlee / awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
 * 【2026-05-29】[speedyapply / 2026-SWE-College-Jobs](https://github.com/speedyapply/2026-SWE-College-Jobs) - 2026 SWE internship & new graduate job list updated daily
 * 【2026-05-28】[KimYx0207 / AI\-Coding\-Guide\-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - Claude Code + OpenClaw + Codex 中文教程 \| 36篇完整教程 \| 18万字 \| 三线学习路径 \| 小白到企业实战
 * 【2026-05-26】[Makerr-Studio / CentrifugalDustSeparator-](https://github.com/Makerr-Studio/CentrifugalDustSeparator-) - Centrifugal Dust Separator - 3D Files for printing
@@ -7786,6 +7797,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-05-30】[ogulcancelik / herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal 
+* 【2026-05-30】[bWanShiTong / openwhoop](https://github.com/bWanShiTong/openwhoop) - CLI allowing you to use your Whoop4 0 without subscription and without data leaving your device
 * 【2026-05-29】[run-llama / liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 * 【2026-05-28】[silvia\-odwyer / photon](https://github.com/silvia-odwyer/photon) - ⚡ Rust/WebAssembly image processing library
 * 【2026-05-27】[Hmbown / CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek v4 coding agent in terminal
@@ -8829,6 +8842,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-30】[ronisarkarexe / story\-spark\-ai](https://github.com/ronisarkarexe/story-spark-ai) - StorySparkAI is an open\-source platform designed for creative minds to generate and share multiple story variations from a single prompt 
 * 【2026-05-29】[Sync\-in / server](https://github.com/Sync-in/server) - Sync\-in Server · Secure, open\-source platform for file storage, sharing, collaboration, and syncing 
 * 【2026-05-28】[orval\-labs / orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type\-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats  🍺
 * 【2026-05-27】[alpic\-ai / skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a full\-stack TypeScript framework for MCP Apps and ChatGPT Apps  Type\-safe  React\-powered  Platform\-agnostic 
