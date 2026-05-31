@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-05-31】[FareedKhan\-dev / train\-llm\-from\-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text 
 * 【2026-05-30】[galilai\-group / stable\-worldmodel](https://github.com/galilai-group/stable-worldmodel) - A platform for reproducible world model research and evaluation
 * 【2026-05-30】[Biohub / esm](https://github.com/Biohub/esm) - 
 * 【2026-05-29】[OpenMOSS / MOSS\-TTS](https://github.com/OpenMOSS/MOSS-TTS) - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI AI and the OpenMOSS team  It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS 
@@ -1281,6 +1282,8 @@
 
 ## Java
 
+* 【2026-05-31】[stone\-alex / EliteIntel](https://github.com/stone-alex/EliteIntel) - LLM side\-kick and data analyst for Elite Dangerous
+* 【2026-05-31】[jqwik\-team / jqwik](https://github.com/jqwik-team/jqwik) - Property\-Based Testing on the JUnit Platform
 * 【2026-05-30】[OtterMind / Chat2DB](https://github.com/OtterMind/Chat2DB) - AI\-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more 
 * 【2026-05-27】[Stonewuu / ai\-fusion\-video](https://github.com/Stonewuu/ai-fusion-video) - 【融光】 \- 基于 Agent 的全流程AI短剧/漫剧/视频创作平台
 * 【2026-05-26】[AuthMe / AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded) - The best authentication plugin for the Bukkit/Spigot API!
@@ -3279,6 +3282,7 @@
 
 ## Javascript
 
+* 【2026-05-31】[JiyaBatra / CODEVIBE\-](https://github.com/JiyaBatra/CODEVIBE-) - CodeVibe is an interactive learning platform designed to help beginners understand programming through simple lessons and hands\-on practice  It includes structured course sections, coding examples, and a built\-in HTML compiler that lets users write and test code directly in the browser, making learning web development practical, engaging 
 * 【2026-05-30】[hitesh\-kumar123 / Travel\-Plans\-](https://github.com/hitesh-kumar123/Travel-Plans-) - PackGo: Your ultimate travel companion  Built with React, Redux, Node js & MongoDB to seamlessly plan trips, track budgets, check weather, and organize bookings in one intuitive dashboard 
 * 【2026-05-29】[zarazhangrui / frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 * 【2026-05-29】[bugbasesecurity / pentest-copilot](https://github.com/bugbasesecurity/pentest-copilot) - Pentest Copilot is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows.
@@ -6966,6 +6970,7 @@
 
 ## Unknown
 
+* 【2026-05-31】[EmergenceAI / Emergence\-World](https://github.com/EmergenceAI/Emergence-World) - Emergence World: A world designed to reveal what no benchmark can: emergent intelligence 
 * 【2026-05-30】[andyrewlee / awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
 * 【2026-05-29】[speedyapply / 2026-SWE-College-Jobs](https://github.com/speedyapply/2026-SWE-College-Jobs) - 2026 SWE internship & new graduate job list updated daily
 * 【2026-05-28】[KimYx0207 / AI\-Coding\-Guide\-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - Claude Code + OpenClaw + Codex 中文教程 \| 36篇完整教程 \| 18万字 \| 三线学习路径 \| 小白到企业实战
@@ -8842,6 +8847,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-05-31】[companion\-inc / feynman](https://github.com/companion-inc/feynman) - 
 * 【2026-05-30】[ronisarkarexe / story\-spark\-ai](https://github.com/ronisarkarexe/story-spark-ai) - StorySparkAI is an open\-source platform designed for creative minds to generate and share multiple story variations from a single prompt 
 * 【2026-05-29】[Sync\-in / server](https://github.com/Sync-in/server) - Sync\-in Server · Secure, open\-source platform for file storage, sharing, collaboration, and syncing 
 * 【2026-05-28】[orval\-labs / orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type\-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats  🍺
