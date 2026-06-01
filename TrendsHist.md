@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-06-01】[nesquena / hermes\-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+* 【2026-06-01】[FareedKhan-dev / train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
+* 【2026-06-01】[nicobailon / pi\-subagents](https://github.com/nicobailon/pi-subagents) - Pi extension for async subagent delegation with truncation, artifacts, and session sharing
 * 【2026-05-31】[FareedKhan\-dev / train\-llm\-from\-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text 
 * 【2026-05-30】[galilai\-group / stable\-worldmodel](https://github.com/galilai-group/stable-worldmodel) - A platform for reproducible world model research and evaluation
 * 【2026-05-30】[Biohub / esm](https://github.com/Biohub/esm) - 
@@ -1282,6 +1285,8 @@
 
 ## Java
 
+* 【2026-06-01】[jqwik-team / jqwik](https://github.com/jqwik-team/jqwik) - Property-Based Testing on the JUnit Platform
+* 【2026-06-01】[AidanPark / openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
 * 【2026-05-31】[stone\-alex / EliteIntel](https://github.com/stone-alex/EliteIntel) - LLM side\-kick and data analyst for Elite Dangerous
 * 【2026-05-31】[jqwik\-team / jqwik](https://github.com/jqwik-team/jqwik) - Property\-Based Testing on the JUnit Platform
 * 【2026-05-30】[OtterMind / Chat2DB](https://github.com/OtterMind/Chat2DB) - AI\-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more 
@@ -1775,6 +1780,8 @@
 
 ## Python
 
+* 【2026-06-01】[nesquena / hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+* 【2026-06-01】[ai-boost / awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
 * 【2026-05-30】[galilai-group / stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) - A platform for reproducible world model research and evaluation
 * 【2026-05-30】[zakirkun / deep\-eye](https://github.com/zakirkun/deep-eye) - Deep Eye orchestrates multiple AI providers (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral, OpenRouter, LiteLLM, LM Studio) for intelligent payload generation, scans targets for 45+ vulnerability types, and produces professional reports with compliance mapping 
 * 【2026-05-30】[ai\-boost / awesome\-harness\-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration 
@@ -3282,6 +3289,9 @@
 
 ## Javascript
 
+* 【2026-06-01】[hitesh-kumar123 / Travel-Plans-](https://github.com/hitesh-kumar123/Travel-Plans-) - PackGo: Your ultimate travel companion. Built with React, Redux, Node.js & MongoDB to seamlessly plan trips, track budgets, check weather, and organize bookings in one intuitive dashboard.
+* 【2026-06-01】[SandeepVashishtha / Eventra](https://github.com/SandeepVashishtha/Eventra) - Eventra is a comprehensive event management system that empowers organizers to create, manage, and track events seamlessly  Built with a modern tech stack featuring React frontend and Spring Boot backend, Eventra provides everything needed to run successful events from creation to post\-event analytics 
+* 【2026-06-01】[mnfst / awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API (API Keys)
 * 【2026-05-31】[JiyaBatra / CODEVIBE\-](https://github.com/JiyaBatra/CODEVIBE-) - CodeVibe is an interactive learning platform designed to help beginners understand programming through simple lessons and hands\-on practice  It includes structured course sections, coding examples, and a built\-in HTML compiler that lets users write and test code directly in the browser, making learning web development practical, engaging 
 * 【2026-05-30】[hitesh\-kumar123 / Travel\-Plans\-](https://github.com/hitesh-kumar123/Travel-Plans-) - PackGo: Your ultimate travel companion  Built with React, Redux, Node js & MongoDB to seamlessly plan trips, track budgets, check weather, and organize bookings in one intuitive dashboard 
 * 【2026-05-29】[zarazhangrui / frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
@@ -4082,6 +4092,9 @@
 
 ## Go
 
+* 【2026-06-01】[Armur-Ai / Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go, Claude API, and 7+ native security tools.
+* 【2026-06-01】[Panonim / dynacat](https://github.com/Panonim/dynacat) - Dynacat is a dashboard focused on dynamic reloading and easy integrity with external applications 
+* 【2026-06-01】[superplanehq / superplane](https://github.com/superplanehq/superplane) - The open source control plane for platform engineering 
 * 【2026-05-30】[kenn-io / roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 * 【2026-05-29】[kenn\-io / roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code 
 * 【2026-05-28】[kulikov0 / whitelist\-bypass](https://github.com/kulikov0/whitelist-bypass) - 
@@ -6970,6 +6983,8 @@
 
 ## Unknown
 
+* 【2026-06-01】[0PandaDEV / awesome-windows](https://github.com/0PandaDEV/awesome-windows) - An awesome & curated list of tools and apps for Windows 10/11.
+* 【2026-06-01】[vanshb03 / Summer2027-Internships](https://github.com/vanshb03/Summer2027-Internships) - Collection of Summer 2026 tech internships!
 * 【2026-05-31】[EmergenceAI / Emergence\-World](https://github.com/EmergenceAI/Emergence-World) - Emergence World: A world designed to reveal what no benchmark can: emergent intelligence 
 * 【2026-05-30】[andyrewlee / awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
 * 【2026-05-29】[speedyapply / 2026-SWE-College-Jobs](https://github.com/speedyapply/2026-SWE-College-Jobs) - 2026 SWE internship & new graduate job list updated daily
@@ -7802,6 +7817,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-06-01】[malbiruk / driftwm](https://github.com/malbiruk/driftwm) - A trackpad\-first infinite canvas Wayland compositor 
 * 【2026-05-30】[ogulcancelik / herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal 
 * 【2026-05-30】[bWanShiTong / openwhoop](https://github.com/bWanShiTong/openwhoop) - CLI allowing you to use your Whoop4 0 without subscription and without data leaving your device
 * 【2026-05-29】[run-llama / liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
@@ -8847,6 +8863,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-06-01】[nicobailon / pi-subagents](https://github.com/nicobailon/pi-subagents) - Pi extension for async subagent delegation with truncation, artifacts, and session sharing
+* 【2026-06-01】[AnInsomniacy / motrix\-next](https://github.com/AnInsomniacy/motrix-next) - A full\-featured download manager — rebuilt from the ground up
+* 【2026-06-01】[tmoroney / auto-subs](https://github.com/tmoroney/auto-subs) - On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.
+* 【2026-06-01】[companion-inc / feynman](https://github.com/companion-inc/feynman) - 
+* 【2026-06-01】[mattpocock / sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle run()
 * 【2026-05-31】[companion\-inc / feynman](https://github.com/companion-inc/feynman) - 
 * 【2026-05-30】[ronisarkarexe / story\-spark\-ai](https://github.com/ronisarkarexe/story-spark-ai) - StorySparkAI is an open\-source platform designed for creative minds to generate and share multiple story variations from a single prompt 
 * 【2026-05-29】[Sync\-in / server](https://github.com/Sync-in/server) - Sync\-in Server · Secure, open\-source platform for file storage, sharing, collaboration, and syncing 
