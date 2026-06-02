@@ -1285,6 +1285,7 @@
 
 ## Java
 
+* 【2026-06-02】[Katana-Official / SPatch-Update](https://github.com/Katana-Official/SPatch-Update) - Update for SPatch nightly
 * 【2026-06-01】[jqwik-team / jqwik](https://github.com/jqwik-team/jqwik) - Property-Based Testing on the JUnit Platform
 * 【2026-06-01】[AidanPark / openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
 * 【2026-05-31】[stone\-alex / EliteIntel](https://github.com/stone-alex/EliteIntel) - LLM side\-kick and data analyst for Elite Dangerous
@@ -1780,6 +1781,7 @@
 
 ## Python
 
+* 【2026-06-02】[elder-plinius / OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) - OBLITERATE THE CHAINS THAT BIND YOU
 * 【2026-06-01】[nesquena / hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 * 【2026-06-01】[ai-boost / awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
 * 【2026-05-30】[galilai-group / stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) - A platform for reproducible world model research and evaluation
@@ -3289,6 +3291,8 @@
 
 ## Javascript
 
+* 【2026-06-02】[a5c-ai / babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
+* 【2026-06-02】[microsoft / skills\-for\-copilot\-studio](https://github.com/microsoft/skills-for-copilot-studio) - A skill for AI\-coding tools to build and edit Microsoft Copilot Studio agents as YAML — with schema validation, templates, and AI\-powered skills  Suited for Claude Code, GitHub Copilot CLI, and more 
 * 【2026-06-01】[hitesh-kumar123 / Travel-Plans-](https://github.com/hitesh-kumar123/Travel-Plans-) - PackGo: Your ultimate travel companion. Built with React, Redux, Node.js & MongoDB to seamlessly plan trips, track budgets, check weather, and organize bookings in one intuitive dashboard.
 * 【2026-06-01】[SandeepVashishtha / Eventra](https://github.com/SandeepVashishtha/Eventra) - Eventra is a comprehensive event management system that empowers organizers to create, manage, and track events seamlessly  Built with a modern tech stack featuring React frontend and Spring Boot backend, Eventra provides everything needed to run successful events from creation to post\-event analytics 
 * 【2026-06-01】[mnfst / awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API (API Keys)
@@ -4092,6 +4096,9 @@
 
 ## Go
 
+* 【2026-06-02】[mvanhorn / cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.
+* 【2026-06-02】[HexmosTech / git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Commit
+* 【2026-06-02】[charmbracelet / soft\-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self\-hostable Git server for the command line🍦
 * 【2026-06-01】[Armur-Ai / Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI) - Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go, Claude API, and 7+ native security tools.
 * 【2026-06-01】[Panonim / dynacat](https://github.com/Panonim/dynacat) - Dynacat is a dashboard focused on dynamic reloading and easy integrity with external applications 
 * 【2026-06-01】[superplanehq / superplane](https://github.com/superplanehq/superplane) - The open source control plane for platform engineering 
@@ -4754,6 +4761,9 @@
 
 ## C
 
+* 【2026-06-02】[wolfSSL / wolfCOSE](https://github.com/wolfSSL/wolfCOSE) - A fast, portable, and lightweight COSE + CBOR implementation for embedded systems  Supports PQC, FIPS 140\-3, DO\-178, and MISRA C  Powered by wolfSSL 
+* 【2026-06-02】[kristapsdz / openrsync](https://github.com/kristapsdz/openrsync) - BSD\-licensed implementation of rsync
+* 【2026-06-02】[HarbourMasters / Ghostship](https://github.com/HarbourMasters/Ghostship) - 
 * 【2026-05-27】[etaHEN / etaHEN](https://github.com/etaHEN/etaHEN) - AIO HEN payload
 * 【2026-05-26】[EchoStretch / kstuff-lite](https://github.com/EchoStretch/kstuff-lite) - 
 * 【2026-05-25】[streetpea / chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
@@ -5790,6 +5800,8 @@
 
 ## C#
 
+* 【2026-06-02】[openutau / OpenUtau](https://github.com/openutau/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
+* 【2026-06-02】[PizzaLovers007 / AdofaiTweaks](https://github.com/PizzaLovers007/AdofaiTweaks) - Helpful tweaks for A Dance of Fire and Ice
 * 【2026-05-30】[SirDiabo / GithubLauncher](https://github.com/SirDiabo/GithubLauncher) - A Launcher that Downloads and Updates Applications from Github Releases
 * 【2026-05-27】[ed0ard / CS2-Bot-Improver](https://github.com/ed0ard/CS2-Bot-Improver) - CS2-Bot-Improver is a plugin for Counter-Strike 2 that improves bots' aim, movement, nade throwing, personalities, strategies, etc. Aims to enhance your experience when playing against bots offline or with friends. It can be installed on both clients and servers.
 * 【2026-05-26】[MiniMax\-AI / skills](https://github.com/MiniMax-AI/skills) - 
@@ -8863,6 +8875,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-06-02】[AnInsomniacy / motrix-next](https://github.com/AnInsomniacy/motrix-next) - A full-featured download manager — rebuilt from the ground up
+* 【2026-06-02】[jimuzhe / tiez\-clipboard](https://github.com/jimuzhe/tiez-clipboard) - TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross\-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows 
 * 【2026-06-01】[nicobailon / pi-subagents](https://github.com/nicobailon/pi-subagents) - Pi extension for async subagent delegation with truncation, artifacts, and session sharing
 * 【2026-06-01】[AnInsomniacy / motrix\-next](https://github.com/AnInsomniacy/motrix-next) - A full\-featured download manager — rebuilt from the ground up
 * 【2026-06-01】[tmoroney / auto-subs](https://github.com/tmoroney/auto-subs) - On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.
