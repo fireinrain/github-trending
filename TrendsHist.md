@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-06-03】[chopratejas / headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM  60\-95% fewer tokens, same answers  Library, proxy, MCP server 
+* 【2026-06-03】[Open-LLM-VTuber / Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) - Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
 * 【2026-06-01】[nesquena / hermes\-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 * 【2026-06-01】[FareedKhan-dev / train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
 * 【2026-06-01】[nicobailon / pi\-subagents](https://github.com/nicobailon/pi-subagents) - Pi extension for async subagent delegation with truncation, artifacts, and session sharing
@@ -1781,6 +1783,9 @@
 
 ## Python
 
+* 【2026-06-03】[datalab\-to / surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
+* 【2026-06-03】[HKUDS / Vibe\-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe\-Trading: Your Personal Trading Agent"
+* 【2026-06-03】[zakirkun / deep-eye](https://github.com/zakirkun/deep-eye) - Deep Eye orchestrates multiple AI providers (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral, OpenRouter, LiteLLM, LM Studio) for intelligent payload generation, scans targets for 45+ vulnerability types, and produces professional reports with compliance mapping.
 * 【2026-06-02】[elder-plinius / OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) - OBLITERATE THE CHAINS THAT BIND YOU
 * 【2026-06-01】[nesquena / hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 * 【2026-06-01】[ai-boost / awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
@@ -3291,6 +3296,7 @@
 
 ## Javascript
 
+* 【2026-06-03】[xuanyustudio / LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) - 🎬 seedance2接入 开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open\-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours  纳米流水线
 * 【2026-06-02】[a5c-ai / babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
 * 【2026-06-02】[microsoft / skills\-for\-copilot\-studio](https://github.com/microsoft/skills-for-copilot-studio) - A skill for AI\-coding tools to build and edit Microsoft Copilot Studio agents as YAML — with schema validation, templates, and AI\-powered skills  Suited for Claude Code, GitHub Copilot CLI, and more 
 * 【2026-06-01】[hitesh-kumar123 / Travel-Plans-](https://github.com/hitesh-kumar123/Travel-Plans-) - PackGo: Your ultimate travel companion. Built with React, Redux, Node.js & MongoDB to seamlessly plan trips, track budgets, check weather, and organize bookings in one intuitive dashboard.
@@ -4096,6 +4102,8 @@
 
 ## Go
 
+* 【2026-06-03】[sartoopjj / thefeed](https://github.com/sartoopjj/thefeed) - DNS\-based feed reader for Telegram channels and public X accounts  Designed for environments where only DNS queries work 
+* 【2026-06-03】[pocket-id / pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 * 【2026-06-02】[mvanhorn / cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.
 * 【2026-06-02】[HexmosTech / git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Commit
 * 【2026-06-02】[charmbracelet / soft\-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self\-hostable Git server for the command line🍦
@@ -5269,6 +5277,8 @@
 
 ## C++
 
+* 【2026-06-03】[CopterExpress / clover](https://github.com/CopterExpress/clover) - ROS\-based framework and RPi image to control PX4\-powered drones 🍀
+* 【2026-06-03】[aenu1 / aps3e](https://github.com/aenu1/aps3e) - An experimental Android PS3 emulator, ported and optimized based on RPCS3 
 * 【2026-05-28】[simplefoc / Arduino\-FOC](https://github.com/simplefoc/Arduino-FOC) - Arduino FOC for BLDC and Stepper motors \- Arduino Based Field Oriented Control Algorithm Library
 * 【2026-05-25】[jtenniswood / espcontrol](https://github.com/jtenniswood/espcontrol) - Esphome based smart home control panel
 * 【2026-05-25】[ShizCalev / MGSHDFix](https://github.com/ShizCalev/MGSHDFix) - A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection 
@@ -5800,6 +5810,8 @@
 
 ## C#
 
+* 【2026-06-03】[Dailin521 / codex\-provider\-sync](https://github.com/Dailin521/codex-provider-sync) - Synchronize Codex session provider metadata across rollout files and SQLite state 
+* 【2026-06-03】[MiniMax-AI / skills](https://github.com/MiniMax-AI/skills) - 
 * 【2026-06-02】[openutau / OpenUtau](https://github.com/openutau/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
 * 【2026-06-02】[PizzaLovers007 / AdofaiTweaks](https://github.com/PizzaLovers007/AdofaiTweaks) - Helpful tweaks for A Dance of Fire and Ice
 * 【2026-05-30】[SirDiabo / GithubLauncher](https://github.com/SirDiabo/GithubLauncher) - A Launcher that Downloads and Updates Applications from Github Releases
@@ -6362,6 +6374,7 @@
 
 ## Html
 
+* 【2026-06-03】[googleprojectzero / 0days\-in\-the\-wild](https://github.com/googleprojectzero/0days-in-the-wild) - Repository for information about 0\-days exploited in\-the\-wild 
 * 【2026-05-29】[rebane2001 / xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
 * 【2026-05-29】[S3DFX\-CYBER / GSoC\-Org\-Finder\-](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-) - Find your perfect GSoC 2026 organization\- filter all 184 selected orgs by your tech stack, language, and domain  No install needed 
 * 【2026-05-28】[revfactory / harness](https://github.com/revfactory/harness) - A meta\-skill that designs domain\-specific agent teams, defines specialized agents, and generates the skills they use 
@@ -6995,6 +7008,7 @@
 
 ## Unknown
 
+* 【2026-06-03】[eeeeeeeeee\-code / POC](https://github.com/eeeeeeeeee-code/POC) - 备份的漏洞库，3月开始我们来维护
 * 【2026-06-01】[0PandaDEV / awesome-windows](https://github.com/0PandaDEV/awesome-windows) - An awesome & curated list of tools and apps for Windows 10/11.
 * 【2026-06-01】[vanshb03 / Summer2027-Internships](https://github.com/vanshb03/Summer2027-Internships) - Collection of Summer 2026 tech internships!
 * 【2026-05-31】[EmergenceAI / Emergence\-World](https://github.com/EmergenceAI/Emergence-World) - Emergence World: A world designed to reveal what no benchmark can: emergent intelligence 
@@ -8875,6 +8889,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-06-03】[JCodesMore / ai\-website\-cloner\-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
+* 【2026-06-03】[mengxi-ream / read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 * 【2026-06-02】[AnInsomniacy / motrix-next](https://github.com/AnInsomniacy/motrix-next) - A full-featured download manager — rebuilt from the ground up
 * 【2026-06-02】[jimuzhe / tiez\-clipboard](https://github.com/jimuzhe/tiez-clipboard) - TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross\-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows 
 * 【2026-06-01】[nicobailon / pi-subagents](https://github.com/nicobailon/pi-subagents) - Pi extension for async subagent delegation with truncation, artifacts, and session sharing
