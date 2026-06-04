@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-06-04】[HKUDS / Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 * 【2026-06-03】[chopratejas / headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM  60\-95% fewer tokens, same answers  Library, proxy, MCP server 
 * 【2026-06-03】[Open-LLM-VTuber / Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) - Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
 * 【2026-06-01】[nesquena / hermes\-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
@@ -1287,6 +1288,7 @@
 
 ## Java
 
+* 【2026-06-04】[bethington / ghidra\-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 200+ MCP tools for AI\-powered reverse engineering  GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment 
 * 【2026-06-02】[Katana-Official / SPatch-Update](https://github.com/Katana-Official/SPatch-Update) - Update for SPatch nightly
 * 【2026-06-01】[jqwik-team / jqwik](https://github.com/jqwik-team/jqwik) - Property-Based Testing on the JUnit Platform
 * 【2026-06-01】[AidanPark / openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
@@ -1783,6 +1785,7 @@
 
 ## Python
 
+* 【2026-06-04】[interviewstreet / hiring\-agent](https://github.com/interviewstreet/hiring-agent) - AI agent to evaluate and score resumes 
 * 【2026-06-03】[datalab\-to / surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 * 【2026-06-03】[HKUDS / Vibe\-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe\-Trading: Your Personal Trading Agent"
 * 【2026-06-03】[zakirkun / deep-eye](https://github.com/zakirkun/deep-eye) - Deep Eye orchestrates multiple AI providers (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral, OpenRouter, LiteLLM, LM Studio) for intelligent payload generation, scans targets for 45+ vulnerability types, and produces professional reports with compliance mapping.
@@ -3296,6 +3299,8 @@
 
 ## Javascript
 
+* 【2026-06-04】[outsourc\-e / hermes\-workspace](https://github.com/outsourc-e/hermes-workspace) - Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector 
+* 【2026-06-04】[tradesdontlie / tradingview\-mcp](https://github.com/tradesdontlie/tradingview-mcp) - AI\-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
 * 【2026-06-03】[xuanyustudio / LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) - 🎬 seedance2接入 开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open\-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours  纳米流水线
 * 【2026-06-02】[a5c-ai / babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
 * 【2026-06-02】[microsoft / skills\-for\-copilot\-studio](https://github.com/microsoft/skills-for-copilot-studio) - A skill for AI\-coding tools to build and edit Microsoft Copilot Studio agents as YAML — with schema validation, templates, and AI\-powered skills  Suited for Claude Code, GitHub Copilot CLI, and more 
@@ -4102,6 +4107,8 @@
 
 ## Go
 
+* 【2026-06-04】[cisco\-ai\-defense / defenseclaw](https://github.com/cisco-ai-defense/defenseclaw) - Security Governance for Agentic AI
+* 【2026-06-04】[james-6-23 / codex2api](https://github.com/james-6-23/codex2api) - Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
 * 【2026-06-03】[sartoopjj / thefeed](https://github.com/sartoopjj/thefeed) - DNS\-based feed reader for Telegram channels and public X accounts  Designed for environments where only DNS queries work 
 * 【2026-06-03】[pocket-id / pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 * 【2026-06-02】[mvanhorn / cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.
@@ -4769,6 +4776,8 @@
 
 ## C
 
+* 【2026-06-04】[zanfranceschi / rinha\-de\-backend\-2026](https://github.com/zanfranceschi/rinha-de-backend-2026) - Rinha de Backend \- Quarta Edição: Detecção de Fraude com Busca Vetorial
+* 【2026-06-04】[21cncstudio / project_aura](https://github.com/21cncstudio/project_aura) - ESP32‑S3 air‑quality station with LVGL UI, MQTT, Home Assistant
 * 【2026-06-02】[wolfSSL / wolfCOSE](https://github.com/wolfSSL/wolfCOSE) - A fast, portable, and lightweight COSE + CBOR implementation for embedded systems  Supports PQC, FIPS 140\-3, DO\-178, and MISRA C  Powered by wolfSSL 
 * 【2026-06-02】[kristapsdz / openrsync](https://github.com/kristapsdz/openrsync) - BSD\-licensed implementation of rsync
 * 【2026-06-02】[HarbourMasters / Ghostship](https://github.com/HarbourMasters/Ghostship) - 
@@ -5810,6 +5819,9 @@
 
 ## C#
 
+* 【2026-06-04】[center2055 / OnionHop](https://github.com/center2055/OnionHop) - Privacy\-first Desktop app that routes your traffic through Tor \- Anonymous browsing made simple
+* 【2026-06-04】[Dailin521 / codex-provider-sync](https://github.com/Dailin521/codex-provider-sync) - Synchronize Codex session provider metadata across rollout files and SQLite state.
+* 【2026-06-04】[Polytoria / polytoria-game](https://github.com/Polytoria/polytoria-game) - Polytoria, a multiplayer gaming platform built with Godot and .NET
 * 【2026-06-03】[Dailin521 / codex\-provider\-sync](https://github.com/Dailin521/codex-provider-sync) - Synchronize Codex session provider metadata across rollout files and SQLite state 
 * 【2026-06-03】[MiniMax-AI / skills](https://github.com/MiniMax-AI/skills) - 
 * 【2026-06-02】[openutau / OpenUtau](https://github.com/openutau/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
@@ -6374,6 +6386,7 @@
 
 ## Html
 
+* 【2026-06-04】[HugoBlox / kit](https://github.com/HugoBlox/kit) - 🧱 Describe your site, AI builds it, you own it as Markdown  Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more  No AI slop  Free to deploy anywhere 👇
 * 【2026-06-03】[googleprojectzero / 0days\-in\-the\-wild](https://github.com/googleprojectzero/0days-in-the-wild) - Repository for information about 0\-days exploited in\-the\-wild 
 * 【2026-05-29】[rebane2001 / xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
 * 【2026-05-29】[S3DFX\-CYBER / GSoC\-Org\-Finder\-](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-) - Find your perfect GSoC 2026 organization\- filter all 184 selected orgs by your tech stack, language, and domain  No install needed 
@@ -7843,6 +7856,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-06-04】[graykode / abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents  Monitor Claude Code & Codex CLI sessions, tokens, context window, rate limits, and ports in real\-time 
 * 【2026-06-01】[malbiruk / driftwm](https://github.com/malbiruk/driftwm) - A trackpad\-first infinite canvas Wayland compositor 
 * 【2026-05-30】[ogulcancelik / herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal 
 * 【2026-05-30】[bWanShiTong / openwhoop](https://github.com/bWanShiTong/openwhoop) - CLI allowing you to use your Whoop4 0 without subscription and without data leaving your device
@@ -8889,6 +8903,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-06-04】[JCodesMore / ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 * 【2026-06-03】[JCodesMore / ai\-website\-cloner\-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 * 【2026-06-03】[mengxi-ream / read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 * 【2026-06-02】[AnInsomniacy / motrix-next](https://github.com/AnInsomniacy/motrix-next) - A full-featured download manager — rebuilt from the ground up
