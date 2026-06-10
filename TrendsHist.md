@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-06-10】[maziyarpanahi / openmed](https://github.com/maziyarpanahi/openmed) - open\-source healthcare ai
 * 【2026-06-09】[google / skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 * 【2026-06-08】[RyanCodrai / turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
 * 【2026-06-08】[microsoft / pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in\-database durable execution
@@ -1794,6 +1795,8 @@
 
 ## Python
 
+* 【2026-06-10】[anthropics / claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
+* 【2026-06-10】[NVIDIA / SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills  Detect vulnerabilities, malicious patterns, and security risks 
 * 【2026-06-09】[alistaitsacle / free\-llm\-api\-keys](https://github.com/alistaitsacle/free-llm-api-keys) - Free LLM API keys for GPT\-5 5, Claude, DeepSeek, Gemini, Grok — copy, paste, use  Updated 3\-5x daily  No credit card needed 
 * 【2026-06-09】[magenta / magenta\-realtime](https://github.com/magenta/magenta-realtime) - Magenta RealTime 2: An Open\-Weights Live Music Model
 * 【2026-06-09】[xerrors / Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库、知识图谱管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs  Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP 
@@ -4809,6 +4812,8 @@
 
 ## C
 
+* 【2026-06-10】[InterceptSuite / ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+* 【2026-06-10】[vayun\-mathur / Modern\-Apps](https://github.com/vayun-mathur/Modern-Apps) - A full mobile ecosystem of 19 apps
 * 【2026-06-08】[kaansenol5 / VibeOS](https://github.com/kaansenol5/VibeOS) - A completely vibecoded operating system targeting Aarch64
 * 【2026-06-06】[xarray / osgverse](https://github.com/xarray/osgverse) - osgVerse, a complete 3d engine solution based on OpenSceneGraph  It supports OpenGL/OpenGLES/Vulkan/DirectX/Metal backends, and also works on modern browsers using WASM 
 * 【2026-06-05】[zanfranceschi / rinha-de-backend-2026](https://github.com/zanfranceschi/rinha-de-backend-2026) - Rinha de Backend - Quarta Edição: Detecção de Fraude com Busca Vetorial
@@ -5322,6 +5327,7 @@
 
 ## C++
 
+* 【2026-06-10】[strukturag / libheif](https://github.com/strukturag/libheif) - libheif is an HEIF and AVIF file format decoder and encoder 
 * 【2026-06-08】[cifertech / ESP32\-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi\-purpose wireless offensive and defensive toolkit powered by an ESP32
 * 【2026-06-06】[ElyPrismLauncher / Launcher](https://github.com/ElyPrismLauncher/Launcher) - This fork of Prism Launcher adds integrated support for Ely by accounts 
 * 【2026-06-03】[CopterExpress / clover](https://github.com/CopterExpress/clover) - ROS\-based framework and RPi image to control PX4\-powered drones 🍀
@@ -7071,6 +7077,7 @@
 
 ## Unknown
 
+* 【2026-06-10】[VoltAgent / awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 * 【2026-06-08】[phuryn / pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 * 【2026-06-08】[Lets-DevOps / awesome-learning](https://github.com/Lets-DevOps/awesome-learning) - A curated list for DevOps learning resources. Join the slack channel to discuss more.
 * 【2026-06-08】[microsoft / Dataverse\-skills](https://github.com/microsoft/Dataverse-skills) - Microsoft Dataverse skills for AI coding agents  Wraps the Dataverse MCP server, Dataverse CLI, Python SDK, and PAC CLI behind specialist skills for building, querying, deploying, and administering Dataverse environments 
@@ -7912,6 +7919,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-06-10】[edwardkim / rhwp](https://github.com/edwardkim/rhwp) - 아래한글 hwp viewer and editor by rust and wasm
+* 【2026-06-10】[libkrun / libkrun](https://github.com/libkrun/libkrun) - A dynamic library providing Virtualization\-based process isolation capabilities
 * 【2026-06-09】[harehare / mq](https://github.com/harehare/mq) - A jq\-like Markdown query language for command\-line processing
 * 【2026-06-08】[spaceandtimefdn / sxt\-proof\-of\-sql](https://github.com/spaceandtimefdn/sxt-proof-of-sql) - Space and Time \| Proof of SQL
 * 【2026-06-05】[microsoft / mxc](https://github.com/microsoft/mxc) - Policy\-driven, layered isolation and containment
@@ -8962,6 +8971,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-06-10】[ibelick / ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
+* 【2026-06-10】[777genius / agent-teams-ai](https://github.com/777genius/agent-teams-ai) - You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode(200+ models, 75+ LLM providers, free models no auth). Build your AI company with multiple teams.
+* 【2026-06-10】[luongnv89 / asm](https://github.com/luongnv89/asm) - The universal skill manager for AI coding agents 
 * 【2026-06-09】[ibelick / ui\-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
 * 【2026-06-09】[mauriceboe / TREK](https://github.com/mauriceboe/TREK) - A self\-hosted travel/trip planner with real\-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more 
 * 【2026-06-09】[777genius / agent\-teams\-ai](https://github.com/777genius/agent-teams-ai) - You're the boss, agents are your team  They handle tasks on their own, message each other, and review each other's work  You just watch the kanban board and give high\-level commands  Codex/Claude/OpenCode(200+ models, 75+ LLM providers, free models no auth)  Build your AI company with multiple teams 
