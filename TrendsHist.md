@@ -1301,6 +1301,7 @@
 
 ## Java
 
+* 【2026-06-14】[matevip / mateclaw](https://github.com/matevip/mateclaw) - 🤖 MateClaw — Your second brain with Multi\-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi\-Channel Support  Built on Spring AI Alibaba 
 * 【2026-06-12】[primefaces / primefaces](https://github.com/primefaces/primefaces) - Ultimate Component Suite for Jakarta Faces
 * 【2026-06-05】[bethington / ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.
 * 【2026-06-05】[Stonewuu / ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) - 【融光】 - 基于 Agent 的全流程AI短剧/漫剧/视频创作平台
@@ -1801,6 +1802,7 @@
 
 ## Python
 
+* 【2026-06-14】[py\-pdf / pypdf](https://github.com/py-pdf/pypdf) - A pure\-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 * 【2026-06-13】[shuvonsec / claude\-bug\-bounty](https://github.com/shuvonsec/claude-bug-bounty) - AI\-powered bug bounty hunting from your terminal \- recon, 20 vuln classes, autonomous hunting, and report generation  All inside Claude Code 
 * 【2026-06-13】[basicmachines-co / basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 * 【2026-06-12】[hexo-ai / sia](https://github.com/hexo-ai/sia) - SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.
@@ -3333,6 +3335,7 @@
 
 ## Javascript
 
+* 【2026-06-14】[openai / codex\-plugin\-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks 
 * 【2026-06-12】[rohitg00 / k8sgames](https://github.com/rohitg00/k8sgames) - Learn Kubernetes by playing  Deploy pods, fix CrashLoopBackOff, type real kubectl commands: 3D browser game, no install needed 
 * 【2026-06-09】[tradesdontlie / tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
 * 【2026-06-09】[y13sint / FreeQwenApi](https://github.com/y13sint/FreeQwenApi) - Локальный API\-прокси для Qwen AI с поддержкой сохранения контекста диалогов и управления сессиями через REST API
@@ -4833,6 +4836,7 @@
 
 ## C
 
+* 【2026-06-14】[trezor / trezor-firmware](https://github.com/trezor/trezor-firmware) - 🔒 Trezor Firmware Monorepo
 * 【2026-06-13】[DynamoRIO / dynamorio](https://github.com/DynamoRIO/dynamorio) - Dynamic Instrumentation Tool Platform
 * 【2026-06-11】[PlummersSoftwareLLC / retropad](https://github.com/PlummersSoftwareLLC/retropad) - 
 * 【2026-06-10】[InterceptSuite / ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
@@ -5350,6 +5354,9 @@
 
 ## C++
 
+* 【2026-06-14】[react / react-native](https://github.com/react/react-native) - A framework for building native applications using React
+* 【2026-06-14】[GensokyoClub / th06](https://github.com/GensokyoClub/th06) - Decompilation of 東方紅魔郷　～ the Embodiment of Scarlet Devil (1 02h)
+* 【2026-06-14】[kevinpbuckley / VibeUE](https://github.com/kevinpbuckley/VibeUE) - Unreal Engine Vibe Coding tool
 * 【2026-06-13】[react / react\-native](https://github.com/react/react-native) - A framework for building native applications using React
 * 【2026-06-13】[Natfii / UnrealClaude](https://github.com/Natfii/UnrealClaude) - Claude Code CLI integration for Unreal Engine 5 7 \- Get AI coding assistance with built\-in UE5 7 documentation context directly in the editor 
 * 【2026-06-13】[Euro-Office / desktop-apps](https://github.com/Euro-Office/desktop-apps) - 
@@ -6462,6 +6469,9 @@
 
 ## Html
 
+* 【2026-06-14】[hmislk / hmis](https://github.com/hmislk/hmis) - This is an Open Source Java EE based Hospital Information Management System
+* 【2026-06-14】[0Chencc / clawgod](https://github.com/0Chencc/clawgod) - This is NOT a third\-party Claude Code client  ClawGod is a runtime patch applied on top of the official Claude Code  It works with any version — as Claude Code updates, the patch continues to take effect
+* 【2026-06-14】[evolution-foundation / evo-crm-community](https://github.com/evolution-foundation/evo-crm-community) - Open source and self-hosted AI-powered customer service platform. Single-tenant, no multi-account, no per-user charges — you run the complete stack on your server.
 * 【2026-06-13】[evolution\-foundation / evo\-crm\-community](https://github.com/evolution-foundation/evo-crm-community) - Open source and self\-hosted AI\-powered customer service platform  Single\-tenant, no multi\-account, no per\-user charges — you run the complete stack on your server 
 * 【2026-06-13】[lijigang / ljg-skills](https://github.com/lijigang/ljg-skills) - 
 * 【2026-06-12】[Euro-Office / web-apps](https://github.com/Euro-Office/web-apps) - 
@@ -7109,6 +7119,7 @@
 
 ## Unknown
 
+* 【2026-06-14】[EmergenceAI / Emergence-World](https://github.com/EmergenceAI/Emergence-World) - Emergence World: A world designed to reveal what no benchmark can: emergent intelligence.
 * 【2026-06-13】[google / agents\-cli](https://github.com/google/agents-cli) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud 
 * 【2026-06-13】[openfootball / worldcup.json](https://github.com/openfootball/worldcup.json) - Free open public domain football data for the world cups (national teams & clubs) in JSON incl. Canada/USA/Mexico 2026, USA 2025, Qatar 2022, Russia 2018 and more - No API key required ;-)
 * 【2026-06-13】[tmylla / Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) - An overview of LLMs for cybersecurity.
