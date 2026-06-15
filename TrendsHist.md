@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-06-15】[Introduction\-to\-Autonomous\-Robots / Introduction\-to\-Autonomous\-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots) - Introduction to Autonomous Robots
 * 【2026-06-12】[kenn\-io / agentsview](https://github.com/kenn-io/agentsview) - Local\-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents  Also: 100x faster replacement for ccusage!
 * 【2026-06-12】[alchaincyf / zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 * 【2026-06-12】[hexo\-ai / sia](https://github.com/hexo-ai/sia) - SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task 
@@ -1301,6 +1302,7 @@
 
 ## Java
 
+* 【2026-06-15】[ls1intum / Artemis](https://github.com/ls1intum/Artemis) - Artemis \- Interactive Learning with Automated Feedback
 * 【2026-06-14】[matevip / mateclaw](https://github.com/matevip/mateclaw) - 🤖 MateClaw — Your second brain with Multi\-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi\-Channel Support  Built on Spring AI Alibaba 
 * 【2026-06-12】[primefaces / primefaces](https://github.com/primefaces/primefaces) - Ultimate Component Suite for Jakarta Faces
 * 【2026-06-05】[bethington / ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.
@@ -1802,6 +1804,8 @@
 
 ## Python
 
+* 【2026-06-15】[openinterpreter / openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+* 【2026-06-15】[Ar9av / obsidian\-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy's LLM Wiki pattern
 * 【2026-06-14】[py\-pdf / pypdf](https://github.com/py-pdf/pypdf) - A pure\-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 * 【2026-06-13】[shuvonsec / claude\-bug\-bounty](https://github.com/shuvonsec/claude-bug-bounty) - AI\-powered bug bounty hunting from your terminal \- recon, 20 vuln classes, autonomous hunting, and report generation  All inside Claude Code 
 * 【2026-06-13】[basicmachines-co / basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
@@ -3335,6 +3339,9 @@
 
 ## Javascript
 
+* 【2026-06-15】[sigalor / whatsapp\-web\-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web 
+* 【2026-06-15】[technomancer702 / nodecast-tv](https://github.com/technomancer702/nodecast-tv) - A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large libraries smoothly.
+* 【2026-06-15】[js\-org / js org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 * 【2026-06-14】[openai / codex\-plugin\-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks 
 * 【2026-06-12】[rohitg00 / k8sgames](https://github.com/rohitg00/k8sgames) - Learn Kubernetes by playing  Deploy pods, fix CrashLoopBackOff, type real kubectl commands: 3D browser game, no install needed 
 * 【2026-06-09】[tradesdontlie / tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
@@ -5354,6 +5361,7 @@
 
 ## C++
 
+* 【2026-06-15】[cifertech / ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32
 * 【2026-06-14】[react / react-native](https://github.com/react/react-native) - A framework for building native applications using React
 * 【2026-06-14】[GensokyoClub / th06](https://github.com/GensokyoClub/th06) - Decompilation of 東方紅魔郷　～ the Embodiment of Scarlet Devil (1 02h)
 * 【2026-06-14】[kevinpbuckley / VibeUE](https://github.com/kevinpbuckley/VibeUE) - Unreal Engine Vibe Coding tool
@@ -6469,6 +6477,7 @@
 
 ## Html
 
+* 【2026-06-15】[rust-lang / blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) - Home of the Rust and Inside Rust blogs
 * 【2026-06-14】[hmislk / hmis](https://github.com/hmislk/hmis) - This is an Open Source Java EE based Hospital Information Management System
 * 【2026-06-14】[0Chencc / clawgod](https://github.com/0Chencc/clawgod) - This is NOT a third\-party Claude Code client  ClawGod is a runtime patch applied on top of the official Claude Code  It works with any version — as Claude Code updates, the patch continues to take effect
 * 【2026-06-14】[evolution-foundation / evo-crm-community](https://github.com/evolution-foundation/evo-crm-community) - Open source and self-hosted AI-powered customer service platform. Single-tenant, no multi-account, no per-user charges — you run the complete stack on your server.
@@ -7969,6 +7978,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-06-15】[fabro\-sh / fabro](https://github.com/fabro-sh/fabro) - ⚒️ The open source dark software factory for expert engineers 
 * 【2026-06-13】[Barre / ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS \- ZeroFS serves S3\-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD 
 * 【2026-06-10】[edwardkim / rhwp](https://github.com/edwardkim/rhwp) - 아래한글 hwp viewer and editor by rust and wasm
 * 【2026-06-10】[libkrun / libkrun](https://github.com/libkrun/libkrun) - A dynamic library providing Virtualization\-based process isolation capabilities
@@ -9022,6 +9032,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-06-15】[auto-novel / auto-novel](https://github.com/auto-novel/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 * 【2026-06-11】[google\-labs\-code / design md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents  DESIGN md gives agents a persistent, structured understanding of a design system 
 * 【2026-06-11】[auto\-novel / auto\-novel](https://github.com/auto-novel/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 * 【2026-06-10】[ibelick / ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
