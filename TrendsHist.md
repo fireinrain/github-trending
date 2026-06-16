@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-06-16】[teslamate\-org / teslamate](https://github.com/teslamate-org/teslamate) - A self\-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]
+* 【2026-06-16】[Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots) - Introduction to Autonomous Robots
 * 【2026-06-15】[Introduction\-to\-Autonomous\-Robots / Introduction\-to\-Autonomous\-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots) - Introduction to Autonomous Robots
 * 【2026-06-12】[kenn\-io / agentsview](https://github.com/kenn-io/agentsview) - Local\-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents  Also: 100x faster replacement for ccusage!
 * 【2026-06-12】[alchaincyf / zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
@@ -1302,6 +1304,7 @@
 
 ## Java
 
+* 【2026-06-16】[JanssenProject / jans](https://github.com/JanssenProject/jans) - The Janssen Project is a home for open source IAM components, featuring Auth Server (OAuth/OpenID), Agama low\-code identity orchestration, and the Cedarling policy decision point  The "Janssen Server" distributions bundle IAM components under one control plane 
 * 【2026-06-15】[ls1intum / Artemis](https://github.com/ls1intum/Artemis) - Artemis \- Interactive Learning with Automated Feedback
 * 【2026-06-14】[matevip / mateclaw](https://github.com/matevip/mateclaw) - 🤖 MateClaw — Your second brain with Multi\-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi\-Channel Support  Built on Spring AI Alibaba 
 * 【2026-06-12】[primefaces / primefaces](https://github.com/primefaces/primefaces) - Ultimate Component Suite for Jakarta Faces
@@ -1804,6 +1807,8 @@
 
 ## Python
 
+* 【2026-06-16】[Flowseal / tg-ws-proxy](https://github.com/Flowseal/tg-ws-proxy) - Local MTProto proxy server for partial bypassing of Telegram loading
+* 【2026-06-16】[shuvonsec / claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) - AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes, autonomous hunting, and report generation. All inside Claude Code.
 * 【2026-06-15】[openinterpreter / openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 * 【2026-06-15】[Ar9av / obsidian\-wiki](https://github.com/Ar9av/obsidian-wiki) - Framework for AI agents to build and maintain a digital brain through Obsidian wiki using Karpathy's LLM Wiki pattern
 * 【2026-06-14】[py\-pdf / pypdf](https://github.com/py-pdf/pypdf) - A pure\-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
@@ -4843,6 +4848,8 @@
 
 ## C
 
+* 【2026-06-16】[OSGeo / grass](https://github.com/OSGeo/grass) - GRASS \- free and open\-source geospatial processing engine
+* 【2026-06-16】[tr4m0ryp / tr4mpass](https://github.com/tr4m0ryp/tr4mpass) - Free, open\-source iCloud activation lock bypass tool  Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12\-26 1)  Fully offline \-\- no servers, no payments  Supports checkm8 (A5\-A11) and session activation (A12+) 
 * 【2026-06-14】[trezor / trezor-firmware](https://github.com/trezor/trezor-firmware) - 🔒 Trezor Firmware Monorepo
 * 【2026-06-13】[DynamoRIO / dynamorio](https://github.com/DynamoRIO/dynamorio) - Dynamic Instrumentation Tool Platform
 * 【2026-06-11】[PlummersSoftwareLLC / retropad](https://github.com/PlummersSoftwareLLC/retropad) - 
@@ -6477,6 +6484,7 @@
 
 ## Html
 
+* 【2026-06-16】[akiralereal / iptv](https://github.com/akiralereal/iptv) - 基于 Docker 的 IPTV 直播源管理与分发系统：可视化后台、咪咕源抓取（含体育赛事/EPG），支持外部源管理与 m3u txt 订阅；内置纬来体育、Red Bull、4K 卫视及港澳台等，开箱即用。
 * 【2026-06-15】[rust-lang / blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) - Home of the Rust and Inside Rust blogs
 * 【2026-06-14】[hmislk / hmis](https://github.com/hmislk/hmis) - This is an Open Source Java EE based Hospital Information Management System
 * 【2026-06-14】[0Chencc / clawgod](https://github.com/0Chencc/clawgod) - This is NOT a third\-party Claude Code client  ClawGod is a runtime patch applied on top of the official Claude Code  It works with any version — as Claude Code updates, the patch continues to take effect
@@ -7128,6 +7136,8 @@
 
 ## Unknown
 
+* 【2026-06-16】[ubikron / Awesome\-AI\-OSINT](https://github.com/ubikron/Awesome-AI-OSINT) - A list of articles, videos, and tools related to the use of AI for OSINT 
+* 【2026-06-16】[google / agents-cli](https://github.com/google/agents-cli) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
 * 【2026-06-14】[EmergenceAI / Emergence-World](https://github.com/EmergenceAI/Emergence-World) - Emergence World: A world designed to reveal what no benchmark can: emergent intelligence.
 * 【2026-06-13】[google / agents\-cli](https://github.com/google/agents-cli) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud 
 * 【2026-06-13】[openfootball / worldcup.json](https://github.com/openfootball/worldcup.json) - Free open public domain football data for the world cups (national teams & clubs) in JSON incl. Canada/USA/Mexico 2026, USA 2025, Qatar 2022, Russia 2018 and more - No API key required ;-)
@@ -7978,6 +7988,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-06-16】[esrlabs / chipmunk](https://github.com/esrlabs/chipmunk) - log analysis tool
 * 【2026-06-15】[fabro\-sh / fabro](https://github.com/fabro-sh/fabro) - ⚒️ The open source dark software factory for expert engineers 
 * 【2026-06-13】[Barre / ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS \- ZeroFS serves S3\-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD 
 * 【2026-06-10】[edwardkim / rhwp](https://github.com/edwardkim/rhwp) - 아래한글 hwp viewer and editor by rust and wasm
@@ -9032,6 +9043,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-06-16】[TencentCloud / TencentDB\-Agent\-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory delivers fully local long\-term memory for AI Agents via a 4\-tier progressive pipeline, with zero external API dependencies 
+* 【2026-06-16】[Emanuele\-web04 / synara](https://github.com/Emanuele-web04/synara) - The best place to build with your AI sub
 * 【2026-06-15】[auto-novel / auto-novel](https://github.com/auto-novel/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 * 【2026-06-11】[google\-labs\-code / design md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents  DESIGN md gives agents a persistent, structured understanding of a design system 
 * 【2026-06-11】[auto\-novel / auto\-novel](https://github.com/auto-novel/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
