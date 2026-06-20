@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-06-20】[palmier\-io / palmier\-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
+* 【2026-06-20】[BuilderIO / agent-native](https://github.com/BuilderIO/agent-native) - A framework for building agent-native applications.
+* 【2026-06-20】[Infrasys-AI / AISystem](https://github.com/Infrasys-AI/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 * 【2026-06-18】[calesthio / OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open\-source, agentic video production system  12 pipelines, 52 tools, 500+ agent skills  Turn your AI coding assistant into a full video production studio 
 * 【2026-06-18】[Infrasys\-AI / AISystem](https://github.com/Infrasys-AI/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 * 【2026-06-17】[teslamate-org / teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]
@@ -1814,6 +1817,8 @@
 
 ## Python
 
+* 【2026-06-20】[VectifyAI / OpenKB](https://github.com/VectifyAI/OpenKB) - OpenKB: Open LLM Knowledge Base
+* 【2026-06-20】[jamesyc / TimeCapsuleSMB](https://github.com/jamesyc/TimeCapsuleSMB) - Hacking the Apple Time Capsule to run modern Samba
 * 【2026-06-19】[cocoindex\-io / cocoindex\-code](https://github.com/cocoindex-io/cocoindex-code) - A super light\-weight embedded code search engine CLI (AST based) that just works \- saves 70% token and improves speed for coding agent 🌟 Star if you like it!
 * 【2026-06-18】[fivetran / great_expectations](https://github.com/fivetran/great_expectations) - Always know what to expect from your data 
 * 【2026-06-18】[fastapi / typer](https://github.com/fastapi/typer) - Typer, build great CLIs  Easy to code  Based on Python type hints 
@@ -3356,6 +3361,7 @@
 
 ## Javascript
 
+* 【2026-06-20】[react / react](https://github.com/react/react) - The library for web and native user interfaces 
 * 【2026-06-19】[zarazhangrui / follow-builders](https://github.com/zarazhangrui/follow-builders) - AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.
 * 【2026-06-19】[vllm\-project / recipes](https://github.com/vllm-project/recipes) - Common recipes to run vLLM
 * 【2026-06-15】[sigalor / whatsapp\-web\-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web 
@@ -4180,6 +4186,10 @@
 
 ## Go
 
+* 【2026-06-20】[podman-container-tools / podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
+* 【2026-06-20】[VersusControl / versus\-incident](https://github.com/VersusControl/versus-incident) - Open\-source incident management tool with an AI SRE agent that watches your logs, learns normal patterns, and auto\-creates incidents — plus webhook alerts, multi\-channel notifications, and on\-call escalation 
+* 【2026-06-20】[kubearmor / KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System  Workload hardening/sandboxing and implementing least\-permissive policies made easy leveraging LSMs (LSM\-BPF, AppArmor) 
+* 【2026-06-20】[voocel / ainovel\-cli](https://github.com/voocel/ainovel-cli) - ✨多agent实现全自动AI小说生成
 * 【2026-06-19】[zzet / gortex](https://github.com/zzet/gortex) - High\-performance code\-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, with access via CLI, MCP Server, and API  AI coding agents teammate \- expose only needed information, cutting token usage up to 50x  100% local 
 * 【2026-06-19】[charmbracelet / glamour](https://github.com/charmbracelet/glamour) - Stylesheet\-based markdown rendering for your CLI apps 💇🏻‍♀️
 * 【2026-06-19】[xvzc / spoofdpi](https://github.com/xvzc/spoofdpi) - Simple and fast anti\-censorship tool written in Go
@@ -4867,6 +4877,7 @@
 
 ## C
 
+* 【2026-06-20】[getsentry / sentry-native](https://github.com/getsentry/sentry-native) - Sentry SDK for C, C++ and native applications.
 * 【2026-06-19】[getsentry / sentry\-native](https://github.com/getsentry/sentry-native) - Sentry SDK for C, C++ and native applications 
 * 【2026-06-16】[OSGeo / grass](https://github.com/OSGeo/grass) - GRASS \- free and open\-source geospatial processing engine
 * 【2026-06-16】[tr4m0ryp / tr4mpass](https://github.com/tr4m0ryp/tr4mpass) - Free, open\-source iCloud activation lock bypass tool  Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12\-26 1)  Fully offline \-\- no servers, no payments  Supports checkm8 (A5\-A11) and session activation (A12+) 
@@ -5932,6 +5943,8 @@
 
 ## C#
 
+* 【2026-06-20】[getsentry / sentry-unity](https://github.com/getsentry/sentry-unity) - Development of Sentry SDK for Unity
+* 【2026-06-20】[shrimqy / Sefirah](https://github.com/shrimqy/Sefirah) - Phone Link / KDE Connect alternative
 * 【2026-06-19】[getsentry / sentry\-unity](https://github.com/getsentry/sentry-unity) - Development of Sentry SDK for Unity
 * 【2026-06-19】[microsoft / microsoft\-ui\-reactor](https://github.com/microsoft/microsoft-ui-reactor) - Reactor is an experimental set of extensions to WinUI
 * 【2026-06-19】[getsentry / sentry-dotnet](https://github.com/getsentry/sentry-dotnet) - Sentry SDK for .NET
@@ -9079,6 +9092,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-06-20】[vercel / workflow](https://github.com/vercel/workflow) - Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript
+* 【2026-06-20】[stablyai / orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents  Run any coding agent with your own subscription  Available on desktop and mobile 
 * 【2026-06-19】[BuilderIO / agent\-native](https://github.com/BuilderIO/agent-native) - A framework for building agent\-native applications 
 * 【2026-06-19】[Egonex-AI / Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 * 【2026-06-19】[garrytan / gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
