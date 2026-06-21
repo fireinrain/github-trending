@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-06-21】[palmier-io / palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 * 【2026-06-20】[palmier\-io / palmier\-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 * 【2026-06-20】[BuilderIO / agent-native](https://github.com/BuilderIO/agent-native) - A framework for building agent-native applications.
 * 【2026-06-20】[Infrasys-AI / AISystem](https://github.com/Infrasys-AI/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
@@ -1817,6 +1818,7 @@
 
 ## Python
 
+* 【2026-06-21】[zubair-trabzada / geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports. If you want learn how to sell this to real businesses, check out the skool community
 * 【2026-06-20】[VectifyAI / OpenKB](https://github.com/VectifyAI/OpenKB) - OpenKB: Open LLM Knowledge Base
 * 【2026-06-20】[jamesyc / TimeCapsuleSMB](https://github.com/jamesyc/TimeCapsuleSMB) - Hacking the Apple Time Capsule to run modern Samba
 * 【2026-06-19】[cocoindex\-io / cocoindex\-code](https://github.com/cocoindex-io/cocoindex-code) - A super light\-weight embedded code search engine CLI (AST based) that just works \- saves 70% token and improves speed for coding agent 🌟 Star if you like it!
@@ -3361,6 +3363,7 @@
 
 ## Javascript
 
+* 【2026-06-21】[foundryvtt / dnd5e](https://github.com/foundryvtt/dnd5e) - An implementation of the 5th Edition game system for Foundry Virtual Tabletop (http://foundryvtt com) 
 * 【2026-06-20】[react / react](https://github.com/react/react) - The library for web and native user interfaces 
 * 【2026-06-19】[zarazhangrui / follow-builders](https://github.com/zarazhangrui/follow-builders) - AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.
 * 【2026-06-19】[vllm\-project / recipes](https://github.com/vllm-project/recipes) - Common recipes to run vLLM
@@ -4186,6 +4189,7 @@
 
 ## Go
 
+* 【2026-06-21】[Billionmail / BillionMail](https://github.com/Billionmail/BillionMail) - BillionMail gives you open\-source MailServer, NewsLetter, Email Marketing — fully self\-hosted, dev\-friendly, and free from monthly fees  Join the discord: https://discord gg/asfXzBUhZr
 * 【2026-06-20】[podman-container-tools / podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 * 【2026-06-20】[VersusControl / versus\-incident](https://github.com/VersusControl/versus-incident) - Open\-source incident management tool with an AI SRE agent that watches your logs, learns normal patterns, and auto\-creates incidents — plus webhook alerts, multi\-channel notifications, and on\-call escalation 
 * 【2026-06-20】[kubearmor / KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System  Workload hardening/sandboxing and implementing least\-permissive policies made easy leveraging LSMs (LSM\-BPF, AppArmor) 
@@ -5943,6 +5947,8 @@
 
 ## C#
 
+* 【2026-06-21】[builtbybel / FluentCleaner](https://github.com/builtbybel/FluentCleaner) - A real WinUI desktop cleaner with terminal control and multi\-database support
+* 【2026-06-21】[new\-frontiers\-14 / frontier\-station\-14](https://github.com/new-frontiers-14/frontier-station-14) - A 2D multiplayer sandbox survival game set in space  Based off from the cult\-classic Space Station 13/14 
 * 【2026-06-20】[getsentry / sentry-unity](https://github.com/getsentry/sentry-unity) - Development of Sentry SDK for Unity
 * 【2026-06-20】[shrimqy / Sefirah](https://github.com/shrimqy/Sefirah) - Phone Link / KDE Connect alternative
 * 【2026-06-19】[getsentry / sentry\-unity](https://github.com/getsentry/sentry-unity) - Development of Sentry SDK for Unity
@@ -7180,6 +7186,9 @@
 
 ## Unknown
 
+* 【2026-06-21】[infoslack / awesome\-web\-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
+* 【2026-06-21】[martj42 / international_results](https://github.com/martj42/international_results) - 
+* 【2026-06-21】[microsoft / powerbi-modeling-mcp](https://github.com/microsoft/powerbi-modeling-mcp) - The Power BI Modeling MCP Server, brings Power BI semantic modeling capabilities to your AI agents.
 * 【2026-06-19】[github / app](https://github.com/github/app) - The GitHub Copilot app is an agent\-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories 
 * 【2026-06-19】[zts212653 / cat\-cafe\-tutorials](https://github.com/zts212653/cat-cafe-tutorials) - 从零搭建 AI 猫猫协作系统 — 一个真实项目的完整复盘
 * 【2026-06-17】[abubakarsiddik31 / claude\-skills\-collection](https://github.com/abubakarsiddik31/claude-skills-collection) - A curated collection of official and community\-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more 
@@ -9092,6 +9101,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-06-21】[nashsu / llm_wiki](https://github.com/nashsu/llm_wiki) - LLM Wiki is a cross\-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically  Instead of traditional RAG (retrieve\-and\-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
 * 【2026-06-20】[vercel / workflow](https://github.com/vercel/workflow) - Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript
 * 【2026-06-20】[stablyai / orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents  Run any coding agent with your own subscription  Available on desktop and mobile 
 * 【2026-06-19】[BuilderIO / agent\-native](https://github.com/BuilderIO/agent-native) - A framework for building agent\-native applications 
