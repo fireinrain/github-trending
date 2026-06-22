@@ -1311,6 +1311,7 @@
 
 ## Java
 
+* 【2026-06-22】[gravitee-io / gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee.io - OpenSource API Management
 * 【2026-06-19】[redis / docs](https://github.com/redis/docs) - Documentation for Redis, Redis Cloud, and Redis Enterprise
 * 【2026-06-19】[lunasaw / voglander](https://github.com/lunasaw/voglander) - Voglander 是基于 Spring Boot 3 5 + Java 17 的企业级视频监控平台，支持 GB28181、JT/T 1078、ONVIF、SIP Gateway、ZLMediaKit、IPC/NVR 接入、实时点播、录像回放、流媒体转发、NAT 穿透和国标级联。
 * 【2026-06-18】[vaadin / platform](https://github.com/vaadin/platform) - Vaadin platform 10+ is a Java web development platform based on Vaadin web components  If you don't know to which repository your bug report should be filed, use this and we'll move it to the right one 
@@ -3363,6 +3364,8 @@
 
 ## Javascript
 
+* 【2026-06-22】[Darkatse / TauriTavern](https://github.com/Darkatse/TauriTavern) - The classic Sillytavern, now has been rewritten in Tauri/Rust 
+* 【2026-06-22】[maillab / cloud\-mail](https://github.com/maillab/cloud-mail) - A Cloudflare\-based email service \| 基于 Cloudflare 的邮箱服务 \| Cloudflare Email 邮箱 Mail
 * 【2026-06-21】[foundryvtt / dnd5e](https://github.com/foundryvtt/dnd5e) - An implementation of the 5th Edition game system for Foundry Virtual Tabletop (http://foundryvtt com) 
 * 【2026-06-20】[react / react](https://github.com/react/react) - The library for web and native user interfaces 
 * 【2026-06-19】[zarazhangrui / follow-builders](https://github.com/zarazhangrui/follow-builders) - AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.
@@ -4881,6 +4884,7 @@
 
 ## C
 
+* 【2026-06-22】[logicog / RTLPlayground](https://github.com/logicog/RTLPlayground) - A Playground for Firmware development for RTL8372/RTL8373 based 2 5GBit Switches
 * 【2026-06-20】[getsentry / sentry-native](https://github.com/getsentry/sentry-native) - Sentry SDK for C, C++ and native applications.
 * 【2026-06-19】[getsentry / sentry\-native](https://github.com/getsentry/sentry-native) - Sentry SDK for C, C++ and native applications 
 * 【2026-06-16】[OSGeo / grass](https://github.com/OSGeo/grass) - GRASS \- free and open\-source geospatial processing engine
@@ -5403,6 +5407,8 @@
 
 ## C++
 
+* 【2026-06-22】[geo-tp / ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
+* 【2026-06-22】[JRickey / BattleShip](https://github.com/JRickey/BattleShip) - A smashin' port for PC, Mac, and Linux!
 * 【2026-06-15】[cifertech / ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32
 * 【2026-06-14】[react / react-native](https://github.com/react/react-native) - A framework for building native applications using React
 * 【2026-06-14】[GensokyoClub / th06](https://github.com/GensokyoClub/th06) - Decompilation of 東方紅魔郷　～ the Embodiment of Scarlet Devil (1 02h)
@@ -7186,6 +7192,7 @@
 
 ## Unknown
 
+* 【2026-06-22】[infoslack / awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
 * 【2026-06-21】[infoslack / awesome\-web\-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
 * 【2026-06-21】[martj42 / international_results](https://github.com/martj42/international_results) - 
 * 【2026-06-21】[microsoft / powerbi-modeling-mcp](https://github.com/microsoft/powerbi-modeling-mcp) - The Power BI Modeling MCP Server, brings Power BI semantic modeling capabilities to your AI agents.
@@ -9101,6 +9108,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-06-22】[tashfeenahmed / freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI\-compatible proxy that stacks the free tiers of 16 LLM providers (~1 7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI\-compatible endpoint  Smart routing, automatic failover, encrypted keys  Personal experimentation only 
+* 【2026-06-22】[modem\-dev / hunk](https://github.com/modem-dev/hunk) - Review\-first terminal diff viewer for agentic coders
 * 【2026-06-21】[nashsu / llm_wiki](https://github.com/nashsu/llm_wiki) - LLM Wiki is a cross\-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically  Instead of traditional RAG (retrieve\-and\-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
 * 【2026-06-20】[vercel / workflow](https://github.com/vercel/workflow) - Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript
 * 【2026-06-20】[stablyai / orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents  Run any coding agent with your own subscription  Available on desktop and mobile 
