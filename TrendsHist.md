@@ -1311,6 +1311,7 @@
 
 ## Java
 
+* 【2026-06-23】[dromara / ujcms](https://github.com/dromara/ujcms) - Java开源网站内容管理系统(java cms)。使用SpringBoot、MyBatis、Spring Security、Lucene、FreeMarker、TypeScript、Vue3、ElementPlus等技术开发。
 * 【2026-06-22】[gravitee-io / gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee.io - OpenSource API Management
 * 【2026-06-19】[redis / docs](https://github.com/redis/docs) - Documentation for Redis, Redis Cloud, and Redis Enterprise
 * 【2026-06-19】[lunasaw / voglander](https://github.com/lunasaw/voglander) - Voglander 是基于 Spring Boot 3 5 + Java 17 的企业级视频监控平台，支持 GB28181、JT/T 1078、ONVIF、SIP Gateway、ZLMediaKit、IPC/NVR 接入、实时点播、录像回放、流媒体转发、NAT 穿透和国标级联。
@@ -1819,6 +1820,8 @@
 
 ## Python
 
+* 【2026-06-23】[NVIDIA / skills](https://github.com/NVIDIA/skills) - AI agent skills published by NVIDIA
+* 【2026-06-23】[kernalix7 / winpodx](https://github.com/kernalix7/winpodx) - Windows pod system for Linux
 * 【2026-06-21】[zubair-trabzada / geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports. If you want learn how to sell this to real businesses, check out the skool community
 * 【2026-06-20】[VectifyAI / OpenKB](https://github.com/VectifyAI/OpenKB) - OpenKB: Open LLM Knowledge Base
 * 【2026-06-20】[jamesyc / TimeCapsuleSMB](https://github.com/jamesyc/TimeCapsuleSMB) - Hacking the Apple Time Capsule to run modern Samba
@@ -3364,6 +3367,7 @@
 
 ## Javascript
 
+* 【2026-06-23】[FB208 / OpenBidKit_Yibiao](https://github.com/FB208/OpenBidKit_Yibiao) - 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用
 * 【2026-06-22】[Darkatse / TauriTavern](https://github.com/Darkatse/TauriTavern) - The classic Sillytavern, now has been rewritten in Tauri/Rust 
 * 【2026-06-22】[maillab / cloud\-mail](https://github.com/maillab/cloud-mail) - A Cloudflare\-based email service \| 基于 Cloudflare 的邮箱服务 \| Cloudflare Email 邮箱 Mail
 * 【2026-06-21】[foundryvtt / dnd5e](https://github.com/foundryvtt/dnd5e) - An implementation of the 5th Edition game system for Foundry Virtual Tabletop (http://foundryvtt com) 
@@ -4192,6 +4196,11 @@
 
 ## Go
 
+* 【2026-06-23】[kunchenguid / no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
+* 【2026-06-23】[haierkeys / fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
+* 【2026-06-23】[esengine / DeepSeek\-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek\-native AI coding agent for your terminal  Engineered around prefix\-cache stability — leave it running 
+* 【2026-06-23】[Layr\-Labs / d\-inference](https://github.com/Layr-Labs/d-inference) - Private Inference Network on Idle Macs
+* 【2026-06-23】[guohuiyuan / go-music-dl](https://github.com/guohuiyuan/go-music-dl) - 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：1074285005
 * 【2026-06-21】[Billionmail / BillionMail](https://github.com/Billionmail/BillionMail) - BillionMail gives you open\-source MailServer, NewsLetter, Email Marketing — fully self\-hosted, dev\-friendly, and free from monthly fees  Join the discord: https://discord gg/asfXzBUhZr
 * 【2026-06-20】[podman-container-tools / podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 * 【2026-06-20】[VersusControl / versus\-incident](https://github.com/VersusControl/versus-incident) - Open\-source incident management tool with an AI SRE agent that watches your logs, learns normal patterns, and auto\-creates incidents — plus webhook alerts, multi\-channel notifications, and on\-call escalation 
@@ -5953,6 +5962,7 @@
 
 ## C#
 
+* 【2026-06-23】[apache / arrow-adbc](https://github.com/apache/arrow-adbc) - Database connectivity API standard and libraries for Apache Arrow
 * 【2026-06-21】[builtbybel / FluentCleaner](https://github.com/builtbybel/FluentCleaner) - A real WinUI desktop cleaner with terminal control and multi\-database support
 * 【2026-06-21】[new\-frontiers\-14 / frontier\-station\-14](https://github.com/new-frontiers-14/frontier-station-14) - A 2D multiplayer sandbox survival game set in space  Based off from the cult\-classic Space Station 13/14 
 * 【2026-06-20】[getsentry / sentry-unity](https://github.com/getsentry/sentry-unity) - Development of Sentry SDK for Unity
@@ -6532,6 +6542,7 @@
 
 ## Html
 
+* 【2026-06-23】[Y\-Research\-SBU / QuantAgent](https://github.com/Y-Research-SBU/QuantAgent) - Official Repository for QuantAgent
 * 【2026-06-19】[techjarves / USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM) - The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.
 * 【2026-06-19】[jax\-ml / scaling\-book](https://github.com/jax-ml/scaling-book) - Home for "How To Scale Your Model", a short blog\-style textbook about scaling LLMs on TPUs
 * 【2026-06-18】[lewislulu / html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) - HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
@@ -7192,6 +7203,7 @@
 
 ## Unknown
 
+* 【2026-06-23】[sirredbeard / awesome\-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
 * 【2026-06-22】[infoslack / awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
 * 【2026-06-21】[infoslack / awesome\-web\-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
 * 【2026-06-21】[martj42 / international_results](https://github.com/martj42/international_results) - 
@@ -9108,6 +9120,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-06-23】[corsairdev / corsair](https://github.com/corsairdev/corsair) - Your Agent's Integration Layer
+* 【2026-06-23】[modem-dev / hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
+* 【2026-06-23】[karakeep\-app / karakeep](https://github.com/karakeep-app/karakeep) - A self\-hostable bookmark\-everything app (links, notes and images) with AI\-based automatic tagging and full text search
 * 【2026-06-22】[tashfeenahmed / freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI\-compatible proxy that stacks the free tiers of 16 LLM providers (~1 7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI\-compatible endpoint  Smart routing, automatic failover, encrypted keys  Personal experimentation only 
 * 【2026-06-22】[modem\-dev / hunk](https://github.com/modem-dev/hunk) - Review\-first terminal diff viewer for agentic coders
 * 【2026-06-21】[nashsu / llm_wiki](https://github.com/nashsu/llm_wiki) - LLM Wiki is a cross\-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically  Instead of traditional RAG (retrieve\-and\-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
