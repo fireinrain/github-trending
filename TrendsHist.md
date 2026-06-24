@@ -1820,6 +1820,9 @@
 
 ## Python
 
+* 【2026-06-24】[aws / agent\-toolkit\-for\-aws](https://github.com/aws/agent-toolkit-for-aws) - Official, AWS\-supported MCP servers, skills, and plugins to help AI agents build on AWS
+* 【2026-06-24】[LLMQuant / quant-mind](https://github.com/LLMQuant/quant-mind) - QuantMind is an intelligent knowledge extraction and retrieval framework for quantitative finance.
+* 【2026-06-24】[bradautomates / claude\-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video  /watch downloads, extracts frames, transcribes, hands it all to Claude 
 * 【2026-06-23】[NVIDIA / skills](https://github.com/NVIDIA/skills) - AI agent skills published by NVIDIA
 * 【2026-06-23】[kernalix7 / winpodx](https://github.com/kernalix7/winpodx) - Windows pod system for Linux
 * 【2026-06-21】[zubair-trabzada / geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports. If you want learn how to sell this to real businesses, check out the skool community
@@ -4196,6 +4199,9 @@
 
 ## Go
 
+* 【2026-06-24】[esengine / DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+* 【2026-06-24】[voocel / ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨多agent实现全自动AI小说生成
+* 【2026-06-24】[kunchenguid / treehouse](https://github.com/kunchenguid/treehouse) - Manage worktrees without managing worktrees 
 * 【2026-06-23】[kunchenguid / no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
 * 【2026-06-23】[haierkeys / fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 * 【2026-06-23】[esengine / DeepSeek\-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek\-native AI coding agent for your terminal  Engineered around prefix\-cache stability — leave it running 
@@ -8064,6 +8070,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-06-24】[TencentCloud / CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents 
 * 【2026-06-19】[getsentry / relay](https://github.com/getsentry/relay) - Sentry event forwarding and ingestion service 
 * 【2026-06-16】[esrlabs / chipmunk](https://github.com/esrlabs/chipmunk) - log analysis tool
 * 【2026-06-15】[fabro\-sh / fabro](https://github.com/fabro-sh/fabro) - ⚒️ The open source dark software factory for expert engineers 
@@ -9120,6 +9127,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-06-24】[ArnasDon / wacrm](https://github.com/ArnasDon/wacrm) - 
 * 【2026-06-23】[corsairdev / corsair](https://github.com/corsairdev/corsair) - Your Agent's Integration Layer
 * 【2026-06-23】[modem-dev / hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 * 【2026-06-23】[karakeep\-app / karakeep](https://github.com/karakeep-app/karakeep) - A self\-hostable bookmark\-everything app (links, notes and images) with AI\-based automatic tagging and full text search
