@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-06-26】[xbtlin / ai\-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。\| AI\-era Berkshire: a value investing research framework built on Claude Code  4 masters' methodologies + multi\-agent adversarial analysis 
+* 【2026-06-26】[every\-app / open\-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
+* 【2026-06-26】[aws / agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) - Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
 * 【2026-06-25】[interviewstreet / hiring-agent](https://github.com/interviewstreet/hiring-agent) - AI agent to evaluate and score resumes.
 * 【2026-06-25】[google-labs-code / design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 * 【2026-06-21】[palmier-io / palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
@@ -1822,6 +1825,8 @@
 
 ## Python
 
+* 【2026-06-26】[xbtlin / ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.
+* 【2026-06-26】[NVIDIA\-NeMo / Speech](https://github.com/NVIDIA-NeMo/Speech) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text\-to\-Speech)
 * 【2026-06-25】[ariadng / metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server) - Model Context Protocol (MCP) to enable AI LLMs to trade using MetaTrader platform
 * 【2026-06-24】[aws / agent\-toolkit\-for\-aws](https://github.com/aws/agent-toolkit-for-aws) - Official, AWS\-supported MCP servers, skills, and plugins to help AI agents build on AWS
 * 【2026-06-24】[LLMQuant / quant-mind](https://github.com/LLMQuant/quant-mind) - QuantMind is an intelligent knowledge extraction and retrieval framework for quantitative finance.
@@ -3373,6 +3378,7 @@
 
 ## Javascript
 
+* 【2026-06-26】[jnMetaCode / superpowers\-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活
 * 【2026-06-25】[arunbhardwaj / LeetHub\-2 0](https://github.com/arunbhardwaj/LeetHub-2.0) - Automatically sync your leetcode solutions to your github account \- with some updates to keep it working
 * 【2026-06-25】[Shopify / Shopify\-AI\-Toolkit](https://github.com/Shopify/Shopify-AI-Toolkit) - Agent plugins/extensions for CLIs and IDEs
 * 【2026-06-23】[FB208 / OpenBidKit_Yibiao](https://github.com/FB208/OpenBidKit_Yibiao) - 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用
@@ -5427,6 +5433,7 @@
 
 ## C++
 
+* 【2026-06-26】[lightgbm-org / LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 * 【2026-06-25】[optiscaler / OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs  Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR\-FG/XeFG on non\-FG titles  Supports Nukem mod for DLSSG\-to\-FSR3 FG 
 * 【2026-06-22】[geo-tp / ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 * 【2026-06-22】[JRickey / BattleShip](https://github.com/JRickey/BattleShip) - A smashin' port for PC, Mac, and Linux!
@@ -5974,6 +5981,7 @@
 
 ## C#
 
+* 【2026-06-26】[tui\-cs / Terminal Gui](https://github.com/tui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for  NET
 * 【2026-06-23】[apache / arrow-adbc](https://github.com/apache/arrow-adbc) - Database connectivity API standard and libraries for Apache Arrow
 * 【2026-06-21】[builtbybel / FluentCleaner](https://github.com/builtbybel/FluentCleaner) - A real WinUI desktop cleaner with terminal control and multi\-database support
 * 【2026-06-21】[new\-frontiers\-14 / frontier\-station\-14](https://github.com/new-frontiers-14/frontier-station-14) - A 2D multiplayer sandbox survival game set in space  Based off from the cult\-classic Space Station 13/14 
@@ -6554,6 +6562,9 @@
 
 ## Html
 
+* 【2026-06-26】[op7418 / guizang\-ppt\-skill](https://github.com/op7418/guizang-ppt-skill) - AI\-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low\-power presentation runtime 
+* 【2026-06-26】[alchaincyf / darwin-skill](https://github.com/alchaincyf/darwin-skill) - 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.
+* 【2026-06-26】[alchaincyf / huashu\-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML\-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent\-agnostic
 * 【2026-06-23】[Y\-Research\-SBU / QuantAgent](https://github.com/Y-Research-SBU/QuantAgent) - Official Repository for QuantAgent
 * 【2026-06-19】[techjarves / USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM) - The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.
 * 【2026-06-19】[jax\-ml / scaling\-book](https://github.com/jax-ml/scaling-book) - Home for "How To Scale Your Model", a short blog\-style textbook about scaling LLMs on TPUs
@@ -7215,6 +7226,7 @@
 
 ## Unknown
 
+* 【2026-06-26】[OWASP / AISVS](https://github.com/OWASP/AISVS) - The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals with a structured checklist to verify the security of AI\-driven applications 
 * 【2026-06-25】[Hamed233 / Cybersecurity\-Mastery\-Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap) - A comprehensive, step\-by\-step guide to mastering cybersecurity from beginner to expert level with curated resources, tools, and career guidance
 * 【2026-06-25】[MedivhTirisfal / csust_test_database](https://github.com/MedivhTirisfal/csust_test_database) - 长沙理工大学考试题库
 * 【2026-06-23】[sirredbeard / awesome\-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
@@ -9135,6 +9147,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-06-26】[every-app / open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
+* 【2026-06-26】[TencentCloud / TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
+* 【2026-06-26】[receptron / mulmoclaude](https://github.com/receptron/mulmoclaude) - Multi\-modal Claude Code Client
+* 【2026-06-26】[hoangsonww / Claude\-Code\-Agent\-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) - 🚀 A real\-time monitoring dashboard for Claude Code, built with SQLite3, Node js, Express, React, Vite, TailwindCSS, and WebSockets  It tracks sessions, agent activity, tool usage, and subagent orchestration, providing live analytics, a Kanban status board, status notifications, a cute buddy, and an interactive web UI/MacOS/Windows native app 
 * 【2026-06-24】[ArnasDon / wacrm](https://github.com/ArnasDon/wacrm) - 
 * 【2026-06-23】[corsairdev / corsair](https://github.com/corsairdev/corsair) - Your Agent's Integration Layer
 * 【2026-06-23】[modem-dev / hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
