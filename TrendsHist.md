@@ -1317,6 +1317,7 @@
 
 ## Java
 
+* 【2026-06-28】[WuKongOpenSource / Wukong\-AICRM](https://github.com/WuKongOpenSource/Wukong-AICRM) - The Open Source Salesforce + ChatGPT Manage Customers  Query Knowledge  Execute Tasks  All Through Conversation 
 * 【2026-06-23】[dromara / ujcms](https://github.com/dromara/ujcms) - Java开源网站内容管理系统(java cms)。使用SpringBoot、MyBatis、Spring Security、Lucene、FreeMarker、TypeScript、Vue3、ElementPlus等技术开发。
 * 【2026-06-22】[gravitee-io / gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee.io - OpenSource API Management
 * 【2026-06-19】[redis / docs](https://github.com/redis/docs) - Documentation for Redis, Redis Cloud, and Redis Enterprise
@@ -1826,6 +1827,7 @@
 
 ## Python
 
+* 【2026-06-28】[browser\-use / video\-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
 * 【2026-06-27】[didilili / ai\-agents\-from\-zero](https://github.com/didilili/ai-agents-from-zero) - 🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径 + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化
 * 【2026-06-27】[safishamsi / graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more)  Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph  App code + database schema + infrastructure in one graph 
 * 【2026-06-26】[xbtlin / ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.
@@ -3381,6 +3383,8 @@
 
 ## Javascript
 
+* 【2026-06-28】[googleapis / google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
+* 【2026-06-28】[jnMetaCode / superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活
 * 【2026-06-27】[freestylefly / awesome\-gpt\-image\-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code \| GPT\-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 * 【2026-06-26】[jnMetaCode / superpowers\-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活
 * 【2026-06-25】[arunbhardwaj / LeetHub\-2 0](https://github.com/arunbhardwaj/LeetHub-2.0) - Automatically sync your leetcode solutions to your github account \- with some updates to keep it working
@@ -6568,6 +6572,7 @@
 
 ## Html
 
+* 【2026-06-28】[alchaincyf / huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 * 【2026-06-26】[op7418 / guizang\-ppt\-skill](https://github.com/op7418/guizang-ppt-skill) - AI\-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low\-power presentation runtime 
 * 【2026-06-26】[alchaincyf / darwin-skill](https://github.com/alchaincyf/darwin-skill) - 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.
 * 【2026-06-26】[alchaincyf / huashu\-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML\-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent\-agnostic
@@ -7232,6 +7237,10 @@
 
 ## Unknown
 
+* 【2026-06-28】[caramaschiHG / awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) - 🤖 The most comprehensive list of AI agents, frameworks & tools in 2026. 300+ resources · 20+ categories · Updated monthly.
+* 【2026-06-28】[user1342 / Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
+* 【2026-06-28】[K2SOsint / Legendary_OSINT](https://github.com/K2SOsint/Legendary_OSINT) - A list of OSINT tools & resources for (fraud\-)investigators, CTI\-analysts, KYC, AML and more 
+* 【2026-06-28】[nilbuild / design\-patterns\-for\-humans](https://github.com/nilbuild/design-patterns-for-humans) - An ultra\-simplified explanation to design patterns
 * 【2026-06-27】[vesaaa / vstv](https://github.com/vesaaa/vstv) - VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道，支持国产及常见品牌电视 / 盒子（如 TCL、海信、酷开、华为智慧屏、荣耀、小米电视等）
 * 【2026-06-26】[OWASP / AISVS](https://github.com/OWASP/AISVS) - The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals with a structured checklist to verify the security of AI\-driven applications 
 * 【2026-06-25】[Hamed233 / Cybersecurity\-Mastery\-Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap) - A comprehensive, step\-by\-step guide to mastering cybersecurity from beginner to expert level with curated resources, tools, and career guidance
@@ -8097,6 +8106,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-06-28】[rivet\-dev / agentos](https://github.com/rivet-dev/agentos) - A faster, lighter, cheaper alternative to sandboxes  Run any coding agent inside an isolated Linux VM, with agent orchestration built in 
+* 【2026-06-28】[gglucass / headroom-desktop](https://github.com/gglucass/headroom-desktop) - Unlock 2x more Claude Code and Codex usage
 * 【2026-06-27】[gglucass / headroom\-desktop](https://github.com/gglucass/headroom-desktop) - Unlock 2x more Claude Code and Codex usage
 * 【2026-06-24】[TencentCloud / CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents 
 * 【2026-06-19】[getsentry / relay](https://github.com/getsentry/relay) - Sentry event forwarding and ingestion service 
@@ -9155,6 +9166,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-06-28】[facebook / astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
+* 【2026-06-28】[terwer / siyuan\-plugin\-publisher](https://github.com/terwer/siyuan-plugin-publisher) - V2 is on the way✈️Publish articles from siyuan\-note to platforms such as Yuque, etc Free and open source  2 0全面重构，请期待。 将思源笔记的文章发布到语雀等平台，开源免费。V2闭关开发中，发布之后将陆续恢复更新
+* 【2026-06-28】[one\-among\-us / data](https://github.com/one-among-us/data) - Data repo for https://one\-among us
 * 【2026-06-27】[EKKOLearnAI / hermes\-studio](https://github.com/EKKOLearnAI/hermes-studio) - Web dashboard for Hermes Agent — multi\-platform AI chat, session management, scheduled jobs, usage analytics
 * 【2026-06-26】[every-app / open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
 * 【2026-06-26】[TencentCloud / TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
