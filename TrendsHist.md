@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-06-30】[altic-dev / FluidVoice](https://github.com/altic-dev/FluidVoice) - FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))
+* 【2026-06-30】[Unclecheng\-li / VulnClaw](https://github.com/Unclecheng-li/VulnClaw) - 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
+* 【2026-06-30】[0xNyk / council\-of\-high\-intelligence](https://github.com/0xNyk/council-of-high-intelligence) - 18 AI personas deliberate your hardest decisions across multiple LLM providers  Aristotle, Feynman, Kahneman, Torvalds & more — structured multi\-round deliberation with genuine model diversity  One command: /council
 * 【2026-06-29】[Robbyant / lingbot\-map](https://github.com/Robbyant/lingbot-map) - A feed\-forward 3D foundation model for reconstructing scenes from streaming data
 * 【2026-06-29】[altic\-dev / FluidVoice](https://github.com/altic-dev/FluidVoice) - FluidVoice \- Fastest macOS Offline Dictation app \- Voice to Text fully Local  One ⭐ takes us a long way :))
 * 【2026-06-29】[browser-use / video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
@@ -1320,6 +1323,7 @@
 
 ## Java
 
+* 【2026-06-30】[bytechefhq / bytechef](https://github.com/bytechefhq/bytechef) - Open\-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform 
 * 【2026-06-28】[WuKongOpenSource / Wukong\-AICRM](https://github.com/WuKongOpenSource/Wukong-AICRM) - The Open Source Salesforce + ChatGPT Manage Customers  Query Knowledge  Execute Tasks  All Through Conversation 
 * 【2026-06-23】[dromara / ujcms](https://github.com/dromara/ujcms) - Java开源网站内容管理系统(java cms)。使用SpringBoot、MyBatis、Spring Security、Lucene、FreeMarker、TypeScript、Vue3、ElementPlus等技术开发。
 * 【2026-06-22】[gravitee-io / gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee.io - OpenSource API Management
@@ -1830,6 +1834,7 @@
 
 ## Python
 
+* 【2026-06-30】[Unclecheng-li / VulnClaw](https://github.com/Unclecheng-li/VulnClaw) - 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
 * 【2026-06-29】[Robbyant / lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 * 【2026-06-28】[browser\-use / video\-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
 * 【2026-06-27】[didilili / ai\-agents\-from\-zero](https://github.com/didilili/ai-agents-from-zero) - 🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径 + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化
@@ -3387,6 +3392,9 @@
 
 ## Javascript
 
+* 【2026-06-30】[worldwonderer / oh\-story\-claudecode](https://github.com/worldwonderer/oh-story-claudecode) - 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程
+* 【2026-06-30】[js-org / js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
+* 【2026-06-30】[ai\-driven\-dev / framework](https://github.com/ai-driven-dev/framework) - Marketplace Framework AI\-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC
 * 【2026-06-29】[earthtojake / text\-to\-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 * 【2026-06-28】[googleapis / google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
 * 【2026-06-28】[jnMetaCode / superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活
@@ -4223,6 +4231,9 @@
 
 ## Go
 
+* 【2026-06-30】[AgentWrapper / agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.
+* 【2026-06-30】[rilldata / rill](https://github.com/rilldata/rill) - The fastest business intelligence tool for humans and agents 
+* 【2026-06-30】[pomerium / pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context\-aware access proxy 
 * 【2026-06-29】[workweave / router](https://github.com/workweave/router) - Model router for agentic systems  Routes every prompt to the right model in <50ms  Cut costs 40\-70% with just an endpoint change 
 * 【2026-06-29】[AgentWrapper / agent\-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews 
 * 【2026-06-24】[esengine / DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
@@ -4925,6 +4936,7 @@
 
 ## C
 
+* 【2026-06-30】[vpinball / vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
 * 【2026-06-29】[lcdyk0517 / arkos4clone](https://github.com/lcdyk0517/arkos4clone) - ArkOS for Unofficial Devices
 * 【2026-06-27】[sp00nznet / ps3recomp](https://github.com/sp00nznet/ps3recomp) - Static recompilation runtime libraries for PlayStation 3 titles 
 * 【2026-06-27】[espressif / esp\-claw](https://github.com/espressif/esp-claw) - ESP\-Claw, a "Chat Coding" AI agent framework for IoT devices
@@ -5451,6 +5463,7 @@
 
 ## C++
 
+* 【2026-06-30】[twelvesec / PwnPad](https://github.com/twelvesec/PwnPad) - PwnPad is an affordable, hands\-on hardware hacking platform built for practical learning  It features a range of challenges that walk users through key hardware security concepts, from PCB design to side\-channel attacks 
 * 【2026-06-26】[lightgbm-org / LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 * 【2026-06-25】[optiscaler / OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs  Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR\-FG/XeFG on non\-FG titles  Supports Nukem mod for DLSSG\-to\-FSR3 FG 
 * 【2026-06-22】[geo-tp / ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
@@ -5999,6 +6012,9 @@
 
 ## C#
 
+* 【2026-06-30】[space-wizards / RobustToolbox](https://github.com/space-wizards/RobustToolbox) - Robust multiplayer game engine, used by Space Station 14
+* 【2026-06-30】[tui-cs / Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
+* 【2026-06-30】[Seralyth / Seralyth\-Menu](https://github.com/Seralyth/Seralyth-Menu) - A community driven mod menu for Gorilla Tag with over 1000+ mods
 * 【2026-06-29】[space\-wizards / RobustToolbox](https://github.com/space-wizards/RobustToolbox) - Robust multiplayer game engine, used by Space Station 14
 * 【2026-06-26】[tui\-cs / Terminal Gui](https://github.com/tui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for  NET
 * 【2026-06-23】[apache / arrow-adbc](https://github.com/apache/arrow-adbc) - Database connectivity API standard and libraries for Apache Arrow
@@ -6581,6 +6597,7 @@
 
 ## Html
 
+* 【2026-06-30】[hasaneyldrm / exercises\-dataset](https://github.com/hasaneyldrm/exercises-dataset) - A comprehensive dataset of 433 fitness exercises  Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video 
 * 【2026-06-29】[DataScienceSpecialization / courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization: https://www coursera org/specialization/jhudatascience/1
 * 【2026-06-29】[meleantonio / awesome\-econ\-ai\-stuff](https://github.com/meleantonio/awesome-econ-ai-stuff) - AI Skills for Economists
 * 【2026-06-29】[perma-id / w3id.org](https://github.com/perma-id/w3id.org) - Website source code for w3id.org.
@@ -7249,6 +7266,7 @@
 
 ## Unknown
 
+* 【2026-06-30】[Fl4sh9174 / Switch\-Emulator\-Ultrawide\-FPS\-Mods](https://github.com/Fl4sh9174/Switch-Emulator-Ultrawide-FPS-Mods) - 
 * 【2026-06-29】[sanbuphy / learn\-coding\-agent](https://github.com/sanbuphy/learn-coding-agent) - Research on Coding Agents
 * 【2026-06-29】[ocaml / opam\-repository](https://github.com/ocaml/opam-repository) - Main public package repository for opam, the source package manager of OCaml 
 * 【2026-06-29】[deepseek\-ai / awesome\-deepseek\-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) - 
@@ -8121,6 +8139,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-06-30】[microsoft / qdk](https://github.com/microsoft/qdk) - Microsoft Quantum Development Kit, including the Q\# programming language, resource estimator, and Quantum Katas
+* 【2026-06-30】[metalbear-co / mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
+* 【2026-06-30】[matrix\-org / matrix\-rust\-sdk](https://github.com/matrix-org/matrix-rust-sdk) - Matrix Client\-Server SDK for Rust
 * 【2026-06-29】[GCWing / BitFun](https://github.com/GCWing/BitFun) - BitFun is a desktop\-grade Agent runtimeand a ready\-to\-use suite of desktop Agent applications with built\-in Code Agent 、 Cowork Agent、Computer Use  It has memory, personality, and the ability to evolve over time
 * 【2026-06-28】[rivet\-dev / agentos](https://github.com/rivet-dev/agentos) - A faster, lighter, cheaper alternative to sandboxes  Run any coding agent inside an isolated Linux VM, with agent orchestration built in 
 * 【2026-06-28】[gglucass / headroom-desktop](https://github.com/gglucass/headroom-desktop) - Unlock 2x more Claude Code and Codex usage
@@ -9182,6 +9203,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-06-30】[craft-ai-agents / craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss) - 
+* 【2026-06-30】[vanloctech / youwee](https://github.com/vanloctech/youwee) - A beautiful, cross\-platform downloader for YouTube, TikTok, Instagram, and 1800+ sites (yt\-dlp GUI) with AI video summaries and post\-processing
+* 【2026-06-30】[Orginone / oiocns\-react](https://github.com/Orginone/oiocns-react) - 奥集能前端react版本
 * 【2026-06-29】[craft\-ai\-agents / craft\-agents\-oss](https://github.com/craft-ai-agents/craft-agents-oss) - 
 * 【2026-06-29】[ZSeven\-W / openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open\-source AI\-native vector design tool and the first to feature concurrent Agent Teams  Design\-as\-Code  Turn prompts into UI directly on the live canvas  A modern alternative to Pencil 
 * 【2026-06-29】[terwer / siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher) - V2 is on the way✈️Publish articles from siyuan-note to platforms such as Yuque, etc.Free and open source. 2.0全面重构，请期待。 将思源笔记的文章发布到语雀等平台，开源免费。V2闭关开发中，发布之后将陆续恢复更新
