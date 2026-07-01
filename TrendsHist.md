@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-07-01】[hasaneyldrm / exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
+* 【2026-07-01】[CoreBunch / Instatic](https://github.com/CoreBunch/Instatic) - Instatic is a modern self\-hosted visual CMS \- get it running in 1 minute
 * 【2026-06-30】[altic-dev / FluidVoice](https://github.com/altic-dev/FluidVoice) - FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))
 * 【2026-06-30】[Unclecheng\-li / VulnClaw](https://github.com/Unclecheng-li/VulnClaw) - 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
 * 【2026-06-30】[0xNyk / council\-of\-high\-intelligence](https://github.com/0xNyk/council-of-high-intelligence) - 18 AI personas deliberate your hardest decisions across multiple LLM providers  Aristotle, Feynman, Kahneman, Torvalds & more — structured multi\-round deliberation with genuine model diversity  One command: /council
@@ -3392,6 +3394,10 @@
 
 ## Javascript
 
+* 【2026-07-01】[rohitg00 / pro-workflow](https://github.com/rohitg00/pro-workflow) - Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.
+* 【2026-07-01】[pashov / skills](https://github.com/pashov/skills) - Pashov Audit Group Skills
+* 【2026-07-01】[tt\-a1i / archify](https://github.com/tt-a1i/archify) - Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
+* 【2026-07-01】[earthtojake / text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 * 【2026-06-30】[worldwonderer / oh\-story\-claudecode](https://github.com/worldwonderer/oh-story-claudecode) - 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程
 * 【2026-06-30】[js-org / js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 * 【2026-06-30】[ai\-driven\-dev / framework](https://github.com/ai-driven-dev/framework) - Marketplace Framework AI\-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC
@@ -4231,6 +4237,7 @@
 
 ## Go
 
+* 【2026-07-01】[palemoky / chinese\-poetry\-api](https://github.com/palemoky/chinese-poetry-api) - 📜 诗泉：高性能中国古诗词 API 服务
 * 【2026-06-30】[AgentWrapper / agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.
 * 【2026-06-30】[rilldata / rill](https://github.com/rilldata/rill) - The fastest business intelligence tool for humans and agents 
 * 【2026-06-30】[pomerium / pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context\-aware access proxy 
@@ -4936,6 +4943,7 @@
 
 ## C
 
+* 【2026-07-01】[fanchmwrt / fanchmwrt](https://github.com/fanchmwrt/fanchmwrt) - An open\-source enterprise\-grade router system based on OpenWrt 
 * 【2026-06-30】[vpinball / vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
 * 【2026-06-29】[lcdyk0517 / arkos4clone](https://github.com/lcdyk0517/arkos4clone) - ArkOS for Unofficial Devices
 * 【2026-06-27】[sp00nznet / ps3recomp](https://github.com/sp00nznet/ps3recomp) - Static recompilation runtime libraries for PlayStation 3 titles 
@@ -5463,6 +5471,7 @@
 
 ## C++
 
+* 【2026-07-01】[The\-Powder\-Toy / The\-Powder\-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) - Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat 
 * 【2026-06-30】[twelvesec / PwnPad](https://github.com/twelvesec/PwnPad) - PwnPad is an affordable, hands\-on hardware hacking platform built for practical learning  It features a range of challenges that walk users through key hardware security concepts, from PCB design to side\-channel attacks 
 * 【2026-06-26】[lightgbm-org / LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 * 【2026-06-25】[optiscaler / OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs  Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR\-FG/XeFG on non\-FG titles  Supports Nukem mod for DLSSG\-to\-FSR3 FG 
@@ -7266,6 +7275,8 @@
 
 ## Unknown
 
+* 【2026-07-01】[Hamed233 / Cybersecurity-Mastery-Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap) - A comprehensive, step-by-step guide to mastering cybersecurity from beginner to expert level with curated resources, tools, and career guidance
+* 【2026-07-01】[deepseek-ai / awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) - 
 * 【2026-06-30】[Fl4sh9174 / Switch\-Emulator\-Ultrawide\-FPS\-Mods](https://github.com/Fl4sh9174/Switch-Emulator-Ultrawide-FPS-Mods) - 
 * 【2026-06-29】[sanbuphy / learn\-coding\-agent](https://github.com/sanbuphy/learn-coding-agent) - Research on Coding Agents
 * 【2026-06-29】[ocaml / opam\-repository](https://github.com/ocaml/opam-repository) - Main public package repository for opam, the source package manager of OCaml 
@@ -9203,6 +9214,10 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-01】[ZSeven-W / openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
+* 【2026-07-01】[cweijan / vscode\-office](https://github.com/cweijan/vscode-office) - Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor 
+* 【2026-07-01】[super\-productivity / super\-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities  It also comes with integrations for Jira, GitLab, GitHub and Open Project 
+* 【2026-07-01】[danielmiessler / LifeOS](https://github.com/danielmiessler/LifeOS) - Agentic AI Infrastructure for magnifying HUMAN capabilities 
 * 【2026-06-30】[craft-ai-agents / craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss) - 
 * 【2026-06-30】[vanloctech / youwee](https://github.com/vanloctech/youwee) - A beautiful, cross\-platform downloader for YouTube, TikTok, Instagram, and 1800+ sites (yt\-dlp GUI) with AI video summaries and post\-processing
 * 【2026-06-30】[Orginone / oiocns\-react](https://github.com/Orginone/oiocns-react) - 奥集能前端react版本
