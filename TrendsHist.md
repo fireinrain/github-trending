@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-07-02】[togatoga / karukan](https://github.com/togatoga/karukan) - Japanese Input Method System for Linux, macOS, Neural Kana\-Kanji Conversion Engine
+* 【2026-07-02】[0xNyk / council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) - 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council
 * 【2026-07-01】[hasaneyldrm / exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
 * 【2026-07-01】[CoreBunch / Instatic](https://github.com/CoreBunch/Instatic) - Instatic is a modern self\-hosted visual CMS \- get it running in 1 minute
 * 【2026-06-30】[altic-dev / FluidVoice](https://github.com/altic-dev/FluidVoice) - FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))
@@ -1836,6 +1838,8 @@
 
 ## Python
 
+* 【2026-07-02】[virgiliojr94 / book\-to\-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work 
+* 【2026-07-02】[HKUDS / VideoAgent](https://github.com/HKUDS/VideoAgent) - "VideoAgent: All\-in\-One Agentic Framework for Video Understanding, Editing, and Remaking"
 * 【2026-06-30】[Unclecheng-li / VulnClaw](https://github.com/Unclecheng-li/VulnClaw) - 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
 * 【2026-06-29】[Robbyant / lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 * 【2026-06-28】[browser\-use / video\-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
@@ -3394,6 +3398,9 @@
 
 ## Javascript
 
+* 【2026-07-02】[openai / codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
+* 【2026-07-02】[nadimtuhin / claude\-token\-optimizer](https://github.com/nadimtuhin/claude-token-optimizer) - Optimize token usage for Claude API calls
+* 【2026-07-02】[worldwonderer / oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) - 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程
 * 【2026-07-01】[rohitg00 / pro-workflow](https://github.com/rohitg00/pro-workflow) - Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.
 * 【2026-07-01】[pashov / skills](https://github.com/pashov/skills) - Pashov Audit Group Skills
 * 【2026-07-01】[tt\-a1i / archify](https://github.com/tt-a1i/archify) - Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
@@ -4237,6 +4244,7 @@
 
 ## Go
 
+* 【2026-07-02】[leookun / cursor\-byok](https://github.com/leookun/cursor-byok) - Infinite BYOK in Cursor https://github com/leookun/cursor\-byok/releases
 * 【2026-07-01】[palemoky / chinese\-poetry\-api](https://github.com/palemoky/chinese-poetry-api) - 📜 诗泉：高性能中国古诗词 API 服务
 * 【2026-06-30】[AgentWrapper / agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.
 * 【2026-06-30】[rilldata / rill](https://github.com/rilldata/rill) - The fastest business intelligence tool for humans and agents 
@@ -6606,6 +6614,7 @@
 
 ## Html
 
+* 【2026-07-02】[cncf / toc](https://github.com/cncf/toc) - ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation 
 * 【2026-06-30】[hasaneyldrm / exercises\-dataset](https://github.com/hasaneyldrm/exercises-dataset) - A comprehensive dataset of 433 fitness exercises  Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video 
 * 【2026-06-29】[DataScienceSpecialization / courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization: https://www coursera org/specialization/jhudatascience/1
 * 【2026-06-29】[meleantonio / awesome\-econ\-ai\-stuff](https://github.com/meleantonio/awesome-econ-ai-stuff) - AI Skills for Economists
@@ -7275,6 +7284,7 @@
 
 ## Unknown
 
+* 【2026-07-02】[yetone / voice\-input\-src](https://github.com/yetone/voice-input-src) - 
 * 【2026-07-01】[Hamed233 / Cybersecurity-Mastery-Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap) - A comprehensive, step-by-step guide to mastering cybersecurity from beginner to expert level with curated resources, tools, and career guidance
 * 【2026-07-01】[deepseek-ai / awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) - 
 * 【2026-06-30】[Fl4sh9174 / Switch\-Emulator\-Ultrawide\-FPS\-Mods](https://github.com/Fl4sh9174/Switch-Emulator-Ultrawide-FPS-Mods) - 
@@ -8150,6 +8160,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-07-02】[rivet-dev / agentos](https://github.com/rivet-dev/agentos) - A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.
+* 【2026-07-02】[t8y2 / dbx](https://github.com/t8y2/dbx) - 15MB, lightweight, cross\-platform database client  Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more 15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。
 * 【2026-06-30】[microsoft / qdk](https://github.com/microsoft/qdk) - Microsoft Quantum Development Kit, including the Q\# programming language, resource estimator, and Quantum Katas
 * 【2026-06-30】[metalbear-co / mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
 * 【2026-06-30】[matrix\-org / matrix\-rust\-sdk](https://github.com/matrix-org/matrix-rust-sdk) - Matrix Client\-Server SDK for Rust
@@ -9214,6 +9226,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-02】[RedPlanetHQ / core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
 * 【2026-07-01】[ZSeven-W / openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
 * 【2026-07-01】[cweijan / vscode\-office](https://github.com/cweijan/vscode-office) - Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor 
 * 【2026-07-01】[super\-productivity / super\-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities  It also comes with integrations for Jira, GitLab, GitHub and Open Project 
