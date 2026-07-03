@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-07-03】[agentskills / agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 * 【2026-07-02】[togatoga / karukan](https://github.com/togatoga/karukan) - Japanese Input Method System for Linux, macOS, Neural Kana\-Kanji Conversion Engine
 * 【2026-07-02】[0xNyk / council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) - 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council
 * 【2026-07-01】[hasaneyldrm / exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
@@ -3398,6 +3399,8 @@
 
 ## Javascript
 
+* 【2026-07-03】[tt-a1i / archify](https://github.com/tt-a1i/archify) - Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
+* 【2026-07-03】[elder\-plinius / P4RS3LT0NGV3](https://github.com/elder-plinius/P4RS3LT0NGV3) - universal text transformation, translation, mutation, encoding/decoding, and promptcrafting
 * 【2026-07-02】[openai / codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 * 【2026-07-02】[nadimtuhin / claude\-token\-optimizer](https://github.com/nadimtuhin/claude-token-optimizer) - Optimize token usage for Claude API calls
 * 【2026-07-02】[worldwonderer / oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) - 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程
@@ -4951,6 +4954,9 @@
 
 ## C
 
+* 【2026-07-03】[espressif / esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
+* 【2026-07-03】[ducalex / retro\-go](https://github.com/ducalex/retro-go) - Retro emulation for the ODROID\-GO and other ESP32 devices
+* 【2026-07-03】[polhenarejos / pico\-fido](https://github.com/polhenarejos/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
 * 【2026-07-01】[fanchmwrt / fanchmwrt](https://github.com/fanchmwrt/fanchmwrt) - An open\-source enterprise\-grade router system based on OpenWrt 
 * 【2026-06-30】[vpinball / vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
 * 【2026-06-29】[lcdyk0517 / arkos4clone](https://github.com/lcdyk0517/arkos4clone) - ArkOS for Unofficial Devices
@@ -5479,6 +5485,7 @@
 
 ## C++
 
+* 【2026-07-03】[fasiondog / hikyuu](https://github.com/fasiondog/hikyuu) - Hikyuu Quant Framework 基于C++/Python的超高速开源量化交易研究框架，同时可基于策略部件进行资产重用，快速累积策略资产。
 * 【2026-07-01】[The\-Powder\-Toy / The\-Powder\-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) - Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat 
 * 【2026-06-30】[twelvesec / PwnPad](https://github.com/twelvesec/PwnPad) - PwnPad is an affordable, hands\-on hardware hacking platform built for practical learning  It features a range of challenges that walk users through key hardware security concepts, from PCB design to side\-channel attacks 
 * 【2026-06-26】[lightgbm-org / LightGBM](https://github.com/lightgbm-org/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
@@ -6029,6 +6036,7 @@
 
 ## C#
 
+* 【2026-07-03】[PhoenixNil / XrayUI\-dev](https://github.com/PhoenixNil/XrayUI-dev) - Lightweight native Windows GUI client for Xray core, built with WinUI 3
 * 【2026-06-30】[space-wizards / RobustToolbox](https://github.com/space-wizards/RobustToolbox) - Robust multiplayer game engine, used by Space Station 14
 * 【2026-06-30】[tui-cs / Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 * 【2026-06-30】[Seralyth / Seralyth\-Menu](https://github.com/Seralyth/Seralyth-Menu) - A community driven mod menu for Gorilla Tag with over 1000+ mods
@@ -6614,6 +6622,7 @@
 
 ## Html
 
+* 【2026-07-03】[op7418 / guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 * 【2026-07-02】[cncf / toc](https://github.com/cncf/toc) - ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation 
 * 【2026-06-30】[hasaneyldrm / exercises\-dataset](https://github.com/hasaneyldrm/exercises-dataset) - A comprehensive dataset of 433 fitness exercises  Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video 
 * 【2026-06-29】[DataScienceSpecialization / courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization: https://www coursera org/specialization/jhudatascience/1
@@ -7284,6 +7293,7 @@
 
 ## Unknown
 
+* 【2026-07-03】[ombharatiya / ai\-system\-design\-guide](https://github.com/ombharatiya/ai-system-design-guide) - AI system design guide for engineers building production AI systems and evals 
 * 【2026-07-02】[yetone / voice\-input\-src](https://github.com/yetone/voice-input-src) - 
 * 【2026-07-01】[Hamed233 / Cybersecurity-Mastery-Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap) - A comprehensive, step-by-step guide to mastering cybersecurity from beginner to expert level with curated resources, tools, and career guidance
 * 【2026-07-01】[deepseek-ai / awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) - 
@@ -8160,6 +8170,11 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-07-03】[sopaco / deepwiki\-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity  Generate accurate technical docs and AI\-ready context in minutes—perfectly structured for human teams and intelligent agents 
+* 【2026-07-03】[martin-olivier / airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software mainly based on aircrack-ng tools suite
+* 【2026-07-03】[Kuberwastaken / claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
+* 【2026-07-03】[lance0 / ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real\-time TUI, per\-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing  A better mtr 
+* 【2026-07-03】[jackwener / wx\-cli](https://github.com/jackwener/wx-cli) - WeChat local data CLI with daemon architecture
 * 【2026-07-02】[rivet-dev / agentos](https://github.com/rivet-dev/agentos) - A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.
 * 【2026-07-02】[t8y2 / dbx](https://github.com/t8y2/dbx) - 15MB, lightweight, cross\-platform database client  Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more 15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。
 * 【2026-06-30】[microsoft / qdk](https://github.com/microsoft/qdk) - Microsoft Quantum Development Kit, including the Q\# programming language, resource estimator, and Quantum Katas
@@ -9226,6 +9241,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-03】[OpenCut\-app / OpenCut](https://github.com/OpenCut-app/OpenCut) - The open\-source CapCut alternative
+* 【2026-07-03】[microsoft / skills](https://github.com/microsoft/skills) - Skills, MCP servers, Custom Agents, Agents md for SDKs to ground Coding Agents
+* 【2026-07-03】[NateBJones-Projects / OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
 * 【2026-07-02】[RedPlanetHQ / core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
 * 【2026-07-01】[ZSeven-W / openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
 * 【2026-07-01】[cweijan / vscode\-office](https://github.com/cweijan/vscode-office) - Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor 
