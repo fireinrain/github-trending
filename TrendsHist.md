@@ -1839,6 +1839,8 @@
 
 ## Python
 
+* 【2026-07-04】[NVlabs / ProtoMotions](https://github.com/NVlabs/ProtoMotions) - ProtoMotions is a GPU\-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots 
+* 【2026-07-04】[huggingface / speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build local voice agents with open-source models
 * 【2026-07-02】[virgiliojr94 / book\-to\-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work 
 * 【2026-07-02】[HKUDS / VideoAgent](https://github.com/HKUDS/VideoAgent) - "VideoAgent: All\-in\-One Agentic Framework for Video Understanding, Editing, and Remaking"
 * 【2026-06-30】[Unclecheng-li / VulnClaw](https://github.com/Unclecheng-li/VulnClaw) - 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
@@ -3399,6 +3401,8 @@
 
 ## Javascript
 
+* 【2026-07-04】[fbsamples / whatsapp-business-jaspers-market](https://github.com/fbsamples/whatsapp-business-jaspers-market) - Sample Whatsapp App - Jasper's Market
+* 【2026-07-04】[GargantuaX / gemini\-watermark\-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high\-performance, 100% client\-side tool for removing Gemini AI image & video watermarks  Built with pure JavaScript using mathematically precise Reverse Alpha Blending  / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法
 * 【2026-07-03】[tt-a1i / archify](https://github.com/tt-a1i/archify) - Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
 * 【2026-07-03】[elder\-plinius / P4RS3LT0NGV3](https://github.com/elder-plinius/P4RS3LT0NGV3) - universal text transformation, translation, mutation, encoding/decoding, and promptcrafting
 * 【2026-07-02】[openai / codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
@@ -4247,6 +4251,7 @@
 
 ## Go
 
+* 【2026-07-04】[opencode\-ai / opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent  Built for the terminal 
 * 【2026-07-02】[leookun / cursor\-byok](https://github.com/leookun/cursor-byok) - Infinite BYOK in Cursor https://github com/leookun/cursor\-byok/releases
 * 【2026-07-01】[palemoky / chinese\-poetry\-api](https://github.com/palemoky/chinese-poetry-api) - 📜 诗泉：高性能中国古诗词 API 服务
 * 【2026-06-30】[AgentWrapper / agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.
@@ -6622,6 +6627,7 @@
 
 ## Html
 
+* 【2026-07-04】[matlab / simulink\-agentic\-toolkit](https://github.com/matlab/simulink-agentic-toolkit) - The Simulink Agentic Toolkit gives your AI agent both the tools and the expertise to work effectively with Simulink and Model\-Based Design 
 * 【2026-07-03】[op7418 / guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 * 【2026-07-02】[cncf / toc](https://github.com/cncf/toc) - ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation 
 * 【2026-06-30】[hasaneyldrm / exercises\-dataset](https://github.com/hasaneyldrm/exercises-dataset) - A comprehensive dataset of 433 fitness exercises  Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video 
@@ -7293,6 +7299,7 @@
 
 ## Unknown
 
+* 【2026-07-04】[ombharatiya / ai-system-design-guide](https://github.com/ombharatiya/ai-system-design-guide) - AI system design guide for engineers building production AI systems and evals.
 * 【2026-07-03】[ombharatiya / ai\-system\-design\-guide](https://github.com/ombharatiya/ai-system-design-guide) - AI system design guide for engineers building production AI systems and evals 
 * 【2026-07-02】[yetone / voice\-input\-src](https://github.com/yetone/voice-input-src) - 
 * 【2026-07-01】[Hamed233 / Cybersecurity-Mastery-Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap) - A comprehensive, step-by-step guide to mastering cybersecurity from beginner to expert level with curated resources, tools, and career guidance
@@ -8170,6 +8177,10 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-07-04】[ModernRelay / omnigraph](https://github.com/ModernRelay/omnigraph) - Lakehouse native graph engine with git\-style workflows
+* 【2026-07-04】[macro\-inc / macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory 
+* 【2026-07-04】[kdsz001 / OpenWiki](https://github.com/kdsz001/OpenWiki) - OpenWiki — Mac desktop AI knowledge management tool  Capture clipboard, build personal wiki, get AI insights 
+* 【2026-07-04】[LargeModGames / spotatui](https://github.com/LargeModGames/spotatui) - A fully standalone Spotify client for the terminal  Native streaming included, no daemon required 
 * 【2026-07-03】[sopaco / deepwiki\-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity  Generate accurate technical docs and AI\-ready context in minutes—perfectly structured for human teams and intelligent agents 
 * 【2026-07-03】[martin-olivier / airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software mainly based on aircrack-ng tools suite
 * 【2026-07-03】[Kuberwastaken / claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
@@ -9241,6 +9252,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-04】[Chocobozzz / PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub\-federated video streaming platform using P2P directly in your web browser
 * 【2026-07-03】[OpenCut\-app / OpenCut](https://github.com/OpenCut-app/OpenCut) - The open\-source CapCut alternative
 * 【2026-07-03】[microsoft / skills](https://github.com/microsoft/skills) - Skills, MCP servers, Custom Agents, Agents md for SDKs to ground Coding Agents
 * 【2026-07-03】[NateBJones-Projects / OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
