@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-07-05】[chthollyphile / folia\-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
+* 【2026-07-05】[crynta / terax\-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal\-first AI\-native dev workspace
 * 【2026-07-03】[agentskills / agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 * 【2026-07-02】[togatoga / karukan](https://github.com/togatoga/karukan) - Japanese Input Method System for Linux, macOS, Neural Kana\-Kanji Conversion Engine
 * 【2026-07-02】[0xNyk / council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) - 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council
@@ -1328,6 +1330,8 @@
 
 ## Java
 
+* 【2026-07-05】[mateaix / mateclaw](https://github.com/mateaix/mateclaw) - 🤖 MateClaw — Your second brain with Multi\-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi\-Channel Support  Built on Spring AI Alibaba 
+* 【2026-07-05】[apache / flink\-agents](https://github.com/apache/flink-agents) - Flink Agents is an Agentic AI framework based on Apache Flink
 * 【2026-06-30】[bytechefhq / bytechef](https://github.com/bytechefhq/bytechef) - Open\-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform 
 * 【2026-06-28】[WuKongOpenSource / Wukong\-AICRM](https://github.com/WuKongOpenSource/Wukong-AICRM) - The Open Source Salesforce + ChatGPT Manage Customers  Query Knowledge  Execute Tasks  All Through Conversation 
 * 【2026-06-23】[dromara / ujcms](https://github.com/dromara/ujcms) - Java开源网站内容管理系统(java cms)。使用SpringBoot、MyBatis、Spring Security、Lucene、FreeMarker、TypeScript、Vue3、ElementPlus等技术开发。
@@ -1839,6 +1843,7 @@
 
 ## Python
 
+* 【2026-07-05】[microsoft / skills\-for\-fabric](https://github.com/microsoft/skills-for-fabric) - A collection of skills and MCP systems to enable users of CLI, VSCode, Claude to operate over Microsoft Fabric
 * 【2026-07-04】[NVlabs / ProtoMotions](https://github.com/NVlabs/ProtoMotions) - ProtoMotions is a GPU\-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots 
 * 【2026-07-04】[huggingface / speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build local voice agents with open-source models
 * 【2026-07-02】[virgiliojr94 / book\-to\-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work 
@@ -3401,6 +3406,7 @@
 
 ## Javascript
 
+* 【2026-07-05】[citrolabs / ego\-lite](https://github.com/citrolabs/ego-lite) - The best browser for both you and your AI agents work in parallel 
 * 【2026-07-04】[fbsamples / whatsapp-business-jaspers-market](https://github.com/fbsamples/whatsapp-business-jaspers-market) - Sample Whatsapp App - Jasper's Market
 * 【2026-07-04】[GargantuaX / gemini\-watermark\-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high\-performance, 100% client\-side tool for removing Gemini AI image & video watermarks  Built with pure JavaScript using mathematically precise Reverse Alpha Blending  / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法
 * 【2026-07-03】[tt-a1i / archify](https://github.com/tt-a1i/archify) - Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
@@ -4251,6 +4257,7 @@
 
 ## Go
 
+* 【2026-07-05】[opencode-ai / opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 * 【2026-07-04】[opencode\-ai / opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent  Built for the terminal 
 * 【2026-07-02】[leookun / cursor\-byok](https://github.com/leookun/cursor-byok) - Infinite BYOK in Cursor https://github com/leookun/cursor\-byok/releases
 * 【2026-07-01】[palemoky / chinese\-poetry\-api](https://github.com/palemoky/chinese-poetry-api) - 📜 诗泉：高性能中国古诗词 API 服务
@@ -6041,6 +6048,7 @@
 
 ## C#
 
+* 【2026-07-05】[PhoenixNil / XrayUI-dev](https://github.com/PhoenixNil/XrayUI-dev) - Lightweight native Windows GUI client for Xray core, built with WinUI 3
 * 【2026-07-03】[PhoenixNil / XrayUI\-dev](https://github.com/PhoenixNil/XrayUI-dev) - Lightweight native Windows GUI client for Xray core, built with WinUI 3
 * 【2026-06-30】[space-wizards / RobustToolbox](https://github.com/space-wizards/RobustToolbox) - Robust multiplayer game engine, used by Space Station 14
 * 【2026-06-30】[tui-cs / Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
@@ -6627,6 +6635,7 @@
 
 ## Html
 
+* 【2026-07-05】[fikrikarim / parlor](https://github.com/fikrikarim/parlor) - On\-device, real\-time multimodal AI  Have natural voice and vision conversations with an AI that runs entirely on your machine  Powered by Gemma 4 E2B and Kokoro 
 * 【2026-07-04】[matlab / simulink\-agentic\-toolkit](https://github.com/matlab/simulink-agentic-toolkit) - The Simulink Agentic Toolkit gives your AI agent both the tools and the expertise to work effectively with Simulink and Model\-Based Design 
 * 【2026-07-03】[op7418 / guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 * 【2026-07-02】[cncf / toc](https://github.com/cncf/toc) - ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation 
@@ -7299,6 +7308,7 @@
 
 ## Unknown
 
+* 【2026-07-05】[nyas1 / Material\-You\-app\-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that support material you design 
 * 【2026-07-04】[ombharatiya / ai-system-design-guide](https://github.com/ombharatiya/ai-system-design-guide) - AI system design guide for engineers building production AI systems and evals.
 * 【2026-07-03】[ombharatiya / ai\-system\-design\-guide](https://github.com/ombharatiya/ai-system-design-guide) - AI system design guide for engineers building production AI systems and evals 
 * 【2026-07-02】[yetone / voice\-input\-src](https://github.com/yetone/voice-input-src) - 
@@ -9252,6 +9262,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-05】[chthollyphile / folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
+* 【2026-07-05】[crynta / terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
+* 【2026-07-05】[paper\-design / shaders](https://github.com/paper-design/shaders) - Zero\-dependency canvas shaders that can be installed from npm or designed in Paper
 * 【2026-07-04】[Chocobozzz / PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub\-federated video streaming platform using P2P directly in your web browser
 * 【2026-07-03】[OpenCut\-app / OpenCut](https://github.com/OpenCut-app/OpenCut) - The open\-source CapCut alternative
 * 【2026-07-03】[microsoft / skills](https://github.com/microsoft/skills) - Skills, MCP servers, Custom Agents, Agents md for SDKs to ground Coding Agents
