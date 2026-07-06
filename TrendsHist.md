@@ -1330,6 +1330,9 @@
 
 ## Java
 
+* 【2026-07-06】[anddea / revanced-patches](https://github.com/anddea/revanced-patches) - 🧩 Patches for ReVanced
+* 【2026-07-06】[SGUDestiny / PenumbraPhantasm](https://github.com/SGUDestiny/PenumbraPhantasm) - 
+* 【2026-07-06】[mateaix / matecloud](https://github.com/mateaix/matecloud) - 🔥MateCloud是一款基于Spring Cloud Alibaba的微服务架构。目前已经整合Spring Boot 4 0 7、 SpringCloud 2025、Spring Cloud Alibaba 2025、Spring Security Oauth2、Feign、Dubbo、JetCache、RocketMQ等，支持多租户的低代码平台，Saas平台开发套件
 * 【2026-07-05】[mateaix / mateclaw](https://github.com/mateaix/mateclaw) - 🤖 MateClaw — Your second brain with Multi\-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi\-Channel Support  Built on Spring AI Alibaba 
 * 【2026-07-05】[apache / flink\-agents](https://github.com/apache/flink-agents) - Flink Agents is an Agentic AI framework based on Apache Flink
 * 【2026-06-30】[bytechefhq / bytechef](https://github.com/bytechefhq/bytechef) - Open\-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform 
@@ -1843,6 +1846,8 @@
 
 ## Python
 
+* 【2026-07-06】[bradautomates / claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+* 【2026-07-06】[google\-antigravity / antigravity\-sdk\-python](https://github.com/google-antigravity/antigravity-sdk-python) - A Python library for building AI agents that leverage the full power of Google Antigravity 
 * 【2026-07-05】[microsoft / skills\-for\-fabric](https://github.com/microsoft/skills-for-fabric) - A collection of skills and MCP systems to enable users of CLI, VSCode, Claude to operate over Microsoft Fabric
 * 【2026-07-04】[NVlabs / ProtoMotions](https://github.com/NVlabs/ProtoMotions) - ProtoMotions is a GPU\-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots 
 * 【2026-07-04】[huggingface / speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build local voice agents with open-source models
@@ -4257,6 +4262,8 @@
 
 ## Go
 
+* 【2026-07-06】[asciimoo / hister](https://github.com/asciimoo/hister) - Your own search engine
+* 【2026-07-06】[openclaw / crabbox](https://github.com/openclaw/crabbox) - Crabbox: warm a box, sync the diff, run the suite 
 * 【2026-07-05】[opencode-ai / opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 * 【2026-07-04】[opencode\-ai / opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent  Built for the terminal 
 * 【2026-07-02】[leookun / cursor\-byok](https://github.com/leookun/cursor-byok) - Infinite BYOK in Cursor https://github com/leookun/cursor\-byok/releases
@@ -5497,6 +5504,7 @@
 
 ## C++
 
+* 【2026-07-06】[xland / ScreenCapture](https://github.com/xland/ScreenCapture) - A feature\-rich screen capture software with just a single executable file
 * 【2026-07-03】[fasiondog / hikyuu](https://github.com/fasiondog/hikyuu) - Hikyuu Quant Framework 基于C++/Python的超高速开源量化交易研究框架，同时可基于策略部件进行资产重用，快速累积策略资产。
 * 【2026-07-01】[The\-Powder\-Toy / The\-Powder\-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) - Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat 
 * 【2026-06-30】[twelvesec / PwnPad](https://github.com/twelvesec/PwnPad) - PwnPad is an affordable, hands\-on hardware hacking platform built for practical learning  It features a range of challenges that walk users through key hardware security concepts, from PCB design to side\-channel attacks 
@@ -8187,6 +8195,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-07-06】[HalFrgrd / flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
 * 【2026-07-04】[ModernRelay / omnigraph](https://github.com/ModernRelay/omnigraph) - Lakehouse native graph engine with git\-style workflows
 * 【2026-07-04】[macro\-inc / macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory 
 * 【2026-07-04】[kdsz001 / OpenWiki](https://github.com/kdsz001/OpenWiki) - OpenWiki — Mac desktop AI knowledge management tool  Capture clipboard, build personal wiki, get AI insights 
