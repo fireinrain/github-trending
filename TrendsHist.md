@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-07-08】[MadsLorentzen / ai\-job\-search](https://github.com/MadsLorentzen/ai-job-search) - AI\-powered job application framework built on Claude Code  Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews 
+* 【2026-07-08】[kyutai-labs / pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
 * 【2026-07-07】[karakeep-app / karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 * 【2026-07-05】[chthollyphile / folia\-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 * 【2026-07-05】[crynta / terax\-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal\-first AI\-native dev workspace
@@ -3413,6 +3415,7 @@
 
 ## Javascript
 
+* 【2026-07-08】[Piebald\-AI / claude\-code\-system\-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE md, compact, statusline, magic docs, WebFetch, Bash cmd, security review, agent creation)  Updated for each Claude Code version 
 * 【2026-07-07】[webbrain\-one / webbrain](https://github.com/webbrain-one/webbrain) - Open\-source AI browser agent for Chrome and Firefox (monorepo) 🧠
 * 【2026-07-05】[citrolabs / ego\-lite](https://github.com/citrolabs/ego-lite) - The best browser for both you and your AI agents work in parallel 
 * 【2026-07-04】[fbsamples / whatsapp-business-jaspers-market](https://github.com/fbsamples/whatsapp-business-jaspers-market) - Sample Whatsapp App - Jasper's Market
@@ -6648,6 +6651,8 @@
 
 ## Html
 
+* 【2026-07-08】[matlab / simulink-agentic-toolkit](https://github.com/matlab/simulink-agentic-toolkit) - The Simulink Agentic Toolkit gives your AI agent both the tools and the expertise to work effectively with Simulink and Model-Based Design.
+* 【2026-07-08】[fernfei / OnlyofficePersonal](https://github.com/fernfei/OnlyofficePersonal) - ONLYOFFICE Personal 是一款基于wasm运行的Office办公套件，无需服务端直接运行。
 * 【2026-07-05】[fikrikarim / parlor](https://github.com/fikrikarim/parlor) - On\-device, real\-time multimodal AI  Have natural voice and vision conversations with an AI that runs entirely on your machine  Powered by Gemma 4 E2B and Kokoro 
 * 【2026-07-04】[matlab / simulink\-agentic\-toolkit](https://github.com/matlab/simulink-agentic-toolkit) - The Simulink Agentic Toolkit gives your AI agent both the tools and the expertise to work effectively with Simulink and Model\-Based Design 
 * 【2026-07-03】[op7418 / guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
@@ -7321,6 +7326,7 @@
 
 ## Unknown
 
+* 【2026-07-08】[kangarooking / cangjie\-skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 * 【2026-07-07】[0xNyk / awesome\-hermes\-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
 * 【2026-07-07】[anYuJia / better\-douyin](https://github.com/anYuJia/better-douyin) - rust版本请参考：https://github com/anYuJia/better\-douyin\-r
 * 【2026-07-05】[nyas1 / Material\-You\-app\-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that support material you design 
@@ -8202,6 +8208,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-07-08】[openfootmanager / openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
 * 【2026-07-07】[wealthfolio / wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local\-first personal finance tracker  Investments, net worth, spending, and simulations 
 * 【2026-07-06】[HalFrgrd / flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
 * 【2026-07-04】[ModernRelay / omnigraph](https://github.com/ModernRelay/omnigraph) - Lakehouse native graph engine with git\-style workflows
@@ -9279,6 +9286,11 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-08】[MadsLorentzen / ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
+* 【2026-07-08】[Augani / openreel\-video](https://github.com/Augani/openreel-video) - OpenReel Video \- Professional browser\-based video editor  Open source CapCut alternative  100% browser\-based, no installation, no cloud uploads, no watermarks 
+* 【2026-07-08】[lessweb / deepcode\-cli](https://github.com/lessweb/deepcode-cli) - Deep Code 是专为 deepseek\-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。
+* 【2026-07-08】[SawyerHood / dev\-browser](https://github.com/SawyerHood/dev-browser) - A Claude Skill to give your agent the ability to use a web browser
+* 【2026-07-08】[alefragnani / vscode\-project\-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
 * 【2026-07-05】[chthollyphile / folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
 * 【2026-07-05】[crynta / terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 * 【2026-07-05】[paper\-design / shaders](https://github.com/paper-design/shaders) - Zero\-dependency canvas shaders that can be installed from npm or designed in Paper
