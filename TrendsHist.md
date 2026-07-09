@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-07-09】[huxingyi / autoremesher](https://github.com/huxingyi/autoremesher) - Automatic quad remeshing tool
 * 【2026-07-08】[MadsLorentzen / ai\-job\-search](https://github.com/MadsLorentzen/ai-job-search) - AI\-powered job application framework built on Claude Code  Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews 
 * 【2026-07-08】[kyutai-labs / pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
 * 【2026-07-07】[karakeep-app / karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -1849,6 +1850,9 @@
 
 ## Python
 
+* 【2026-07-09】[microsoft / SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text\-space optimizer that trains reusable natural\-language skills for frozen LLM agents through trajectory\-driven edits, validation\-gated updates, and deployable best_skill md artifacts 
+* 【2026-07-09】[googleanalytics / google\-analytics\-mcp](https://github.com/googleanalytics/google-analytics-mcp) - 
+* 【2026-07-09】[Graphify\-Labs / graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more)  Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph  App code + database schema + infrastructure in one graph 
 * 【2026-07-07】[google-antigravity / antigravity-sdk-python](https://github.com/google-antigravity/antigravity-sdk-python) - A Python library for building AI agents that leverage the full power of Google Antigravity.
 * 【2026-07-06】[bradautomates / claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 * 【2026-07-06】[google\-antigravity / antigravity\-sdk\-python](https://github.com/google-antigravity/antigravity-sdk-python) - A Python library for building AI agents that leverage the full power of Google Antigravity 
@@ -3415,6 +3419,9 @@
 
 ## Javascript
 
+* 【2026-07-09】[GargantuaX / gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法
+* 【2026-07-09】[byoungd / up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉   人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
+* 【2026-07-09】[Piebald-AI / claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, statusline, magic docs, WebFetch, Bash cmd, security review, agent creation). Updated for each Claude Code version.
 * 【2026-07-08】[Piebald\-AI / claude\-code\-system\-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE md, compact, statusline, magic docs, WebFetch, Bash cmd, security review, agent creation)  Updated for each Claude Code version 
 * 【2026-07-07】[webbrain\-one / webbrain](https://github.com/webbrain-one/webbrain) - Open\-source AI browser agent for Chrome and Firefox (monorepo) 🧠
 * 【2026-07-05】[citrolabs / ego\-lite](https://github.com/citrolabs/ego-lite) - The best browser for both you and your AI agents work in parallel 
@@ -4268,6 +4275,7 @@
 
 ## Go
 
+* 【2026-07-09】[karust / openserp](https://github.com/karust/openserp) - Self\-hosted SERP API for AI, SEO & automation  Browser\-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
 * 【2026-07-07】[micro / go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 * 【2026-07-07】[Infisical / agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
 * 【2026-07-06】[asciimoo / hister](https://github.com/asciimoo/hister) - Your own search engine
@@ -4981,6 +4989,7 @@
 
 ## C
 
+* 【2026-07-09】[antirez / ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 * 【2026-07-03】[espressif / esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
 * 【2026-07-03】[ducalex / retro\-go](https://github.com/ducalex/retro-go) - Retro emulation for the ODROID\-GO and other ESP32 devices
 * 【2026-07-03】[polhenarejos / pico\-fido](https://github.com/polhenarejos/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
@@ -7326,6 +7335,7 @@
 
 ## Unknown
 
+* 【2026-07-09】[kangarooking / cangjie-skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 * 【2026-07-08】[kangarooking / cangjie\-skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 * 【2026-07-07】[0xNyk / awesome\-hermes\-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
 * 【2026-07-07】[anYuJia / better\-douyin](https://github.com/anYuJia/better-douyin) - rust版本请参考：https://github com/anYuJia/better\-douyin\-r
@@ -9286,6 +9296,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-09】[browseros\-ai / BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open\-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia 
 * 【2026-07-08】[MadsLorentzen / ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
 * 【2026-07-08】[Augani / openreel\-video](https://github.com/Augani/openreel-video) - OpenReel Video \- Professional browser\-based video editor  Open source CapCut alternative  100% browser\-based, no installation, no cloud uploads, no watermarks 
 * 【2026-07-08】[lessweb / deepcode\-cli](https://github.com/lessweb/deepcode-cli) - Deep Code 是专为 deepseek\-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。
