@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-07-10】[SmartlyDressedGames / U3\-SDK](https://github.com/SmartlyDressedGames/U3-SDK) - Source code for Unturned, a free open\-world zombie survival sandbox game 
 * 【2026-07-09】[huxingyi / autoremesher](https://github.com/huxingyi/autoremesher) - Automatic quad remeshing tool
 * 【2026-07-08】[MadsLorentzen / ai\-job\-search](https://github.com/MadsLorentzen/ai-job-search) - AI\-powered job application framework built on Claude Code  Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews 
 * 【2026-07-08】[kyutai-labs / pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
@@ -1850,6 +1851,8 @@
 
 ## Python
 
+* 【2026-07-10】[fqscfqj / Y2A\-Auto](https://github.com/fqscfqj/Y2A-Auto) - YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控
+* 【2026-07-10】[Graphify-Labs / graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 * 【2026-07-09】[microsoft / SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text\-space optimizer that trains reusable natural\-language skills for frozen LLM agents through trajectory\-driven edits, validation\-gated updates, and deployable best_skill md artifacts 
 * 【2026-07-09】[googleanalytics / google\-analytics\-mcp](https://github.com/googleanalytics/google-analytics-mcp) - 
 * 【2026-07-09】[Graphify\-Labs / graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more)  Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph  App code + database schema + infrastructure in one graph 
@@ -4275,6 +4278,7 @@
 
 ## Go
 
+* 【2026-07-10】[velero\-io / velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 * 【2026-07-09】[karust / openserp](https://github.com/karust/openserp) - Self\-hosted SERP API for AI, SEO & automation  Browser\-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
 * 【2026-07-07】[micro / go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 * 【2026-07-07】[Infisical / agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
@@ -5521,6 +5525,8 @@
 
 ## C++
 
+* 【2026-07-10】[carbonengine / core](https://github.com/carbonengine/core) - Provides generic low\-level functionality and cross\-platform abstractions for system calls
+* 【2026-07-10】[Alex2772 / kuni](https://github.com/Alex2772/kuni) - character ai
 * 【2026-07-06】[xland / ScreenCapture](https://github.com/xland/ScreenCapture) - A feature\-rich screen capture software with just a single executable file
 * 【2026-07-03】[fasiondog / hikyuu](https://github.com/fasiondog/hikyuu) - Hikyuu Quant Framework 基于C++/Python的超高速开源量化交易研究框架，同时可基于策略部件进行资产重用，快速累积策略资产。
 * 【2026-07-01】[The\-Powder\-Toy / The\-Powder\-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) - Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat 
@@ -6073,6 +6079,9 @@
 
 ## C#
 
+* 【2026-07-10】[SmartlyDressedGames / U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) - Source code for Unturned, a free open-world zombie survival sandbox game.
+* 【2026-07-10】[codewithmukesh / dotnet\-claude\-kit](https://github.com/codewithmukesh/dotnet-claude-kit) - Make Claude Code a  NET 10 Expert
+* 【2026-07-10】[Seralyth / Seralyth-Menu](https://github.com/Seralyth/Seralyth-Menu) - A community driven mod menu for Gorilla Tag with over 1000+ mods
 * 【2026-07-05】[PhoenixNil / XrayUI-dev](https://github.com/PhoenixNil/XrayUI-dev) - Lightweight native Windows GUI client for Xray core, built with WinUI 3
 * 【2026-07-03】[PhoenixNil / XrayUI\-dev](https://github.com/PhoenixNil/XrayUI-dev) - Lightweight native Windows GUI client for Xray core, built with WinUI 3
 * 【2026-06-30】[space-wizards / RobustToolbox](https://github.com/space-wizards/RobustToolbox) - Robust multiplayer game engine, used by Space Station 14
@@ -7335,6 +7344,8 @@
 
 ## Unknown
 
+* 【2026-07-10】[wowlusitong / awesome\-education](https://github.com/wowlusitong/awesome-education) - 学生福利\-收集支持教育优惠的软件与服务
+* 【2026-07-10】[ashuoAI / AI\-CanvasPro](https://github.com/ashuoAI/AI-CanvasPro) - AI\-CanvasPro
 * 【2026-07-09】[kangarooking / cangjie-skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 * 【2026-07-08】[kangarooking / cangjie\-skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
 * 【2026-07-07】[0xNyk / awesome\-hermes\-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
@@ -8218,6 +8229,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-07-10】[chojs23 / concord](https://github.com/chojs23/concord) - A feature\-rich TUI client for Discord
 * 【2026-07-08】[openfootmanager / openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
 * 【2026-07-07】[wealthfolio / wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local\-first personal finance tracker  Investments, net worth, spending, and simulations 
 * 【2026-07-06】[HalFrgrd / flyline](https://github.com/HalFrgrd/flyline) - Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!
@@ -9296,6 +9308,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-10】[traycerai / traycer](https://github.com/traycerai/traycer) - Traycer: Nerve Center for Agentic Coding
 * 【2026-07-09】[browseros\-ai / BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open\-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia 
 * 【2026-07-08】[MadsLorentzen / ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
 * 【2026-07-08】[Augani / openreel\-video](https://github.com/Augani/openreel-video) - OpenReel Video \- Professional browser\-based video editor  Open source CapCut alternative  100% browser\-based, no installation, no cloud uploads, no watermarks 
