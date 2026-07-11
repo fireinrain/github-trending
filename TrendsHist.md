@@ -1851,6 +1851,8 @@
 
 ## Python
 
+* 【2026-07-11】[Soju06 / codex\-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode\-compatible endpoints
+* 【2026-07-11】[syncable\-dev / memtrace\-public](https://github.com/syncable-dev/memtrace-public) - Structural memory for AI coding agents  Bi\-temporal graph, MCP\-native, zero LLM calls  Cursor · Claude Code · Codex · Hermes · VS Code · Windsurf 
 * 【2026-07-10】[fqscfqj / Y2A\-Auto](https://github.com/fqscfqj/Y2A-Auto) - YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控
 * 【2026-07-10】[Graphify-Labs / graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 * 【2026-07-09】[microsoft / SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text\-space optimizer that trains reusable natural\-language skills for frozen LLM agents through trajectory\-driven edits, validation\-gated updates, and deployable best_skill md artifacts 
@@ -6669,6 +6671,8 @@
 
 ## Html
 
+* 【2026-07-11】[mlc\-ai / modern\-gpu\-programming\-for\-mlsys](https://github.com/mlc-ai/modern-gpu-programming-for-mlsys) - A tutorial on modern GPU programming for machine learning systems
+* 【2026-07-11】[cclank / cell\-architecture\-studio](https://github.com/cclank/cell-architecture-studio) - Interactive 3D cell architecture gallery built with React and Three js
 * 【2026-07-08】[matlab / simulink-agentic-toolkit](https://github.com/matlab/simulink-agentic-toolkit) - The Simulink Agentic Toolkit gives your AI agent both the tools and the expertise to work effectively with Simulink and Model-Based Design.
 * 【2026-07-08】[fernfei / OnlyofficePersonal](https://github.com/fernfei/OnlyofficePersonal) - ONLYOFFICE Personal 是一款基于wasm运行的Office办公套件，无需服务端直接运行。
 * 【2026-07-05】[fikrikarim / parlor](https://github.com/fikrikarim/parlor) - On\-device, real\-time multimodal AI  Have natural voice and vision conversations with an AI that runs entirely on your machine  Powered by Gemma 4 E2B and Kokoro 
@@ -8229,6 +8233,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-07-11】[macro-inc / macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.
+* 【2026-07-11】[NVIDIA / infra\-controller](https://github.com/NVIDIA/infra-controller) - NVIDIA Infra Controller \- Hardware Lifecycle Management and multitenant networking
 * 【2026-07-10】[chojs23 / concord](https://github.com/chojs23/concord) - A feature\-rich TUI client for Discord
 * 【2026-07-08】[openfootmanager / openfootmanager](https://github.com/openfootmanager/openfootmanager) - An open source soccer/football manager game
 * 【2026-07-07】[wealthfolio / wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local\-first personal finance tracker  Investments, net worth, spending, and simulations 
@@ -9308,6 +9314,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-11】[browseros-ai / BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 * 【2026-07-10】[traycerai / traycer](https://github.com/traycerai/traycer) - Traycer: Nerve Center for Agentic Coding
 * 【2026-07-09】[browseros\-ai / BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open\-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia 
 * 【2026-07-08】[MadsLorentzen / ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
