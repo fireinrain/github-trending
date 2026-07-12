@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-07-12】[malisper / pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 * 【2026-07-10】[SmartlyDressedGames / U3\-SDK](https://github.com/SmartlyDressedGames/U3-SDK) - Source code for Unturned, a free open\-world zombie survival sandbox game 
 * 【2026-07-09】[huxingyi / autoremesher](https://github.com/huxingyi/autoremesher) - Automatic quad remeshing tool
 * 【2026-07-08】[MadsLorentzen / ai\-job\-search](https://github.com/MadsLorentzen/ai-job-search) - AI\-powered job application framework built on Claude Code  Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews 
@@ -1851,6 +1852,10 @@
 
 ## Python
 
+* 【2026-07-12】[FoundationAgents / OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground  OpenManus is Coming 
+* 【2026-07-12】[Soju06 / codex-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
+* 【2026-07-12】[cognizant\-ai\-lab / neuro\-san\-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) - A playground for neuro\-san
+* 【2026-07-12】[ATH\-MaaS / Pixelle\-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 \| AI Fully Automated Short Video Engine
 * 【2026-07-11】[Soju06 / codex\-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode\-compatible endpoints
 * 【2026-07-11】[syncable\-dev / memtrace\-public](https://github.com/syncable-dev/memtrace-public) - Structural memory for AI coding agents  Bi\-temporal graph, MCP\-native, zero LLM calls  Cursor · Claude Code · Codex · Hermes · VS Code · Windsurf 
 * 【2026-07-10】[fqscfqj / Y2A\-Auto](https://github.com/fqscfqj/Y2A-Auto) - YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控
@@ -4995,6 +5000,7 @@
 
 ## C
 
+* 【2026-07-12】[Filoppi / Luma-Framework](https://github.com/Filoppi/Luma-Framework) - Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are currently included, the biggest one being Prey (2017), which refactors its post processing rendering phase (e.g. adding HDR support, DLSS). Mod list here: https://github.com/Filoppi/Luma-Framework/wiki
 * 【2026-07-09】[antirez / ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 * 【2026-07-03】[espressif / esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
 * 【2026-07-03】[ducalex / retro\-go](https://github.com/ducalex/retro-go) - Retro emulation for the ODROID\-GO and other ESP32 devices
@@ -6081,6 +6087,7 @@
 
 ## C#
 
+* 【2026-07-12】[par274 / sharpemu](https://github.com/par274/sharpemu) - An experimental PlayStation 5 emulator project 
 * 【2026-07-10】[SmartlyDressedGames / U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) - Source code for Unturned, a free open-world zombie survival sandbox game.
 * 【2026-07-10】[codewithmukesh / dotnet\-claude\-kit](https://github.com/codewithmukesh/dotnet-claude-kit) - Make Claude Code a  NET 10 Expert
 * 【2026-07-10】[Seralyth / Seralyth-Menu](https://github.com/Seralyth/Seralyth-Menu) - A community driven mod menu for Gorilla Tag with over 1000+ mods
@@ -6671,6 +6678,7 @@
 
 ## Html
 
+* 【2026-07-12】[cclank / cell-architecture-studio](https://github.com/cclank/cell-architecture-studio) - Interactive 3D cell architecture gallery built with React and Three.js
 * 【2026-07-11】[mlc\-ai / modern\-gpu\-programming\-for\-mlsys](https://github.com/mlc-ai/modern-gpu-programming-for-mlsys) - A tutorial on modern GPU programming for machine learning systems
 * 【2026-07-11】[cclank / cell\-architecture\-studio](https://github.com/cclank/cell-architecture-studio) - Interactive 3D cell architecture gallery built with React and Three js
 * 【2026-07-08】[matlab / simulink-agentic-toolkit](https://github.com/matlab/simulink-agentic-toolkit) - The Simulink Agentic Toolkit gives your AI agent both the tools and the expertise to work effectively with Simulink and Model-Based Design.
@@ -7348,6 +7356,7 @@
 
 ## Unknown
 
+* 【2026-07-12】[nasa / NASA\-3D\-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA 
 * 【2026-07-10】[wowlusitong / awesome\-education](https://github.com/wowlusitong/awesome-education) - 学生福利\-收集支持教育优惠的软件与服务
 * 【2026-07-10】[ashuoAI / AI\-CanvasPro](https://github.com/ashuoAI/AI-CanvasPro) - AI\-CanvasPro
 * 【2026-07-09】[kangarooking / cangjie-skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
