@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-07-13】[Dicklesworthstone / destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents 
+* 【2026-07-13】[ColeMurray / background-agents](https://github.com/ColeMurray/background-agents) - An open-source background agents coding system
+* 【2026-07-13】[Nutlope / hallmark](https://github.com/Nutlope/hallmark) - Anti\-AI\-slop design skill for Claude Code, Cursor, and Codex 
 * 【2026-07-12】[malisper / pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 * 【2026-07-10】[SmartlyDressedGames / U3\-SDK](https://github.com/SmartlyDressedGames/U3-SDK) - Source code for Unturned, a free open\-world zombie survival sandbox game 
 * 【2026-07-09】[huxingyi / autoremesher](https://github.com/huxingyi/autoremesher) - Automatic quad remeshing tool
@@ -1852,6 +1855,8 @@
 
 ## Python
 
+* 【2026-07-13】[youtubediscord / zapret](https://github.com/youtubediscord/zapret) - Zapret (Запрет обход блокировки Дискорда и Ютуба)
+* 【2026-07-13】[microsoft / TRELLIS 2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation
 * 【2026-07-12】[FoundationAgents / OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground  OpenManus is Coming 
 * 【2026-07-12】[Soju06 / codex-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
 * 【2026-07-12】[cognizant\-ai\-lab / neuro\-san\-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) - A playground for neuro\-san
@@ -3429,6 +3434,8 @@
 
 ## Javascript
 
+* 【2026-07-13】[maillab / cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service | 基于 Cloudflare 的邮箱服务 | Cloudflare Email 邮箱 Mail
+* 【2026-07-13】[venera\-app / venera\-configs](https://github.com/venera-app/venera-configs) - 
 * 【2026-07-09】[GargantuaX / gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法
 * 【2026-07-09】[byoungd / up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉   人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 * 【2026-07-09】[Piebald-AI / claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, statusline, magic docs, WebFetch, Bash cmd, security review, agent creation). Updated for each Claude Code version.
@@ -4285,6 +4292,7 @@
 
 ## Go
 
+* 【2026-07-13】[Mininglamp\-OSS / octo\-server](https://github.com/Mininglamp-OSS/octo-server) - 🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents  REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real\-time messaging control plane 
 * 【2026-07-10】[velero\-io / velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 * 【2026-07-09】[karust / openserp](https://github.com/karust/openserp) - Self\-hosted SERP API for AI, SEO & automation  Browser\-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
 * 【2026-07-07】[micro / go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
@@ -6678,6 +6686,7 @@
 
 ## Html
 
+* 【2026-07-13】[GoogleCloudPlatform / knowledge\-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 * 【2026-07-12】[cclank / cell-architecture-studio](https://github.com/cclank/cell-architecture-studio) - Interactive 3D cell architecture gallery built with React and Three.js
 * 【2026-07-11】[mlc\-ai / modern\-gpu\-programming\-for\-mlsys](https://github.com/mlc-ai/modern-gpu-programming-for-mlsys) - A tutorial on modern GPU programming for machine learning systems
 * 【2026-07-11】[cclank / cell\-architecture\-studio](https://github.com/cclank/cell-architecture-studio) - Interactive 3D cell architecture gallery built with React and Three js
@@ -7356,6 +7365,7 @@
 
 ## Unknown
 
+* 【2026-07-13】[Furthir / awesome\-useful\-projects](https://github.com/Furthir/awesome-useful-projects) - Curated List of 500+ Open Source Projects for Everyday Use
 * 【2026-07-12】[nasa / NASA\-3D\-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA 
 * 【2026-07-10】[wowlusitong / awesome\-education](https://github.com/wowlusitong/awesome-education) - 学生福利\-收集支持教育优惠的软件与服务
 * 【2026-07-10】[ashuoAI / AI\-CanvasPro](https://github.com/ashuoAI/AI-CanvasPro) - AI\-CanvasPro
@@ -8242,6 +8252,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-07-13】[Cpp2Rust / cpp2rust](https://github.com/Cpp2Rust/cpp2rust) - Cpp2Rust: Automatic Translation of C++ to Safe Rust
+* 【2026-07-13】[transact\-rs / sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit  An async, pure Rust SQL crate featuring compile\-time checked queries without a DSL  Supports PostgreSQL, MySQL, and SQLite 
 * 【2026-07-11】[macro-inc / macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.
 * 【2026-07-11】[NVIDIA / infra\-controller](https://github.com/NVIDIA/infra-controller) - NVIDIA Infra Controller \- Hardware Lifecycle Management and multitenant networking
 * 【2026-07-10】[chojs23 / concord](https://github.com/chojs23/concord) - A feature\-rich TUI client for Discord
