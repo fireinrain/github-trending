@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-07-15】[AIEraDev / Clypra](https://github.com/AIEraDev/Clypra) - A modern video editor built with Tauri, React, and TypeScript  Focus on building free capabilities of premium capcut functionalities
+* 【2026-07-15】[HenryNdubuaku / maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML Research Engineer
 * 【2026-07-14】[OpenCut-app / OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 * 【2026-07-13】[Dicklesworthstone / destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents 
 * 【2026-07-13】[ColeMurray / background-agents](https://github.com/ColeMurray/background-agents) - An open-source background agents coding system
@@ -1340,6 +1342,7 @@
 
 ## Java
 
+* 【2026-07-15】[Apicurio / apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas.
 * 【2026-07-14】[Apicurio / apicurio\-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry \- stores APIs and Schemas 
 * 【2026-07-06】[anddea / revanced-patches](https://github.com/anddea/revanced-patches) - 🧩 Patches for ReVanced
 * 【2026-07-06】[SGUDestiny / PenumbraPhantasm](https://github.com/SGUDestiny/PenumbraPhantasm) - 
@@ -1857,6 +1860,7 @@
 
 ## Python
 
+* 【2026-07-15】[cactus\-compute / needle](https://github.com/cactus-compute/needle) - 26m function call model that runs on incredibly small devices
 * 【2026-07-14】[simonlin1212 / TradingAgents\-astock](https://github.com/simonlin1212/TradingAgents-astock) - A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A\-share multi\-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。
 * 【2026-07-13】[youtubediscord / zapret](https://github.com/youtubediscord/zapret) - Zapret (Запрет обход блокировки Дискорда и Ютуба)
 * 【2026-07-13】[microsoft / TRELLIS 2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation
@@ -3437,6 +3441,7 @@
 
 ## Javascript
 
+* 【2026-07-15】[rpamis / comet](https://github.com/rpamis/comet) - Comet: agent skill harness for turning ideas into evaluated workflows
 * 【2026-07-13】[maillab / cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service | 基于 Cloudflare 的邮箱服务 | Cloudflare Email 邮箱 Mail
 * 【2026-07-13】[venera\-app / venera\-configs](https://github.com/venera-app/venera-configs) - 
 * 【2026-07-09】[GargantuaX / gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法
@@ -4295,6 +4300,7 @@
 
 ## Go
 
+* 【2026-07-15】[microsoft / agent\-framework\-go](https://github.com/microsoft/agent-framework-go) - A framework for building, orchestrating and deploying AI agents and multi\-agent workflows with support for Go 
 * 【2026-07-14】[perber / leafwiki](https://github.com/perber/leafwiki) - LeafWiki \- Self\-hosted wiki  Single Go binary, SQLite, Markdown on disk  No external database required 
 * 【2026-07-13】[Mininglamp\-OSS / octo\-server](https://github.com/Mininglamp-OSS/octo-server) - 🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents  REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real\-time messaging control plane 
 * 【2026-07-10】[velero\-io / velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
@@ -5012,6 +5018,8 @@
 
 ## C
 
+* 【2026-07-15】[theMackabu / ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
+* 【2026-07-15】[LibreDWG / libredwg](https://github.com/LibreDWG/libredwg) - Official mirror of libredwg  With CI hooks and nightly releases  PR's ok
 * 【2026-07-12】[Filoppi / Luma-Framework](https://github.com/Filoppi/Luma-Framework) - Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are currently included, the biggest one being Prey (2017), which refactors its post processing rendering phase (e.g. adding HDR support, DLSS). Mod list here: https://github.com/Filoppi/Luma-Framework/wiki
 * 【2026-07-09】[antirez / ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 * 【2026-07-03】[espressif / esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
@@ -5545,6 +5553,8 @@
 
 ## C++
 
+* 【2026-07-15】[sdatkinson / NeuralAmpModelerCore](https://github.com/sdatkinson/NeuralAmpModelerCore) - Core DSP library for NAM plugins
+* 【2026-07-15】[throneproj / Throne](https://github.com/throneproj/Throne) - Cross\-platform GUI proxy utility (Empowered by sing\-box)
 * 【2026-07-10】[carbonengine / core](https://github.com/carbonengine/core) - Provides generic low\-level functionality and cross\-platform abstractions for system calls
 * 【2026-07-10】[Alex2772 / kuni](https://github.com/Alex2772/kuni) - character ai
 * 【2026-07-06】[xland / ScreenCapture](https://github.com/xland/ScreenCapture) - A feature\-rich screen capture software with just a single executable file
@@ -6099,6 +6109,7 @@
 
 ## C#
 
+* 【2026-07-15】[Linsxyx / KugouMusic.NET](https://github.com/Linsxyx/KugouMusic.NET) - 最好用最轻量的第三方酷狗概念版音乐播放器
 * 【2026-07-14】[Linsxyx / KugouMusic NET](https://github.com/Linsxyx/KugouMusic.NET) - 最好用最轻量的第三方酷狗概念版音乐播放器
 * 【2026-07-12】[par274 / sharpemu](https://github.com/par274/sharpemu) - An experimental PlayStation 5 emulator project 
 * 【2026-07-10】[SmartlyDressedGames / U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) - Source code for Unturned, a free open-world zombie survival sandbox game.
@@ -6691,6 +6702,7 @@
 
 ## Html
 
+* 【2026-07-15】[GoogleCloudPlatform / knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 * 【2026-07-13】[GoogleCloudPlatform / knowledge\-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 * 【2026-07-12】[cclank / cell-architecture-studio](https://github.com/cclank/cell-architecture-studio) - Interactive 3D cell architecture gallery built with React and Three.js
 * 【2026-07-11】[mlc\-ai / modern\-gpu\-programming\-for\-mlsys](https://github.com/mlc-ai/modern-gpu-programming-for-mlsys) - A tutorial on modern GPU programming for machine learning systems
@@ -7370,6 +7382,7 @@
 
 ## Unknown
 
+* 【2026-07-15】[NopeCHALLC / nopecha\-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser  Works with Selenium, Puppeteer, Playwright, and more 
 * 【2026-07-13】[Furthir / awesome\-useful\-projects](https://github.com/Furthir/awesome-useful-projects) - Curated List of 500+ Open Source Projects for Everyday Use
 * 【2026-07-12】[nasa / NASA\-3D\-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA 
 * 【2026-07-10】[wowlusitong / awesome\-education](https://github.com/wowlusitong/awesome-education) - 学生福利\-收集支持教育优惠的软件与服务
@@ -8257,6 +8270,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-07-15】[jackwener / wx-cli](https://github.com/jackwener/wx-cli) - WeChat local data CLI with daemon architecture
+* 【2026-07-15】[raine / claude-code-proxy](https://github.com/raine/claude-code-proxy) - Use Claude Code with your ChatGPT, Kimi, Cursor or Grok subscription via a local Anthropic-compatible proxy
 * 【2026-07-14】[raine / claude\-code\-proxy](https://github.com/raine/claude-code-proxy) - Use Claude Code with your ChatGPT, Kimi, Cursor or Grok subscription via a local Anthropic\-compatible proxy
 * 【2026-07-13】[Cpp2Rust / cpp2rust](https://github.com/Cpp2Rust/cpp2rust) - Cpp2Rust: Automatic Translation of C++ to Safe Rust
 * 【2026-07-13】[transact\-rs / sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit  An async, pure Rust SQL crate featuring compile\-time checked queries without a DSL  Supports PostgreSQL, MySQL, and SQLite 
@@ -9341,6 +9356,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-15】[zts212653 / clowder\-ai](https://github.com/zts212653/clowder-ai) - Build AI teams, not just agents  Hard rails, soft power, shared mission 
 * 【2026-07-14】[Augani / openreel-video](https://github.com/Augani/openreel-video) - OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
 * 【2026-07-11】[browseros-ai / BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 * 【2026-07-10】[traycerai / traycer](https://github.com/traycerai/traycer) - Traycer: Nerve Center for Agentic Coding
