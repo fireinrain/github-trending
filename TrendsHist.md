@@ -1860,6 +1860,10 @@
 
 ## Python
 
+* 【2026-07-16】[HKUDS / nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open\-source AI agent for your tools, chats, and workflows 
+* 【2026-07-16】[zhinianboke / xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。
+* 【2026-07-16】[PrimeIntellect\-ai / prime\-rl](https://github.com/PrimeIntellect-ai/prime-rl) - Agentic RL Training at Scale
+* 【2026-07-16】[apache / ossie](https://github.com/apache/ossie) - Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
 * 【2026-07-15】[cactus\-compute / needle](https://github.com/cactus-compute/needle) - 26m function call model that runs on incredibly small devices
 * 【2026-07-14】[simonlin1212 / TradingAgents\-astock](https://github.com/simonlin1212/TradingAgents-astock) - A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A\-share multi\-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。
 * 【2026-07-13】[youtubediscord / zapret](https://github.com/youtubediscord/zapret) - Zapret (Запрет обход блокировки Дискорда и Ютуба)
@@ -3441,6 +3445,7 @@
 
 ## Javascript
 
+* 【2026-07-16】[NomaDamas / k-skill](https://github.com/NomaDamas/k-skill) - 한국인을 위한 스킬 모음집 - SRT, KTX, 카카오톡, 한글과컴퓨터, 날씨, 미세먼지, 법령, 주식정보, 조선왕조실록, KBO, K-리그, LCK, 특허 검색, 토스 증권, 맞춤법 검사, 중고차 가격, 쿠팡, 네이버 블로그, 다이소, 올리브영, 택배 송장 조회 등등...
 * 【2026-07-15】[rpamis / comet](https://github.com/rpamis/comet) - Comet: agent skill harness for turning ideas into evaluated workflows
 * 【2026-07-13】[maillab / cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service | 基于 Cloudflare 的邮箱服务 | Cloudflare Email 邮箱 Mail
 * 【2026-07-13】[venera\-app / venera\-configs](https://github.com/venera-app/venera-configs) - 
@@ -4300,6 +4305,8 @@
 
 ## Go
 
+* 【2026-07-16】[microsoft / agent-framework-go](https://github.com/microsoft/agent-framework-go) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Go.
+* 【2026-07-16】[mk6i / open\-oscar\-server](https://github.com/mk6i/open-oscar-server) - Self\-hostable instant messaging server compatible with classic AIM and ICQ clients written in golang  (Independently developed, not affiliated with or endorsed by AOL)
 * 【2026-07-15】[microsoft / agent\-framework\-go](https://github.com/microsoft/agent-framework-go) - A framework for building, orchestrating and deploying AI agents and multi\-agent workflows with support for Go 
 * 【2026-07-14】[perber / leafwiki](https://github.com/perber/leafwiki) - LeafWiki \- Self\-hosted wiki  Single Go binary, SQLite, Markdown on disk  No external database required 
 * 【2026-07-13】[Mininglamp\-OSS / octo\-server](https://github.com/Mininglamp-OSS/octo-server) - 🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents  REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real\-time messaging control plane 
@@ -5018,6 +5025,7 @@
 
 ## C
 
+* 【2026-07-16】[qualcomm\-linux / kernel](https://github.com/qualcomm-linux/kernel) - Linux Kernel for QLI mainline
 * 【2026-07-15】[theMackabu / ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 * 【2026-07-15】[LibreDWG / libredwg](https://github.com/LibreDWG/libredwg) - Official mirror of libredwg  With CI hooks and nightly releases  PR's ok
 * 【2026-07-12】[Filoppi / Luma-Framework](https://github.com/Filoppi/Luma-Framework) - Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are currently included, the biggest one being Prey (2017), which refactors its post processing rendering phase (e.g. adding HDR support, DLSS). Mod list here: https://github.com/Filoppi/Luma-Framework/wiki
@@ -7382,6 +7390,7 @@
 
 ## Unknown
 
+* 【2026-07-16】[MicrosoftDocs / Agent\-Skills](https://github.com/MicrosoftDocs/Agent-Skills) - Curated Agent Skills for Microsoft & Azure – giving AI coding assistants structured, real\-time expertise from Microsoft Learn docs 
 * 【2026-07-15】[NopeCHALLC / nopecha\-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser  Works with Selenium, Puppeteer, Playwright, and more 
 * 【2026-07-13】[Furthir / awesome\-useful\-projects](https://github.com/Furthir/awesome-useful-projects) - Curated List of 500+ Open Source Projects for Everyday Use
 * 【2026-07-12】[nasa / NASA\-3D\-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA 
@@ -8270,6 +8279,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-07-16】[RaoFoundation / subtensor](https://github.com/RaoFoundation/subtensor) - Bittensor Blockchain Layer
 * 【2026-07-15】[jackwener / wx-cli](https://github.com/jackwener/wx-cli) - WeChat local data CLI with daemon architecture
 * 【2026-07-15】[raine / claude-code-proxy](https://github.com/raine/claude-code-proxy) - Use Claude Code with your ChatGPT, Kimi, Cursor or Grok subscription via a local Anthropic-compatible proxy
 * 【2026-07-14】[raine / claude\-code\-proxy](https://github.com/raine/claude-code-proxy) - Use Claude Code with your ChatGPT, Kimi, Cursor or Grok subscription via a local Anthropic\-compatible proxy
@@ -9356,6 +9366,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-16】[raroque / boop\-agent](https://github.com/raroque/boop-agent) - iMessage personal agent: choose Claude Agent SDK (Claude Code) or Codex app\-server runtime (Codex/ChatGPT), with memory, sub\-agents, automations, integrations 
+* 【2026-07-16】[mcp\-use / mcp\-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents 
+* 【2026-07-16】[zts212653 / clowder-ai](https://github.com/zts212653/clowder-ai) - Build AI teams, not just agents. Hard rails, soft power, shared mission.
 * 【2026-07-15】[zts212653 / clowder\-ai](https://github.com/zts212653/clowder-ai) - Build AI teams, not just agents  Hard rails, soft power, shared mission 
 * 【2026-07-14】[Augani / openreel-video](https://github.com/Augani/openreel-video) - OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
 * 【2026-07-11】[browseros-ai / BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
