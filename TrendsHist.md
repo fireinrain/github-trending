@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-07-18】[anthropics / cwc\-workshops](https://github.com/anthropics/cwc-workshops) - 
+* 【2026-07-18】[PrismML-Eng / Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
 * 【2026-07-17】[PrismML\-Eng / Bonsai\-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
 * 【2026-07-15】[AIEraDev / Clypra](https://github.com/AIEraDev/Clypra) - A modern video editor built with Tauri, React, and TypeScript  Focus on building free capabilities of premium capcut functionalities
 * 【2026-07-15】[HenryNdubuaku / maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML Research Engineer
@@ -1861,6 +1863,8 @@
 
 ## Python
 
+* 【2026-07-18】[PurpleAILAB / Decepticon](https://github.com/PurpleAILAB/Decepticon) - Autonomous Hacking Agent for Red Team
+* 【2026-07-18】[open\-telemetry / semantic\-conventions\-genai](https://github.com/open-telemetry/semantic-conventions-genai) - 
 * 【2026-07-17】[HKUDS / OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built\-in Personal Agent\-\-Ohmo!"
 * 【2026-07-16】[HKUDS / nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open\-source AI agent for your tools, chats, and workflows 
 * 【2026-07-16】[zhinianboke / xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。
@@ -4308,6 +4312,7 @@
 
 ## Go
 
+* 【2026-07-18】[agent\-substrate / substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 * 【2026-07-16】[microsoft / agent-framework-go](https://github.com/microsoft/agent-framework-go) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Go.
 * 【2026-07-16】[mk6i / open\-oscar\-server](https://github.com/mk6i/open-oscar-server) - Self\-hostable instant messaging server compatible with classic AIM and ICQ clients written in golang  (Independently developed, not affiliated with or endorsed by AOL)
 * 【2026-07-15】[microsoft / agent\-framework\-go](https://github.com/microsoft/agent-framework-go) - A framework for building, orchestrating and deploying AI agents and multi\-agent workflows with support for Go 
@@ -5028,6 +5033,8 @@
 
 ## C
 
+* 【2026-07-18】[qualcomm-linux / kernel](https://github.com/qualcomm-linux/kernel) - Linux Kernel for QLI mainline
+* 【2026-07-18】[floooh / chips](https://github.com/floooh/chips) - 8\-bit chip and system emulators in standalone C headers
 * 【2026-07-17】[V4bel / dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
 * 【2026-07-17】[HermannBjorgvin / Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 desk dashboard that shows Claude Code usage
 * 【2026-07-16】[qualcomm\-linux / kernel](https://github.com/qualcomm-linux/kernel) - Linux Kernel for QLI mainline
@@ -5566,6 +5573,8 @@
 
 ## C++
 
+* 【2026-07-18】[autowarefoundation / vision_pilot](https://github.com/autowarefoundation/vision_pilot) - Free and fully open\-source L2 ADAS stack powered by End\-to\-End AI technology
+* 【2026-07-18】[CrispStrobe / CrispASR](https://github.com/CrispStrobe/CrispASR) - C++ ggml runtime hub for multilingual ASR and TTS models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1B v2, etc, plus universal forced alignment, and more
 * 【2026-07-15】[sdatkinson / NeuralAmpModelerCore](https://github.com/sdatkinson/NeuralAmpModelerCore) - Core DSP library for NAM plugins
 * 【2026-07-15】[throneproj / Throne](https://github.com/throneproj/Throne) - Cross\-platform GUI proxy utility (Empowered by sing\-box)
 * 【2026-07-10】[carbonengine / core](https://github.com/carbonengine/core) - Provides generic low\-level functionality and cross\-platform abstractions for system calls
@@ -6122,6 +6131,8 @@
 
 ## C#
 
+* 【2026-07-18】[TeamWheelWizard / WheelWizard](https://github.com/TeamWheelWizard/WheelWizard) - WheelWizard, Retro Rewind Launcher
+* 【2026-07-18】[DavidObando / gsharp](https://github.com/DavidObando/gsharp) - GSharp Programming Language
 * 【2026-07-15】[Linsxyx / KugouMusic.NET](https://github.com/Linsxyx/KugouMusic.NET) - 最好用最轻量的第三方酷狗概念版音乐播放器
 * 【2026-07-14】[Linsxyx / KugouMusic NET](https://github.com/Linsxyx/KugouMusic.NET) - 最好用最轻量的第三方酷狗概念版音乐播放器
 * 【2026-07-12】[par274 / sharpemu](https://github.com/par274/sharpemu) - An experimental PlayStation 5 emulator project 
@@ -6715,6 +6726,7 @@
 
 ## Html
 
+* 【2026-07-18】[techjarves / OpenClaude\-Portable](https://github.com/techjarves/OpenClaude-Portable) - Run Claude Code from a USB drive on any PC — no installation required 
 * 【2026-07-15】[GoogleCloudPlatform / knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 * 【2026-07-13】[GoogleCloudPlatform / knowledge\-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 * 【2026-07-12】[cclank / cell-architecture-studio](https://github.com/cclank/cell-architecture-studio) - Interactive 3D cell architecture gallery built with React and Three.js
@@ -7395,6 +7407,7 @@
 
 ## Unknown
 
+* 【2026-07-18】[ashuoAI / AI-CanvasPro](https://github.com/ashuoAI/AI-CanvasPro) - AI-CanvasPro
 * 【2026-07-17】[sanbuphy / learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) - Research on Coding Agents
 * 【2026-07-16】[MicrosoftDocs / Agent\-Skills](https://github.com/MicrosoftDocs/Agent-Skills) - Curated Agent Skills for Microsoft & Azure – giving AI coding assistants structured, real\-time expertise from Microsoft Learn docs 
 * 【2026-07-15】[NopeCHALLC / nopecha\-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser  Works with Selenium, Puppeteer, Playwright, and more 
@@ -9374,6 +9387,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-18】[anthropics / cwc-workshops](https://github.com/anthropics/cwc-workshops) - 
+* 【2026-07-18】[foru17 / neko\-master](https://github.com/foru17/neko-master) - A modern and elegant dashboard for network traffic visualization and analysis 
 * 【2026-07-17】[callstack / agent\-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
 * 【2026-07-17】[injaneity / pi\-computer\-use](https://github.com/injaneity/pi-computer-use) - Let Pi control your apps on MacOS & Windows
 * 【2026-07-17】[mattpocock / dictionary\-of\-ai\-coding](https://github.com/mattpocock/dictionary-of-ai-coding) - AI coding jargon, explained in plain English 
