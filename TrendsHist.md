@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-07-19】[elder\-plinius / G0DM0D3](https://github.com/elder-plinius/G0DM0D3) - LIBERATED AI CHAT
+* 【2026-07-19】[KnockOutEZ / wigolo](https://github.com/KnockOutEZ/wigolo) - The go\-to web for your AI coding agent — local\-first search, fetch, crawl & research over MCP  No API keys, no cloud, $0/query  Public beta 
 * 【2026-07-18】[anthropics / cwc\-workshops](https://github.com/anthropics/cwc-workshops) - 
 * 【2026-07-18】[PrismML-Eng / Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
 * 【2026-07-17】[PrismML\-Eng / Bonsai\-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
@@ -1345,6 +1347,7 @@
 
 ## Java
 
+* 【2026-07-19】[apache / struts](https://github.com/apache/struts) - Apache Struts is a free, open\-source, MVC framework for creating elegant, modern Java web applications
 * 【2026-07-15】[Apicurio / apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas.
 * 【2026-07-14】[Apicurio / apicurio\-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry \- stores APIs and Schemas 
 * 【2026-07-06】[anddea / revanced-patches](https://github.com/anddea/revanced-patches) - 🧩 Patches for ReVanced
@@ -1863,6 +1866,7 @@
 
 ## Python
 
+* 【2026-07-19】[OpenSenseNova / SenseNova\-U1](https://github.com/OpenSenseNova/SenseNova-U1) - SenseNova\-U series: Native Unified Paradigm with NEO\-unify from the First Principles
 * 【2026-07-18】[PurpleAILAB / Decepticon](https://github.com/PurpleAILAB/Decepticon) - Autonomous Hacking Agent for Red Team
 * 【2026-07-18】[open\-telemetry / semantic\-conventions\-genai](https://github.com/open-telemetry/semantic-conventions-genai) - 
 * 【2026-07-17】[HKUDS / OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built\-in Personal Agent\-\-Ohmo!"
@@ -3451,6 +3455,8 @@
 
 ## Javascript
 
+* 【2026-07-19】[outsourc-e / hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.
+* 【2026-07-19】[InterfaceX\-co\-jp / genshijin](https://github.com/InterfaceX-co-jp/genshijin) - genshijin 原始人 🗿\| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。
 * 【2026-07-17】[mm7894215 / TokenTracker](https://github.com/mm7894215/TokenTracker) - Local\-first AI token usage & cost tracker for 27 coding tools — with a desktop pet, 4 widgets, achievements, native macOS/Windows apps, and a one\-command CLI  Never reads prompts 
 * 【2026-07-16】[NomaDamas / k-skill](https://github.com/NomaDamas/k-skill) - 한국인을 위한 스킬 모음집 - SRT, KTX, 카카오톡, 한글과컴퓨터, 날씨, 미세먼지, 법령, 주식정보, 조선왕조실록, KBO, K-리그, LCK, 특허 검색, 토스 증권, 맞춤법 검사, 중고차 가격, 쿠팡, 네이버 블로그, 다이소, 올리브영, 택배 송장 조회 등등...
 * 【2026-07-15】[rpamis / comet](https://github.com/rpamis/comet) - Comet: agent skill harness for turning ideas into evaluated workflows
@@ -4312,6 +4318,9 @@
 
 ## Go
 
+* 【2026-07-19】[tphakala / birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
+* 【2026-07-19】[github / gh\-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
+* 【2026-07-19】[agent-substrate / substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 * 【2026-07-18】[agent\-substrate / substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 * 【2026-07-16】[microsoft / agent-framework-go](https://github.com/microsoft/agent-framework-go) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Go.
 * 【2026-07-16】[mk6i / open\-oscar\-server](https://github.com/mk6i/open-oscar-server) - Self\-hostable instant messaging server compatible with classic AIM and ICQ clients written in golang  (Independently developed, not affiliated with or endorsed by AOL)
@@ -6131,6 +6140,7 @@
 
 ## C#
 
+* 【2026-07-19】[microsoft / microsoft-ui-reactor](https://github.com/microsoft/microsoft-ui-reactor) - Reactor is an experimental set of extensions to WinUI
 * 【2026-07-18】[TeamWheelWizard / WheelWizard](https://github.com/TeamWheelWizard/WheelWizard) - WheelWizard, Retro Rewind Launcher
 * 【2026-07-18】[DavidObando / gsharp](https://github.com/DavidObando/gsharp) - GSharp Programming Language
 * 【2026-07-15】[Linsxyx / KugouMusic.NET](https://github.com/Linsxyx/KugouMusic.NET) - 最好用最轻量的第三方酷狗概念版音乐播放器
@@ -7407,6 +7417,10 @@
 
 ## Unknown
 
+* 【2026-07-19】[ZeroPointRepo / awesome\-hermes\-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) - Curated, install\-ready skills for Hermes Agent (v0 17 0)  72 built\-in + 101 optional bundled skills + 85 community skills, plugins & tools for the self\-improving AI agent from Nous Research  Cross\-compatible with Claude Code, OpenClaw, Cursor, and Windsurf 
+* 【2026-07-19】[MoonshotAI / Kimi-K2.5](https://github.com/MoonshotAI/Kimi-K2.5) - Moonshot's most powerful model
+* 【2026-07-19】[abubakarsiddik31 / claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection) - A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more.
+* 【2026-07-19】[google\-antigravity / antigravity\-cli](https://github.com/google-antigravity/antigravity-cli) - Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal 
 * 【2026-07-18】[ashuoAI / AI-CanvasPro](https://github.com/ashuoAI/AI-CanvasPro) - AI-CanvasPro
 * 【2026-07-17】[sanbuphy / learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) - Research on Coding Agents
 * 【2026-07-16】[MicrosoftDocs / Agent\-Skills](https://github.com/MicrosoftDocs/Agent-Skills) - Curated Agent Skills for Microsoft & Azure – giving AI coding assistants structured, real\-time expertise from Microsoft Learn docs 
@@ -8298,6 +8312,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-07-19】[66HEX / frame](https://github.com/66HEX/frame) - FFmpeg GUI
+* 【2026-07-19】[andrewrabert / jellium\-desktop](https://github.com/andrewrabert/jellium-desktop) - An unofficial desktop client for Jellyfin
 * 【2026-07-17】[microsoft / coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
 * 【2026-07-17】[NVIDIA / infra-controller](https://github.com/NVIDIA/infra-controller) - NVIDIA Infra Controller - Hardware Lifecycle Management and multitenant networking
 * 【2026-07-16】[RaoFoundation / subtensor](https://github.com/RaoFoundation/subtensor) - Bittensor Blockchain Layer
@@ -9387,6 +9403,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-19】[elder-plinius / G0DM0D3](https://github.com/elder-plinius/G0DM0D3) - LIBERATED AI CHAT
+* 【2026-07-19】[foru17 / neko-master](https://github.com/foru17/neko-master) - A modern and elegant dashboard for network traffic visualization and analysis.
+* 【2026-07-19】[mattpocock / dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) - AI coding jargon, explained in plain English.
 * 【2026-07-18】[anthropics / cwc-workshops](https://github.com/anthropics/cwc-workshops) - 
 * 【2026-07-18】[foru17 / neko\-master](https://github.com/foru17/neko-master) - A modern and elegant dashboard for network traffic visualization and analysis 
 * 【2026-07-17】[callstack / agent\-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
