@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-07-20】[bojieli / ai\-agent\-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+* 【2026-07-20】[andrewrabert / jellium-desktop](https://github.com/andrewrabert/jellium-desktop) - An unofficial desktop client for Jellyfin
 * 【2026-07-19】[elder\-plinius / G0DM0D3](https://github.com/elder-plinius/G0DM0D3) - LIBERATED AI CHAT
 * 【2026-07-19】[KnockOutEZ / wigolo](https://github.com/KnockOutEZ/wigolo) - The go\-to web for your AI coding agent — local\-first search, fetch, crawl & research over MCP  No API keys, no cloud, $0/query  Public beta 
 * 【2026-07-18】[anthropics / cwc\-workshops](https://github.com/anthropics/cwc-workshops) - 
@@ -1866,6 +1868,7 @@
 
 ## Python
 
+* 【2026-07-20】[bojieli / ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 * 【2026-07-19】[OpenSenseNova / SenseNova\-U1](https://github.com/OpenSenseNova/SenseNova-U1) - SenseNova\-U series: Native Unified Paradigm with NEO\-unify from the First Principles
 * 【2026-07-18】[PurpleAILAB / Decepticon](https://github.com/PurpleAILAB/Decepticon) - Autonomous Hacking Agent for Red Team
 * 【2026-07-18】[open\-telemetry / semantic\-conventions\-genai](https://github.com/open-telemetry/semantic-conventions-genai) - 
@@ -3455,6 +3458,7 @@
 
 ## Javascript
 
+* 【2026-07-20】[pucherot / Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
 * 【2026-07-19】[outsourc-e / hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.
 * 【2026-07-19】[InterfaceX\-co\-jp / genshijin](https://github.com/InterfaceX-co-jp/genshijin) - genshijin 原始人 🗿\| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。
 * 【2026-07-17】[mm7894215 / TokenTracker](https://github.com/mm7894215/TokenTracker) - Local\-first AI token usage & cost tracker for 27 coding tools — with a desktop pet, 4 widgets, achievements, native macOS/Windows apps, and a one\-command CLI  Never reads prompts 
@@ -5042,6 +5046,7 @@
 
 ## C
 
+* 【2026-07-20】[GameTec-live / ChameleonUltraGUI](https://github.com/GameTec-live/ChameleonUltraGUI) - A GUI for the Chameleon Ultra written in Flutter for crossplatform
 * 【2026-07-18】[qualcomm-linux / kernel](https://github.com/qualcomm-linux/kernel) - Linux Kernel for QLI mainline
 * 【2026-07-18】[floooh / chips](https://github.com/floooh/chips) - 8\-bit chip and system emulators in standalone C headers
 * 【2026-07-17】[V4bel / dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
@@ -5582,6 +5587,7 @@
 
 ## C++
 
+* 【2026-07-20】[NVIDIA / DeepStream](https://github.com/NVIDIA/DeepStream) - NVIDIA DeepStream Monorepo: DeepStream SDK and reference apps for building GPU‑accelerated, real\-time video and multi‑sensor analytics pipelines with GStreamer, TensorRT, and vision AI models across edge, on‑prem, and cloud deployments 
 * 【2026-07-18】[autowarefoundation / vision_pilot](https://github.com/autowarefoundation/vision_pilot) - Free and fully open\-source L2 ADAS stack powered by End\-to\-End AI technology
 * 【2026-07-18】[CrispStrobe / CrispASR](https://github.com/CrispStrobe/CrispASR) - C++ ggml runtime hub for multilingual ASR and TTS models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1B v2, etc, plus universal forced alignment, and more
 * 【2026-07-15】[sdatkinson / NeuralAmpModelerCore](https://github.com/sdatkinson/NeuralAmpModelerCore) - Core DSP library for NAM plugins
@@ -6140,6 +6146,7 @@
 
 ## C#
 
+* 【2026-07-20】[ss14Starlight / space-station-14](https://github.com/ss14Starlight/space-station-14) - An open source project aimed at creating unique mechanics and a pleasant game atmosphere in the game Space Station 14
 * 【2026-07-19】[microsoft / microsoft-ui-reactor](https://github.com/microsoft/microsoft-ui-reactor) - Reactor is an experimental set of extensions to WinUI
 * 【2026-07-18】[TeamWheelWizard / WheelWizard](https://github.com/TeamWheelWizard/WheelWizard) - WheelWizard, Retro Rewind Launcher
 * 【2026-07-18】[DavidObando / gsharp](https://github.com/DavidObando/gsharp) - GSharp Programming Language
@@ -7417,6 +7424,7 @@
 
 ## Unknown
 
+* 【2026-07-20】[greensock / gsap\-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP  These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage 
 * 【2026-07-19】[ZeroPointRepo / awesome\-hermes\-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) - Curated, install\-ready skills for Hermes Agent (v0 17 0)  72 built\-in + 101 optional bundled skills + 85 community skills, plugins & tools for the self\-improving AI agent from Nous Research  Cross\-compatible with Claude Code, OpenClaw, Cursor, and Windsurf 
 * 【2026-07-19】[MoonshotAI / Kimi-K2.5](https://github.com/MoonshotAI/Kimi-K2.5) - Moonshot's most powerful model
 * 【2026-07-19】[abubakarsiddik31 / claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection) - A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more.
@@ -8312,6 +8320,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-07-20】[tokio\-rs / topcoat](https://github.com/tokio-rs/topcoat) - A batteries\-included framework for building web apps
+* 【2026-07-20】[kane50613 / takumi](https://github.com/kane50613/takumi) - Render JSX & HTML to SVG or images  Support 160+ CSS properties  Drop\-in next/og replacement 
 * 【2026-07-19】[66HEX / frame](https://github.com/66HEX/frame) - FFmpeg GUI
 * 【2026-07-19】[andrewrabert / jellium\-desktop](https://github.com/andrewrabert/jellium-desktop) - An unofficial desktop client for Jellyfin
 * 【2026-07-17】[microsoft / coreutils](https://github.com/microsoft/coreutils) - Coreutils for Windows: Installer & Packaging
@@ -9403,6 +9413,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-20】[super-productivity / super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 * 【2026-07-19】[elder-plinius / G0DM0D3](https://github.com/elder-plinius/G0DM0D3) - LIBERATED AI CHAT
 * 【2026-07-19】[foru17 / neko-master](https://github.com/foru17/neko-master) - A modern and elegant dashboard for network traffic visualization and analysis.
 * 【2026-07-19】[mattpocock / dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) - AI coding jargon, explained in plain English.
