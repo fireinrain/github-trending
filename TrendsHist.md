@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-07-22】[ayghri / i\-have\-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer  ADHD\-friendly output 
+* 【2026-07-22】[agegr / pi\-web](https://github.com/agegr/pi-web) - Web UI for the pi coding agent
 * 【2026-07-21】[tokio-rs / topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
 * 【2026-07-21】[oblien / openship](https://github.com/oblien/openship) - Self\-hosted deployment platform
 * 【2026-07-21】[microsoft / Ontology\-Playground](https://github.com/microsoft/Ontology-Playground) - Free, open\-source web app for learning about ontologies and Microsoft Fabric IQ  Explore a catalogue of pre\-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams  Zero backend, fully static 
@@ -1873,6 +1875,7 @@
 
 ## Python
 
+* 【2026-07-22】[NVIDIA / cosmos\-framework](https://github.com/NVIDIA/cosmos-framework) - Our inference and training framework to run on the Cosmos Models
 * 【2026-07-20】[bojieli / ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 * 【2026-07-19】[OpenSenseNova / SenseNova\-U1](https://github.com/OpenSenseNova/SenseNova-U1) - SenseNova\-U series: Native Unified Paradigm with NEO\-unify from the First Principles
 * 【2026-07-18】[PurpleAILAB / Decepticon](https://github.com/PurpleAILAB/Decepticon) - Autonomous Hacking Agent for Red Team
@@ -3463,6 +3466,7 @@
 
 ## Javascript
 
+* 【2026-07-22】[conorbronsdon / avoid\-ai\-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns  Use it with your favorite agents including Claude Code, OpenClaw, and Hermes 
 * 【2026-07-21】[OpenWhispr / openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice\-to\-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK)  Privacy\-first and available cross\-platform 
 * 【2026-07-21】[magnusoverli / opencode](https://github.com/magnusoverli/opencode) - 
 * 【2026-07-20】[pucherot / Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
@@ -4329,6 +4333,9 @@
 
 ## Go
 
+* 【2026-07-22】[open-telemetry / opentelemetry-go-compile-instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation) - OpenTelemetry Go Compile Instrumentation
+* 【2026-07-22】[agentscope\-ai / AgentTeams](https://github.com/agentscope-ai/AgentTeams) - An open\-source Collaborative Multi\-Agent OS for transparent, human\-in\-the\-loop task coordination via Matrix rooms 
+* 【2026-07-22】[openshift / hypershift](https://github.com/openshift/hypershift) - Hyperscale OpenShift \- clusters with hosted control planes
 * 【2026-07-21】[open\-telemetry / opentelemetry\-go\-compile\-instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation) - OpenTelemetry Go Compile Instrumentation
 * 【2026-07-21】[apache / casbin](https://github.com/apache/casbin) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC 
 * 【2026-07-19】[tphakala / birdnet-go](https://github.com/tphakala/birdnet-go) - Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.
@@ -6755,6 +6762,7 @@
 
 ## Html
 
+* 【2026-07-22】[mohitagw15856 / pm\-claude\-skills](https://github.com/mohitagw15856/pm-claude-skills) - In Anthropic's official Claude plugin directory · 515 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex  Try free in\-browser, or 'npx pm\-claude\-skills add' 
 * 【2026-07-21】[techjarves / OpenClaude-Portable](https://github.com/techjarves/OpenClaude-Portable) - Run Claude Code from a USB drive on any PC — no installation required.
 * 【2026-07-21】[Artzainnn / ClaudeUsageBar](https://github.com/Artzainnn/ClaudeUsageBar) - Track your Claude ai usage right from your Mac menu bar
 * 【2026-07-18】[techjarves / OpenClaude\-Portable](https://github.com/techjarves/OpenClaude-Portable) - Run Claude Code from a USB drive on any PC — no installation required 
@@ -7438,6 +7446,8 @@
 
 ## Unknown
 
+* 【2026-07-22】[ayghri / i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
+* 【2026-07-22】[0xNyk / awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
 * 【2026-07-21】[greensock / gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
 * 【2026-07-21】[201853910 / VMwareWorkstation](https://github.com/201853910/VMwareWorkstation) - 手动上传官网的VMwareWorkstation安装包
 * 【2026-07-21】[MoonshotAI / Kimi\-Linear](https://github.com/MoonshotAI/Kimi-Linear) - 
@@ -8337,6 +8347,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-07-22】[yvgude / lean\-ctx](https://github.com/yvgude/lean-ctx) - Control what your AI can see  LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save  60–90% fewer tokens as the receipt  76 MCP tools, 30+ agents, local\-first 
 * 【2026-07-21】[oMaN\-Rod / palworld\-save\-pal](https://github.com/oMaN-Rod/palworld-save-pal) - Take control of your Palworld adventure with Palworld Save Pal (PSP)  Manage saves, move Pals and Players, create custom builds, migrate & manage servers, and convert between Steam and Xbox Game Pass  From server admins to solo tamers, PSP gives you the tools to shape your world your way 
 * 【2026-07-20】[tokio\-rs / topcoat](https://github.com/tokio-rs/topcoat) - A batteries\-included framework for building web apps
 * 【2026-07-20】[kane50613 / takumi](https://github.com/kane50613/takumi) - Render JSX & HTML to SVG or images  Support 160+ CSS properties  Drop\-in next/og replacement 
@@ -9431,6 +9442,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-22】[agegr / pi-web](https://github.com/agegr/pi-web) - Web UI for the pi coding agent
+* 【2026-07-22】[vercel-labs / deepsec](https://github.com/vercel-labs/deepsec) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 * 【2026-07-21】[microsoft / Ontology-Playground](https://github.com/microsoft/Ontology-Playground) - Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.
 * 【2026-07-21】[vercel\-labs / deepsec](https://github.com/vercel-labs/deepsec) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 * 【2026-07-21】[microsoft / AI\-Engineering\-Coach](https://github.com/microsoft/AI-Engineering-Coach) - better agentic engineering
