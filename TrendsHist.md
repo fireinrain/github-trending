@@ -1875,6 +1875,8 @@
 
 ## Python
 
+* 【2026-07-23】[NVIDIA / Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
+* 【2026-07-23】[virgiliojr94 / book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 * 【2026-07-22】[NVIDIA / cosmos\-framework](https://github.com/NVIDIA/cosmos-framework) - Our inference and training framework to run on the Cosmos Models
 * 【2026-07-20】[bojieli / ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 * 【2026-07-19】[OpenSenseNova / SenseNova\-U1](https://github.com/OpenSenseNova/SenseNova-U1) - SenseNova\-U series: Native Unified Paradigm with NEO\-unify from the First Principles
@@ -3466,6 +3468,9 @@
 
 ## Javascript
 
+* 【2026-07-23】[HughYau / qiushi\-skill](https://github.com/HughYau/qiushi-skill) - 求是Skill——从经典唯物辩证法与实践哲学中提炼出一条总原则和九大方法论工具武装AI大脑。Qiushi\-Skill: Build agents that investigate first, focus on the main contradiction, validate in practice, and keep pushing until the work is actually done 
+* 【2026-07-23】[hzm0321 / real-time-fund](https://github.com/hzm0321/real-time-fund) - 基金实时估值查看
+* 【2026-07-23】[sandeco / reversa](https://github.com/sandeco/reversa) - Transform legacy systems into executable specifications for AI coding agents
 * 【2026-07-22】[conorbronsdon / avoid\-ai\-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns  Use it with your favorite agents including Claude Code, OpenClaw, and Hermes 
 * 【2026-07-21】[OpenWhispr / openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice\-to\-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK)  Privacy\-first and available cross\-platform 
 * 【2026-07-21】[magnusoverli / opencode](https://github.com/magnusoverli/opencode) - 
@@ -4333,6 +4338,8 @@
 
 ## Go
 
+* 【2026-07-23】[alibaba / open\-code\-review](https://github.com/alibaba/open-code-review) - Open\-source & free — Battle\-tested at Alibaba's scale  Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line\-level comments, built\-in fine\-tuned ruleset (NPE, thread\-safety, XSS, SQL injection), OpenAI & Anthropic compatible 
+* 【2026-07-23】[agentscope-ai / AgentTeams](https://github.com/agentscope-ai/AgentTeams) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
 * 【2026-07-22】[open-telemetry / opentelemetry-go-compile-instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation) - OpenTelemetry Go Compile Instrumentation
 * 【2026-07-22】[agentscope\-ai / AgentTeams](https://github.com/agentscope-ai/AgentTeams) - An open\-source Collaborative Multi\-Agent OS for transparent, human\-in\-the\-loop task coordination via Matrix rooms 
 * 【2026-07-22】[openshift / hypershift](https://github.com/openshift/hypershift) - Hyperscale OpenShift \- clusters with hosted control planes
@@ -5062,6 +5069,7 @@
 
 ## C
 
+* 【2026-07-23】[erincatto / box3d](https://github.com/erincatto/box3d) - Box3D is a 3D physics engine for games
 * 【2026-07-20】[GameTec-live / ChameleonUltraGUI](https://github.com/GameTec-live/ChameleonUltraGUI) - A GUI for the Chameleon Ultra written in Flutter for crossplatform
 * 【2026-07-18】[qualcomm-linux / kernel](https://github.com/qualcomm-linux/kernel) - Linux Kernel for QLI mainline
 * 【2026-07-18】[floooh / chips](https://github.com/floooh/chips) - 8\-bit chip and system emulators in standalone C headers
@@ -6164,6 +6172,7 @@
 
 ## C#
 
+* 【2026-07-23】[Gurge44 / EndlessHostRoles](https://github.com/Gurge44/EndlessHostRoles) - EHR is the biggest host\-only mod for Among Us, with 450+ roles / add\-ons and 16 game modes, along with a Custom Team Assigner application to fully customize your games!
 * 【2026-07-21】[kimmknight / raweb](https://github.com/kimmknight/raweb) - A modern web interface for your RemoteApps hosted on Windows 10, 11 and Server 
 * 【2026-07-20】[ss14Starlight / space-station-14](https://github.com/ss14Starlight/space-station-14) - An open source project aimed at creating unique mechanics and a pleasant game atmosphere in the game Space Station 14
 * 【2026-07-19】[microsoft / microsoft-ui-reactor](https://github.com/microsoft/microsoft-ui-reactor) - Reactor is an experimental set of extensions to WinUI
@@ -6762,6 +6771,8 @@
 
 ## Html
 
+* 【2026-07-23】[NomaDamas / slides\-grab](https://github.com/NomaDamas/slides-grab) - Best harness + editor + linter for generating slides in Claude Code / Codex \- Claude Design Open Source Alternative
+* 【2026-07-23】[Jstudner / jcorp\-nomad](https://github.com/Jstudner/jcorp-nomad) - An extremely compact offline media server for Movies, Shows, Books, and Music 
 * 【2026-07-22】[mohitagw15856 / pm\-claude\-skills](https://github.com/mohitagw15856/pm-claude-skills) - In Anthropic's official Claude plugin directory · 515 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex  Try free in\-browser, or 'npx pm\-claude\-skills add' 
 * 【2026-07-21】[techjarves / OpenClaude-Portable](https://github.com/techjarves/OpenClaude-Portable) - Run Claude Code from a USB drive on any PC — no installation required.
 * 【2026-07-21】[Artzainnn / ClaudeUsageBar](https://github.com/Artzainnn/ClaudeUsageBar) - Track your Claude ai usage right from your Mac menu bar
@@ -7446,6 +7457,7 @@
 
 ## Unknown
 
+* 【2026-07-23】[google-antigravity / antigravity-cli](https://github.com/google-antigravity/antigravity-cli) - Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal.
 * 【2026-07-22】[ayghri / i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 * 【2026-07-22】[0xNyk / awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
 * 【2026-07-21】[greensock / gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
@@ -8347,6 +8359,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-07-23】[block / buzz](https://github.com/block/buzz) - A hive mind communication platform
+* 【2026-07-23】[transact-rs / sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 * 【2026-07-22】[yvgude / lean\-ctx](https://github.com/yvgude/lean-ctx) - Control what your AI can see  LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save  60–90% fewer tokens as the receipt  76 MCP tools, 30+ agents, local\-first 
 * 【2026-07-21】[oMaN\-Rod / palworld\-save\-pal](https://github.com/oMaN-Rod/palworld-save-pal) - Take control of your Palworld adventure with Palworld Save Pal (PSP)  Manage saves, move Pals and Players, create custom builds, migrate & manage servers, and convert between Steam and Xbox Game Pass  From server admins to solo tamers, PSP gives you the tools to shape your world your way 
 * 【2026-07-20】[tokio\-rs / topcoat](https://github.com/tokio-rs/topcoat) - A batteries\-included framework for building web apps
@@ -9442,6 +9456,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-23】[AdventDevInc / kudu](https://github.com/AdventDevInc/kudu) - Free Windows, Mac and Linux cleaner, scanner, and more 
 * 【2026-07-22】[agegr / pi-web](https://github.com/agegr/pi-web) - Web UI for the pi coding agent
 * 【2026-07-22】[vercel-labs / deepsec](https://github.com/vercel-labs/deepsec) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 * 【2026-07-21】[microsoft / Ontology-Playground](https://github.com/microsoft/Ontology-Playground) - Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.
