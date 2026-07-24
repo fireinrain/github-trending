@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-07-24】[citrolabs / ego-lite](https://github.com/citrolabs/ego-lite) - The best browser for both you and your AI agents work in parallel.
+* 【2026-07-24】[alibaba / open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 * 【2026-07-22】[ayghri / i\-have\-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer  ADHD\-friendly output 
 * 【2026-07-22】[agegr / pi\-web](https://github.com/agegr/pi-web) - Web UI for the pi coding agent
 * 【2026-07-21】[tokio-rs / topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
@@ -1355,6 +1357,9 @@
 
 ## Java
 
+* 【2026-07-24】[IAMLZY2018 / XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3 5 7、Vue 3 5 构建，提供完整的 Web 管理界面，手机端UI，请勿商用，仅供学习交流
+* 【2026-07-24】[hiero\-ledger / hiero\-consensus\-node](https://github.com/hiero-ledger/hiero-consensus-node) - Crypto, token, consensus, file, and smart contract services for a Hiero based network
+* 【2026-07-24】[apache / accumulo](https://github.com/apache/accumulo) - Apache Accumulo
 * 【2026-07-21】[Nxer / Twist\-Space\-Technology\-Mod](https://github.com/Nxer/Twist-Space-Technology-Mod) - Modded elements from GTNH players  Mainly about lategame of GTNH 
 * 【2026-07-19】[apache / struts](https://github.com/apache/struts) - Apache Struts is a free, open\-source, MVC framework for creating elegant, modern Java web applications
 * 【2026-07-15】[Apicurio / apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas.
@@ -1875,6 +1880,7 @@
 
 ## Python
 
+* 【2026-07-24】[slavakurilyak / awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 * 【2026-07-23】[NVIDIA / Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
 * 【2026-07-23】[virgiliojr94 / book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 * 【2026-07-22】[NVIDIA / cosmos\-framework](https://github.com/NVIDIA/cosmos-framework) - Our inference and training framework to run on the Cosmos Models
@@ -3468,6 +3474,9 @@
 
 ## Javascript
 
+* 【2026-07-24】[freestylefly / awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+* 【2026-07-24】[himself65 / finance\-skills](https://github.com/himself65/finance-skills) - A collection of skills for AI financial analysis 
+* 【2026-07-24】[QLHazyCoder / FlowPilot](https://github.com/QLHazyCoder/FlowPilot) - Chrome扩展：支持Codex / kiro / Grok注册、验证码获取、CPA/sub回调验证与自动恢复
 * 【2026-07-23】[HughYau / qiushi\-skill](https://github.com/HughYau/qiushi-skill) - 求是Skill——从经典唯物辩证法与实践哲学中提炼出一条总原则和九大方法论工具武装AI大脑。Qiushi\-Skill: Build agents that investigate first, focus on the main contradiction, validate in practice, and keep pushing until the work is actually done 
 * 【2026-07-23】[hzm0321 / real-time-fund](https://github.com/hzm0321/real-time-fund) - 基金实时估值查看
 * 【2026-07-23】[sandeco / reversa](https://github.com/sandeco/reversa) - Transform legacy systems into executable specifications for AI coding agents
@@ -5611,6 +5620,7 @@
 
 ## C++
 
+* 【2026-07-24】[cristibaluta / Imagin\-Raw](https://github.com/cristibaluta/Imagin-Raw) - A lightweight but powerful alternative to Adobe Bridge for Mac
 * 【2026-07-21】[handy-computer / transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
 * 【2026-07-21】[microsoft / intelligent\-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line 
 * 【2026-07-20】[NVIDIA / DeepStream](https://github.com/NVIDIA/DeepStream) - NVIDIA DeepStream Monorepo: DeepStream SDK and reference apps for building GPU‑accelerated, real\-time video and multi‑sensor analytics pipelines with GStreamer, TensorRT, and vision AI models across edge, on‑prem, and cloud deployments 
@@ -6771,6 +6781,7 @@
 
 ## Html
 
+* 【2026-07-24】[NomaDamas / slides-grab](https://github.com/NomaDamas/slides-grab) - Best harness + editor + linter for generating slides in Claude Code / Codex - Claude Design Open Source Alternative
 * 【2026-07-23】[NomaDamas / slides\-grab](https://github.com/NomaDamas/slides-grab) - Best harness + editor + linter for generating slides in Claude Code / Codex \- Claude Design Open Source Alternative
 * 【2026-07-23】[Jstudner / jcorp\-nomad](https://github.com/Jstudner/jcorp-nomad) - An extremely compact offline media server for Movies, Shows, Books, and Music 
 * 【2026-07-22】[mohitagw15856 / pm\-claude\-skills](https://github.com/mohitagw15856/pm-claude-skills) - In Anthropic's official Claude plugin directory · 515 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex  Try free in\-browser, or 'npx pm\-claude\-skills add' 
@@ -7457,6 +7468,8 @@
 
 ## Unknown
 
+* 【2026-07-24】[straight\-tamago / misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16 0 \- 26 1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible 
+* 【2026-07-24】[yzfly / Awesome\-MCP\-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
 * 【2026-07-23】[google-antigravity / antigravity-cli](https://github.com/google-antigravity/antigravity-cli) - Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal.
 * 【2026-07-22】[ayghri / i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 * 【2026-07-22】[0xNyk / awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
