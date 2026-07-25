@@ -5078,6 +5078,7 @@
 
 ## C
 
+* 【2026-07-25】[mkj / dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
 * 【2026-07-23】[erincatto / box3d](https://github.com/erincatto/box3d) - Box3D is a 3D physics engine for games
 * 【2026-07-20】[GameTec-live / ChameleonUltraGUI](https://github.com/GameTec-live/ChameleonUltraGUI) - A GUI for the Chameleon Ultra written in Flutter for crossplatform
 * 【2026-07-18】[qualcomm-linux / kernel](https://github.com/qualcomm-linux/kernel) - Linux Kernel for QLI mainline
@@ -5620,6 +5621,9 @@
 
 ## C++
 
+* 【2026-07-25】[microsoft / intelligent-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line.
+* 【2026-07-25】[OpenLoco / OpenLoco](https://github.com/OpenLoco/OpenLoco) - An open source re\-implementation of Chris Sawyer's Locomotion
+* 【2026-07-25】[xLLM\-AI / xllm](https://github.com/xLLM-AI/xllm) - A high\-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators  It is hosted in OpenAtom Foundation 
 * 【2026-07-24】[cristibaluta / Imagin\-Raw](https://github.com/cristibaluta/Imagin-Raw) - A lightweight but powerful alternative to Adobe Bridge for Mac
 * 【2026-07-21】[handy-computer / transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
 * 【2026-07-21】[microsoft / intelligent\-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line 
@@ -6781,6 +6785,8 @@
 
 ## Html
 
+* 【2026-07-25】[datadrivenconstruction / OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) - Open\-source construction ERP \- BOQ, PDF/CAD/BIM takeoff, AI cost matching  42 regional catalogues, 21 languages, 71 modules  AGPL\-3 0  v3 0 \- pip install openconstructionerp
+* 【2026-07-25】[github / choosealicense com](https://github.com/github/choosealicense.com) - A site to provide non\-judgmental guidance on choosing a license for your open source project
 * 【2026-07-24】[NomaDamas / slides-grab](https://github.com/NomaDamas/slides-grab) - Best harness + editor + linter for generating slides in Claude Code / Codex - Claude Design Open Source Alternative
 * 【2026-07-23】[NomaDamas / slides\-grab](https://github.com/NomaDamas/slides-grab) - Best harness + editor + linter for generating slides in Claude Code / Codex \- Claude Design Open Source Alternative
 * 【2026-07-23】[Jstudner / jcorp\-nomad](https://github.com/Jstudner/jcorp-nomad) - An extremely compact offline media server for Movies, Shows, Books, and Music 
@@ -7468,6 +7474,7 @@
 
 ## Unknown
 
+* 【2026-07-25】[straight-tamago / misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
 * 【2026-07-24】[straight\-tamago / misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16 0 \- 26 1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible 
 * 【2026-07-24】[yzfly / Awesome\-MCP\-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
 * 【2026-07-23】[google-antigravity / antigravity-cli](https://github.com/google-antigravity/antigravity-cli) - Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal.
@@ -8372,6 +8379,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-07-25】[ovexro / dockpanel](https://github.com/ovexro/dockpanel) - Modern server management panel built with Rust and React  Sites, databases, Docker apps, Git deploy, mail, DNS, monitoring, backups, and security — all in one panel 
+* 【2026-07-25】[Julian\-adv / OpenMMO](https://github.com/Julian-adv/OpenMMO) - 
 * 【2026-07-23】[block / buzz](https://github.com/block/buzz) - A hive mind communication platform
 * 【2026-07-23】[transact-rs / sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 * 【2026-07-22】[yvgude / lean\-ctx](https://github.com/yvgude/lean-ctx) - Control what your AI can see  LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save  60–90% fewer tokens as the receipt  76 MCP tools, 30+ agents, local\-first 
@@ -9469,6 +9478,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-25】[theopenco / llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface 
+* 【2026-07-25】[ai-driven-dev / framework](https://github.com/ai-driven-dev/framework) - Marketplace Framework AI-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC
 * 【2026-07-23】[AdventDevInc / kudu](https://github.com/AdventDevInc/kudu) - Free Windows, Mac and Linux cleaner, scanner, and more 
 * 【2026-07-22】[agegr / pi-web](https://github.com/agegr/pi-web) - Web UI for the pi coding agent
 * 【2026-07-22】[vercel-labs / deepsec](https://github.com/vercel-labs/deepsec) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
