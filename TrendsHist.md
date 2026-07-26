@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-07-26】[permissionlesstech / bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 * 【2026-07-24】[citrolabs / ego-lite](https://github.com/citrolabs/ego-lite) - The best browser for both you and your AI agents work in parallel.
 * 【2026-07-24】[alibaba / open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 * 【2026-07-22】[ayghri / i\-have\-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer  ADHD\-friendly output 
@@ -1357,6 +1358,9 @@
 
 ## Java
 
+* 【2026-07-26】[jeandle / jeandle\-jdk](https://github.com/jeandle/jeandle-jdk) - Jeandle is a Just\-in\-Time compiler for Java  It is built on OpenJDK and leverages the LLVM compiler infrastructure to generate machine code, aiming to provide powerful compilation optimizations and deliver high\-performance code 
+* 【2026-07-26】[hiero-ledger / hiero-consensus-node](https://github.com/hiero-ledger/hiero-consensus-node) - Crypto, token, consensus, file, and smart contract services for a Hiero based network
+* 【2026-07-26】[objectionary / eo](https://github.com/objectionary/eo) - EOLANG, an Experimental Pure Object\-Oriented Programming Language Based on 𝜑\-Calculus
 * 【2026-07-24】[IAMLZY2018 / XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3 5 7、Vue 3 5 构建，提供完整的 Web 管理界面，手机端UI，请勿商用，仅供学习交流
 * 【2026-07-24】[hiero\-ledger / hiero\-consensus\-node](https://github.com/hiero-ledger/hiero-consensus-node) - Crypto, token, consensus, file, and smart contract services for a Hiero based network
 * 【2026-07-24】[apache / accumulo](https://github.com/apache/accumulo) - Apache Accumulo
@@ -1880,6 +1884,7 @@
 
 ## Python
 
+* 【2026-07-26】[DedSecInside / TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 * 【2026-07-24】[slavakurilyak / awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 * 【2026-07-23】[NVIDIA / Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
 * 【2026-07-23】[virgiliojr94 / book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
@@ -3474,6 +3479,8 @@
 
 ## Javascript
 
+* 【2026-07-26】[BazedFrog / SongGeneration\-Studio](https://github.com/BazedFrog/SongGeneration-Studio) - Clean, polished interface for Tencent’s SongGeneration  Create songs from text prompts or reference audio, with batch processing and smart model selection  Minimum Requirement: 10GB of VRAM
+* 【2026-07-26】[TechyCSR / OpenCluely](https://github.com/TechyCSR/OpenCluely) - OpenCluely is a free, open source Cluely (alternative), built for technical interviews like DSA, OAs, and CP  It offers an invisible overlay, real\-time AI help, Smart Image Processing for question capture, and multi\-language support : 100% customizable and private 
 * 【2026-07-24】[freestylefly / awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 * 【2026-07-24】[himself65 / finance\-skills](https://github.com/himself65/finance-skills) - A collection of skills for AI financial analysis 
 * 【2026-07-24】[QLHazyCoder / FlowPilot](https://github.com/QLHazyCoder/FlowPilot) - Chrome扩展：支持Codex / kiro / Grok注册、验证码获取、CPA/sub回调验证与自动恢复
@@ -4347,6 +4354,7 @@
 
 ## Go
 
+* 【2026-07-26】[evolution\-foundation / evolution\-go](https://github.com/evolution-foundation/evolution-go) - Evolution API / Evolution Go is an open\-source WhatsApp integration API
 * 【2026-07-23】[alibaba / open\-code\-review](https://github.com/alibaba/open-code-review) - Open\-source & free — Battle\-tested at Alibaba's scale  Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line\-level comments, built\-in fine\-tuned ruleset (NPE, thread\-safety, XSS, SQL injection), OpenAI & Anthropic compatible 
 * 【2026-07-23】[agentscope-ai / AgentTeams](https://github.com/agentscope-ai/AgentTeams) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
 * 【2026-07-22】[open-telemetry / opentelemetry-go-compile-instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation) - OpenTelemetry Go Compile Instrumentation
@@ -5621,6 +5629,7 @@
 
 ## C++
 
+* 【2026-07-26】[mosaic\-group / openfpm](https://github.com/mosaic-group/openfpm) - OpenFPM: A scalable open framework for particle and particle\-mesh codes on parallel computers
 * 【2026-07-25】[microsoft / intelligent-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line.
 * 【2026-07-25】[OpenLoco / OpenLoco](https://github.com/OpenLoco/OpenLoco) - An open source re\-implementation of Chris Sawyer's Locomotion
 * 【2026-07-25】[xLLM\-AI / xllm](https://github.com/xLLM-AI/xllm) - A high\-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators  It is hosted in OpenAtom Foundation 
@@ -6186,6 +6195,7 @@
 
 ## C#
 
+* 【2026-07-26】[Gineticus / PoeRedux](https://github.com/Gineticus/PoeRedux) - 
 * 【2026-07-23】[Gurge44 / EndlessHostRoles](https://github.com/Gurge44/EndlessHostRoles) - EHR is the biggest host\-only mod for Among Us, with 450+ roles / add\-ons and 16 game modes, along with a Custom Team Assigner application to fully customize your games!
 * 【2026-07-21】[kimmknight / raweb](https://github.com/kimmknight/raweb) - A modern web interface for your RemoteApps hosted on Windows 10, 11 and Server 
 * 【2026-07-20】[ss14Starlight / space-station-14](https://github.com/ss14Starlight/space-station-14) - An open source project aimed at creating unique mechanics and a pleasant game atmosphere in the game Space Station 14
@@ -9478,6 +9488,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-26】[Anionex / banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌
+* 【2026-07-26】[genkit\-ai / genkit](https://github.com/genkit-ai/genkit) - Open\-source framework for building AI\-powered apps in JavaScript, Go, and Python, built and used in production by Google
 * 【2026-07-25】[theopenco / llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface 
 * 【2026-07-25】[ai-driven-dev / framework](https://github.com/ai-driven-dev/framework) - Marketplace Framework AI-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC
 * 【2026-07-23】[AdventDevInc / kudu](https://github.com/AdventDevInc/kudu) - Free Windows, Mac and Linux cleaner, scanner, and more 
