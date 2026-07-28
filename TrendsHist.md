@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-07-28】[opengeos / GeoLibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud\-native GIS platform for visualizing, exploring, and analyzing geospatial data  It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks 
+* 【2026-07-28】[vudovn / ag\-kit](https://github.com/vudovn/ag-kit) - 
 * 【2026-07-27】[permissionlesstech / bitchat\-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
 * 【2026-07-26】[permissionlesstech / bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 * 【2026-07-24】[citrolabs / ego-lite](https://github.com/citrolabs/ego-lite) - The best browser for both you and your AI agents work in parallel.
@@ -1885,6 +1887,7 @@
 
 ## Python
 
+* 【2026-07-28】[sirkirby / unifi-mcp](https://github.com/sirkirby/unifi-mcp) - MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive
 * 【2026-07-27】[sirkirby / unifi\-mcp](https://github.com/sirkirby/unifi-mcp) - MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive
 * 【2026-07-27】[fqscfqj / Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) - YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控
 * 【2026-07-27】[jgravelle / jcodemunch\-mcp](https://github.com/jgravelle/jcodemunch-mcp) - Cut AI token costs 95%+ on code exploration  The leading MCP server for precise, symbol\-level GitHub code retrieval via tree\-sitter AST  Works with Claude Code, Cursor & any MCP client  313B+ tokens saved 
@@ -3483,6 +3486,7 @@
 
 ## Javascript
 
+* 【2026-07-28】[faroukbmiled / RyukGram](https://github.com/faroukbmiled/RyukGram) - RyukGram, The Instagram tweak for iOS power users 
 * 【2026-07-26】[BazedFrog / SongGeneration\-Studio](https://github.com/BazedFrog/SongGeneration-Studio) - Clean, polished interface for Tencent’s SongGeneration  Create songs from text prompts or reference audio, with batch processing and smart model selection  Minimum Requirement: 10GB of VRAM
 * 【2026-07-26】[TechyCSR / OpenCluely](https://github.com/TechyCSR/OpenCluely) - OpenCluely is a free, open source Cluely (alternative), built for technical interviews like DSA, OAs, and CP  It offers an invisible overlay, real\-time AI help, Smart Image Processing for question capture, and multi\-language support : 100% customizable and private 
 * 【2026-07-24】[freestylefly / awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
@@ -4358,6 +4362,7 @@
 
 ## Go
 
+* 【2026-07-28】[black\-ant / Ant\-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
 * 【2026-07-27】[ikemen\-engine / Ikemen\-GO](https://github.com/ikemen-engine/Ikemen-GO) - An open\-source fighting game engine that supports MUGEN resources 
 * 【2026-07-26】[evolution\-foundation / evolution\-go](https://github.com/evolution-foundation/evolution-go) - Evolution API / Evolution Go is an open\-source WhatsApp integration API
 * 【2026-07-23】[alibaba / open\-code\-review](https://github.com/alibaba/open-code-review) - Open\-source & free — Battle\-tested at Alibaba's scale  Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line\-level comments, built\-in fine\-tuned ruleset (NPE, thread\-safety, XSS, SQL injection), OpenAI & Anthropic compatible 
@@ -5091,6 +5096,7 @@
 
 ## C
 
+* 【2026-07-28】[Sor3nt / Flipper\-Zero\-ESP32\-Port](https://github.com/Sor3nt/Flipper-Zero-ESP32-Port) - 
 * 【2026-07-27】[RakuenSoftware / aimee](https://github.com/RakuenSoftware/aimee) - 
 * 【2026-07-27】[torvalds / GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits
 * 【2026-07-25】[mkj / dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
@@ -5636,6 +5642,7 @@
 
 ## C++
 
+* 【2026-07-28】[microsoft / foundry\-local](https://github.com/microsoft/foundry-local) - 
 * 【2026-07-26】[mosaic\-group / openfpm](https://github.com/mosaic-group/openfpm) - OpenFPM: A scalable open framework for particle and particle\-mesh codes on parallel computers
 * 【2026-07-25】[microsoft / intelligent-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line.
 * 【2026-07-25】[OpenLoco / OpenLoco](https://github.com/OpenLoco/OpenLoco) - An open source re\-implementation of Chris Sawyer's Locomotion
@@ -8398,6 +8405,9 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-07-28】[freenet / freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
+* 【2026-07-28】[calfonso / rusternetes](https://github.com/calfonso/rusternetes) - kubernetes, reimplemented in Rust
+* 【2026-07-28】[AprilNEA / OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local\-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++  No account, no telemetry 
 * 【2026-07-27】[therealaleph / MasterHttpRelayVPN\-RUST](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) - Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation  Free DPI bypass via a Google Apps Script relay with TLS SNI concealment  CLI + cross\-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps 
 * 【2026-07-25】[ovexro / dockpanel](https://github.com/ovexro/dockpanel) - Modern server management panel built with Rust and React  Sites, databases, Docker apps, Git deploy, mail, DNS, monitoring, backups, and security — all in one panel 
 * 【2026-07-25】[Julian\-adv / OpenMMO](https://github.com/Julian-adv/OpenMMO) - 
@@ -9498,6 +9508,9 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-28】[vudovn / ag-kit](https://github.com/vudovn/ag-kit) - 
+* 【2026-07-28】[EvanZhouDev / openai-oauth](https://github.com/EvanZhouDev/openai-oauth) - Free AI with your ChatGPT account
+* 【2026-07-28】[lightningpixel / modly](https://github.com/lightningpixel/modly) - Desktop app to generate 3D models from images using local AI — runs entirely on your GPU
 * 【2026-07-27】[EvanZhouDev / openai\-oauth](https://github.com/EvanZhouDev/openai-oauth) - Free AI with your ChatGPT account
 * 【2026-07-27】[davepoon / buildwithclaude](https://github.com/davepoon/buildwithclaude) - A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw
 * 【2026-07-26】[Anionex / banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌
