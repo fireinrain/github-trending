@@ -3498,6 +3498,7 @@
 
 ## Javascript
 
+* 【2026-07-31】[nyxxbit / discord\-quest\-completer](https://github.com/nyxxbit/discord-quest-completer) - Auto\-complete every Discord Quest in seconds  Paste one script, get all rewards  Resilient module loader, auto\-claim, adaptive speed  No installs, no tokens, no dependencies 
 * 【2026-07-30】[kunchenguid / lavish\-axi](https://github.com/kunchenguid/lavish-axi) - HTML is the new markdown  Lavish is the new editor for your HTML artifacts 
 * 【2026-07-30】[vrgamegirl19 / comfyui\-vrgamedevgirl](https://github.com/vrgamegirl19/comfyui-vrgamedevgirl) - Custom ComfyUI nodes for film grain, color matching, and video enhancement 
 * 【2026-07-30】[vllm-project / recipes](https://github.com/vllm-project/recipes) - Common recipes to run vLLM
@@ -4378,6 +4379,8 @@
 
 ## Go
 
+* 【2026-07-31】[openshift / origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
+* 【2026-07-31】[nianzhibai / 91](https://github.com/nianzhibai/91) - nine one
 * 【2026-07-30】[rorkai / App\-Store\-Connect\-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API  Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more  JSON\-first, no interactive prompts
 * 【2026-07-29】[black-ant / Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
 * 【2026-07-29】[micro-editor / micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
@@ -6834,6 +6837,8 @@
 
 ## Html
 
+* 【2026-07-31】[quinlan-lab / applied-computational-genomics](https://github.com/quinlan-lab/applied-computational-genomics) - Applied Computational Genomics Course at UU: Spring 2020
+* 【2026-07-31】[github / choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 * 【2026-07-29】[hello245m / free-stockdb](https://github.com/hello245m/free-stockdb) - 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。
 * 【2026-07-29】[freenet / web](https://github.com/freenet/web) - 
 * 【2026-07-27】[mohitagw15856 / pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) - 822 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — decode a lease, write a PRD, run the AGM, prep the D&D session, practice the salary negotiation. Plain-markdown, MIT, in Anthropic's official plugin directory. Try free in-browser or 'npx pm-claude-skills add'.
@@ -8435,6 +8440,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-07-31】[nolabs-ai / nono](https://github.com/nolabs-ai/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
 * 【2026-07-30】[nolabs\-ai / nono](https://github.com/nolabs-ai/nono) - Sandbox any AI agent in seconds \- zero setup, zero latency 
 * 【2026-07-28】[freenet / freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 * 【2026-07-28】[calfonso / rusternetes](https://github.com/calfonso/rusternetes) - kubernetes, reimplemented in Rust
@@ -9539,6 +9545,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-07-31】[styled\-components / styled\-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React  Server components, client components, streaming SSR, React Native—one API 
 * 【2026-07-30】[deepcoldy / botmux](https://github.com/deepcoldy/botmux) - Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live\-streaming CLI session
 * 【2026-07-30】[microsoft / flint-chart](https://github.com/microsoft/flint-chart) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.
 * 【2026-07-30】[ag\-ui\-protocol / ag\-ui](https://github.com/ag-ui-protocol/ag-ui) - AG\-UI: the Agent\-User Interaction Protocol  Bring Agents into Frontend Applications 
