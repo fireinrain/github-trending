@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-08-02】[zhaoxuya520 / reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+* 【2026-08-02】[abus\-aikorea / voice\-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge\-TTS, kokoro) and zero\-shot Voice Cloning (E2 & F5\-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation 
 * 【2026-08-01】[zhaoxuya520 / reverse\-skill](https://github.com/zhaoxuya520/reverse-skill) - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI\-powered routing + On\-demand toolchain bootstrapping + Self\-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 \- AI 自动路由 + 按需自举工具链 + 自动进化经验库 \| 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 * 【2026-08-01】[usekaneo / kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need  Nothing you don't  Open source project management that works for you, not against you 
 * 【2026-07-30】[grokability / snipe\-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
@@ -1368,6 +1370,7 @@
 
 ## Java
 
+* 【2026-08-02】[mubashardev / WaEnhancer](https://github.com/mubashardev/WaEnhancer) - WhatsApp tools for Android
 * 【2026-07-30】[TrackerControl / tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
 * 【2026-07-30】[Mininglamp\-OSS / octo\-android](https://github.com/Mininglamp-OSS/octo-android) - OCTO Android Client — Open\-source enterprise IM
 * 【2026-07-29】[icysymmetra / tiktok\-patches\-for\-morphe](https://github.com/icysymmetra/tiktok-patches-for-morphe) - This repository is a Morphe patch source for TikTok  It continues the work from earlier community TikTok patch sets, including ReVanced, with the patches adapted for Morphe and tested against newer TikTok builds  The current target version is TikTok 43 8 3
@@ -1897,6 +1900,8 @@
 
 ## Python
 
+* 【2026-08-02】[abus-aikorea / voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
+* 【2026-08-02】[SimplifyJobs / Summer2027\-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) - Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings  Updated daily by Simplify and Pitt CSC 
 * 【2026-07-30】[microsoft / TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation
 * 【2026-07-29】[HKUDS / OpenSpace](https://github.com/HKUDS/OpenSpace) - "OpenSpace: The Skill Management Layer for AI Agents" \-\- https://open\-space cloud/
 * 【2026-07-29】[lightseekorg / tokenspeed](https://github.com/lightseekorg/tokenspeed) - TokenSpeed is a speed\-of\-light LLM inference engine 
@@ -3500,6 +3505,8 @@
 
 ## Javascript
 
+* 【2026-08-02】[open\-gsd / gsd\-core](https://github.com/open-gsd/gsd-core) - Git  Ship  Done \- Core
+* 【2026-08-02】[microsoft / agent-academy](https://github.com/microsoft/agent-academy) - Curated lessons on getting started building agents with Copilot Studio
 * 【2026-08-01】[woosal1337 / blog](https://github.com/woosal1337/blog) - My blog website 
 * 【2026-08-01】[nyxxbit / discord-quest-completer](https://github.com/nyxxbit/discord-quest-completer) - Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module loader, auto-claim, adaptive speed. No installs, no tokens, no dependencies.
 * 【2026-07-31】[nyxxbit / discord\-quest\-completer](https://github.com/nyxxbit/discord-quest-completer) - Auto\-complete every Discord Quest in seconds  Paste one script, get all rewards  Resilient module loader, auto\-claim, adaptive speed  No installs, no tokens, no dependencies 
@@ -5128,6 +5135,7 @@
 
 ## C
 
+* 【2026-08-02】[RightNow-AI / picolm](https://github.com/RightNow-AI/picolm) - Run a 1-billion parameter LLM on a $10 board with 256MB RAM
 * 【2026-07-29】[mercedes\-benz / ardep](https://github.com/mercedes-benz/ardep) - Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 * 【2026-07-28】[Sor3nt / Flipper\-Zero\-ESP32\-Port](https://github.com/Sor3nt/Flipper-Zero-ESP32-Port) - 
 * 【2026-07-27】[RakuenSoftware / aimee](https://github.com/RakuenSoftware/aimee) - 
@@ -6245,6 +6253,7 @@
 
 ## C#
 
+* 【2026-08-02】[ivanpaulovich / clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - 🌀 Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
 * 【2026-07-26】[Gineticus / PoeRedux](https://github.com/Gineticus/PoeRedux) - 
 * 【2026-07-23】[Gurge44 / EndlessHostRoles](https://github.com/Gurge44/EndlessHostRoles) - EHR is the biggest host\-only mod for Among Us, with 450+ roles / add\-ons and 16 game modes, along with a Custom Team Assigner application to fully customize your games!
 * 【2026-07-21】[kimmknight / raweb](https://github.com/kimmknight/raweb) - A modern web interface for your RemoteApps hosted on Windows 10, 11 and Server 
@@ -7539,6 +7548,7 @@
 
 ## Unknown
 
+* 【2026-08-02】[VoltAgent / awesome\-codex\-subagents](https://github.com/VoltAgent/awesome-codex-subagents) - A collection of 130+ specialized Codex subagents covering a wide range of development use cases 
 * 【2026-07-30】[nilbuild / design-patterns-for-humans](https://github.com/nilbuild/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 * 【2026-07-30】[HQarroum / awesome\-iot](https://github.com/HQarroum/awesome-iot) - 🤖 A curated list of awesome Internet of Things projects and resources 
 * 【2026-07-29】[emilkowalski / skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers 
@@ -9554,6 +9564,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-08-02】[Narcooo / inkos](https://github.com/Narcooo/inkos) - Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
 * 【2026-07-31】[styled\-components / styled\-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React  Server components, client components, streaming SSR, React Native—one API 
 * 【2026-07-30】[deepcoldy / botmux](https://github.com/deepcoldy/botmux) - Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live\-streaming CLI session
 * 【2026-07-30】[microsoft / flint-chart](https://github.com/microsoft/flint-chart) - 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs.
