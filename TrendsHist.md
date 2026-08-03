@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-08-03】[HarbourMasters / Lighthouse](https://github.com/HarbourMasters/Lighthouse) - 
 * 【2026-08-02】[zhaoxuya520 / reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 * 【2026-08-02】[abus\-aikorea / voice\-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge\-TTS, kokoro) and zero\-shot Voice Cloning (E2 & F5\-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation 
 * 【2026-08-01】[zhaoxuya520 / reverse\-skill](https://github.com/zhaoxuya520/reverse-skill) - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI\-powered routing + On\-demand toolchain bootstrapping + Self\-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 \- AI 自动路由 + 按需自举工具链 + 自动进化经验库 \| 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
@@ -1370,6 +1371,7 @@
 
 ## Java
 
+* 【2026-08-03】[ModinMobileSTS / Sts2MobileLauncher](https://github.com/ModinMobileSTS/Sts2MobileLauncher) - an unofficial sts2 mobile launcher that support mods,optimized mobile control
 * 【2026-08-02】[mubashardev / WaEnhancer](https://github.com/mubashardev/WaEnhancer) - WhatsApp tools for Android
 * 【2026-07-30】[TrackerControl / tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
 * 【2026-07-30】[Mininglamp\-OSS / octo\-android](https://github.com/Mininglamp-OSS/octo-android) - OCTO Android Client — Open\-source enterprise IM
@@ -1900,6 +1902,8 @@
 
 ## Python
 
+* 【2026-08-03】[SimplifyJobs / Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) - Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.
+* 【2026-08-03】[Emily2040 / seedance\-2 0](https://github.com/Emily2040/seedance-2.0) - Comprehensive production pipeline for quad\-modal AI filmmaking with Seedance 2 0
 * 【2026-08-02】[abus-aikorea / voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
 * 【2026-08-02】[SimplifyJobs / Summer2027\-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) - Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings  Updated daily by Simplify and Pitt CSC 
 * 【2026-07-30】[microsoft / TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation
@@ -3505,6 +3509,8 @@
 
 ## Javascript
 
+* 【2026-08-03】[pdone / lx-music-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
+* 【2026-08-03】[LiberatedPixelCup / Universal\-LPC\-Spritesheet\-Character\-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal\-LPC\-Spritesheet
 * 【2026-08-02】[open\-gsd / gsd\-core](https://github.com/open-gsd/gsd-core) - Git  Ship  Done \- Core
 * 【2026-08-02】[microsoft / agent-academy](https://github.com/microsoft/agent-academy) - Curated lessons on getting started building agents with Copilot Studio
 * 【2026-08-01】[woosal1337 / blog](https://github.com/woosal1337/blog) - My blog website 
@@ -4390,6 +4396,8 @@
 
 ## Go
 
+* 【2026-08-03】[Solr159 / JavBoss](https://github.com/Solr159/JavBoss) - 开箱即用的本地 JAV/视频 刮削、管理、播放软件，支持命令行一键安装和 docker 部署。只需简单添加目录，即可打造你的私人 JAV/视频 媒体库，带给你顶级的浏览体验，懒人必备。\| Your local JAV/video manager 
+* 【2026-08-03】[adithyan-ak / AgentHound](https://github.com/adithyan-ak/AgentHound) - Offensive security framework for AI agent infrastructure - recon, credential looting, model exfiltration, poisoning, and attack-path analysis across MCP, A2A, gateways, and AI services. BloodHound for the agentic stack.
 * 【2026-08-01】[versenilvis / IRIS](https://github.com/versenilvis/IRIS) - A shell auto\-completion tool for your terminal
 * 【2026-08-01】[adithyan\-ak / AgentHound](https://github.com/adithyan-ak/AgentHound) - Offensive security framework for AI agent infrastructure \- recon, credential looting, model exfiltration, poisoning, and attack\-path analysis across MCP, A2A, gateways, and AI services  BloodHound for the agentic stack 
 * 【2026-08-01】[github / gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
@@ -7548,6 +7556,8 @@
 
 ## Unknown
 
+* 【2026-08-03】[ashuoAI / SHUO\-Canvas](https://github.com/ashuoAI/SHUO-Canvas) - AI\-CanvasPro
+* 【2026-08-03】[CommandCodeAI / command\-code](https://github.com/CommandCodeAI/command-code) - Command Code AI
 * 【2026-08-02】[VoltAgent / awesome\-codex\-subagents](https://github.com/VoltAgent/awesome-codex-subagents) - A collection of 130+ specialized Codex subagents covering a wide range of development use cases 
 * 【2026-07-30】[nilbuild / design-patterns-for-humans](https://github.com/nilbuild/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 * 【2026-07-30】[HQarroum / awesome\-iot](https://github.com/HQarroum/awesome-iot) - 🤖 A curated list of awesome Internet of Things projects and resources 
@@ -8458,6 +8468,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-08-03】[milos\-agathon / forge3d](https://github.com/milos-agathon/forge3d) - Rust‑first, cross‑platform wgpu/WebGPU renderer exposed to Python for fast, headless 3D rendering  Built in Rust, shipped as Python wheels 
 * 【2026-08-01】[bruits / satteri](https://github.com/bruits/satteri) - High\-performance Markdown and MDX processing for the JavaScript ecosystem
 * 【2026-07-31】[nolabs-ai / nono](https://github.com/nolabs-ai/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
 * 【2026-07-30】[nolabs\-ai / nono](https://github.com/nolabs-ai/nono) - Sandbox any AI agent in seconds \- zero setup, zero latency 
@@ -9564,6 +9575,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-08-03】[paperclipai / paperclip](https://github.com/paperclipai/paperclip) - The open\-source app everyone uses to manage agents at work
 * 【2026-08-02】[Narcooo / inkos](https://github.com/Narcooo/inkos) - Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
 * 【2026-07-31】[styled\-components / styled\-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React  Server components, client components, streaming SSR, React Native—one API 
 * 【2026-07-30】[deepcoldy / botmux](https://github.com/deepcoldy/botmux) - Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live\-streaming CLI session
