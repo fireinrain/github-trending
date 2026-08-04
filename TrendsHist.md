@@ -1371,6 +1371,8 @@
 
 ## Java
 
+* 【2026-08-04】[Crystaelix / Create\-Simurail](https://github.com/Crystaelix/Create-Simurail) - An experimental train mod using Create and Sable 
+* 【2026-08-04】[Dwinovo / minecraft\-numen](https://github.com/Dwinovo/minecraft-numen) - 住在 Minecraft 里的 AI 同伴——召唤它、跟它说话，它自己规划并动手：挖矿、建造、种地、战斗、合成。
 * 【2026-08-03】[ModinMobileSTS / Sts2MobileLauncher](https://github.com/ModinMobileSTS/Sts2MobileLauncher) - an unofficial sts2 mobile launcher that support mods,optimized mobile control
 * 【2026-08-02】[mubashardev / WaEnhancer](https://github.com/mubashardev/WaEnhancer) - WhatsApp tools for Android
 * 【2026-07-30】[TrackerControl / tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
@@ -1902,6 +1904,7 @@
 
 ## Python
 
+* 【2026-08-04】[vitali87 / code\-graph\-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo  Query, understand, and edit multi\-language codebases with the power of AI and knowledge graphs
 * 【2026-08-03】[SimplifyJobs / Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) - Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.
 * 【2026-08-03】[Emily2040 / seedance\-2 0](https://github.com/Emily2040/seedance-2.0) - Comprehensive production pipeline for quad\-modal AI filmmaking with Seedance 2 0
 * 【2026-08-02】[abus-aikorea / voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
@@ -3509,6 +3512,7 @@
 
 ## Javascript
 
+* 【2026-08-04】[techjarves / Uncensored\-Local\-Studio](https://github.com/techjarves/Uncensored-Local-Studio) - Uncensored local AI studio for Windows, Linux, and macOS  Zero\-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text
 * 【2026-08-03】[pdone / lx-music-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
 * 【2026-08-03】[LiberatedPixelCup / Universal\-LPC\-Spritesheet\-Character\-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal\-LPC\-Spritesheet
 * 【2026-08-02】[open\-gsd / gsd\-core](https://github.com/open-gsd/gsd-core) - Git  Ship  Done \- Core
@@ -6261,6 +6265,9 @@
 
 ## C#
 
+* 【2026-08-04】[zhongkaifu / TensorSharp](https://github.com/zhongkaifu/TensorSharp) - A native  NET LLM inference engine for GGUF models  TensorSharp provides a console application, a web\-based chatbot interface, and Ollama/OpenAI\-compatible HTTP APIs for programmatic access  It supports Windows/MacOS/Linux with full GPU capability
+* 【2026-08-04】[OhKannaDuh / BOCCHI](https://github.com/OhKannaDuh/BOCCHI) - 
+* 【2026-08-04】[microsoft / PTVS](https://github.com/microsoft/PTVS) - Python Tools for Visual Studio
 * 【2026-08-02】[ivanpaulovich / clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - 🌀 Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
 * 【2026-07-26】[Gineticus / PoeRedux](https://github.com/Gineticus/PoeRedux) - 
 * 【2026-07-23】[Gurge44 / EndlessHostRoles](https://github.com/Gurge44/EndlessHostRoles) - EHR is the biggest host\-only mod for Among Us, with 450+ roles / add\-ons and 16 game modes, along with a Custom Team Assigner application to fully customize your games!
@@ -6862,6 +6869,7 @@
 
 ## Html
 
+* 【2026-08-04】[OpenAEC-Foundation / open-pdf-studio](https://github.com/OpenAEC-Foundation/open-pdf-studio) - 
 * 【2026-07-31】[quinlan-lab / applied-computational-genomics](https://github.com/quinlan-lab/applied-computational-genomics) - Applied Computational Genomics Course at UU: Spring 2020
 * 【2026-07-31】[github / choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 * 【2026-07-29】[hello245m / free-stockdb](https://github.com/hello245m/free-stockdb) - 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。
@@ -7556,6 +7564,7 @@
 
 ## Unknown
 
+* 【2026-08-04】[actions / attest\-build\-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 * 【2026-08-03】[ashuoAI / SHUO\-Canvas](https://github.com/ashuoAI/SHUO-Canvas) - AI\-CanvasPro
 * 【2026-08-03】[CommandCodeAI / command\-code](https://github.com/CommandCodeAI/command-code) - Command Code AI
 * 【2026-08-02】[VoltAgent / awesome\-codex\-subagents](https://github.com/VoltAgent/awesome-codex-subagents) - A collection of 130+ specialized Codex subagents covering a wide range of development use cases 
@@ -9575,6 +9584,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-08-04】[slopus / happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 * 【2026-08-03】[paperclipai / paperclip](https://github.com/paperclipai/paperclip) - The open\-source app everyone uses to manage agents at work
 * 【2026-08-02】[Narcooo / inkos](https://github.com/Narcooo/inkos) - Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
 * 【2026-07-31】[styled\-components / styled\-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React  Server components, client components, streaming SSR, React Native—one API 
