@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-08-06】[cloudflare / computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 * 【2026-08-05】[uber / ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection  Deployed at Uber 
 * 【2026-08-03】[HarbourMasters / Lighthouse](https://github.com/HarbourMasters/Lighthouse) - 
 * 【2026-08-02】[zhaoxuya520 / reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
@@ -1905,6 +1906,13 @@
 
 ## Python
 
+* 【2026-08-06】[Comfy\-Org / workflow_templates](https://github.com/Comfy-Org/workflow_templates) - ComfyUI template workflows
+* 【2026-08-06】[mpfaffenberger / code_puppy](https://github.com/mpfaffenberger/code_puppy) - Agentic AI for writing code
+* 【2026-08-06】[didilili / ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) - 🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径 + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化
+* 【2026-08-06】[NovaSky\-AI / SkyRL](https://github.com/NovaSky-AI/SkyRL) - SkyRL: A Modular Full\-stack RL Library for LLMs
+* 【2026-08-06】[NVIDIA-NeMo / Speech](https://github.com/NVIDIA-NeMo/Speech) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+* 【2026-08-06】[anandprtp / Antra](https://github.com/anandprtp/Antra) - A desktop music library builder that turns Spotify, Youtube Music Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into fully tagged local library in FLAC, ALAC, AAC, or MP3 
+* 【2026-08-06】[sierra-research / tau2-bench](https://github.com/sierra-research/tau2-bench) - τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains
 * 【2026-08-05】[huangruiteng / loopx](https://github.com/huangruiteng/loopx) - Lightweight loop engineering state kernel for long\-running AI agent teams  Agent\-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota\-aware auto\-wake, executable todos, evidence logs, and verifiable handoffs 
 * 【2026-08-05】[Coldcard / firmware](https://github.com/Coldcard/firmware) - ❄️ Firmware and simulator for Coldcard Hardware Wallet
 * 【2026-08-04】[vitali87 / code\-graph\-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo  Query, understand, and edit multi\-language codebases with the power of AI and knowledge graphs
@@ -3515,6 +3523,8 @@
 
 ## Javascript
 
+* 【2026-08-06】[eze-is / web-access](https://github.com/eze-is/web-access) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
+* 【2026-08-06】[OWASP / threat\-dragon](https://github.com/OWASP/threat-dragon) - An open source threat modeling tool from OWASP
 * 【2026-08-04】[techjarves / Uncensored\-Local\-Studio](https://github.com/techjarves/Uncensored-Local-Studio) - Uncensored local AI studio for Windows, Linux, and macOS  Zero\-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text
 * 【2026-08-03】[pdone / lx-music-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
 * 【2026-08-03】[LiberatedPixelCup / Universal\-LPC\-Spritesheet\-Character\-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal\-LPC\-Spritesheet
@@ -4403,6 +4413,7 @@
 
 ## Go
 
+* 【2026-08-06】[leookun / cursor-byok](https://github.com/leookun/cursor-byok) - Infinite BYOK in Cursor https://github.com/leookun/cursor-byok/releases
 * 【2026-08-03】[Solr159 / JavBoss](https://github.com/Solr159/JavBoss) - 开箱即用的本地 JAV/视频 刮削、管理、播放软件，支持命令行一键安装和 docker 部署。只需简单添加目录，即可打造你的私人 JAV/视频 媒体库，带给你顶级的浏览体验，懒人必备。\| Your local JAV/video manager 
 * 【2026-08-03】[adithyan-ak / AgentHound](https://github.com/adithyan-ak/AgentHound) - Offensive security framework for AI agent infrastructure - recon, credential looting, model exfiltration, poisoning, and attack-path analysis across MCP, A2A, gateways, and AI services. BloodHound for the agentic stack.
 * 【2026-08-01】[versenilvis / IRIS](https://github.com/versenilvis/IRIS) - A shell auto\-completion tool for your terminal
@@ -5150,6 +5161,7 @@
 
 ## C
 
+* 【2026-08-06】[daos\-stack / daos](https://github.com/daos-stack/daos) - DAOS Storage Stack (client libraries, storage engine, control plane)
 * 【2026-08-02】[RightNow-AI / picolm](https://github.com/RightNow-AI/picolm) - Run a 1-billion parameter LLM on a $10 board with 256MB RAM
 * 【2026-07-29】[mercedes\-benz / ardep](https://github.com/mercedes-benz/ardep) - Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 * 【2026-07-28】[Sor3nt / Flipper\-Zero\-ESP32\-Port](https://github.com/Sor3nt/Flipper-Zero-ESP32-Port) - 
@@ -5698,6 +5710,8 @@
 
 ## C++
 
+* 【2026-08-06】[SwagSoftware / KisakCOD](https://github.com/SwagSoftware/KisakCOD) - COD4 Open Source Reimplementation
+* 【2026-08-06】[orailnoor / cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client) - A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.
 * 【2026-08-05】[orailnoor / cross\-platform\-llm\-client](https://github.com/orailnoor/cross-platform-llm-client) - A unified cross\-platform AI client supporting seamless transitions between standard cloud APIs and on\-device, offline execution of custom and uncensored language models 
 * 【2026-07-30】[google / xls](https://github.com/google/xls) - XLS: Accelerated HW Synthesis
 * 【2026-07-29】[microsoft / foundry-local](https://github.com/microsoft/foundry-local) - 
@@ -7568,6 +7582,8 @@
 
 ## Unknown
 
+* 【2026-08-06】[ashuoAI / SHUO-Canvas](https://github.com/ashuoAI/SHUO-Canvas) - AI-CanvasPro
+* 【2026-08-06】[noamseg / interview-coach-skill](https://github.com/noamseg/interview-coach-skill) - 
 * 【2026-08-05】[coreyhaines31 / makerskills](https://github.com/coreyhaines31/makerskills) - AI agent skills for the personal operator's craft — decisions, research, second\-brain, content rotation, scenario modeling, and meta\-skills to author more  Works with Claude Code, Codex, Cursor 
 * 【2026-08-04】[actions / attest\-build\-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 * 【2026-08-03】[ashuoAI / SHUO\-Canvas](https://github.com/ashuoAI/SHUO-Canvas) - AI\-CanvasPro
@@ -8482,6 +8498,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-08-06】[yvgude / lean-ctx](https://github.com/yvgude/lean-ctx) - Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save. 60–90% fewer tokens as the receipt. 76 MCP tools, 30+ agents, local-first.
+* 【2026-08-06】[WeaveMindAI / weft](https://github.com/WeaveMindAI/weft) - A programming language for AI orchestrations (POC)
 * 【2026-08-03】[milos\-agathon / forge3d](https://github.com/milos-agathon/forge3d) - Rust‑first, cross‑platform wgpu/WebGPU renderer exposed to Python for fast, headless 3D rendering  Built in Rust, shipped as Python wheels 
 * 【2026-08-01】[bruits / satteri](https://github.com/bruits/satteri) - High\-performance Markdown and MDX processing for the JavaScript ecosystem
 * 【2026-07-31】[nolabs-ai / nono](https://github.com/nolabs-ai/nono) - Sandbox any AI agent in seconds - zero setup, zero latency.
@@ -9589,6 +9607,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-08-06】[ln\-dev7 / circle](https://github.com/ln-dev7/circle) - UI \- Project management interface inspired by Linear  Built with Next js and shadcn/ui, this application allows tracking of issues, projects and teams 
+* 【2026-08-06】[melgarafael / DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) - Open\-source AI sales OS — self\-hosted CRM with native AI agents + WhatsApp (WAHA)  Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat  MCP\-ready, multi\-tenant, LGPD 
 * 【2026-08-04】[slopus / happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 * 【2026-08-03】[paperclipai / paperclip](https://github.com/paperclipai/paperclip) - The open\-source app everyone uses to manage agents at work
 * 【2026-08-02】[Narcooo / inkos](https://github.com/Narcooo/inkos) - Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
