@@ -1906,6 +1906,7 @@
 
 ## Python
 
+* 【2026-08-07】[Comfy-Org / workflow_templates](https://github.com/Comfy-Org/workflow_templates) - ComfyUI template workflows
 * 【2026-08-06】[Comfy\-Org / workflow_templates](https://github.com/Comfy-Org/workflow_templates) - ComfyUI template workflows
 * 【2026-08-06】[mpfaffenberger / code_puppy](https://github.com/mpfaffenberger/code_puppy) - Agentic AI for writing code
 * 【2026-08-06】[didilili / ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) - 🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径 + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化
@@ -3523,6 +3524,8 @@
 
 ## Javascript
 
+* 【2026-08-07】[react / create\-react\-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command 
+* 【2026-08-07】[vrgamegirl19 / comfyui-vrgamedevgirl](https://github.com/vrgamegirl19/comfyui-vrgamedevgirl) - Custom ComfyUI nodes for film grain, color matching, and video enhancement.
 * 【2026-08-06】[eze-is / web-access](https://github.com/eze-is/web-access) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
 * 【2026-08-06】[OWASP / threat\-dragon](https://github.com/OWASP/threat-dragon) - An open source threat modeling tool from OWASP
 * 【2026-08-04】[techjarves / Uncensored\-Local\-Studio](https://github.com/techjarves/Uncensored-Local-Studio) - Uncensored local AI studio for Windows, Linux, and macOS  Zero\-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text
@@ -4413,6 +4416,7 @@
 
 ## Go
 
+* 【2026-08-07】[nicholas\-fedor / watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 * 【2026-08-06】[leookun / cursor-byok](https://github.com/leookun/cursor-byok) - Infinite BYOK in Cursor https://github.com/leookun/cursor-byok/releases
 * 【2026-08-03】[Solr159 / JavBoss](https://github.com/Solr159/JavBoss) - 开箱即用的本地 JAV/视频 刮削、管理、播放软件，支持命令行一键安装和 docker 部署。只需简单添加目录，即可打造你的私人 JAV/视频 媒体库，带给你顶级的浏览体验，懒人必备。\| Your local JAV/video manager 
 * 【2026-08-03】[adithyan-ak / AgentHound](https://github.com/adithyan-ak/AgentHound) - Offensive security framework for AI agent infrastructure - recon, credential looting, model exfiltration, poisoning, and attack-path analysis across MCP, A2A, gateways, and AI services. BloodHound for the agentic stack.
@@ -6283,6 +6287,7 @@
 
 ## C#
 
+* 【2026-08-07】[hbashton / DS4Windows](https://github.com/hbashton/DS4Windows) - 
 * 【2026-08-04】[zhongkaifu / TensorSharp](https://github.com/zhongkaifu/TensorSharp) - A native  NET LLM inference engine for GGUF models  TensorSharp provides a console application, a web\-based chatbot interface, and Ollama/OpenAI\-compatible HTTP APIs for programmatic access  It supports Windows/MacOS/Linux with full GPU capability
 * 【2026-08-04】[OhKannaDuh / BOCCHI](https://github.com/OhKannaDuh/BOCCHI) - 
 * 【2026-08-04】[microsoft / PTVS](https://github.com/microsoft/PTVS) - Python Tools for Visual Studio
@@ -6887,6 +6892,7 @@
 
 ## Html
 
+* 【2026-08-07】[ahatem / IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible 
 * 【2026-08-04】[OpenAEC-Foundation / open-pdf-studio](https://github.com/OpenAEC-Foundation/open-pdf-studio) - 
 * 【2026-07-31】[quinlan-lab / applied-computational-genomics](https://github.com/quinlan-lab/applied-computational-genomics) - Applied Computational Genomics Course at UU: Spring 2020
 * 【2026-07-31】[github / choosealicense.com](https://github.com/github/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
@@ -7582,6 +7588,7 @@
 
 ## Unknown
 
+* 【2026-08-07】[ZYY817 / YuqiEngine](https://github.com/ZYY817/YuqiEngine) - 宇奇引擎 \- 游戏性能优化工具
 * 【2026-08-06】[ashuoAI / SHUO-Canvas](https://github.com/ashuoAI/SHUO-Canvas) - AI-CanvasPro
 * 【2026-08-06】[noamseg / interview-coach-skill](https://github.com/noamseg/interview-coach-skill) - 
 * 【2026-08-05】[coreyhaines31 / makerskills](https://github.com/coreyhaines31/makerskills) - AI agent skills for the personal operator's craft — decisions, research, second\-brain, content rotation, scenario modeling, and meta\-skills to author more  Works with Claude Code, Codex, Cursor 
@@ -8498,6 +8505,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-08-07】[nubjs / nub](https://github.com/nubjs/nub) - The fast all\-in\-one Node js toolkit
 * 【2026-08-06】[yvgude / lean-ctx](https://github.com/yvgude/lean-ctx) - Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save. 60–90% fewer tokens as the receipt. 76 MCP tools, 30+ agents, local-first.
 * 【2026-08-06】[WeaveMindAI / weft](https://github.com/WeaveMindAI/weft) - A programming language for AI orchestrations (POC)
 * 【2026-08-03】[milos\-agathon / forge3d](https://github.com/milos-agathon/forge3d) - Rust‑first, cross‑platform wgpu/WebGPU renderer exposed to Python for fast, headless 3D rendering  Built in Rust, shipped as Python wheels 
