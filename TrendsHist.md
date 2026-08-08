@@ -1,5 +1,9 @@
 ## All language
 
+* 【2026-08-08】[PrimeIntellect\-ai / prime\-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self\-improving RLM agent for coding workflows and long\-running autonomous tasks 
+* 【2026-08-08】[semantica\-agi / semantica](https://github.com/semantica-agi/semantica) - Graph\-Native Infrastructure for Context and Accountable AI Systems
+* 【2026-08-08】[unclebob / swarm\-forge](https://github.com/unclebob/swarm-forge) - A simple tool for coordinating several AI agents 
+* 【2026-08-08】[denoland / celld](https://github.com/denoland/celld) - self\-hosted, distributed Durable Objects
 * 【2026-08-06】[cloudflare / computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 * 【2026-08-05】[uber / ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection  Deployed at Uber 
 * 【2026-08-03】[HarbourMasters / Lighthouse](https://github.com/HarbourMasters/Lighthouse) - 
@@ -1373,6 +1377,7 @@
 
 ## Java
 
+* 【2026-08-08】[Mininglamp-OSS / octo-android](https://github.com/Mininglamp-OSS/octo-android) - OCTO Android Client — Open-source enterprise IM
 * 【2026-08-04】[Crystaelix / Create\-Simurail](https://github.com/Crystaelix/Create-Simurail) - An experimental train mod using Create and Sable 
 * 【2026-08-04】[Dwinovo / minecraft\-numen](https://github.com/Dwinovo/minecraft-numen) - 住在 Minecraft 里的 AI 同伴——召唤它、跟它说话，它自己规划并动手：挖矿、建造、种地、战斗、合成。
 * 【2026-08-03】[ModinMobileSTS / Sts2MobileLauncher](https://github.com/ModinMobileSTS/Sts2MobileLauncher) - an unofficial sts2 mobile launcher that support mods,optimized mobile control
@@ -1906,6 +1911,7 @@
 
 ## Python
 
+* 【2026-08-08】[semantica-agi / semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 * 【2026-08-07】[Comfy-Org / workflow_templates](https://github.com/Comfy-Org/workflow_templates) - ComfyUI template workflows
 * 【2026-08-06】[Comfy\-Org / workflow_templates](https://github.com/Comfy-Org/workflow_templates) - ComfyUI template workflows
 * 【2026-08-06】[mpfaffenberger / code_puppy](https://github.com/mpfaffenberger/code_puppy) - Agentic AI for writing code
@@ -3524,6 +3530,7 @@
 
 ## Javascript
 
+* 【2026-08-08】[WorldFlowAI / everything\-claude\-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit \- agents, commands, skills, rules, and hooks for productive AI\-assisted development
 * 【2026-08-07】[react / create\-react\-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command 
 * 【2026-08-07】[vrgamegirl19 / comfyui-vrgamedevgirl](https://github.com/vrgamegirl19/comfyui-vrgamedevgirl) - Custom ComfyUI nodes for film grain, color matching, and video enhancement.
 * 【2026-08-06】[eze-is / web-access](https://github.com/eze-is/web-access) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
@@ -6892,6 +6899,7 @@
 
 ## Html
 
+* 【2026-08-08】[itshen / learn\-ai](https://github.com/itshen/learn-ai) - AI 产品从入门到精通 —— 面向 AI 产品经理的完整培训课程，涵盖大模型底层原理到 AI 工程化落地
 * 【2026-08-07】[ahatem / IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible 
 * 【2026-08-04】[OpenAEC-Foundation / open-pdf-studio](https://github.com/OpenAEC-Foundation/open-pdf-studio) - 
 * 【2026-07-31】[quinlan-lab / applied-computational-genomics](https://github.com/quinlan-lab/applied-computational-genomics) - Applied Computational Genomics Course at UU: Spring 2020
@@ -7588,6 +7596,7 @@
 
 ## Unknown
 
+* 【2026-08-08】[jinchenma94 / bazi-skill](https://github.com/jinchenma94/bazi-skill) - 四柱八字命理分析
 * 【2026-08-07】[ZYY817 / YuqiEngine](https://github.com/ZYY817/YuqiEngine) - 宇奇引擎 \- 游戏性能优化工具
 * 【2026-08-06】[ashuoAI / SHUO-Canvas](https://github.com/ashuoAI/SHUO-Canvas) - AI-CanvasPro
 * 【2026-08-06】[noamseg / interview-coach-skill](https://github.com/noamseg/interview-coach-skill) - 
@@ -9615,6 +9624,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-08-08】[PrimeIntellect-ai / prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+* 【2026-08-08】[CodebuffAI / freebuff](https://github.com/CodebuffAI/freebuff) - The free coding agent
 * 【2026-08-06】[ln\-dev7 / circle](https://github.com/ln-dev7/circle) - UI \- Project management interface inspired by Linear  Built with Next js and shadcn/ui, this application allows tracking of issues, projects and teams 
 * 【2026-08-06】[melgarafael / DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) - Open\-source AI sales OS — self\-hosted CRM with native AI agents + WhatsApp (WAHA)  Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat  MCP\-ready, multi\-tenant, LGPD 
 * 【2026-08-04】[slopus / happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
