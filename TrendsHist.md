@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-08-09】[litu54 / DevOps\-Interview\-Guide](https://github.com/litu54/DevOps-Interview-Guide) - DevOps Interview Guide
 * 【2026-08-08】[PrimeIntellect\-ai / prime\-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self\-improving RLM agent for coding workflows and long\-running autonomous tasks 
 * 【2026-08-08】[semantica\-agi / semantica](https://github.com/semantica-agi/semantica) - Graph\-Native Infrastructure for Context and Accountable AI Systems
 * 【2026-08-08】[unclebob / swarm\-forge](https://github.com/unclebob/swarm-forge) - A simple tool for coordinating several AI agents 
@@ -1377,6 +1378,8 @@
 
 ## Java
 
+* 【2026-08-09】[zalexdev / strykerapp](https://github.com/zalexdev/strykerapp) - Magic tool for pentest from your android device!
+* 【2026-08-09】[booklore\-app / booklore](https://github.com/booklore-app/booklore) - BookLore: A self\-hosted, multi\-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built\-in reader for EPUB, PDF, and comics 
 * 【2026-08-08】[Mininglamp-OSS / octo-android](https://github.com/Mininglamp-OSS/octo-android) - OCTO Android Client — Open-source enterprise IM
 * 【2026-08-04】[Crystaelix / Create\-Simurail](https://github.com/Crystaelix/Create-Simurail) - An experimental train mod using Create and Sable 
 * 【2026-08-04】[Dwinovo / minecraft\-numen](https://github.com/Dwinovo/minecraft-numen) - 住在 Minecraft 里的 AI 同伴——召唤它、跟它说话，它自己规划并动手：挖矿、建造、种地、战斗、合成。
@@ -1911,6 +1914,10 @@
 
 ## Python
 
+* 【2026-08-09】[google\-deepmind / weathernext](https://github.com/google-deepmind/weathernext) - 
+* 【2026-08-09】[superlinked / sie](https://github.com/superlinked/sie) - Open\-source inference server and production cluster for all the models your agent needs 
+* 【2026-08-09】[harveyai / harvey\-labs](https://github.com/harveyai/harvey-labs) - A benchmark built to evaluate and improve agent capabilities for supporting legal work 
+* 【2026-08-09】[AgriciDaniel / claude\-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code  25 sub\-skills + 18 sub\-agents covering technical SEO, E\-E\-A\-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e\-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting  Optional DataForSEO, Firecrawl, and Banana extensions 
 * 【2026-08-08】[semantica-agi / semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 * 【2026-08-07】[Comfy-Org / workflow_templates](https://github.com/Comfy-Org/workflow_templates) - ComfyUI template workflows
 * 【2026-08-06】[Comfy\-Org / workflow_templates](https://github.com/Comfy-Org/workflow_templates) - ComfyUI template workflows
@@ -3530,6 +3537,8 @@
 
 ## Javascript
 
+* 【2026-08-09】[WorldFlowAI / everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
+* 【2026-08-09】[OpenSenseNova / SenseNova\-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI\-powered office assistants and productivity workflows
 * 【2026-08-08】[WorldFlowAI / everything\-claude\-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit \- agents, commands, skills, rules, and hooks for productive AI\-assisted development
 * 【2026-08-07】[react / create\-react\-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command 
 * 【2026-08-07】[vrgamegirl19 / comfyui-vrgamedevgirl](https://github.com/vrgamegirl19/comfyui-vrgamedevgirl) - Custom ComfyUI nodes for film grain, color matching, and video enhancement.
@@ -4423,6 +4432,8 @@
 
 ## Go
 
+* 【2026-08-09】[seriousm4x / UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase 
+* 【2026-08-09】[alexballas / go2tv](https://github.com/alexballas/go2tv) - Cast media files to Smart TVs and Chromecast devices 
 * 【2026-08-07】[nicholas\-fedor / watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 * 【2026-08-06】[leookun / cursor-byok](https://github.com/leookun/cursor-byok) - Infinite BYOK in Cursor https://github.com/leookun/cursor-byok/releases
 * 【2026-08-03】[Solr159 / JavBoss](https://github.com/Solr159/JavBoss) - 开箱即用的本地 JAV/视频 刮削、管理、播放软件，支持命令行一键安装和 docker 部署。只需简单添加目录，即可打造你的私人 JAV/视频 媒体库，带给你顶级的浏览体验，懒人必备。\| Your local JAV/video manager 
@@ -5172,6 +5183,7 @@
 
 ## C
 
+* 【2026-08-09】[rexglue / rexglue\-sdk](https://github.com/rexglue/rexglue-sdk) - Xbox 360 Recompilation Runtime and Toolkit
 * 【2026-08-06】[daos\-stack / daos](https://github.com/daos-stack/daos) - DAOS Storage Stack (client libraries, storage engine, control plane)
 * 【2026-08-02】[RightNow-AI / picolm](https://github.com/RightNow-AI/picolm) - Run a 1-billion parameter LLM on a $10 board with 256MB RAM
 * 【2026-07-29】[mercedes\-benz / ardep](https://github.com/mercedes-benz/ardep) - Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
@@ -7596,6 +7608,8 @@
 
 ## Unknown
 
+* 【2026-08-09】[litu54 / DevOps-Interview-Guide](https://github.com/litu54/DevOps-Interview-Guide) - DevOps Interview Guide
+* 【2026-08-09】[actions / attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 * 【2026-08-08】[jinchenma94 / bazi-skill](https://github.com/jinchenma94/bazi-skill) - 四柱八字命理分析
 * 【2026-08-07】[ZYY817 / YuqiEngine](https://github.com/ZYY817/YuqiEngine) - 宇奇引擎 \- 游戏性能优化工具
 * 【2026-08-06】[ashuoAI / SHUO-Canvas](https://github.com/ashuoAI/SHUO-Canvas) - AI-CanvasPro
@@ -8514,6 +8528,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-08-09】[HakanSeven12 / OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) - A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU\-accelerated rendering
 * 【2026-08-07】[nubjs / nub](https://github.com/nubjs/nub) - The fast all\-in\-one Node js toolkit
 * 【2026-08-06】[yvgude / lean-ctx](https://github.com/yvgude/lean-ctx) - Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save. 60–90% fewer tokens as the receipt. 76 MCP tools, 30+ agents, local-first.
 * 【2026-08-06】[WeaveMindAI / weft](https://github.com/WeaveMindAI/weft) - A programming language for AI orchestrations (POC)
@@ -9624,6 +9639,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-08-09】[jordanrendric / claude\-video\-vision](https://github.com/jordanrendric/claude-video-vision) - Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction and multimodal audio analysis
 * 【2026-08-08】[PrimeIntellect-ai / prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 * 【2026-08-08】[CodebuffAI / freebuff](https://github.com/CodebuffAI/freebuff) - The free coding agent
 * 【2026-08-06】[ln\-dev7 / circle](https://github.com/ln-dev7/circle) - UI \- Project management interface inspired by Linear  Built with Next js and shadcn/ui, this application allows tracking of issues, projects and teams 
