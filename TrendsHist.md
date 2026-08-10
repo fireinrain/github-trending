@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-08-10】[vitali87 / code-graph-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
+* 【2026-08-10】[google-deepmind / weathernext](https://github.com/google-deepmind/weathernext) - 
+* 【2026-08-10】[harveyai / harvey-labs](https://github.com/harveyai/harvey-labs) - A benchmark built to evaluate and improve agent capabilities for supporting legal work.
 * 【2026-08-09】[litu54 / DevOps\-Interview\-Guide](https://github.com/litu54/DevOps-Interview-Guide) - DevOps Interview Guide
 * 【2026-08-08】[PrimeIntellect\-ai / prime\-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self\-improving RLM agent for coding workflows and long\-running autonomous tasks 
 * 【2026-08-08】[semantica\-agi / semantica](https://github.com/semantica-agi/semantica) - Graph\-Native Infrastructure for Context and Accountable AI Systems
@@ -1378,6 +1381,7 @@
 
 ## Java
 
+* 【2026-08-10】[termux / termux\-boot](https://github.com/termux/termux-boot) - Termux add\-on app allowing programs to be run at boot 
 * 【2026-08-09】[zalexdev / strykerapp](https://github.com/zalexdev/strykerapp) - Magic tool for pentest from your android device!
 * 【2026-08-09】[booklore\-app / booklore](https://github.com/booklore-app/booklore) - BookLore: A self\-hosted, multi\-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built\-in reader for EPUB, PDF, and comics 
 * 【2026-08-08】[Mininglamp-OSS / octo-android](https://github.com/Mininglamp-OSS/octo-android) - OCTO Android Client — Open-source enterprise IM
@@ -1914,6 +1918,7 @@
 
 ## Python
 
+* 【2026-08-10】[vladmandic / sdnext](https://github.com/vladmandic/sdnext) - SD Next: All\-in\-one WebUI for AI generative image and video creation, captioning and processing
 * 【2026-08-09】[google\-deepmind / weathernext](https://github.com/google-deepmind/weathernext) - 
 * 【2026-08-09】[superlinked / sie](https://github.com/superlinked/sie) - Open\-source inference server and production cluster for all the models your agent needs 
 * 【2026-08-09】[harveyai / harvey\-labs](https://github.com/harveyai/harvey-labs) - A benchmark built to evaluate and improve agent capabilities for supporting legal work 
@@ -3537,6 +3542,7 @@
 
 ## Javascript
 
+* 【2026-08-10】[nonameShijian / noname](https://github.com/nonameShijian/noname) - 本Electron应用及功能由我制作，游戏内容来源于项目无名杀。无名杀项目地址：https://github com/libnoname/noname
 * 【2026-08-09】[WorldFlowAI / everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
 * 【2026-08-09】[OpenSenseNova / SenseNova\-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI\-powered office assistants and productivity workflows
 * 【2026-08-08】[WorldFlowAI / everything\-claude\-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit \- agents, commands, skills, rules, and hooks for productive AI\-assisted development
@@ -4432,6 +4438,9 @@
 
 ## Go
 
+* 【2026-08-10】[mubeng / mubeng](https://github.com/mubeng/mubeng) - An incredibly fast proxy checker & IP rotator with ease 
+* 【2026-08-10】[rorkai / App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
+* 【2026-08-10】[OpenListTeam / OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 * 【2026-08-09】[seriousm4x / UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase 
 * 【2026-08-09】[alexballas / go2tv](https://github.com/alexballas/go2tv) - Cast media files to Smart TVs and Chromecast devices 
 * 【2026-08-07】[nicholas\-fedor / watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
@@ -5733,6 +5742,7 @@
 
 ## C++
 
+* 【2026-08-10】[Azure / azure-sdk-for-cpp](https://github.com/Azure/azure-sdk-for-cpp) - This repository is for active development of the Azure SDK for C++. For consumers of the SDK we recommend visiting our versioned developer docs at https://azure.github.io/azure-sdk-for-cpp.
 * 【2026-08-06】[SwagSoftware / KisakCOD](https://github.com/SwagSoftware/KisakCOD) - COD4 Open Source Reimplementation
 * 【2026-08-06】[orailnoor / cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client) - A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.
 * 【2026-08-05】[orailnoor / cross\-platform\-llm\-client](https://github.com/orailnoor/cross-platform-llm-client) - A unified cross\-platform AI client supporting seamless transitions between standard cloud APIs and on\-device, offline execution of custom and uncensored language models 
@@ -6306,6 +6316,7 @@
 
 ## C#
 
+* 【2026-08-10】[StartupHakk / OpenMonoAgent ai](https://github.com/StartupHakk/OpenMonoAgent.ai) - (BETA) AI shouldn't have a meter  Unlimited tokens  Forever  Your machine  Your agent  Use it from anywhere  Terminal\-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command  Proudly built on C\#/ NET, because AI tooling should be infrastructure, not a subscription 
 * 【2026-08-07】[hbashton / DS4Windows](https://github.com/hbashton/DS4Windows) - 
 * 【2026-08-04】[zhongkaifu / TensorSharp](https://github.com/zhongkaifu/TensorSharp) - A native  NET LLM inference engine for GGUF models  TensorSharp provides a console application, a web\-based chatbot interface, and Ollama/OpenAI\-compatible HTTP APIs for programmatic access  It supports Windows/MacOS/Linux with full GPU capability
 * 【2026-08-04】[OhKannaDuh / BOCCHI](https://github.com/OhKannaDuh/BOCCHI) - 
@@ -8528,6 +8539,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-08-10】[lanyeeee / bilibili\-video\-downloader](https://github.com/lanyeeee/bilibili-video-downloader) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库
 * 【2026-08-09】[HakanSeven12 / OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) - A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU\-accelerated rendering
 * 【2026-08-07】[nubjs / nub](https://github.com/nubjs/nub) - The fast all\-in\-one Node js toolkit
 * 【2026-08-06】[yvgude / lean-ctx](https://github.com/yvgude/lean-ctx) - Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save. 60–90% fewer tokens as the receipt. 76 MCP tools, 30+ agents, local-first.
@@ -9639,6 +9651,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-08-10】[Mininglamp\-OSS / octo\-web](https://github.com/Mininglamp-OSS/octo-web) - Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first\-class AI agent UX 
+* 【2026-08-10】[lissy93 / web\-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All\-in\-one OSINT tool for analysing any website
 * 【2026-08-09】[jordanrendric / claude\-video\-vision](https://github.com/jordanrendric/claude-video-vision) - Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction and multimodal audio analysis
 * 【2026-08-08】[PrimeIntellect-ai / prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 * 【2026-08-08】[CodebuffAI / freebuff](https://github.com/CodebuffAI/freebuff) - The free coding agent
