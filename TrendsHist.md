@@ -1381,6 +1381,8 @@
 
 ## Java
 
+* 【2026-08-11】[fish2018 / webhtv](https://github.com/fish2018/webhtv) - WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。 这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。
+* 【2026-08-11】[booklore-app / booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 * 【2026-08-10】[termux / termux\-boot](https://github.com/termux/termux-boot) - Termux add\-on app allowing programs to be run at boot 
 * 【2026-08-09】[zalexdev / strykerapp](https://github.com/zalexdev/strykerapp) - Magic tool for pentest from your android device!
 * 【2026-08-09】[booklore\-app / booklore](https://github.com/booklore-app/booklore) - BookLore: A self\-hosted, multi\-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built\-in reader for EPUB, PDF, and comics 
@@ -1918,6 +1920,7 @@
 
 ## Python
 
+* 【2026-08-11】[confident-ai / deepteam](https://github.com/confident-ai/deepteam) - DeepTeam is a framework to red team LLMs and AI agents.
 * 【2026-08-10】[vladmandic / sdnext](https://github.com/vladmandic/sdnext) - SD Next: All\-in\-one WebUI for AI generative image and video creation, captioning and processing
 * 【2026-08-09】[google\-deepmind / weathernext](https://github.com/google-deepmind/weathernext) - 
 * 【2026-08-09】[superlinked / sie](https://github.com/superlinked/sie) - Open\-source inference server and production cluster for all the models your agent needs 
@@ -3542,6 +3545,9 @@
 
 ## Javascript
 
+* 【2026-08-11】[techjarves / Uncensored-Local-Studio](https://github.com/techjarves/Uncensored-Local-Studio) - Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text
+* 【2026-08-11】[cobusgreyling / loop\-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents  Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny)  Includes loop\-audit, loop\-init, loop\-cost 
+* 【2026-08-11】[BeiDouMS / BeiDou\-Server](https://github.com/BeiDouMS/BeiDou-Server) - Global MapleStory Server BeiDou(冒险岛GMS服务端北斗)
 * 【2026-08-10】[nonameShijian / noname](https://github.com/nonameShijian/noname) - 本Electron应用及功能由我制作，游戏内容来源于项目无名杀。无名杀项目地址：https://github com/libnoname/noname
 * 【2026-08-09】[WorldFlowAI / everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
 * 【2026-08-09】[OpenSenseNova / SenseNova\-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI\-powered office assistants and productivity workflows
@@ -4438,6 +4444,8 @@
 
 ## Go
 
+* 【2026-08-11】[kdlbs / kandev](https://github.com/kdlbs/kandev) - AI Kanban & Development Environment  Orchestrate multiple agents, review changes, open PRs  Multi\-provider, self\-hostable, no telemetry 
+* 【2026-08-11】[kenn\-io / msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat  Offline search, analytics, and AI query over your full message history  Powered by SQLite and DuckDB
 * 【2026-08-10】[mubeng / mubeng](https://github.com/mubeng/mubeng) - An incredibly fast proxy checker & IP rotator with ease 
 * 【2026-08-10】[rorkai / App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
 * 【2026-08-10】[OpenListTeam / OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
@@ -5192,6 +5200,7 @@
 
 ## C
 
+* 【2026-08-11】[rexglue / rexglue-sdk](https://github.com/rexglue/rexglue-sdk) - Xbox 360 Recompilation Runtime and Toolkit
 * 【2026-08-09】[rexglue / rexglue\-sdk](https://github.com/rexglue/rexglue-sdk) - Xbox 360 Recompilation Runtime and Toolkit
 * 【2026-08-06】[daos\-stack / daos](https://github.com/daos-stack/daos) - DAOS Storage Stack (client libraries, storage engine, control plane)
 * 【2026-08-02】[RightNow-AI / picolm](https://github.com/RightNow-AI/picolm) - Run a 1-billion parameter LLM on a $10 board with 256MB RAM
@@ -6316,6 +6325,7 @@
 
 ## C#
 
+* 【2026-08-11】[shinyflvre / VRCNext](https://github.com/shinyflvre/VRCNext) - VRCN is a VRChat launcher for Windows that includes various useful tools within a clean interface  It allows you to manage friends, groups, and more in a single application without needing to visit VRChat com 
 * 【2026-08-10】[StartupHakk / OpenMonoAgent ai](https://github.com/StartupHakk/OpenMonoAgent.ai) - (BETA) AI shouldn't have a meter  Unlimited tokens  Forever  Your machine  Your agent  Use it from anywhere  Terminal\-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command  Proudly built on C\#/ NET, because AI tooling should be infrastructure, not a subscription 
 * 【2026-08-07】[hbashton / DS4Windows](https://github.com/hbashton/DS4Windows) - 
 * 【2026-08-04】[zhongkaifu / TensorSharp](https://github.com/zhongkaifu/TensorSharp) - A native  NET LLM inference engine for GGUF models  TensorSharp provides a console application, a web\-based chatbot interface, and Ollama/OpenAI\-compatible HTTP APIs for programmatic access  It supports Windows/MacOS/Linux with full GPU capability
@@ -7619,6 +7629,8 @@
 
 ## Unknown
 
+* 【2026-08-11】[NarratorAI\-Studio / narrator\-ai\-cli\-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) - AI 解说大师 — Agent skill；封装 narrator\-ai\-cli 供 Claude/Codex 等工具调用
+* 【2026-08-11】[Elaina69 / Yes\-Steve\-Model\-Repo](https://github.com/Elaina69/Yes-Steve-Model-Repo) - YSM models I collected from various sources, free to use  Please join YSM discord server if you have any question:
 * 【2026-08-09】[litu54 / DevOps-Interview-Guide](https://github.com/litu54/DevOps-Interview-Guide) - DevOps Interview Guide
 * 【2026-08-09】[actions / attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 * 【2026-08-08】[jinchenma94 / bazi-skill](https://github.com/jinchenma94/bazi-skill) - 四柱八字命理分析
@@ -8539,6 +8551,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-08-11】[sopaco / deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
 * 【2026-08-10】[lanyeeee / bilibili\-video\-downloader](https://github.com/lanyeeee/bilibili-video-downloader) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库
 * 【2026-08-09】[HakanSeven12 / OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) - A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU\-accelerated rendering
 * 【2026-08-07】[nubjs / nub](https://github.com/nubjs/nub) - The fast all\-in\-one Node js toolkit
@@ -9651,6 +9664,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-08-11】[joelbqz / writer\-computer](https://github.com/joelbqz/writer-computer) - Local\-first desktop markdown editor
+* 【2026-08-11】[brightdata / cli](https://github.com/brightdata/cli) - Official Bright Data CLI \- scrape, search, and extract structured web data directly from your terminal 
 * 【2026-08-10】[Mininglamp\-OSS / octo\-web](https://github.com/Mininglamp-OSS/octo-web) - Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first\-class AI agent UX 
 * 【2026-08-10】[lissy93 / web\-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All\-in\-one OSINT tool for analysing any website
 * 【2026-08-09】[jordanrendric / claude\-video\-vision](https://github.com/jordanrendric/claude-video-vision) - Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction and multimodal audio analysis
