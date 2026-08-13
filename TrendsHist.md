@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-08-13】[cathrynlavery / diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+* 【2026-08-13】[NVIDIA\-NeMo / Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - 
+* 【2026-08-13】[embabel / embabel\-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM  Pronounced Em\-BAY\-bel /ɛmˈbeɪbəl/
 * 【2026-08-10】[vitali87 / code-graph-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
 * 【2026-08-10】[google-deepmind / weathernext](https://github.com/google-deepmind/weathernext) - 
 * 【2026-08-10】[harveyai / harvey-labs](https://github.com/harveyai/harvey-labs) - A benchmark built to evaluate and improve agent capabilities for supporting legal work.
@@ -1921,6 +1924,9 @@
 
 ## Python
 
+* 【2026-08-13】[omnigent\-ai / omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open\-source AI agent framework and meta\-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device 
+* 【2026-08-13】[index\-tts / index\-tts](https://github.com/index-tts/index-tts) - An Industrial\-Level Controllable and Efficient Zero\-Shot Text\-To\-Speech System
+* 【2026-08-13】[paradigmxyz / centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own  Centaur is like Claude Tag, but open source and on steroids 
 * 【2026-08-12】[AWeirdDev / flights](https://github.com/AWeirdDev/flights) - Fast, robust Google Flights scraper (API) for Python  (Probably)
 * 【2026-08-12】[cactus-compute / needle](https://github.com/cactus-compute/needle) - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
 * 【2026-08-12】[AgriciDaniel / claude\-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self\-organizing AI second brain for Obsidian + Claude Code  Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own  AI note\-taking, personal knowledge management (PKM), and an open\-source Notion alternative  Based on Karpathy's LLM Wiki pattern 
@@ -4454,6 +4460,8 @@
 
 ## Go
 
+* 【2026-08-13】[Agent\-Field / pr\-af](https://github.com/Agent-Field/pr-af) - \#1 open\-source code reviewer on Code\-Review\-Bench
+* 【2026-08-13】[samber / cc\-skills\-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
 * 【2026-08-11】[kdlbs / kandev](https://github.com/kdlbs/kandev) - AI Kanban & Development Environment  Orchestrate multiple agents, review changes, open PRs  Multi\-provider, self\-hostable, no telemetry 
 * 【2026-08-11】[kenn\-io / msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat  Offline search, analytics, and AI query over your full message history  Powered by SQLite and DuckDB
 * 【2026-08-10】[mubeng / mubeng](https://github.com/mubeng/mubeng) - An incredibly fast proxy checker & IP rotator with ease 
@@ -5762,6 +5770,7 @@
 
 ## C++
 
+* 【2026-08-13】[ROCm / FastFlowLM](https://github.com/ROCm/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes  Just like Ollama \- but purpose\-built and deeply optimized for the AMD NPUs 
 * 【2026-08-12】[sal063 / AC6_recomp](https://github.com/sal063/AC6_recomp) - static Recomp of AC6 with Rexglue
 * 【2026-08-10】[Azure / azure-sdk-for-cpp](https://github.com/Azure/azure-sdk-for-cpp) - This repository is for active development of the Azure SDK for C++. For consumers of the SDK we recommend visiting our versioned developer docs at https://azure.github.io/azure-sdk-for-cpp.
 * 【2026-08-06】[SwagSoftware / KisakCOD](https://github.com/SwagSoftware/KisakCOD) - COD4 Open Source Reimplementation
@@ -6337,6 +6346,7 @@
 
 ## C#
 
+* 【2026-08-13】[luolangaga / tubatools](https://github.com/luolangaga/tubatools) - 图吧工具箱 winUI3 版
 * 【2026-08-12】[dpadGuy / SalsaNOW](https://github.com/dpadGuy/SalsaNOW) - SalsaNOW, the tool that sets up your GeForce NOW session experiences into local ones !
 * 【2026-08-12】[Decimation / SmartImage](https://github.com/Decimation/SmartImage) - Reverse image search tool (SauceNao, IQDB, Ascii2D, trace moe, and more)
 * 【2026-08-11】[shinyflvre / VRCNext](https://github.com/shinyflvre/VRCNext) - VRCN is a VRChat launcher for Windows that includes various useful tools within a clean interface  It allows you to manage friends, groups, and more in a single application without needing to visit VRChat com 
@@ -6946,6 +6956,7 @@
 
 ## Html
 
+* 【2026-08-13】[Jakubantalik / transitions.dev](https://github.com/Jakubantalik/transitions.dev) - Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents
 * 【2026-08-12】[cathrynlavery / diagram\-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code  Self\-contained HTML + SVG  No shadows, no Mermaid\-slop 
 * 【2026-08-12】[Jakubantalik / transitions dev](https://github.com/Jakubantalik/transitions.dev) - Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents
 * 【2026-08-08】[itshen / learn\-ai](https://github.com/itshen/learn-ai) - AI 产品从入门到精通 —— 面向 AI 产品经理的完整培训课程，涵盖大模型底层原理到 AI 工程化落地
@@ -7645,6 +7656,7 @@
 
 ## Unknown
 
+* 【2026-08-13】[NarratorAI-Studio / narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) - AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用
 * 【2026-08-11】[NarratorAI\-Studio / narrator\-ai\-cli\-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) - AI 解说大师 — Agent skill；封装 narrator\-ai\-cli 供 Claude/Codex 等工具调用
 * 【2026-08-11】[Elaina69 / Yes\-Steve\-Model\-Repo](https://github.com/Elaina69/Yes-Steve-Model-Repo) - YSM models I collected from various sources, free to use  Please join YSM discord server if you have any question:
 * 【2026-08-09】[litu54 / DevOps-Interview-Guide](https://github.com/litu54/DevOps-Interview-Guide) - DevOps Interview Guide
@@ -8567,6 +8579,8 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-08-13】[NVIDIA-NeMo / Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - 
+* 【2026-08-13】[AntigmaLabs / ante](https://github.com/AntigmaLabs/ante) - Ghost in your shell  Ante is a self\-contained agent harness with a highly optimized core  It works like Claude Code or Codex, with none of their dependencies or model constraints 
 * 【2026-08-11】[sopaco / deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
 * 【2026-08-10】[lanyeeee / bilibili\-video\-downloader](https://github.com/lanyeeee/bilibili-video-downloader) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库
 * 【2026-08-09】[HakanSeven12 / OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) - A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU\-accelerated rendering
@@ -9680,6 +9694,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-08-13】[holaboss\-ai / holaOS](https://github.com/holaboss-ai/holaOS) - Open\-source All in One AI agent workspace  Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory  Built\-in models or BYOK 
 * 【2026-08-12】[JimLiu / baoyu\-skills](https://github.com/JimLiu/baoyu-skills) - 
 * 【2026-08-11】[joelbqz / writer\-computer](https://github.com/joelbqz/writer-computer) - Local\-first desktop markdown editor
 * 【2026-08-11】[brightdata / cli](https://github.com/brightdata/cli) - Official Bright Data CLI \- scrape, search, and extract structured web data directly from your terminal 
