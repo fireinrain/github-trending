@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-08-14】[holaboss-ai / holaOS](https://github.com/holaboss-ai/holaOS) - Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
 * 【2026-08-13】[cathrynlavery / diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 * 【2026-08-13】[NVIDIA\-NeMo / Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - 
 * 【2026-08-13】[embabel / embabel\-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM  Pronounced Em\-BAY\-bel /ɛmˈbeɪbəl/
@@ -1384,6 +1385,8 @@
 
 ## Java
 
+* 【2026-08-14】[jdubois / boot\-ui](https://github.com/jdubois/boot-ui) - The missing developer UI for Spring Boot and Quarkus!
+* 【2026-08-14】[aurickk / OpSec](https://github.com/aurickk/OpSec) - Minecraft mod for advanced client brand spoofing, tracking exploit protections, and other privacy focused features 
 * 【2026-08-12】[elder\-plinius / V3SP3R](https://github.com/elder-plinius/V3SP3R) - AI Flipper control
 * 【2026-08-11】[fish2018 / webhtv](https://github.com/fish2018/webhtv) - WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。 这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。
 * 【2026-08-11】[booklore-app / booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
@@ -1924,6 +1927,8 @@
 
 ## Python
 
+* 【2026-08-14】[index-tts / index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
+* 【2026-08-14】[NVIDIA-NeMo / Automodel](https://github.com/NVIDIA-NeMo/Automodel) - 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
 * 【2026-08-13】[omnigent\-ai / omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open\-source AI agent framework and meta\-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device 
 * 【2026-08-13】[index\-tts / index\-tts](https://github.com/index-tts/index-tts) - An Industrial\-Level Controllable and Efficient Zero\-Shot Text\-To\-Speech System
 * 【2026-08-13】[paradigmxyz / centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own  Centaur is like Claude Tag, but open source and on steroids 
@@ -3556,6 +3561,8 @@
 
 ## Javascript
 
+* 【2026-08-14】[bmad-code-org / BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
+* 【2026-08-14】[OpenSenseNova / SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI-powered office assistants and productivity workflows
 * 【2026-08-12】[chr0nzz / traefik\-manager](https://github.com/chr0nzz/traefik-manager) - A clean, self\-hosted web UI for managing your Traefik reverse proxy 
 * 【2026-08-12】[bmad\-code\-org / BMAD\-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 * 【2026-08-12】[DietrichGebert / ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room  The best code is the code you never wrote 
@@ -4460,6 +4467,12 @@
 
 ## Go
 
+* 【2026-08-14】[compozy / compozy](https://github.com/compozy/compozy) - An operating system for AI agents  Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory  You steer everything from the browser 
+* 【2026-08-14】[alibaba / skill-up](https://github.com/alibaba/skill-up) - An evaluation and evolution tool for Agent Skills.
+* 【2026-08-14】[Agent-Field / pr-af](https://github.com/Agent-Field/pr-af) - #1 open-source code reviewer on Code-Review-Bench
+* 【2026-08-14】[geekjourneyx / md2wechat\-skill](https://github.com/geekjourneyx/md2wechat-skill) - Markdown to WeChat CLI \| 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
+* 【2026-08-14】[astaxie / TokenHub](https://github.com/astaxie/TokenHub) - TokenHub gives enterprises a private gateway to unify AI model access and governance, making every request controllable, traceable, and attributable 
+* 【2026-08-14】[Willxup / cpa\-usage\-keeper](https://github.com/Willxup/cpa-usage-keeper) - Standalone CliProxyAPI usage tracker with SQLite persistence and built\-in dashboard 
 * 【2026-08-13】[Agent\-Field / pr\-af](https://github.com/Agent-Field/pr-af) - \#1 open\-source code reviewer on Code\-Review\-Bench
 * 【2026-08-13】[samber / cc\-skills\-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
 * 【2026-08-11】[kdlbs / kandev](https://github.com/kdlbs/kandev) - AI Kanban & Development Environment  Orchestrate multiple agents, review changes, open PRs  Multi\-provider, self\-hostable, no telemetry 
@@ -6956,6 +6969,7 @@
 
 ## Html
 
+* 【2026-08-14】[huytieu / COG\-second\-brain](https://github.com/huytieu/COG-second-brain) - Self\-evolving second brain with 33 AI skills, 10 agents, and people CRM  Closed\-loop harness: a V\-model verification lifecycle where the worker never grades its own homework  Plus paired anti\-slop design skills for marketing and product UI  Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex 
 * 【2026-08-13】[Jakubantalik / transitions.dev](https://github.com/Jakubantalik/transitions.dev) - Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents
 * 【2026-08-12】[cathrynlavery / diagram\-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code  Self\-contained HTML + SVG  No shadows, no Mermaid\-slop 
 * 【2026-08-12】[Jakubantalik / transitions dev](https://github.com/Jakubantalik/transitions.dev) - Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents
@@ -7656,6 +7670,8 @@
 
 ## Unknown
 
+* 【2026-08-14】[shadcn / improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute 
+* 【2026-08-14】[aliyun / alibabacloud\-jindodata](https://github.com/aliyun/alibabacloud-jindodata) - alibabacloud\-jindodata
 * 【2026-08-13】[NarratorAI-Studio / narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) - AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用
 * 【2026-08-11】[NarratorAI\-Studio / narrator\-ai\-cli\-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) - AI 解说大师 — Agent skill；封装 narrator\-ai\-cli 供 Claude/Codex 等工具调用
 * 【2026-08-11】[Elaina69 / Yes\-Steve\-Model\-Repo](https://github.com/Elaina69/Yes-Steve-Model-Repo) - YSM models I collected from various sources, free to use  Please join YSM discord server if you have any question:
@@ -9694,6 +9710,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-08-14】[apify / apify\-mcp\-server](https://github.com/apify/apify-mcp-server) - The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e\-commerce sites, or any other website using thousands of ready\-made scrapers, crawlers, and automation tools available on the Apify Store 
+* 【2026-08-14】[golbin / hop](https://github.com/golbin/hop) - 
 * 【2026-08-13】[holaboss\-ai / holaOS](https://github.com/holaboss-ai/holaOS) - Open\-source All in One AI agent workspace  Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory  Built\-in models or BYOK 
 * 【2026-08-12】[JimLiu / baoyu\-skills](https://github.com/JimLiu/baoyu-skills) - 
 * 【2026-08-11】[joelbqz / writer\-computer](https://github.com/joelbqz/writer-computer) - Local\-first desktop markdown editor
