@@ -1385,6 +1385,7 @@
 
 ## Java
 
+* 【2026-08-15】[zhukunpenglinyutong / jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude Code and Codex GUI Plugin
 * 【2026-08-14】[jdubois / boot\-ui](https://github.com/jdubois/boot-ui) - The missing developer UI for Spring Boot and Quarkus!
 * 【2026-08-14】[aurickk / OpSec](https://github.com/aurickk/OpSec) - Minecraft mod for advanced client brand spoofing, tracking exploit protections, and other privacy focused features 
 * 【2026-08-12】[elder\-plinius / V3SP3R](https://github.com/elder-plinius/V3SP3R) - AI Flipper control
@@ -3561,6 +3562,8 @@
 
 ## Javascript
 
+* 【2026-08-15】[darkzOGx / youtube\-automation\-agent](https://github.com/darkzOGx/youtube-automation-agent) - 🎬 Fully automated YouTube channel management with AI agents  Creates, optimizes & publishes videos 24/7  Works with FREE Gemini API or OpenAI  No coding required!
+* 【2026-08-15】[laoma2053 / awesome\-zhuiju\-free](https://github.com/laoma2053/awesome-zhuiju-free) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
 * 【2026-08-14】[bmad-code-org / BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 * 【2026-08-14】[OpenSenseNova / SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI-powered office assistants and productivity workflows
 * 【2026-08-12】[chr0nzz / traefik\-manager](https://github.com/chr0nzz/traefik-manager) - A clean, self\-hosted web UI for managing your Traefik reverse proxy 
@@ -4467,6 +4470,9 @@
 
 ## Go
 
+* 【2026-08-15】[palemoky / chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) - 📜 诗泉：高性能中国古诗词 API 服务
+* 【2026-08-15】[oseghalep / cloud\-cost\-optimization\-hub](https://github.com/oseghalep/cloud-cost-optimization-hub) - Cloud Cost Optimization Hub is an open\-source, self\-hosted platform that provides unified cost visibility and actionable recommendations across AWS, GCP, and Azure  Features include multi\-cloud cost aggregation, rightsizing recommendations, idle resource detection, cost anomaly alerts, and an intuitive dashboard – all designed to help teams reduce 
+* 【2026-08-15】[futrx\-com / remote futrx](https://github.com/futrx-com/remote.futrx) - 
 * 【2026-08-14】[compozy / compozy](https://github.com/compozy/compozy) - An operating system for AI agents  Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory  You steer everything from the browser 
 * 【2026-08-14】[alibaba / skill-up](https://github.com/alibaba/skill-up) - An evaluation and evolution tool for Agent Skills.
 * 【2026-08-14】[Agent-Field / pr-af](https://github.com/Agent-Field/pr-af) - #1 open-source code reviewer on Code-Review-Bench
@@ -5231,6 +5237,7 @@
 
 ## C
 
+* 【2026-08-15】[superturtlee / gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe) - No TrickyStore on Canoe
 * 【2026-08-12】[memovai / mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Harness on a $5 chip  No OS(Linux)  No Node js  No Mac mini  No Raspberry Pi  No VPS  Hardware agents OS 
 * 【2026-08-11】[rexglue / rexglue-sdk](https://github.com/rexglue/rexglue-sdk) - Xbox 360 Recompilation Runtime and Toolkit
 * 【2026-08-09】[rexglue / rexglue\-sdk](https://github.com/rexglue/rexglue-sdk) - Xbox 360 Recompilation Runtime and Toolkit
@@ -5783,6 +5790,7 @@
 
 ## C++
 
+* 【2026-08-15】[safijari / openpuck](https://github.com/safijari/openpuck) - Opensource firmware for NRF52840 Pro Micro that copycats the Steam Controller 2 Puck and adds an Xbox and Switch mode
 * 【2026-08-13】[ROCm / FastFlowLM](https://github.com/ROCm/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes  Just like Ollama \- but purpose\-built and deeply optimized for the AMD NPUs 
 * 【2026-08-12】[sal063 / AC6_recomp](https://github.com/sal063/AC6_recomp) - static Recomp of AC6 with Rexglue
 * 【2026-08-10】[Azure / azure-sdk-for-cpp](https://github.com/Azure/azure-sdk-for-cpp) - This repository is for active development of the Azure SDK for C++. For consumers of the SDK we recommend visiting our versioned developer docs at https://azure.github.io/azure-sdk-for-cpp.
@@ -6359,6 +6367,9 @@
 
 ## C#
 
+* 【2026-08-15】[Unity\-Technologies / skills](https://github.com/Unity-Technologies/skills) - A collection of reusable skills for AI coding agents — prompts, slash commands, and tools built for Unity workflows
+* 【2026-08-15】[madoiscool / LuaTools](https://github.com/madoiscool/LuaTools) - AppID Manager for ST
+* 【2026-08-15】[sbroenne / mcp\-server\-excel](https://github.com/sbroenne/mcp-server-excel) - Excel MCP Server & CLI \- 23 tools, 214 operations for AI\-powered Excel automation via COM API
 * 【2026-08-13】[luolangaga / tubatools](https://github.com/luolangaga/tubatools) - 图吧工具箱 winUI3 版
 * 【2026-08-12】[dpadGuy / SalsaNOW](https://github.com/dpadGuy/SalsaNOW) - SalsaNOW, the tool that sets up your GeForce NOW session experiences into local ones !
 * 【2026-08-12】[Decimation / SmartImage](https://github.com/Decimation/SmartImage) - Reverse image search tool (SauceNao, IQDB, Ascii2D, trace moe, and more)
@@ -6969,6 +6980,7 @@
 
 ## Html
 
+* 【2026-08-15】[huytieu / COG-second-brain](https://github.com/huytieu/COG-second-brain) - Self-evolving second brain with 33 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.
 * 【2026-08-14】[huytieu / COG\-second\-brain](https://github.com/huytieu/COG-second-brain) - Self\-evolving second brain with 33 AI skills, 10 agents, and people CRM  Closed\-loop harness: a V\-model verification lifecycle where the worker never grades its own homework  Plus paired anti\-slop design skills for marketing and product UI  Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex 
 * 【2026-08-13】[Jakubantalik / transitions.dev](https://github.com/Jakubantalik/transitions.dev) - Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents
 * 【2026-08-12】[cathrynlavery / diagram\-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code  Self\-contained HTML + SVG  No shadows, no Mermaid\-slop 
@@ -7670,6 +7682,7 @@
 
 ## Unknown
 
+* 【2026-08-15】[Paramchoudhary / ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) - A collection of AI agent skills focused on resume optimization, job applications, and career development  Built for job seekers, career changers, and professionals who want Claude Code to help with resume writing, ATS optimization, interview prep, and strategic job search 
 * 【2026-08-14】[shadcn / improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute 
 * 【2026-08-14】[aliyun / alibabacloud\-jindodata](https://github.com/aliyun/alibabacloud-jindodata) - alibabacloud\-jindodata
 * 【2026-08-13】[NarratorAI-Studio / narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) - AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用
@@ -8595,6 +8608,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-08-15】[jlcodes99 / cockpit\-tools](https://github.com/jlcodes99/cockpit-tools) - 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini\-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini\-cli / CodeBuddy, with multi\-account switching, quota monitoring, wake\-up automation, and multi\-insta
 * 【2026-08-13】[NVIDIA-NeMo / Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - 
 * 【2026-08-13】[AntigmaLabs / ante](https://github.com/AntigmaLabs/ante) - Ghost in your shell  Ante is a self\-contained agent harness with a highly optimized core  It works like Claude Code or Codex, with none of their dependencies or model constraints 
 * 【2026-08-11】[sopaco / deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
@@ -9710,6 +9724,8 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-08-15】[Jakubantalik / Libraries](https://github.com/Jakubantalik/Libraries) - Collection of effects for React: Border beam, Liquid Gooey
+* 【2026-08-15】[pacifio / atlas](https://github.com/pacifio/atlas) - Source control for agents  Use multiple coding agents, track they change, and query them in one place
 * 【2026-08-14】[apify / apify\-mcp\-server](https://github.com/apify/apify-mcp-server) - The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e\-commerce sites, or any other website using thousands of ready\-made scrapers, crawlers, and automation tools available on the Apify Store 
 * 【2026-08-14】[golbin / hop](https://github.com/golbin/hop) - 
 * 【2026-08-13】[holaboss\-ai / holaOS](https://github.com/holaboss-ai/holaOS) - Open\-source All in One AI agent workspace  Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory  Built\-in models or BYOK 
