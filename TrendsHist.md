@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-08-16】[cordiverse / cordis](https://github.com/cordiverse/cordis) - Meta\-Framework of Spatiotemporal Composability
+* 【2026-08-16】[MakazhanAlpamys / Soup](https://github.com/MakazhanAlpamys/Soup) - Fine\-tune LLMs from one YAML  Layer streaming trains an 8B model on a 4 GB laptop GPU 
 * 【2026-08-14】[holaboss-ai / holaOS](https://github.com/holaboss-ai/holaOS) - Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
 * 【2026-08-13】[cathrynlavery / diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 * 【2026-08-13】[NVIDIA\-NeMo / Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - 
@@ -1385,6 +1387,7 @@
 
 ## Java
 
+* 【2026-08-16】[liulangjietou / customer_work](https://github.com/liulangjietou/customer_work) - 
 * 【2026-08-15】[zhukunpenglinyutong / jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude Code and Codex GUI Plugin
 * 【2026-08-14】[jdubois / boot\-ui](https://github.com/jdubois/boot-ui) - The missing developer UI for Spring Boot and Quarkus!
 * 【2026-08-14】[aurickk / OpSec](https://github.com/aurickk/OpSec) - Minecraft mod for advanced client brand spoofing, tracking exploit protections, and other privacy focused features 
@@ -1928,6 +1931,9 @@
 
 ## Python
 
+* 【2026-08-16】[sgl\-project / sglang\-omni](https://github.com/sgl-project/sglang-omni) - SGLang\-Omni empowers high\-performance serving for TTS, ASR, speech and omni models 
+* 【2026-08-16】[titanwings / colleague\-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1 0！Transforming cold farewells into warm skills? It's giving rebirth era  Welcome to Digital Life 1 0  🫶
+* 【2026-08-16】[whiteguo233 / OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) - 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） \| Local\-first open\-source cross\-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web （support deepseek harness plugin）
 * 【2026-08-14】[index-tts / index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 * 【2026-08-14】[NVIDIA-NeMo / Automodel](https://github.com/NVIDIA-NeMo/Automodel) - 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
 * 【2026-08-13】[omnigent\-ai / omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open\-source AI agent framework and meta\-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device 
@@ -3562,6 +3568,7 @@
 
 ## Javascript
 
+* 【2026-08-16】[darkzOGx / youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) - 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!
 * 【2026-08-15】[darkzOGx / youtube\-automation\-agent](https://github.com/darkzOGx/youtube-automation-agent) - 🎬 Fully automated YouTube channel management with AI agents  Creates, optimizes & publishes videos 24/7  Works with FREE Gemini API or OpenAI  No coding required!
 * 【2026-08-15】[laoma2053 / awesome\-zhuiju\-free](https://github.com/laoma2053/awesome-zhuiju-free) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
 * 【2026-08-14】[bmad-code-org / BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
@@ -5790,6 +5797,9 @@
 
 ## C++
 
+* 【2026-08-16】[afritz1 / OpenTESArena](https://github.com/afritz1/OpenTESArena) - Open\-source re\-implementation of The Elder Scrolls: Arena 
+* 【2026-08-16】[deepseek-ai / 3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
+* 【2026-08-16】[MeisApps / pcbu\-desktop](https://github.com/MeisApps/pcbu-desktop) - Desktop app for PC Bio Unlock
 * 【2026-08-15】[safijari / openpuck](https://github.com/safijari/openpuck) - Opensource firmware for NRF52840 Pro Micro that copycats the Steam Controller 2 Puck and adds an Xbox and Switch mode
 * 【2026-08-13】[ROCm / FastFlowLM](https://github.com/ROCm/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes  Just like Ollama \- but purpose\-built and deeply optimized for the AMD NPUs 
 * 【2026-08-12】[sal063 / AC6_recomp](https://github.com/sal063/AC6_recomp) - static Recomp of AC6 with Rexglue
@@ -6367,6 +6377,7 @@
 
 ## C#
 
+* 【2026-08-16】[Unity-Technologies / skills](https://github.com/Unity-Technologies/skills) - A collection of reusable skills for AI coding agents — prompts, slash commands, and tools built for Unity workflows
 * 【2026-08-15】[Unity\-Technologies / skills](https://github.com/Unity-Technologies/skills) - A collection of reusable skills for AI coding agents — prompts, slash commands, and tools built for Unity workflows
 * 【2026-08-15】[madoiscool / LuaTools](https://github.com/madoiscool/LuaTools) - AppID Manager for ST
 * 【2026-08-15】[sbroenne / mcp\-server\-excel](https://github.com/sbroenne/mcp-server-excel) - Excel MCP Server & CLI \- 23 tools, 214 operations for AI\-powered Excel automation via COM API
@@ -6980,6 +6991,8 @@
 
 ## Html
 
+* 【2026-08-16】[Arrow\-air / project\-quiver](https://github.com/Arrow-air/project-quiver) - Project Quiver documentation, designs, and project artifacts 
+* 【2026-08-16】[L1AD / claude\-task\-viewer](https://github.com/L1AD/claude-task-viewer) - A web\-based Kanban board for viewing Claude Code tasks
 * 【2026-08-15】[huytieu / COG-second-brain](https://github.com/huytieu/COG-second-brain) - Self-evolving second brain with 33 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.
 * 【2026-08-14】[huytieu / COG\-second\-brain](https://github.com/huytieu/COG-second-brain) - Self\-evolving second brain with 33 AI skills, 10 agents, and people CRM  Closed\-loop harness: a V\-model verification lifecycle where the worker never grades its own homework  Plus paired anti\-slop design skills for marketing and product UI  Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex 
 * 【2026-08-13】[Jakubantalik / transitions.dev](https://github.com/Jakubantalik/transitions.dev) - Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents
@@ -7682,6 +7695,7 @@
 
 ## Unknown
 
+* 【2026-08-16】[cdleon / awesome\-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 * 【2026-08-15】[Paramchoudhary / ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) - A collection of AI agent skills focused on resume optimization, job applications, and career development  Built for job seekers, career changers, and professionals who want Claude Code to help with resume writing, ATS optimization, interview prep, and strategic job search 
 * 【2026-08-14】[shadcn / improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute 
 * 【2026-08-14】[aliyun / alibabacloud\-jindodata](https://github.com/aliyun/alibabacloud-jindodata) - alibabacloud\-jindodata
@@ -9724,6 +9738,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-08-16】[liustack / modlens](https://github.com/liustack/modlens) - The first vision plugin for DeepSeek Harness, and the vision bridge for every text\-only coding agent  Paste an image, get structured JSON evidence (OCR, layout, semantics)  \| 全网第一个 DeepSeek Harness 视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
 * 【2026-08-15】[Jakubantalik / Libraries](https://github.com/Jakubantalik/Libraries) - Collection of effects for React: Border beam, Liquid Gooey
 * 【2026-08-15】[pacifio / atlas](https://github.com/pacifio/atlas) - Source control for agents  Use multiple coding agents, track they change, and query them in one place
 * 【2026-08-14】[apify / apify\-mcp\-server](https://github.com/apify/apify-mcp-server) - The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e\-commerce sites, or any other website using thousands of ready\-made scrapers, crawlers, and automation tools available on the Apify Store 
