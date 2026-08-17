@@ -1387,6 +1387,8 @@
 
 ## Java
 
+* 【2026-08-17】[OWASP / www\-project\-api\-security\-testing\-framework](https://github.com/OWASP/www-project-api-security-testing-framework) - OWASP Foundation web repository
+* 【2026-08-17】[7723mod / NPatch](https://github.com/7723mod/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 * 【2026-08-16】[liulangjietou / customer_work](https://github.com/liulangjietou/customer_work) - 
 * 【2026-08-15】[zhukunpenglinyutong / jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude Code and Codex GUI Plugin
 * 【2026-08-14】[jdubois / boot\-ui](https://github.com/jdubois/boot-ui) - The missing developer UI for Spring Boot and Quarkus!
@@ -1931,6 +1933,7 @@
 
 ## Python
 
+* 【2026-08-17】[0xSero / ai\-data\-extraction](https://github.com/0xSero/ai-data-extraction) - extract all your personal data history from cursor, codex, claude\-code, windsurf, and trae
 * 【2026-08-16】[sgl\-project / sglang\-omni](https://github.com/sgl-project/sglang-omni) - SGLang\-Omni empowers high\-performance serving for TTS, ASR, speech and omni models 
 * 【2026-08-16】[titanwings / colleague\-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1 0！Transforming cold farewells into warm skills? It's giving rebirth era  Welcome to Digital Life 1 0  🫶
 * 【2026-08-16】[whiteguo233 / OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) - 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） \| Local\-first open\-source cross\-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web （support deepseek harness plugin）
@@ -3568,6 +3571,8 @@
 
 ## Javascript
 
+* 【2026-08-17】[IRNova / Nova\-Proxy](https://github.com/IRNova/Nova-Proxy) - یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران تمامی پلتفرم‌ها با استفاده از هسته‌های Amnezia، Wireguard، Sing\-box، Clash/Mihomo و Xray 
+* 【2026-08-17】[babalae / bettergi\-scripts\-list](https://github.com/babalae/bettergi-scripts-list) - BetterGI 的脚本仓库，内含BetterGI 的JS脚本、路径追踪、战斗策略、七圣召唤策略。
 * 【2026-08-16】[darkzOGx / youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) - 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!
 * 【2026-08-15】[darkzOGx / youtube\-automation\-agent](https://github.com/darkzOGx/youtube-automation-agent) - 🎬 Fully automated YouTube channel management with AI agents  Creates, optimizes & publishes videos 24/7  Works with FREE Gemini API or OpenAI  No coding required!
 * 【2026-08-15】[laoma2053 / awesome\-zhuiju\-free](https://github.com/laoma2053/awesome-zhuiju-free) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
@@ -4477,6 +4482,9 @@
 
 ## Go
 
+* 【2026-08-17】[velero-io / velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
+* 【2026-08-17】[seakee / CPA\-Manager\-Plus](https://github.com/seakee/CPA-Manager-Plus) - A self\-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health 
+* 【2026-08-17】[Gitlawb / zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules 
 * 【2026-08-15】[palemoky / chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) - 📜 诗泉：高性能中国古诗词 API 服务
 * 【2026-08-15】[oseghalep / cloud\-cost\-optimization\-hub](https://github.com/oseghalep/cloud-cost-optimization-hub) - Cloud Cost Optimization Hub is an open\-source, self\-hosted platform that provides unified cost visibility and actionable recommendations across AWS, GCP, and Azure  Features include multi\-cloud cost aggregation, rightsizing recommendations, idle resource detection, cost anomaly alerts, and an intuitive dashboard – all designed to help teams reduce 
 * 【2026-08-15】[futrx\-com / remote futrx](https://github.com/futrx-com/remote.futrx) - 
@@ -5244,6 +5252,7 @@
 
 ## C
 
+* 【2026-08-17】[Sor3nt / Flipper-Zero-ESP32-Port](https://github.com/Sor3nt/Flipper-Zero-ESP32-Port) - 
 * 【2026-08-15】[superturtlee / gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe) - No TrickyStore on Canoe
 * 【2026-08-12】[memovai / mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Harness on a $5 chip  No OS(Linux)  No Node js  No Mac mini  No Raspberry Pi  No VPS  Hardware agents OS 
 * 【2026-08-11】[rexglue / rexglue-sdk](https://github.com/rexglue/rexglue-sdk) - Xbox 360 Recompilation Runtime and Toolkit
@@ -5797,6 +5806,7 @@
 
 ## C++
 
+* 【2026-08-17】[fooyin / fooyin](https://github.com/fooyin/fooyin) - A customisable music player
 * 【2026-08-16】[afritz1 / OpenTESArena](https://github.com/afritz1/OpenTESArena) - Open\-source re\-implementation of The Elder Scrolls: Arena 
 * 【2026-08-16】[deepseek-ai / 3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 * 【2026-08-16】[MeisApps / pcbu\-desktop](https://github.com/MeisApps/pcbu-desktop) - Desktop app for PC Bio Unlock
@@ -6991,6 +7001,7 @@
 
 ## Html
 
+* 【2026-08-17】[Arrow-air / project-quiver](https://github.com/Arrow-air/project-quiver) - Project Quiver documentation, designs, and project artifacts.
 * 【2026-08-16】[Arrow\-air / project\-quiver](https://github.com/Arrow-air/project-quiver) - Project Quiver documentation, designs, and project artifacts 
 * 【2026-08-16】[L1AD / claude\-task\-viewer](https://github.com/L1AD/claude-task-viewer) - A web\-based Kanban board for viewing Claude Code tasks
 * 【2026-08-15】[huytieu / COG-second-brain](https://github.com/huytieu/COG-second-brain) - Self-evolving second brain with 33 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.
@@ -7695,6 +7706,7 @@
 
 ## Unknown
 
+* 【2026-08-17】[angelos\-p / llm\-from\-scratch](https://github.com/angelos-p/llm-from-scratch) - 
 * 【2026-08-16】[cdleon / awesome\-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 * 【2026-08-15】[Paramchoudhary / ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) - A collection of AI agent skills focused on resume optimization, job applications, and career development  Built for job seekers, career changers, and professionals who want Claude Code to help with resume writing, ATS optimization, interview prep, and strategic job search 
 * 【2026-08-14】[shadcn / improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute 
@@ -9738,6 +9750,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-08-17】[chaitanyagiri / munder\-difflin](https://github.com/chaitanyagiri/munder-difflin) - local multi\-agent harness
 * 【2026-08-16】[liustack / modlens](https://github.com/liustack/modlens) - The first vision plugin for DeepSeek Harness, and the vision bridge for every text\-only coding agent  Paste an image, get structured JSON evidence (OCR, layout, semantics)  \| 全网第一个 DeepSeek Harness 视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
 * 【2026-08-15】[Jakubantalik / Libraries](https://github.com/Jakubantalik/Libraries) - Collection of effects for React: Border beam, Liquid Gooey
 * 【2026-08-15】[pacifio / atlas](https://github.com/pacifio/atlas) - Source control for agents  Use multiple coding agents, track they change, and query them in one place
