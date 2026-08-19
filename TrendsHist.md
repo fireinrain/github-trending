@@ -1,5 +1,8 @@
 ## All language
 
+* 【2026-08-19】[chaitanyagiri / munder-difflin](https://github.com/chaitanyagiri/munder-difflin) - local multi-agent harness
+* 【2026-08-19】[NawfalMotii79 / PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open\-source, low\-cost 10 5 GHz PLFM phased array RADAR system
+* 【2026-08-19】[genlayerlabs / genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) - 
 * 【2026-08-18】[akitaonrails / ai\-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 * 【2026-08-16】[cordiverse / cordis](https://github.com/cordiverse/cordis) - Meta\-Framework of Spatiotemporal Composability
 * 【2026-08-16】[MakazhanAlpamys / Soup](https://github.com/MakazhanAlpamys/Soup) - Fine\-tune LLMs from one YAML  Layer streaming trains an 8B model on a 4 GB laptop GPU 
@@ -1936,6 +1939,7 @@
 
 ## Python
 
+* 【2026-08-19】[jewbetcha / openflight](https://github.com/jewbetcha/openflight) - 
 * 【2026-08-18】[titanwings / colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
 * 【2026-08-18】[anthropics / defending\-code\-reference\-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 * 【2026-08-17】[0xSero / ai\-data\-extraction](https://github.com/0xSero/ai-data-extraction) - extract all your personal data history from cursor, codex, claude\-code, windsurf, and trae
@@ -4487,6 +4491,8 @@
 
 ## Go
 
+* 【2026-08-19】[Gaurav\-Gosain / tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
+* 【2026-08-19】[MatinSenPai / SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner) - A light\-weight scanner for Cloudflare IPs, written in Golang
 * 【2026-08-18】[strelov1 / freehire](https://github.com/strelov1/freehire) - freehire — the open\-source search engine for job seekers
 * 【2026-08-17】[velero-io / velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 * 【2026-08-17】[seakee / CPA\-Manager\-Plus](https://github.com/seakee/CPA-Manager-Plus) - A self\-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health 
@@ -5813,6 +5819,7 @@
 
 ## C++
 
+* 【2026-08-19】[petercorke / robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) - Robotics Toolbox for Python
 * 【2026-08-18】[petercorke / robotics\-toolbox\-python](https://github.com/petercorke/robotics-toolbox-python) - Robotics Toolbox for Python
 * 【2026-08-18】[noctalia\-dev / noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland 
 * 【2026-08-18】[CalcProgrammer1 / OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software  Supports Windows, Linux, MacOS  Mirror of https://gitlab com/CalcProgrammer1/OpenRGB  Releases can be found on GitLab 
@@ -7718,6 +7725,7 @@
 
 ## Unknown
 
+* 【2026-08-19】[QwenLM / Qwen3 8](https://github.com/QwenLM/Qwen3.8) - Qwen3 8 is the large language model series developed by Qwen team, Alibaba Group 
 * 【2026-08-18】[12britz / awesome\-free\-models](https://github.com/12britz/awesome-free-models) - A curated list of free AI models, APIs, and tools you can use without paying a cent 
 * 【2026-08-18】[hanlulong / awesome\-ai\-for\-economists](https://github.com/hanlulong/awesome-ai-for-economists) - A curated list of AI tools, libraries, and resources for economics research, teaching, and policy analysis  Maintained by the OpenEcon team 
 * 【2026-08-17】[angelos\-p / llm\-from\-scratch](https://github.com/angelos-p/llm-from-scratch) - 
@@ -8648,6 +8656,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-08-19】[jlcodes99 / cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta
 * 【2026-08-18】[akitaonrails / ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 * 【2026-08-18】[Sollimann / bonsai](https://github.com/Sollimann/bonsai) - Rust implementation of behavior trees for deterministic AI (now with Python bindings)
 * 【2026-08-15】[jlcodes99 / cockpit\-tools](https://github.com/jlcodes99/cockpit-tools) - 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini\-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini\-cli / CodeBuddy, with multi\-account switching, quota monitoring, wake\-up automation, and multi\-insta
