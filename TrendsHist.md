@@ -1,5 +1,7 @@
 ## All language
 
+* 【2026-08-20】[amadeusprotocol / node](https://github.com/amadeusprotocol/node) - 
+* 【2026-08-20】[marceloprates / prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 * 【2026-08-19】[chaitanyagiri / munder-difflin](https://github.com/chaitanyagiri/munder-difflin) - local multi-agent harness
 * 【2026-08-19】[NawfalMotii79 / PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open\-source, low\-cost 10 5 GHz PLFM phased array RADAR system
 * 【2026-08-19】[genlayerlabs / genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) - 
@@ -1939,6 +1941,8 @@
 
 ## Python
 
+* 【2026-08-20】[youssofal / MTPLX](https://github.com/youssofal/MTPLX) - 3x faster speeds on MLX \| Qwen 3 8 27B \| Native MTP Speculative Decoding On Apple Silicon With No External Drafter 
+* 【2026-08-20】[AgriciDaniel / claude\-ads](https://github.com/AgriciDaniel/claude-ads) - Claude\-first paid\-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source\-grounded audits, deterministic scoring, versioned JSON reports, and capability\-gated account changes 
 * 【2026-08-19】[jewbetcha / openflight](https://github.com/jewbetcha/openflight) - 
 * 【2026-08-18】[titanwings / colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
 * 【2026-08-18】[anthropics / defending\-code\-reference\-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
@@ -3580,6 +3584,7 @@
 
 ## Javascript
 
+* 【2026-08-20】[WhatDreamsCost / WhatDreamsCost\-ComfyUI](https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI) - LTX Director and a variety of other custom ComfyUI nodes and workflows
 * 【2026-08-17】[IRNova / Nova\-Proxy](https://github.com/IRNova/Nova-Proxy) - یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران تمامی پلتفرم‌ها با استفاده از هسته‌های Amnezia، Wireguard، Sing\-box، Clash/Mihomo و Xray 
 * 【2026-08-17】[babalae / bettergi\-scripts\-list](https://github.com/babalae/bettergi-scripts-list) - BetterGI 的脚本仓库，内含BetterGI 的JS脚本、路径追踪、战斗策略、七圣召唤策略。
 * 【2026-08-16】[darkzOGx / youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) - 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!
@@ -4491,6 +4496,8 @@
 
 ## Go
 
+* 【2026-08-20】[google / sam](https://github.com/google/sam) - SAM Sovereign Agent Mesh
+* 【2026-08-20】[ongridio / ongrid](https://github.com/ongridio/ongrid) - An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk 
 * 【2026-08-19】[Gaurav\-Gosain / tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
 * 【2026-08-19】[MatinSenPai / SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner) - A light\-weight scanner for Cloudflare IPs, written in Golang
 * 【2026-08-18】[strelov1 / freehire](https://github.com/strelov1/freehire) - freehire — the open\-source search engine for job seekers
@@ -5819,6 +5826,8 @@
 
 ## C++
 
+* 【2026-08-20】[mrxenginner / reVC](https://github.com/mrxenginner/reVC) - Reverse engineering the classic GTA Vice City game
+* 【2026-08-20】[intel / llm-scaler](https://github.com/intel/llm-scaler) - 
 * 【2026-08-19】[petercorke / robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) - Robotics Toolbox for Python
 * 【2026-08-18】[petercorke / robotics\-toolbox\-python](https://github.com/petercorke/robotics-toolbox-python) - Robotics Toolbox for Python
 * 【2026-08-18】[noctalia\-dev / noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland 
@@ -6404,6 +6413,9 @@
 
 ## C#
 
+* 【2026-08-20】[snownico0722 / PaperTodo](https://github.com/snownico0722/PaperTodo) - 极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool  It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop  Native WPF, with support for to\-dos and Markdown 
+* 【2026-08-20】[codewithmukesh / dotnet-claude-kit](https://github.com/codewithmukesh/dotnet-claude-kit) - Make Claude Code a .NET 10 Expert
+* 【2026-08-20】[MrDiamond64 / Hydra](https://github.com/MrDiamond64/Hydra) - An Among Us utility and anticheat mod to enhance the Among Us playing experience
 * 【2026-08-18】[database64128 / youtube-dl-wpf](https://github.com/database64128/youtube-dl-wpf) - WPF GUI for youtube-dl and yt-dlp.
 * 【2026-08-18】[Bannerlord\-Coop\-Team / BannerlordCoop](https://github.com/Bannerlord-Coop-Team/BannerlordCoop) - 
 * 【2026-08-16】[Unity-Technologies / skills](https://github.com/Unity-Technologies/skills) - A collection of reusable skills for AI coding agents — prompts, slash commands, and tools built for Unity workflows
@@ -7020,6 +7032,7 @@
 
 ## Html
 
+* 【2026-08-20】[MengTo / Skills](https://github.com/MengTo/Skills) - Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents
 * 【2026-08-17】[Arrow-air / project-quiver](https://github.com/Arrow-air/project-quiver) - Project Quiver documentation, designs, and project artifacts.
 * 【2026-08-16】[Arrow\-air / project\-quiver](https://github.com/Arrow-air/project-quiver) - Project Quiver documentation, designs, and project artifacts 
 * 【2026-08-16】[L1AD / claude\-task\-viewer](https://github.com/L1AD/claude-task-viewer) - A web\-based Kanban board for viewing Claude Code tasks
@@ -7725,6 +7738,8 @@
 
 ## Unknown
 
+* 【2026-08-20】[QwenLM / Qwen3.8](https://github.com/QwenLM/Qwen3.8) - Qwen3.8 is the large language model series developed by Qwen team, Alibaba Group.
+* 【2026-08-20】[12britz / awesome-free-models](https://github.com/12britz/awesome-free-models) - A curated list of free AI models, APIs, and tools you can use without paying a cent.
 * 【2026-08-19】[QwenLM / Qwen3 8](https://github.com/QwenLM/Qwen3.8) - Qwen3 8 is the large language model series developed by Qwen team, Alibaba Group 
 * 【2026-08-18】[12britz / awesome\-free\-models](https://github.com/12britz/awesome-free-models) - A curated list of free AI models, APIs, and tools you can use without paying a cent 
 * 【2026-08-18】[hanlulong / awesome\-ai\-for\-economists](https://github.com/hanlulong/awesome-ai-for-economists) - A curated list of AI tools, libraries, and resources for economics research, teaching, and policy analysis  Maintained by the OpenEcon team 
@@ -9775,6 +9790,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-08-20】[eneskirca / nodeterm](https://github.com/eneskirca/nodeterm) - Node\-based terminal manager for AI coding agents — tmux\-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas  macOS, Linux, and a browser Server Edition 
 * 【2026-08-17】[chaitanyagiri / munder\-difflin](https://github.com/chaitanyagiri/munder-difflin) - local multi\-agent harness
 * 【2026-08-16】[liustack / modlens](https://github.com/liustack/modlens) - The first vision plugin for DeepSeek Harness, and the vision bridge for every text\-only coding agent  Paste an image, get structured JSON evidence (OCR, layout, semantics)  \| 全网第一个 DeepSeek Harness 视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
 * 【2026-08-15】[Jakubantalik / Libraries](https://github.com/Jakubantalik/Libraries) - Collection of effects for React: Border beam, Liquid Gooey
