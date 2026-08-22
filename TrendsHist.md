@@ -1,5 +1,6 @@
 ## All language
 
+* 【2026-08-22】[mahlernim / google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) - Visualize your year in travel using your Google Location History (Timeline) data
 * 【2026-08-21】[modular / modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 * 【2026-08-21】[mahlernim / google\-timeline\-visualizer](https://github.com/mahlernim/google-timeline-visualizer) - Visualize your year in travel using your Google Location History (Timeline) data
 * 【2026-08-20】[amadeusprotocol / node](https://github.com/amadeusprotocol/node) - 
@@ -1944,6 +1945,7 @@
 
 ## Python
 
+* 【2026-08-22】[forcedotcom / sf\-skills](https://github.com/forcedotcom/sf-skills) - Salesforce's curated collection of agent skills for building applications  Optimized for Agentforce Vibes, compatible with all AI tools 
 * 【2026-08-21】[Osmantic / ODS](https://github.com/Osmantic/ODS) - Turn your PC, Mac, or Linux box into an AI server  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation 
 * 【2026-08-21】[ATH-MaaS / Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 * 【2026-08-20】[youssofal / MTPLX](https://github.com/youssofal/MTPLX) - 3x faster speeds on MLX \| Qwen 3 8 27B \| Native MTP Speculative Decoding On Apple Silicon With No External Drafter 
@@ -3589,6 +3591,8 @@
 
 ## Javascript
 
+* 【2026-08-22】[chuspeeism / dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
+* 【2026-08-22】[cloudflare / security\-audit\-skill](https://github.com/cloudflare/security-audit-skill) - A coding\-agent skill for multi\-phase security audits with independently verified, machine\-readable findings
 * 【2026-08-21】[chuspeeism / dashi\-ppt\-skill](https://github.com/chuspeeism/dashi-ppt-skill) - An AI\-agent skill that generates browser\-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX 
 * 【2026-08-20】[WhatDreamsCost / WhatDreamsCost\-ComfyUI](https://github.com/WhatDreamsCost/WhatDreamsCost-ComfyUI) - LTX Director and a variety of other custom ComfyUI nodes and workflows
 * 【2026-08-17】[IRNova / Nova\-Proxy](https://github.com/IRNova/Nova-Proxy) - یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران تمامی پلتفرم‌ها با استفاده از هسته‌های Amnezia، Wireguard، Sing\-box، Clash/Mihomo و Xray 
@@ -5833,6 +5837,8 @@
 
 ## C++
 
+* 【2026-08-22】[OpenHD / OpenHD](https://github.com/OpenHD/OpenHD) - OpenHD
+* 【2026-08-22】[charlie12345 / ROCmFPX](https://github.com/charlie12345/ROCmFPX) - ROCmFPX Family for AMD Hardware and Processors  More quants and special agent quants
 * 【2026-08-20】[mrxenginner / reVC](https://github.com/mrxenginner/reVC) - Reverse engineering the classic GTA Vice City game
 * 【2026-08-20】[intel / llm-scaler](https://github.com/intel/llm-scaler) - 
 * 【2026-08-19】[petercorke / robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) - Robotics Toolbox for Python
@@ -8678,6 +8684,7 @@
 * 【2024-02-01】[holoiso-staging / releases](https://github.com/holoiso-staging/releases) - To whom shall install
 ## Rust
 
+* 【2026-08-22】[Nasiko\-Labs / nasiko](https://github.com/Nasiko-Labs/nasiko) - Developer Control Plane for your AI Agents
 * 【2026-08-21】[WecomTeam / wecom\-cli](https://github.com/WecomTeam/wecom-cli) - 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信
 * 【2026-08-19】[jlcodes99 / cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta
 * 【2026-08-18】[akitaonrails / ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
@@ -9798,6 +9805,7 @@
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 ## Typescript
 
+* 【2026-08-22】[ahmadrosid / nakama](https://github.com/ahmadrosid/nakama) - It's like Hermes Agent & OpenClaw but designed to work nicely with teams 
 * 【2026-08-21】[apache / maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a local\-first AI agent workspace  Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append\-only log 
 * 【2026-08-21】[bookorbit / bookorbit](https://github.com/bookorbit/bookorbit) - BookOrbit: Your Reading Space
 * 【2026-08-20】[eneskirca / nodeterm](https://github.com/eneskirca/nodeterm) - Node\-based terminal manager for AI coding agents — tmux\-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas  macOS, Linux, and a browser Server Edition 
