@@ -20,7 +20,7 @@
 - 推送去重判断，防止 Telegram 消息重复推送
 - 每日推送结束消息 + 随机祝福语
 - 周末（周六、周日）自动汇总本周上榜仓库，生成 telegra.ph 媒体周报并推送频道；文章地址存入数据库，并附在当日的推送结束问候语中
-- 每周更新一次固定的 telegra.ph 数据统计页（语言分布 + 各语言 Star/上榜次数 Top 榜），页面原地刷新并展示数据更新日期
+- 每天更新一次固定的 telegra.ph 数据统计页（语言分布 + 各语言 Star/上榜次数 Top50），页面原地刷新并展示数据更新日期；统计页地址自动回写到本 README（见下方「📊 固定统计页」区块）
 
 ## 环境变量
 
@@ -35,7 +35,7 @@
 
 ## 运行
 
-**自动运行**：push 到 master 或每日 cron（`0 2 * * *`）触发 [.github/workflows/schedule.yml](.github/workflows/schedule.yml)。周末会额外生成本周热榜周报，周报地址会附在当日的推送结束问候语中。
+**自动运行**：push 到 master 或每日 cron（`0 2 * * *`）触发 [.github/workflows/schedule.yml](.github/workflows/schedule.yml)。每天会自动更新 telegra.ph 固定统计页并把地址回写到本 README；周末会额外生成本周热榜周报，周报地址会附在当日的推送结束问候语中。
 
 **本地运行**：
 
@@ -50,13 +50,12 @@ python patch_db.py        # 补录缺失的仓库统计数据
 
 ```
 ├── main.py           # 主流程：抓取 -> 入库 -> 推送
-├── tgph_report.py    # 每周 telegra.ph 热榜周报
+├── tgph_report.py    # 每周 telegra.ph 周报 + 每日固定统计页(Top50)
 ├── telegrambot.py    # Telegram 消息推送 & MarkdownV2 转义
 ├── database.py       # SQLAlchemy 模型(gh_trending/every_day_bless/weekly_report)
 ├── bless.py          # 每日祝福语与日期格式化
 ├── patch_db.py       # 仓库统计数据补录
 ├── addstar.py        # 为归档 Markdown 追加 star 徽章
-└── archived/         # 历史榜单按月归档
 ```
 
 ## 更新记录
@@ -70,3 +69,5 @@ python patch_db.py        # 补录缺失的仓库统计数据
 7. 加入每日推送结束和随机祝福语
 8. 加入每周热榜 telegra.ph 媒体周报，文章地址入库保存
 9. 移除 TrendsHist.md 归档逻辑，历史数据统一由数据库与 archived/ 目录承载
+10. 统计页升级为每日自动更新（各语言 Top50），地址回写 README.md；修复 Actions 中已废弃的 set-output 语法导致变更从未推送的问题
+11. tgph_report.py 重命名 update_weekly_stats_page -> update_daily_stats_page（同日跳过、force 强刷）

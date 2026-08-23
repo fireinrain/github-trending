@@ -13,7 +13,7 @@ import database
 import telegrambot
 from telegrambot import escape_markdown_v2
 from bless import generate_bless_word, format_bless_for_tgchannel2
-from tgph_report import generate_weekly_report, is_weekend, update_weekly_stats_page
+from tgph_report import generate_weekly_report, is_weekend, update_daily_stats_page
 
 ua = UserAgent()
 
@@ -323,11 +323,11 @@ async def main():
             weekly_report_url,week_range = await generate_weekly_report()
         except Exception as e:
             print(f">>> 生成本周周报失败: {e}")
-        # 每周更新一次固定统计页(语言分布 + 各语言 Top 榜)
-        try:
-            await update_weekly_stats_page()
-        except Exception as e:
-            print(f">>> 更新统计页失败: {e}")
+    # 每天更新固定统计页(语言分布 + 各语言 Top50), 并把地址回写到 README.md
+    try:
+        await update_daily_stats_page()
+    except Exception as e:
+        print(f">>> 更新统计页失败: {e}")
     # 推送每日推送结束问候语(周末生成周报时附带周报地址)
     await push_every_day_end(new_trending_count, weekly_report_url,week_range)
     # release db connection

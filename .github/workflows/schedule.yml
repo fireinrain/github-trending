@@ -39,8 +39,12 @@ jobs:
     - name: Check for changes
       id: git-status
       run: |
-        git diff --exit-code || echo "::set-output name=changed::true"
-      continue-on-error: true
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          echo ">>> 检测到文件变更, 需要提交推送"
+        else
+          echo ">>> 无文件变更, 跳过推送"
+        fi
 
     # Runs a set of commands using the runners shell
     - name: Push to origin master
@@ -49,7 +53,8 @@ jobs:
         echo start push
         git config --global user.name "fireinrain"
         git config --global user.email "lzyme.dev@gmail.com"
-        
+
         git add -A
         git commit -m $(date '+%Y-%m-%d')
+        git pull --rebase origin master
         git push

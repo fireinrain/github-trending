@@ -6,7 +6,8 @@
 3. 将返回的文章地址保存到 weekly_report 表(本周已生成过则直接复用,防止重复)
 4. 推送文章地址到 Telegram 频道
 
-由 main.py 在周末自动调用, 生成的周报地址会附在当日的推送结束问候语中;
+由 main.py 自动调用: 每日抓取后更新固定统计页(语言分布 + 各语言 Top50)并把地址回写 README.md;
+周末额外生成 telegra.ph 媒体周报, 周报地址附在当日推送结束问候语中;
 也可手动运行: python tgph_report.py
 """
 import asyncio
@@ -204,7 +205,7 @@ async def generate_weekly_report() -> (str, str):
 # ==================== 固定统计页 ====================
 
 STATS_PAGE_TITLE = '📊 GitHub Trending 数据统计'
-TOP_N_PER_LANGUAGE = 30
+TOP_N_PER_LANGUAGE = 50
 BAR_WIDTH = 16
 
 
@@ -292,7 +293,7 @@ def build_stats_content(repos: list, update_date: str) -> list:
         nodes.append({'tag': 'ul', 'children': repo_nodes})
 
     nodes.append({'tag': 'hr'})
-    nodes.append({'tag': 'p', 'children': [{'tag': 'i', 'children': ['🤖 由 GitHub Actions 每周自动更新']}]})
+    nodes.append({'tag': 'p', 'children': [{'tag': 'i', 'children': ['🤖 由 GitHub Actions 每日自动更新']}]})
     return nodes
 
 
@@ -350,6 +351,7 @@ def write_stats_page_to_readme(telegraph_url: str, update_date: str):
     """
     统计页更新后把地址回写到 README.md。
     使用标记块定位, 已存在则原位刷新(地址/日期), 不存在则插入到 '## 功能' 之前。
+    回写结果由 GitHub Actions 工作流提交推送后才会展示在仓库首页。
     """
     try:
         with open(README_PATH, mode='r', encoding='utf-8') as f:
@@ -360,7 +362,7 @@ def write_stats_page_to_readme(telegraph_url: str, update_date: str):
 
     block = (f'{STATS_BLOCK_START}\n'
              f'📊 固定统计页: [{STATS_PAGE_TITLE}]({telegraph_url})\n'
-             f'> 语言分布 · 各语言 ⭐Star/🔥上榜次数 Top 榜 · 每周自动更新  \n'
+             f'> 语言分布 · 各语言 ⭐Star/🔥上榜次数 Top50 榜 · 每日自动更新  \n'
              f'> 最近数据更新: **{update_date}**\n'
              f'{STATS_BLOCK_END}')
 
@@ -380,18 +382,19 @@ def write_stats_page_to_readme(telegraph_url: str, update_date: str):
         print(f">>> 回写 README.md 失败: {e}")
 
 
-async def update_weekly_stats_page(force: bool = False) -> str:
+async def update_daily_stats_page(force: bool = False) -> str:
     """
-    创建或原地更新固定统计页, 每周最多更新一次(同周内跳过), 返回页面地址。
-    force=True 时忽略同周判断强制刷新。
+    创建或原地更新固定统计页, 每天最多更新一次(同日内跳过), 返回页面地址,
+    并把统计页地址回写到 README.md(随工作流提交推送后展示在仓库首页)。
+    force=True 时忽略同日判断强制刷新。
     """
     monday, sunday = get_week_range()
     week_start = monday.strftime('%Y-%m-%d')
     update_date = datetime.date.today().strftime('%Y-%m-%d')
 
     record = database.session.query(database.StatsPage).first()
-    if not force and record and record.week_start == week_start:
-        print(f">>> 本周统计页已更新过, 跳过: {record.url}")
+    if not force and record and record.last_update_date == update_date:
+        print(f">>> 今日({update_date})统计页已更新过, 跳过: {record.url}")
         return record.url
 
     repos = query_all_trending()
@@ -418,4 +421,4 @@ async def update_weekly_stats_page(force: bool = False) -> str:
 
 if __name__ == '__main__':
     asyncio.run(generate_weekly_report())
-    asyncio.run(update_weekly_stats_page(force=True))
+    asyncio.run(update_daily_stats_page(force=True))
