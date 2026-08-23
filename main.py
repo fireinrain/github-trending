@@ -254,7 +254,7 @@ async def patch_db_with_repo_info():
         await asyncio.sleep(5)
 
 
-async def push_every_day_end(new_trending_count: int, weekly_report_url: str = ''):
+async def push_every_day_end(new_trending_count: int, weekly_report_url: str = '',week_range: str = ''):
     bless_first = database.session.query(EveryDayBless).first()
     if not bless_first:
         bless = EveryDayBless(push_flag=False)
@@ -280,7 +280,7 @@ async def push_every_day_end(new_trending_count: int, weekly_report_url: str = '
         if not flag:
             # do push and update record
             word = generate_bless_word()
-            for_tgchannel = format_bless_for_tgchannel2(word, new_trending_count, weekly_report_url)
+            for_tgchannel = format_bless_for_tgchannel2(word, new_trending_count, weekly_report_url,week_range)
             await telegrambot.send_message2bot(for_tgchannel)
             bless_first.push_flag = True
             try:
@@ -320,7 +320,7 @@ async def main():
     weekly_report_url = ''
     if is_weekend():
         try:
-            weekly_report_url = await generate_weekly_report()
+            weekly_report_url,week_range = await generate_weekly_report()
         except Exception as e:
             print(f">>> 生成本周周报失败: {e}")
         # 每周更新一次固定统计页(语言分布 + 各语言 Top 榜)
@@ -329,7 +329,7 @@ async def main():
         except Exception as e:
             print(f">>> 更新统计页失败: {e}")
     # 推送每日推送结束问候语(周末生成周报时附带周报地址)
-    await push_every_day_end(new_trending_count, weekly_report_url)
+    await push_every_day_end(new_trending_count, weekly_report_url,week_range)
     # release db connection
     database.session.close()
 

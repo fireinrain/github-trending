@@ -148,6 +148,7 @@ def publish_weekly_report(title: str, content: list) -> str:
     })
     return result['url']
 
+
 def save_report_to_db(title: str, monday: datetime.date, sunday: datetime.date,
                       repo_count: int, telegraph_url: str):
     record = database.WeeklyReport(
@@ -166,7 +167,7 @@ def save_report_to_db(title: str, monday: datetime.date, sunday: datetime.date,
         database.session.rollback()
 
 
-async def generate_weekly_report() -> str:
+async def generate_weekly_report() -> (str, str):
     """
     生成本周周报并推送, 返回 telegra.ph 地址;
     本周没有数据返回空串, 已生成过则直接返回已有地址。
@@ -190,14 +191,14 @@ async def generate_weekly_report() -> str:
     save_report_to_db(title, monday, sunday, len(repos), telegraph_url)
 
     safe_range = escape_markdown_v2(f'{monday} ~ {sunday}')
-    message = (f'📰 GitHub Trending 周报 \({safe_range}\)\n'
-               f'\n'
-               f'本周共有 `{len(repos)}` 个仓库登上热榜, 完整报告请戳:\n'
-               f'[📖 点击阅读本周周报]({telegraph_url})\n'
-               f'\n'
-               f'\#weekly\_report')
-    await telegrambot.send_message2bot(message)
-    return telegraph_url
+    # message = (f'📰 GitHub Trending 周报 \({safe_range}\)\n'
+    #            f'\n'
+    #            f'本周共有 `{len(repos)}` 个仓库登上热榜, 完整报告请戳:\n'
+    #            f'[📖 点击阅读本周周报]({telegraph_url})\n'
+    #            f'\n'
+    #            f'\#weekly\_report')
+    # await telegrambot.send_message2bot(message)
+    return telegraph_url, safe_range
 
 
 # ==================== 固定统计页 ====================
