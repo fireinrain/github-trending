@@ -17,6 +17,7 @@ jobs:
       TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
       TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN}}
       GH_TOKEN: ${{ secrets.GH_TOKEN}}
+      TELEGRAPH_TOKEN: ${{ secrets.TELEGRAPH_TOKEN }}
     steps:
     - name: Checkout
       uses: actions/checkout@v2

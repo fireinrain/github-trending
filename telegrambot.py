@@ -17,7 +17,19 @@ else:
     print(f"you must provide a chat_id!")
 
 
+def escape_markdown_v2(text: str) -> str:
+    """
+    转义 Telegram MarkdownV2 要求的全部特殊字符
+    """
+    if not text:
+        return ''
+    special_chars = '_*[]()~`>#+-=|{}.!'
+    return ''.join('\\' + ch if ch in special_chars else ch for ch in text)
+
+
 async def send_message2bot(message: str):
+    if not BOT_TOKEN or not CHAT_ID:
+        raise RuntimeError("TG_BOT_TOKEN / TG_CHAT_ID 环境变量未配置,无法推送消息")
     bot = Bot(BOT_TOKEN)
     async with bot:
         # print(await bot.get_me())

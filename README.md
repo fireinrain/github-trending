@@ -13,7 +13,54 @@
 ![](resource/sample1.jpg)
 ![](resource/sample2.jpg)
 
-更新:
+## 功能
+- 每日定时抓取多语言 GitHub Trending 榜单（All/Java/Python/Go/Javascript/Typescript/C/C++/C#/Rust/Html）
+- 新上榜仓库实时推送到 Telegram 频道，附带 watch/fork/star 统计数据
+- SQLite 数据库存档所有上榜记录（上榜次数、仓库统计、失效标记）
+- 推送去重判断，防止 Telegram 消息重复推送
+- 每日推送结束消息 + 随机祝福语
+- 周末（周六、周日）自动汇总本周上榜仓库，生成 telegra.ph 媒体周报并推送频道；文章地址存入数据库，并附在当日的推送结束问候语中
+- 每周更新一次固定的 telegra.ph 数据统计页（语言分布 + 各语言 Star/上榜次数 Top 榜），页面原地刷新并展示数据更新日期
+
+## 环境变量
+
+通过 GitHub Secrets（或本地环境变量）配置：
+
+| 变量 | 说明 | 必填 |
+| --- | --- | --- |
+| `TG_CHAT_ID` | Telegram 频道/聊天 ID | 是 |
+| `TG_BOT_TOKEN` | Telegram Bot Token | 是 |
+| `GH_TOKEN` | GitHub Token（提升 API 限额） | 否 |
+| `TELEGRAPH_TOKEN` | telegra.ph Token（固定周报作者与统计页账号，强烈建议配置）；未配置时自动注册并保存到数据库 | 否 |
+
+## 运行
+
+**自动运行**：push 到 master 或每日 cron（`0 2 * * *`）触发 [.github/workflows/schedule.yml](.github/workflows/schedule.yml)。周末会额外生成本周热榜周报，周报地址会附在当日的推送结束问候语中。
+
+**本地运行**：
+
+```bash
+pip install -r requirements.txt
+python main.py            # 抓取榜单并推送 Telegram 频道（周末自动附带周报与统计页更新）
+python tgph_report.py     # 手动生成本周 telegra.ph 周报并强制刷新统计页
+python patch_db.py        # 补录缺失的仓库统计数据
+```
+
+## 项目结构
+
+```
+├── main.py           # 主流程：抓取 -> 入库 -> 推送
+├── tgph_report.py    # 每周 telegra.ph 热榜周报
+├── telegrambot.py    # Telegram 消息推送 & MarkdownV2 转义
+├── database.py       # SQLAlchemy 模型(gh_trending/every_day_bless/weekly_report)
+├── bless.py          # 每日祝福语与日期格式化
+├── patch_db.py       # 仓库统计数据补录
+├── addstar.py        # 为归档 Markdown 追加 star 徽章
+└── archived/         # 历史榜单按月归档
+```
+
+## 更新记录
+
 1. 加入telegram 消息推送
 2. 加入sqlite数据库支持
 3. 加入上榜次数统计
@@ -21,7 +68,5 @@
 5. 加入仓库统计数据
 6. 加入仓库失效标记
 7. 加入每日推送结束和随机祝福语
-
-## 历史数据
-
-[TrendsHist](TrendsHist.md)
+8. 加入每周热榜 telegra.ph 媒体周报，文章地址入库保存
+9. 移除 TrendsHist.md 归档逻辑，历史数据统一由数据库与 archived/ 目录承载

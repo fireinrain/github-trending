@@ -1,3 +1,5 @@
+import os
+
 import requests
 
 
@@ -16,15 +18,14 @@ def fetch_repo_star_info(owner, repo, token):
         watchers_count = repo_data.get('subscribers_count', 0)
         forks_count = repo_data.get('forks_count', 0)
         stars_count = repo_data.get('stargazers_count', 0)
-        return star_count
+        return stars_count
 
     except requests.exceptions.RequestException as e:
         print(f"Error fetching repository data: {e}")
         return None
 
 
-# Replace 'YOUR_GITHUB_TOKEN', 'owner', and 'repo' with your actual GitHub token, repository owner, and repository name
-github_token = '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'
+github_token = os.environ.get('GH_TOKEN')
 repo_owner = 'fmtlib'
 repo_name = 'fmt'
 

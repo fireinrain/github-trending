@@ -11,7 +11,9 @@ from datetime import datetime
 from database import GithubTrending, EveryDayBless
 import database
 import telegrambot
+from telegrambot import escape_markdown_v2
 from bless import generate_bless_word, format_bless_for_tgchannel2
+from tgph_report import generate_weekly_report, is_weekend, update_weekly_stats_page
 
 ua = UserAgent()
 
@@ -91,89 +93,6 @@ def scrape_lang(language):
     return result
 
 
-def write_markdown(lang, results, archived_contents):
-    """
-    Write the results to markdown file
-    """
-    content = ''
-    with open('TrendsHist.md', mode='r', encoding='utf-8') as f:
-        content = f.read()
-    content = convert_file_contenet(content, lang, results, archived_contents)
-    with open('TrendsHist.md', mode='w', encoding='utf-8') as f:
-        f.write(content)
-
-
-def is_title_exist(title, content, archived_contents):
-    if '[' + title + ']' in content:
-        return True
-    for archived_content in archived_contents:
-        if '[' + title + ']' in archived_content:
-            return True
-    return False
-
-
-def convert_file_contenet(content, lang, results, archived_contents):
-    """
-    Add distinct results to content
-    """
-    distinct_results = []
-    for title, result in results.items():
-        if not is_title_exist(title, content, archived_contents):
-            distinct_results.append(result)
-
-    if not distinct_results:
-        print('>>> There is no distinct results')
-        return content
-
-    lang_title = convert_lang_title(lang)
-    if lang_title not in content:
-        content = content + lang_title + '\n\n'
-
-    return content.replace(lang_title + '\n\n', lang_title + '\n\n' + convert_result_content(distinct_results))
-
-
-def convert_result_content(results):
-    """
-    Format all results to a string
-    """
-    strdate = datetime.now().strftime('%Y-%m-%d')
-    content = ''
-    for result in results:
-        content = content + u"* 【{strdate}】[{title}]({url}) - {description}\n".format(
-            strdate=strdate, title=result['title'], url=result['url'],
-            description=format_description(result['description']))
-    return content
-
-
-def format_description(description):
-    """
-    Remove new line characters
-    """
-    if not description:
-        return ''
-    return description.replace('\r', '').replace('\n', '')
-
-
-def convert_lang_title(lang):
-    """
-    Lang title
-    """
-    if lang == '':
-        return '## All language'
-    return '## ' + lang.capitalize()
-
-
-def get_archived_contents():
-    archived_contents = []
-    archived_files = os.listdir('./archived')
-    for file in archived_files:
-        content = ''
-        with open('./archived/' + file, mode='r', encoding='utf-8') as f:
-            content = f.read()
-        archived_contents.append(content)
-    return archived_contents
-
-
 def format_date2_tg_message(message: dict, lang: str, repo_statics: tuple) -> str:
     current_date = datetime.now()
     # 'java', 'python', 'go', 'javascript', 'typescript', 'c', 'c++', 'c#', 'rust', 'html', 'unknown'
@@ -195,27 +114,12 @@ def format_date2_tg_message(message: dict, lang: str, repo_statics: tuple) -> st
     # 格式化日期为"20201112"形式
     formatted_date = current_date.strftime("%Y%m%d")
     lang = format_lang_map[temp_lang.strip()]
-    if '|' in message['title'] or '|' in message['description']:
-        message['title'] = message['title'].replace('|', '\|')
-        message['description'] = message['description'].replace('|', '\|')
+    # 使用副本做转义,避免污染原始数据(归档markdown会用到原始title)
+    escaped_title = escape_markdown_v2(message['title'])
+    escaped_description = escape_markdown_v2(message['description'])
 
-    if '#' in message['title'] or '#' in message['description']:
-        message['title'] = message['title'].replace('#', '\#')
-        message['description'] = message['description'].replace('#', '\#')
-
-    if '-' in message['title'] or '-' in message['description']:
-        message['title'] = message['title'].replace('-', '\-')
-        message['description'] = message['description'].replace('-', '\-')
-
-    if '.' in message['title'] or '.' in message['description']:
-        message['title'] = message['title'].replace('.', ' ')
-        message['description'] = message['description'].replace('.', ' ')
-    if '`' in message['title'] or '`' in message['description']:
-        message['title'] = message['title'].replace('`', ' ')
-        message['description'] = message['description'].replace('`', ' ')
-
-    return (f"`{message['title']}`\n"
-            f"`{message['description']}`\n"
+    return (f"`{escaped_title}`\n"
+            f"`{escaped_description}`\n"
             f"[Repo URL]({message['url']}) \| `👀{repo_statics[0]}` `🍴{repo_statics[1]}` `⭐{repo_statics[2]}`\n"
             f"\#D{formatted_date} \#D{formatted_date}\_{lang} \#{lang}")
 
@@ -248,6 +152,9 @@ def check_and_store_db(value: dict, lang: str) -> (dict, bool, tuple):
     # insert to db
     # 获取当前日期
     repo_statics = fetch_repo_statics(value['title'])
+    if repo_statics is None:
+        print(f">>> 获取仓库信息失败,使用默认数据入库: {value['title']}")
+        repo_statics = (0, 0, 0, False)
     print(f">>> 当前仓库信息: {repo_statics}")
     current_date = datetime.now()
 
@@ -347,18 +254,19 @@ async def patch_db_with_repo_info():
         await asyncio.sleep(5)
 
 
-async def push_every_day_end(new_trending_count: int):
+async def push_every_day_end(new_trending_count: int, weekly_report_url: str = ''):
     bless_first = database.session.query(EveryDayBless).first()
     if not bless_first:
         bless = EveryDayBless(push_flag=False)
         try:
+            database.session.add(bless)
             database.session.commit()
         except Exception as e:
             print(f"创建记录失败: {e}")
             database.session.rollback()
         # do push and update record
         word = generate_bless_word()
-        for_tgchannel = format_bless_for_tgchannel2(word, new_trending_count)
+        for_tgchannel = format_bless_for_tgchannel2(word, new_trending_count, weekly_report_url)
         await telegrambot.send_message2bot(for_tgchannel)
         bless.push_flag = True
         try:
@@ -372,9 +280,9 @@ async def push_every_day_end(new_trending_count: int):
         if not flag:
             # do push and update record
             word = generate_bless_word()
-            for_tgchannel = format_bless_for_tgchannel2(word, new_trending_count)
+            for_tgchannel = format_bless_for_tgchannel2(word, new_trending_count, weekly_report_url)
             await telegrambot.send_message2bot(for_tgchannel)
-            bless_first.push_flag = False
+            bless_first.push_flag = True
             try:
                 database.session.commit()
             except Exception as e:
@@ -382,14 +290,10 @@ async def push_every_day_end(new_trending_count: int):
                 database.session.rollback()
 
 
-async def fetch_push_ghtendings_job():
+async def fetch_push_ghtendings_job() -> int:
     """
-    Get archived contents
+    Start the scrape job
     """
-    archived_contents = get_archived_contents()
-
-    ''' Start the scrape job
-    '''
     languages = ['', 'java', 'python', 'go', 'javascript', 'typescript', 'c', 'c++', 'c#', 'rust', 'html', 'unknown']
     new_trending_count = 0
     for lang in languages:
@@ -406,16 +310,28 @@ async def fetch_push_ghtendings_job():
                 await telegrambot.send_message2bot(format_data)
                 await asyncio.sleep(2)
             await asyncio.sleep(5)
-        write_markdown(lang, results, archived_contents)
-    # release db connection
-    database.session.close()
-    # 推送每日推送结束消息
-    await push_every_day_end(new_trending_count)
+    return new_trending_count
 
 
 async def main():
     # await patch_db_with_repo_info()
-    await fetch_push_ghtendings_job()
+    new_trending_count = await fetch_push_ghtendings_job()
+    # 周末触发生成 telegra.ph 每周热榜周报(已生成过则复用地址)
+    weekly_report_url = ''
+    if is_weekend():
+        try:
+            weekly_report_url = await generate_weekly_report()
+        except Exception as e:
+            print(f">>> 生成本周周报失败: {e}")
+        # 每周更新一次固定统计页(语言分布 + 各语言 Top 榜)
+        try:
+            await update_weekly_stats_page()
+        except Exception as e:
+            print(f">>> 更新统计页失败: {e}")
+    # 推送每日推送结束问候语(周末生成周报时附带周报地址)
+    await push_every_day_end(new_trending_count, weekly_report_url)
+    # release db connection
+    database.session.close()
 
 
 if __name__ == '__main__':

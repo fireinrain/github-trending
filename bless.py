@@ -75,16 +75,23 @@ def format_bless_for_tgchannel(bless_words: str) -> str:
             f'\#trending\_end')
 
 
-def format_bless_for_tgchannel2(bless_words: str, new_trending_count: int) -> str:
+def format_bless_for_tgchannel2(bless_words: str, new_trending_count: int, weekly_report_url: str = '') -> str:
     year = datetime.now().year
     date = generate_date_str()
     week = generate_weekday_str()
-    return (f'📅 {year} {date} {week} • Github Trending\n'
-            f'\n'
-            f'Github热门仓库已推送完毕,共有:`{new_trending_count}`新入榜,快去看看吧:\)🎉\n'
-            f'🥳每日祝福语: \n'
-            f'`{bless_words}`\n'
-            f'\#trending\_end')
+    content = (f'📅 {year} {date} {week} • Github Trending\n'
+               f'\n'
+               f'Github热门仓库已推送完毕,共有:`{new_trending_count}`新入榜,快去看看吧:\)🎉\n'
+               f'🥳每日祝福语: \n'
+               f'`{bless_words}`\n')
+    if weekly_report_url:
+        content += (f'\n'
+                    f'📈 本周热榜周报已新鲜出炉:\n'
+                    f'[👉 点击查看本周周报]({weekly_report_url})\n')
+        hashtags = '\#trending\_end \#weekly\_report'
+    else:
+        hashtags = '\#trending\_end'
+    return content + f'\n{hashtags}'
 
 
 if __name__ == '__main__':
