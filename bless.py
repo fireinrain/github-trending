@@ -1,94 +1,67 @@
-from datetime import datetime
+# coding:utf-8
+"""每日祝福语: 随机文案、日期/星期格式化与当日推送结束消息。"""
 import random
+from datetime import datetime, timedelta
 
-import pytz
-from tgph_report import get_safe_week_range
+from telegrambot import escape_markdown_v2
 
 BLESS_WORDS_DATA = './day-bless.data'
-BLESS_WORDS_DATA_SAMPLE = './day-bless.data.sample'
+
+# 上标/下标数字, 用于拼装 ⁰⁸/₂₈ 风格的日期
+SUPERSCRIPT_DIGITS = ['⁰', '¹', '²', '³', '⁴', '⁵', '⁶', '⁷', '⁸', '⁹']
+SUBSCRIPT_DIGITS = ['₀', '₁', '₂', '₃', '₄', '₅', '₆', '₇', '₈', '₉']
+
+WEEKDAY_DISPLAY = {
+    'Monday': 'Mᴏɴᴅᴀʏ',
+    'Tuesday': 'Tᴜᴇsᴅᴀʏ',
+    'Wednesday': 'Wᴇᴅɴᴇsᴅᴀʏ',
+    'Thursday': 'Tʜᴜʀsᴅᴀʏ',
+    'Friday': 'Fʀɪᴅᴀʏ',
+    'Saturday': 'Sᴀᴛᴜʀᴅᴀʏ',
+    'Sunday': 'Sᴜɴᴅᴀʏ',
+}
 
 
-# 生成格式  ¹¹/₂₂的日期
+def get_safe_week_range() -> str:
+    """本周(周一~周日)范围的 MarkdownV2 转义文案, 例如 '2026-08-24 ~ 2026-08-30'。"""
+    today = datetime.now().date()
+    monday = today - timedelta(days=today.weekday())
+    sunday = monday + timedelta(days=6)
+    return escape_markdown_v2(f'{monday} ~ {sunday}')
+
+
 def generate_date_str() -> str:
+    """生成上标月/下标日风格的日期(如 ⁰⁸/₂₈)。"""
     now = datetime.now()
-
-    # Format the month and day as strings
-    month = now.month  # Full month name as a string
-    day = now.strftime('%d')
-
-    superscript_digits = ['⁰', '¹', '²', '³', '⁴', '⁵', '⁶', '⁷', '⁸', '⁹']
-
-    lowerscript_digits = ['₀', '₁', '₂', '₃', '₄', '₅', '₆', '₇', '₈', '₉']
-
-    month_str = ''.join(superscript_digits[int(digit)] for digit in str(month))
-    day_str = ''.join(lowerscript_digits[int(digit)] for digit in str(day))
-    return f"{month_str}/{day_str}"
+    month_str = ''.join(SUPERSCRIPT_DIGITS[int(digit)] for digit in str(now.month))
+    day_str = ''.join(SUBSCRIPT_DIGITS[int(digit)] for digit in now.strftime('%d'))
+    return f'{month_str}/{day_str}'
 
 
 def generate_weekday_str() -> str:
-    # Define a mapping from normal case to the desired case
-    case_mapping = {
-        'Monday': 'Mᴏɴᴅᴀʏ',
-        'Tuesday': 'Tᴜᴇsᴅᴀʏ',
-        'Wednesday': 'Wᴇᴅɴᴇsᴅᴀʏ',
-        'Thursday': 'Tʜᴜʀsᴅᴀʏ',
-        'Friday': 'Fʀɪᴅᴀʏ',
-        'Saturday': 'Sᴀᴛᴜʀᴅᴀʏ',
-        'Sunday': 'Sᴜɴᴅᴀʏ'
-    }
+    """生成特殊大小写风格的星期(如 Fʀɪᴅᴀʏ)。"""
     current_day = datetime.now().strftime('%A')
-    # Return the formatted weekday
-    return case_mapping.get(current_day, "Unknown Day")
-
-
-def add_more_bless_words(words):
-    with open(BLESS_WORDS_DATA_SAMPLE, 'r') as f:
-        readlines = f.readlines()
-        new_lines = []
-        for i in readlines:
-            if i.strip() == '':
-                print(f"发现空行,已做去除处理")
-                continue
-            else:
-                new_lines.append(i.strip() + "\n")
-        with open(BLESS_WORDS_DATA, 'w+') as ff:
-            ff.writelines(new_lines)
+    return WEEKDAY_DISPLAY.get(current_day, 'Unknown Day')
 
 
 def generate_bless_word() -> str:
+    """从语料库随机选取一行祝福语。"""
     with open(BLESS_WORDS_DATA, 'r') as f:
         readlines = f.readlines()
-        choice = random.choice(readlines)
-        return choice.strip()
+    return random.choice(readlines).strip()
 
 
-def format_bless_for_tgchannel(bless_words: str) -> str:
-    tz = pytz.timezone('Asia/Shanghai')
-    # 获取当前时间，并将其转换为北京时间
-    beijing_time = datetime.now(tz)
-
-    # 格式化输出北京时间
-    formatted_time = beijing_time.strftime("%Y年%m月%d日")
-    current_date = formatted_time
-    return (f'😄今天是: `{current_date}`,Github热门仓库已推送完毕,快去看看吧:\)🎉\n'
-            f'🥳每日祝福语: \n'
-            f'`{bless_words}`\n'
-            f'\#trending\_end')
-
-
-def format_bless_for_tgchannel2(bless_words: str, new_trending_count: int, weekly_report_url: str = '',
-                                week_range: str = '') -> str:
+def format_daily_bless_message(bless_words: str, new_trending_count: int,
+                               weekly_report_url: str = '') -> str:
+    """组装每日推送结束消息; 传入周报地址时附带周报入口与周报话题标签。"""
     year = datetime.now().year
-    date = generate_date_str()
-    week = generate_weekday_str()
-    content = (f'📅 {year} {date} {week} • Github Trending\n'
+    content = (f'📅 {year} {generate_date_str()} {generate_weekday_str()} • Github Trending\n'
                f'\n'
                f'Github热门仓库已推送完毕,共有:`{new_trending_count}`新入榜,快去看看吧:\)🎉\n'
                f'🥳每日祝福语: \n'
                f'`{bless_words}`\n')
     if weekly_report_url:
         week_range = get_safe_week_range()
-
         content += (f'\n'
                     f'📈 本周热榜周报已新鲜出炉({week_range}):\n'
                     f'[👉 点击查看本周周报]({weekly_report_url})\n')
@@ -99,9 +72,6 @@ def format_bless_for_tgchannel2(bless_words: str, new_trending_count: int, weekl
 
 
 if __name__ == '__main__':
-    word = generate_bless_word()
-    tgchannel = format_bless_for_tgchannel(word)
-    print(tgchannel)
+    print(format_daily_bless_message(generate_bless_word(), 12))
     print(generate_weekday_str())
     print(generate_date_str())
-    print(format_bless_for_tgchannel2("你好呀", 12))

@@ -6,7 +6,7 @@
 3. 将返回的文章地址保存到 weekly_report 表(本周已生成过则直接复用,防止重复)
 4. 推送文章地址到 Telegram 频道
 
-由 main.py 自动调用: 每日抓取后更新固定统计页(语言分布 + 各语言 Top50)并把地址回写 README.md;
+由 main.py 自动调用: 每日抓取后更新固定统计页(语言分布 + 各语言 Top 榜)并把地址回写 README.md;
 周末额外生成 telegra.ph 媒体周报, 周报地址附在当日推送结束问候语中;
 也可手动运行: python tgph_report.py
 """
@@ -19,8 +19,6 @@ import re
 import requests
 
 import database
-import telegrambot
-from telegrambot import escape_markdown_v2
 
 TELEGRAPH_API = 'https://api.telegra.ph'
 CHANNEL_URL = 'https://t.me/ghtrendings'
@@ -188,12 +186,6 @@ def save_report_to_db(title: str, monday: datetime.date, sunday: datetime.date,
         database.session.rollback()
 
 
-def get_safe_week_range() -> str:
-    monday, sunday = get_week_range()
-    safe_range = escape_markdown_v2(f'{monday} ~ {sunday}')
-    return safe_range
-
-
 async def generate_weekly_report() -> str:
     """
     生成本周周报并推送, 返回 telegra.ph 地址;
@@ -217,14 +209,6 @@ async def generate_weekly_report() -> str:
     print(f">>> 周报已发布: {telegraph_url}")
     save_report_to_db(title, monday, sunday, len(repos), telegraph_url)
 
-    # safe_range = escape_markdown_v2(f'{monday} ~ {sunday}')
-    # message = (f'📰 GitHub Trending 周报 \({safe_range}\)\n'
-    #            f'\n'
-    #            f'本周共有 `{len(repos)}` 个仓库登上热榜, 完整报告请戳:\n'
-    #            f'[📖 点击阅读本周周报]({telegraph_url})\n'
-    #            f'\n'
-    #            f'\#weekly\_report')
-    # await telegrambot.send_message2bot(message)
     return telegraph_url
 
 
