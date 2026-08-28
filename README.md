@@ -13,6 +13,12 @@
 ![](resource/sample1.jpg)
 ![](resource/sample2.jpg)
 
+<!-- STATS_PAGE:START -->
+📊 固定统计页: [📊 GitHub Trending 数据统计](https://telegra.ph/GitHub-Trending-数据统计-08-28)
+> 语言分布 · 各语言 ⭐Star/🔥上榜次数 Top 榜 · 每日自动更新  
+> 最近数据更新: **2026-08-28**
+<!-- STATS_PAGE:END -->
+
 ## 功能
 - 每日定时抓取多语言 GitHub Trending 榜单（All/Java/Python/Go/Javascript/Typescript/C/C++/C#/Rust/Html）
 - 新上榜仓库实时推送到 Telegram 频道，附带 watch/fork/star 统计数据
