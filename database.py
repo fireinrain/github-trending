@@ -30,6 +30,7 @@ class GithubTrending(Base):
 class EveryDayBless(Base):
     __tablename__ = 'every_day_bless'
     id = Column(Integer, primary_key=True, autoincrement=True)
+    push_date = Column(String, nullable=False)
     push_flag = Column(Boolean, default=False)
 
 
@@ -72,6 +73,30 @@ class TelegraphAccount(Base):
 # Example usage
 engine = create_engine('sqlite:///github-trending.db', echo=True)
 Base.metadata.create_all(engine)
+
+
+def _migrate_every_day_bless():
+    """兼容旧版 every_day_bless 表(仅有 push_flag), 新增 push_date 列并清理历史记录,
+    否则旧表缺少 push_date 列会导致按日期查询报错."""
+    try:
+        with engine.connect() as conn:
+            exists = conn.execute(
+                text("SELECT name FROM sqlite_master WHERE type='table' AND name='every_day_bless'")
+            ).fetchone()
+            if not exists:
+                return
+            columns = [row[1] for row in conn.execute(text("PRAGMA table_info(every_day_bless)"))]
+            if 'push_date' not in columns:
+                conn.execute(text("ALTER TABLE every_day_bless ADD COLUMN push_date VARCHAR"))
+                # 历史脏数据(已推送过的旧记录)不再复用, 删除以便当天正常推送祝福
+                conn.execute(text("DELETE FROM every_day_bless"))
+                print(">>> 迁移 every_day_bless 表完成: 新增 push_date 列并清理历史记录")
+            conn.commit()
+    except Exception as e:
+        print(f">>> 迁移 every_day_bless 表失败: {e}")
+
+
+_migrate_every_day_bless()
 
 Session = sessionmaker(bind=engine)
 session = Session()

@@ -13,7 +13,7 @@ import database
 import telegrambot
 from telegrambot import escape_markdown_v2
 from bless import generate_bless_word, format_bless_for_tgchannel2
-from tgph_report import generate_weekly_report, is_weekend, update_daily_stats_page
+from tgph_report import generate_weekly_report, is_weekend, update_daily_stats_page,get_safe_week_range
 
 ua = UserAgent()
 
@@ -255,39 +255,20 @@ async def patch_db_with_repo_info():
 
 
 async def push_every_day_end(new_trending_count: int, weekly_report_url: str = '',week_range: str = ''):
-    bless_first = database.session.query(EveryDayBless).first()
-    if not bless_first:
-        bless = EveryDayBless(push_flag=False)
+    today = datetime.now().strftime("%Y-%m-%d")
+    bless_query = database.session.query(EveryDayBless).filter(EveryDayBless.push_date == today).all()
+    if not bless_query:
+        # 今天还没推送过,新插入一条今天记录并推送
+        word = generate_bless_word()
+        for_tgchannel = format_bless_for_tgchannel2(word, new_trending_count, weekly_report_url)
+        await telegrambot.send_message2bot(for_tgchannel)
+        bless = EveryDayBless(push_date=today, push_flag=True)
         try:
             database.session.add(bless)
             database.session.commit()
         except Exception as e:
             print(f"创建记录失败: {e}")
             database.session.rollback()
-        # do push and update record
-        word = generate_bless_word()
-        for_tgchannel = format_bless_for_tgchannel2(word, new_trending_count, weekly_report_url)
-        await telegrambot.send_message2bot(for_tgchannel)
-        bless.push_flag = True
-        try:
-            database.session.commit()
-        except Exception as e:
-            print(f"更新记录失败: {e}")
-            database.session.rollback()
-
-    else:
-        flag = bless_first.push_flag
-        if not flag:
-            # do push and update record
-            word = generate_bless_word()
-            for_tgchannel = format_bless_for_tgchannel2(word, new_trending_count, weekly_report_url,week_range)
-            await telegrambot.send_message2bot(for_tgchannel)
-            bless_first.push_flag = True
-            try:
-                database.session.commit()
-            except Exception as e:
-                print(f"更新记录失败: {e}")
-                database.session.rollback()
 
 
 async def fetch_push_ghtendings_job() -> int:
@@ -320,7 +301,7 @@ async def main():
     weekly_report_url = ''
     if is_weekend():
         try:
-            weekly_report_url,week_range = await generate_weekly_report()
+            weekly_report_url = await generate_weekly_report()
         except Exception as e:
             print(f">>> 生成本周周报失败: {e}")
     # 每天更新固定统计页(语言分布 + 各语言 Top50), 并把地址回写到 README.md
@@ -329,7 +310,7 @@ async def main():
     except Exception as e:
         print(f">>> 更新统计页失败: {e}")
     # 推送每日推送结束问候语(周末生成周报时附带周报地址)
-    await push_every_day_end(new_trending_count, weekly_report_url,week_range)
+    await push_every_day_end(new_trending_count, weekly_report_url)
     # release db connection
     database.session.close()
 

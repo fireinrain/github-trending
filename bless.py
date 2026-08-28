@@ -2,6 +2,7 @@ from datetime import datetime
 import random
 
 import pytz
+from tgph_report import get_safe_week_range
 
 BLESS_WORDS_DATA = './day-bless.data'
 BLESS_WORDS_DATA_SAMPLE = './day-bless.data.sample'
@@ -75,7 +76,8 @@ def format_bless_for_tgchannel(bless_words: str) -> str:
             f'\#trending\_end')
 
 
-def format_bless_for_tgchannel2(bless_words: str, new_trending_count: int, weekly_report_url: str = '',week_range:str = '') -> str:
+def format_bless_for_tgchannel2(bless_words: str, new_trending_count: int, weekly_report_url: str = '',
+                                week_range: str = '') -> str:
     year = datetime.now().year
     date = generate_date_str()
     week = generate_weekday_str()
@@ -85,6 +87,8 @@ def format_bless_for_tgchannel2(bless_words: str, new_trending_count: int, weekl
                f'🥳每日祝福语: \n'
                f'`{bless_words}`\n')
     if weekly_report_url:
+        week_range = get_safe_week_range()
+
         content += (f'\n'
                     f'📈 本周热榜周报已新鲜出炉({week_range}):\n'
                     f'[👉 点击查看本周周报]({weekly_report_url})\n')
@@ -100,4 +104,4 @@ if __name__ == '__main__':
     print(tgchannel)
     print(generate_weekday_str())
     print(generate_date_str())
-    print(format_bless_for_tgchannel2("你好呀",12))
+    print(format_bless_for_tgchannel2("你好呀", 12))

@@ -68,10 +68,29 @@ def query_week_trending(start_date: datetime.date, end_date: datetime.date) -> l
     )
 
 
-def build_telegraph_content(repos: list, monday: datetime.date, sunday: datetime.date) -> list:
+def _content_size_bytes(content: list) -> int:
+    """content JSON 编码后的字节数"""
+    return len(json.dumps(content, ensure_ascii=False).encode('utf-8'))
+
+
+def _trim_stats_content(repos: list, update_date: str) -> list:
+    """从 TOP_N_PER_LANGUAGE 起逐级缩减每语言展示数, 直到 content 不超 telegra.ph 限制"""
+    for top_n in (TOP_N_PER_LANGUAGE, 30, 20, 10, 5):
+        content = build_stats_content(repos, update_date, top_n=top_n)
+        if _content_size_bytes(content) <= TELEGRAPH_CONTENT_LIMIT:
+            if top_n < TOP_N_PER_LANGUAGE:
+                print(f">>> 统计页内容过大, 已缩减为每语言 Top{top_n}")
+            return content
+    content = build_stats_content(repos, update_date, top_n=1)
+    print(">>> 统计页内容仍超限, 已强制缩减为每语言 Top1")
+    return content
+
+
+def build_telegraph_content(repos: list, monday: datetime.date, sunday: datetime.date,
+                            with_desc: bool = True) -> list:
     """
     构建 Telegraph Node 格式内容, 按语言分组展示:
-    链接 + watch/fork/star 统计 + 上榜次数 + 简介
+    链接 + watch/fork/star 统计 + 上榜次数 + 简介(with_desc=False 时省略简介以减小体积)
     """
     sections = {}
     for repo in repos:
@@ -90,10 +109,11 @@ def build_telegraph_content(repos: list, monday: datetime.date, sunday: datetime
                 {'tag': 'a', 'attrs': {'href': repo.url}, 'children': [repo.title]},
                 f' ⭐{repo.repo_star} | 🍴{repo.repo_folk} | 👀{repo.repo_see} | 上榜 {repo.trend_count} 次',
             ]
-            desc = _short_desc(repo.desc, limit=120)
-            if desc:
-                children.append({'tag': 'br'})
-                children.append(desc)
+            if with_desc:
+                desc = _short_desc(repo.desc, limit=120)
+                if desc:
+                    children.append({'tag': 'br'})
+                    children.append(desc)
             repo_nodes.append({'tag': 'li', 'children': children})
         content.append({'tag': 'ul', 'children': repo_nodes})
     return content
@@ -168,7 +188,13 @@ def save_report_to_db(title: str, monday: datetime.date, sunday: datetime.date,
         database.session.rollback()
 
 
-async def generate_weekly_report() -> (str, str):
+def get_safe_week_range() -> str:
+    monday, sunday = get_week_range()
+    safe_range = escape_markdown_v2(f'{monday} ~ {sunday}')
+    return safe_range
+
+
+async def generate_weekly_report() -> str:
     """
     生成本周周报并推送, 返回 telegra.ph 地址;
     本周没有数据返回空串, 已生成过则直接返回已有地址。
@@ -191,7 +217,7 @@ async def generate_weekly_report() -> (str, str):
     print(f">>> 周报已发布: {telegraph_url}")
     save_report_to_db(title, monday, sunday, len(repos), telegraph_url)
 
-    safe_range = escape_markdown_v2(f'{monday} ~ {sunday}')
+    # safe_range = escape_markdown_v2(f'{monday} ~ {sunday}')
     # message = (f'📰 GitHub Trending 周报 \({safe_range}\)\n'
     #            f'\n'
     #            f'本周共有 `{len(repos)}` 个仓库登上热榜, 完整报告请戳:\n'
@@ -199,7 +225,7 @@ async def generate_weekly_report() -> (str, str):
     #            f'\n'
     #            f'\#weekly\_report')
     # await telegrambot.send_message2bot(message)
-    return telegraph_url, safe_range
+    return telegraph_url
 
 
 # ==================== 固定统计页 ====================
@@ -207,6 +233,9 @@ async def generate_weekly_report() -> (str, str):
 STATS_PAGE_TITLE = '📊 GitHub Trending 数据统计'
 TOP_N_PER_LANGUAGE = 50
 BAR_WIDTH = 16
+
+# telegra.ph 接口限制: content(JSON 编码后) 不得超过 64KB
+TELEGRAPH_CONTENT_LIMIT = 64 * 1024
 
 
 def _norm_category(category) -> str:
@@ -233,7 +262,7 @@ def query_all_trending() -> list:
     )
 
 
-def build_stats_content(repos: list, update_date: str) -> list:
+def build_stats_content(repos: list, update_date: str, top_n: int = TOP_N_PER_LANGUAGE) -> list:
     """
     构建固定统计页内容:
     总览(更新日期/总量) -> 语言分布条形图 -> 各语言 Top 榜(star降序,上榜次数次序)
@@ -270,7 +299,7 @@ def build_stats_content(repos: list, update_date: str) -> list:
         items = sorted(lang_map[category],
                        key=lambda r: (r.repo_star or 0, r.trend_count or 0),
                        reverse=True)
-        show = items[:TOP_N_PER_LANGUAGE]
+        show = items[:top_n]
         nodes.append({'tag': 'hr'})
         nodes.append({'tag': 'h3', 'children': [f'{label(category)}({len(items)})']})
         nodes.append({
@@ -362,7 +391,7 @@ def write_stats_page_to_readme(telegraph_url: str, update_date: str):
 
     block = (f'{STATS_BLOCK_START}\n'
              f'📊 固定统计页: [{STATS_PAGE_TITLE}]({telegraph_url})\n'
-             f'> 语言分布 · 各语言 ⭐Star/🔥上榜次数 Top50 榜 · 每日自动更新  \n'
+             f'> 语言分布 · 各语言 ⭐Star/🔥上榜次数 Top 榜 · 每日自动更新  \n'
              f'> 最近数据更新: **{update_date}**\n'
              f'{STATS_BLOCK_END}')
 
@@ -402,7 +431,7 @@ async def update_daily_stats_page(force: bool = False) -> str:
         print(">>> 数据库中没有仓库数据, 跳过统计页生成")
         return ''
 
-    content = build_stats_content(repos, update_date)
+    content = _trim_stats_content(repos, update_date)
     if record and record.path:
         try:
             page = _update_stats_page(record.path, content)
