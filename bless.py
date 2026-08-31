@@ -57,17 +57,17 @@ def format_daily_bless_message(bless_words: str, new_trending_count: int,
     year = datetime.now().year
     content = (f'📅 {year} {generate_date_str()} {generate_weekday_str()} • Github Trending\n'
                f'\n'
-               f'Github热门仓库已推送完毕,共有:`{new_trending_count}`新入榜,快去看看吧:\)🎉\n'
+               f'Github热门仓库已推送完毕,共有:`{new_trending_count}`新入榜,快去看看吧:\\)🎉\n'
                f'🥳每日祝福语: \n'
                f'`{bless_words}`\n')
     if weekly_report_url:
         week_range = get_safe_week_range()
         content += (f'\n'
-                    f'📈 本周热榜周报已新鲜出炉({week_range}):\n'
+                    f'📈 本周热榜周报已新鲜出炉\\({week_range}\\):\n'
                     f'[👉 点击查看本周周报]({weekly_report_url})\n')
-        hashtags = '\#trending\_end \#weekly\_report'
+        hashtags = '\\#trending\\_end \\#weekly\\_report'
     else:
-        hashtags = '\#trending\_end'
+        hashtags = '\\#trending\\_end'
     return content + f'\n{hashtags}'
 
 

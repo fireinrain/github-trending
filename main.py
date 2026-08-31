@@ -125,8 +125,8 @@ def format_trending_tg_message(message: dict, lang: str, repo_stats: tuple) -> s
 
     return (f"`{escaped_title}`\n"
             f"`{escaped_description}`\n"
-            f"[Repo URL]({message['url']}) \| `👀{repo_stats[0]}` `🍴{repo_stats[1]}` `⭐{repo_stats[2]}`\n"
-            f"\#D{formatted_date} \#D{formatted_date}\_{lang} \#{lang}")
+            f"[Repo URL]({message['url']}) \\| `👀{repo_stats[0]}` `🍴{repo_stats[1]}` `⭐{repo_stats[2]}`\n"
+            f"\\#D{formatted_date} \\#D{formatted_date}\\_{lang} \\#{lang}")
 
 
 def check_and_store_db(value: dict, lang: str) -> (dict, bool, tuple):
