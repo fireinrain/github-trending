@@ -1,4 +1,3 @@
-import io
 import os
 
 def get_repo_name(line):
@@ -9,14 +8,14 @@ def get_repo_name(line):
 
 def addstar(file):
     convert_lines = []
-    with io.open(file, 'r', encoding='utf8') as f:
+    with open(file, 'r', encoding='utf8') as f:
         lines = f.readlines()
         for line in lines:
             if line.startswith('* 【'):
                 convert_lines.append(line.strip() + ' ![](https://img.shields.io/github/stars/' + get_repo_name(line) + '?style=social)\n')
             else:
                 convert_lines.append(line)
-    with io.open(file, 'w', encoding='utf8') as f:
+    with open(file, 'w', encoding='utf8') as f:
         f.writelines(convert_lines)
 
 if __name__ == '__main__':
