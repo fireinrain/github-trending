@@ -25,6 +25,8 @@ class GithubTrending(Base):
     del_flag = Column(Boolean, default=False)
     create_time = Column(DateTime, server_default=text('CURRENT_TIMESTAMP'))
     update_time = Column(DateTime, server_default=text('CURRENT_TIMESTAMP'), onupdate=datetime.now)
+    # 上次推送到 Telegram 的时间; 与 update_time(上次上榜时间)区分开
+    last_push_time = Column(DateTime)
 
 
 class EveryDayBless(Base):
@@ -96,7 +98,26 @@ def _migrate_every_day_bless():
         print(f">>> 迁移 every_day_bless 表失败: {e}")
 
 
+def _migrate_gh_trending_last_push_time():
+    """兼容旧版 gh_trending 表(无 last_push_time), 新增列并回填首次入库日期。
+
+    旧逻辑下每个仓库只推送过一次, 首次入库日期即首次(唯一一次)推送日期,
+    因此用它作为回溯的 last_push_time, 让超过推送间隔的仓库可以立即再次推送。
+    """
+    try:
+        with engine.connect() as conn:
+            columns = [row[1] for row in conn.execute(text("PRAGMA table_info(gh_trending)"))]
+            if 'last_push_time' not in columns:
+                conn.execute(text("ALTER TABLE gh_trending ADD COLUMN last_push_time DATETIME"))
+                conn.execute(text("UPDATE gh_trending SET last_push_time = trend_date || ' 00:00:00'"))
+                conn.commit()
+                print(">>> 迁移 gh_trending 表完成: 新增 last_push_time 列并回填首次推送日期")
+    except Exception as e:
+        print(f">>> 迁移 gh_trending 表失败: {e}")
+
+
 _migrate_every_day_bless()
+_migrate_gh_trending_last_push_time()
 
 Session = sessionmaker(bind=engine)
 session = Session()
