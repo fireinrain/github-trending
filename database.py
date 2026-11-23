@@ -121,15 +121,3 @@ _migrate_gh_trending_last_push_time()
 
 Session = sessionmaker(bind=engine)
 session = Session()
-
-
-def reset_push_time(title: str):
-    """推送失败时清空 last_push_time, 使该仓库下次运行可以重新推送。"""
-    try:
-        result = session.query(GithubTrending).filter_by(title=title).first()
-        if result:
-            result.last_push_time = None
-            session.commit()
-    except Exception as e:
-        print(f">>> 重置推送时间失败: {e}")
-        session.rollback()
