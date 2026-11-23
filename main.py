@@ -17,9 +17,6 @@ from tgph_report import generate_weekly_report, is_weekend, update_daily_stats_p
 
 ua = UserAgent()
 
-# 同一仓库距上次推送不足该天数时跳过; 满该天数后允许再次推送
-REPUSH_INTERVAL_DAYS = 7
-
 gh_token_info = {'code': os.environ.get('GH_TOKEN'), 'valid': True}
 
 
@@ -149,26 +146,14 @@ def check_and_store_db(value: dict, lang: str) -> (dict, bool, tuple):
         result.repo_status = 1
         # 仓库被删除了 404
 
-        last_push = result.last_push_time
-        pushed_recently = (
-                last_push is not None
-                and (datetime.now() - last_push).days < REPUSH_INTERVAL_DAYS
-        )
-        if not pushed_recently:
-            # 距上次推送已满 REPUSH_INTERVAL_DAYS 天, 刷新推送时间并允许再次推送
-            result.last_push_time = datetime.now()
-
         try:
             database.session.commit()
         except Exception as e:
             print(f">>> 更新Github trending记录失败: {e}")
             database.session.rollback()
 
-        if pushed_recently:
-            print(f">>> Title: {result.title}, URL: {result.url}, Description: {result.desc},最近{REPUSH_INTERVAL_DAYS}天已推送过,做跳过处理")
-            return value, True, repo_stats
-        print(f">>> Title: {result.title}, URL: {result.url}, Description: {result.desc},距上次推送超过{REPUSH_INTERVAL_DAYS}天,将再次推送")
-        return value, False, repo_stats
+        print(f">>> Title: {result.title}, URL: {result.url}, Description: {result.desc},当前仓库已经推送过,做跳过处理")
+        return value, True, repo_stats
     # insert to db
     # 获取当前日期
     repo_stats = fetch_repo_stats(value['title'])
@@ -191,7 +176,6 @@ def check_and_store_db(value: dict, lang: str) -> (dict, bool, tuple):
         repo_folk=repo_stats[1],
         repo_star=repo_stats[2],
         repo_status=1,
-        last_push_time=datetime.now(),
     )
     try:
         database.session.add(data)
