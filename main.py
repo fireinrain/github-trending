@@ -284,9 +284,12 @@ async def fetch_and_push_trending() -> int:
             value, have_push, repo_stats = check_and_store_db(value, lang)
             if not have_push:
                 print(f">>> 发现新的github trending记录,正在推送到telegram 频道...")
-                new_trending_count += 1
                 message = format_trending_tg_message(value, lang, repo_stats)
-                await telegrambot.send_message(message)
+                if await telegrambot.send_message(message):
+                    new_trending_count += 1
+                else:
+                    # 推送失败则清空推送时间, 下次运行会重新尝试, 避免消息丢失
+                    database.reset_push_time(value['title'])
                 await asyncio.sleep(2)
             await asyncio.sleep(5)
     return new_trending_count
